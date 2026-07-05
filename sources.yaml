@@ -13,6 +13,14 @@ ics:
   #   tags: [music]
 
 venues:
+  - name: Soul Sanctuary
+    url: https://andsoulsanctuary.com/book-now
+    tags: [dance, community]
+    # ecstatic dance / conscious movement events
+  - name: Newspeak House
+    url: https://newspeak.house/#events
+    tags: [tech, talk, community]
+    # political-tech community space in Bethnal Green — talks, socials
   - name: Somerset House
     url: https://www.somersethouse.org.uk/whats-on
     tags: [art, music]
@@ -22,8 +30,26 @@ venues:
   - name: Southbank Centre
     url: https://www.southbankcentre.co.uk/whats-on
     tags: [music, talk, art]
+  - name: Rich Mix (Shoreditch)
+    url: https://richmix.org.uk/whats-on/
+    tags: [film, music, art, community]
 
 listings:
+  - name: 5Rhythms — GB class search
+    url: "https://www.5rhythms.com/EventSearch.php?validate_event_level=&event_type_id=1&event_country=GB&event_state=&event_city%5B%5D=&event_days%5B%5D=&event_startDate=mm%2Fdd%2Fyy&event_endDate=mm%2Fdd%2Fyy&location_lat=&location_long=&findIt=FIND+IT&isAdvancedSearch=0&SearchName=&SearchEvent=&event_level_id%5B%5D="
+    tags: [dance]
+    # IMPORTANT: search covers all of Great Britain — only add events located in London
+  - name: Thursday — London dating events
+    url: https://www.thursday.com/events/london
+    tags: [community]
+  - name: Ceroc — find classes
+    url: https://www.ceroc.com/find-a-class/
+    tags: [dance, class]
+    # prefer east/central London venues
+  - name: LessWrong community events
+    url: https://www.lesswrong.com/community
+    tags: [talk, community]
+    # filter to London events only
   - name: Time Out London – things to do this week
     url: https://www.timeout.com/london/things-to-do/things-to-do-in-london-this-weekend
     tags: []
@@ -35,9 +61,22 @@ listings:
     tags: [community]
 
 keywords:
+  - "circling authentic relating London"
+  - "authentic relating games London"
+  - "Alexander Technique workshop London"
+  - "ecstatic dance London"
+  - "Ceroc class London"
+  - "5Rhythms London"
+  - "LessWrong London meetup"
+  - "ACX Astral Codex Ten London meetup"
+  - "singles dating event Shoreditch"
+  - "events Bethnal Green this week"
+  - "events Shoreditch this week"
   - "pottery class London"
   - "cooking workshop London"
-  - "live jazz London this week"
+  - "indie folk gig London this week"
+  - "pub gig Bethnal Green Shoreditch live music"
+  - "small venue gig east London this week"
   - "science talk London"
   - "outdoor cinema London"
   - "supper club London"
