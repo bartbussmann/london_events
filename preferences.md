@@ -5,9 +5,9 @@ calendar. Edit it whenever your tastes change — no other configuration needed.
 
 ## Who this calendar is for
 
-A curious person based around Bethnal Green / Shoreditch in east London who
-likes learning new things, dancing, being social, and discovering places —
-not a tourist checklist.
+A curious 31-year-old straight man based around Bethnal Green / Shoreditch in
+east London who likes learning new things, dancing, being social, and
+discovering places — not a tourist checklist.
 
 ## Things I'm interested in
 
@@ -17,7 +17,9 @@ not a tourist checklist.
   relating games/workshops, Alexander Technique lessons and intro workshops
 - Rationality community: LessWrong / ACX / adjacent meetups and talks in London
 - Dating and singles events: Thursday app events and other quality singles
-  socials (hobby-based or activity-based ones especially)
+  socials (hobby-based or activity-based ones especially). Only mixed
+  male/female events whose age bracket includes 31 (e.g. 23-35, 28-40);
+  skip LGBTQ+-specific, women-only, and 40+ events
 - Hands-on classes and workshops: pottery/ceramics, cooking, crafts, life drawing
 - Live music, especially indie, folk, and small intimate venues — small pub gigs and
   tiny venues in Bethnal Green/Shoreditch are a top priority (think back rooms,
