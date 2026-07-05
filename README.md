@@ -47,6 +47,14 @@ python3 -m http.server 8000   # then open http://localhost:8000
 python3 scripts/build.py      # after editing data/events.json
 ```
 
+## Troubleshooting
+
+- **Site not updating after a push to `main`?** Check the
+  [Actions tab](https://github.com/bartbussmann/london_events/actions):
+  GitHub Pages occasionally fails its final deploy step with a transient
+  "Deployment failed, try again later." Re-run the failed workflow from the
+  Actions UI (or push any new commit) and it goes through.
+
 ## Tuning
 
 - More/different sources → edit `sources.yaml`
