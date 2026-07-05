@@ -1,0 +1,43 @@
+# Sources the event agents check on every sweep.
+# Edit freely — agents re-read this file at the start of each run.
+#
+# Sections:
+#   ics:      public calendar feeds, parsed deterministically (most reliable)
+#   venues:   venue/studio websites whose what's-on pages the agent reads
+#   listings: aggregator search/category pages the agent skims
+#   keywords: web searches the agent runs to discover new things
+
+ics:
+  # - name: Example venue calendar
+  #   url: https://example.com/events.ics
+  #   tags: [music]
+
+venues:
+  - name: Somerset House
+    url: https://www.somersethouse.org.uk/whats-on
+    tags: [art, music]
+  - name: Barbican Centre
+    url: https://www.barbican.org.uk/whats-on
+    tags: [art, music, film, talk]
+  - name: Southbank Centre
+    url: https://www.southbankcentre.co.uk/whats-on
+    tags: [music, talk, art]
+
+listings:
+  - name: Time Out London – things to do this week
+    url: https://www.timeout.com/london/things-to-do/things-to-do-in-london-this-weekend
+    tags: []
+  - name: Eventbrite – classes in London
+    url: https://www.eventbrite.co.uk/d/united-kingdom--london/classes/
+    tags: [class]
+  - name: Meetup – events in London
+    url: https://www.meetup.com/find/?location=gb--london&source=EVENTS
+    tags: [community]
+
+keywords:
+  - "pottery class London"
+  - "cooking workshop London"
+  - "live jazz London this week"
+  - "science talk London"
+  - "outdoor cinema London"
+  - "supper club London"

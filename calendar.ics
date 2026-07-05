@@ -1,0 +1,419 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//london_events//event-agents//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:London Events
+X-WR-TIMEZONE:Europe/London
+BEGIN:VEVENT
+UID:holy-pop-exhibition-e21f88ea@london-events
+DTSTAMP:20260706T090000Z
+DTSTART:20260706T090000Z
+DTEND:20260706T170000Z
+SUMMARY:Holy Pop! (exhibition)
+DESCRIPTION:Exhibition on contemporary shrine culture and fan devotion —
+  from Princess Diana memorials to Nina Simone's chewing gum — featuring
+  20 artists across three themed rooms. Runs until 9 August 2026\; date sh
+ own is a sample open day.\nPrice: Pay What You Can\nhttps://www.somerseth
+ ouse.org.uk/whats-on/holy-pop
+URL:https://www.somersethouse.org.uk/whats-on/holy-pop
+LOCATION:Somerset House\, Terrace Rooms\, Strand\, WC2R 1LA
+END:VEVENT
+BEGIN:VEVENT
+UID:wes-anderson-the-archives-exhibition-acc0c7ac@london-events
+DTSTAMP:20260706T090000Z
+DTSTART:20260706T090000Z
+DTEND:20260706T160000Z
+SUMMARY:Wes Anderson: The Archives (exhibition)
+DESCRIPTION:First retrospective of Wes Anderson's filmmaking\, with over 7
+ 00 objects from his personal archives — storyboards\, props\, puppets\,
+  costumes and miniature sets from The Grand Budapest Hotel\, Fantastic Mr
+ . Fox and more. Extended until 16 August 2026\; date shown is a sample op
+ en day.\nPrice: From £20.69\nhttps://designmuseum.org/exhibitions/wes-an
+ derson-the-archives
+URL:https://designmuseum.org/exhibitions/wes-anderson-the-archives
+LOCATION:Design Museum\, 224-238 Kensington High Street\, W8 6AG
+END:VEVENT
+BEGIN:VEVENT
+UID:salsamotion-monday-salsa-classes-social-f6217f03@london-events
+DTSTAMP:20260706T173000Z
+DTSTART:20260706T173000Z
+DTEND:20260706T203000Z
+SUMMARY:Salsamotion Monday Salsa Classes & Social
+DESCRIPTION:Weekly Monday salsa night in south-east London with classes fo
+ r multiple levels followed by social dancing\, structured enough for comp
+ lete beginners. Runs every Monday\; 6 July is the next occurrence.\nhttps
+ ://www.salsavida.com/event/united-kingdom/england/london/salsamotion-mond
+ ay-salsa-classes-and-social/
+URL:https://www.salsavida.com/event/united-kingdom/england/london/salsamot
+ ion-monday-salsa-classes-and-social/
+LOCATION:Lochaber Hall Community Centre\, Manor Lane Terrace\, Lewisham\, 
+ London SE13 5QL
+END:VEVENT
+BEGIN:VEVENT
+UID:solo-jazz-class-with-anna-swingdanceuk-d03b6f9d@london-events
+DTSTAMP:20260706T181500Z
+DTSTART:20260706T181500Z
+DTEND:20260706T191500Z
+SUMMARY:Solo Jazz Class with Anna (SwingdanceUK)
+DESCRIPTION:Drop-in solo jazz dance class on Monday evenings taught by Ann
+ a of SwingdanceUK — learn vintage jazz steps with no partner needed. £
+ 12 drop-in per class.\nPrice: £12\nhttps://swingdanceuk.com/classes/work
+ shops/
+URL:https://swingdanceuk.com/classes/workshops/
+LOCATION:Studio 2\, City Sport\, 124 Goswell Road\, London EC1V 7DP
+END:VEVENT
+BEGIN:VEVENT
+UID:project-a-black-planet-the-art-and-culture-of-panafrica-exhi-46ee5be4@
+ london-events
+DTSTAMP:20260707T090000Z
+DTSTART:20260707T090000Z
+DTEND:20260707T170000Z
+SUMMARY:Project a Black Planet: The Art and Culture of Panafrica (exhibiti
+ on)
+DESCRIPTION:Major exhibition exploring Pan-Africanism's impact on art and 
+ culture from the 1920s to today through 300+ works\, including Chris Ofil
+ i\, Marlene Dumas and Claudette Johnson. Runs 11 June – 6 September 202
+ 6 (closed Mondays)\; date shown is a sample open day.\nPrice: £20.50\nht
+ tps://www.barbican.org.uk/whats-on/2026/event/project-a-black-planet-the-
+ art-and-culture-of-panafrica
+URL:https://www.barbican.org.uk/whats-on/2026/event/project-a-black-planet
+ -the-art-and-culture-of-panafrica
+LOCATION:Barbican Art Gallery\, Silk Street\, EC2Y 8DS
+END:VEVENT
+BEGIN:VEVENT
+UID:london-on-board-tuesday-evening-board-gaming-728b209d@london-events
+DTSTAMP:20260707T170000Z
+DTSTART:20260707T170000Z
+DTEND:20260707T190000Z
+SUMMARY:London On Board: Tuesday Evening Board Gaming
+DESCRIPTION:Friendly weekly board game meetup run by London On Board\, one
+  of the city's biggest gaming groups — turn up solo and join a table. F
+ ree with RSVP\; attendees are expected to buy food or drink at the pub.\n
+ Price: Free\nhttps://www.meetup.com/londononboard/
+URL:https://www.meetup.com/londononboard/
+LOCATION:The Prince Alfred\, 112 Queensway\, London W2
+END:VEVENT
+BEGIN:VEVENT
+UID:gilberto-gil-live-at-the-roundhouse-350f76f7@london-events
+DTSTAMP:20260707T180000Z
+DTSTART:20260707T180000Z
+DTEND:20260707T200000Z
+SUMMARY:Gilberto Gil: Live at the Roundhouse
+DESCRIPTION:Brazilian music legend Gilberto Gil performs classics from his
+  six-decade career spanning samba\, reggae and Afro-Brazilian rhythms\, j
+ oined on stage by his children for an intimate multigenerational show.\nP
+ rice: £77.75–£112.25\nhttps://www.roundhouse.org.uk/whats-on/gilberto
+ -gil/
+URL:https://www.roundhouse.org.uk/whats-on/gilberto-gil/
+LOCATION:Roundhouse\, Chalk Farm Road\, NW1 8EH
+END:VEVENT
+BEGIN:VEVENT
+UID:beginner-s-social-at-city-bouldering-stratford-2c46c374@london-events
+DTSTAMP:20260707T180000Z
+DTSTART:20260707T180000Z
+DTEND:20260707T190000Z
+SUMMARY:Beginner's Social at City Bouldering Stratford
+DESCRIPTION:A weekly Tuesday social for new boulderers to learn climbing f
+ undamentals and meet fellow climbers in a supportive setting\; booking in
+ cludes two weeks of free climbing afterwards. Recurring every Tuesday.\nh
+ ttps://www.citybouldering.co.uk/events/beginner
+URL:https://www.citybouldering.co.uk/events/beginner
+LOCATION:City Bouldering Stratford\, 234 High Street\, London E15 2JA
+END:VEVENT
+BEGIN:VEVENT
+UID:rub-n-blades-roberto-delgado-big-band-4ec861ad@london-events
+DTSTAMP:20260708T180000Z
+DTSTART:20260708T180000Z
+DTEND:20260708T200000Z
+SUMMARY:Rubén Blades + Roberto Delgado Big Band
+DESCRIPTION:Farewell-tour show from the salsa icon\, his first UK appearan
+ ce in over a decade\, with the Roberto Delgado Big Band delivering jazz-i
+ nfused salsa and Afro-Cuban rhythms. Doors 7pm\, Blades on stage 8:20pm.\
+ nPrice: £65\nhttps://www.roundhouse.org.uk/whats-on/ruben-blades/
+URL:https://www.roundhouse.org.uk/whats-on/ruben-blades/
+LOCATION:Roundhouse\, Chalk Farm Road\, NW1 8EH
+END:VEVENT
+BEGIN:VEVENT
+UID:free-outdoor-yoga-with-moreyoga-at-wembley-park-ecb8a632@london-events
+DTSTAMP:20260710T090000Z
+DTSTART:20260710T090000Z
+DTEND:20260710T100000Z
+SUMMARY:Free Outdoor Yoga with MoreYoga at Wembley Park
+DESCRIPTION:Gentle outdoor Vinyasa flow session led by MoreYoga instructor
+  Ingrid Falcao\, open to all levels with mats provided first come first s
+ erved. Runs every Friday morning until 7 August 2026\; free but booking v
+ ia Eventbrite required.\nPrice: Free\nhttps://wembleypark.com/things-to-d
+ o/summer-rocks-outdoor-yoga-26/
+URL:https://wembleypark.com/things-to-do/summer-rocks-outdoor-yoga-26/
+LOCATION:Elvin Gardens\, Wembley Park\, Elvin Gardens\, Wembley Park\, Lon
+ don HA9
+END:VEVENT
+BEGIN:VEVENT
+UID:life-drawing-after-work-4-week-course-301abab7@london-events
+DTSTAMP:20260710T173000Z
+DTSTART:20260710T173000Z
+DTEND:20260710T193000Z
+SUMMARY:Life Drawing After Work (4-week course)
+DESCRIPTION:Relaxed Friday-evening life drawing course with tutor Joe Rich
+ ardson\, drawing a variety of life models in different materials and pose
+ s — no experience needed. Four weekly sessions starting 10 July.\nPrice
+ : £159\nhttps://www.citylit.ac.uk/courses/life-drawing-after-work
+URL:https://www.citylit.ac.uk/courses/life-drawing-after-work
+LOCATION:City Lit\, Keeley Street\, Covent Garden\, London WC2B 4BA
+END:VEVENT
+BEGIN:VEVENT
+UID:poetry-international-benjamin-zephaniah-celebration-73472adb@london-ev
+ ents
+DTSTAMP:20260710T183000Z
+DTSTART:20260710T183000Z
+DTEND:20260710T203000Z
+SUMMARY:Poetry International: Benjamin Zephaniah Celebration
+DESCRIPTION:Opening night of the Poetry International Festival (10–12 Ju
+ l): an evening of poetry\, music and memories celebrating Benjamin Zephan
+ iah\, with Lemn Sissay\, Pauline Black\, Jackie Kay and Michael Rosen. Ex
+ act start time unconfirmed\; evening event.\nhttps://www.southbankcentre.
+ co.uk/events/poetry-international-festival/
+URL:https://www.southbankcentre.co.uk/events/poetry-international-festival
+ /
+LOCATION:Royal Festival Hall\, Southbank Centre\, Belvedere Road\, SE1 8XX
+END:VEVENT
+BEGIN:VEVENT
+UID:angel-comedy-at-the-bill-murray-33ebc8af@london-events
+DTSTAMP:20260710T190000Z
+DTSTART:20260710T190000Z
+DTEND:20260710T210000Z
+SUMMARY:Angel Comedy at The Bill Murray
+DESCRIPTION:London's community comedy club runs shows seven nights a week\
+ , including free pay-what-you-think pro nights on Fridays and Saturdays w
+ ith TV-credited acts. Start time approximate — shows run from late afte
+ rnoon to 11pm\, so check the listings\; arrive early for free shows.\nPri
+ ce: Free\nhttps://www.angelcomedy.co.uk/bill-murray/
+URL:https://www.angelcomedy.co.uk/bill-murray/
+LOCATION:The Bill Murray\, 39 Queen's Head Street\, Islington\, London N1 
+ 8NQ
+END:VEVENT
+BEGIN:VEVENT
+UID:lewis-capaldi-at-bst-hyde-park-c09bca6f@london-events
+DTSTAMP:20260711T130000Z
+DTSTART:20260711T130000Z
+DTEND:20260711T150000Z
+SUMMARY:Lewis Capaldi at BST Hyde Park
+DESCRIPTION:Lewis Capaldi headlines a major open-air festival day in Hyde 
+ Park with special guests Conan Gray\, Jacob Alon\, The Vaccines and Absol
+ utely\; he plays a second show on 12 July. Gates time unconfirmed\; after
+ noon start typical\, tickets still available.\nhttps://www.bst-hydepark.c
+ om/line-up/
+URL:https://www.bst-hydepark.com/line-up/
+LOCATION:BST Hyde Park\, Hyde Park\, W2
+END:VEVENT
+BEGIN:VEVENT
+UID:columbia-road-flower-market-79fb36e8@london-events
+DTSTAMP:20260712T070000Z
+DTSTART:20260712T070000Z
+DTEND:20260712T140000Z
+SUMMARY:Columbia Road Flower Market
+DESCRIPTION:East London's famous street flower market\, held every Sunday 
+ from 8am until around 3pm\, with plants and cut flowers plus 60 independe
+ nt shops\, cafes and galleries along the Victorian street.\nPrice: Free\n
+ https://www.columbiaroad.info/
+URL:https://www.columbiaroad.info/
+LOCATION:Columbia Road Flower Market\, Columbia Road\, E2 7RG
+END:VEVENT
+BEGIN:VEVENT
+UID:wheel-throwing-pottery-taster-class-bd879716@london-events
+DTSTAMP:20260712T090000Z
+DTSTART:20260712T090000Z
+DTEND:20260712T120000Z
+SUMMARY:Wheel Throwing Pottery Taster Class
+DESCRIPTION:A three-hour hands-on introduction to throwing clay on the pot
+ tery wheel for complete beginners\, with one piece trimmed\, glazed and f
+ ired for you to collect. Max nine people\; further dates on 2 and 23 Augu
+ st.\nPrice: £75\nhttps://countyhallpottery.com/product/wheel-throwing-po
+ ttery-taster-london/
+URL:https://countyhallpottery.com/product/wheel-throwing-pottery-taster-lo
+ ndon/
+LOCATION:County Hall Pottery\, Belvedere Road\, Waterloo\, London SE1 7PB
+END:VEVENT
+BEGIN:VEVENT
+UID:boy-blue-in-the-park-ff60122b@london-events
+DTSTAMP:20260712T180000Z
+DTSTART:20260712T180000Z
+DTEND:20260712T200000Z
+SUMMARY:Boy Blue In The Park
+DESCRIPTION:One-night hip hop dance theatre celebration from award-winning
+  company Boy Blue\, featuring their adult companies on the open-air stage
+ . Performance time unconfirmed\; evening show expected.\nhttps://openairt
+ heatre.com/production/boy-blue-2026
+URL:https://openairtheatre.com/production/boy-blue-2026
+LOCATION:Regent's Park Open Air Theatre\, Inner Circle\, Regent's Park\, N
+ W1 4NU
+END:VEVENT
+BEGIN:VEVENT
+UID:grounding-practice-disruption-and-innovation-with-metal-wate-fb78848d@
+ london-events
+DTSTAMP:20260716T163000Z
+DTSTART:20260716T163000Z
+DTEND:20260716T183000Z
+SUMMARY:Grounding Practice: Disruption and Innovation with Metal & Water
+DESCRIPTION:Informal salon talk with Nancy May Roberts\, founder of perfor
+ mance company Metal & Water\, on sustaining a creative practice: commissi
+ oning\, funding structures and navigating institutions.\nPrice: £5\nhttp
+ s://www.somersethouse.org.uk/whats-on/grounding-practice/grounding-practi
+ ce-disruption-and-innovation-with-metal-water
+URL:https://www.somersethouse.org.uk/whats-on/grounding-practice/grounding
+ -practice-disruption-and-innovation-with-metal-water
+LOCATION:Somerset House (Snooker Rooms\, New Wing)\, Strand\, WC2R 1LA
+END:VEVENT
+BEGIN:VEVENT
+UID:alive-what-life-is-how-it-works-and-why-it-matters-royal-ins-b7a11416@
+ london-events
+DTSTAMP:20260716T180000Z
+DTSTART:20260716T180000Z
+DTEND:20260716T200000Z
+SUMMARY:Alive: What Life Is\, How It Works\, and Why It Matters (Royal Ins
+ titution talk)
+DESCRIPTION:An evening science talk in the Royal Institution's historic le
+ cture theatre exploring what life actually is and how it works. In-person
+  theatre tickets from £7.90\; also streamed online.\nPrice: From £7.90\
+ nhttps://www.eventbrite.co.uk/e/alive-what-life-is-how-it-works-and-why-i
+ t-matters-theatre-tickets-1987603851625
+URL:https://www.eventbrite.co.uk/e/alive-what-life-is-how-it-works-and-why
+ -it-matters-theatre-tickets-1987603851625
+LOCATION:The Royal Institution\, 21 Albemarle Street\, Mayfair\, London W1
+ S 4BS
+END:VEVENT
+BEGIN:VEVENT
+UID:somerset-house-summer-series-2026-opening-night-na-ka-9f0ebca1@london-
+ events
+DTSTAMP:20260716T183000Z
+DTSTART:20260716T183000Z
+DTEND:20260716T203000Z
+SUMMARY:Somerset House Summer Series 2026 (opening night: Naïka)
+DESCRIPTION:Eleven nights of live music (16–26 Jul) in Somerset House's 
+ courtyard\, opening with French-Haitian pop/R&B artist Naïka. Several ni
+ ghts including Naïka\, Palace (17 Jul) and Thee Sacred Souls (18 Jul) ar
+ e sold out\; check other dates.\nPrice: £36.25\nhttps://www.somersethous
+ e.org.uk/whats-on/somerset-house-summer-series
+URL:https://www.somersethouse.org.uk/whats-on/somerset-house-summer-series
+LOCATION:Somerset House\, Edmond J. Safra Fountain Court\, Strand\, WC2R 1
+ LA
+END:VEVENT
+BEGIN:VEVENT
+UID:london-craft-beer-festival-2026-98258270@london-events
+DTSTAMP:20260717T163000Z
+DTSTART:20260717T163000Z
+DTEND:20260717T213000Z
+SUMMARY:London Craft Beer Festival 2026
+DESCRIPTION:Two-day beer festival (17–18 Jul) with over 800 craft beers 
+ from 100+ breweries\, street food and live music\; all-inclusive tickets 
+ cover unlimited sampling. Friday evening session listed\; Saturday has da
+ y and evening sessions.\nhttps://londoncraftbeerfestival.co.uk/
+URL:https://londoncraftbeerfestival.co.uk/
+LOCATION:Southwark Park\, Southwark Park\, SE16
+END:VEVENT
+BEGIN:VEVENT
+UID:first-night-of-the-proms-2026-e3ef077f@london-events
+DTSTAMP:20260717T180000Z
+DTSTART:20260717T180000Z
+DTEND:20260717T200000Z
+SUMMARY:First Night of the Proms 2026
+DESCRIPTION:The BBC Proms season opens with Dalia Stasevska conducting the
+  BBC Symphony Orchestra and Chorus: Copland's Fanfare for the Common Man\
+ , Gershwin's An American in Paris\, and pianist Yunchan Lim playing Ravel
+ 's Piano Concerto in G.\nhttps://www.royalalberthall.com/tickets/proms/bb
+ c-proms-2026/first-night-of-the-proms-2026
+URL:https://www.royalalberthall.com/tickets/proms/bbc-proms-2026/first-nig
+ ht-of-the-proms-2026
+LOCATION:Royal Albert Hall\, Kensington Gore\, SW7 2AP
+END:VEVENT
+BEGIN:VEVENT
+UID:sicilian-cooking-class-at-food-at-52-85c56083@london-events
+DTSTAMP:20260718T100000Z
+DTSTART:20260718T100000Z
+DTEND:20260718T133000Z
+SUMMARY:Sicilian Cooking Class at Food at 52
+DESCRIPTION:A 3.5-hour hands-on Sicilian cookery class at Clerkenwell's we
+ ll-loved Food at 52 school\, where you cook and then eat a full Sicilian 
+ spread. Part of a rolling schedule of world-cuisine classes through July 
+ and August.\nhttps://www.foodat52.co.uk/pages/at-a-glance-schedule
+URL:https://www.foodat52.co.uk/pages/at-a-glance-schedule
+LOCATION:Food at 52 Cookery School\, 96 Central Street\, Clerkenwell\, Lon
+ don EC1V 8AJ
+END:VEVENT
+BEGIN:VEVENT
+UID:hyper-japan-festival-2026-4da2d67a@london-events
+DTSTAMP:20260724T110000Z
+DTSTART:20260724T110000Z
+DTEND:20260724T190000Z
+SUMMARY:HYPER JAPAN Festival 2026
+DESCRIPTION:The UK's largest Japanese culture festival runs 24–26 July w
+ ith over 530 exhibitors covering music\, food\, fashion\, gaming\, worksh
+ ops and shopping. Friday hours 12–8pm\; children 10 and under free.\nPr
+ ice: From £28.35\nhttps://hyperjapan.co.uk/festival/
+URL:https://hyperjapan.co.uk/festival/
+LOCATION:Olympia London\, Hammersmith Road\, W14 8UX
+END:VEVENT
+BEGIN:VEVENT
+UID:discourse-discoveries-at-the-icy-moons-of-jupiter-and-saturn-0e9e366e@
+ london-events
+DTSTAMP:20260724T182000Z
+DTSTART:20260724T182000Z
+DTEND:20260724T202000Z
+SUMMARY:Discourse: Discoveries at the Icy Moons of Jupiter and Saturn
+DESCRIPTION:A free evening Discourse lecture at the Royal Institution on t
+ he latest discoveries at the icy moons of Jupiter and Saturn\, in the fam
+ ous Faraday lecture theatre.\nPrice: Free\nhttps://www.eventbrite.co.uk/e
+ /discourse-discoveries-at-the-icy-moons-of-jupiter-and-saturn-theatre-tic
+ kets-1987618676968
+URL:https://www.eventbrite.co.uk/e/discourse-discoveries-at-the-icy-moons-
+ of-jupiter-and-saturn-theatre-tickets-1987618676968
+LOCATION:The Royal Institution\, 21 Albemarle Street\, Mayfair\, London W1
+ S 4BS
+END:VEVENT
+BEGIN:VEVENT
+UID:terrarium-making-workshop-with-london-terrariums-28e0987a@london-event
+ s
+DTSTAMP:20260725T100000Z
+DTSTART:20260725T100000Z
+DTEND:20260725T113000Z
+SUMMARY:Terrarium Making Workshop with London Terrariums
+DESCRIPTION:A 90-minute hands-on workshop building your own glass terrariu
+ m to take home\, run by specialists London Terrariums. Further dates thro
+ ugh late July and August\, including evening sessions on 29 July and 13 A
+ ugust.\nPrice: From £50\nhttps://londonterrariums.com/collections/worksh
+ ops
+URL:https://londonterrariums.com/collections/workshops
+LOCATION:London Terrariums studio
+END:VEVENT
+BEGIN:VEVENT
+UID:cats-at-regent-s-park-open-air-theatre-opening-night-346958ee@london-e
+ vents
+DTSTAMP:20260725T184500Z
+DTSTART:20260725T184500Z
+DTEND:20260725T204500Z
+SUMMARY:CATS at Regent's Park Open Air Theatre (opening night)
+DESCRIPTION:A brand-new open-air production of Andrew Lloyd Webber's music
+ al based on T.S. Eliot's Old Possum's Book of Practical Cats\, running 25
+  July – 19 September. Evening performance time approximate.\nPrice: Fro
+ m £19\nhttps://openairtheatre.com/production/cats
+URL:https://openairtheatre.com/production/cats
+LOCATION:Regent's Park Open Air Theatre\, Inner Circle\, Regent's Park\, N
+ W1 4NU
+END:VEVENT
+BEGIN:VEVENT
+UID:west-london-supper-club-summer-edition-4e7c2c35@london-events
+DTSTAMP:20260731T173000Z
+DTSTART:20260731T173000Z
+DTEND:20260731T213000Z
+SUMMARY:West London Supper Club – Summer Edition
+DESCRIPTION:An intimate 12-seat supper club with a curated multi-course Pe
+ rsian menu and welcome drink\, designed for conversation and meeting new 
+ people in a cosy Kensington cafe-gallery.\nPrice: £110\nhttps://www.rand
+ hbusinessltd.com/event-details/west-london-supper-summer-edition-31-july-
+ 2026
+URL:https://www.randhbusinessltd.com/event-details/west-london-supper-summ
+ er-edition-31-july-2026
+LOCATION:R&H Cafe Gallery\, 84 Abingdon Villas\, Kensington\, London W8 6X
+ B
+END:VEVENT
+END:VCALENDAR
