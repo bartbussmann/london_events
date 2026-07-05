@@ -1,0 +1,396 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>London Events</title>
+<style>
+  :root {
+    --bg: #f7f7f5;
+    --surface: #ffffff;
+    --surface-2: #f0efec;
+    --text: #1a1a1a;
+    --text-soft: #6b6b6b;
+    --border: #e3e2de;
+    --accent: #4f46e5;
+    --accent-soft: #eef2ff;
+    --today: #fff7e6;
+    --shadow: 0 1px 3px rgba(0,0,0,.08), 0 4px 16px rgba(0,0,0,.06);
+    --radius: 10px;
+  }
+  :root[data-theme="dark"] {
+    --bg: #141416;
+    --surface: #1e1e21;
+    --surface-2: #2a2a2e;
+    --text: #ececec;
+    --text-soft: #9b9b9b;
+    --border: #333338;
+    --accent: #818cf8;
+    --accent-soft: #26264a;
+    --today: #2e2817;
+    --shadow: 0 1px 3px rgba(0,0,0,.4), 0 4px 16px rgba(0,0,0,.3);
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  html { -webkit-text-size-adjust: 100%; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    background: var(--bg); color: var(--text);
+    line-height: 1.5;
+  }
+  a { color: var(--accent); }
+
+  .wrap { max-width: 1100px; margin: 0 auto; padding: 16px; }
+
+  header.top {
+    display: flex; align-items: center; justify-content: space-between;
+    gap: 12px; flex-wrap: wrap; padding: 8px 0 16px;
+  }
+  .brand { display: flex; align-items: baseline; gap: 10px; }
+  .brand h1 { font-size: 1.35rem; letter-spacing: -0.02em; }
+  .brand .sub { color: var(--text-soft); font-size: .85rem; }
+
+  .controls { display: flex; align-items: center; gap: 8px; flex-wrap: wrap; }
+  button, .btn {
+    font: inherit; font-size: .85rem; cursor: pointer;
+    background: var(--surface); color: var(--text);
+    border: 1px solid var(--border); border-radius: 8px;
+    padding: 6px 12px; text-decoration: none; display: inline-flex; align-items: center; gap: 6px;
+  }
+  button:hover, .btn:hover { border-color: var(--accent); }
+  .seg { display: inline-flex; border: 1px solid var(--border); border-radius: 8px; overflow: hidden; }
+  .seg button { border: 0; border-radius: 0; background: var(--surface); }
+  .seg button.active { background: var(--accent); color: #fff; }
+
+  .monthnav { display: flex; align-items: center; gap: 8px; }
+  .monthnav .label { min-width: 150px; text-align: center; font-weight: 600; }
+
+  .filters { display: flex; gap: 6px; flex-wrap: wrap; padding: 4px 0 14px; align-items: center; }
+  .chip {
+    font-size: .78rem; padding: 4px 10px; border-radius: 999px;
+    border: 1px solid var(--border); background: var(--surface);
+    cursor: pointer; color: var(--text-soft); user-select: none;
+  }
+  .chip.active { background: var(--accent); border-color: var(--accent); color: #fff; }
+  input[type="search"] {
+    font: inherit; font-size: .85rem; padding: 6px 12px;
+    border: 1px solid var(--border); border-radius: 8px;
+    background: var(--surface); color: var(--text); min-width: 180px;
+  }
+  input[type="search"]:focus { outline: 2px solid var(--accent-soft); border-color: var(--accent); }
+
+  /* Month grid */
+  .cal { background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius); overflow: hidden; box-shadow: var(--shadow); }
+  .cal-head, .cal-row { display: grid; grid-template-columns: repeat(7, 1fr); }
+  .cal-head div { padding: 8px 6px; text-align: center; font-size: .72rem; text-transform: uppercase; letter-spacing: .06em; color: var(--text-soft); border-bottom: 1px solid var(--border); }
+  .day {
+    min-height: 96px; border-right: 1px solid var(--border); border-bottom: 1px solid var(--border);
+    padding: 4px; position: relative; overflow: hidden;
+  }
+  .cal-row .day:last-child { border-right: 0; }
+  .cal-row:last-child .day { border-bottom: 0; }
+  .day .num { font-size: .75rem; color: var(--text-soft); padding: 2px 4px; }
+  .day.out { background: var(--surface-2); }
+  .day.out .num { opacity: .45; }
+  .day.today { background: var(--today); }
+  .day.today .num { font-weight: 700; color: var(--text); }
+  .evt {
+    display: block; width: 100%; text-align: left; font-size: .72rem; line-height: 1.25;
+    border: 0; border-left: 3px solid var(--accent); border-radius: 4px;
+    background: var(--accent-soft); color: var(--text);
+    padding: 2px 5px; margin: 2px 0; cursor: pointer;
+    white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
+  }
+  .evt:hover { filter: brightness(.96); }
+  .more { font-size: .7rem; color: var(--text-soft); padding: 0 4px; cursor: pointer; background: none; border: 0; }
+
+  /* List view */
+  .list { display: flex; flex-direction: column; gap: 18px; }
+  .daygroup h3 { font-size: .85rem; color: var(--text-soft); font-weight: 600; margin-bottom: 8px; text-transform: uppercase; letter-spacing: .05em; }
+  .card {
+    background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius);
+    padding: 12px 14px; margin-bottom: 8px; cursor: pointer; box-shadow: var(--shadow);
+    display: flex; gap: 14px; align-items: baseline;
+  }
+  .card:hover { border-color: var(--accent); }
+  .card .time { font-variant-numeric: tabular-nums; color: var(--text-soft); font-size: .82rem; min-width: 52px; }
+  .card .body { flex: 1; min-width: 0; }
+  .card .title { font-weight: 600; font-size: .95rem; }
+  .card .meta { color: var(--text-soft); font-size: .8rem; margin-top: 2px; }
+  .tag {
+    display: inline-block; font-size: .68rem; padding: 1px 7px; border-radius: 999px;
+    background: var(--surface-2); color: var(--text-soft); margin-left: 6px; vertical-align: 1px;
+  }
+
+  .empty { color: var(--text-soft); text-align: center; padding: 48px 12px; }
+
+  /* Modal */
+  dialog {
+    margin: auto; border: 1px solid var(--border); border-radius: 14px; padding: 0;
+    max-width: 480px; width: calc(100vw - 40px);
+    background: var(--surface); color: var(--text); box-shadow: var(--shadow);
+  }
+  dialog::backdrop { background: rgba(0,0,0,.45); }
+  .modal-body { padding: 20px 22px; }
+  .modal-body h2 { font-size: 1.15rem; line-height: 1.3; margin-bottom: 6px; padding-right: 28px; }
+  .modal-body .when { color: var(--accent); font-weight: 600; font-size: .9rem; }
+  .modal-body .where, .modal-body .price { color: var(--text-soft); font-size: .88rem; margin-top: 2px; }
+  .modal-body p.desc { margin: 12px 0; font-size: .9rem; }
+  .modal-body .src { font-size: .75rem; color: var(--text-soft); margin-top: 12px; }
+  .modal-actions { display: flex; gap: 8px; margin-top: 14px; }
+  .btn.primary { background: var(--accent); color: #fff; border-color: var(--accent); }
+  .close-x {
+    position: absolute; top: 10px; right: 10px; border: 0; background: none;
+    font-size: 1.2rem; color: var(--text-soft); cursor: pointer; padding: 4px 8px;
+  }
+
+  footer {
+    margin-top: 28px; padding: 16px 0 32px; color: var(--text-soft); font-size: .82rem;
+    display: flex; gap: 14px; flex-wrap: wrap; align-items: center;
+    border-top: 1px solid var(--border);
+  }
+
+  @media (max-width: 640px) {
+    .day { min-height: 64px; }
+    .evt { font-size: .62rem; padding: 1px 3px; }
+    .monthnav .label { min-width: 120px; }
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header class="top">
+    <div class="brand">
+      <h1>London Events</h1>
+      <span class="sub" id="count"></span>
+    </div>
+    <div class="controls">
+      <div class="monthnav" id="monthnav">
+        <button id="prev" aria-label="Previous month">‹</button>
+        <span class="label" id="monthlabel"></span>
+        <button id="next" aria-label="Next month">›</button>
+        <button id="todaybtn">Today</button>
+      </div>
+      <div class="seg" role="tablist">
+        <button id="viewMonth" class="active">Month</button>
+        <button id="viewList">List</button>
+      </div>
+      <button id="themeToggle" aria-label="Toggle theme">◐</button>
+    </div>
+  </header>
+
+  <div class="filters" id="filters">
+    <input type="search" id="search" placeholder="Search events…">
+  </div>
+
+  <main id="main"></main>
+
+  <footer>
+    <span>Updated automatically by agent sweeps.</span>
+    <a id="icslink" href="calendar.ics">Subscribe (.ics feed)</a>
+    <a href="https://github.com/bartbussmann/london_events" target="_blank" rel="noopener">Source repo</a>
+  </footer>
+</div>
+
+<dialog id="modal">
+  <button class="close-x" onclick="document.getElementById('modal').close()" aria-label="Close">✕</button>
+  <div class="modal-body" id="modalBody"></div>
+</dialog>
+
+<script>
+(function () {
+  "use strict";
+
+  // ---- Theme ----
+  const root = document.documentElement;
+  function applyTheme(t) { root.setAttribute("data-theme", t); localStorage.setItem("theme", t); }
+  const saved = localStorage.getItem("theme");
+  applyTheme(saved || (matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light"));
+  document.getElementById("themeToggle").onclick = () =>
+    applyTheme(root.getAttribute("data-theme") === "dark" ? "light" : "dark");
+
+  // ---- State ----
+  let events = [];
+  let view = "month";              // "month" | "list"
+  const now = new Date();
+  let cursor = new Date(now.getFullYear(), now.getMonth(), 1);
+  let activeTags = new Set();
+  let query = "";
+
+  const main = document.getElementById("main");
+  const fmtTime = new Intl.DateTimeFormat("en-GB", { hour: "2-digit", minute: "2-digit", timeZone: "Europe/London" });
+  const fmtDay = new Intl.DateTimeFormat("en-GB", { weekday: "long", day: "numeric", month: "long", timeZone: "Europe/London" });
+  const fmtFull = new Intl.DateTimeFormat("en-GB", { weekday: "short", day: "numeric", month: "short", hour: "2-digit", minute: "2-digit", timeZone: "Europe/London" });
+
+  // London-local calendar date "YYYY-MM-DD" for an event's start.
+  function londonDate(iso) {
+    const d = new Date(iso);
+    return new Intl.DateTimeFormat("en-CA", { timeZone: "Europe/London", year: "numeric", month: "2-digit", day: "2-digit" }).format(d);
+  }
+  function localKey(y, m, day) {
+    return y + "-" + String(m + 1).padStart(2, "0") + "-" + String(day).padStart(2, "0");
+  }
+  const todayKey = londonDate(new Date().toISOString());
+
+  // ---- Filtering ----
+  function visible() {
+    return events.filter(e => {
+      if (activeTags.size && !(e.tags || []).some(t => activeTags.has(t))) return false;
+      if (query) {
+        const hay = (e.title + " " + (e.venue || "") + " " + (e.description || "") + " " + (e.tags || []).join(" ")).toLowerCase();
+        if (!hay.includes(query)) return false;
+      }
+      return true;
+    });
+  }
+
+  // ---- Render: filters ----
+  function renderFilters() {
+    const box = document.getElementById("filters");
+    box.querySelectorAll(".chip").forEach(c => c.remove());
+    const tags = [...new Set(events.flatMap(e => e.tags || []))].sort();
+    for (const t of tags) {
+      const c = document.createElement("button");
+      c.className = "chip" + (activeTags.has(t) ? " active" : "");
+      c.textContent = t;
+      c.onclick = () => { activeTags.has(t) ? activeTags.delete(t) : activeTags.add(t); render(); };
+      box.appendChild(c);
+    }
+  }
+
+  // ---- Render: month ----
+  function renderMonth() {
+    const y = cursor.getFullYear(), m = cursor.getMonth();
+    document.getElementById("monthlabel").textContent =
+      cursor.toLocaleDateString("en-GB", { month: "long", year: "numeric" });
+
+    const byDay = {};
+    for (const e of visible()) (byDay[londonDate(e.start)] ||= []).push(e);
+    for (const k in byDay) byDay[k].sort((a, b) => a.start.localeCompare(b.start));
+
+    const first = new Date(y, m, 1);
+    const startOffset = (first.getDay() + 6) % 7; // Monday first
+    const daysInMonth = new Date(y, m + 1, 0).getDate();
+
+    let html = '<div class="cal"><div class="cal-head">' +
+      ["Mon","Tue","Wed","Thu","Fri","Sat","Sun"].map(d => `<div>${d}</div>`).join("") + "</div>";
+
+    let cells = [];
+    const prevDays = new Date(y, m, 0).getDate();
+    for (let i = startOffset - 1; i >= 0; i--) cells.push({ day: prevDays - i, out: true, key: null });
+    for (let d = 1; d <= daysInMonth; d++) cells.push({ day: d, out: false, key: localKey(y, m, d) });
+    for (let d = 1; cells.length % 7; d++) cells.push({ day: d, out: true, key: null });
+
+    for (let r = 0; r < cells.length; r += 7) {
+      html += '<div class="cal-row">';
+      for (const c of cells.slice(r, r + 7)) {
+        const evts = c.key ? (byDay[c.key] || []) : [];
+        const cls = "day" + (c.out ? " out" : "") + (c.key === todayKey ? " today" : "");
+        html += `<div class="${cls}"><div class="num">${c.day}</div>`;
+        const shown = evts.slice(0, 3);
+        for (const e of shown) {
+          html += `<button class="evt" data-id="${esc(e.id)}" title="${esc(e.title)}">${esc(e.title)}</button>`;
+        }
+        if (evts.length > 3) html += `<button class="more" data-day="${c.key}">+${evts.length - 3} more</button>`;
+        html += "</div>";
+      }
+      html += "</div>";
+    }
+    html += "</div>";
+    main.innerHTML = html;
+  }
+
+  // ---- Render: list ----
+  function renderList() {
+    const upcoming = visible()
+      .filter(e => londonDate(e.start) >= todayKey)
+      .sort((a, b) => a.start.localeCompare(b.start));
+    if (!upcoming.length) {
+      main.innerHTML = '<div class="empty">No upcoming events match your filters.</div>';
+      return;
+    }
+    const groups = {};
+    for (const e of upcoming) (groups[londonDate(e.start)] ||= []).push(e);
+    let html = '<div class="list">';
+    for (const day of Object.keys(groups).sort()) {
+      const label = fmtDay.format(new Date(day + "T12:00:00Z"));
+      html += `<div class="daygroup"><h3>${label}</h3>`;
+      for (const e of groups[day]) {
+        const tags = (e.tags || []).map(t => `<span class="tag">${esc(t)}</span>`).join("");
+        html += `<div class="card" data-id="${esc(e.id)}">
+          <div class="time">${fmtTime.format(new Date(e.start))}</div>
+          <div class="body">
+            <div class="title">${esc(e.title)}${tags}</div>
+            <div class="meta">${esc(e.venue || "")}${e.price ? " · " + esc(e.price) : ""}</div>
+          </div>
+        </div>`;
+      }
+      html += "</div>";
+    }
+    html += "</div>";
+    main.innerHTML = html;
+  }
+
+  // ---- Modal ----
+  function openModal(e) {
+    const body = document.getElementById("modalBody");
+    const when = fmtFull.format(new Date(e.start)) + (e.end ? " – " + fmtTime.format(new Date(e.end)) : "");
+    body.innerHTML = `
+      <h2>${esc(e.title)}</h2>
+      <div class="when">${when}</div>
+      <div class="where">${esc(e.venue || "")}${e.address ? " · " + esc(e.address) : ""}</div>
+      ${e.price ? `<div class="price">${esc(e.price)}</div>` : ""}
+      ${e.description ? `<p class="desc">${esc(e.description)}</p>` : ""}
+      <div class="modal-actions">
+        ${e.url ? `<a class="btn primary" href="${esc(e.url)}" target="_blank" rel="noopener">Event page ↗</a>` : ""}
+      </div>
+      <div class="src">source: ${esc(e.source || "unknown")} · added ${esc(e.added || "?")}</div>`;
+    document.getElementById("modal").showModal();
+  }
+
+  main.addEventListener("click", ev => {
+    const t = ev.target.closest("[data-id]");
+    if (t) {
+      const e = events.find(x => x.id === t.dataset.id);
+      if (e) openModal(e);
+      return;
+    }
+    const more = ev.target.closest(".more");
+    if (more) { view = "list"; syncSeg(); render(); }
+  });
+
+  // ---- Controls ----
+  function syncSeg() {
+    document.getElementById("viewMonth").classList.toggle("active", view === "month");
+    document.getElementById("viewList").classList.toggle("active", view === "list");
+    document.getElementById("monthnav").style.visibility = view === "month" ? "visible" : "hidden";
+  }
+  document.getElementById("viewMonth").onclick = () => { view = "month"; syncSeg(); render(); };
+  document.getElementById("viewList").onclick = () => { view = "list"; syncSeg(); render(); };
+  document.getElementById("prev").onclick = () => { cursor = new Date(cursor.getFullYear(), cursor.getMonth() - 1, 1); render(); };
+  document.getElementById("next").onclick = () => { cursor = new Date(cursor.getFullYear(), cursor.getMonth() + 1, 1); render(); };
+  document.getElementById("todaybtn").onclick = () => { cursor = new Date(now.getFullYear(), now.getMonth(), 1); render(); };
+  document.getElementById("search").oninput = ev => { query = ev.target.value.trim().toLowerCase(); render(); };
+
+  function esc(s) {
+    return String(s ?? "").replace(/[&<>"']/g, c =>
+      ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+  }
+
+  function render() {
+    renderFilters();
+    view === "month" ? renderMonth() : renderList();
+    const upcoming = events.filter(e => londonDate(e.start) >= todayKey).length;
+    document.getElementById("count").textContent = upcoming ? `${upcoming} upcoming` : "";
+  }
+
+  // ---- Load ----
+  fetch("data/events.json", { cache: "no-cache" })
+    .then(r => r.json())
+    .then(data => { events = Array.isArray(data) ? data : (data.events || []); render(); })
+    .catch(() => { main.innerHTML = '<div class="empty">Could not load events data.</div>'; });
+
+  syncSeg();
+})();
+</script>
+</body>
+</html>

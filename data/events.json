@@ -1,0 +1,479 @@
+[
+  {
+    "title": "Holy Pop! (exhibition)",
+    "start": "2026-07-06T10:00:00+01:00",
+    "end": "2026-07-06T18:00:00+01:00",
+    "venue": "Somerset House, Terrace Rooms",
+    "address": "Strand, WC2R 1LA",
+    "url": "https://www.somersethouse.org.uk/whats-on/holy-pop",
+    "source": "venue:somersethouse",
+    "tags": [
+      "art"
+    ],
+    "price": "Pay What You Can",
+    "description": "Exhibition on contemporary shrine culture and fan devotion — from Princess Diana memorials to Nina Simone's chewing gum — featuring 20 artists across three themed rooms. Runs until 9 August 2026; date shown is a sample open day.",
+    "id": "holy-pop-exhibition-e21f88ea",
+    "added": "2026-07-05"
+  },
+  {
+    "title": "Wes Anderson: The Archives (exhibition)",
+    "start": "2026-07-06T10:00:00+01:00",
+    "end": "2026-07-06T17:00:00+01:00",
+    "venue": "Design Museum",
+    "address": "224-238 Kensington High Street, W8 6AG",
+    "url": "https://designmuseum.org/exhibitions/wes-anderson-the-archives",
+    "source": "venue:designmuseum",
+    "tags": [
+      "art",
+      "film"
+    ],
+    "price": "From £20.69",
+    "description": "First retrospective of Wes Anderson's filmmaking, with over 700 objects from his personal archives — storyboards, props, puppets, costumes and miniature sets from The Grand Budapest Hotel, Fantastic Mr. Fox and more. Extended until 16 August 2026; date shown is a sample open day.",
+    "id": "wes-anderson-the-archives-exhibition-acc0c7ac",
+    "added": "2026-07-05"
+  },
+  {
+    "title": "Salsamotion Monday Salsa Classes & Social",
+    "start": "2026-07-06T18:30:00+01:00",
+    "end": "2026-07-06T21:30:00+01:00",
+    "venue": "Lochaber Hall Community Centre",
+    "address": "Manor Lane Terrace, Lewisham, London SE13 5QL",
+    "url": "https://www.salsavida.com/event/united-kingdom/england/london/salsamotion-monday-salsa-classes-and-social/",
+    "source": "keyword-search",
+    "tags": [
+      "class",
+      "music",
+      "community"
+    ],
+    "price": null,
+    "description": "Weekly Monday salsa night in south-east London with classes for multiple levels followed by social dancing, structured enough for complete beginners. Runs every Monday; 6 July is the next occurrence.",
+    "id": "salsamotion-monday-salsa-classes-social-f6217f03",
+    "added": "2026-07-05"
+  },
+  {
+    "title": "Solo Jazz Class with Anna (SwingdanceUK)",
+    "start": "2026-07-06T19:15:00+01:00",
+    "end": "2026-07-06T20:15:00+01:00",
+    "venue": "Studio 2, City Sport",
+    "address": "124 Goswell Road, London EC1V 7DP",
+    "url": "https://swingdanceuk.com/classes/workshops/",
+    "source": "keyword-search",
+    "tags": [
+      "class",
+      "music"
+    ],
+    "price": "£12",
+    "description": "Drop-in solo jazz dance class on Monday evenings taught by Anna of SwingdanceUK — learn vintage jazz steps with no partner needed. £12 drop-in per class.",
+    "id": "solo-jazz-class-with-anna-swingdanceuk-d03b6f9d",
+    "added": "2026-07-05"
+  },
+  {
+    "title": "Project a Black Planet: The Art and Culture of Panafrica (exhibition)",
+    "start": "2026-07-07T10:00:00+01:00",
+    "end": "2026-07-07T18:00:00+01:00",
+    "venue": "Barbican Art Gallery",
+    "address": "Silk Street, EC2Y 8DS",
+    "url": "https://www.barbican.org.uk/whats-on/2026/event/project-a-black-planet-the-art-and-culture-of-panafrica",
+    "source": "venue:barbican",
+    "tags": [
+      "art"
+    ],
+    "price": "£20.50",
+    "description": "Major exhibition exploring Pan-Africanism's impact on art and culture from the 1920s to today through 300+ works, including Chris Ofili, Marlene Dumas and Claudette Johnson. Runs 11 June – 6 September 2026 (closed Mondays); date shown is a sample open day.",
+    "id": "project-a-black-planet-the-art-and-culture-of-panafrica-exhi-46ee5be4",
+    "added": "2026-07-05"
+  },
+  {
+    "title": "London On Board: Tuesday Evening Board Gaming",
+    "start": "2026-07-07T18:00:00+01:00",
+    "end": null,
+    "venue": "The Prince Alfred",
+    "address": "112 Queensway, London W2",
+    "url": "https://www.meetup.com/londononboard/",
+    "source": "keyword-search",
+    "tags": [
+      "community"
+    ],
+    "price": "Free",
+    "description": "Friendly weekly board game meetup run by London On Board, one of the city's biggest gaming groups — turn up solo and join a table. Free with RSVP; attendees are expected to buy food or drink at the pub.",
+    "id": "london-on-board-tuesday-evening-board-gaming-728b209d",
+    "added": "2026-07-05"
+  },
+  {
+    "title": "Gilberto Gil: Live at the Roundhouse",
+    "start": "2026-07-07T19:00:00+01:00",
+    "end": null,
+    "venue": "Roundhouse",
+    "address": "Chalk Farm Road, NW1 8EH",
+    "url": "https://www.roundhouse.org.uk/whats-on/gilberto-gil/",
+    "source": "venue:roundhouse",
+    "tags": [
+      "music"
+    ],
+    "price": "£77.75–£112.25",
+    "description": "Brazilian music legend Gilberto Gil performs classics from his six-decade career spanning samba, reggae and Afro-Brazilian rhythms, joined on stage by his children for an intimate multigenerational show.",
+    "id": "gilberto-gil-live-at-the-roundhouse-350f76f7",
+    "added": "2026-07-05"
+  },
+  {
+    "title": "Beginner's Social at City Bouldering Stratford",
+    "start": "2026-07-07T19:00:00+01:00",
+    "end": "2026-07-07T20:00:00+01:00",
+    "venue": "City Bouldering Stratford",
+    "address": "234 High Street, London E15 2JA",
+    "url": "https://www.citybouldering.co.uk/events/beginner",
+    "source": "keyword-search",
+    "tags": [
+      "class",
+      "community"
+    ],
+    "price": null,
+    "description": "A weekly Tuesday social for new boulderers to learn climbing fundamentals and meet fellow climbers in a supportive setting; booking includes two weeks of free climbing afterwards. Recurring every Tuesday.",
+    "id": "beginner-s-social-at-city-bouldering-stratford-2c46c374",
+    "added": "2026-07-05"
+  },
+  {
+    "title": "Rubén Blades + Roberto Delgado Big Band",
+    "start": "2026-07-08T19:00:00+01:00",
+    "end": null,
+    "venue": "Roundhouse",
+    "address": "Chalk Farm Road, NW1 8EH",
+    "url": "https://www.roundhouse.org.uk/whats-on/ruben-blades/",
+    "source": "venue:roundhouse",
+    "tags": [
+      "music"
+    ],
+    "price": "£65",
+    "description": "Farewell-tour show from the salsa icon, his first UK appearance in over a decade, with the Roberto Delgado Big Band delivering jazz-infused salsa and Afro-Cuban rhythms. Doors 7pm, Blades on stage 8:20pm.",
+    "id": "rub-n-blades-roberto-delgado-big-band-4ec861ad",
+    "added": "2026-07-05"
+  },
+  {
+    "title": "Free Outdoor Yoga with MoreYoga at Wembley Park",
+    "start": "2026-07-10T10:00:00+01:00",
+    "end": "2026-07-10T11:00:00+01:00",
+    "venue": "Elvin Gardens, Wembley Park",
+    "address": "Elvin Gardens, Wembley Park, London HA9",
+    "url": "https://wembleypark.com/things-to-do/summer-rocks-outdoor-yoga-26/",
+    "source": "keyword-search",
+    "tags": [
+      "outdoors",
+      "class",
+      "community"
+    ],
+    "price": "Free",
+    "description": "Gentle outdoor Vinyasa flow session led by MoreYoga instructor Ingrid Falcao, open to all levels with mats provided first come first served. Runs every Friday morning until 7 August 2026; free but booking via Eventbrite required.",
+    "id": "free-outdoor-yoga-with-moreyoga-at-wembley-park-ecb8a632",
+    "added": "2026-07-05"
+  },
+  {
+    "title": "Life Drawing After Work (4-week course)",
+    "start": "2026-07-10T18:30:00+01:00",
+    "end": "2026-07-10T20:30:00+01:00",
+    "venue": "City Lit",
+    "address": "Keeley Street, Covent Garden, London WC2B 4BA",
+    "url": "https://www.citylit.ac.uk/courses/life-drawing-after-work",
+    "source": "keyword-search",
+    "tags": [
+      "art",
+      "class"
+    ],
+    "price": "£159",
+    "description": "Relaxed Friday-evening life drawing course with tutor Joe Richardson, drawing a variety of life models in different materials and poses — no experience needed. Four weekly sessions starting 10 July.",
+    "id": "life-drawing-after-work-4-week-course-301abab7",
+    "added": "2026-07-05"
+  },
+  {
+    "title": "Poetry International: Benjamin Zephaniah Celebration",
+    "start": "2026-07-10T19:30:00+01:00",
+    "end": null,
+    "venue": "Royal Festival Hall, Southbank Centre",
+    "address": "Belvedere Road, SE1 8XX",
+    "url": "https://www.southbankcentre.co.uk/events/poetry-international-festival/",
+    "source": "venue:southbankcentre",
+    "tags": [
+      "talk",
+      "music",
+      "festival"
+    ],
+    "price": null,
+    "description": "Opening night of the Poetry International Festival (10–12 Jul): an evening of poetry, music and memories celebrating Benjamin Zephaniah, with Lemn Sissay, Pauline Black, Jackie Kay and Michael Rosen. Exact start time unconfirmed; evening event.",
+    "id": "poetry-international-benjamin-zephaniah-celebration-73472adb",
+    "added": "2026-07-05"
+  },
+  {
+    "title": "Angel Comedy at The Bill Murray",
+    "start": "2026-07-10T20:00:00+01:00",
+    "end": null,
+    "venue": "The Bill Murray",
+    "address": "39 Queen's Head Street, Islington, London N1 8NQ",
+    "url": "https://www.angelcomedy.co.uk/bill-murray/",
+    "source": "keyword-search",
+    "tags": [
+      "comedy"
+    ],
+    "price": "Free",
+    "description": "London's community comedy club runs shows seven nights a week, including free pay-what-you-think pro nights on Fridays and Saturdays with TV-credited acts. Start time approximate — shows run from late afternoon to 11pm, so check the listings; arrive early for free shows.",
+    "id": "angel-comedy-at-the-bill-murray-33ebc8af",
+    "added": "2026-07-05"
+  },
+  {
+    "title": "Lewis Capaldi at BST Hyde Park",
+    "start": "2026-07-11T14:00:00+01:00",
+    "end": null,
+    "venue": "BST Hyde Park",
+    "address": "Hyde Park, W2",
+    "url": "https://www.bst-hydepark.com/line-up/",
+    "source": "venue:bst-hydepark",
+    "tags": [
+      "music",
+      "festival",
+      "outdoors"
+    ],
+    "price": null,
+    "description": "Lewis Capaldi headlines a major open-air festival day in Hyde Park with special guests Conan Gray, Jacob Alon, The Vaccines and Absolutely; he plays a second show on 12 July. Gates time unconfirmed; afternoon start typical, tickets still available.",
+    "id": "lewis-capaldi-at-bst-hyde-park-c09bca6f",
+    "added": "2026-07-05"
+  },
+  {
+    "title": "Columbia Road Flower Market",
+    "start": "2026-07-12T08:00:00+01:00",
+    "end": "2026-07-12T15:00:00+01:00",
+    "venue": "Columbia Road Flower Market",
+    "address": "Columbia Road, E2 7RG",
+    "url": "https://www.columbiaroad.info/",
+    "source": "venue:columbiaroad",
+    "tags": [
+      "market",
+      "outdoors",
+      "community"
+    ],
+    "price": "Free",
+    "description": "East London's famous street flower market, held every Sunday from 8am until around 3pm, with plants and cut flowers plus 60 independent shops, cafes and galleries along the Victorian street.",
+    "id": "columbia-road-flower-market-79fb36e8",
+    "added": "2026-07-05"
+  },
+  {
+    "title": "Wheel Throwing Pottery Taster Class",
+    "start": "2026-07-12T10:00:00+01:00",
+    "end": "2026-07-12T13:00:00+01:00",
+    "venue": "County Hall Pottery",
+    "address": "Belvedere Road, Waterloo, London SE1 7PB",
+    "url": "https://countyhallpottery.com/product/wheel-throwing-pottery-taster-london/",
+    "source": "keyword-search",
+    "tags": [
+      "workshop",
+      "art",
+      "class"
+    ],
+    "price": "£75",
+    "description": "A three-hour hands-on introduction to throwing clay on the pottery wheel for complete beginners, with one piece trimmed, glazed and fired for you to collect. Max nine people; further dates on 2 and 23 August.",
+    "id": "wheel-throwing-pottery-taster-class-bd879716",
+    "added": "2026-07-05"
+  },
+  {
+    "title": "Boy Blue In The Park",
+    "start": "2026-07-12T19:00:00+01:00",
+    "end": null,
+    "venue": "Regent's Park Open Air Theatre",
+    "address": "Inner Circle, Regent's Park, NW1 4NU",
+    "url": "https://openairtheatre.com/production/boy-blue-2026",
+    "source": "venue:openairtheatre",
+    "tags": [
+      "theatre",
+      "outdoors"
+    ],
+    "price": null,
+    "description": "One-night hip hop dance theatre celebration from award-winning company Boy Blue, featuring their adult companies on the open-air stage. Performance time unconfirmed; evening show expected.",
+    "id": "boy-blue-in-the-park-ff60122b",
+    "added": "2026-07-05"
+  },
+  {
+    "title": "Grounding Practice: Disruption and Innovation with Metal & Water",
+    "start": "2026-07-16T17:30:00+01:00",
+    "end": "2026-07-16T19:30:00+01:00",
+    "venue": "Somerset House (Snooker Rooms, New Wing)",
+    "address": "Strand, WC2R 1LA",
+    "url": "https://www.somersethouse.org.uk/whats-on/grounding-practice/grounding-practice-disruption-and-innovation-with-metal-water",
+    "source": "venue:somersethouse",
+    "tags": [
+      "talk"
+    ],
+    "price": "£5",
+    "description": "Informal salon talk with Nancy May Roberts, founder of performance company Metal & Water, on sustaining a creative practice: commissioning, funding structures and navigating institutions.",
+    "id": "grounding-practice-disruption-and-innovation-with-metal-wate-fb78848d",
+    "added": "2026-07-05"
+  },
+  {
+    "title": "Alive: What Life Is, How It Works, and Why It Matters (Royal Institution talk)",
+    "start": "2026-07-16T19:00:00+01:00",
+    "end": null,
+    "venue": "The Royal Institution",
+    "address": "21 Albemarle Street, Mayfair, London W1S 4BS",
+    "url": "https://www.eventbrite.co.uk/e/alive-what-life-is-how-it-works-and-why-it-matters-theatre-tickets-1987603851625",
+    "source": "keyword-search",
+    "tags": [
+      "talk"
+    ],
+    "price": "From £7.90",
+    "description": "An evening science talk in the Royal Institution's historic lecture theatre exploring what life actually is and how it works. In-person theatre tickets from £7.90; also streamed online.",
+    "id": "alive-what-life-is-how-it-works-and-why-it-matters-royal-ins-b7a11416",
+    "added": "2026-07-05"
+  },
+  {
+    "title": "Somerset House Summer Series 2026 (opening night: Naïka)",
+    "start": "2026-07-16T19:30:00+01:00",
+    "end": null,
+    "venue": "Somerset House, Edmond J. Safra Fountain Court",
+    "address": "Strand, WC2R 1LA",
+    "url": "https://www.somersethouse.org.uk/whats-on/somerset-house-summer-series",
+    "source": "venue:somersethouse",
+    "tags": [
+      "music",
+      "festival",
+      "outdoors"
+    ],
+    "price": "£36.25",
+    "description": "Eleven nights of live music (16–26 Jul) in Somerset House's courtyard, opening with French-Haitian pop/R&B artist Naïka. Several nights including Naïka, Palace (17 Jul) and Thee Sacred Souls (18 Jul) are sold out; check other dates.",
+    "id": "somerset-house-summer-series-2026-opening-night-na-ka-9f0ebca1",
+    "added": "2026-07-05"
+  },
+  {
+    "title": "London Craft Beer Festival 2026",
+    "start": "2026-07-17T17:30:00+01:00",
+    "end": "2026-07-17T22:30:00+01:00",
+    "venue": "Southwark Park",
+    "address": "Southwark Park, SE16",
+    "url": "https://londoncraftbeerfestival.co.uk/",
+    "source": "venue:londoncraftbeerfestival",
+    "tags": [
+      "food",
+      "festival",
+      "outdoors"
+    ],
+    "price": null,
+    "description": "Two-day beer festival (17–18 Jul) with over 800 craft beers from 100+ breweries, street food and live music; all-inclusive tickets cover unlimited sampling. Friday evening session listed; Saturday has day and evening sessions.",
+    "id": "london-craft-beer-festival-2026-98258270",
+    "added": "2026-07-05"
+  },
+  {
+    "title": "First Night of the Proms 2026",
+    "start": "2026-07-17T19:00:00+01:00",
+    "end": null,
+    "venue": "Royal Albert Hall",
+    "address": "Kensington Gore, SW7 2AP",
+    "url": "https://www.royalalberthall.com/tickets/proms/bbc-proms-2026/first-night-of-the-proms-2026",
+    "source": "venue:royalalberthall",
+    "tags": [
+      "music"
+    ],
+    "price": null,
+    "description": "The BBC Proms season opens with Dalia Stasevska conducting the BBC Symphony Orchestra and Chorus: Copland's Fanfare for the Common Man, Gershwin's An American in Paris, and pianist Yunchan Lim playing Ravel's Piano Concerto in G.",
+    "id": "first-night-of-the-proms-2026-e3ef077f",
+    "added": "2026-07-05"
+  },
+  {
+    "title": "Sicilian Cooking Class at Food at 52",
+    "start": "2026-07-18T11:00:00+01:00",
+    "end": "2026-07-18T14:30:00+01:00",
+    "venue": "Food at 52 Cookery School",
+    "address": "96 Central Street, Clerkenwell, London EC1V 8AJ",
+    "url": "https://www.foodat52.co.uk/pages/at-a-glance-schedule",
+    "source": "keyword-search",
+    "tags": [
+      "food",
+      "class",
+      "workshop"
+    ],
+    "price": null,
+    "description": "A 3.5-hour hands-on Sicilian cookery class at Clerkenwell's well-loved Food at 52 school, where you cook and then eat a full Sicilian spread. Part of a rolling schedule of world-cuisine classes through July and August.",
+    "id": "sicilian-cooking-class-at-food-at-52-85c56083",
+    "added": "2026-07-05"
+  },
+  {
+    "title": "HYPER JAPAN Festival 2026",
+    "start": "2026-07-24T12:00:00+01:00",
+    "end": "2026-07-24T20:00:00+01:00",
+    "venue": "Olympia London",
+    "address": "Hammersmith Road, W14 8UX",
+    "url": "https://hyperjapan.co.uk/festival/",
+    "source": "venue:hyperjapan",
+    "tags": [
+      "festival",
+      "food",
+      "community"
+    ],
+    "price": "From £28.35",
+    "description": "The UK's largest Japanese culture festival runs 24–26 July with over 530 exhibitors covering music, food, fashion, gaming, workshops and shopping. Friday hours 12–8pm; children 10 and under free.",
+    "id": "hyper-japan-festival-2026-4da2d67a",
+    "added": "2026-07-05"
+  },
+  {
+    "title": "Discourse: Discoveries at the Icy Moons of Jupiter and Saturn",
+    "start": "2026-07-24T19:20:00+01:00",
+    "end": null,
+    "venue": "The Royal Institution",
+    "address": "21 Albemarle Street, Mayfair, London W1S 4BS",
+    "url": "https://www.eventbrite.co.uk/e/discourse-discoveries-at-the-icy-moons-of-jupiter-and-saturn-theatre-tickets-1987618676968",
+    "source": "keyword-search",
+    "tags": [
+      "talk"
+    ],
+    "price": "Free",
+    "description": "A free evening Discourse lecture at the Royal Institution on the latest discoveries at the icy moons of Jupiter and Saturn, in the famous Faraday lecture theatre.",
+    "id": "discourse-discoveries-at-the-icy-moons-of-jupiter-and-saturn-0e9e366e",
+    "added": "2026-07-05"
+  },
+  {
+    "title": "Terrarium Making Workshop with London Terrariums",
+    "start": "2026-07-25T11:00:00+01:00",
+    "end": "2026-07-25T12:30:00+01:00",
+    "venue": "London Terrariums studio",
+    "address": null,
+    "url": "https://londonterrariums.com/collections/workshops",
+    "source": "keyword-search",
+    "tags": [
+      "workshop",
+      "art"
+    ],
+    "price": "From £50",
+    "description": "A 90-minute hands-on workshop building your own glass terrarium to take home, run by specialists London Terrariums. Further dates through late July and August, including evening sessions on 29 July and 13 August.",
+    "id": "terrarium-making-workshop-with-london-terrariums-28e0987a",
+    "added": "2026-07-05"
+  },
+  {
+    "title": "CATS at Regent's Park Open Air Theatre (opening night)",
+    "start": "2026-07-25T19:45:00+01:00",
+    "end": null,
+    "venue": "Regent's Park Open Air Theatre",
+    "address": "Inner Circle, Regent's Park, NW1 4NU",
+    "url": "https://openairtheatre.com/production/cats",
+    "source": "venue:openairtheatre",
+    "tags": [
+      "theatre",
+      "music",
+      "outdoors"
+    ],
+    "price": "From £19",
+    "description": "A brand-new open-air production of Andrew Lloyd Webber's musical based on T.S. Eliot's Old Possum's Book of Practical Cats, running 25 July – 19 September. Evening performance time approximate.",
+    "id": "cats-at-regent-s-park-open-air-theatre-opening-night-346958ee",
+    "added": "2026-07-05"
+  },
+  {
+    "title": "West London Supper Club – Summer Edition",
+    "start": "2026-07-31T18:30:00+01:00",
+    "end": "2026-07-31T22:30:00+01:00",
+    "venue": "R&H Cafe Gallery",
+    "address": "84 Abingdon Villas, Kensington, London W8 6XB",
+    "url": "https://www.randhbusinessltd.com/event-details/west-london-supper-summer-edition-31-july-2026",
+    "source": "keyword-search",
+    "tags": [
+      "food",
+      "community"
+    ],
+    "price": "£110",
+    "description": "An intimate 12-seat supper club with a curated multi-course Persian menu and welcome drink, designed for conversation and meeting new people in a cosy Kensington cafe-gallery.",
+    "id": "west-london-supper-club-summer-edition-4e7c2c35",
+    "added": "2026-07-05"
+  }
+]
