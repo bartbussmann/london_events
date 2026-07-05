@@ -24,7 +24,8 @@ discovering places — not a tourist checklist.
 - Live music, especially indie, folk, and small intimate venues — small pub gigs and
   tiny venues in Bethnal Green/Shoreditch are a top priority (think back rooms,
   basements, 50-200 capacity rooms)
-- Science and technology talks, lectures, interesting panel discussions
+- Science and technology talks, lectures, interesting panel discussions —
+  including AI safety events (LISA in Shoreditch is a favourite source)
 - Food events: supper clubs, food markets, tastings
 - Outdoor stuff in summer: open-air cinema, festivals, park events
 - Art exhibitions worth a dedicated visit

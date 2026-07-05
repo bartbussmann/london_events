@@ -8,9 +8,10 @@
 #   keywords: web searches the agent runs to discover new things
 
 ics:
-  # - name: Example venue calendar
-  #   url: https://example.com/events.ics
-  #   tags: [music]
+  - name: LISA (London Initiative for Safe AI)
+    url: "https://api.lu.ma/ics/get?entity=calendar&id=cal-EIg2kZGmZGWkWcW"
+    tags: [tech, talk]
+    # AI safety talks/events, mostly at 25 Holywell Row, Shoreditch (https://luma.com/safeai)
 
 venues:
   - name: Soul Sanctuary

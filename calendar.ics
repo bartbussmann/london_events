@@ -107,6 +107,20 @@ URL:https://www.barbican.org.uk/whats-on/2026/event/project-a-black-planet
 LOCATION:Barbican Art Gallery\, Silk Street\, EC2Y 8DS
 END:VEVENT
 BEGIN:VEVENT
+UID:ics-c24da79541c9@london-events
+DTSTAMP:20260707T180000Z
+DTSTART:20260707T180000Z
+DTEND:20260707T190000Z
+SUMMARY:PIVOTAL X AIWI - Whistleblowing in Frontier AI
+DESCRIPTION:Get up-to-date information at: https://luma.com/jd779x2s\n\nAd
+ dress:\nLondon Initiative for Safe AI (LISA)\nLondon\, United Kingdom\n\n
+ Hosted by Jenny Huzell & 3 others\nhttps://api.lu.ma/ics/get?entity=calen
+ dar&id=cal-EIg2kZGmZGWkWcW
+URL:https://api.lu.ma/ics/get?entity=calendar&id=cal-EIg2kZGmZGWkWcW
+LOCATION:London Initiative for Safe AI (LISA)\, 25 Holywell Row\, London E
+ C2A 4XE\, UK
+END:VEVENT
+BEGIN:VEVENT
 UID:london-on-board-tuesday-evening-board-gaming-728b209d@london-events
 DTSTAMP:20260707T170000Z
 DTSTART:20260707T170000Z
@@ -145,6 +159,20 @@ DESCRIPTION:A weekly Tuesday social for new boulderers to learn climbing f
  ttps://www.citybouldering.co.uk/events/beginner
 URL:https://www.citybouldering.co.uk/events/beginner
 LOCATION:City Bouldering Stratford\, 234 High Street\, London E15 2JA
+END:VEVENT
+BEGIN:VEVENT
+UID:ics-dec4b72ef8fe@london-events
+DTSTAMP:20260708T180000Z
+DTSTART:20260708T180000Z
+DTEND:20260708T203000Z
+SUMMARY:AI & Willing Servitude - Andreas Mogensen (Oxford University) + Q&
+ A + Networking
+DESCRIPTION:Get up-to-date information at: https://luma.com/el6b35um\n\nAd
+ dress:\nCheck event page for more details.\n\nHosted by Sentio\, Joe Murr
+ ay & LISA\nhttps://api.lu.ma/ics/get?entity=calendar&id=cal-EIg2kZGmZGWkW
+ cW
+URL:https://api.lu.ma/ics/get?entity=calendar&id=cal-EIg2kZGmZGWkWcW
+LOCATION:https://luma.com/event/evt-yKirdEMQumV8Ba1
 END:VEVENT
 BEGIN:VEVENT
 UID:the-sunset-sessions-open-air-ecstatic-dance-cacao-silent-dis-670f3d4a@
@@ -564,6 +592,21 @@ URL:https://luma.com/0jgxtvhs
 LOCATION:Newspeak House\, 133-135 Bethnal Green Road\, E2 7DG
 END:VEVENT
 BEGIN:VEVENT
+UID:ics-7ecd2af4b8f4@london-events
+DTSTAMP:20260716T160000Z
+DTSTART:20260716T160000Z
+DTEND:20260716T170000Z
+SUMMARY:CLR Summer Fellowship Speaker Series: Daniel Kokotajlo (AI Futures
+  Project)
+DESCRIPTION:Get up-to-date information at: https://luma.com/uy7racju\n\nAd
+ dress:\nLondon Initiative for Safe AI (LISA)\nLondon\, United Kingdom\n\n
+ Hosted by Center on Long-term Risk & LISA\nhttps://api.lu.ma/ics/get?enti
+ ty=calendar&id=cal-EIg2kZGmZGWkWcW
+URL:https://api.lu.ma/ics/get?entity=calendar&id=cal-EIg2kZGmZGWkWcW
+LOCATION:London Initiative for Safe AI (LISA)\, 25 Holywell Row\, London E
+ C2A 4XE\, UK
+END:VEVENT
+BEGIN:VEVENT
 UID:grounding-practice-disruption-and-innovation-with-metal-wate-fb78848d@
  london-events
 DTSTAMP:20260716T163000Z
@@ -627,6 +670,21 @@ DESCRIPTION:No-wave icon Lydia Lunch and Marc Hurtado perform the music of
 URL:https://dice.fm/event/dk26vv-lydia-lunch-marc-hurtado-play-suicide-and
  -alan-vega-16th-jul-moth-club-london-tickets
 LOCATION:MOTH Club\, Old Trades Hall\, Valette Street\, Hackney\, E9 6NU
+END:VEVENT
+BEGIN:VEVENT
+UID:ics-5d35d772be12@london-events
+DTSTAMP:20260717T160000Z
+DTSTART:20260717T160000Z
+DTEND:20260717T170000Z
+SUMMARY:CLR Summer Fellowship Speaker Series: Lewis Hammond (Cooperative A
+ I Foundation)
+DESCRIPTION:Get up-to-date information at: https://luma.com/1wnkty6l\n\nAd
+ dress:\nLondon Initiative for Safe AI (LISA)\nLondon\, United Kingdom\n\n
+ Hosted by Center on Long-term Risk & LISA\nhttps://api.lu.ma/ics/get?enti
+ ty=calendar&id=cal-EIg2kZGmZGWkWcW
+URL:https://api.lu.ma/ics/get?entity=calendar&id=cal-EIg2kZGmZGWkWcW
+LOCATION:London Initiative for Safe AI (LISA)\, 25 Holywell Row\, London E
+ C2A 4XE\, UK
 END:VEVENT
 BEGIN:VEVENT
 UID:london-craft-beer-festival-2026-98258270@london-events
@@ -696,6 +754,20 @@ URL:https://dice.fm/event/xeyx8e-afrique-express-18th-jul-sjq-london-ticke
 LOCATION:Servant Jazz Quarters\, 10A Bradbury Street\, Dalston\, N16 8JN
 END:VEVENT
 BEGIN:VEVENT
+UID:ics-f8c9f003bcf6@london-events
+DTSTAMP:20260721T160000Z
+DTSTART:20260721T160000Z
+DTEND:20260721T170000Z
+SUMMARY:CLR Summer Fellowship Speaker Series: Andy Gordon (Timaeus)
+DESCRIPTION:Get up-to-date information at: https://luma.com/7siqf8me\n\nAd
+ dress:\nLondon Initiative for Safe AI (LISA)\nLondon\, United Kingdom\n\n
+ Hosted by Center on Long-term Risk & LISA\nhttps://api.lu.ma/ics/get?enti
+ ty=calendar&id=cal-EIg2kZGmZGWkWcW
+URL:https://api.lu.ma/ics/get?entity=calendar&id=cal-EIg2kZGmZGWkWcW
+LOCATION:London Initiative for Safe AI (LISA)\, 25 Holywell Row\, London E
+ C2A 4XE\, UK
+END:VEVENT
+BEGIN:VEVENT
 UID:thursday-singles-pottery-night-1012a791@london-events
 DTSTAMP:20260721T173000Z
 DTSTART:20260721T173000Z
@@ -733,6 +805,20 @@ DESCRIPTION:Isle of Wight indie-rockers Coach Party play an up-close basem
 URL:https://dice.fm/event/7dggn7-big-dork-summer-coach-party-21st-jul-sebr
  ight-arms-london-tickets
 LOCATION:Sebright Arms\, 31-35 Coate Street\, Bethnal Green\, E2 9AG
+END:VEVENT
+BEGIN:VEVENT
+UID:ics-baedf66515a1@london-events
+DTSTAMP:20260722T160000Z
+DTSTART:20260722T160000Z
+DTEND:20260722T170000Z
+SUMMARY:CLR Summer Fellowship Speaker Series: Mia Hopman (Apollo Research)
+DESCRIPTION:Get up-to-date information at: https://luma.com/pqj2h1hy\n\nAd
+ dress:\nLondon Initiative for Safe AI (LISA)\nLondon\, United Kingdom\n\n
+ Hosted by Center on Long-term Risk & LISA\nhttps://api.lu.ma/ics/get?enti
+ ty=calendar&id=cal-EIg2kZGmZGWkWcW
+URL:https://api.lu.ma/ics/get?entity=calendar&id=cal-EIg2kZGmZGWkWcW
+LOCATION:London Initiative for Safe AI (LISA)\, 25 Holywell Row\, London E
+ C2A 4XE\, UK
 END:VEVENT
 BEGIN:VEVENT
 UID:thursday-30-singles-night-new-venue-shoreditch-7d1787d7@london-events
@@ -947,6 +1033,21 @@ URL:https://www.eventbrite.co.uk/e/connection-our-deepest-desire-and-great
  est-fear-tickets-1990893100858
 LOCATION:Bonnington Cafe and Community Centre\, 11 Vauxhall Grove\, Vauxha
  ll\, SW8 1TD
+END:VEVENT
+BEGIN:VEVENT
+UID:ics-2f702e4fcb34@london-events
+DTSTAMP:20260805T160000Z
+DTSTART:20260805T160000Z
+DTEND:20260805T170000Z
+SUMMARY:CLR Summer Fellowship Speaker Series: Chi Nguyen (Redwood Research
+ )
+DESCRIPTION:Get up-to-date information at: https://luma.com/67nhmqfy\n\nAd
+ dress:\nLondon Initiative for Safe AI (LISA)\nLondon\, United Kingdom\n\n
+ Hosted by Center on Long-term Risk & LISA\nhttps://api.lu.ma/ics/get?enti
+ ty=calendar&id=cal-EIg2kZGmZGWkWcW
+URL:https://api.lu.ma/ics/get?entity=calendar&id=cal-EIg2kZGmZGWkWcW
+LOCATION:London Initiative for Safe AI (LISA)\, 25 Holywell Row\, London E
+ C2A 4XE\, UK
 END:VEVENT
 BEGIN:VEVENT
 UID:slow-mass-at-the-victoria-dalston-5d5fb02b@london-events
