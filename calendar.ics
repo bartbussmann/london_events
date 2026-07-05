@@ -63,6 +63,32 @@ URL:https://swingdanceuk.com/classes/workshops/
 LOCATION:Studio 2\, City Sport\, 124 Goswell Road\, London EC1V 7DP
 END:VEVENT
 BEGIN:VEVENT
+UID:ceroc-pimlico-beginner-intermediate-class-night-eba1aeac@london-events
+DTSTAMP:20260706T183000Z
+DTSTART:20260706T183000Z
+DTEND:20260706T213000Z
+SUMMARY:Ceroc Pimlico — Beginner & Intermediate Class Night
+DESCRIPTION:Weekly Monday Ceroc night with beginner and intermediate class
+ es plus freestyle\; partners rotate so you can come alone. Runs every Mon
+ day\, no booking required.\nhttps://www.ceroc.com/67/1127/ceroc-london
+URL:https://www.ceroc.com/67/1127/ceroc-london
+LOCATION:Pimlico Academy\, Lupus Street\, London SW1V 3AT
+END:VEVENT
+BEGIN:VEVENT
+UID:o-r-b-oral-habit-at-the-shacklewell-arms-8f7c05a6@london-events
+DTSTAMP:20260706T183000Z
+DTSTART:20260706T183000Z
+DTEND:20260706T203000Z
+SUMMARY:O.R.B + Oral Habit at The Shacklewell Arms
+DESCRIPTION:Psych-rock double bill in the Shacklewell's famous back room\,
+  one of Dalston's best small stages. Doors 7:30pm.\nPrice: £17.00\nhttps
+ ://dice.fm/event/g5aq3b-orb-oral-habit-6th-jul-the-shacklewell-arms-londo
+ n-tickets
+URL:https://dice.fm/event/g5aq3b-orb-oral-habit-6th-jul-the-shacklewell-ar
+ ms-london-tickets
+LOCATION:The Shacklewell Arms\, 71 Shacklewell Lane\, Dalston\, E8 2EB
+END:VEVENT
+BEGIN:VEVENT
 UID:project-a-black-planet-the-art-and-culture-of-panafrica-exhi-46ee5be4@
  london-events
 DTSTAMP:20260707T090000Z
@@ -121,6 +147,24 @@ URL:https://www.citybouldering.co.uk/events/beginner
 LOCATION:City Bouldering Stratford\, 234 High Street\, London E15 2JA
 END:VEVENT
 BEGIN:VEVENT
+UID:the-sunset-sessions-open-air-ecstatic-dance-cacao-silent-dis-670f3d4a@
+ london-events
+DTSTAMP:20260708T170000Z
+DTSTART:20260708T170000Z
+DTEND:20260708T193000Z
+SUMMARY:The Sunset Sessions — Open-Air Ecstatic Dance & Cacao (Silent Di
+ sco)
+DESCRIPTION:Sober open-air ecstatic dance with cacao circle and silent-dis
+ co headphones\, barefoot on grass through sunset. Recurs on 10\, 11\, 15\
+ , 17 and 18 July 2026.\nPrice: £13-£18\nhttps://ecstaticdancelondon.com
+ /event/the-sunset-sessions-outdoor-dances-with-ecstatic-dance-london-open
+ -air/2026-07-08/
+URL:https://ecstaticdancelondon.com/event/the-sunset-sessions-outdoor-danc
+ es-with-ecstatic-dance-london-open-air/2026-07-08/
+LOCATION:Outdoor park location\, North/Central London (revealed on booking
+ )\, North London park (exact spot sent after booking)
+END:VEVENT
+BEGIN:VEVENT
 UID:rub-n-blades-roberto-delgado-big-band-4ec861ad@london-events
 DTSTAMP:20260708T180000Z
 DTSTART:20260708T180000Z
@@ -132,6 +176,86 @@ DESCRIPTION:Farewell-tour show from the salsa icon\, his first UK appearan
  nPrice: £65\nhttps://www.roundhouse.org.uk/whats-on/ruben-blades/
 URL:https://www.roundhouse.org.uk/whats-on/ruben-blades/
 LOCATION:Roundhouse\, Chalk Farm Road\, NW1 8EH
+END:VEVENT
+BEGIN:VEVENT
+UID:ration-club-weekly-community-dinner-5bc278ae@london-events
+DTSTAMP:20260708T180000Z
+DTSTART:20260708T180000Z
+DTEND:20260708T210000Z
+SUMMARY:Ration Club — weekly community dinner
+DESCRIPTION:Newspeak House's weekly community dinner\, open to anyone who 
+ wants to learn about the college and its community. Recurs every Wednesda
+ y evening\; sign up via the form.\nhttps://forms.gle/T3rXorsrb4gXKazv9
+URL:https://forms.gle/T3rXorsrb4gXKazv9
+LOCATION:Newspeak House\, 133-135 Bethnal Green Road\, E2 7DG
+END:VEVENT
+BEGIN:VEVENT
+UID:thursday-jamie-oliver-singles-dinner-f3325dd3@london-events
+DTSTAMP:20260708T180000Z
+DTSTART:20260708T180000Z
+DTEND:20260708T200000Z
+SUMMARY:Thursday: Jamie Oliver Singles Dinner
+DESCRIPTION:Singles-only dinner by the Thursday dating app at Jamie Oliver
+ 's Covent Garden restaurant.\nPrice: from £15\nhttps://www.thursday.com/
+ events/london/3e8820fc-1e08-4554-a05b-ee56773badc5
+URL:https://www.thursday.com/events/london/3e8820fc-1e08-4554-a05b-ee56773
+ badc5
+LOCATION:Jamie Oliver Catherine St\, Catherine Street\, Covent Garden
+END:VEVENT
+BEGIN:VEVENT
+UID:ceroc-st-pancras-beginner-intermediate-class-night-5af7c566@london-eve
+ nts
+DTSTAMP:20260708T183000Z
+DTSTART:20260708T183000Z
+DTEND:20260708T213000Z
+SUMMARY:Ceroc St Pancras — Beginner & Intermediate Class Night
+DESCRIPTION:Weekly Wednesday Ceroc London class night near King's Cross/St
+  Pancras with beginner and intermediate lessons and social freestyle. Rec
+ urs every Wednesday\; just turn up.\nhttps://www.ceroc.com/67/1127/ceroc-
+ london
+URL:https://www.ceroc.com/67/1127/ceroc-london
+LOCATION:Edith Neville Primary School\, Purchese Street\, London NW1 1RW
+END:VEVENT
+BEGIN:VEVENT
+UID:shoreditch-speed-dating-ages-23-35-true-dating-c890a398@london-events
+DTSTAMP:20260709T173000Z
+DTSTART:20260709T173000Z
+DTEND:20260709T193000Z
+SUMMARY:Shoreditch Speed Dating (ages 23-35) — True Dating
+DESCRIPTION:Classic speed dating night at Be At One on Old Street for ages
+  23-35. Male tickets were sold out at time of checking\; a similar night 
+ runs there on 13 August.\nPrice: £15\nhttps://truedating.co.uk/events/sh
+ oreditch-speed-dating-9-jul-2026
+URL:https://truedating.co.uk/events/shoreditch-speed-dating-9-jul-2026
+LOCATION:Be At One\, Shoreditch\, 348 Old Street\, London EC1V 9NQ
+END:VEVENT
+BEGIN:VEVENT
+UID:the-sleeves-jack-cooper-tara-cunningham-minami-saeki-at-cafe-286606ee@
+ london-events
+DTSTAMP:20260709T183000Z
+DTSTART:20260709T183000Z
+DTEND:20260709T203000Z
+SUMMARY:The Sleeves (Jack Cooper & Tara Cunningham) + Minami Saeki at Cafe
+  OTO
+DESCRIPTION:Intimate evening at Dalston's home of adventurous music\, with
+  Jack Cooper (Modern Nature) and Tara Cunningham's new duo The Sleeves pl
+ us Japanese songwriter Minami Saeki.\nPrice: £16 (£14 advance)\nhttps:/
+ /www.cafeoto.co.uk/events/the-sleeves/
+URL:https://www.cafeoto.co.uk/events/the-sleeves/
+LOCATION:Cafe OTO\, 18-22 Ashwin Street\, Dalston\, E8 3DL
+END:VEVENT
+BEGIN:VEVENT
+UID:t-w-c-weekly-thursday-5rhythms-class-9b0c43e0@london-events
+DTSTAMP:20260709T190000Z
+DTSTART:20260709T190000Z
+DTEND:20260709T210000Z
+SUMMARY:T.W.C — weekly Thursday 5Rhythms class
+DESCRIPTION:Weekly Thursday 5Rhythms class with Jason Rowe and community t
+ eachers\; doors 7.45pm\, no prebooking. Recurs every Thursday.\nPrice: Sl
+ iding scale £11-£20 on the door\nhttps://www.5rhythms.com/classes/TWCfo
+ rmerlyThursdayWaves-329
+URL:https://www.5rhythms.com/classes/TWCformerlyThursdayWaves-329
+LOCATION:St Luke's Church\, Hillmarton Road\, N7 9RE
 END:VEVENT
 BEGIN:VEVENT
 UID:free-outdoor-yoga-with-moreyoga-at-wembley-park-ecb8a632@london-events
@@ -162,6 +286,62 @@ URL:https://www.citylit.ac.uk/courses/life-drawing-after-work
 LOCATION:City Lit\, Keeley Street\, Covent Garden\, London WC2B 4BA
 END:VEVENT
 BEGIN:VEVENT
+UID:simply-being-5rhythms-south-bank-f8ab610f@london-events
+DTSTAMP:20260710T173000Z
+DTSTART:20260710T173000Z
+DTEND:20260710T200000Z
+SUMMARY:Simply Being 5Rhythms (South Bank)
+DESCRIPTION:Richard Wiltshire's weekly Friday 5Rhythms class on the South 
+ Bank\; next class 10 July (no class 31 July or 14 August).\nPrice: From 
+ £15.50 (£10 first-timers)\nhttps://www.5rhythms.com/classes/SimplyBeing
+ Rhythms-291541
+URL:https://www.5rhythms.com/classes/SimplyBeingRhythms-291541
+LOCATION:Central School of Ballet\, 21-22 Hatfields\, SE1 8DJ
+END:VEVENT
+BEGIN:VEVENT
+UID:thursday-singles-badminton-in-haggerston-885dd34d@london-events
+DTSTAMP:20260710T180000Z
+DTSTART:20260710T180000Z
+DTEND:20260710T200000Z
+SUMMARY:Thursday: Singles Badminton in Haggerston
+DESCRIPTION:Singles badminton night by the Thursday dating app\, a short w
+ alk from Bethnal Green. Repeats on 24 July.\nPrice: from £20\nhttps://ww
+ w.thursday.com/events/london/9b305da4-84f4-4ec0-a5c7-1ec0bcaaa169
+URL:https://www.thursday.com/events/london/9b305da4-84f4-4ec0-a5c7-1ec0bca
+ aa169
+LOCATION:Haggerston School\, Weymouth Terrace\, E2 8LS
+END:VEVENT
+BEGIN:VEVENT
+UID:circling-drop-in-evening-with-robyn-wilford-86f4d9ba@london-events
+DTSTAMP:20260710T180000Z
+DTSTART:20260710T180000Z
+DTEND:20260710T200000Z
+SUMMARY:Circling Drop-In Evening (with Robyn Wilford)
+DESCRIPTION:A drop-in evening of Circling\, a present-moment relational aw
+ areness practice bringing curiosity to what unfolds within yourself\, bet
+ ween people and in the group. Recurring drop-in\; newcomers welcome.\nPri
+ ce: £18\nhttps://www.eventbrite.co.uk/e/circling-drop-in-evening-tickets
+ -1989153813603
+URL:https://www.eventbrite.co.uk/e/circling-drop-in-evening-tickets-198915
+ 3813603
+LOCATION:Community venue opposite Elephant & Castle station\, London Road\
+ , Elephant & Castle\, SE1
+END:VEVENT
+BEGIN:VEVENT
+UID:lifepath99-speedial-spring-at-moth-club-06b90e81@london-events
+DTSTAMP:20260710T180000Z
+DTSTART:20260710T180000Z
+DTEND:20260710T200000Z
+SUMMARY:Lifepath99 + Speedial + SPRING at MOTH Club
+DESCRIPTION:Cheap Friday-night triple bill of new bands under the glitter 
+ ceiling of Hackney's ex-servicemen's club turned venue. Doors 7pm.\nPrice
+ : £6.00\nhttps://dice.fm/event/pyngww-lifepath99-speedial-spring-10th-ju
+ l-moth-club-london-tickets
+URL:https://dice.fm/event/pyngww-lifepath99-speedial-spring-10th-jul-moth-
+ club-london-tickets
+LOCATION:MOTH Club\, Old Trades Hall\, Valette Street\, Hackney\, E9 6NU
+END:VEVENT
+BEGIN:VEVENT
 UID:poetry-international-benjamin-zephaniah-celebration-73472adb@london-ev
  ents
 DTSTAMP:20260710T183000Z
@@ -176,6 +356,19 @@ DESCRIPTION:Opening night of the Poetry International Festival (10–12 Ju
 URL:https://www.southbankcentre.co.uk/events/poetry-international-festival
  /
 LOCATION:Royal Festival Hall\, Southbank Centre\, Belvedere Road\, SE1 8XX
+END:VEVENT
+BEGIN:VEVENT
+UID:cheza-roho-dance-meditation-games-4273fa3d@london-events
+DTSTAMP:20260710T183000Z
+DTSTART:20260710T183000Z
+DTEND:20260710T204500Z
+SUMMARY:Cheza Roho: Dance Meditation Games
+DESCRIPTION:Mikel The Energy's signature Rhythm & Breath experience combin
+ ing movement\, breath\, rhythm and music through interactive dance medita
+ tion games. Runs weekly on Friday evenings.\nhttps://momence.com/s/134309
+ 302
+URL:https://momence.com/s/134309302
+LOCATION:The Sanctuary &Soul\, Shoreditch\, off Brick Lane
 END:VEVENT
 BEGIN:VEVENT
 UID:angel-comedy-at-the-bill-murray-33ebc8af@london-events
@@ -193,6 +386,33 @@ LOCATION:The Bill Murray\, 39 Queen's Head Street\, Islington\, London N1
  8NQ
 END:VEVENT
 BEGIN:VEVENT
+UID:the-sauna-rave-prime-time-x-flow-state-5fc288bb@london-events
+DTSTAMP:20260710T200000Z
+DTSTART:20260710T200000Z
+DTEND:20260710T213000Z
+SUMMARY:The Sauna Rave (Prime Time x Flow State)
+DESCRIPTION:Friday-night rave inside the Sanctuary's custom-built sauna\, 
+ mixing heat\, music and recovery\; this edition is hosted with Flow State
+  and Prime Time. Recurs weekly on Fridays.\nhttps://momence.com/s/1342380
+ 68
+URL:https://momence.com/s/134238068
+LOCATION:The Sanctuary &Soul\, Shoreditch\, off Brick Lane
+END:VEVENT
+BEGIN:VEVENT
+UID:alexander-technique-one-day-workshop-city-lit-8bca2bff@london-events
+DTSTAMP:20260711T090000Z
+DTSTART:20260711T090000Z
+DTEND:20260711T160000Z
+SUMMARY:Alexander Technique: One-Day Workshop (City Lit)
+DESCRIPTION:A one-day beginner's introduction to the Alexander Technique c
+ overing everyday movement patterns\, spatial awareness and practical ways
+  to reduce tension and improve posture and breathing. Wear loose clothing
+  for floor work.\nPrice: £89-£99 (concessions available)\nhttps://www.c
+ itylit.ac.uk/courses/alexander-technique-workshop
+URL:https://www.citylit.ac.uk/courses/alexander-technique-workshop
+LOCATION:City Lit\, Keeley Street\, Covent Garden\, WC2B 4BA
+END:VEVENT
+BEGIN:VEVENT
 UID:lewis-capaldi-at-bst-hyde-park-c09bca6f@london-events
 DTSTAMP:20260711T130000Z
 DTSTART:20260711T130000Z
@@ -205,6 +425,33 @@ DESCRIPTION:Lewis Capaldi headlines a major open-air festival day in Hyde
  om/line-up/
 URL:https://www.bst-hydepark.com/line-up/
 LOCATION:BST Hyde Park\, Hyde Park\, W2
+END:VEVENT
+BEGIN:VEVENT
+UID:rhythm-roots-embodied-expression-31169a18@london-events
+DTSTAMP:20260711T170000Z
+DTSTART:20260711T170000Z
+DTEND:20260711T183000Z
+SUMMARY:Rhythm Roots + Embodied Expression
+DESCRIPTION:A dance class for everyone\, exploring a wide range of movemen
+ t styles and embodied expression with Lyndon The Healing Tree. Recurs wee
+ kly on Saturday evenings.\nhttps://momence.com/s/135395682
+URL:https://momence.com/s/135395682
+LOCATION:The Sanctuary &Soul\, Shoreditch\, off Brick Lane
+END:VEVENT
+BEGIN:VEVENT
+UID:sparks-steps-summer-singles-event-ages-28-40-4c1a9db4@london-events
+DTSTAMP:20260711T180000Z
+DTSTART:20260711T180000Z
+DTEND:20260711T210000Z
+SUMMARY:Sparks & Steps: Summer Singles Event (ages 28-40)
+DESCRIPTION:Summer singles social in the City with low-pressure ice-breake
+ rs\, conversation prompts and DJs playing pop and house. Aimed at ages 28
+ -40.\nPrice: £13.18-£21.98\nhttps://www.designmynight.com/london/pubs/c
+ ity-of-london/balfour-st-barts/saturday-11-july-sparks-steps-summer-singl
+ es-event-age-2840
+URL:https://www.designmynight.com/london/pubs/city-of-london/balfour-st-ba
+ rts/saturday-11-july-sparks-steps-summer-singles-event-age-2840
+LOCATION:Balfour St Bart's\, City of London
 END:VEVENT
 BEGIN:VEVENT
 UID:columbia-road-flower-market-79fb36e8@london-events
@@ -235,6 +482,47 @@ URL:https://countyhallpottery.com/product/wheel-throwing-pottery-taster-lo
 LOCATION:County Hall Pottery\, Belvedere Road\, Waterloo\, London SE1 7PB
 END:VEVENT
 BEGIN:VEVENT
+UID:thursday-singles-museum-walk-and-lunch-a5065f97@london-events
+DTSTAMP:20260712T100000Z
+DTSTART:20260712T100000Z
+DTEND:20260712T120000Z
+SUMMARY:Thursday: Singles Museum Walk and Lunch
+DESCRIPTION:Singles museum walk around the National Portrait Gallery follo
+ wed by lunch\, run by the Thursday dating app.\nPrice: from £20\nhttps:/
+ /www.thursday.com/events/london/ab03ff0e-1b6c-46d6-8aab-e8de035cda6d
+URL:https://www.thursday.com/events/london/ab03ff0e-1b6c-46d6-8aab-e8de035
+ cda6d
+LOCATION:National Portrait Gallery\, St Martin's Place\, WC2H 0HE
+END:VEVENT
+BEGIN:VEVENT
+UID:london-rationalish-meetup-lesswrong-acx-community-133093f0@london-even
+ ts
+DTSTAMP:20260712T130000Z
+DTSTART:20260712T130000Z
+DTEND:20260712T150000Z
+SUMMARY:London Rationalish Meetup (LessWrong/ACX community)
+DESCRIPTION:Casual outdoor gathering of London's rationalist/ACX crowd\; o
+ rganisers arrive from 2pm and discussion of three readings starts around 
+ 3pm. Weather permitting\, in the park's northeast quadrant.\nPrice: Free\
+ nhttps://www.lesswrong.com/events/DkZr5fynFNxuZnRMB/london-rationalish-me
+ etup-wzca
+URL:https://www.lesswrong.com/events/DkZr5fynFNxuZnRMB/london-rationalish-
+ meetup-wzca
+LOCATION:Lincoln's Inn Fields (northeast quadrant)\, Lincoln's Inn Fields\
+ , Holborn\, London WC2A
+END:VEVENT
+BEGIN:VEVENT
+UID:jam-session-at-newspeak-house-8f63008e@london-events
+DTSTAMP:20260712T130000Z
+DTSTART:20260712T130000Z
+DTEND:20260712T190000Z
+SUMMARY:Jam Session at Newspeak House
+DESCRIPTION:Open collaborative jam in Newspeak Hall — bring an instrumen
+ t or your voice\, or just come to listen.\nhttps://luma.com/o23zvfnv
+URL:https://luma.com/o23zvfnv
+LOCATION:Newspeak House\, 133-135 Bethnal Green Road\, E2 7DG
+END:VEVENT
+BEGIN:VEVENT
 UID:boy-blue-in-the-park-ff60122b@london-events
 DTSTAMP:20260712T180000Z
 DTSTART:20260712T180000Z
@@ -247,6 +535,33 @@ DESCRIPTION:One-night hip hop dance theatre celebration from award-winning
 URL:https://openairtheatre.com/production/boy-blue-2026
 LOCATION:Regent's Park Open Air Theatre\, Inner Circle\, Regent's Park\, N
  W1 4NU
+END:VEVENT
+BEGIN:VEVENT
+UID:sunday-jazz-at-the-old-blue-last-69300258@london-events
+DTSTAMP:20260712T180000Z
+DTSTART:20260712T180000Z
+DTEND:20260712T200000Z
+SUMMARY:Sunday Jazz at The Old Blue Last
+DESCRIPTION:Free weekly jazz session every Sunday evening in the upstairs 
+ room of Shoreditch's legendary pub venue. Repeats weekly through August.\
+ nPrice: Free\nhttps://dice.fm/event/yox692-sunday-jazz-12th-jul-the-old-b
+ lue-last-london-tickets
+URL:https://dice.fm/event/yox692-sunday-jazz-12th-jul-the-old-blue-last-lo
+ ndon-tickets
+LOCATION:The Old Blue Last\, 38 Great Eastern Street\, Shoreditch\, EC2A 3
+ ES
+END:VEVENT
+BEGIN:VEVENT
+UID:campaign-lab-hack-night-f5e87b03@london-events
+DTSTAMP:20260713T180000Z
+DTSTART:20260713T180000Z
+DTEND:20260713T210000Z
+SUMMARY:Campaign Lab Hack Night
+DESCRIPTION:Working session for progressive technologists and activists bu
+ ilding election tools. Recurs roughly fortnightly\, with further dates on
+  27 July and 3 August.\nhttps://luma.com/0jgxtvhs
+URL:https://luma.com/0jgxtvhs
+LOCATION:Newspeak House\, 133-135 Bethnal Green Road\, E2 7DG
 END:VEVENT
 BEGIN:VEVENT
 UID:grounding-practice-disruption-and-innovation-with-metal-wate-fb78848d@
@@ -299,6 +614,21 @@ LOCATION:Somerset House\, Edmond J. Safra Fountain Court\, Strand\, WC2R 1
  LA
 END:VEVENT
 BEGIN:VEVENT
+UID:lydia-lunch-marc-hurtado-play-suicide-and-alan-vega-at-moth--53b692e6@
+ london-events
+DTSTAMP:20260716T183000Z
+DTSTART:20260716T183000Z
+DTEND:20260716T203000Z
+SUMMARY:Lydia Lunch & Marc Hurtado play SUICIDE and Alan Vega at MOTH Club
+DESCRIPTION:No-wave icon Lydia Lunch and Marc Hurtado perform the music of
+  Suicide and Alan Vega in a rare small-room London show. Doors 7:30pm.\nP
+ rice: £26.15\nhttps://dice.fm/event/dk26vv-lydia-lunch-marc-hurtado-play
+ -suicide-and-alan-vega-16th-jul-moth-club-london-tickets
+URL:https://dice.fm/event/dk26vv-lydia-lunch-marc-hurtado-play-suicide-and
+ -alan-vega-16th-jul-moth-club-london-tickets
+LOCATION:MOTH Club\, Old Trades Hall\, Valette Street\, Hackney\, E9 6NU
+END:VEVENT
+BEGIN:VEVENT
 UID:london-craft-beer-festival-2026-98258270@london-events
 DTSTAMP:20260717T163000Z
 DTSTART:20260717T163000Z
@@ -327,6 +657,18 @@ URL:https://www.royalalberthall.com/tickets/proms/bbc-proms-2026/first-nig
 LOCATION:Royal Albert Hall\, Kensington Gore\, SW7 2AP
 END:VEVENT
 BEGIN:VEVENT
+UID:sanctum-movement-breathwork-somatic-release-f782ef5c@london-events
+DTSTAMP:20260718T093000Z
+DTSTART:20260718T093000Z
+DTEND:20260718T103000Z
+SUMMARY:Sanctum — movement\, breathwork & somatic release
+DESCRIPTION:An immersive\, music-driven mind-body practice blending dynami
+ c movement with breathwork\, meditation and somatic release. Recurs on we
+ ekend mornings.\nhttps://momence.com/s/132105798
+URL:https://momence.com/s/132105798
+LOCATION:The Sanctuary &Soul\, Shoreditch\, off Brick Lane
+END:VEVENT
+BEGIN:VEVENT
 UID:sicilian-cooking-class-at-food-at-52-85c56083@london-events
 DTSTAMP:20260718T100000Z
 DTSTART:20260718T100000Z
@@ -339,6 +681,84 @@ DESCRIPTION:A 3.5-hour hands-on Sicilian cookery class at Clerkenwell's we
 URL:https://www.foodat52.co.uk/pages/at-a-glance-schedule
 LOCATION:Food at 52 Cookery School\, 96 Central Street\, Clerkenwell\, Lon
  don EC1V 8AJ
+END:VEVENT
+BEGIN:VEVENT
+UID:afrique-express-at-servant-jazz-quarters-70e45b10@london-events
+DTSTAMP:20260718T200000Z
+DTSTART:20260718T200000Z
+DTEND:20260718T220000Z
+SUMMARY:Afrique Express! at Servant Jazz Quarters
+DESCRIPTION:Free late-night African-influenced live session in SJQ's tiny 
+ basement bar off Gillett Square. Starts 9pm.\nPrice: Free\nhttps://dice.f
+ m/event/xeyx8e-afrique-express-18th-jul-sjq-london-tickets
+URL:https://dice.fm/event/xeyx8e-afrique-express-18th-jul-sjq-london-ticke
+ ts
+LOCATION:Servant Jazz Quarters\, 10A Bradbury Street\, Dalston\, N16 8JN
+END:VEVENT
+BEGIN:VEVENT
+UID:thursday-singles-pottery-night-1012a791@london-events
+DTSTAMP:20260721T173000Z
+DTSTART:20260721T173000Z
+DTEND:20260721T193000Z
+SUMMARY:Thursday: Singles Pottery Night
+DESCRIPTION:Singles pottery-painting night by the Thursday dating app — 
+ dating plus a hands-on craft in one evening.\nPrice: from £15\nhttps://w
+ ww.thursday.com/events/london/ffcd0b17-8985-4721-9d95-cf444ced5832
+URL:https://www.thursday.com/events/london/ffcd0b17-8985-4721-9d95-cf444ce
+ d5832
+LOCATION:Pottery Café\, Battersea\, Battersea
+END:VEVENT
+BEGIN:VEVENT
+UID:thought-experiments-in-pubs-living-with-tech-3e4a2f8d@london-events
+DTSTAMP:20260721T180000Z
+DTSTART:20260721T180000Z
+DTEND:20260721T200000Z
+SUMMARY:Thought Experiments in Pubs: Living with Tech
+DESCRIPTION:Small-group discussion evening exploring technology and AI thr
+ ough thought experiments and rotating conversations.\nhttps://www.meetup.
+ com/thought-experiments-in-pubs/events/315452000/
+URL:https://www.meetup.com/thought-experiments-in-pubs/events/315452000/
+LOCATION:Newspeak House\, 133-135 Bethnal Green Road\, E2 7DG
+END:VEVENT
+BEGIN:VEVENT
+UID:big-dork-summer-coach-party-at-sebright-arms-17b5f6a7@london-events
+DTSTAMP:20260721T183000Z
+DTSTART:20260721T183000Z
+DTEND:20260721T203000Z
+SUMMARY:Big Dork Summer: Coach Party at Sebright Arms
+DESCRIPTION:Isle of Wight indie-rockers Coach Party play an up-close basem
+ ent show as part of the Big Dork Summer series at this Bethnal Green pub 
+ venue.\nPrice: £19.25\nhttps://dice.fm/event/7dggn7-big-dork-summer-coac
+ h-party-21st-jul-sebright-arms-london-tickets
+URL:https://dice.fm/event/7dggn7-big-dork-summer-coach-party-21st-jul-sebr
+ ight-arms-london-tickets
+LOCATION:Sebright Arms\, 31-35 Coate Street\, Bethnal Green\, E2 9AG
+END:VEVENT
+BEGIN:VEVENT
+UID:thursday-30-singles-night-new-venue-shoreditch-7d1787d7@london-events
+DTSTAMP:20260722T180000Z
+DTSTART:20260722T180000Z
+DTEND:20260722T200000Z
+SUMMARY:Thursday: 30+ Singles Night — new venue\, Shoreditch
+DESCRIPTION:30+ singles night by the Thursday dating app at a just-opened 
+ Shoreditch venue.\nPrice: from £12\nhttps://www.thursday.com/events/lond
+ on/f117d500-905b-4c52-94eb-82a299144e9b
+URL:https://www.thursday.com/events/london/f117d500-905b-4c52-94eb-82a2991
+ 44e9b
+LOCATION:91-92 Great Eastern St\, 91-92 Great Eastern Street\, EC2A 3HZ
+END:VEVENT
+BEGIN:VEVENT
+UID:thursday-singles-night-new-venue-shoreditch-6f044090@london-events
+DTSTAMP:20260723T180000Z
+DTSTART:20260723T180000Z
+DTEND:20260723T200000Z
+SUMMARY:Thursday: Singles Night — new venue\, Shoreditch
+DESCRIPTION:Singles night by the Thursday dating app at a just-opened Shor
+ editch venue.\nPrice: from £12\nhttps://www.thursday.com/events/london/f
+ e2afa8a-45cb-4ddf-b07a-97d71668270b
+URL:https://www.thursday.com/events/london/fe2afa8a-45cb-4ddf-b07a-97d7166
+ 8270b
+LOCATION:91-92 Great Eastern St\, 91-92 Great Eastern Street\, EC2A 3HZ
 END:VEVENT
 BEGIN:VEVENT
 UID:hyper-japan-festival-2026-4da2d67a@london-events
@@ -371,6 +791,21 @@ LOCATION:The Royal Institution\, 21 Albemarle Street\, Mayfair\, London W1
  S 4BS
 END:VEVENT
 BEGIN:VEVENT
+UID:cgi-goth-wife-ep-release-show-at-the-victoria-dalston-b936b569@london-
+ events
+DTSTAMP:20260724T183000Z
+DTSTART:20260724T183000Z
+DTEND:20260724T203000Z
+SUMMARY:CGI Goth Wife: EP Release Show at The Victoria Dalston
+DESCRIPTION:EP release party in the back room of this Victorian pub venue 
+ on Kingsland Road. Doors 7:30pm\, with a free indie club night following.
+ \nPrice: £9.27\nhttps://dice.fm/event/8elna5-cgi-goth-wife-ep-release-sh
+ ow-24th-jul-the-victoria-london-tickets
+URL:https://dice.fm/event/8elna5-cgi-goth-wife-ep-release-show-24th-jul-th
+ e-victoria-london-tickets
+LOCATION:The Victoria\, 451 Kingsland Road\, Dalston\, E8 4AU
+END:VEVENT
+BEGIN:VEVENT
 UID:terrarium-making-workshop-with-london-terrariums-28e0987a@london-event
  s
 DTSTAMP:20260725T100000Z
@@ -384,6 +819,17 @@ DESCRIPTION:A 90-minute hands-on workshop building your own glass terrariu
  ops
 URL:https://londonterrariums.com/collections/workshops
 LOCATION:London Terrariums studio
+END:VEVENT
+BEGIN:VEVENT
+UID:campaign-lab-summer-bbq-2026-8a46ff6f@london-events
+DTSTAMP:20260725T110000Z
+DTSTART:20260725T110000Z
+DTEND:20260725T210000Z
+SUMMARY:Campaign Lab Summer BBQ 2026
+DESCRIPTION:Casual all-day summer gathering for the Campaign Lab community
+  with food\, drinks and networking.\nhttps://luma.com/campaign-nxdr
+URL:https://luma.com/campaign-nxdr
+LOCATION:Newspeak House\, 133-135 Bethnal Green Road\, E2 7DG
 END:VEVENT
 BEGIN:VEVENT
 UID:cats-at-regent-s-park-open-air-theatre-opening-night-346958ee@london-e
@@ -401,6 +847,32 @@ LOCATION:Regent's Park Open Air Theatre\, Inner Circle\, Regent's Park\, N
  W1 4NU
 END:VEVENT
 BEGIN:VEVENT
+UID:mini-golf-singles-party-ages-28-42-true-dating-cf04eecc@london-events
+DTSTAMP:20260728T173000Z
+DTSTART:20260728T173000Z
+DTEND:20260728T193000Z
+SUMMARY:Mini Golf Singles Party (ages 28-42) — True Dating
+DESCRIPTION:Speed-dating alternative where singles aged 28-42 mingle over 
+ rounds of tech-enhanced mini golf at Puttshack in the City. Tickets still
+  available for both men and women at time of checking.\nPrice: £15\nhttp
+ s://truedating.co.uk/events/mini-golf-singles-party-28-jul-2026
+URL:https://truedating.co.uk/events/mini-golf-singles-party-28-jul-2026
+LOCATION:Puttshack\, Bank\, 1 Poultry\, London EC2R 8EJ
+END:VEVENT
+BEGIN:VEVENT
+UID:simply-being-5rhythms-full-moon-garden-session-90a98860@london-events
+DTSTAMP:20260729T174500Z
+DTSTART:20260729T174500Z
+DTEND:20260729T201500Z
+SUMMARY:Simply Being 5Rhythms Full Moon Garden Session
+DESCRIPTION:Outdoor full-moon 5Rhythms garden session with Richard Wiltshi
+ re in Brockwell Park.\nhttps://www.5rhythms.com/classes/SimplyBeingRhythm
+ sFullMoonGardenSessionsapathtoHealingGround-298604
+URL:https://www.5rhythms.com/classes/SimplyBeingRhythmsFullMoonGardenSessi
+ onsapathtoHealingGround-298604
+LOCATION:Brockwell Park Gardens\, Brockwell Park\, SE24 9BJ
+END:VEVENT
+BEGIN:VEVENT
 UID:west-london-supper-club-summer-edition-4e7c2c35@london-events
 DTSTAMP:20260731T173000Z
 DTSTART:20260731T173000Z
@@ -415,5 +887,138 @@ URL:https://www.randhbusinessltd.com/event-details/west-london-supper-summ
  er-edition-31-july-2026
 LOCATION:R&H Cafe Gallery\, 84 Abingdon Villas\, Kensington\, London W8 6X
  B
+END:VEVENT
+BEGIN:VEVENT
+UID:big-scary-indian-nyc-mr-speed-teleboutique-at-the-shacklewel-c9d54223@
+ london-events
+DTSTAMP:20260731T190000Z
+DTSTART:20260731T190000Z
+DTEND:20260731T210000Z
+SUMMARY:Big Scary Indian (NYC) + Mr Speed + Teleboutique at The Shacklewel
+ l Arms
+DESCRIPTION:New York's Big Scary Indian heads a cheap three-band Friday bi
+ ll in the Shacklewell's back room. Doors 8pm.\nPrice: £6.00\nhttps://dic
+ e.fm/event/dkp996-big-scary-indian-nyc-mr-speed-teleboutique-31st-jul-the
+ -shacklewell-arms-london-tickets
+URL:https://dice.fm/event/dkp996-big-scary-indian-nyc-mr-speed-teleboutiqu
+ e-31st-jul-the-shacklewell-arms-london-tickets
+LOCATION:The Shacklewell Arms\, 71 Shacklewell Lane\, Dalston\, E8 2EB
+END:VEVENT
+BEGIN:VEVENT
+UID:thursday-sauna-rave-at-sanctuary-soul-e8dcadbb@london-events
+DTSTAMP:20260731T200000Z
+DTSTART:20260731T200000Z
+DTEND:20260731T220000Z
+SUMMARY:Thursday: Sauna Rave at Sanctuary &Soul
+DESCRIPTION:Singles edition of the Shoreditch sauna rave\, run with the Th
+ ursday dating app at Sanctuary &Soul.\nPrice: from £28\nhttps://www.thur
+ sday.com/events/london/d3a99c6e-8102-40b0-a61e-c213fd877ffb
+URL:https://www.thursday.com/events/london/d3a99c6e-8102-40b0-a61e-c213fd8
+ 77ffb
+LOCATION:The Sanctuary &Soul\, Shoreditch\, off Brick Lane
+END:VEVENT
+BEGIN:VEVENT
+UID:crash-of-rhinos-at-moth-club-5ad5e781@london-events
+DTSTAMP:20260801T180000Z
+DTSTART:20260801T180000Z
+DTEND:20260801T200000Z
+SUMMARY:Crash Of Rhinos at MOTH Club
+DESCRIPTION:Cult Derby emo/post-hardcore band Crash Of Rhinos play a reuni
+ on show at Hackney's MOTH Club. Doors 7pm.\nPrice: £17.00\nhttps://dice.
+ fm/event/py8enk-crash-of-rhinos-1st-aug-moth-club-london-tickets
+URL:https://dice.fm/event/py8enk-crash-of-rhinos-1st-aug-moth-club-london-
+ tickets
+LOCATION:MOTH Club\, Old Trades Hall\, Valette Street\, Hackney\, E9 6NU
+END:VEVENT
+BEGIN:VEVENT
+UID:connection-our-deepest-desire-and-greatest-fear-circling-day-84331cdd@
+ london-events
+DTSTAMP:20260802T100000Z
+DTSTART:20260802T100000Z
+DTEND:20260802T170000Z
+SUMMARY:Connection: Our Deepest Desire and Greatest Fear — Circling Day 
+ Workshop
+DESCRIPTION:A day-long facilitated Circling workshop exploring the tension
+  between our yearning for connection and the fear that comes with it. One
+  listing showed 9 Aug — double-check the date when booking.\nPrice: £8
+ 5 (£75 early bird until 12 July)\nhttps://www.eventbrite.co.uk/e/connect
+ ion-our-deepest-desire-and-greatest-fear-tickets-1990893100858
+URL:https://www.eventbrite.co.uk/e/connection-our-deepest-desire-and-great
+ est-fear-tickets-1990893100858
+LOCATION:Bonnington Cafe and Community Centre\, 11 Vauxhall Grove\, Vauxha
+ ll\, SW8 1TD
+END:VEVENT
+BEGIN:VEVENT
+UID:slow-mass-at-the-victoria-dalston-5d5fb02b@london-events
+DTSTAMP:20260806T180000Z
+DTSTART:20260806T180000Z
+DTEND:20260806T200000Z
+SUMMARY:Slow Mass at The Victoria Dalston
+DESCRIPTION:Chicago post-hardcore/indie outfit Slow Mass bring their intri
+ cate\, heavy melodies to the Victoria's small back-room stage. Doors 7pm.
+ \nPrice: £15.50\nhttps://dice.fm/event/2w3yv6-slow-mass-6th-aug-the-vict
+ oria-london-tickets
+URL:https://dice.fm/event/2w3yv6-slow-mass-6th-aug-the-victoria-london-tic
+ kets
+LOCATION:The Victoria\, 451 Kingsland Road\, Dalston\, E8 4AU
+END:VEVENT
+BEGIN:VEVENT
+UID:ebony-live-at-village-underground-43ccff76@london-events
+DTSTAMP:20260806T183000Z
+DTSTART:20260806T183000Z
+DTEND:20260806T220000Z
+SUMMARY:Ebony — live at Village Underground
+DESCRIPTION:Evening gig by Ebony at the converted Victorian warehouse venu
+ e in Shoreditch\, a short walk from Bethnal Green.\nhttps://villageunderg
+ round.co.uk/events/ebony-6th-aug-village-underground-london-tickets-yo67e
+ p/
+URL:https://villageunderground.co.uk/events/ebony-6th-aug-village-undergro
+ und-london-tickets-yo67ep/
+LOCATION:Village Underground\, 54 Holywell Lane\, Shoreditch\, London EC2A
+  3PQ
+END:VEVENT
+BEGIN:VEVENT
+UID:simply-being-5rhythms-new-moon-eclipse-garden-special-19fd876c@london-
+ events
+DTSTAMP:20260812T173000Z
+DTSTART:20260812T173000Z
+DTEND:20260812T200000Z
+SUMMARY:Simply Being 5Rhythms New Moon Eclipse Garden Special
+DESCRIPTION:Outdoor new-moon eclipse 5Rhythms garden special with Richard 
+ Wiltshire in Brockwell Park.\nhttps://www.5rhythms.com/classes/SimplyBein
+ gRhythmsNewMoonEclipseGardenSpecial-298605
+URL:https://www.5rhythms.com/classes/SimplyBeingRhythmsNewMoonEclipseGarde
+ nSpecial-298605
+LOCATION:Brockwell Park Gardens\, Brockwell Park\, SE24 9BJ
+END:VEVENT
+BEGIN:VEVENT
+UID:closeup-summer-series-eaves-wilder-at-sebright-arms-174ccfb0@london-ev
+ ents
+DTSTAMP:20260815T183000Z
+DTSTART:20260815T183000Z
+DTEND:20260815T203000Z
+SUMMARY:closeup summer series: Eaves Wilder at Sebright Arms
+DESCRIPTION:Rising London indie-pop songwriter Eaves Wilder plays a stripp
+ ed-back basement show as part of closeup's 2026 summer series.\nPrice: £
+ 13.00\nhttps://dice.fm/event/pynaey-closeup-summer-series-2026-eaves-wild
+ er-15th-aug-sebright-arms-london-tickets
+URL:https://dice.fm/event/pynaey-closeup-summer-series-2026-eaves-wilder-1
+ 5th-aug-sebright-arms-london-tickets
+LOCATION:Sebright Arms\, 31-35 Coate Street\, Bethnal Green\, E2 9AG
+END:VEVENT
+BEGIN:VEVENT
+UID:alexander-technique-an-introduction-city-academy-01d64d8b@london-event
+ s
+DTSTAMP:20260817T170000Z
+DTSTART:20260817T170000Z
+DTEND:20260817T200000Z
+SUMMARY:Alexander Technique: An Introduction (City Academy)
+DESCRIPTION:A 3-hour evening introduction to the Alexander Technique with 
+ teacher Cristina Codina Llavina\, focused on improving posture and releas
+ ing habitual tension. Open to complete beginners.\nPrice: £55\nhttps://w
+ ww.city-academy.com/alexander-technique-an-introduction
+URL:https://www.city-academy.com/alexander-technique-an-introduction
+LOCATION:City Academy\, Farringdon\, 10 Herbal Hill\, Farringdon\, EC1R 5E
+ G
 END:VEVENT
 END:VCALENDAR
