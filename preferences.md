@@ -19,7 +19,7 @@ not a tourist checklist.
 - Dating and singles events: Thursday app events and other quality singles
   socials (hobby-based or activity-based ones especially)
 - Hands-on classes and workshops: pottery/ceramics, cooking, crafts, life drawing
-- Live music, especially jazz and small intimate venues — small pub gigs and
+- Live music, especially indie, folk, and small intimate venues — small pub gigs and
   tiny venues in Bethnal Green/Shoreditch are a top priority (think back rooms,
   basements, 50-200 capacity rooms)
 - Science and technology talks, lectures, interesting panel discussions
