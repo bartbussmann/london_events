@@ -316,11 +316,16 @@
       html += `<div class="daygroup"><h3>${label}</h3>`;
       for (const e of groups[day]) {
         const tags = (e.tags || []).map(t => `<span class="tag">${esc(t)}</span>`).join("");
+        const metaBits = [
+          e.venue, e.neighbourhood,
+          e.cycle_minutes ? `🚲 ${e.cycle_minutes} min` : null,
+          e.price,
+        ].filter(Boolean).map(esc).join(" · ");
         html += `<div class="card" data-id="${esc(e.id)}">
           <div class="time">${fmtTime.format(new Date(e.start))}</div>
           <div class="body">
             <div class="title">${esc(e.title)}${tags}</div>
-            <div class="meta">${esc(e.venue || "")}${e.price ? " · " + esc(e.price) : ""}</div>
+            <div class="meta">${metaBits}</div>
           </div>
         </div>`;
       }
@@ -338,6 +343,10 @@
       <h2>${esc(e.title)}</h2>
       <div class="when">${when}</div>
       <div class="where">${esc(e.venue || "")}${e.address ? " · " + esc(e.address) : ""}</div>
+      ${e.neighbourhood || e.cycle_minutes ? `<div class="where">${[
+        e.neighbourhood ? esc(e.neighbourhood) : "",
+        e.cycle_minutes ? `🚲 ~${esc(e.cycle_minutes)} min cycle from Weavers Fields` : "",
+      ].filter(Boolean).join(" · ")}</div>` : ""}
       ${e.price ? `<div class="price">${esc(e.price)}</div>` : ""}
       ${e.description ? `<p class="desc">${esc(e.description)}</p>` : ""}
       <div class="modal-actions">
