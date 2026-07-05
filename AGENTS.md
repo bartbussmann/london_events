@@ -46,9 +46,27 @@ interesting upcoming London events and add them to this repo's calendar.
   "tags": ["class", "workshop"],             // 1–3 from the allowed list in scripts/build.py
   "price": "£25",                            // or "Free" or null
   "description": "One or two plain sentences on what it is and why it's interesting.",
+  "neighbourhood": "Bethnal Green",          // London neighbourhood of the venue
+  "cycle_minutes": 4,                        // approx. cycle time from Weavers Fields, E2
   "added": ""                                // leave empty — build.py stamps today
 }
 ```
+
+### Neighbourhood and cycle time
+
+Always fill `neighbourhood` and `cycle_minutes` for every event you add:
+
+- `neighbourhood` is the commonly-used London area name for the venue
+  (e.g. "Shoreditch", "Dalston", "Covent Garden", "South Bank").
+- `cycle_minutes` is the approximate cycling time from **Weavers Fields,
+  Bethnal Green E2** (the calendar owner's starting point), assuming a
+  relaxed ~15 km/h through-traffic pace. Estimate from the venue's address;
+  round to sensible values. Reference points: Newspeak House/Bethnal Green
+  Rd ≈ 3, Brick Lane/Shoreditch ≈ 6, Old Street ≈ 8, Hackney Central ≈ 12,
+  Dalston ≈ 14, Barbican/Clerkenwell ≈ 15, Angel ≈ 18, Holborn ≈ 22,
+  Covent Garden/Strand ≈ 25, South Bank/King's Cross ≈ 28, Camden ≈ 32,
+  Mayfair/Regent's Park ≈ 35, Hyde Park/Vauxhall ≈ 40, Kensington/
+  Battersea/Herne Hill ≈ 45-50.
 
 ## Rules
 

@@ -83,6 +83,11 @@ def validate(ev: dict, idx: int) -> None:
     tags = ev.get("tags") or []
     if not isinstance(tags, list):
         fail(f"event {title!r}: tags must be a list")
+    if ev.get("cycle_minutes") is not None:
+        if not isinstance(ev["cycle_minutes"], (int, float)) or ev["cycle_minutes"] <= 0:
+            fail(f"event {title!r}: cycle_minutes must be a positive number")
+    if ev.get("neighbourhood") is not None and not isinstance(ev["neighbourhood"], str):
+        fail(f"event {title!r}: neighbourhood must be a string")
     unknown = set(tags) - ALLOWED_TAGS
     if unknown:
         fail(f"event {title!r}: unknown tags {sorted(unknown)} "

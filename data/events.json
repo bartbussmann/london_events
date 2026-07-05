@@ -13,7 +13,9 @@
     "price": "Pay What You Can",
     "description": "Exhibition on contemporary shrine culture and fan devotion — from Princess Diana memorials to Nina Simone's chewing gum — featuring 20 artists across three themed rooms. Runs until 9 August 2026; date shown is a sample open day.",
     "id": "holy-pop-exhibition-e21f88ea",
-    "added": "2026-07-05"
+    "added": "2026-07-05",
+    "neighbourhood": "Strand / Covent Garden",
+    "cycle_minutes": 25
   },
   {
     "title": "Wes Anderson: The Archives (exhibition)",
@@ -30,7 +32,9 @@
     "price": "From £20.69",
     "description": "First retrospective of Wes Anderson's filmmaking, with over 700 objects from his personal archives — storyboards, props, puppets, costumes and miniature sets from The Grand Budapest Hotel, Fantastic Mr. Fox and more. Extended until 16 August 2026; date shown is a sample open day.",
     "id": "wes-anderson-the-archives-exhibition-acc0c7ac",
-    "added": "2026-07-05"
+    "added": "2026-07-05",
+    "neighbourhood": "Kensington",
+    "cycle_minutes": 50
   },
   {
     "title": "Salsamotion Monday Salsa Classes & Social",
@@ -48,7 +52,9 @@
     "price": null,
     "description": "Weekly Monday salsa night in south-east London with classes for multiple levels followed by social dancing, structured enough for complete beginners. Runs every Monday; 6 July is the next occurrence.",
     "id": "salsamotion-monday-salsa-classes-social-f6217f03",
-    "added": "2026-07-05"
+    "added": "2026-07-05",
+    "neighbourhood": "Lewisham",
+    "cycle_minutes": 45
   },
   {
     "title": "Solo Jazz Class with Anna (SwingdanceUK)",
@@ -65,7 +71,9 @@
     "price": "£12",
     "description": "Drop-in solo jazz dance class on Monday evenings taught by Anna of SwingdanceUK — learn vintage jazz steps with no partner needed. £12 drop-in per class.",
     "id": "solo-jazz-class-with-anna-swingdanceuk-d03b6f9d",
-    "added": "2026-07-05"
+    "added": "2026-07-05",
+    "neighbourhood": "Clerkenwell",
+    "cycle_minutes": 15
   },
   {
     "title": "Ceroc Pimlico — Beginner & Intermediate Class Night",
@@ -82,7 +90,9 @@
     "price": null,
     "description": "Weekly Monday Ceroc night with beginner and intermediate classes plus freestyle; partners rotate so you can come alone. Runs every Monday, no booking required.",
     "id": "ceroc-pimlico-beginner-intermediate-class-night-eba1aeac",
-    "added": "2026-07-05"
+    "added": "2026-07-05",
+    "neighbourhood": "Pimlico",
+    "cycle_minutes": 40
   },
   {
     "title": "O.R.B + Oral Habit at The Shacklewell Arms",
@@ -98,7 +108,9 @@
     "price": "£17.00",
     "description": "Psych-rock double bill in the Shacklewell's famous back room, one of Dalston's best small stages. Doors 7:30pm.",
     "id": "o-r-b-oral-habit-at-the-shacklewell-arms-8f7c05a6",
-    "added": "2026-07-05"
+    "added": "2026-07-05",
+    "neighbourhood": "Dalston",
+    "cycle_minutes": 14
   },
   {
     "title": "Project a Black Planet: The Art and Culture of Panafrica (exhibition)",
@@ -114,7 +126,9 @@
     "price": "£20.50",
     "description": "Major exhibition exploring Pan-Africanism's impact on art and culture from the 1920s to today through 300+ works, including Chris Ofili, Marlene Dumas and Claudette Johnson. Runs 11 June – 6 September 2026 (closed Mondays); date shown is a sample open day.",
     "id": "project-a-black-planet-the-art-and-culture-of-panafrica-exhi-46ee5be4",
-    "added": "2026-07-05"
+    "added": "2026-07-05",
+    "neighbourhood": "Barbican / City",
+    "cycle_minutes": 15
   },
   {
     "title": "London On Board: Tuesday Evening Board Gaming",
@@ -130,7 +144,9 @@
     "price": "Free",
     "description": "Friendly weekly board game meetup run by London On Board, one of the city's biggest gaming groups — turn up solo and join a table. Free with RSVP; attendees are expected to buy food or drink at the pub.",
     "id": "london-on-board-tuesday-evening-board-gaming-728b209d",
-    "added": "2026-07-05"
+    "added": "2026-07-05",
+    "neighbourhood": "Bayswater",
+    "cycle_minutes": 42
   },
   {
     "title": "Gilberto Gil: Live at the Roundhouse",
@@ -146,7 +162,9 @@
     "price": "£77.75–£112.25",
     "description": "Brazilian music legend Gilberto Gil performs classics from his six-decade career spanning samba, reggae and Afro-Brazilian rhythms, joined on stage by his children for an intimate multigenerational show.",
     "id": "gilberto-gil-live-at-the-roundhouse-350f76f7",
-    "added": "2026-07-05"
+    "added": "2026-07-05",
+    "neighbourhood": "Camden / Chalk Farm",
+    "cycle_minutes": 32
   },
   {
     "title": "Beginner's Social at City Bouldering Stratford",
@@ -163,7 +181,9 @@
     "price": null,
     "description": "A weekly Tuesday social for new boulderers to learn climbing fundamentals and meet fellow climbers in a supportive setting; booking includes two weeks of free climbing afterwards. Recurring every Tuesday.",
     "id": "beginner-s-social-at-city-bouldering-stratford-2c46c374",
-    "added": "2026-07-05"
+    "added": "2026-07-05",
+    "neighbourhood": "Stratford",
+    "cycle_minutes": 22
   },
   {
     "title": "The Sunset Sessions — Open-Air Ecstatic Dance & Cacao (Silent Disco)",
@@ -181,7 +201,9 @@
     "price": "£13-£18",
     "description": "Sober open-air ecstatic dance with cacao circle and silent-disco headphones, barefoot on grass through sunset. Recurs on 10, 11, 15, 17 and 18 July 2026.",
     "id": "the-sunset-sessions-open-air-ecstatic-dance-cacao-silent-dis-670f3d4a",
-    "added": "2026-07-05"
+    "added": "2026-07-05",
+    "neighbourhood": "Regent's Park area",
+    "cycle_minutes": 38
   },
   {
     "title": "Rubén Blades + Roberto Delgado Big Band",
@@ -197,7 +219,9 @@
     "price": "£65",
     "description": "Farewell-tour show from the salsa icon, his first UK appearance in over a decade, with the Roberto Delgado Big Band delivering jazz-infused salsa and Afro-Cuban rhythms. Doors 7pm, Blades on stage 8:20pm.",
     "id": "rub-n-blades-roberto-delgado-big-band-4ec861ad",
-    "added": "2026-07-05"
+    "added": "2026-07-05",
+    "neighbourhood": "Camden / Chalk Farm",
+    "cycle_minutes": 32
   },
   {
     "title": "Ration Club — weekly community dinner",
@@ -214,7 +238,9 @@
     "price": null,
     "description": "Newspeak House's weekly community dinner, open to anyone who wants to learn about the college and its community. Recurs every Wednesday evening; sign up via the form.",
     "id": "ration-club-weekly-community-dinner-5bc278ae",
-    "added": "2026-07-05"
+    "added": "2026-07-05",
+    "neighbourhood": "Bethnal Green",
+    "cycle_minutes": 3
   },
   {
     "title": "Thursday: Jamie Oliver Singles Dinner",
@@ -231,7 +257,9 @@
     "price": "from £15",
     "description": "Singles-only dinner by the Thursday dating app at Jamie Oliver's Covent Garden restaurant.",
     "id": "thursday-jamie-oliver-singles-dinner-f3325dd3",
-    "added": "2026-07-05"
+    "added": "2026-07-05",
+    "neighbourhood": "Covent Garden",
+    "cycle_minutes": 25
   },
   {
     "title": "Ceroc St Pancras — Beginner & Intermediate Class Night",
@@ -248,7 +276,9 @@
     "price": null,
     "description": "Weekly Wednesday Ceroc London class night near King's Cross/St Pancras with beginner and intermediate lessons and social freestyle. Recurs every Wednesday; just turn up.",
     "id": "ceroc-st-pancras-beginner-intermediate-class-night-5af7c566",
-    "added": "2026-07-05"
+    "added": "2026-07-05",
+    "neighbourhood": "King's Cross / Somers Town",
+    "cycle_minutes": 28
   },
   {
     "title": "Shoreditch Speed Dating (ages 23-35) — True Dating",
@@ -264,7 +294,9 @@
     "price": "£15",
     "description": "Classic speed dating night at Be At One on Old Street for ages 23-35. Male tickets were sold out at time of checking; a similar night runs there on 13 August.",
     "id": "shoreditch-speed-dating-ages-23-35-true-dating-c890a398",
-    "added": "2026-07-05"
+    "added": "2026-07-05",
+    "neighbourhood": "Shoreditch",
+    "cycle_minutes": 7
   },
   {
     "title": "The Sleeves (Jack Cooper & Tara Cunningham) + Minami Saeki at Cafe OTO",
@@ -280,7 +312,9 @@
     "price": "£16 (£14 advance)",
     "description": "Intimate evening at Dalston's home of adventurous music, with Jack Cooper (Modern Nature) and Tara Cunningham's new duo The Sleeves plus Japanese songwriter Minami Saeki.",
     "id": "the-sleeves-jack-cooper-tara-cunningham-minami-saeki-at-cafe-286606ee",
-    "added": "2026-07-05"
+    "added": "2026-07-05",
+    "neighbourhood": "Dalston",
+    "cycle_minutes": 14
   },
   {
     "title": "T.W.C — weekly Thursday 5Rhythms class",
@@ -297,7 +331,9 @@
     "price": "Sliding scale £11-£20 on the door",
     "description": "Weekly Thursday 5Rhythms class with Jason Rowe and community teachers; doors 7.45pm, no prebooking. Recurs every Thursday.",
     "id": "t-w-c-weekly-thursday-5rhythms-class-9b0c43e0",
-    "added": "2026-07-05"
+    "added": "2026-07-05",
+    "neighbourhood": "Holloway",
+    "cycle_minutes": 27
   },
   {
     "title": "Free Outdoor Yoga with MoreYoga at Wembley Park",
@@ -315,7 +351,9 @@
     "price": "Free",
     "description": "Gentle outdoor Vinyasa flow session led by MoreYoga instructor Ingrid Falcao, open to all levels with mats provided first come first served. Runs every Friday morning until 7 August 2026; free but booking via Eventbrite required.",
     "id": "free-outdoor-yoga-with-moreyoga-at-wembley-park-ecb8a632",
-    "added": "2026-07-05"
+    "added": "2026-07-05",
+    "neighbourhood": "Wembley Park",
+    "cycle_minutes": 65
   },
   {
     "title": "Life Drawing After Work (4-week course)",
@@ -332,7 +370,9 @@
     "price": "£159",
     "description": "Relaxed Friday-evening life drawing course with tutor Joe Richardson, drawing a variety of life models in different materials and poses — no experience needed. Four weekly sessions starting 10 July.",
     "id": "life-drawing-after-work-4-week-course-301abab7",
-    "added": "2026-07-05"
+    "added": "2026-07-05",
+    "neighbourhood": "Covent Garden",
+    "cycle_minutes": 25
   },
   {
     "title": "Simply Being 5Rhythms (South Bank)",
@@ -349,7 +389,9 @@
     "price": "From £15.50 (£10 first-timers)",
     "description": "Richard Wiltshire's weekly Friday 5Rhythms class on the South Bank; next class 10 July (no class 31 July or 14 August).",
     "id": "simply-being-5rhythms-south-bank-f8ab610f",
-    "added": "2026-07-05"
+    "added": "2026-07-05",
+    "neighbourhood": "South Bank",
+    "cycle_minutes": 28
   },
   {
     "title": "Thursday: Singles Badminton in Haggerston",
@@ -365,7 +407,9 @@
     "price": "from £20",
     "description": "Singles badminton night by the Thursday dating app, a short walk from Bethnal Green. Repeats on 24 July.",
     "id": "thursday-singles-badminton-in-haggerston-885dd34d",
-    "added": "2026-07-05"
+    "added": "2026-07-05",
+    "neighbourhood": "Haggerston",
+    "cycle_minutes": 5
   },
   {
     "title": "Circling Drop-In Evening (with Robyn Wilford)",
@@ -382,7 +426,9 @@
     "price": "£18",
     "description": "A drop-in evening of Circling, a present-moment relational awareness practice bringing curiosity to what unfolds within yourself, between people and in the group. Recurring drop-in; newcomers welcome.",
     "id": "circling-drop-in-evening-with-robyn-wilford-86f4d9ba",
-    "added": "2026-07-05"
+    "added": "2026-07-05",
+    "neighbourhood": "Elephant & Castle",
+    "cycle_minutes": 28
   },
   {
     "title": "Lifepath99 + Speedial + SPRING at MOTH Club",
@@ -398,7 +444,9 @@
     "price": "£6.00",
     "description": "Cheap Friday-night triple bill of new bands under the glitter ceiling of Hackney's ex-servicemen's club turned venue. Doors 7pm.",
     "id": "lifepath99-speedial-spring-at-moth-club-06b90e81",
-    "added": "2026-07-05"
+    "added": "2026-07-05",
+    "neighbourhood": "Hackney Central",
+    "cycle_minutes": 12
   },
   {
     "title": "Poetry International: Benjamin Zephaniah Celebration",
@@ -416,7 +464,9 @@
     "price": null,
     "description": "Opening night of the Poetry International Festival (10–12 Jul): an evening of poetry, music and memories celebrating Benjamin Zephaniah, with Lemn Sissay, Pauline Black, Jackie Kay and Michael Rosen. Exact start time unconfirmed; evening event.",
     "id": "poetry-international-benjamin-zephaniah-celebration-73472adb",
-    "added": "2026-07-05"
+    "added": "2026-07-05",
+    "neighbourhood": "South Bank",
+    "cycle_minutes": 30
   },
   {
     "title": "Cheza Roho: Dance Meditation Games",
@@ -433,7 +483,9 @@
     "price": null,
     "description": "Mikel The Energy's signature Rhythm & Breath experience combining movement, breath, rhythm and music through interactive dance meditation games. Runs weekly on Friday evenings.",
     "id": "cheza-roho-dance-meditation-games-4273fa3d",
-    "added": "2026-07-05"
+    "added": "2026-07-05",
+    "neighbourhood": "Shoreditch",
+    "cycle_minutes": 6
   },
   {
     "title": "Angel Comedy at The Bill Murray",
@@ -449,7 +501,9 @@
     "price": "Free",
     "description": "London's community comedy club runs shows seven nights a week, including free pay-what-you-think pro nights on Fridays and Saturdays with TV-credited acts. Start time approximate — shows run from late afternoon to 11pm, so check the listings; arrive early for free shows.",
     "id": "angel-comedy-at-the-bill-murray-33ebc8af",
-    "added": "2026-07-05"
+    "added": "2026-07-05",
+    "neighbourhood": "Angel / Islington",
+    "cycle_minutes": 18
   },
   {
     "title": "The Sauna Rave (Prime Time x Flow State)",
@@ -467,7 +521,9 @@
     "price": null,
     "description": "Friday-night rave inside the Sanctuary's custom-built sauna, mixing heat, music and recovery; this edition is hosted with Flow State and Prime Time. Recurs weekly on Fridays.",
     "id": "the-sauna-rave-prime-time-x-flow-state-5fc288bb",
-    "added": "2026-07-05"
+    "added": "2026-07-05",
+    "neighbourhood": "Shoreditch",
+    "cycle_minutes": 6
   },
   {
     "title": "Alexander Technique: One-Day Workshop (City Lit)",
@@ -484,7 +540,9 @@
     "price": "£89-£99 (concessions available)",
     "description": "A one-day beginner's introduction to the Alexander Technique covering everyday movement patterns, spatial awareness and practical ways to reduce tension and improve posture and breathing. Wear loose clothing for floor work.",
     "id": "alexander-technique-one-day-workshop-city-lit-8bca2bff",
-    "added": "2026-07-05"
+    "added": "2026-07-05",
+    "neighbourhood": "Covent Garden",
+    "cycle_minutes": 25
   },
   {
     "title": "Lewis Capaldi at BST Hyde Park",
@@ -502,7 +560,9 @@
     "price": null,
     "description": "Lewis Capaldi headlines a major open-air festival day in Hyde Park with special guests Conan Gray, Jacob Alon, The Vaccines and Absolutely; he plays a second show on 12 July. Gates time unconfirmed; afternoon start typical, tickets still available.",
     "id": "lewis-capaldi-at-bst-hyde-park-c09bca6f",
-    "added": "2026-07-05"
+    "added": "2026-07-05",
+    "neighbourhood": "Hyde Park",
+    "cycle_minutes": 40
   },
   {
     "title": "Rhythm Roots + Embodied Expression",
@@ -519,7 +579,9 @@
     "price": null,
     "description": "A dance class for everyone, exploring a wide range of movement styles and embodied expression with Lyndon The Healing Tree. Recurs weekly on Saturday evenings.",
     "id": "rhythm-roots-embodied-expression-31169a18",
-    "added": "2026-07-05"
+    "added": "2026-07-05",
+    "neighbourhood": "Shoreditch",
+    "cycle_minutes": 6
   },
   {
     "title": "Sparks & Steps: Summer Singles Event (ages 28-40)",
@@ -536,7 +598,9 @@
     "price": "£13.18-£21.98",
     "description": "Summer singles social in the City with low-pressure ice-breakers, conversation prompts and DJs playing pop and house. Aimed at ages 28-40.",
     "id": "sparks-steps-summer-singles-event-ages-28-40-4c1a9db4",
-    "added": "2026-07-05"
+    "added": "2026-07-05",
+    "neighbourhood": "Smithfield / City",
+    "cycle_minutes": 17
   },
   {
     "title": "Columbia Road Flower Market",
@@ -554,7 +618,9 @@
     "price": "Free",
     "description": "East London's famous street flower market, held every Sunday from 8am until around 3pm, with plants and cut flowers plus 60 independent shops, cafes and galleries along the Victorian street.",
     "id": "columbia-road-flower-market-79fb36e8",
-    "added": "2026-07-05"
+    "added": "2026-07-05",
+    "neighbourhood": "Bethnal Green",
+    "cycle_minutes": 3
   },
   {
     "title": "Wheel Throwing Pottery Taster Class",
@@ -572,7 +638,9 @@
     "price": "£75",
     "description": "A three-hour hands-on introduction to throwing clay on the pottery wheel for complete beginners, with one piece trimmed, glazed and fired for you to collect. Max nine people; further dates on 2 and 23 August.",
     "id": "wheel-throwing-pottery-taster-class-bd879716",
-    "added": "2026-07-05"
+    "added": "2026-07-05",
+    "neighbourhood": "Waterloo / South Bank",
+    "cycle_minutes": 30
   },
   {
     "title": "Thursday: Singles Museum Walk and Lunch",
@@ -589,7 +657,9 @@
     "price": "from £20",
     "description": "Singles museum walk around the National Portrait Gallery followed by lunch, run by the Thursday dating app.",
     "id": "thursday-singles-museum-walk-and-lunch-a5065f97",
-    "added": "2026-07-05"
+    "added": "2026-07-05",
+    "neighbourhood": "Trafalgar Square",
+    "cycle_minutes": 28
   },
   {
     "title": "London Rationalish Meetup (LessWrong/ACX community)",
@@ -606,7 +676,9 @@
     "price": "Free",
     "description": "Casual outdoor gathering of London's rationalist/ACX crowd; organisers arrive from 2pm and discussion of three readings starts around 3pm. Weather permitting, in the park's northeast quadrant.",
     "id": "london-rationalish-meetup-lesswrong-acx-community-133093f0",
-    "added": "2026-07-05"
+    "added": "2026-07-05",
+    "neighbourhood": "Holborn",
+    "cycle_minutes": 22
   },
   {
     "title": "Jam Session at Newspeak House",
@@ -623,7 +695,9 @@
     "price": null,
     "description": "Open collaborative jam in Newspeak Hall — bring an instrument or your voice, or just come to listen.",
     "id": "jam-session-at-newspeak-house-8f63008e",
-    "added": "2026-07-05"
+    "added": "2026-07-05",
+    "neighbourhood": "Bethnal Green",
+    "cycle_minutes": 3
   },
   {
     "title": "Boy Blue In The Park",
@@ -640,7 +714,9 @@
     "price": null,
     "description": "One-night hip hop dance theatre celebration from award-winning company Boy Blue, featuring their adult companies on the open-air stage. Performance time unconfirmed; evening show expected.",
     "id": "boy-blue-in-the-park-ff60122b",
-    "added": "2026-07-05"
+    "added": "2026-07-05",
+    "neighbourhood": "Regent's Park",
+    "cycle_minutes": 35
   },
   {
     "title": "Sunday Jazz at The Old Blue Last",
@@ -657,7 +733,9 @@
     "price": "Free",
     "description": "Free weekly jazz session every Sunday evening in the upstairs room of Shoreditch's legendary pub venue. Repeats weekly through August.",
     "id": "sunday-jazz-at-the-old-blue-last-69300258",
-    "added": "2026-07-05"
+    "added": "2026-07-05",
+    "neighbourhood": "Shoreditch",
+    "cycle_minutes": 8
   },
   {
     "title": "Campaign Lab Hack Night",
@@ -674,7 +752,9 @@
     "price": null,
     "description": "Working session for progressive technologists and activists building election tools. Recurs roughly fortnightly, with further dates on 27 July and 3 August.",
     "id": "campaign-lab-hack-night-f5e87b03",
-    "added": "2026-07-05"
+    "added": "2026-07-05",
+    "neighbourhood": "Bethnal Green",
+    "cycle_minutes": 3
   },
   {
     "title": "Grounding Practice: Disruption and Innovation with Metal & Water",
@@ -690,7 +770,9 @@
     "price": "£5",
     "description": "Informal salon talk with Nancy May Roberts, founder of performance company Metal & Water, on sustaining a creative practice: commissioning, funding structures and navigating institutions.",
     "id": "grounding-practice-disruption-and-innovation-with-metal-wate-fb78848d",
-    "added": "2026-07-05"
+    "added": "2026-07-05",
+    "neighbourhood": "Strand / Covent Garden",
+    "cycle_minutes": 25
   },
   {
     "title": "Alive: What Life Is, How It Works, and Why It Matters (Royal Institution talk)",
@@ -706,7 +788,9 @@
     "price": "From £7.90",
     "description": "An evening science talk in the Royal Institution's historic lecture theatre exploring what life actually is and how it works. In-person theatre tickets from £7.90; also streamed online.",
     "id": "alive-what-life-is-how-it-works-and-why-it-matters-royal-ins-b7a11416",
-    "added": "2026-07-05"
+    "added": "2026-07-05",
+    "neighbourhood": "Mayfair",
+    "cycle_minutes": 35
   },
   {
     "title": "Somerset House Summer Series 2026 (opening night: Naïka)",
@@ -724,7 +808,9 @@
     "price": "£36.25",
     "description": "Eleven nights of live music (16–26 Jul) in Somerset House's courtyard, opening with French-Haitian pop/R&B artist Naïka. Several nights including Naïka, Palace (17 Jul) and Thee Sacred Souls (18 Jul) are sold out; check other dates.",
     "id": "somerset-house-summer-series-2026-opening-night-na-ka-9f0ebca1",
-    "added": "2026-07-05"
+    "added": "2026-07-05",
+    "neighbourhood": "Strand / Covent Garden",
+    "cycle_minutes": 25
   },
   {
     "title": "Lydia Lunch & Marc Hurtado play SUICIDE and Alan Vega at MOTH Club",
@@ -740,7 +826,9 @@
     "price": "£26.15",
     "description": "No-wave icon Lydia Lunch and Marc Hurtado perform the music of Suicide and Alan Vega in a rare small-room London show. Doors 7:30pm.",
     "id": "lydia-lunch-marc-hurtado-play-suicide-and-alan-vega-at-moth--53b692e6",
-    "added": "2026-07-05"
+    "added": "2026-07-05",
+    "neighbourhood": "Hackney Central",
+    "cycle_minutes": 12
   },
   {
     "title": "London Craft Beer Festival 2026",
@@ -758,7 +846,9 @@
     "price": null,
     "description": "Two-day beer festival (17–18 Jul) with over 800 craft beers from 100+ breweries, street food and live music; all-inclusive tickets cover unlimited sampling. Friday evening session listed; Saturday has day and evening sessions.",
     "id": "london-craft-beer-festival-2026-98258270",
-    "added": "2026-07-05"
+    "added": "2026-07-05",
+    "neighbourhood": "Bermondsey",
+    "cycle_minutes": 28
   },
   {
     "title": "First Night of the Proms 2026",
@@ -774,7 +864,9 @@
     "price": null,
     "description": "The BBC Proms season opens with Dalia Stasevska conducting the BBC Symphony Orchestra and Chorus: Copland's Fanfare for the Common Man, Gershwin's An American in Paris, and pianist Yunchan Lim playing Ravel's Piano Concerto in G.",
     "id": "first-night-of-the-proms-2026-e3ef077f",
-    "added": "2026-07-05"
+    "added": "2026-07-05",
+    "neighbourhood": "South Kensington",
+    "cycle_minutes": 48
   },
   {
     "title": "Sanctum — movement, breathwork & somatic release",
@@ -791,7 +883,9 @@
     "price": null,
     "description": "An immersive, music-driven mind-body practice blending dynamic movement with breathwork, meditation and somatic release. Recurs on weekend mornings.",
     "id": "sanctum-movement-breathwork-somatic-release-f782ef5c",
-    "added": "2026-07-05"
+    "added": "2026-07-05",
+    "neighbourhood": "Shoreditch",
+    "cycle_minutes": 6
   },
   {
     "title": "Sicilian Cooking Class at Food at 52",
@@ -809,7 +903,9 @@
     "price": null,
     "description": "A 3.5-hour hands-on Sicilian cookery class at Clerkenwell's well-loved Food at 52 school, where you cook and then eat a full Sicilian spread. Part of a rolling schedule of world-cuisine classes through July and August.",
     "id": "sicilian-cooking-class-at-food-at-52-85c56083",
-    "added": "2026-07-05"
+    "added": "2026-07-05",
+    "neighbourhood": "Clerkenwell",
+    "cycle_minutes": 15
   },
   {
     "title": "Afrique Express! at Servant Jazz Quarters",
@@ -825,7 +921,9 @@
     "price": "Free",
     "description": "Free late-night African-influenced live session in SJQ's tiny basement bar off Gillett Square. Starts 9pm.",
     "id": "afrique-express-at-servant-jazz-quarters-70e45b10",
-    "added": "2026-07-05"
+    "added": "2026-07-05",
+    "neighbourhood": "Dalston",
+    "cycle_minutes": 15
   },
   {
     "title": "Thursday: Singles Pottery Night",
@@ -843,7 +941,9 @@
     "price": "from £15",
     "description": "Singles pottery-painting night by the Thursday dating app — dating plus a hands-on craft in one evening.",
     "id": "thursday-singles-pottery-night-1012a791",
-    "added": "2026-07-05"
+    "added": "2026-07-05",
+    "neighbourhood": "Battersea",
+    "cycle_minutes": 45
   },
   {
     "title": "Thought Experiments in Pubs: Living with Tech",
@@ -861,7 +961,9 @@
     "price": null,
     "description": "Small-group discussion evening exploring technology and AI through thought experiments and rotating conversations.",
     "id": "thought-experiments-in-pubs-living-with-tech-3e4a2f8d",
-    "added": "2026-07-05"
+    "added": "2026-07-05",
+    "neighbourhood": "Bethnal Green",
+    "cycle_minutes": 3
   },
   {
     "title": "Big Dork Summer: Coach Party at Sebright Arms",
@@ -877,7 +979,9 @@
     "price": "£19.25",
     "description": "Isle of Wight indie-rockers Coach Party play an up-close basement show as part of the Big Dork Summer series at this Bethnal Green pub venue.",
     "id": "big-dork-summer-coach-party-at-sebright-arms-17b5f6a7",
-    "added": "2026-07-05"
+    "added": "2026-07-05",
+    "neighbourhood": "Bethnal Green",
+    "cycle_minutes": 4
   },
   {
     "title": "Thursday: 30+ Singles Night — new venue, Shoreditch",
@@ -893,7 +997,9 @@
     "price": "from £12",
     "description": "30+ singles night by the Thursday dating app at a just-opened Shoreditch venue.",
     "id": "thursday-30-singles-night-new-venue-shoreditch-7d1787d7",
-    "added": "2026-07-05"
+    "added": "2026-07-05",
+    "neighbourhood": "Shoreditch",
+    "cycle_minutes": 8
   },
   {
     "title": "Thursday: Singles Night — new venue, Shoreditch",
@@ -909,7 +1015,9 @@
     "price": "from £12",
     "description": "Singles night by the Thursday dating app at a just-opened Shoreditch venue.",
     "id": "thursday-singles-night-new-venue-shoreditch-6f044090",
-    "added": "2026-07-05"
+    "added": "2026-07-05",
+    "neighbourhood": "Shoreditch",
+    "cycle_minutes": 8
   },
   {
     "title": "HYPER JAPAN Festival 2026",
@@ -927,7 +1035,9 @@
     "price": "From £28.35",
     "description": "The UK's largest Japanese culture festival runs 24–26 July with over 530 exhibitors covering music, food, fashion, gaming, workshops and shopping. Friday hours 12–8pm; children 10 and under free.",
     "id": "hyper-japan-festival-2026-4da2d67a",
-    "added": "2026-07-05"
+    "added": "2026-07-05",
+    "neighbourhood": "Kensington Olympia",
+    "cycle_minutes": 55
   },
   {
     "title": "Discourse: Discoveries at the Icy Moons of Jupiter and Saturn",
@@ -943,7 +1053,9 @@
     "price": "Free",
     "description": "A free evening Discourse lecture at the Royal Institution on the latest discoveries at the icy moons of Jupiter and Saturn, in the famous Faraday lecture theatre.",
     "id": "discourse-discoveries-at-the-icy-moons-of-jupiter-and-saturn-0e9e366e",
-    "added": "2026-07-05"
+    "added": "2026-07-05",
+    "neighbourhood": "Mayfair",
+    "cycle_minutes": 35
   },
   {
     "title": "CGI Goth Wife: EP Release Show at The Victoria Dalston",
@@ -959,7 +1071,9 @@
     "price": "£9.27",
     "description": "EP release party in the back room of this Victorian pub venue on Kingsland Road. Doors 7:30pm, with a free indie club night following.",
     "id": "cgi-goth-wife-ep-release-show-at-the-victoria-dalston-b936b569",
-    "added": "2026-07-05"
+    "added": "2026-07-05",
+    "neighbourhood": "Dalston",
+    "cycle_minutes": 12
   },
   {
     "title": "Terrarium Making Workshop with London Terrariums",
@@ -976,7 +1090,9 @@
     "price": "From £50",
     "description": "A 90-minute hands-on workshop building your own glass terrarium to take home, run by specialists London Terrariums. Further dates through late July and August, including evening sessions on 29 July and 13 August.",
     "id": "terrarium-making-workshop-with-london-terrariums-28e0987a",
-    "added": "2026-07-05"
+    "added": "2026-07-05",
+    "neighbourhood": "New Cross",
+    "cycle_minutes": 35
   },
   {
     "title": "Campaign Lab Summer BBQ 2026",
@@ -993,7 +1109,9 @@
     "price": null,
     "description": "Casual all-day summer gathering for the Campaign Lab community with food, drinks and networking.",
     "id": "campaign-lab-summer-bbq-2026-8a46ff6f",
-    "added": "2026-07-05"
+    "added": "2026-07-05",
+    "neighbourhood": "Bethnal Green",
+    "cycle_minutes": 3
   },
   {
     "title": "CATS at Regent's Park Open Air Theatre (opening night)",
@@ -1011,7 +1129,9 @@
     "price": "From £19",
     "description": "A brand-new open-air production of Andrew Lloyd Webber's musical based on T.S. Eliot's Old Possum's Book of Practical Cats, running 25 July – 19 September. Evening performance time approximate.",
     "id": "cats-at-regent-s-park-open-air-theatre-opening-night-346958ee",
-    "added": "2026-07-05"
+    "added": "2026-07-05",
+    "neighbourhood": "Regent's Park",
+    "cycle_minutes": 35
   },
   {
     "title": "Mini Golf Singles Party (ages 28-42) — True Dating",
@@ -1027,7 +1147,9 @@
     "price": "£15",
     "description": "Speed-dating alternative where singles aged 28-42 mingle over rounds of tech-enhanced mini golf at Puttshack in the City. Tickets still available for both men and women at time of checking.",
     "id": "mini-golf-singles-party-ages-28-42-true-dating-cf04eecc",
-    "added": "2026-07-05"
+    "added": "2026-07-05",
+    "neighbourhood": "Bank / City",
+    "cycle_minutes": 16
   },
   {
     "title": "Simply Being 5Rhythms Full Moon Garden Session",
@@ -1044,7 +1166,9 @@
     "price": null,
     "description": "Outdoor full-moon 5Rhythms garden session with Richard Wiltshire in Brockwell Park.",
     "id": "simply-being-5rhythms-full-moon-garden-session-90a98860",
-    "added": "2026-07-05"
+    "added": "2026-07-05",
+    "neighbourhood": "Herne Hill",
+    "cycle_minutes": 45
   },
   {
     "title": "West London Supper Club – Summer Edition",
@@ -1061,7 +1185,9 @@
     "price": "£110",
     "description": "An intimate 12-seat supper club with a curated multi-course Persian menu and welcome drink, designed for conversation and meeting new people in a cosy Kensington cafe-gallery.",
     "id": "west-london-supper-club-summer-edition-4e7c2c35",
-    "added": "2026-07-05"
+    "added": "2026-07-05",
+    "neighbourhood": "Kensington",
+    "cycle_minutes": 45
   },
   {
     "title": "Big Scary Indian (NYC) + Mr Speed + Teleboutique at The Shacklewell Arms",
@@ -1077,7 +1203,9 @@
     "price": "£6.00",
     "description": "New York's Big Scary Indian heads a cheap three-band Friday bill in the Shacklewell's back room. Doors 8pm.",
     "id": "big-scary-indian-nyc-mr-speed-teleboutique-at-the-shacklewel-c9d54223",
-    "added": "2026-07-05"
+    "added": "2026-07-05",
+    "neighbourhood": "Dalston",
+    "cycle_minutes": 14
   },
   {
     "title": "Thursday: Sauna Rave at Sanctuary &Soul",
@@ -1094,7 +1222,9 @@
     "price": "from £28",
     "description": "Singles edition of the Shoreditch sauna rave, run with the Thursday dating app at Sanctuary &Soul.",
     "id": "thursday-sauna-rave-at-sanctuary-soul-e8dcadbb",
-    "added": "2026-07-05"
+    "added": "2026-07-05",
+    "neighbourhood": "Shoreditch",
+    "cycle_minutes": 6
   },
   {
     "title": "Crash Of Rhinos at MOTH Club",
@@ -1110,7 +1240,9 @@
     "price": "£17.00",
     "description": "Cult Derby emo/post-hardcore band Crash Of Rhinos play a reunion show at Hackney's MOTH Club. Doors 7pm.",
     "id": "crash-of-rhinos-at-moth-club-5ad5e781",
-    "added": "2026-07-05"
+    "added": "2026-07-05",
+    "neighbourhood": "Hackney Central",
+    "cycle_minutes": 12
   },
   {
     "title": "Connection: Our Deepest Desire and Greatest Fear — Circling Day Workshop",
@@ -1127,7 +1259,9 @@
     "price": "£85 (£75 early bird until 12 July)",
     "description": "A day-long facilitated Circling workshop exploring the tension between our yearning for connection and the fear that comes with it. One listing showed 9 Aug — double-check the date when booking.",
     "id": "connection-our-deepest-desire-and-greatest-fear-circling-day-84331cdd",
-    "added": "2026-07-05"
+    "added": "2026-07-05",
+    "neighbourhood": "Vauxhall",
+    "cycle_minutes": 38
   },
   {
     "title": "Slow Mass at The Victoria Dalston",
@@ -1143,7 +1277,9 @@
     "price": "£15.50",
     "description": "Chicago post-hardcore/indie outfit Slow Mass bring their intricate, heavy melodies to the Victoria's small back-room stage. Doors 7pm.",
     "id": "slow-mass-at-the-victoria-dalston-5d5fb02b",
-    "added": "2026-07-05"
+    "added": "2026-07-05",
+    "neighbourhood": "Dalston",
+    "cycle_minutes": 12
   },
   {
     "title": "Ebony — live at Village Underground",
@@ -1159,7 +1295,9 @@
     "price": null,
     "description": "Evening gig by Ebony at the converted Victorian warehouse venue in Shoreditch, a short walk from Bethnal Green.",
     "id": "ebony-live-at-village-underground-43ccff76",
-    "added": "2026-07-05"
+    "added": "2026-07-05",
+    "neighbourhood": "Shoreditch",
+    "cycle_minutes": 8
   },
   {
     "title": "Simply Being 5Rhythms New Moon Eclipse Garden Special",
@@ -1176,7 +1314,9 @@
     "price": null,
     "description": "Outdoor new-moon eclipse 5Rhythms garden special with Richard Wiltshire in Brockwell Park.",
     "id": "simply-being-5rhythms-new-moon-eclipse-garden-special-19fd876c",
-    "added": "2026-07-05"
+    "added": "2026-07-05",
+    "neighbourhood": "Herne Hill",
+    "cycle_minutes": 45
   },
   {
     "title": "closeup summer series: Eaves Wilder at Sebright Arms",
@@ -1192,7 +1332,9 @@
     "price": "£13.00",
     "description": "Rising London indie-pop songwriter Eaves Wilder plays a stripped-back basement show as part of closeup's 2026 summer series.",
     "id": "closeup-summer-series-eaves-wilder-at-sebright-arms-174ccfb0",
-    "added": "2026-07-05"
+    "added": "2026-07-05",
+    "neighbourhood": "Bethnal Green",
+    "cycle_minutes": 4
   },
   {
     "title": "Alexander Technique: An Introduction (City Academy)",
@@ -1208,6 +1350,8 @@
     "price": "£55",
     "description": "A 3-hour evening introduction to the Alexander Technique with teacher Cristina Codina Llavina, focused on improving posture and releasing habitual tension. Open to complete beginners.",
     "id": "alexander-technique-an-introduction-city-academy-01d64d8b",
-    "added": "2026-07-05"
+    "added": "2026-07-05",
+    "neighbourhood": "Clerkenwell",
+    "cycle_minutes": 20
   }
 ]
