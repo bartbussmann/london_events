@@ -131,6 +131,25 @@
     "cycle_minutes": 15
   },
   {
+    "id": "ics-c24da79541c9",
+    "title": "PIVOTAL X AIWI - Whistleblowing in Frontier AI",
+    "start": "2026-07-07T18:00:00+00:00",
+    "end": "2026-07-07T19:00:00+00:00",
+    "venue": "London Initiative for Safe AI (LISA), 25 Holywell Row, London EC2A 4XE, UK",
+    "address": null,
+    "url": "https://api.lu.ma/ics/get?entity=calendar&id=cal-EIg2kZGmZGWkWcW",
+    "source": "ics:LISA (London Initiative for Safe AI)",
+    "tags": [
+      "tech",
+      "talk"
+    ],
+    "price": null,
+    "description": "Get up-to-date information at: https://luma.com/jd779x2s\n\nAddress:\nLondon Initiative for Safe AI (LISA)\nLondon, United Kingdom\n\nHosted by Jenny Huzell & 3 others",
+    "added": "2026-07-05",
+    "neighbourhood": "Shoreditch",
+    "cycle_minutes": 8
+  },
+  {
     "title": "London On Board: Tuesday Evening Board Gaming",
     "start": "2026-07-07T18:00:00+01:00",
     "end": null,
@@ -184,6 +203,25 @@
     "added": "2026-07-05",
     "neighbourhood": "Stratford",
     "cycle_minutes": 22
+  },
+  {
+    "id": "ics-dec4b72ef8fe",
+    "title": "AI & Willing Servitude - Andreas Mogensen (Oxford University) + Q&A + Networking",
+    "start": "2026-07-08T18:00:00+00:00",
+    "end": "2026-07-08T20:30:00+00:00",
+    "venue": "https://luma.com/event/evt-yKirdEMQumV8Ba1",
+    "address": null,
+    "url": "https://api.lu.ma/ics/get?entity=calendar&id=cal-EIg2kZGmZGWkWcW",
+    "source": "ics:LISA (London Initiative for Safe AI)",
+    "tags": [
+      "tech",
+      "talk"
+    ],
+    "price": null,
+    "description": "Get up-to-date information at: https://luma.com/el6b35um\n\nAddress:\nCheck event page for more details.\n\nHosted by Sentio, Joe Murray & LISA",
+    "added": "2026-07-05",
+    "neighbourhood": "Shoreditch",
+    "cycle_minutes": 8
   },
   {
     "title": "The Sunset Sessions — Open-Air Ecstatic Dance & Cacao (Silent Disco)",
@@ -757,6 +795,25 @@
     "cycle_minutes": 3
   },
   {
+    "id": "ics-7ecd2af4b8f4",
+    "title": "CLR Summer Fellowship Speaker Series: Daniel Kokotajlo (AI Futures Project)",
+    "start": "2026-07-16T16:00:00+00:00",
+    "end": "2026-07-16T17:00:00+00:00",
+    "venue": "London Initiative for Safe AI (LISA), 25 Holywell Row, London EC2A 4XE, UK",
+    "address": null,
+    "url": "https://api.lu.ma/ics/get?entity=calendar&id=cal-EIg2kZGmZGWkWcW",
+    "source": "ics:LISA (London Initiative for Safe AI)",
+    "tags": [
+      "tech",
+      "talk"
+    ],
+    "price": null,
+    "description": "Get up-to-date information at: https://luma.com/uy7racju\n\nAddress:\nLondon Initiative for Safe AI (LISA)\nLondon, United Kingdom\n\nHosted by Center on Long-term Risk & LISA",
+    "added": "2026-07-05",
+    "neighbourhood": "Shoreditch",
+    "cycle_minutes": 8
+  },
+  {
     "title": "Grounding Practice: Disruption and Innovation with Metal & Water",
     "start": "2026-07-16T17:30:00+01:00",
     "end": "2026-07-16T19:30:00+01:00",
@@ -829,6 +886,25 @@
     "added": "2026-07-05",
     "neighbourhood": "Hackney Central",
     "cycle_minutes": 12
+  },
+  {
+    "id": "ics-5d35d772be12",
+    "title": "CLR Summer Fellowship Speaker Series: Lewis Hammond (Cooperative AI Foundation)",
+    "start": "2026-07-17T16:00:00+00:00",
+    "end": "2026-07-17T17:00:00+00:00",
+    "venue": "London Initiative for Safe AI (LISA), 25 Holywell Row, London EC2A 4XE, UK",
+    "address": null,
+    "url": "https://api.lu.ma/ics/get?entity=calendar&id=cal-EIg2kZGmZGWkWcW",
+    "source": "ics:LISA (London Initiative for Safe AI)",
+    "tags": [
+      "tech",
+      "talk"
+    ],
+    "price": null,
+    "description": "Get up-to-date information at: https://luma.com/1wnkty6l\n\nAddress:\nLondon Initiative for Safe AI (LISA)\nLondon, United Kingdom\n\nHosted by Center on Long-term Risk & LISA",
+    "added": "2026-07-05",
+    "neighbourhood": "Shoreditch",
+    "cycle_minutes": 8
   },
   {
     "title": "London Craft Beer Festival 2026",
@@ -926,6 +1002,25 @@
     "cycle_minutes": 15
   },
   {
+    "id": "ics-f8c9f003bcf6",
+    "title": "CLR Summer Fellowship Speaker Series: Andy Gordon (Timaeus)",
+    "start": "2026-07-21T16:00:00+00:00",
+    "end": "2026-07-21T17:00:00+00:00",
+    "venue": "London Initiative for Safe AI (LISA), 25 Holywell Row, London EC2A 4XE, UK",
+    "address": null,
+    "url": "https://api.lu.ma/ics/get?entity=calendar&id=cal-EIg2kZGmZGWkWcW",
+    "source": "ics:LISA (London Initiative for Safe AI)",
+    "tags": [
+      "tech",
+      "talk"
+    ],
+    "price": null,
+    "description": "Get up-to-date information at: https://luma.com/7siqf8me\n\nAddress:\nLondon Initiative for Safe AI (LISA)\nLondon, United Kingdom\n\nHosted by Center on Long-term Risk & LISA",
+    "added": "2026-07-05",
+    "neighbourhood": "Shoreditch",
+    "cycle_minutes": 8
+  },
+  {
     "title": "Thursday: Singles Pottery Night",
     "start": "2026-07-21T18:30:00+01:00",
     "end": null,
@@ -982,6 +1077,25 @@
     "added": "2026-07-05",
     "neighbourhood": "Bethnal Green",
     "cycle_minutes": 4
+  },
+  {
+    "id": "ics-baedf66515a1",
+    "title": "CLR Summer Fellowship Speaker Series: Mia Hopman (Apollo Research)",
+    "start": "2026-07-22T16:00:00+00:00",
+    "end": "2026-07-22T17:00:00+00:00",
+    "venue": "London Initiative for Safe AI (LISA), 25 Holywell Row, London EC2A 4XE, UK",
+    "address": null,
+    "url": "https://api.lu.ma/ics/get?entity=calendar&id=cal-EIg2kZGmZGWkWcW",
+    "source": "ics:LISA (London Initiative for Safe AI)",
+    "tags": [
+      "tech",
+      "talk"
+    ],
+    "price": null,
+    "description": "Get up-to-date information at: https://luma.com/pqj2h1hy\n\nAddress:\nLondon Initiative for Safe AI (LISA)\nLondon, United Kingdom\n\nHosted by Center on Long-term Risk & LISA",
+    "added": "2026-07-05",
+    "neighbourhood": "Shoreditch",
+    "cycle_minutes": 8
   },
   {
     "title": "Thursday: 30+ Singles Night — new venue, Shoreditch",
@@ -1262,6 +1376,25 @@
     "added": "2026-07-05",
     "neighbourhood": "Vauxhall",
     "cycle_minutes": 38
+  },
+  {
+    "id": "ics-2f702e4fcb34",
+    "title": "CLR Summer Fellowship Speaker Series: Chi Nguyen (Redwood Research)",
+    "start": "2026-08-05T16:00:00+00:00",
+    "end": "2026-08-05T17:00:00+00:00",
+    "venue": "London Initiative for Safe AI (LISA), 25 Holywell Row, London EC2A 4XE, UK",
+    "address": null,
+    "url": "https://api.lu.ma/ics/get?entity=calendar&id=cal-EIg2kZGmZGWkWcW",
+    "source": "ics:LISA (London Initiative for Safe AI)",
+    "tags": [
+      "tech",
+      "talk"
+    ],
+    "price": null,
+    "description": "Get up-to-date information at: https://luma.com/67nhmqfy\n\nAddress:\nLondon Initiative for Safe AI (LISA)\nLondon, United Kingdom\n\nHosted by Center on Long-term Risk & LISA",
+    "added": "2026-07-05",
+    "neighbourhood": "Shoreditch",
+    "cycle_minutes": 8
   },
   {
     "title": "Slow Mass at The Victoria Dalston",

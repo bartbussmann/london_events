@@ -121,7 +121,11 @@ def main() -> None:
 
     for src in sources:
         try:
-            with urllib.request.urlopen(src["url"], timeout=30) as resp:
+            req = urllib.request.Request(
+                src["url"],
+                headers={"User-Agent": "Mozilla/5.0 (calendar-fetcher) "
+                                       "london-events/1.0"})
+            with urllib.request.urlopen(req, timeout=30) as resp:
                 body = resp.read().decode("utf-8", errors="replace")
         except Exception as exc:
             print(f"warn: could not fetch {src['name']} ({src['url']}): {exc}",
