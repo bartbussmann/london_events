@@ -161,6 +161,20 @@ URL:https://www.citybouldering.co.uk/events/beginner
 LOCATION:City Bouldering Stratford\, 234 High Street\, London E15 2JA
 END:VEVENT
 BEGIN:VEVENT
+UID:menaura-single-launch-milkstone-at-paper-dress-vintage-1a408f6f@london
+ -events
+DTSTAMP:20260707T183000Z
+DTSTART:20260707T183000Z
+DTEND:20260707T220000Z
+SUMMARY:Menaura (Single Launch) + Milkstone at Paper Dress Vintage
+DESCRIPTION:Shoegaze/art-rock single launch for Menaura's 'Deep Web' with 
+ a premiere screening of their first music video\, supported by Milkstone.
+  Intimate upstairs gig at the Mare Street vintage-shop-turned-venue.\nPri
+ ce: £8\nhttps://paperdressvintage.co.uk/by-night
+URL:https://paperdressvintage.co.uk/by-night
+LOCATION:Paper Dress Vintage\, 352a Mare Street\, E8 1HR
+END:VEVENT
+BEGIN:VEVENT
 UID:ics-dec4b72ef8fe@london-events
 DTSTAMP:20260708T180000Z
 DTSTART:20260708T180000Z
@@ -243,6 +257,20 @@ DESCRIPTION:Weekly Wednesday Ceroc London class night near King's Cross/St
  london
 URL:https://www.ceroc.com/67/1127/ceroc-london
 LOCATION:Edith Neville Primary School\, Purchese Street\, London NW1 1RW
+END:VEVENT
+BEGIN:VEVENT
+UID:ann-liu-cannon-dead-pages-at-paper-dress-vintage-6776d2d6@london-event
+ s
+DTSTAMP:20260708T183000Z
+DTSTART:20260708T183000Z
+DTEND:20260708T220000Z
+SUMMARY:Ann Liu Cannon + Dead Pages at Paper Dress Vintage
+DESCRIPTION:Singer-songwriter Ann Liu Cannon launches her debut album 'Cle
+ ver Rabbits'\, drawing on Chinese idioms and imagery from Devon churches 
+ and cave art. Small folk-leaning east London gig with support from Dead P
+ ages.\nPrice: £11.22\nhttps://paperdressvintage.co.uk/by-night
+URL:https://paperdressvintage.co.uk/by-night
+LOCATION:Paper Dress Vintage\, 352a Mare Street\, E8 1HR
 END:VEVENT
 BEGIN:VEVENT
 UID:shoreditch-speed-dating-ages-23-35-true-dating-c890a398@london-events
@@ -397,6 +425,20 @@ DESCRIPTION:Mikel The Energy's signature Rhythm & Breath experience combin
  302
 URL:https://momence.com/s/134309302
 LOCATION:The Sanctuary &Soul\, Shoreditch\, off Brick Lane
+END:VEVENT
+BEGIN:VEVENT
+UID:pigeon-dog-top-shagger-lots-of-at-paper-dress-vintage-038665ad@london-
+ events
+DTSTAMP:20260710T183000Z
+DTSTART:20260710T183000Z
+DTEND:20260710T220000Z
+SUMMARY:Pigeon Dog + Top Shagger + Lots Of at Paper Dress Vintage
+DESCRIPTION:Friday-night triple bill of raw grunge\, alternative noise and
+  post-rock — same scrappy east London pub-gig energy as the Shacklewell
+  Arms circuit.\nPrice: £8.65–£10\nhttps://paperdressvintage.co.uk/by-
+ night
+URL:https://paperdressvintage.co.uk/by-night
+LOCATION:Paper Dress Vintage\, 352a Mare Street\, E8 1HR
 END:VEVENT
 BEGIN:VEVENT
 UID:angel-comedy-at-the-bill-murray-33ebc8af@london-events
