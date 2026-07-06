@@ -30,9 +30,19 @@ interesting upcoming London events and add them to this repo's calendar.
 8. **Build**: run `python3 scripts/build.py`. It validates, de-duplicates,
    prunes past events, and regenerates `calendar.ics`. Fix any validation
    errors it reports and re-run until it prints `ok`.
-9. **Commit & push**: review `git diff`, then commit with a message like
-   `agent sweep: add 5 events (2 music, 2 workshop, 1 talk)` and push to the
-   default branch.
+9. **Log the sweep** (always, even if you added nothing): prepend an entry
+   to the array in `data/sweep_log.json`:
+   ```json
+   {"ran_at": "2026-07-06T07:15:00+01:00", "added": 3, "considered": 25,
+    "notes": "2 gigs + 1 talk; skipped 4 duplicates; 5rhythms.com unreachable"}
+   ```
+   Keep at most 30 entries (drop the oldest). This is the calendar's
+   heartbeat — it proves the sweep ran and says what happened.
+10. **Commit & push**: review `git diff`, then commit with a message like
+    `agent sweep: add 5 events (2 music, 2 workshop, 1 talk)` — or
+    `agent sweep: no new events` when only the log changed — and push to
+    the default branch. Always commit: the sweep-log update means there is
+    always something to push.
 
 ## Event schema (data/events.json is a JSON array of these)
 
