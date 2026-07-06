@@ -148,6 +148,23 @@
     display: flex; gap: 14px; flex-wrap: wrap; align-items: center;
     border-top: 1px solid var(--border);
   }
+  .linklike {
+    background: none; border: 0; padding: 0; font: inherit; color: inherit;
+    cursor: pointer; text-decoration: underline dotted; text-underline-offset: 3px;
+  }
+  .linklike:hover { color: var(--accent); }
+  .modal-body { max-height: 70vh; overflow-y: auto; }
+  .new-day { margin: 14px 0 4px; font-size: .78rem; font-weight: 600; color: var(--text-soft); text-transform: uppercase; letter-spacing: .05em; }
+  .new-day:first-of-type { margin-top: 10px; }
+  .new-note { font-size: .75rem; color: var(--text-soft); margin: 2px 0 6px; }
+  .new-row {
+    display: block; width: 100%; text-align: left; font: inherit; font-size: .85rem;
+    background: var(--surface-2); color: var(--text); border: 0; border-radius: 8px;
+    padding: 7px 10px; margin: 4px 0; cursor: pointer;
+  }
+  .new-row:hover { outline: 1px solid var(--accent); }
+  .new-row .sub { display: block; font-size: .75rem; color: var(--text-soft); }
+  .backlink { font-size: .8rem; margin-bottom: 8px; }
 
   @media (max-width: 640px) {
     .day { min-height: 64px; }
@@ -185,7 +202,7 @@
   <main id="main"></main>
 
   <footer>
-    <span id="sweepinfo">Updated automatically by agent sweeps.</span>
+    <button class="linklike" id="sweepinfo" title="See what each sweep added">Updated automatically by agent sweeps.</button>
     <a id="icslink" href="calendar.ics">Subscribe (.ics feed)</a>
     <a href="https://github.com/bartbussmann/london_events" target="_blank" rel="noopener">Source repo</a>
   </footer>
@@ -336,10 +353,11 @@
   }
 
   // ---- Modal ----
-  function openModal(e) {
+  function openModal(e, withBack) {
     const body = document.getElementById("modalBody");
     const when = fmtFull.format(new Date(e.start)) + (e.end ? " – " + fmtTime.format(new Date(e.end)) : "");
     body.innerHTML = `
+      ${withBack ? '<div class="backlink"><button class="linklike backlink">‹ back to what\'s new</button></div>' : ""}
       <h2>${esc(e.title)}</h2>
       <div class="when">${when}</div>
       <div class="where">${esc(e.venue || "")}${e.address ? " · " + esc(e.address) : ""}</div>
@@ -353,7 +371,8 @@
         ${e.url ? `<a class="btn primary" href="${esc(e.url)}" target="_blank" rel="noopener">Event page ↗</a>` : ""}
       </div>
       <div class="src">source: ${esc(e.source || "unknown")} · added ${esc(e.added || "?")}</div>`;
-    document.getElementById("modal").showModal();
+    const dlg = document.getElementById("modal");
+    if (!dlg.open) dlg.showModal();
   }
 
   main.addEventListener("click", ev => {
@@ -392,11 +411,13 @@
     document.getElementById("count").textContent = upcoming ? `${upcoming} upcoming` : "";
   }
 
-  // ---- Sweep heartbeat ----
+  // ---- Sweep heartbeat + "what's new" panel ----
+  let sweepLog = [];
   fetch("data/sweep_log.json", { cache: "no-cache" })
     .then(r => r.ok ? r.json() : [])
     .then(log => {
       if (!Array.isArray(log) || !log.length) return;
+      sweepLog = log;
       const last = log[0];
       const when = new Date(last.ran_at).toLocaleString("en-GB",
         { day: "numeric", month: "short", hour: "2-digit", minute: "2-digit", timeZone: "Europe/London" });
@@ -404,6 +425,47 @@
         `Last agent sweep: ${when} (+${last.added} event${last.added === 1 ? "" : "s"})`;
     })
     .catch(() => {});
+
+  function openWhatsNew() {
+    const byAdded = {};
+    for (const e of events) (byAdded[e.added || "unknown"] ||= []).push(e);
+    const logByDate = {};
+    for (const s of sweepLog) (logByDate[londonDate(s.ran_at)] ||= []).push(s);
+    const dates = [...new Set([...Object.keys(byAdded), ...Object.keys(logByDate)])]
+      .filter(d => d !== "unknown").sort().reverse();
+
+    let html = `<h2>What the sweeps added</h2>
+      <div class="new-note">Events still on the calendar, grouped by the day they were found. Past events age out.</div>`;
+    for (const d of dates) {
+      const dayEvents = (byAdded[d] || []).sort((a, b) => a.start.localeCompare(b.start));
+      const label = new Date(d + "T12:00:00Z").toLocaleDateString("en-GB",
+        { weekday: "long", day: "numeric", month: "long" });
+      html += `<div class="new-day">${label} — ${dayEvents.length} added</div>`;
+      for (const s of logByDate[d] || []) {
+        if (s.notes) html += `<div class="new-note">${esc(s.notes)}</div>`;
+      }
+      if (!dayEvents.length) html += `<div class="new-note">No events added.</div>`;
+      for (const e of dayEvents) {
+        const when = fmtFull.format(new Date(e.start));
+        html += `<button class="new-row" data-id="${esc(e.id)}">${esc(e.title)}
+          <span class="sub">${when} · ${esc(e.venue || "")}</span></button>`;
+      }
+    }
+    document.getElementById("modalBody").innerHTML = html;
+    const dlg = document.getElementById("modal");
+    if (!dlg.open) dlg.showModal();
+    dlg.querySelector(".modal-body").scrollTop = 0;
+  }
+  document.getElementById("sweepinfo").onclick = openWhatsNew;
+  document.getElementById("modalBody").addEventListener("click", ev => {
+    const t = ev.target.closest(".new-row[data-id]");
+    if (t) {
+      const e = events.find(x => x.id === t.dataset.id);
+      if (e) openModal(e, true);
+      return;
+    }
+    if (ev.target.closest(".backlink")) openWhatsNew();
+  });
 
   // ---- Load ----
   fetch("data/events.json", { cache: "no-cache" })
