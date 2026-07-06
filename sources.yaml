@@ -31,6 +31,10 @@ venues:
   - name: Southbank Centre
     url: https://www.southbankcentre.co.uk/whats-on
     tags: [music, talk, art]
+  - name: Paper Dress Vintage (Hackney Central)
+    url: https://paperdressvintage.co.uk/by-night
+    tags: [music]
+    # small upstairs gigs, indie/folk-leaning — 12 min cycle
   - name: Rich Mix (Shoreditch)
     url: https://richmix.org.uk/whats-on/
     tags: [film, music, art, community]

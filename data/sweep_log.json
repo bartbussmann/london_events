@@ -1,5 +1,11 @@
 [
   {
+    "ran_at": "2026-07-06T13:35:00+01:00",
+    "added": 3,
+    "considered": 15,
+    "notes": "In-session sweep (headless routine replaced after silent failures). ICS: 0 new from LISA. Added 3 small gigs at Paper Dress Vintage (new venue, added to sources). Skipped: sold-out Pint of Science astronauts talk; dice.fm and Londonist returned 403."
+  },
+  {
     "ran_at": "2026-07-05T18:00:00+01:00",
     "added": 51,
     "considered": 110,
