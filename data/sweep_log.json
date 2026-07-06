@@ -1,0 +1,8 @@
+[
+  {
+    "ran_at": "2026-07-05T18:00:00+01:00",
+    "added": 51,
+    "considered": 110,
+    "notes": "Initial seeding via interactive session: 44 events across new sources/interests + 7 LISA ICS imports. Sweep logging starts here; the 2026-07-06 06:02 UTC routine run predates logging and left no trace."
+  }
+]

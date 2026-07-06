@@ -185,7 +185,7 @@
   <main id="main"></main>
 
   <footer>
-    <span>Updated automatically by agent sweeps.</span>
+    <span id="sweepinfo">Updated automatically by agent sweeps.</span>
     <a id="icslink" href="calendar.ics">Subscribe (.ics feed)</a>
     <a href="https://github.com/bartbussmann/london_events" target="_blank" rel="noopener">Source repo</a>
   </footer>
@@ -391,6 +391,19 @@
     const upcoming = events.filter(e => londonDate(e.start) >= todayKey).length;
     document.getElementById("count").textContent = upcoming ? `${upcoming} upcoming` : "";
   }
+
+  // ---- Sweep heartbeat ----
+  fetch("data/sweep_log.json", { cache: "no-cache" })
+    .then(r => r.ok ? r.json() : [])
+    .then(log => {
+      if (!Array.isArray(log) || !log.length) return;
+      const last = log[0];
+      const when = new Date(last.ran_at).toLocaleString("en-GB",
+        { day: "numeric", month: "short", hour: "2-digit", minute: "2-digit", timeZone: "Europe/London" });
+      document.getElementById("sweepinfo").textContent =
+        `Last agent sweep: ${when} (+${last.added} event${last.added === 1 ? "" : "s"})`;
+    })
+    .catch(() => {});
 
   // ---- Load ----
   fetch("data/events.json", { cache: "no-cache" })
