@@ -1,4 +1,28 @@
 {
   "model": "claude-fable-5",
-  "fallbackModel": ["default"]
+  "fallbackModel": ["default"],
+  "permissions": {
+    "allow": [
+      "Bash(git fetch:*)",
+      "Bash(git pull:*)",
+      "Bash(git checkout:*)",
+      "Bash(git branch:*)",
+      "Bash(git status:*)",
+      "Bash(git diff:*)",
+      "Bash(git log:*)",
+      "Bash(git show:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(git push:*)",
+      "Bash(python3:*)",
+      "Bash(curl:*)",
+      "WebFetch",
+      "WebSearch",
+      "Read",
+      "Glob",
+      "Grep",
+      "Edit",
+      "Write"
+    ]
+  }
 }
