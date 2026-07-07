@@ -373,6 +373,24 @@
     "cycle_minutes": 7
   },
   {
+    "title": "Alexandra Savior — Beneath The Lilypad tour",
+    "start": "2026-07-09T19:00:00+01:00",
+    "end": null,
+    "venue": "Union Chapel",
+    "address": "19b Compton Terrace, N1 2UN",
+    "url": "https://dice.fm/event/927vxn-alexandra-savior-9th-jul-union-chapel-london-tickets",
+    "source": "keyword-search",
+    "tags": [
+      "music"
+    ],
+    "price": "£30",
+    "description": "Atmospheric indie/noir-pop singer-songwriter Alexandra Savior plays a seated show in the candlelit Union Chapel, touring her album Beneath The Lilypad. Doors 19:00.",
+    "neighbourhood": "Islington",
+    "cycle_minutes": 20,
+    "id": "alexandra-savior-beneath-the-lilypad-tour-8f31ace8",
+    "added": "2026-07-07"
+  },
+  {
     "title": "The Sleeves (Jack Cooper & Tara Cunningham) + Minami Saeki at Cafe OTO",
     "start": "2026-07-09T19:30:00+01:00",
     "end": null,
@@ -521,6 +539,25 @@
     "added": "2026-07-05",
     "neighbourhood": "Hackney Central",
     "cycle_minutes": 12
+  },
+  {
+    "title": "Uyen Luu Vietnamese Supper Club",
+    "start": "2026-07-10T19:00:00+01:00",
+    "end": "2026-07-10T22:00:00+01:00",
+    "venue": "Uyen Luu's Studio, Regent Studios",
+    "address": "Unit 32, 8 Andrews Road, E8 4QN",
+    "url": "https://www.uyenluu.com/supper-club-vietnamese-london/",
+    "source": "keyword-search",
+    "tags": [
+      "food",
+      "community"
+    ],
+    "price": "£60pp plus tips",
+    "description": "Long-running homemade Vietnamese supper club by cookbook author Uyen Luu — a multi-course feast at one shared long table in her canal-side Hackney studio. Also runs 11, 17 and 18 July; book via the form on the page.",
+    "neighbourhood": "Broadway Market",
+    "cycle_minutes": 5,
+    "id": "uyen-luu-vietnamese-supper-club-52001b95",
+    "added": "2026-07-07"
   },
   {
     "title": "Poetry International: Benjamin Zephaniah Celebration",
@@ -674,6 +711,25 @@
     "added": "2026-07-05",
     "neighbourhood": "Shoreditch",
     "cycle_minutes": 6
+  },
+  {
+    "title": "The Sunset Sessions — open-air ecstatic dance (Saturday edition)",
+    "start": "2026-07-11T18:00:00+01:00",
+    "end": "2026-07-11T20:30:00+01:00",
+    "venue": "Secret park location, Regent's Park area",
+    "address": "NW1 5LJ (exact spot sent with booking)",
+    "url": "https://www.eventbrite.co.uk/e/the-sunset-sessions-outdoor-dances-with-ecstatic-dance-london-open-air-tickets-1988857614664",
+    "source": "keyword-search",
+    "tags": [
+      "dance",
+      "outdoors"
+    ],
+    "price": null,
+    "description": "Ecstatic Dance London's outdoor summer session: silent-disco headphone ecstatic dance under the open sky with cacao circle and picnic social — no booze, no shoes, no phones. Repeats 15, 17 and 18 July.",
+    "neighbourhood": "Regent's Park",
+    "cycle_minutes": 35,
+    "id": "the-sunset-sessions-open-air-ecstatic-dance-saturday-edition-0bff9f05",
+    "added": "2026-07-07"
   },
   {
     "title": "Sparks & Steps: Summer Singles Event (ages 28-40)",
@@ -847,6 +903,25 @@
     "added": "2026-07-05",
     "neighbourhood": "Bethnal Green",
     "cycle_minutes": 3
+  },
+  {
+    "title": "Krishna Das — Home in the Heart (kirtan)",
+    "start": "2026-07-13T19:30:00+01:00",
+    "end": "2026-07-13T22:30:00+01:00",
+    "venue": "Union Chapel",
+    "address": "19b Compton Terrace, N1 2UN",
+    "url": "https://www.gigantic.com/krishna-das-tickets/london-union-chapel/2026-07-13-18-30",
+    "source": "keyword-search",
+    "tags": [
+      "music",
+      "community"
+    ],
+    "price": "from £38.25",
+    "description": "Legendary kirtan/chant artist Krishna Das leads an evening of call-and-response mantra singing at Union Chapel — a strong match for the ecstatic dance and embodiment scene. Doors 18:30; a second night runs 14 July.",
+    "neighbourhood": "Islington",
+    "cycle_minutes": 20,
+    "id": "krishna-das-home-in-the-heart-kirtan-62b3ba91",
+    "added": "2026-07-07"
   },
   {
     "id": "ics-7ecd2af4b8f4",
