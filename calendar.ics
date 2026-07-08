@@ -699,6 +699,20 @@ LOCATION:The Old Blue Last\, 38 Great Eastern Street\, Shoreditch\, EC2A 3
  ES
 END:VEVENT
 BEGIN:VEVENT
+UID:monday-contact-improv-jam-dress-up-jam-12ffe4e7@london-events
+DTSTAMP:20260713T173000Z
+DTSTART:20260713T173000Z
+DTEND:20260713T193000Z
+SUMMARY:Monday Contact Improv Jam: Dress-Up Jam
+DESCRIPTION:Weekly Monday CI jam hosted by Marie Chabert (22 years of CI p
+ ractice): facilitated warm-up then open jam\, this week with a playful dr
+ ess-up theme. First-timers can arrive 6:20pm for a consent/guidelines int
+ ro. Jams pause after 20 July\, resuming 7 September.\nPrice: Sliding scal
+ e £8-£20\nhttps://bookwhen.com/mariechabert/e/ev-s47od-20260713183000
+URL:https://bookwhen.com/mariechabert/e/ev-s47od-20260713183000
+LOCATION:Centre 151\, 151 Whiston Road\, E2 8GU
+END:VEVENT
+BEGIN:VEVENT
 UID:campaign-lab-hack-night-f5e87b03@london-events
 DTSTAMP:20260713T180000Z
 DTSTART:20260713T180000Z
@@ -890,6 +904,22 @@ URL:https://www.growhackney.co.uk/events-calendar
 LOCATION:Grow Hackney\, Main Yard\, Wallis Road\, Hackney Wick\, E9 5LN
 END:VEVENT
 BEGIN:VEVENT
+UID:ci-goldsmiths-contact-improv-class-jam-with-live-soundscape-5cbd1c9e@l
+ ondon-events
+DTSTAMP:20260718T120000Z
+DTSTART:20260718T120000Z
+DTEND:20260718T170000Z
+SUMMARY:CI Goldsmiths: Contact Improv Class + Jam with Live Soundscape
+DESCRIPTION:A 2-hour contact improvisation class followed by a 3-hour open
+  jam with live soundscape\, run by the long-standing CI Goldsmiths collec
+ tive with a different teacher each session. A deep-dive Saturday format i
+ deal for building CI skills.\nPrice: Jam-only drop-in £12 (£10 concessi
+ on)\nhttps://bookwhen.com/cigoldsmiths/e/ev-s4h38-20260718130000
+URL:https://bookwhen.com/cigoldsmiths/e/ev-s4h38-20260718130000
+LOCATION:Goldsmiths\, Richard Hoggart Building (Room 154)\, Lewisham Way\,
+  SE14 6NW
+END:VEVENT
+BEGIN:VEVENT
 UID:afrique-express-at-servant-jazz-quarters-70e45b10@london-events
 DTSTAMP:20260718T200000Z
 DTSTART:20260718T200000Z
@@ -901,6 +931,20 @@ DESCRIPTION:Free late-night African-influenced live session in SJQ's tiny
 URL:https://dice.fm/event/xeyx8e-afrique-express-18th-jul-sjq-london-ticke
  ts
 LOCATION:Servant Jazz Quarters\, 10A Bradbury Street\, Dalston\, N16 8JN
+END:VEVENT
+BEGIN:VEVENT
+UID:monday-contact-improv-class-jam-7a4e6d07@london-events
+DTSTAMP:20260720T173000Z
+DTSTART:20260720T173000Z
+DTEND:20260720T193000Z
+SUMMARY:Monday Contact Improv: Class + Jam
+DESCRIPTION:Marie Chabert teaches a thematic CI class with somatic guided 
+ exploration\, partner work and technique\, followed by a 45-60 minute ope
+ n jam. Explicitly welcomes beginners through to seasoned professionals\; 
+ doors 6:20pm.\nPrice: Sliding scale £12-£20\nhttps://bookwhen.com/marie
+ chabert/e/ev-so6jw-20260720183000
+URL:https://bookwhen.com/mariechabert/e/ev-so6jw-20260720183000
+LOCATION:Rose Lipman Building\, 43 De Beauvoir Road\, N1 5SQ
 END:VEVENT
 BEGIN:VEVENT
 UID:ics-f8c9f003bcf6@london-events
@@ -968,6 +1012,20 @@ DESCRIPTION:Get up-to-date information at: https://luma.com/pqj2h1hy\n\nAd
 URL:https://api.lu.ma/ics/get?entity=calendar&id=cal-EIg2kZGmZGWkWcW
 LOCATION:London Initiative for Safe AI (LISA)\, 25 Holywell Row\, London E
  C2A 4XE\, UK
+END:VEVENT
+BEGIN:VEVENT
+UID:regent-s-park-outdoor-ci-jam-7a6edfe6@london-events
+DTSTAMP:20260722T170000Z
+DTSTART:20260722T170000Z
+DTEND:20260722T194500Z
+SUMMARY:Regent's Park Outdoor CI Jam
+DESCRIPTION:Free outdoor summer contact improvisation jam with rotating fa
+ cilitators: social time from 6pm\, opening circle 6:40pm\, jamming until 
+ 8:45pm. Runs Wednesday evenings weekly through 19 August\; check the list
+ ing for the exact meeting spot.\nPrice: Free\nhttps://cicalendar.uk/londo
+ n
+URL:https://cicalendar.uk/london
+LOCATION:Regent's Park (outdoor jam)\, Regent's Park\, NW1
 END:VEVENT
 BEGIN:VEVENT
 UID:thursday-30-singles-night-new-venue-shoreditch-7d1787d7@london-events

@@ -925,6 +925,25 @@
     "cycle_minutes": 8
   },
   {
+    "title": "Monday Contact Improv Jam: Dress-Up Jam",
+    "start": "2026-07-13T18:30:00+01:00",
+    "end": "2026-07-13T20:30:00+01:00",
+    "venue": "Centre 151",
+    "address": "151 Whiston Road, E2 8GU",
+    "url": "https://bookwhen.com/mariechabert/e/ev-s47od-20260713183000",
+    "source": "keyword-search",
+    "tags": [
+      "dance",
+      "community"
+    ],
+    "price": "Sliding scale £8-£20",
+    "description": "Weekly Monday CI jam hosted by Marie Chabert (22 years of CI practice): facilitated warm-up then open jam, this week with a playful dress-up theme. First-timers can arrive 6:20pm for a consent/guidelines intro. Jams pause after 20 July, resuming 7 September.",
+    "neighbourhood": "Haggerston",
+    "cycle_minutes": 6,
+    "id": "monday-contact-improv-jam-dress-up-jam-12ffe4e7",
+    "added": "2026-07-08"
+  },
+  {
     "title": "Campaign Lab Hack Night",
     "start": "2026-07-13T19:00:00+01:00",
     "end": "2026-07-13T22:00:00+01:00",
@@ -1172,6 +1191,25 @@
     "added": "2026-07-08"
   },
   {
+    "title": "CI Goldsmiths: Contact Improv Class + Jam with Live Soundscape",
+    "start": "2026-07-18T13:00:00+01:00",
+    "end": "2026-07-18T18:00:00+01:00",
+    "venue": "Goldsmiths, Richard Hoggart Building (Room 154)",
+    "address": "Lewisham Way, SE14 6NW",
+    "url": "https://bookwhen.com/cigoldsmiths/e/ev-s4h38-20260718130000",
+    "source": "keyword-search",
+    "tags": [
+      "dance",
+      "class"
+    ],
+    "price": "Jam-only drop-in £12 (£10 concession)",
+    "description": "A 2-hour contact improvisation class followed by a 3-hour open jam with live soundscape, run by the long-standing CI Goldsmiths collective with a different teacher each session. A deep-dive Saturday format ideal for building CI skills.",
+    "neighbourhood": "New Cross",
+    "cycle_minutes": 35,
+    "id": "ci-goldsmiths-contact-improv-class-jam-with-live-soundscape-5cbd1c9e",
+    "added": "2026-07-08"
+  },
+  {
     "title": "Afrique Express! at Servant Jazz Quarters",
     "start": "2026-07-18T21:00:00+01:00",
     "end": null,
@@ -1188,6 +1226,25 @@
     "added": "2026-07-05",
     "neighbourhood": "Dalston",
     "cycle_minutes": 15
+  },
+  {
+    "title": "Monday Contact Improv: Class + Jam",
+    "start": "2026-07-20T18:30:00+01:00",
+    "end": "2026-07-20T20:30:00+01:00",
+    "venue": "Rose Lipman Building",
+    "address": "43 De Beauvoir Road, N1 5SQ",
+    "url": "https://bookwhen.com/mariechabert/e/ev-so6jw-20260720183000",
+    "source": "keyword-search",
+    "tags": [
+      "dance",
+      "class"
+    ],
+    "price": "Sliding scale £12-£20",
+    "description": "Marie Chabert teaches a thematic CI class with somatic guided exploration, partner work and technique, followed by a 45-60 minute open jam. Explicitly welcomes beginners through to seasoned professionals; doors 6:20pm.",
+    "neighbourhood": "De Beauvoir / Dalston",
+    "cycle_minutes": 12,
+    "id": "monday-contact-improv-class-jam-7a4e6d07",
+    "added": "2026-07-08"
   },
   {
     "id": "ics-f8c9f003bcf6",
@@ -1284,6 +1341,25 @@
     "added": "2026-07-05",
     "neighbourhood": "Shoreditch",
     "cycle_minutes": 8
+  },
+  {
+    "title": "Regent's Park Outdoor CI Jam",
+    "start": "2026-07-22T18:00:00+01:00",
+    "end": "2026-07-22T20:45:00+01:00",
+    "venue": "Regent's Park (outdoor jam)",
+    "address": "Regent's Park, NW1",
+    "url": "https://cicalendar.uk/london",
+    "source": "keyword-search",
+    "tags": [
+      "dance",
+      "community"
+    ],
+    "price": "Free",
+    "description": "Free outdoor summer contact improvisation jam with rotating facilitators: social time from 6pm, opening circle 6:40pm, jamming until 8:45pm. Runs Wednesday evenings weekly through 19 August; check the listing for the exact meeting spot.",
+    "neighbourhood": "Regent's Park",
+    "cycle_minutes": 32,
+    "id": "regent-s-park-outdoor-ci-jam-7a6edfe6",
+    "added": "2026-07-08"
   },
   {
     "title": "Thursday: 30+ Singles Night — new venue, Shoreditch",
