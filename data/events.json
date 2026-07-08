@@ -560,6 +560,25 @@
     "added": "2026-07-07"
   },
   {
+    "title": "Campfire Club: Rachel Sermanni + Ceitidh Mac",
+    "start": "2026-07-10T19:00:00+01:00",
+    "end": "2026-07-10T22:30:00+01:00",
+    "venue": "Cody Dock",
+    "address": "11c South Crescent, E16 4TL",
+    "url": "https://thenestcollective.co.uk/events/campfire-club-10-july-2026",
+    "source": "keyword-search",
+    "tags": [
+      "music",
+      "outdoors"
+    ],
+    "price": "£20",
+    "description": "Outdoor summer folk concert around the campfire at Cody Dock on the River Lea, with dreamy Scottish indie-folk from Rachel Sermanni and cello-and-vocals from Ceitidh Mac.",
+    "neighbourhood": "Cody Dock / Canning Town",
+    "cycle_minutes": 25,
+    "id": "campfire-club-rachel-sermanni-ceitidh-mac-bb57da00",
+    "added": "2026-07-08"
+  },
+  {
     "title": "Poetry International: Benjamin Zephaniah Celebration",
     "start": "2026-07-10T19:30:00+01:00",
     "end": null,
@@ -789,6 +808,26 @@
     "added": "2026-07-05",
     "neighbourhood": "Waterloo / South Bank",
     "cycle_minutes": 30
+  },
+  {
+    "title": "Sound & Silence Festival (alcohol-free, donation-based)",
+    "start": "2026-07-12T10:00:00+01:00",
+    "end": "2026-07-12T22:00:00+01:00",
+    "venue": "Multiple venues across Hackney Wick (check-in at Bar90)",
+    "address": "90 Wallis Road, E9 5LN",
+    "url": "https://www.eventbrite.co.uk/e/sound-silence-festival-alcohol-free-donation-based-tickets-1989315695797",
+    "source": "keyword-search",
+    "tags": [
+      "dance",
+      "community",
+      "festival"
+    ],
+    "price": "Donation-based (cacao ceremony +£5)",
+    "description": "A 12-hour sober journey through Hackney Wick: ecstatic dance, breathwork, sound baths, gong sessions, singing circles, yoga, live music, comedy and wellness talks. Many sessions need free advance booking due to capacity.",
+    "neighbourhood": "Hackney Wick",
+    "cycle_minutes": 15,
+    "id": "sound-silence-festival-alcohol-free-donation-based-81dbe4b2",
+    "added": "2026-07-08"
   },
   {
     "title": "Thursday: Singles Museum Walk and Lunch",
@@ -1113,6 +1152,26 @@
     "cycle_minutes": 15
   },
   {
+    "title": "Grow's 12th Birthday — all-day canalside live music party",
+    "start": "2026-07-18T11:00:00+01:00",
+    "end": "2026-07-19T02:00:00+01:00",
+    "venue": "Grow Hackney",
+    "address": "Main Yard, Wallis Road, Hackney Wick, E9 5LN",
+    "url": "https://www.growhackney.co.uk/events-calendar",
+    "source": "keyword-search",
+    "tags": [
+      "music",
+      "outdoors",
+      "community"
+    ],
+    "price": "Free before 8pm, £10 after",
+    "description": "Canalside venue Grow celebrates its 12th birthday with a full day and night of live music, DJs and food by the water; the free daytime stretch is the sweet spot before it shifts to a late-night party.",
+    "neighbourhood": "Hackney Wick",
+    "cycle_minutes": 15,
+    "id": "grow-s-12th-birthday-all-day-canalside-live-music-party-a32f092f",
+    "added": "2026-07-08"
+  },
+  {
     "title": "Afrique Express! at Servant Jazz Quarters",
     "start": "2026-07-18T21:00:00+01:00",
     "end": null,
@@ -1281,6 +1340,25 @@
     "added": "2026-07-05",
     "neighbourhood": "Kensington Olympia",
     "cycle_minutes": 55
+  },
+  {
+    "title": "Campfire Club: Junior Brother + Anna McLuckie",
+    "start": "2026-07-24T19:00:00+01:00",
+    "end": "2026-07-24T22:30:00+01:00",
+    "venue": "Cody Dock",
+    "address": "11c South Crescent, E16 4TL",
+    "url": "https://thenestcollective.co.uk/events/campfire-club-24-july-2026",
+    "source": "keyword-search",
+    "tags": [
+      "music",
+      "outdoors"
+    ],
+    "price": null,
+    "description": "Friday-evening outdoor Campfire Club session at Cody Dock with Irish alt-folk songwriter Junior Brother and harpist-singer Anna McLuckie. Price not yet listed (the 10 July edition is £20).",
+    "neighbourhood": "Cody Dock / Canning Town",
+    "cycle_minutes": 25,
+    "id": "campfire-club-junior-brother-anna-mcluckie-46c20fc8",
+    "added": "2026-07-08"
   },
   {
     "title": "Discourse: Discoveries at the Icy Moons of Jupiter and Saturn",

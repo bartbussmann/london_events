@@ -427,6 +427,19 @@ LOCATION:Uyen Luu's Studio\, Regent Studios\, Unit 32\, 8 Andrews Road\, E
  8 4QN
 END:VEVENT
 BEGIN:VEVENT
+UID:campfire-club-rachel-sermanni-ceitidh-mac-bb57da00@london-events
+DTSTAMP:20260710T180000Z
+DTSTART:20260710T180000Z
+DTEND:20260710T213000Z
+SUMMARY:Campfire Club: Rachel Sermanni + Ceitidh Mac
+DESCRIPTION:Outdoor summer folk concert around the campfire at Cody Dock o
+ n the River Lea\, with dreamy Scottish indie-folk from Rachel Sermanni an
+ d cello-and-vocals from Ceitidh Mac.\nPrice: £20\nhttps://thenestcollect
+ ive.co.uk/events/campfire-club-10-july-2026
+URL:https://thenestcollective.co.uk/events/campfire-club-10-july-2026
+LOCATION:Cody Dock\, 11c South Crescent\, E16 4TL
+END:VEVENT
+BEGIN:VEVENT
 UID:poetry-international-benjamin-zephaniah-celebration-73472adb@london-ev
  ents
 DTSTAMP:20260710T183000Z
@@ -596,6 +609,24 @@ DESCRIPTION:A three-hour hands-on introduction to throwing clay on the pot
 URL:https://countyhallpottery.com/product/wheel-throwing-pottery-taster-lo
  ndon/
 LOCATION:County Hall Pottery\, Belvedere Road\, Waterloo\, London SE1 7PB
+END:VEVENT
+BEGIN:VEVENT
+UID:sound-silence-festival-alcohol-free-donation-based-81dbe4b2@london-eve
+ nts
+DTSTAMP:20260712T090000Z
+DTSTART:20260712T090000Z
+DTEND:20260712T210000Z
+SUMMARY:Sound & Silence Festival (alcohol-free\, donation-based)
+DESCRIPTION:A 12-hour sober journey through Hackney Wick: ecstatic dance\,
+  breathwork\, sound baths\, gong sessions\, singing circles\, yoga\, live
+  music\, comedy and wellness talks. Many sessions need free advance booki
+ ng due to capacity.\nPrice: Donation-based (cacao ceremony +£5)\nhttps:/
+ /www.eventbrite.co.uk/e/sound-silence-festival-alcohol-free-donation-base
+ d-tickets-1989315695797
+URL:https://www.eventbrite.co.uk/e/sound-silence-festival-alcohol-free-don
+ ation-based-tickets-1989315695797
+LOCATION:Multiple venues across Hackney Wick (check-in at Bar90)\, 90 Wall
+ is Road\, E9 5LN
 END:VEVENT
 BEGIN:VEVENT
 UID:thursday-singles-museum-walk-and-lunch-a5065f97@london-events
@@ -844,6 +875,21 @@ LOCATION:Food at 52 Cookery School\, 96 Central Street\, Clerkenwell\, Lon
  don EC1V 8AJ
 END:VEVENT
 BEGIN:VEVENT
+UID:grow-s-12th-birthday-all-day-canalside-live-music-party-a32f092f@londo
+ n-events
+DTSTAMP:20260718T100000Z
+DTSTART:20260718T100000Z
+DTEND:20260719T010000Z
+SUMMARY:Grow's 12th Birthday — all-day canalside live music party
+DESCRIPTION:Canalside venue Grow celebrates its 12th birthday with a full 
+ day and night of live music\, DJs and food by the water\; the free daytim
+ e stretch is the sweet spot before it shifts to a late-night party.\nPric
+ e: Free before 8pm\, £10 after\nhttps://www.growhackney.co.uk/events-cal
+ endar
+URL:https://www.growhackney.co.uk/events-calendar
+LOCATION:Grow Hackney\, Main Yard\, Wallis Road\, Hackney Wick\, E9 5LN
+END:VEVENT
+BEGIN:VEVENT
 UID:afrique-express-at-servant-jazz-quarters-70e45b10@london-events
 DTSTAMP:20260718T200000Z
 DTSTART:20260718T200000Z
@@ -961,6 +1007,19 @@ DESCRIPTION:The UK's largest Japanese culture festival runs 24–26 July w
  ice: From £28.35\nhttps://hyperjapan.co.uk/festival/
 URL:https://hyperjapan.co.uk/festival/
 LOCATION:Olympia London\, Hammersmith Road\, W14 8UX
+END:VEVENT
+BEGIN:VEVENT
+UID:campfire-club-junior-brother-anna-mcluckie-46c20fc8@london-events
+DTSTAMP:20260724T180000Z
+DTSTART:20260724T180000Z
+DTEND:20260724T213000Z
+SUMMARY:Campfire Club: Junior Brother + Anna McLuckie
+DESCRIPTION:Friday-evening outdoor Campfire Club session at Cody Dock with
+  Irish alt-folk songwriter Junior Brother and harpist-singer Anna McLucki
+ e. Price not yet listed (the 10 July edition is £20).\nhttps://thenestco
+ llective.co.uk/events/campfire-club-24-july-2026
+URL:https://thenestcollective.co.uk/events/campfire-club-24-july-2026
+LOCATION:Cody Dock\, 11c South Crescent\, E16 4TL
 END:VEVENT
 BEGIN:VEVENT
 UID:discourse-discoveries-at-the-icy-moons-of-jupiter-and-saturn-0e9e366e@
