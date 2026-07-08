@@ -14,7 +14,8 @@ discovering places — not a tourist checklist.
 - Dance, high priority: ecstatic dance, 5Rhythms (London events only), Ceroc /
   modern jive nights, conscious movement — classes and socials alike
 - Relational and embodiment practices, high priority: circling, authentic
-  relating games/workshops, Alexander Technique lessons and intro workshops
+  relating games/workshops, Alexander Technique lessons and intro workshops,
+  contact improvisation (jams, classes, beginner-friendly labs)
 - Rationality community: LessWrong / ACX / adjacent meetups and talks in London
 - Dating and singles events: Thursday app events and other quality singles
   socials (hobby-based or activity-based ones especially). Only mixed
