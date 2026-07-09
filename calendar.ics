@@ -202,6 +202,19 @@ URL:https://truedating.co.uk/events/shoreditch-speed-dating-9-jul-2026
 LOCATION:Be At One\, Shoreditch\, 348 Old Street\, London EC1V 9NQ
 END:VEVENT
 BEGIN:VEVENT
+UID:true-dating-shoreditch-speed-dating-ages-23-35-1a1a86ee@london-events
+DTSTAMP:20260709T173000Z
+DTSTART:20260709T173000Z
+DTEND:20260709T193000Z
+SUMMARY:True Dating: Shoreditch Speed Dating (ages 23-35)
+DESCRIPTION:Mixed speed dating night for ages 23-35 at Be At One on Old St
+ reet — tonight\, with the last few tickets remaining for both sides aft
+ er an earlier sell-out.\nPrice: £15\nhttps://truedating.co.uk/events/sho
+ reditch-speed-dating-9-jul-2026
+URL:https://truedating.co.uk/events/shoreditch-speed-dating-9-jul-2026
+LOCATION:Be At One\, Shoreditch\, 348 Old St\, EC1V 9NQ
+END:VEVENT
+BEGIN:VEVENT
 UID:alexandra-savior-beneath-the-lilypad-tour-8f31ace8@london-events
 DTSTAMP:20260709T180000Z
 DTSTART:20260709T180000Z
@@ -497,6 +510,21 @@ DESCRIPTION:Summer singles social in the City with low-pressure ice-breake
 URL:https://www.designmynight.com/london/pubs/city-of-london/balfour-st-ba
  rts/saturday-11-july-sparks-steps-summer-singles-event-age-2840
 LOCATION:Balfour St Bart's\, City of London
+END:VEVENT
+BEGIN:VEVENT
+UID:statistics-and-stupidly-smart-ai-royal-institution-talk-ba468ca0@londo
+ n-events
+DTSTAMP:20260711T180000Z
+DTSTART:20260711T180000Z
+DTEND:20260711T200000Z
+SUMMARY:Statistics and Stupidly Smart AI (Royal Institution talk)
+DESCRIPTION:Saturday-evening Royal Institution lecture on the statistics u
+ nderpinning today's startlingly capable AI systems — a science-talk fit
+  for the AI-curious.\nPrice: From £7.90\nhttps://www.eventbrite.com/e/st
+ atistics-and-stupidly-smart-ai-tickets-1987601231789
+URL:https://www.eventbrite.com/e/statistics-and-stupidly-smart-ai-tickets-
+ 1987601231789
+LOCATION:Royal Institution\, 21 Albemarle St\, W1S 4BS
 END:VEVENT
 BEGIN:VEVENT
 UID:columbia-road-flower-market-79fb36e8@london-events
@@ -981,6 +1009,18 @@ DESCRIPTION:The UK's largest Japanese culture festival runs 24–26 July w
  ice: From £28.35\nhttps://hyperjapan.co.uk/festival/
 URL:https://hyperjapan.co.uk/festival/
 LOCATION:Olympia London\, Hammersmith Road\, W14 8UX
+END:VEVENT
+BEGIN:VEVENT
+UID:true-dating-speed-dating-in-bank-ages-30-45-3ee673cd@london-events
+DTSTAMP:20260724T173000Z
+DTSTART:20260724T173000Z
+DTEND:20260724T193000Z
+SUMMARY:True Dating: Speed Dating in Bank (ages 30-45)
+DESCRIPTION:Friday-night mixed speed dating for ages 30-45 at The Wren Tav
+ ern by St Paul's\; male tickets nearly gone at time of checking.\nPrice: 
+ £15\nhttps://truedating.co.uk/events/speed-dating-in-bank-24-jul-2026
+URL:https://truedating.co.uk/events/speed-dating-in-bank-24-jul-2026
+LOCATION:The Wren Tavern\, 67-69 Watling St\, EC4M 9DT
 END:VEVENT
 BEGIN:VEVENT
 UID:campfire-club-junior-brother-anna-mcluckie-46c20fc8@london-events
