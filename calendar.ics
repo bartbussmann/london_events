@@ -684,6 +684,19 @@ URL:https://www.gigantic.com/krishna-das-tickets/london-union-chapel/2026-
 LOCATION:Union Chapel\, 19b Compton Terrace\, N1 2UN
 END:VEVENT
 BEGIN:VEVENT
+UID:men-s-circle-accountability-b4df3a65@london-events
+DTSTAMP:20260715T174500Z
+DTSTART:20260715T174500Z
+DTEND:20260715T200000Z
+SUMMARY:Men's Circle: Accountability
+DESCRIPTION:Facilitated men's circle exploring personal accountability and
+  self-trust through meditation\, embodiment\, sharing and reflection. Sma
+ ll group (under 10).\nPrice: £10-£20 sliding scale\nhttps://dandelion.e
+ vents/e/n05my
+URL:https://dandelion.events/e/n05my
+LOCATION:Studio 1\, OMUK\, 22 Pakenham Street\, WC1X 0LB
+END:VEVENT
+BEGIN:VEVENT
 UID:ics-7ecd2af4b8f4@london-events
 DTSTAMP:20260716T160000Z
 DTSTART:20260716T160000Z
@@ -731,6 +744,19 @@ URL:https://www.eventbrite.co.uk/e/alive-what-life-is-how-it-works-and-why
  -it-matters-theatre-tickets-1987603851625
 LOCATION:The Royal Institution\, 21 Albemarle Street\, Mayfair\, London W1
  S 4BS
+END:VEVENT
+BEGIN:VEVENT
+UID:dancing-awareness-live-music-edition-20225291@london-events
+DTSTAMP:20260716T180000Z
+DTSTART:20260716T180000Z
+DTEND:20260716T202000Z
+SUMMARY:Dancing Awareness — Live Music Edition
+DESCRIPTION:Meditation and free movement combined\, with live percussion\,
+  clarinet and banjo. Group awareness practice followed by spontaneous dan
+ ce\; open to all experience levels.\nPrice: £10-£20 sliding scale\nhttp
+ s://dandelion.events/e/v1o14
+URL:https://dandelion.events/e/v1o14
+LOCATION:The Meditatio Centre\, Myddelton Square\, EC1R 1XX
 END:VEVENT
 BEGIN:VEVENT
 UID:somerset-house-summer-series-2026-opening-night-na-ka-9f0ebca1@london-
@@ -998,6 +1024,19 @@ URL:https://www.thursday.com/events/london/fe2afa8a-45cb-4ddf-b07a-97d7166
 LOCATION:91-92 Great Eastern St\, 91-92 Great Eastern Street\, EC2A 3HZ
 END:VEVENT
 BEGIN:VEVENT
+UID:dancing-freedom-in-the-woods-0bb92af1@london-events
+DTSTAMP:20260723T180000Z
+DTSTART:20260723T180000Z
+DTEND:20260723T200000Z
+SUMMARY:Dancing Freedom in the Woods
+DESCRIPTION:Substance-free ecstatic dance in a Hackney Wick woodland with 
+ a DJ-led wave through expansive musical genres\, closing with a fireside 
+ gathering for integration and connection.\nPrice: £8-£20 sliding scale\
+ nhttps://dandelion.events/e/l9gtn
+URL:https://dandelion.events/e/l9gtn
+LOCATION:Woodland\, Hackney Wick (exact spot shared on booking)
+END:VEVENT
+BEGIN:VEVENT
 UID:hyper-japan-festival-2026-4da2d67a@london-events
 DTSTAMP:20260724T110000Z
 DTSTART:20260724T110000Z
@@ -1109,6 +1148,20 @@ LOCATION:Regent's Park Open Air Theatre\, Inner Circle\, Regent's Park\, N
  W1 4NU
 END:VEVENT
 BEGIN:VEVENT
+UID:motion-london-5rhythms-movement-gathering-f7f56017@london-events
+DTSTAMP:20260727T173000Z
+DTSTART:20260727T173000Z
+DTEND:20260727T200000Z
+SUMMARY:MOTION LONDON — 5Rhythms Movement Gathering
+DESCRIPTION:Large-scale movement gathering dancing through the 5Rhythms ma
+ p with live DJ on a big wooden dance floor — 'nothing to learn and ever
+ ything to remember'. No phones\, no spectating. Also runs Mon 24 Aug.\nPr
+ ice: £17-£23\nhttps://dandelion.events/e/o6uva
+URL:https://dandelion.events/e/o6uva
+LOCATION:Goldsmiths Great Hall\, Richard Hoggart Building\, Lewisham Way\,
+  SE14 6NW
+END:VEVENT
+BEGIN:VEVENT
 UID:mini-golf-singles-party-ages-28-42-true-dating-cf04eecc@london-events
 DTSTAMP:20260728T173000Z
 DTSTART:20260728T173000Z
@@ -1133,6 +1186,20 @@ DESCRIPTION:Outdoor full-moon 5Rhythms garden session with Richard Wiltshi
 URL:https://www.5rhythms.com/classes/SimplyBeingRhythmsFullMoonGardenSessi
  onsapathtoHealingGround-298604
 LOCATION:Brockwell Park Gardens\, Brockwell Park\, SE24 9BJ
+END:VEVENT
+BEGIN:VEVENT
+UID:heart-circle-pause-reconnect-explore-7f5af2db@london-events
+DTSTAMP:20260731T170000Z
+DTSTART:20260731T170000Z
+DTEND:20260731T190000Z
+SUMMARY:Heart Circle — pause\, reconnect & explore
+DESCRIPTION:A slow\, held sharing circle using meditation\, somatic practi
+ ce and shared inquiry to deepen connection with self\, community and natu
+ re — the closest thing to authentic relating in London this window.\nPr
+ ice: Pay what you feel (suggested £5-£15)\nhttps://dandelion.events/e/j
+ uly31
+URL:https://dandelion.events/e/july31
+LOCATION:Paper Garden\, Teredo Street\, SE16 7LW
 END:VEVENT
 BEGIN:VEVENT
 UID:west-london-supper-club-summer-edition-4e7c2c35@london-events
@@ -1211,6 +1278,21 @@ LOCATION:Bonnington Cafe and Community Centre\, 11 Vauxhall Grove\, Vauxha
  ll\, SW8 1TD
 END:VEVENT
 BEGIN:VEVENT
+UID:land-and-belonging-josh-schrei-and-alexander-beiner-in-conve-b6d7d807@
+ london-events
+DTSTAMP:20260804T180000Z
+DTSTART:20260804T180000Z
+DTEND:20260804T210000Z
+SUMMARY:Land and Belonging: Josh Schrei and Alexander Beiner in Conversati
+ on
+DESCRIPTION:The Emerald podcast's Josh Schrei and sensemaking writer Alexa
+ nder Beiner explore immigration\, land and belonging through a mythic len
+ s\, hosted by the Psychedelic Society.\nPrice: £25\nhttps://dandelion.ev
+ ents/e/m05nr
+URL:https://dandelion.events/e/m05nr
+LOCATION:Number 90 Bar Hackney Wick\, Wallis Road\, E9 5LN
+END:VEVENT
+BEGIN:VEVENT
 UID:ics-2f702e4fcb34@london-events
 DTSTAMP:20260805T160000Z
 DTSTART:20260805T160000Z
@@ -1253,6 +1335,20 @@ URL:https://villageunderground.co.uk/events/ebony-6th-aug-village-undergro
  und-london-tickets-yo67ep/
 LOCATION:Village Underground\, 54 Holywell Lane\, Shoreditch\, London EC2A
   3PQ
+END:VEVENT
+BEGIN:VEVENT
+UID:the-next-chapter-of-psychedelics-with-robin-carhart-harris-a1f54161@lo
+ ndon-events
+DTSTAMP:20260807T171500Z
+DTSTART:20260807T171500Z
+DTEND:20260807T194500Z
+SUMMARY:The Next Chapter of Psychedelics with Robin Carhart-Harris
+DESCRIPTION:Neuroscientist Robin Carhart-Harris discusses where psychedeli
+ c science goes next\, including his REBUS model and forthcoming book\, fo
+ llowed by social mingling.\nPrice: £20-£30 sliding scale\nhttps://dande
+ lion.events/e/d9p3e
+URL:https://dandelion.events/e/d9p3e
+LOCATION:The Sanctuary &Soul\, 114 Cheshire Street\, E2 6EJ
 END:VEVENT
 BEGIN:VEVENT
 UID:simply-being-5rhythms-new-moon-eclipse-garden-special-19fd876c@london-

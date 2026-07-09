@@ -906,6 +906,25 @@
     "added": "2026-07-07"
   },
   {
+    "title": "Men's Circle: Accountability",
+    "start": "2026-07-15T18:45:00+01:00",
+    "end": "2026-07-15T21:00:00+01:00",
+    "venue": "Studio 1, OMUK",
+    "address": "22 Pakenham Street, WC1X 0LB",
+    "url": "https://dandelion.events/e/n05my",
+    "source": "listing:dandelion",
+    "tags": [
+      "community",
+      "workshop"
+    ],
+    "price": "£10-£20 sliding scale",
+    "description": "Facilitated men's circle exploring personal accountability and self-trust through meditation, embodiment, sharing and reflection. Small group (under 10).",
+    "neighbourhood": "Clerkenwell / King's Cross",
+    "cycle_minutes": 17,
+    "id": "men-s-circle-accountability-b4df3a65",
+    "added": "2026-07-09"
+  },
+  {
     "id": "ics-7ecd2af4b8f4",
     "title": "CLR Summer Fellowship Speaker Series: Daniel Kokotajlo (AI Futures Project)",
     "start": "2026-07-16T16:00:00+00:00",
@@ -959,6 +978,26 @@
     "added": "2026-07-05",
     "neighbourhood": "Mayfair",
     "cycle_minutes": 35
+  },
+  {
+    "title": "Dancing Awareness — Live Music Edition",
+    "start": "2026-07-16T19:00:00+01:00",
+    "end": "2026-07-16T21:20:00+01:00",
+    "venue": "The Meditatio Centre",
+    "address": "Myddelton Square, EC1R 1XX",
+    "url": "https://dandelion.events/e/v1o14",
+    "source": "listing:dandelion",
+    "tags": [
+      "dance",
+      "music",
+      "class"
+    ],
+    "price": "£10-£20 sliding scale",
+    "description": "Meditation and free movement combined, with live percussion, clarinet and banjo. Group awareness practice followed by spontaneous dance; open to all experience levels.",
+    "neighbourhood": "Angel / Clerkenwell",
+    "cycle_minutes": 16,
+    "id": "dancing-awareness-live-music-edition-20225291",
+    "added": "2026-07-09"
   },
   {
     "title": "Somerset House Summer Series 2026 (opening night: Naïka)",
@@ -1322,6 +1361,26 @@
     "cycle_minutes": 8
   },
   {
+    "title": "Dancing Freedom in the Woods",
+    "start": "2026-07-23T19:00:00+01:00",
+    "end": "2026-07-23T21:00:00+01:00",
+    "venue": "Woodland, Hackney Wick (exact spot shared on booking)",
+    "address": null,
+    "url": "https://dandelion.events/e/l9gtn",
+    "source": "listing:dandelion",
+    "tags": [
+      "dance",
+      "outdoors",
+      "community"
+    ],
+    "price": "£8-£20 sliding scale",
+    "description": "Substance-free ecstatic dance in a Hackney Wick woodland with a DJ-led wave through expansive musical genres, closing with a fireside gathering for integration and connection.",
+    "neighbourhood": "Hackney Wick",
+    "cycle_minutes": 13,
+    "id": "dancing-freedom-in-the-woods-0bb92af1",
+    "added": "2026-07-09"
+  },
+  {
     "title": "HYPER JAPAN Festival 2026",
     "start": "2026-07-24T12:00:00+01:00",
     "end": "2026-07-24T20:00:00+01:00",
@@ -1473,6 +1532,25 @@
     "cycle_minutes": 35
   },
   {
+    "title": "MOTION LONDON — 5Rhythms Movement Gathering",
+    "start": "2026-07-27T18:30:00+01:00",
+    "end": "2026-07-27T21:00:00+01:00",
+    "venue": "Goldsmiths Great Hall, Richard Hoggart Building",
+    "address": "Lewisham Way, SE14 6NW",
+    "url": "https://dandelion.events/e/o6uva",
+    "source": "listing:dandelion",
+    "tags": [
+      "dance",
+      "community"
+    ],
+    "price": "£17-£23",
+    "description": "Large-scale movement gathering dancing through the 5Rhythms map with live DJ on a big wooden dance floor — 'nothing to learn and everything to remember'. No phones, no spectating. Also runs Mon 24 Aug.",
+    "neighbourhood": "New Cross",
+    "cycle_minutes": 32,
+    "id": "motion-london-5rhythms-movement-gathering-f7f56017",
+    "added": "2026-07-09"
+  },
+  {
     "title": "Mini Golf Singles Party (ages 28-42) — True Dating",
     "start": "2026-07-28T18:30:00+01:00",
     "end": null,
@@ -1508,6 +1586,25 @@
     "added": "2026-07-05",
     "neighbourhood": "Herne Hill",
     "cycle_minutes": 45
+  },
+  {
+    "title": "Heart Circle — pause, reconnect & explore",
+    "start": "2026-07-31T18:00:00+01:00",
+    "end": "2026-07-31T20:00:00+01:00",
+    "venue": "Paper Garden",
+    "address": "Teredo Street, SE16 7LW",
+    "url": "https://dandelion.events/e/july31",
+    "source": "listing:dandelion",
+    "tags": [
+      "community",
+      "workshop"
+    ],
+    "price": "Pay what you feel (suggested £5-£15)",
+    "description": "A slow, held sharing circle using meditation, somatic practice and shared inquiry to deepen connection with self, community and nature — the closest thing to authentic relating in London this window.",
+    "neighbourhood": "Canada Water",
+    "cycle_minutes": 26,
+    "id": "heart-circle-pause-reconnect-explore-7f5af2db",
+    "added": "2026-07-09"
   },
   {
     "title": "West London Supper Club – Summer Edition",
@@ -1603,6 +1700,25 @@
     "cycle_minutes": 38
   },
   {
+    "title": "Land and Belonging: Josh Schrei and Alexander Beiner in Conversation",
+    "start": "2026-08-04T19:00:00+01:00",
+    "end": "2026-08-04T22:00:00+01:00",
+    "venue": "Number 90 Bar Hackney Wick",
+    "address": "Wallis Road, E9 5LN",
+    "url": "https://dandelion.events/e/m05nr",
+    "source": "listing:dandelion",
+    "tags": [
+      "talk",
+      "community"
+    ],
+    "price": "£25",
+    "description": "The Emerald podcast's Josh Schrei and sensemaking writer Alexander Beiner explore immigration, land and belonging through a mythic lens, hosted by the Psychedelic Society.",
+    "neighbourhood": "Hackney Wick",
+    "cycle_minutes": 13,
+    "id": "land-and-belonging-josh-schrei-and-alexander-beiner-in-conve-b6d7d807",
+    "added": "2026-07-09"
+  },
+  {
     "id": "ics-2f702e4fcb34",
     "title": "CLR Summer Fellowship Speaker Series: Chi Nguyen (Redwood Research)",
     "start": "2026-08-05T16:00:00+00:00",
@@ -1656,6 +1772,25 @@
     "added": "2026-07-05",
     "neighbourhood": "Shoreditch",
     "cycle_minutes": 8
+  },
+  {
+    "title": "The Next Chapter of Psychedelics with Robin Carhart-Harris",
+    "start": "2026-08-07T18:15:00+01:00",
+    "end": "2026-08-07T20:45:00+01:00",
+    "venue": "The Sanctuary &Soul",
+    "address": "114 Cheshire Street, E2 6EJ",
+    "url": "https://dandelion.events/e/d9p3e",
+    "source": "listing:dandelion",
+    "tags": [
+      "talk",
+      "community"
+    ],
+    "price": "£20-£30 sliding scale",
+    "description": "Neuroscientist Robin Carhart-Harris discusses where psychedelic science goes next, including his REBUS model and forthcoming book, followed by social mingling.",
+    "neighbourhood": "Bethnal Green",
+    "cycle_minutes": 4,
+    "id": "the-next-chapter-of-psychedelics-with-robin-carhart-harris-a1f54161",
+    "added": "2026-07-09"
   },
   {
     "title": "Simply Being 5Rhythms New Moon Eclipse Garden Special",

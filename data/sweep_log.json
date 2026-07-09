@@ -1,5 +1,11 @@
 [
   {
+    "ran_at": "2026-07-09T17:45:00+01:00",
+    "added": 7,
+    "considered": 60,
+    "notes": "Extra sweep for new source: Dandelion. Discovered its public ICS feed as a reliable index (HTML listing 403s). Added: men's circle, Dancing Awareness (live music), woodland ecstatic dance (Hackney Wick), MOTION 5Rhythms gathering, Heart Circle, Land & Belonging talk, Robin Carhart-Harris psychedelics talk (Cheshire St, 4 min). Skipped: Sunset Sessions duplicate. Intel: no in-person circling/AR in London until 6 Sept (Zen Yoga Camberwell, dandelion.events/e/c0ym3) — Heart Circle and men's circle are the closest matches."
+  },
+  {
     "ran_at": "2026-07-09T07:15:00+01:00",
     "added": 3,
     "considered": 30,
