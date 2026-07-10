@@ -488,6 +488,26 @@
     "cycle_minutes": 25
   },
   {
+    "title": "Ecstatic Dance Gathering Nr.Two",
+    "start": "2026-07-11T13:33:00+01:00",
+    "end": "2026-07-11T20:33:00+01:00",
+    "venue": "Hackney Wick Woods",
+    "address": "Hackney Wick, London",
+    "url": "https://dandelion.events/e/o9xtm",
+    "source": "listing:dandelion",
+    "tags": [
+      "dance",
+      "outdoors",
+      "community"
+    ],
+    "price": "Sliding scale £14.44-£44.44",
+    "description": "Outdoor ecstatic dance in the Hackney Wick woods with live DJs, guided embodiment practices and a sacred fire gathering to close.",
+    "neighbourhood": "Hackney Wick",
+    "cycle_minutes": 14,
+    "id": "ecstatic-dance-gathering-nr-two-e7231d7b",
+    "added": "2026-07-10"
+  },
+  {
     "title": "Lewis Capaldi at BST Hyde Park",
     "start": "2026-07-11T14:00:00+01:00",
     "end": null,
@@ -642,6 +662,25 @@
     "cycle_minutes": 15,
     "id": "sound-silence-festival-alcohol-free-donation-based-81dbe4b2",
     "added": "2026-07-08"
+  },
+  {
+    "title": "Bottle Factory Flea at Hackney Bridge",
+    "start": "2026-07-12T10:00:00+01:00",
+    "end": "2026-07-12T16:30:00+01:00",
+    "venue": "Hackney Bridge (Echo Building)",
+    "address": "East Bay Lane, E15 2SJ",
+    "url": "https://londontheinside.com/bottle-factory-flea-is-coming-to-hackney/",
+    "source": "keyword-search",
+    "tags": [
+      "market",
+      "food"
+    ],
+    "price": "£3 (£5 earlybird)",
+    "description": "South London's Bottle Factory Flea crosses the river for its biggest market yet: 50-60 traders selling vintage clothing, furniture, records and homeware, plus street food by the canal.",
+    "neighbourhood": "Hackney Wick",
+    "cycle_minutes": 14,
+    "id": "bottle-factory-flea-at-hackney-bridge-580ef378",
+    "added": "2026-07-10"
   },
   {
     "title": "Thursday: Singles Museum Walk and Lunch",
@@ -985,6 +1024,25 @@
     "cycle_minutes": 48
   },
   {
+    "title": "Forage and Meditate on London Canals",
+    "start": "2026-07-18T10:00:00+01:00",
+    "end": "2026-07-18T13:00:00+01:00",
+    "venue": "Meet near Hackney Wick station",
+    "address": "Hackney Wick",
+    "url": "https://dandelion.events/e/s4q5b",
+    "source": "listing:dandelion",
+    "tags": [
+      "outdoors",
+      "workshop"
+    ],
+    "price": "£20-£30 sliding scale",
+    "description": "Guided foraging walk along the canal towards Hackney Marshes, blending seasonal wild-food identification and tastings with practical mindfulness, ending in a grounding meditation.",
+    "neighbourhood": "Hackney Wick",
+    "cycle_minutes": 13,
+    "id": "forage-and-meditate-on-london-canals-9ae7e81a",
+    "added": "2026-07-10"
+  },
+  {
     "title": "Sanctum — movement, breathwork & somatic release",
     "start": "2026-07-18T10:30:00+01:00",
     "end": "2026-07-18T11:30:00+01:00",
@@ -1233,6 +1291,25 @@
     "cycle_minutes": 8
   },
   {
+    "title": "Shroomshop: Mushroom Cultivation Workshop",
+    "start": "2026-07-23T18:30:00+01:00",
+    "end": "2026-07-23T21:30:00+01:00",
+    "venue": "Love Shack",
+    "address": "Cambridge Heath Road, E2",
+    "url": "https://dandelion.events/e/w96p3",
+    "source": "listing:dandelion",
+    "tags": [
+      "workshop",
+      "food"
+    ],
+    "price": "£50 (£40 low income)",
+    "description": "Hands-on evening workshop covering grain spawn, fruiting tubs and aftercare for growing gourmet mushrooms at home; everyone leaves with their own grow kit.",
+    "neighbourhood": "Bethnal Green",
+    "cycle_minutes": 4,
+    "id": "shroomshop-mushroom-cultivation-workshop-41045551",
+    "added": "2026-07-10"
+  },
+  {
     "title": "Thursday: Singles Night — new venue, Shoreditch",
     "start": "2026-07-23T19:00:00+01:00",
     "end": null,
@@ -1402,6 +1479,25 @@
     "cycle_minutes": 3
   },
   {
+    "title": "A Bohm Dialogue on Love",
+    "start": "2026-07-25T13:00:00+01:00",
+    "end": "2026-07-25T16:00:00+01:00",
+    "venue": "Good Shepherd Studios",
+    "address": "15A Davies Lane, E11 3DR",
+    "url": "https://dandelion.events/e/q21yk",
+    "source": "listing:dandelion",
+    "tags": [
+      "workshop",
+      "community"
+    ],
+    "price": "£10-£20 sliding scale",
+    "description": "Group inquiry using David Bohm's dialogue method to explore love and connection through deep listening in a non-hierarchical circle — close kin to circling and authentic relating practice.",
+    "neighbourhood": "Leytonstone",
+    "cycle_minutes": 28,
+    "id": "a-bohm-dialogue-on-love-233d4ae8",
+    "added": "2026-07-10"
+  },
+  {
     "title": "CATS at Regent's Park Open Air Theatre (opening night)",
     "start": "2026-07-25T19:45:00+01:00",
     "end": null,
@@ -1420,6 +1516,26 @@
     "added": "2026-07-05",
     "neighbourhood": "Regent's Park",
     "cycle_minutes": 35
+  },
+  {
+    "title": "Resistance Ecstatic Dance & Yoga",
+    "start": "2026-07-26T17:00:00+01:00",
+    "end": "2026-07-26T21:00:00+01:00",
+    "venue": "Plot 9 Maze Hill",
+    "address": "Restell Close, Greenwich, SE3",
+    "url": "https://dandelion.events/e/resistance-july",
+    "source": "listing:dandelion",
+    "tags": [
+      "dance",
+      "outdoors",
+      "community"
+    ],
+    "price": "£15-£20 (somatic yoga +£5)",
+    "description": "Sunday evening freeform ecstatic dance journey at a Greenwich garden plot with opening circle, guided warmup and a wind-down around the bonfire with tea and snacks.",
+    "neighbourhood": "Greenwich",
+    "cycle_minutes": 35,
+    "id": "resistance-ecstatic-dance-yoga-5e97af28",
+    "added": "2026-07-10"
   },
   {
     "title": "MOTION LONDON — 5Rhythms Movement Gathering",

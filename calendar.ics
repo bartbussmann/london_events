@@ -368,6 +368,18 @@ URL:https://www.citylit.ac.uk/courses/alexander-technique-workshop
 LOCATION:City Lit\, Keeley Street\, Covent Garden\, WC2B 4BA
 END:VEVENT
 BEGIN:VEVENT
+UID:ecstatic-dance-gathering-nr-two-e7231d7b@london-events
+DTSTAMP:20260711T123300Z
+DTSTART:20260711T123300Z
+DTEND:20260711T193300Z
+SUMMARY:Ecstatic Dance Gathering Nr.Two
+DESCRIPTION:Outdoor ecstatic dance in the Hackney Wick woods with live DJs
+ \, guided embodiment practices and a sacred fire gathering to close.\nPri
+ ce: Sliding scale £14.44-£44.44\nhttps://dandelion.events/e/o9xtm
+URL:https://dandelion.events/e/o9xtm
+LOCATION:Hackney Wick Woods\, Hackney Wick\, London
+END:VEVENT
+BEGIN:VEVENT
 UID:lewis-capaldi-at-bst-hyde-park-c09bca6f@london-events
 DTSTAMP:20260711T130000Z
 DTSTART:20260711T130000Z
@@ -485,6 +497,20 @@ URL:https://www.eventbrite.co.uk/e/sound-silence-festival-alcohol-free-don
  ation-based-tickets-1989315695797
 LOCATION:Multiple venues across Hackney Wick (check-in at Bar90)\, 90 Wall
  is Road\, E9 5LN
+END:VEVENT
+BEGIN:VEVENT
+UID:bottle-factory-flea-at-hackney-bridge-580ef378@london-events
+DTSTAMP:20260712T090000Z
+DTSTART:20260712T090000Z
+DTEND:20260712T153000Z
+SUMMARY:Bottle Factory Flea at Hackney Bridge
+DESCRIPTION:South London's Bottle Factory Flea crosses the river for its b
+ iggest market yet: 50-60 traders selling vintage clothing\, furniture\, r
+ ecords and homeware\, plus street food by the canal.\nPrice: £3 (£5 ear
+ lybird)\nhttps://londontheinside.com/bottle-factory-flea-is-coming-to-hac
+ kney/
+URL:https://londontheinside.com/bottle-factory-flea-is-coming-to-hackney/
+LOCATION:Hackney Bridge (Echo Building)\, East Bay Lane\, E15 2SJ
 END:VEVENT
 BEGIN:VEVENT
 UID:thursday-singles-museum-walk-and-lunch-a5065f97@london-events
@@ -747,6 +773,19 @@ URL:https://www.royalalberthall.com/tickets/proms/bbc-proms-2026/first-nig
 LOCATION:Royal Albert Hall\, Kensington Gore\, SW7 2AP
 END:VEVENT
 BEGIN:VEVENT
+UID:forage-and-meditate-on-london-canals-9ae7e81a@london-events
+DTSTAMP:20260718T090000Z
+DTSTART:20260718T090000Z
+DTEND:20260718T120000Z
+SUMMARY:Forage and Meditate on London Canals
+DESCRIPTION:Guided foraging walk along the canal towards Hackney Marshes\,
+  blending seasonal wild-food identification and tastings with practical m
+ indfulness\, ending in a grounding meditation.\nPrice: £20-£30 sliding 
+ scale\nhttps://dandelion.events/e/s4q5b
+URL:https://dandelion.events/e/s4q5b
+LOCATION:Meet near Hackney Wick station\, Hackney Wick
+END:VEVENT
+BEGIN:VEVENT
 UID:sanctum-movement-breathwork-somatic-release-f782ef5c@london-events
 DTSTAMP:20260718T093000Z
 DTSTART:20260718T093000Z
@@ -925,6 +964,19 @@ URL:https://www.thursday.com/events/london/f117d500-905b-4c52-94eb-82a2991
 LOCATION:91-92 Great Eastern St\, 91-92 Great Eastern Street\, EC2A 3HZ
 END:VEVENT
 BEGIN:VEVENT
+UID:shroomshop-mushroom-cultivation-workshop-41045551@london-events
+DTSTAMP:20260723T173000Z
+DTSTART:20260723T173000Z
+DTEND:20260723T203000Z
+SUMMARY:Shroomshop: Mushroom Cultivation Workshop
+DESCRIPTION:Hands-on evening workshop covering grain spawn\, fruiting tubs
+  and aftercare for growing gourmet mushrooms at home\; everyone leaves wi
+ th their own grow kit.\nPrice: £50 (£40 low income)\nhttps://dandelion.
+ events/e/w96p3
+URL:https://dandelion.events/e/w96p3
+LOCATION:Love Shack\, Cambridge Heath Road\, E2
+END:VEVENT
+BEGIN:VEVENT
 UID:thursday-singles-night-new-venue-shoreditch-6f044090@london-events
 DTSTAMP:20260723T180000Z
 DTSTART:20260723T180000Z
@@ -1047,6 +1099,19 @@ URL:https://luma.com/campaign-nxdr
 LOCATION:Newspeak House\, 133-135 Bethnal Green Road\, E2 7DG
 END:VEVENT
 BEGIN:VEVENT
+UID:a-bohm-dialogue-on-love-233d4ae8@london-events
+DTSTAMP:20260725T120000Z
+DTSTART:20260725T120000Z
+DTEND:20260725T150000Z
+SUMMARY:A Bohm Dialogue on Love
+DESCRIPTION:Group inquiry using David Bohm's dialogue method to explore lo
+ ve and connection through deep listening in a non-hierarchical circle —
+  close kin to circling and authentic relating practice.\nPrice: £10-£20
+  sliding scale\nhttps://dandelion.events/e/q21yk
+URL:https://dandelion.events/e/q21yk
+LOCATION:Good Shepherd Studios\, 15A Davies Lane\, E11 3DR
+END:VEVENT
+BEGIN:VEVENT
 UID:cats-at-regent-s-park-open-air-theatre-opening-night-346958ee@london-e
  vents
 DTSTAMP:20260725T184500Z
@@ -1060,6 +1125,19 @@ DESCRIPTION:A brand-new open-air production of Andrew Lloyd Webber's music
 URL:https://openairtheatre.com/production/cats
 LOCATION:Regent's Park Open Air Theatre\, Inner Circle\, Regent's Park\, N
  W1 4NU
+END:VEVENT
+BEGIN:VEVENT
+UID:resistance-ecstatic-dance-yoga-5e97af28@london-events
+DTSTAMP:20260726T160000Z
+DTSTART:20260726T160000Z
+DTEND:20260726T200000Z
+SUMMARY:Resistance Ecstatic Dance & Yoga
+DESCRIPTION:Sunday evening freeform ecstatic dance journey at a Greenwich 
+ garden plot with opening circle\, guided warmup and a wind-down around th
+ e bonfire with tea and snacks.\nPrice: £15-£20 (somatic yoga +£5)\nhtt
+ ps://dandelion.events/e/resistance-july
+URL:https://dandelion.events/e/resistance-july
+LOCATION:Plot 9 Maze Hill\, Restell Close\, Greenwich\, SE3
 END:VEVENT
 BEGIN:VEVENT
 UID:motion-london-5rhythms-movement-gathering-f7f56017@london-events
