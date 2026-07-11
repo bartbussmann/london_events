@@ -428,6 +428,20 @@ URL:https://www.thursday.com/events/london/ab03ff0e-1b6c-46d6-8aab-e8de035
 LOCATION:National Portrait Gallery\, St Martin's Place\, WC2H 0HE
 END:VEVENT
 BEGIN:VEVENT
+UID:summer-sundays-at-victoria-park-bandstand-london-city-brass--b125b191@
+ london-events
+DTSTAMP:20260712T123000Z
+DTSTART:20260712T123000Z
+DTEND:20260712T153000Z
+SUMMARY:Summer Sundays at Victoria Park Bandstand: London City Brass + Met
+ ropolitan Brass
+DESCRIPTION:Free outdoor bandstand concert from the Vicky Park Friends Gro
+ up — bring a blanket and picnic.\nPrice: Free\nhttps://www.towerhamlets
+ arts.org.uk/?cid=81261
+URL:https://www.towerhamletsarts.org.uk/?cid=81261
+LOCATION:Victoria Park Bandstand\, Victoria Park\, Grove Road\, E3
+END:VEVENT
+BEGIN:VEVENT
 UID:london-rationalish-meetup-lesswrong-acx-community-133093f0@london-even
  ts
 DTSTAMP:20260712T130000Z
@@ -867,6 +881,20 @@ URL:https://cicalendar.uk/london
 LOCATION:Regent's Park (outdoor jam)\, Regent's Park\, NW1
 END:VEVENT
 BEGIN:VEVENT
+UID:cowgirls-egyptians-blue-blow-and-witchy-brews-darren-le-baro-f8a70acc@
+ london-events
+DTSTAMP:20260722T173000Z
+DTSTART:20260722T173000Z
+DTEND:20260722T203000Z
+SUMMARY:Cowgirls & Egyptians: Blue Blow and Witchy Brews (Darren Le Baron)
+DESCRIPTION:Evening talk tracing Goddess wisdom\, entheogenic sacraments a
+ nd Egyptian mystery traditions through African cosmology\, from the teach
+ er behind the Shroomshop workshops.\nPrice: £12-£20 sliding scale\nhttp
+ s://dandelion.events/e/m60y6
+URL:https://dandelion.events/e/m60y6
+LOCATION:Love Shack\, Cambridge Heath Road\, E2
+END:VEVENT
+BEGIN:VEVENT
 UID:thursday-30-singles-night-new-venue-shoreditch-7d1787d7@london-events
 DTSTAMP:20260722T180000Z
 DTSTART:20260722T180000Z
@@ -1018,6 +1046,20 @@ URL:https://londonterrariums.com/collections/workshops
 LOCATION:London Terrariums studio
 END:VEVENT
 BEGIN:VEVENT
+UID:psysoc-community-walk-speed-friending-nature-connection-97c5e06c@londo
+ n-events
+DTSTAMP:20260725T103000Z
+DTSTART:20260725T103000Z
+DTEND:20260725T123000Z
+SUMMARY:PsySoc Community Walk\, Speed-Friending & Nature Connection
+DESCRIPTION:Psychedelic Society guided heath walk mixing mindfulness\, med
+ itation and speed-friending — open to all\, solo attendance encouraged.
+ \nPrice: £5 (£8 supporter)\nhttps://dandelion.events/e/r5uhm
+URL:https://dandelion.events/e/r5uhm
+LOCATION:Hampstead Heath (meeting point emailed after booking)\, Hampstead
+  Heath\, NW3
+END:VEVENT
+BEGIN:VEVENT
 UID:campaign-lab-summer-bbq-2026-8a46ff6f@london-events
 DTSTAMP:20260725T110000Z
 DTSTART:20260725T110000Z
@@ -1055,6 +1097,20 @@ DESCRIPTION:A brand-new open-air production of Andrew Lloyd Webber's music
 URL:https://openairtheatre.com/production/cats
 LOCATION:Regent's Park Open Air Theatre\, Inner Circle\, Regent's Park\, N
  W1 4NU
+END:VEVENT
+BEGIN:VEVENT
+UID:summer-sundays-at-victoria-park-bandstand-hackney-community--49c1b87a@
+ london-events
+DTSTAMP:20260726T123000Z
+DTSTART:20260726T123000Z
+DTEND:20260726T150000Z
+SUMMARY:Summer Sundays at Victoria Park Bandstand: Hackney Community Orche
+ stra + Disco Lizards
+DESCRIPTION:Free Sunday bandstand session with the Hackney Community Orche
+ stra and Disco Lizards — picnic-blanket format in the park.\nPrice: Fre
+ e\nhttps://www.towerhamletsarts.org.uk/?cid=81261
+URL:https://www.towerhamletsarts.org.uk/?cid=81261
+LOCATION:Victoria Park Bandstand\, Victoria Park\, Grove Road\, E3
 END:VEVENT
 BEGIN:VEVENT
 UID:resistance-ecstatic-dance-yoga-5e97af28@london-events

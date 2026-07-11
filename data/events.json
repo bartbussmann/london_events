@@ -570,6 +570,26 @@
     "cycle_minutes": 28
   },
   {
+    "title": "Summer Sundays at Victoria Park Bandstand: London City Brass + Metropolitan Brass",
+    "start": "2026-07-12T13:30:00+01:00",
+    "end": "2026-07-12T16:30:00+01:00",
+    "venue": "Victoria Park Bandstand",
+    "address": "Victoria Park, Grove Road, E3",
+    "url": "https://www.towerhamletsarts.org.uk/?cid=81261",
+    "source": "keyword-search",
+    "tags": [
+      "music",
+      "outdoors",
+      "community"
+    ],
+    "price": "Free",
+    "description": "Free outdoor bandstand concert from the Vicky Park Friends Group — bring a blanket and picnic.",
+    "neighbourhood": "Victoria Park",
+    "cycle_minutes": 8,
+    "id": "summer-sundays-at-victoria-park-bandstand-london-city-brass--b125b191",
+    "added": "2026-07-11"
+  },
+  {
     "title": "London Rationalish Meetup (LessWrong/ACX community)",
     "start": "2026-07-12T14:00:00+01:00",
     "end": null,
@@ -1160,6 +1180,24 @@
     "added": "2026-07-08"
   },
   {
+    "title": "Cowgirls & Egyptians: Blue Blow and Witchy Brews (Darren Le Baron)",
+    "start": "2026-07-22T18:30:00+01:00",
+    "end": "2026-07-22T21:30:00+01:00",
+    "venue": "Love Shack",
+    "address": "Cambridge Heath Road, E2",
+    "url": "https://dandelion.events/e/m60y6",
+    "source": "listing:dandelion",
+    "tags": [
+      "talk"
+    ],
+    "price": "£12-£20 sliding scale",
+    "description": "Evening talk tracing Goddess wisdom, entheogenic sacraments and Egyptian mystery traditions through African cosmology, from the teacher behind the Shroomshop workshops.",
+    "neighbourhood": "Bethnal Green",
+    "cycle_minutes": 4,
+    "id": "cowgirls-egyptians-blue-blow-and-witchy-brews-darren-le-baro-f8a70acc",
+    "added": "2026-07-11"
+  },
+  {
     "title": "Thursday: 30+ Singles Night — new venue, Shoreditch",
     "start": "2026-07-22T19:00:00+01:00",
     "end": null,
@@ -1366,6 +1404,25 @@
     "cycle_minutes": 35
   },
   {
+    "title": "PsySoc Community Walk, Speed-Friending & Nature Connection",
+    "start": "2026-07-25T11:30:00+01:00",
+    "end": "2026-07-25T13:30:00+01:00",
+    "venue": "Hampstead Heath (meeting point emailed after booking)",
+    "address": "Hampstead Heath, NW3",
+    "url": "https://dandelion.events/e/r5uhm",
+    "source": "listing:dandelion",
+    "tags": [
+      "outdoors",
+      "community"
+    ],
+    "price": "£5 (£8 supporter)",
+    "description": "Psychedelic Society guided heath walk mixing mindfulness, meditation and speed-friending — open to all, solo attendance encouraged.",
+    "neighbourhood": "Hampstead",
+    "cycle_minutes": 40,
+    "id": "psysoc-community-walk-speed-friending-nature-connection-97c5e06c",
+    "added": "2026-07-11"
+  },
+  {
     "title": "Campaign Lab Summer BBQ 2026",
     "start": "2026-07-25T12:00:00+01:00",
     "end": "2026-07-25T22:00:00+01:00",
@@ -1422,6 +1479,26 @@
     "added": "2026-07-05",
     "neighbourhood": "Regent's Park",
     "cycle_minutes": 35
+  },
+  {
+    "title": "Summer Sundays at Victoria Park Bandstand: Hackney Community Orchestra + Disco Lizards",
+    "start": "2026-07-26T13:30:00+01:00",
+    "end": "2026-07-26T16:00:00+01:00",
+    "venue": "Victoria Park Bandstand",
+    "address": "Victoria Park, Grove Road, E3",
+    "url": "https://www.towerhamletsarts.org.uk/?cid=81261",
+    "source": "keyword-search",
+    "tags": [
+      "music",
+      "outdoors",
+      "community"
+    ],
+    "price": "Free",
+    "description": "Free Sunday bandstand session with the Hackney Community Orchestra and Disco Lizards — picnic-blanket format in the park.",
+    "neighbourhood": "Victoria Park",
+    "cycle_minutes": 8,
+    "id": "summer-sundays-at-victoria-park-bandstand-hackney-community--49c1b87a",
+    "added": "2026-07-11"
   },
   {
     "title": "Resistance Ecstatic Dance & Yoga",
