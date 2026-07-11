@@ -1,137 +1,5 @@
 [
   {
-    "id": "ics-dec4b72ef8fe",
-    "title": "AI & Willing Servitude - Andreas Mogensen (Oxford University) + Q&A + Networking",
-    "start": "2026-07-08T18:00:00+00:00",
-    "end": "2026-07-08T20:30:00+00:00",
-    "venue": "https://luma.com/event/evt-yKirdEMQumV8Ba1",
-    "address": null,
-    "url": "https://api.lu.ma/ics/get?entity=calendar&id=cal-EIg2kZGmZGWkWcW",
-    "source": "ics:LISA (London Initiative for Safe AI)",
-    "tags": [
-      "tech",
-      "talk"
-    ],
-    "price": null,
-    "description": "Get up-to-date information at: https://luma.com/el6b35um\n\nAddress:\nCheck event page for more details.\n\nHosted by Sentio, Joe Murray & LISA",
-    "added": "2026-07-05",
-    "neighbourhood": "Shoreditch",
-    "cycle_minutes": 8
-  },
-  {
-    "title": "The Sunset Sessions — Open-Air Ecstatic Dance & Cacao (Silent Disco)",
-    "start": "2026-07-08T18:00:00+01:00",
-    "end": "2026-07-08T20:30:00+01:00",
-    "venue": "Outdoor park location, North/Central London (revealed on booking)",
-    "address": "North London park (exact spot sent after booking)",
-    "url": "https://ecstaticdancelondon.com/event/the-sunset-sessions-outdoor-dances-with-ecstatic-dance-london-open-air/2026-07-08/",
-    "source": "keyword-search",
-    "tags": [
-      "dance",
-      "outdoors",
-      "community"
-    ],
-    "price": "£13-£18",
-    "description": "Sober open-air ecstatic dance with cacao circle and silent-disco headphones, barefoot on grass through sunset. Recurs on 10, 11, 15, 17 and 18 July 2026.",
-    "id": "the-sunset-sessions-open-air-ecstatic-dance-cacao-silent-dis-670f3d4a",
-    "added": "2026-07-05",
-    "neighbourhood": "Regent's Park area",
-    "cycle_minutes": 38
-  },
-  {
-    "title": "Rubén Blades + Roberto Delgado Big Band",
-    "start": "2026-07-08T19:00:00+01:00",
-    "end": null,
-    "venue": "Roundhouse",
-    "address": "Chalk Farm Road, NW1 8EH",
-    "url": "https://www.roundhouse.org.uk/whats-on/ruben-blades/",
-    "source": "venue:roundhouse",
-    "tags": [
-      "music"
-    ],
-    "price": "£65",
-    "description": "Farewell-tour show from the salsa icon, his first UK appearance in over a decade, with the Roberto Delgado Big Band delivering jazz-infused salsa and Afro-Cuban rhythms. Doors 7pm, Blades on stage 8:20pm.",
-    "id": "rub-n-blades-roberto-delgado-big-band-4ec861ad",
-    "added": "2026-07-05",
-    "neighbourhood": "Camden / Chalk Farm",
-    "cycle_minutes": 32
-  },
-  {
-    "title": "Ration Club — weekly community dinner",
-    "start": "2026-07-08T19:00:00+01:00",
-    "end": "2026-07-08T22:00:00+01:00",
-    "venue": "Newspeak House",
-    "address": "133-135 Bethnal Green Road, E2 7DG",
-    "url": "https://forms.gle/T3rXorsrb4gXKazv9",
-    "source": "venue:newspeak-house",
-    "tags": [
-      "food",
-      "community"
-    ],
-    "price": null,
-    "description": "Newspeak House's weekly community dinner, open to anyone who wants to learn about the college and its community. Recurs every Wednesday evening; sign up via the form.",
-    "id": "ration-club-weekly-community-dinner-5bc278ae",
-    "added": "2026-07-05",
-    "neighbourhood": "Bethnal Green",
-    "cycle_minutes": 3
-  },
-  {
-    "title": "Thursday: Jamie Oliver Singles Dinner",
-    "start": "2026-07-08T19:00:00+01:00",
-    "end": null,
-    "venue": "Jamie Oliver Catherine St",
-    "address": "Catherine Street, Covent Garden",
-    "url": "https://www.thursday.com/events/london/3e8820fc-1e08-4554-a05b-ee56773badc5",
-    "source": "listing:thursday-dating",
-    "tags": [
-      "food",
-      "community"
-    ],
-    "price": "from £15",
-    "description": "Singles-only dinner by the Thursday dating app at Jamie Oliver's Covent Garden restaurant.",
-    "id": "thursday-jamie-oliver-singles-dinner-f3325dd3",
-    "added": "2026-07-05",
-    "neighbourhood": "Covent Garden",
-    "cycle_minutes": 25
-  },
-  {
-    "title": "Ceroc St Pancras — Beginner & Intermediate Class Night",
-    "start": "2026-07-08T19:30:00+01:00",
-    "end": "2026-07-08T22:30:00+01:00",
-    "venue": "Edith Neville Primary School",
-    "address": "Purchese Street, London NW1 1RW",
-    "url": "https://www.ceroc.com/67/1127/ceroc-london",
-    "source": "keyword-search",
-    "tags": [
-      "dance",
-      "class"
-    ],
-    "price": null,
-    "description": "Weekly Wednesday Ceroc London class night near King's Cross/St Pancras with beginner and intermediate lessons and social freestyle. Recurs every Wednesday; just turn up.",
-    "id": "ceroc-st-pancras-beginner-intermediate-class-night-5af7c566",
-    "added": "2026-07-05",
-    "neighbourhood": "King's Cross / Somers Town",
-    "cycle_minutes": 28
-  },
-  {
-    "title": "Ann Liu Cannon + Dead Pages at Paper Dress Vintage",
-    "start": "2026-07-08T19:30:00+01:00",
-    "end": "2026-07-08T23:00:00+01:00",
-    "venue": "Paper Dress Vintage",
-    "address": "352a Mare Street, E8 1HR",
-    "url": "https://paperdressvintage.co.uk/by-night",
-    "source": "keyword-search",
-    "tags": [
-      "music"
-    ],
-    "price": "£11.22",
-    "description": "Singer-songwriter Ann Liu Cannon launches her debut album 'Clever Rabbits', drawing on Chinese idioms and imagery from Devon churches and cave art. Small folk-leaning east London gig with support from Dead Pages.",
-    "neighbourhood": "Hackney Central",
-    "cycle_minutes": 12,
-    "id": "ann-liu-cannon-dead-pages-at-paper-dress-vintage-6776d2d6",
-    "added": "2026-07-06"
-  },
-  {
     "title": "Shoreditch Speed Dating (ages 23-35) — True Dating",
     "start": "2026-07-09T18:30:00+01:00",
     "end": null,
@@ -1254,6 +1122,25 @@
     "cycle_minutes": 8
   },
   {
+    "id": "ics-b0121b547766",
+    "title": "Dine & Align: LISA × GovAI S26 Fellows",
+    "start": "2026-07-22T18:00:00+00:00",
+    "end": "2026-07-22T20:00:00+00:00",
+    "venue": "London Initiative for Safe AI (LISA), 25 Holywell Row, London EC2A 4XE, UK",
+    "address": null,
+    "url": "https://api.lu.ma/ics/get?entity=calendar&id=cal-EIg2kZGmZGWkWcW",
+    "source": "ics:LISA (London Initiative for Safe AI)",
+    "tags": [
+      "tech",
+      "talk"
+    ],
+    "price": null,
+    "description": "Get up-to-date information at: https://luma.com/te3n7tbw\n\nAddress:\nLondon Initiative for Safe AI (LISA)\nLondon, United Kingdom\n\nHosted by LISA",
+    "added": "2026-07-11",
+    "neighbourhood": "Shoreditch",
+    "cycle_minutes": 8
+  },
+  {
     "title": "Regent's Park Outdoor CI Jam",
     "start": "2026-07-22T18:00:00+01:00",
     "end": "2026-07-22T20:45:00+01:00",
@@ -1366,6 +1253,25 @@
     "added": "2026-07-05",
     "neighbourhood": "Kensington Olympia",
     "cycle_minutes": 55
+  },
+  {
+    "id": "ics-8062ffad0235",
+    "title": "MATS X LISA X LASR SUMMER SOCIAL",
+    "start": "2026-07-24T17:30:00+00:00",
+    "end": "2026-07-24T23:00:00+00:00",
+    "venue": "London Initiative for Safe AI (LISA), 25 Holywell Row, London EC2A 4XE, UK",
+    "address": null,
+    "url": "https://api.lu.ma/ics/get?entity=calendar&id=cal-EIg2kZGmZGWkWcW",
+    "source": "ics:LISA (London Initiative for Safe AI)",
+    "tags": [
+      "tech",
+      "talk"
+    ],
+    "price": null,
+    "description": "Get up-to-date information at: https://luma.com/ecrfbfey\n\nAddress:\nLondon Initiative for Safe AI (LISA)\nLondon, United Kingdom\n\nHosted by LISA",
+    "added": "2026-07-11",
+    "neighbourhood": "Shoreditch",
+    "cycle_minutes": 8
   },
   {
     "title": "True Dating: Speed Dating in Bank (ages 30-45)",

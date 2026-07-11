@@ -5,104 +5,6 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:London Events
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
-UID:ics-dec4b72ef8fe@london-events
-DTSTAMP:20260708T180000Z
-DTSTART:20260708T180000Z
-DTEND:20260708T203000Z
-SUMMARY:AI & Willing Servitude - Andreas Mogensen (Oxford University) + Q&
- A + Networking
-DESCRIPTION:Get up-to-date information at: https://luma.com/el6b35um\n\nAd
- dress:\nCheck event page for more details.\n\nHosted by Sentio\, Joe Murr
- ay & LISA\nhttps://api.lu.ma/ics/get?entity=calendar&id=cal-EIg2kZGmZGWkW
- cW
-URL:https://api.lu.ma/ics/get?entity=calendar&id=cal-EIg2kZGmZGWkWcW
-LOCATION:https://luma.com/event/evt-yKirdEMQumV8Ba1
-END:VEVENT
-BEGIN:VEVENT
-UID:the-sunset-sessions-open-air-ecstatic-dance-cacao-silent-dis-670f3d4a@
- london-events
-DTSTAMP:20260708T170000Z
-DTSTART:20260708T170000Z
-DTEND:20260708T193000Z
-SUMMARY:The Sunset Sessions — Open-Air Ecstatic Dance & Cacao (Silent Di
- sco)
-DESCRIPTION:Sober open-air ecstatic dance with cacao circle and silent-dis
- co headphones\, barefoot on grass through sunset. Recurs on 10\, 11\, 15\
- , 17 and 18 July 2026.\nPrice: £13-£18\nhttps://ecstaticdancelondon.com
- /event/the-sunset-sessions-outdoor-dances-with-ecstatic-dance-london-open
- -air/2026-07-08/
-URL:https://ecstaticdancelondon.com/event/the-sunset-sessions-outdoor-danc
- es-with-ecstatic-dance-london-open-air/2026-07-08/
-LOCATION:Outdoor park location\, North/Central London (revealed on booking
- )\, North London park (exact spot sent after booking)
-END:VEVENT
-BEGIN:VEVENT
-UID:rub-n-blades-roberto-delgado-big-band-4ec861ad@london-events
-DTSTAMP:20260708T180000Z
-DTSTART:20260708T180000Z
-DTEND:20260708T200000Z
-SUMMARY:Rubén Blades + Roberto Delgado Big Band
-DESCRIPTION:Farewell-tour show from the salsa icon\, his first UK appearan
- ce in over a decade\, with the Roberto Delgado Big Band delivering jazz-i
- nfused salsa and Afro-Cuban rhythms. Doors 7pm\, Blades on stage 8:20pm.\
- nPrice: £65\nhttps://www.roundhouse.org.uk/whats-on/ruben-blades/
-URL:https://www.roundhouse.org.uk/whats-on/ruben-blades/
-LOCATION:Roundhouse\, Chalk Farm Road\, NW1 8EH
-END:VEVENT
-BEGIN:VEVENT
-UID:ration-club-weekly-community-dinner-5bc278ae@london-events
-DTSTAMP:20260708T180000Z
-DTSTART:20260708T180000Z
-DTEND:20260708T210000Z
-SUMMARY:Ration Club — weekly community dinner
-DESCRIPTION:Newspeak House's weekly community dinner\, open to anyone who 
- wants to learn about the college and its community. Recurs every Wednesda
- y evening\; sign up via the form.\nhttps://forms.gle/T3rXorsrb4gXKazv9
-URL:https://forms.gle/T3rXorsrb4gXKazv9
-LOCATION:Newspeak House\, 133-135 Bethnal Green Road\, E2 7DG
-END:VEVENT
-BEGIN:VEVENT
-UID:thursday-jamie-oliver-singles-dinner-f3325dd3@london-events
-DTSTAMP:20260708T180000Z
-DTSTART:20260708T180000Z
-DTEND:20260708T200000Z
-SUMMARY:Thursday: Jamie Oliver Singles Dinner
-DESCRIPTION:Singles-only dinner by the Thursday dating app at Jamie Oliver
- 's Covent Garden restaurant.\nPrice: from £15\nhttps://www.thursday.com/
- events/london/3e8820fc-1e08-4554-a05b-ee56773badc5
-URL:https://www.thursday.com/events/london/3e8820fc-1e08-4554-a05b-ee56773
- badc5
-LOCATION:Jamie Oliver Catherine St\, Catherine Street\, Covent Garden
-END:VEVENT
-BEGIN:VEVENT
-UID:ceroc-st-pancras-beginner-intermediate-class-night-5af7c566@london-eve
- nts
-DTSTAMP:20260708T183000Z
-DTSTART:20260708T183000Z
-DTEND:20260708T213000Z
-SUMMARY:Ceroc St Pancras — Beginner & Intermediate Class Night
-DESCRIPTION:Weekly Wednesday Ceroc London class night near King's Cross/St
-  Pancras with beginner and intermediate lessons and social freestyle. Rec
- urs every Wednesday\; just turn up.\nhttps://www.ceroc.com/67/1127/ceroc-
- london
-URL:https://www.ceroc.com/67/1127/ceroc-london
-LOCATION:Edith Neville Primary School\, Purchese Street\, London NW1 1RW
-END:VEVENT
-BEGIN:VEVENT
-UID:ann-liu-cannon-dead-pages-at-paper-dress-vintage-6776d2d6@london-event
- s
-DTSTAMP:20260708T183000Z
-DTSTART:20260708T183000Z
-DTEND:20260708T220000Z
-SUMMARY:Ann Liu Cannon + Dead Pages at Paper Dress Vintage
-DESCRIPTION:Singer-songwriter Ann Liu Cannon launches her debut album 'Cle
- ver Rabbits'\, drawing on Chinese idioms and imagery from Devon churches 
- and cave art. Small folk-leaning east London gig with support from Dead P
- ages.\nPrice: £11.22\nhttps://paperdressvintage.co.uk/by-night
-URL:https://paperdressvintage.co.uk/by-night
-LOCATION:Paper Dress Vintage\, 352a Mare Street\, E8 1HR
-END:VEVENT
-BEGIN:VEVENT
 UID:shoreditch-speed-dating-ages-23-35-true-dating-c890a398@london-events
 DTSTAMP:20260709T173000Z
 DTSTART:20260709T173000Z
@@ -937,6 +839,20 @@ LOCATION:London Initiative for Safe AI (LISA)\, 25 Holywell Row\, London E
  C2A 4XE\, UK
 END:VEVENT
 BEGIN:VEVENT
+UID:ics-b0121b547766@london-events
+DTSTAMP:20260722T180000Z
+DTSTART:20260722T180000Z
+DTEND:20260722T200000Z
+SUMMARY:Dine & Align: LISA × GovAI S26 Fellows
+DESCRIPTION:Get up-to-date information at: https://luma.com/te3n7tbw\n\nAd
+ dress:\nLondon Initiative for Safe AI (LISA)\nLondon\, United Kingdom\n\n
+ Hosted by LISA\nhttps://api.lu.ma/ics/get?entity=calendar&id=cal-EIg2kZGm
+ ZGWkWcW
+URL:https://api.lu.ma/ics/get?entity=calendar&id=cal-EIg2kZGmZGWkWcW
+LOCATION:London Initiative for Safe AI (LISA)\, 25 Holywell Row\, London E
+ C2A 4XE\, UK
+END:VEVENT
+BEGIN:VEVENT
 UID:regent-s-park-outdoor-ci-jam-7a6edfe6@london-events
 DTSTAMP:20260722T170000Z
 DTSTART:20260722T170000Z
@@ -1014,6 +930,20 @@ DESCRIPTION:The UK's largest Japanese culture festival runs 24–26 July w
  ice: From £28.35\nhttps://hyperjapan.co.uk/festival/
 URL:https://hyperjapan.co.uk/festival/
 LOCATION:Olympia London\, Hammersmith Road\, W14 8UX
+END:VEVENT
+BEGIN:VEVENT
+UID:ics-8062ffad0235@london-events
+DTSTAMP:20260724T173000Z
+DTSTART:20260724T173000Z
+DTEND:20260724T230000Z
+SUMMARY:MATS X LISA X LASR SUMMER SOCIAL
+DESCRIPTION:Get up-to-date information at: https://luma.com/ecrfbfey\n\nAd
+ dress:\nLondon Initiative for Safe AI (LISA)\nLondon\, United Kingdom\n\n
+ Hosted by LISA\nhttps://api.lu.ma/ics/get?entity=calendar&id=cal-EIg2kZGm
+ ZGWkWcW
+URL:https://api.lu.ma/ics/get?entity=calendar&id=cal-EIg2kZGmZGWkWcW
+LOCATION:London Initiative for Safe AI (LISA)\, 25 Holywell Row\, London E
+ C2A 4XE\, UK
 END:VEVENT
 BEGIN:VEVENT
 UID:true-dating-speed-dating-in-bank-ages-30-45-3ee673cd@london-events
