@@ -431,6 +431,20 @@ LOCATION:The Old Blue Last\, 38 Great Eastern Street\, Shoreditch\, EC2A 3
  ES
 END:VEVENT
 BEGIN:VEVENT
+UID:an-evening-with-hillary-klug-fiddle-buck-dancing-263d696c@london-event
+ s
+DTSTAMP:20260712T183000Z
+DTSTART:20260712T183000Z
+DTEND:20260712T203000Z
+SUMMARY:An Evening with Hillary Klug (fiddle & buck dancing)
+DESCRIPTION:Tennessee fiddle-singer and champion buck dancer Hillary Klug 
+ plays high-energy Appalachian old-time/bluegrass with London banjo player
+  Ed Hicks. Doors 18:45.\nPrice: £17\nhttps://www.seetickets.com/tour/hil
+ lary-klug
+URL:https://www.seetickets.com/tour/hillary-klug
+LOCATION:The Courtyard Theatre\, 40 Pitfield Street\, Hoxton\, N1 6EU
+END:VEVENT
+BEGIN:VEVENT
 UID:monday-contact-improv-jam-dress-up-jam-12ffe4e7@london-events
 DTSTAMP:20260713T173000Z
 DTSTART:20260713T173000Z
@@ -547,6 +561,21 @@ URL:https://dandelion.events/e/v1o14
 LOCATION:The Meditatio Centre\, Myddelton Square\, EC1R 1XX
 END:VEVENT
 BEGIN:VEVENT
+UID:fozia-ismail-in-conversation-a-song-for-the-xeedho-4adaa5c4@london-eve
+ nts
+DTSTAMP:20260716T180000Z
+DTSTART:20260716T180000Z
+DTEND:20260716T190000Z
+SUMMARY:Fozia Ismail in Conversation — A Song for the Xeedho
+DESCRIPTION:Artist and food researcher Fozia Ismail discusses her installa
+ tion on the xeedho (Somali wedding vessel) — objects\, migration\, craf
+ t and inherited knowledge. Launch talk of the Backyard Biennial: East pro
+ gramme.\nPrice: Free\nhttps://www.whitechapelgallery.org/events/fozia-ism
+ ail-in-conversation
+URL:https://www.whitechapelgallery.org/events/fozia-ismail-in-conversation
+LOCATION:Whitechapel Gallery\, 77-82 Whitechapel High Street\, E1 7QX
+END:VEVENT
+BEGIN:VEVENT
 UID:somerset-house-summer-series-2026-opening-night-na-ka-9f0ebca1@london-
  events
 DTSTAMP:20260716T183000Z
@@ -604,6 +633,21 @@ DESCRIPTION:Two-day beer festival (17–18 Jul) with over 800 craft beers
  y and evening sessions.\nhttps://londoncraftbeerfestival.co.uk/
 URL:https://londoncraftbeerfestival.co.uk/
 LOCATION:Southwark Park\, Southwark Park\, SE16
+END:VEVENT
+BEGIN:VEVENT
+UID:acme-robinson-road-open-studios-friday-evening-preview-aa9570d8@london
+ -events
+DTSTAMP:20260717T170000Z
+DTSTART:20260717T170000Z
+DTEND:20260717T200000Z
+SUMMARY:Acme Robinson Road Open Studios — Friday evening preview
+DESCRIPTION:Evening preview of open studios at a converted 19th-century br
+ ush factory housing ~70 artists\, part of Backyard Biennial: East. Also o
+ pen Sat-Sun 18-19 July 12:00-17:00 with guided tours at 15:00.\nPrice: Fr
+ ee\nhttps://acme.org.uk/news/robinson-road-open-studios-archive-exhibitio
+ n
+URL:https://acme.org.uk/news/robinson-road-open-studios-archive-exhibition
+LOCATION:Acme Studios\, 15 Robinson Road\, Bethnal Green\, E2 9LN
 END:VEVENT
 BEGIN:VEVENT
 UID:first-night-of-the-proms-2026-e3ef077f@london-events
@@ -689,6 +733,34 @@ DESCRIPTION:A 2-hour contact improvisation class followed by a 3-hour open
 URL:https://bookwhen.com/cigoldsmiths/e/ev-s4h38-20260718130000
 LOCATION:Goldsmiths\, Richard Hoggart Building (Room 154)\, Lewisham Way\,
   SE14 6NW
+END:VEVENT
+BEGIN:VEVENT
+UID:somalinimo-whitechapel-gallery-backyard-biennial-late-60649bf6@london-
+ events
+DTSTAMP:20260718T170000Z
+DTSTART:20260718T170000Z
+DTEND:20260718T210000Z
+SUMMARY:Somalinimo — Whitechapel Gallery Backyard Biennial late
+DESCRIPTION:Free Saturday-evening gallery late — performative lectures\,
+  conversations and DJs celebrating Xagaa (Somali summer new year)\, inspi
+ red by punk pioneer Poly Styrene. Last entry 21:30.\nPrice: Free (RSVP en
+ couraged)\nhttps://www.whitechapelgallery.org/events/somalinmo
+URL:https://www.whitechapelgallery.org/events/somalinmo
+LOCATION:Whitechapel Gallery (Assembly Room)\, 77-82 Whitechapel High Stre
+ et\, E1 7QX
+END:VEVENT
+BEGIN:VEVENT
+UID:singles-party-in-king-s-cross-ages-30-45-5259fafe@london-events
+DTSTAMP:20260718T183000Z
+DTSTART:20260718T183000Z
+DTEND:20260718T213000Z
+SUMMARY:Singles Party in King's Cross (ages 30-45)
+DESCRIPTION:Saturday mixed-singles party for ages 30-45 with ~160 guests a
+ cross two floors\, hosted introductions\, resident DJ\, and post-event mu
+ tual matching.\nPrice: £22 (includes welcome drink)\nhttps://itsadate.cl
+ ub/event/singles-party-in-kings-cross/
+URL:https://itsadate.club/event/singles-party-in-kings-cross/
+LOCATION:Drake & Morgan at King's Cross\, 6 Pancras Square\, N1C 4AG
 END:VEVENT
 BEGIN:VEVENT
 UID:afrique-express-at-servant-jazz-quarters-70e45b10@london-events
@@ -1029,6 +1101,19 @@ DESCRIPTION:A brand-new open-air production of Andrew Lloyd Webber's music
 URL:https://openairtheatre.com/production/cats
 LOCATION:Regent's Park Open Air Theatre\, Inner Circle\, Regent's Park\, N
  W1 4NU
+END:VEVENT
+BEGIN:VEVENT
+UID:ceroc-southken2-two-room-freestyle-2ee75d61@london-events
+DTSTAMP:20260725T190000Z
+DTSTART:20260725T190000Z
+DTEND:20260725T223000Z
+SUMMARY:Ceroc SouthKen2 — Two Room Freestyle
+DESCRIPTION:Friendly two-room Ceroc freestyle: main hall with upbeat Ceroc
+  plus a SILC/chillout room\; air-con\, licensed bar. Doors 19:45.\nPrice:
+  £15 on the door\nhttps://www.ceroc.com/30/14718/southken2-two-room-free
+ style
+URL:https://www.ceroc.com/30/14718/southken2-two-room-freestyle
+LOCATION:MPW Queens Gate House\, 65-67 Queen's Gate\, SW7 5JS
 END:VEVENT
 BEGIN:VEVENT
 UID:summer-sundays-at-victoria-park-bandstand-hackney-community--49c1b87a@
