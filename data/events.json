@@ -748,6 +748,25 @@
     "added": "2026-07-12"
   },
   {
+    "title": "Luminous x Sanctuary &Soul — conscious dance (DJ Gumbo)",
+    "start": "2026-07-18T19:00:00+01:00",
+    "end": "2026-07-18T21:15:00+01:00",
+    "venue": "The Sanctuary &Soul",
+    "address": "114 Cheshire Street, E2 6EJ",
+    "url": "https://dandelion.events/e/w23ue",
+    "source": "listing:dandelion",
+    "tags": [
+      "dance",
+      "music"
+    ],
+    "price": "£20",
+    "description": "Sober ecstatic-dance evening from BIPOC-led wellness collective Luminous: two waves of afro-inspired global music from DJ Gumbo, closing circle, then optional jam/social — bring an instrument.",
+    "neighbourhood": "Bethnal Green",
+    "cycle_minutes": 3,
+    "id": "luminous-x-sanctuary-soul-conscious-dance-dj-gumbo-b84c9b8f",
+    "added": "2026-07-13"
+  },
+  {
     "title": "Singles Party in King's Cross (ages 30-45)",
     "start": "2026-07-18T19:30:00+01:00",
     "end": "2026-07-18T22:30:00+01:00",
@@ -1334,6 +1353,25 @@
     "cycle_minutes": 16
   },
   {
+    "title": "PsySoc Social: Speed-Friending & Psychedelic Storytelling",
+    "start": "2026-07-29T18:30:00+01:00",
+    "end": "2026-07-29T21:30:00+01:00",
+    "venue": "Love Shack",
+    "address": "Cambridge Heath Road, E2",
+    "url": "https://dandelion.events/e/n6fxw",
+    "source": "listing:dandelion",
+    "tags": [
+      "community",
+      "talk"
+    ],
+    "price": "£15",
+    "description": "Structured 10-minute speed-friending conversations with connection-deepening questions, followed by a 5-minute open-mic of psychedelic experience stories, at vegan restaurant/bar Love Shack.",
+    "neighbourhood": "Bethnal Green",
+    "cycle_minutes": 4,
+    "id": "psysoc-social-speed-friending-psychedelic-storytelling-cc4592a3",
+    "added": "2026-07-13"
+  },
+  {
     "title": "Simply Being 5Rhythms Full Moon Garden Session",
     "start": "2026-07-29T18:45:00+01:00",
     "end": "2026-07-29T21:15:00+01:00",
@@ -1426,6 +1464,24 @@
     "added": "2026-07-05",
     "neighbourhood": "Shoreditch",
     "cycle_minutes": 6
+  },
+  {
+    "title": "Ceroc London 50:50 — 6-hour Saturday Freestyle",
+    "start": "2026-08-01T14:00:00+01:00",
+    "end": "2026-08-01T20:00:00+01:00",
+    "venue": "Edith Neville Primary School",
+    "address": "Purchese Street, NW1 1RW",
+    "url": "https://www.ceroc.com/30/13684/5050",
+    "source": "keyword-search",
+    "tags": [
+      "dance"
+    ],
+    "price": "£16 advance / £18 door",
+    "description": "Six-hour Saturday-afternoon Ceroc freestyle near St Pancras: up-tempo Ceroc 2-5pm, then chilled SILC-friendly grooves 5-8pm; tea and snacks included.",
+    "neighbourhood": "King's Cross",
+    "cycle_minutes": 28,
+    "id": "ceroc-london-50-50-6-hour-saturday-freestyle-1d4058df",
+    "added": "2026-07-13"
   },
   {
     "title": "Crash Of Rhinos at MOTH Club",
@@ -1558,6 +1614,24 @@
     "added": "2026-07-09"
   },
   {
+    "title": "The BIG SILC Freestyle (Ceroc/SILC/WCS)",
+    "start": "2026-08-08T20:00:00+01:00",
+    "end": "2026-08-09T00:00:00+01:00",
+    "venue": "MPW Queens Gate House",
+    "address": "65-67 Queen's Gate, SW7 5JS",
+    "url": "https://www.ceroc.com/30/14796/the-big-silc-freestyle",
+    "source": "keyword-search",
+    "tags": [
+      "dance"
+    ],
+    "price": "£15 on the door",
+    "description": "Special chill-out freestyle in the big main hall at South Kensington: four hours of chilled and funky grooves for Ceroc, SILC and WCS dancers, 8pm to midnight.",
+    "neighbourhood": "South Kensington",
+    "cycle_minutes": 45,
+    "id": "the-big-silc-freestyle-ceroc-silc-wcs-8af52ee9",
+    "added": "2026-07-13"
+  },
+  {
     "title": "Simply Being 5Rhythms New Moon Eclipse Garden Special",
     "start": "2026-08-12T18:30:00+01:00",
     "end": "2026-08-12T21:00:00+01:00",
@@ -1575,6 +1649,43 @@
     "added": "2026-07-05",
     "neighbourhood": "Herne Hill",
     "cycle_minutes": 45
+  },
+  {
+    "title": "Shoreditch Speed Dating @ Be At One (ages 23-35)",
+    "start": "2026-08-13T19:30:00+01:00",
+    "end": "2026-08-13T21:30:00+01:00",
+    "venue": "Be At One, Shoreditch",
+    "address": "348 Old Street, EC1V 9NQ",
+    "url": "https://www.eventbrite.co.uk/e/shoreditch-speed-dating-be-at-one-ages-23-35-tickets-1989375388339",
+    "source": "keyword-search",
+    "tags": [
+      "community"
+    ],
+    "price": null,
+    "description": "Mixed speed dating from True Dating for ages 23-35: up to 15 five-minute mini-dates at Be At One on Old Street.",
+    "neighbourhood": "Shoreditch",
+    "cycle_minutes": 7,
+    "id": "shoreditch-speed-dating-be-at-one-ages-23-35-93c11738",
+    "added": "2026-07-13"
+  },
+  {
+    "title": "Uyen Luu's Vietnamese Supper Club (8 courses)",
+    "start": "2026-08-14T19:00:00+01:00",
+    "end": "2026-08-14T22:00:00+01:00",
+    "venue": "Uyen Luu's studio (address emailed after booking)",
+    "address": "Regent Studios, 8 Andrews Road, E8 4QN",
+    "url": "https://www.uyenluu.com/supper-club-vietnamese-london/",
+    "source": "keyword-search",
+    "tags": [
+      "food",
+      "community"
+    ],
+    "price": "£60pp plus tips",
+    "description": "Long-running Hackney supper club by cookbook author Uyen Luu: eight courses of homemade Vietnamese food at one long shared table near Broadway Market. Also runs 24/25/31 Jul and most Fri/Sat in August.",
+    "neighbourhood": "Broadway Market",
+    "cycle_minutes": 7,
+    "id": "uyen-luu-s-vietnamese-supper-club-8-courses-1eafb462",
+    "added": "2026-07-13"
   },
   {
     "title": "closeup summer series: Eaves Wilder at Sebright Arms",

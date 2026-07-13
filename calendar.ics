@@ -567,6 +567,20 @@ LOCATION:Whitechapel Gallery (Assembly Room)\, 77-82 Whitechapel High Stre
  et\, E1 7QX
 END:VEVENT
 BEGIN:VEVENT
+UID:luminous-x-sanctuary-soul-conscious-dance-dj-gumbo-b84c9b8f@london-eve
+ nts
+DTSTAMP:20260718T180000Z
+DTSTART:20260718T180000Z
+DTEND:20260718T201500Z
+SUMMARY:Luminous x Sanctuary &Soul — conscious dance (DJ Gumbo)
+DESCRIPTION:Sober ecstatic-dance evening from BIPOC-led wellness collectiv
+ e Luminous: two waves of afro-inspired global music from DJ Gumbo\, closi
+ ng circle\, then optional jam/social — bring an instrument.\nPrice: £2
+ 0\nhttps://dandelion.events/e/w23ue
+URL:https://dandelion.events/e/w23ue
+LOCATION:The Sanctuary &Soul\, 114 Cheshire Street\, E2 6EJ
+END:VEVENT
+BEGIN:VEVENT
 UID:singles-party-in-king-s-cross-ages-30-45-5259fafe@london-events
 DTSTAMP:20260718T183000Z
 DTSTART:20260718T183000Z
@@ -987,6 +1001,20 @@ URL:https://truedating.co.uk/events/mini-golf-singles-party-28-jul-2026
 LOCATION:Puttshack\, Bank\, 1 Poultry\, London EC2R 8EJ
 END:VEVENT
 BEGIN:VEVENT
+UID:psysoc-social-speed-friending-psychedelic-storytelling-cc4592a3@london
+ -events
+DTSTAMP:20260729T173000Z
+DTSTART:20260729T173000Z
+DTEND:20260729T203000Z
+SUMMARY:PsySoc Social: Speed-Friending & Psychedelic Storytelling
+DESCRIPTION:Structured 10-minute speed-friending conversations with connec
+ tion-deepening questions\, followed by a 5-minute open-mic of psychedelic
+  experience stories\, at vegan restaurant/bar Love Shack.\nPrice: £15\nh
+ ttps://dandelion.events/e/n6fxw
+URL:https://dandelion.events/e/n6fxw
+LOCATION:Love Shack\, Cambridge Heath Road\, E2
+END:VEVENT
+BEGIN:VEVENT
 UID:simply-being-5rhythms-full-moon-garden-session-90a98860@london-events
 DTSTAMP:20260729T174500Z
 DTSTART:20260729T174500Z
@@ -1057,6 +1085,19 @@ DESCRIPTION:Singles edition of the Shoreditch sauna rave\, run with the Th
 URL:https://www.thursday.com/events/london/d3a99c6e-8102-40b0-a61e-c213fd8
  77ffb
 LOCATION:The Sanctuary &Soul\, Shoreditch\, off Brick Lane
+END:VEVENT
+BEGIN:VEVENT
+UID:ceroc-london-50-50-6-hour-saturday-freestyle-1d4058df@london-events
+DTSTAMP:20260801T130000Z
+DTSTART:20260801T130000Z
+DTEND:20260801T190000Z
+SUMMARY:Ceroc London 50:50 — 6-hour Saturday Freestyle
+DESCRIPTION:Six-hour Saturday-afternoon Ceroc freestyle near St Pancras: u
+ p-tempo Ceroc 2-5pm\, then chilled SILC-friendly grooves 5-8pm\; tea and 
+ snacks included.\nPrice: £16 advance / £18 door\nhttps://www.ceroc.com/
+ 30/13684/5050
+URL:https://www.ceroc.com/30/13684/5050
+LOCATION:Edith Neville Primary School\, Purchese Street\, NW1 1RW
 END:VEVENT
 BEGIN:VEVENT
 UID:crash-of-rhinos-at-moth-club-5ad5e781@london-events
@@ -1163,6 +1204,19 @@ URL:https://dandelion.events/e/d9p3e
 LOCATION:The Sanctuary &Soul\, 114 Cheshire Street\, E2 6EJ
 END:VEVENT
 BEGIN:VEVENT
+UID:the-big-silc-freestyle-ceroc-silc-wcs-8af52ee9@london-events
+DTSTAMP:20260808T190000Z
+DTSTART:20260808T190000Z
+DTEND:20260808T230000Z
+SUMMARY:The BIG SILC Freestyle (Ceroc/SILC/WCS)
+DESCRIPTION:Special chill-out freestyle in the big main hall at South Kens
+ ington: four hours of chilled and funky grooves for Ceroc\, SILC and WCS 
+ dancers\, 8pm to midnight.\nPrice: £15 on the door\nhttps://www.ceroc.co
+ m/30/14796/the-big-silc-freestyle
+URL:https://www.ceroc.com/30/14796/the-big-silc-freestyle
+LOCATION:MPW Queens Gate House\, 65-67 Queen's Gate\, SW7 5JS
+END:VEVENT
+BEGIN:VEVENT
 UID:simply-being-5rhythms-new-moon-eclipse-garden-special-19fd876c@london-
  events
 DTSTAMP:20260812T173000Z
@@ -1175,6 +1229,35 @@ DESCRIPTION:Outdoor new-moon eclipse 5Rhythms garden special with Richard
 URL:https://www.5rhythms.com/classes/SimplyBeingRhythmsNewMoonEclipseGarde
  nSpecial-298605
 LOCATION:Brockwell Park Gardens\, Brockwell Park\, SE24 9BJ
+END:VEVENT
+BEGIN:VEVENT
+UID:shoreditch-speed-dating-be-at-one-ages-23-35-93c11738@london-events
+DTSTAMP:20260813T183000Z
+DTSTART:20260813T183000Z
+DTEND:20260813T203000Z
+SUMMARY:Shoreditch Speed Dating @ Be At One (ages 23-35)
+DESCRIPTION:Mixed speed dating from True Dating for ages 23-35: up to 15 f
+ ive-minute mini-dates at Be At One on Old Street.\nhttps://www.eventbrite
+ .co.uk/e/shoreditch-speed-dating-be-at-one-ages-23-35-tickets-19893753883
+ 39
+URL:https://www.eventbrite.co.uk/e/shoreditch-speed-dating-be-at-one-ages-
+ 23-35-tickets-1989375388339
+LOCATION:Be At One\, Shoreditch\, 348 Old Street\, EC1V 9NQ
+END:VEVENT
+BEGIN:VEVENT
+UID:uyen-luu-s-vietnamese-supper-club-8-courses-1eafb462@london-events
+DTSTAMP:20260814T180000Z
+DTSTART:20260814T180000Z
+DTEND:20260814T210000Z
+SUMMARY:Uyen Luu's Vietnamese Supper Club (8 courses)
+DESCRIPTION:Long-running Hackney supper club by cookbook author Uyen Luu: 
+ eight courses of homemade Vietnamese food at one long shared table near B
+ roadway Market. Also runs 24/25/31 Jul and most Fri/Sat in August.\nPrice
+ : £60pp plus tips\nhttps://www.uyenluu.com/supper-club-vietnamese-london
+ /
+URL:https://www.uyenluu.com/supper-club-vietnamese-london/
+LOCATION:Uyen Luu's studio (address emailed after booking)\, Regent Studio
+ s\, 8 Andrews Road\, E8 4QN
 END:VEVENT
 BEGIN:VEVENT
 UID:closeup-summer-series-eaves-wilder-at-sebright-arms-174ccfb0@london-ev
