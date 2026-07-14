@@ -1294,6 +1294,25 @@
     "added": "2026-07-09"
   },
   {
+    "title": "Sunset Sessions — open-air ecstatic dance (31 July edition)",
+    "start": "2026-07-31T18:00:00+01:00",
+    "end": "2026-07-31T20:30:00+01:00",
+    "venue": "Outdoor location near Baker Street / Regent's Park (exact spot sent after booking)",
+    "address": null,
+    "url": "https://dandelion.events/e/u1tjb",
+    "source": "listing:dandelion",
+    "tags": [
+      "dance",
+      "outdoors"
+    ],
+    "price": "£13.50-£18.50",
+    "description": "Sober open-air ecstatic dance on grass with silent-disco headphones playing Afro-House and world beats, plus cacao ceremony and optional pre-dance picnic social from 16:30.",
+    "neighbourhood": "Regent's Park",
+    "cycle_minutes": 34,
+    "id": "sunset-sessions-open-air-ecstatic-dance-31-july-edition-e812dc67",
+    "added": "2026-07-14"
+  },
+  {
     "title": "West London Supper Club – Summer Edition",
     "start": "2026-07-31T18:30:00+01:00",
     "end": "2026-07-31T22:30:00+01:00",
@@ -1606,5 +1625,24 @@
     "added": "2026-07-05",
     "neighbourhood": "Clerkenwell",
     "cycle_minutes": 20
+  },
+  {
+    "title": "Words From the Other Side: Poetry as a Practice for Altered States",
+    "start": "2026-08-18T18:00:00+01:00",
+    "end": "2026-08-18T20:00:00+01:00",
+    "venue": "The Bungalow, Hackney Wick",
+    "address": null,
+    "url": "https://dandelion.events/e/x0hb2",
+    "source": "listing:dandelion",
+    "tags": [
+      "workshop",
+      "community"
+    ],
+    "price": "£15-£35 (tiered)",
+    "description": "Hands-on two-hour writing workshop with Ryan Khan using grounding practices, sensory exploration and playful low-pressure prompts to process altered-states experiences through poetry; non-alcoholic drinks included.",
+    "neighbourhood": "Hackney Wick",
+    "cycle_minutes": 14,
+    "id": "words-from-the-other-side-poetry-as-a-practice-for-altered-s-65debca2",
+    "added": "2026-07-14"
   }
 ]

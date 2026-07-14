@@ -957,6 +957,21 @@ URL:https://dandelion.events/e/july31
 LOCATION:Paper Garden\, Teredo Street\, SE16 7LW
 END:VEVENT
 BEGIN:VEVENT
+UID:sunset-sessions-open-air-ecstatic-dance-31-july-edition-e812dc67@londo
+ n-events
+DTSTAMP:20260731T170000Z
+DTSTART:20260731T170000Z
+DTEND:20260731T193000Z
+SUMMARY:Sunset Sessions — open-air ecstatic dance (31 July edition)
+DESCRIPTION:Sober open-air ecstatic dance on grass with silent-disco headp
+ hones playing Afro-House and world beats\, plus cacao ceremony and option
+ al pre-dance picnic social from 16:30.\nPrice: £13.50-£18.50\nhttps://d
+ andelion.events/e/u1tjb
+URL:https://dandelion.events/e/u1tjb
+LOCATION:Outdoor location near Baker Street / Regent's Park (exact spot se
+ nt after booking)
+END:VEVENT
+BEGIN:VEVENT
 UID:west-london-supper-club-summer-edition-4e7c2c35@london-events
 DTSTAMP:20260731T173000Z
 DTSTART:20260731T173000Z
@@ -1203,5 +1218,19 @@ DESCRIPTION:A 3-hour evening introduction to the Alexander Technique with
 URL:https://www.city-academy.com/alexander-technique-an-introduction
 LOCATION:City Academy\, Farringdon\, 10 Herbal Hill\, Farringdon\, EC1R 5E
  G
+END:VEVENT
+BEGIN:VEVENT
+UID:words-from-the-other-side-poetry-as-a-practice-for-altered-s-65debca2@
+ london-events
+DTSTAMP:20260818T170000Z
+DTSTART:20260818T170000Z
+DTEND:20260818T190000Z
+SUMMARY:Words From the Other Side: Poetry as a Practice for Altered States
+DESCRIPTION:Hands-on two-hour writing workshop with Ryan Khan using ground
+ ing practices\, sensory exploration and playful low-pressure prompts to p
+ rocess altered-states experiences through poetry\; non-alcoholic drinks i
+ ncluded.\nPrice: £15-£35 (tiered)\nhttps://dandelion.events/e/x0hb2
+URL:https://dandelion.events/e/x0hb2
+LOCATION:The Bungalow\, Hackney Wick
 END:VEVENT
 END:VCALENDAR
