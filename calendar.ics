@@ -5,105 +5,6 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:London Events
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
-UID:alexander-technique-one-day-workshop-city-lit-8bca2bff@london-events
-DTSTAMP:20260711T090000Z
-DTSTART:20260711T090000Z
-DTEND:20260711T160000Z
-SUMMARY:Alexander Technique: One-Day Workshop (City Lit)
-DESCRIPTION:A one-day beginner's introduction to the Alexander Technique c
- overing everyday movement patterns\, spatial awareness and practical ways
-  to reduce tension and improve posture and breathing. Wear loose clothing
-  for floor work.\nPrice: £89-£99 (concessions available)\nhttps://www.c
- itylit.ac.uk/courses/alexander-technique-workshop
-URL:https://www.citylit.ac.uk/courses/alexander-technique-workshop
-LOCATION:City Lit\, Keeley Street\, Covent Garden\, WC2B 4BA
-END:VEVENT
-BEGIN:VEVENT
-UID:ecstatic-dance-gathering-nr-two-e7231d7b@london-events
-DTSTAMP:20260711T123300Z
-DTSTART:20260711T123300Z
-DTEND:20260711T193300Z
-SUMMARY:Ecstatic Dance Gathering Nr.Two
-DESCRIPTION:Outdoor ecstatic dance in the Hackney Wick woods with live DJs
- \, guided embodiment practices and a sacred fire gathering to close.\nPri
- ce: Sliding scale £14.44-£44.44\nhttps://dandelion.events/e/o9xtm
-URL:https://dandelion.events/e/o9xtm
-LOCATION:Hackney Wick Woods\, Hackney Wick\, London
-END:VEVENT
-BEGIN:VEVENT
-UID:lewis-capaldi-at-bst-hyde-park-c09bca6f@london-events
-DTSTAMP:20260711T130000Z
-DTSTART:20260711T130000Z
-DTEND:20260711T150000Z
-SUMMARY:Lewis Capaldi at BST Hyde Park
-DESCRIPTION:Lewis Capaldi headlines a major open-air festival day in Hyde 
- Park with special guests Conan Gray\, Jacob Alon\, The Vaccines and Absol
- utely\; he plays a second show on 12 July. Gates time unconfirmed\; after
- noon start typical\, tickets still available.\nhttps://www.bst-hydepark.c
- om/line-up/
-URL:https://www.bst-hydepark.com/line-up/
-LOCATION:BST Hyde Park\, Hyde Park\, W2
-END:VEVENT
-BEGIN:VEVENT
-UID:rhythm-roots-embodied-expression-31169a18@london-events
-DTSTAMP:20260711T170000Z
-DTSTART:20260711T170000Z
-DTEND:20260711T183000Z
-SUMMARY:Rhythm Roots + Embodied Expression
-DESCRIPTION:A dance class for everyone\, exploring a wide range of movemen
- t styles and embodied expression with Lyndon The Healing Tree. Recurs wee
- kly on Saturday evenings.\nhttps://momence.com/s/135395682
-URL:https://momence.com/s/135395682
-LOCATION:The Sanctuary &Soul\, Shoreditch\, off Brick Lane
-END:VEVENT
-BEGIN:VEVENT
-UID:the-sunset-sessions-open-air-ecstatic-dance-saturday-edition-0bff9f05@
- london-events
-DTSTAMP:20260711T170000Z
-DTSTART:20260711T170000Z
-DTEND:20260711T193000Z
-SUMMARY:The Sunset Sessions — open-air ecstatic dance (Saturday edition)
-DESCRIPTION:Ecstatic Dance London's outdoor summer session: silent-disco h
- eadphone ecstatic dance under the open sky with cacao circle and picnic s
- ocial — no booze\, no shoes\, no phones. Repeats 15\, 17 and 18 July.\n
- https://www.eventbrite.co.uk/e/the-sunset-sessions-outdoor-dances-with-ec
- static-dance-london-open-air-tickets-1988857614664
-URL:https://www.eventbrite.co.uk/e/the-sunset-sessions-outdoor-dances-with
- -ecstatic-dance-london-open-air-tickets-1988857614664
-LOCATION:Secret park location\, Regent's Park area\, NW1 5LJ (exact spot s
- ent with booking)
-END:VEVENT
-BEGIN:VEVENT
-UID:sparks-steps-summer-singles-event-ages-28-40-4c1a9db4@london-events
-DTSTAMP:20260711T180000Z
-DTSTART:20260711T180000Z
-DTEND:20260711T210000Z
-SUMMARY:Sparks & Steps: Summer Singles Event (ages 28-40)
-DESCRIPTION:Summer singles social in the City with low-pressure ice-breake
- rs\, conversation prompts and DJs playing pop and house. Aimed at ages 28
- -40.\nPrice: £13.18-£21.98\nhttps://www.designmynight.com/london/pubs/c
- ity-of-london/balfour-st-barts/saturday-11-july-sparks-steps-summer-singl
- es-event-age-2840
-URL:https://www.designmynight.com/london/pubs/city-of-london/balfour-st-ba
- rts/saturday-11-july-sparks-steps-summer-singles-event-age-2840
-LOCATION:Balfour St Bart's\, City of London
-END:VEVENT
-BEGIN:VEVENT
-UID:statistics-and-stupidly-smart-ai-royal-institution-talk-ba468ca0@londo
- n-events
-DTSTAMP:20260711T180000Z
-DTSTART:20260711T180000Z
-DTEND:20260711T200000Z
-SUMMARY:Statistics and Stupidly Smart AI (Royal Institution talk)
-DESCRIPTION:Saturday-evening Royal Institution lecture on the statistics u
- nderpinning today's startlingly capable AI systems — a science-talk fit
-  for the AI-curious.\nPrice: From £7.90\nhttps://www.eventbrite.com/e/st
- atistics-and-stupidly-smart-ai-tickets-1987601231789
-URL:https://www.eventbrite.com/e/statistics-and-stupidly-smart-ai-tickets-
- 1987601231789
-LOCATION:Royal Institution\, 21 Albemarle St\, W1S 4BS
-END:VEVENT
-BEGIN:VEVENT
 UID:columbia-road-flower-market-79fb36e8@london-events
 DTSTAMP:20260712T070000Z
 DTSTART:20260712T070000Z
@@ -605,6 +506,20 @@ DESCRIPTION:Free late-night African-influenced live session in SJQ's tiny
 URL:https://dice.fm/event/xeyx8e-afrique-express-18th-jul-sjq-london-ticke
  ts
 LOCATION:Servant Jazz Quarters\, 10A Bradbury Street\, Dalston\, N16 8JN
+END:VEVENT
+BEGIN:VEVENT
+UID:ics-4d43d638d5f9@london-events
+DTSTAMP:20260720T180000Z
+DTSTART:20260720T180000Z
+DTEND:20260720T190000Z
+SUMMARY:LISA Presents: Andrew Draganov - AIs\, AGI\, and what it might do
+DESCRIPTION:Get up-to-date information at: https://luma.com/ygkitm6h\n\nAd
+ dress:\nLondon Initiative for Safe AI (LISA)\nLondon\, United Kingdom\n\n
+ Hosted by LISA\nhttps://api.lu.ma/ics/get?entity=calendar&id=cal-EIg2kZGm
+ ZGWkWcW
+URL:https://api.lu.ma/ics/get?entity=calendar&id=cal-EIg2kZGmZGWkWcW
+LOCATION:London Initiative for Safe AI (LISA)\, 25 Holywell Row\, London E
+ C2A 4XE\, UK
 END:VEVENT
 BEGIN:VEVENT
 UID:monday-contact-improv-class-jam-7a4e6d07@london-events

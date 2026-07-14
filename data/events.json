@@ -1,140 +1,5 @@
 [
   {
-    "title": "Alexander Technique: One-Day Workshop (City Lit)",
-    "start": "2026-07-11T10:00:00+01:00",
-    "end": "2026-07-11T17:00:00+01:00",
-    "venue": "City Lit",
-    "address": "Keeley Street, Covent Garden, WC2B 4BA",
-    "url": "https://www.citylit.ac.uk/courses/alexander-technique-workshop",
-    "source": "keyword-search",
-    "tags": [
-      "class",
-      "workshop"
-    ],
-    "price": "£89-£99 (concessions available)",
-    "description": "A one-day beginner's introduction to the Alexander Technique covering everyday movement patterns, spatial awareness and practical ways to reduce tension and improve posture and breathing. Wear loose clothing for floor work.",
-    "id": "alexander-technique-one-day-workshop-city-lit-8bca2bff",
-    "added": "2026-07-05",
-    "neighbourhood": "Covent Garden",
-    "cycle_minutes": 25
-  },
-  {
-    "title": "Ecstatic Dance Gathering Nr.Two",
-    "start": "2026-07-11T13:33:00+01:00",
-    "end": "2026-07-11T20:33:00+01:00",
-    "venue": "Hackney Wick Woods",
-    "address": "Hackney Wick, London",
-    "url": "https://dandelion.events/e/o9xtm",
-    "source": "listing:dandelion",
-    "tags": [
-      "dance",
-      "outdoors",
-      "community"
-    ],
-    "price": "Sliding scale £14.44-£44.44",
-    "description": "Outdoor ecstatic dance in the Hackney Wick woods with live DJs, guided embodiment practices and a sacred fire gathering to close.",
-    "neighbourhood": "Hackney Wick",
-    "cycle_minutes": 14,
-    "id": "ecstatic-dance-gathering-nr-two-e7231d7b",
-    "added": "2026-07-10"
-  },
-  {
-    "title": "Lewis Capaldi at BST Hyde Park",
-    "start": "2026-07-11T14:00:00+01:00",
-    "end": null,
-    "venue": "BST Hyde Park",
-    "address": "Hyde Park, W2",
-    "url": "https://www.bst-hydepark.com/line-up/",
-    "source": "venue:bst-hydepark",
-    "tags": [
-      "music",
-      "festival",
-      "outdoors"
-    ],
-    "price": null,
-    "description": "Lewis Capaldi headlines a major open-air festival day in Hyde Park with special guests Conan Gray, Jacob Alon, The Vaccines and Absolutely; he plays a second show on 12 July. Gates time unconfirmed; afternoon start typical, tickets still available.",
-    "id": "lewis-capaldi-at-bst-hyde-park-c09bca6f",
-    "added": "2026-07-05",
-    "neighbourhood": "Hyde Park",
-    "cycle_minutes": 40
-  },
-  {
-    "title": "Rhythm Roots + Embodied Expression",
-    "start": "2026-07-11T18:00:00+01:00",
-    "end": "2026-07-11T19:30:00+01:00",
-    "venue": "The Sanctuary &Soul",
-    "address": "Shoreditch, off Brick Lane",
-    "url": "https://momence.com/s/135395682",
-    "source": "venue:soul-sanctuary",
-    "tags": [
-      "dance",
-      "class"
-    ],
-    "price": null,
-    "description": "A dance class for everyone, exploring a wide range of movement styles and embodied expression with Lyndon The Healing Tree. Recurs weekly on Saturday evenings.",
-    "id": "rhythm-roots-embodied-expression-31169a18",
-    "added": "2026-07-05",
-    "neighbourhood": "Shoreditch",
-    "cycle_minutes": 6
-  },
-  {
-    "title": "The Sunset Sessions — open-air ecstatic dance (Saturday edition)",
-    "start": "2026-07-11T18:00:00+01:00",
-    "end": "2026-07-11T20:30:00+01:00",
-    "venue": "Secret park location, Regent's Park area",
-    "address": "NW1 5LJ (exact spot sent with booking)",
-    "url": "https://www.eventbrite.co.uk/e/the-sunset-sessions-outdoor-dances-with-ecstatic-dance-london-open-air-tickets-1988857614664",
-    "source": "keyword-search",
-    "tags": [
-      "dance",
-      "outdoors"
-    ],
-    "price": null,
-    "description": "Ecstatic Dance London's outdoor summer session: silent-disco headphone ecstatic dance under the open sky with cacao circle and picnic social — no booze, no shoes, no phones. Repeats 15, 17 and 18 July.",
-    "neighbourhood": "Regent's Park",
-    "cycle_minutes": 35,
-    "id": "the-sunset-sessions-open-air-ecstatic-dance-saturday-edition-0bff9f05",
-    "added": "2026-07-07"
-  },
-  {
-    "title": "Sparks & Steps: Summer Singles Event (ages 28-40)",
-    "start": "2026-07-11T19:00:00+01:00",
-    "end": "2026-07-11T22:00:00+01:00",
-    "venue": "Balfour St Bart's",
-    "address": "City of London",
-    "url": "https://www.designmynight.com/london/pubs/city-of-london/balfour-st-barts/saturday-11-july-sparks-steps-summer-singles-event-age-2840",
-    "source": "keyword-search",
-    "tags": [
-      "community",
-      "music"
-    ],
-    "price": "£13.18-£21.98",
-    "description": "Summer singles social in the City with low-pressure ice-breakers, conversation prompts and DJs playing pop and house. Aimed at ages 28-40.",
-    "id": "sparks-steps-summer-singles-event-ages-28-40-4c1a9db4",
-    "added": "2026-07-05",
-    "neighbourhood": "Smithfield / City",
-    "cycle_minutes": 17
-  },
-  {
-    "title": "Statistics and Stupidly Smart AI (Royal Institution talk)",
-    "start": "2026-07-11T19:00:00+01:00",
-    "end": null,
-    "venue": "Royal Institution",
-    "address": "21 Albemarle St, W1S 4BS",
-    "url": "https://www.eventbrite.com/e/statistics-and-stupidly-smart-ai-tickets-1987601231789",
-    "source": "keyword-search",
-    "tags": [
-      "talk",
-      "tech"
-    ],
-    "price": "From £7.90",
-    "description": "Saturday-evening Royal Institution lecture on the statistics underpinning today's startlingly capable AI systems — a science-talk fit for the AI-curious.",
-    "neighbourhood": "Mayfair",
-    "cycle_minutes": 35,
-    "id": "statistics-and-stupidly-smart-ai-royal-institution-talk-ba468ca0",
-    "added": "2026-07-09"
-  },
-  {
     "title": "Columbia Road Flower Market",
     "start": "2026-07-12T08:00:00+01:00",
     "end": "2026-07-12T15:00:00+01:00",
@@ -801,6 +666,25 @@
     "added": "2026-07-05",
     "neighbourhood": "Dalston",
     "cycle_minutes": 15
+  },
+  {
+    "id": "ics-4d43d638d5f9",
+    "title": "LISA Presents: Andrew Draganov - AIs, AGI, and what it might do",
+    "start": "2026-07-20T18:00:00+00:00",
+    "end": "2026-07-20T19:00:00+00:00",
+    "venue": "London Initiative for Safe AI (LISA), 25 Holywell Row, London EC2A 4XE, UK",
+    "address": null,
+    "url": "https://api.lu.ma/ics/get?entity=calendar&id=cal-EIg2kZGmZGWkWcW",
+    "source": "ics:LISA (London Initiative for Safe AI)",
+    "tags": [
+      "tech",
+      "talk"
+    ],
+    "price": null,
+    "description": "Get up-to-date information at: https://luma.com/ygkitm6h\n\nAddress:\nLondon Initiative for Safe AI (LISA)\nLondon, United Kingdom\n\nHosted by LISA",
+    "added": "2026-07-14",
+    "neighbourhood": "Shoreditch",
+    "cycle_minutes": 8
   },
   {
     "title": "Monday Contact Improv: Class + Jam",
