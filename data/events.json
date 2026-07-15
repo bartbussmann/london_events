@@ -968,6 +968,25 @@
     "added": "2026-07-11"
   },
   {
+    "title": "Garden Gigs: Sidney Jones / Cry 99 / Pigeon Dog",
+    "start": "2026-07-26T14:00:00+01:00",
+    "end": "2026-07-26T17:00:00+01:00",
+    "venue": "The Victoria",
+    "address": "451 Kingsland Road, Dalston, E8 4AU",
+    "url": "https://dice.fm/event/pyn98y-garden-gigs-sidney-jones-cry-99-pigeon-dog-26th-jul-the-victoria-london-tickets",
+    "source": "keyword-search",
+    "tags": [
+      "music",
+      "outdoors"
+    ],
+    "price": "Free",
+    "description": "Free Sunday-afternoon outdoor session in The Victoria's pub garden — part of a summer-long Garden Gigs series (2-5pm every Sunday) with three up-and-coming live acts.",
+    "neighbourhood": "Dalston",
+    "cycle_minutes": 14,
+    "id": "garden-gigs-sidney-jones-cry-99-pigeon-dog-9c3a3a73",
+    "added": "2026-07-15"
+  },
+  {
     "title": "Resistance Ecstatic Dance & Yoga",
     "start": "2026-07-26T17:00:00+01:00",
     "end": "2026-07-26T21:00:00+01:00",
@@ -1061,6 +1080,24 @@
     "added": "2026-07-05",
     "neighbourhood": "Herne Hill",
     "cycle_minutes": 45
+  },
+  {
+    "title": "Lau Ro at Servant Jazz Quarters",
+    "start": "2026-07-30T19:30:00+01:00",
+    "end": null,
+    "venue": "Servant Jazz Quarters",
+    "address": "10A Bradbury Street, N16 8JN",
+    "url": "https://dice.fm/event/nv6mp9-lau-ro-30th-jul-sjq-london-tickets",
+    "source": "keyword-search",
+    "tags": [
+      "music"
+    ],
+    "price": "£20.77",
+    "description": "São Paulo-born, Brighton-based artist Lau Ro plays an intimate live set of Brazilian-rooted psych-folk at the 100-capacity Servant Jazz Quarters.",
+    "neighbourhood": "Dalston",
+    "cycle_minutes": 14,
+    "id": "lau-ro-at-servant-jazz-quarters-f0c3ee1a",
+    "added": "2026-07-15"
   },
   {
     "title": "Heart Circle — pause, reconnect & explore",
@@ -1250,6 +1287,25 @@
     "cycle_minutes": 8
   },
   {
+    "title": "Speed Dating + Speed Karaoke at MOTH Club",
+    "start": "2026-08-05T19:00:00+01:00",
+    "end": null,
+    "venue": "MOTH Club",
+    "address": "Old Trades Hall, Valette Street, E9 6NU",
+    "url": "https://dice.fm/event/bb7yxo-speed-dating-speed-karaoke-5th-aug-moth-club-london-tickets",
+    "source": "keyword-search",
+    "tags": [
+      "community",
+      "music"
+    ],
+    "price": "£9.50",
+    "description": "Mixed speed dating for people in their 20s and 30s, followed by speed karaoke under MOTH Club's glitter ceiling. Doors 7pm; come solo or bring a single friend.",
+    "neighbourhood": "Hackney Central",
+    "cycle_minutes": 12,
+    "id": "speed-dating-speed-karaoke-at-moth-club-f835f39f",
+    "added": "2026-07-15"
+  },
+  {
     "title": "Slow Mass at The Victoria Dalston",
     "start": "2026-08-06T19:00:00+01:00",
     "end": null,
@@ -1342,6 +1398,24 @@
     "cycle_minutes": 45
   },
   {
+    "title": "Jeffrey Silverstein + Bobby Lee at MOTH Club",
+    "start": "2026-08-13T19:00:00+01:00",
+    "end": null,
+    "venue": "MOTH Club",
+    "address": "Old Trades Hall, Valette Street, E9 6NU",
+    "url": "https://dice.fm/event/k6d9wq-jeffrey-silverstein-bobby-lee-dj-sunday-girl-13th-aug-moth-club-london-tickets",
+    "source": "keyword-search",
+    "tags": [
+      "music"
+    ],
+    "price": "£15.90",
+    "description": "Portland cosmic-country/ambient-folk songwriter Jeffrey Silverstein headlines with UK pastoral-twang guitarist Bobby Lee in support.",
+    "neighbourhood": "Hackney Central",
+    "cycle_minutes": 12,
+    "id": "jeffrey-silverstein-bobby-lee-at-moth-club-594c159a",
+    "added": "2026-07-15"
+  },
+  {
     "title": "Shoreditch Speed Dating @ Be At One (ages 23-35)",
     "start": "2026-08-13T19:30:00+01:00",
     "end": "2026-08-13T21:30:00+01:00",
@@ -1432,5 +1506,42 @@
     "cycle_minutes": 14,
     "id": "words-from-the-other-side-poetry-as-a-practice-for-altered-s-65debca2",
     "added": "2026-07-14"
+  },
+  {
+    "title": "Greg Freeman at MOTH Club",
+    "start": "2026-08-18T19:30:00+01:00",
+    "end": null,
+    "venue": "MOTH Club",
+    "address": "Old Trades Hall, Valette Street, E9 6NU",
+    "url": "https://dice.fm/event/nvdwlq-greg-freeman-18th-aug-moth-club-london-tickets",
+    "source": "keyword-search",
+    "tags": [
+      "music"
+    ],
+    "price": "£20.19",
+    "description": "Vermont indie/alt-country songwriter Greg Freeman; first of two nights (also 19 Aug if this sells out).",
+    "neighbourhood": "Hackney Central",
+    "cycle_minutes": 12,
+    "id": "greg-freeman-at-moth-club-a73c9379",
+    "added": "2026-07-15"
+  },
+  {
+    "title": "Jahnavi Harrison — An Evening of Kirtan and Song",
+    "start": "2026-08-22T18:30:00+01:00",
+    "end": null,
+    "venue": "Union Chapel",
+    "address": "Compton Terrace, N1 2UN",
+    "url": "https://unionchapel.org.uk/whats-on/jahnavi-harrison",
+    "source": "keyword-search",
+    "tags": [
+      "music",
+      "community"
+    ],
+    "price": null,
+    "description": "GRAMMY-nominated devotional artist Jahnavi Harrison leads an evening of soulful kirtan and mantra song in the candlelit Union Chapel; optional pre-show supper from 6pm.",
+    "neighbourhood": "Islington",
+    "cycle_minutes": 20,
+    "id": "jahnavi-harrison-an-evening-of-kirtan-and-song-cb25ebff",
+    "added": "2026-07-15"
   }
 ]

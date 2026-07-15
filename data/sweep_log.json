@@ -1,5 +1,11 @@
 [
   {
+    "ran_at": "2026-07-15T07:45:00+01:00",
+    "added": 6,
+    "considered": 51,
+    "notes": "Daily sweep, gig-circuit retry via DICE (venue sites were down yesterday). ICS: 1 LISA import dropped (Paper Club, Wed 16:00 — violates weekday-18:00 rule); 11 past pruned. Added: free Sunday Garden Gigs at The Victoria (weekly series), Lau Ro psych-folk at SJQ, MOTH Club speed dating + karaoke (5 Aug), two MOTH folk/country gigs (Silverstein 13 Aug, Freeman 18 Aug), Jahnavi Harrison kirtan at Union Chapel (22 Aug). Skipped to stay in cap: CLAMM, Friko, AMO AMO, Stanford Family Band, East London Block Party. Intel: Cafe OTO has no DICE page (check cafeoto.co.uk directly); Green Note/Cecil Sharp House need a dedicated pass; no London Alexander Technique workshops in window."
+  },
+  {
     "ran_at": "2026-07-14T07:40:00+01:00",
     "added": 3,
     "considered": 34,

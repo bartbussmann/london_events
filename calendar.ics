@@ -718,6 +718,21 @@ URL:https://www.towerhamletsarts.org.uk/?cid=81261
 LOCATION:Victoria Park Bandstand\, Victoria Park\, Grove Road\, E3
 END:VEVENT
 BEGIN:VEVENT
+UID:garden-gigs-sidney-jones-cry-99-pigeon-dog-9c3a3a73@london-events
+DTSTAMP:20260726T130000Z
+DTSTART:20260726T130000Z
+DTEND:20260726T160000Z
+SUMMARY:Garden Gigs: Sidney Jones / Cry 99 / Pigeon Dog
+DESCRIPTION:Free Sunday-afternoon outdoor session in The Victoria's pub ga
+ rden — part of a summer-long Garden Gigs series (2-5pm every Sunday) wi
+ th three up-and-coming live acts.\nPrice: Free\nhttps://dice.fm/event/pyn
+ 98y-garden-gigs-sidney-jones-cry-99-pigeon-dog-26th-jul-the-victoria-lond
+ on-tickets
+URL:https://dice.fm/event/pyn98y-garden-gigs-sidney-jones-cry-99-pigeon-do
+ g-26th-jul-the-victoria-london-tickets
+LOCATION:The Victoria\, 451 Kingsland Road\, Dalston\, E8 4AU
+END:VEVENT
+BEGIN:VEVENT
 UID:resistance-ecstatic-dance-yoga-5e97af28@london-events
 DTSTAMP:20260726T160000Z
 DTSTART:20260726T160000Z
@@ -783,6 +798,19 @@ DESCRIPTION:Outdoor full-moon 5Rhythms garden session with Richard Wiltshi
 URL:https://www.5rhythms.com/classes/SimplyBeingRhythmsFullMoonGardenSessi
  onsapathtoHealingGround-298604
 LOCATION:Brockwell Park Gardens\, Brockwell Park\, SE24 9BJ
+END:VEVENT
+BEGIN:VEVENT
+UID:lau-ro-at-servant-jazz-quarters-f0c3ee1a@london-events
+DTSTAMP:20260730T183000Z
+DTSTART:20260730T183000Z
+DTEND:20260730T203000Z
+SUMMARY:Lau Ro at Servant Jazz Quarters
+DESCRIPTION:São Paulo-born\, Brighton-based artist Lau Ro plays an intima
+ te live set of Brazilian-rooted psych-folk at the 100-capacity Servant Ja
+ zz Quarters.\nPrice: £20.77\nhttps://dice.fm/event/nv6mp9-lau-ro-30th-ju
+ l-sjq-london-tickets
+URL:https://dice.fm/event/nv6mp9-lau-ro-30th-jul-sjq-london-tickets
+LOCATION:Servant Jazz Quarters\, 10A Bradbury Street\, N16 8JN
 END:VEVENT
 BEGIN:VEVENT
 UID:heart-circle-pause-reconnect-explore-7f5af2db@london-events
@@ -933,6 +961,20 @@ LOCATION:London Initiative for Safe AI (LISA)\, 25 Holywell Row\, London E
  C2A 4XE\, UK
 END:VEVENT
 BEGIN:VEVENT
+UID:speed-dating-speed-karaoke-at-moth-club-f835f39f@london-events
+DTSTAMP:20260805T180000Z
+DTSTART:20260805T180000Z
+DTEND:20260805T200000Z
+SUMMARY:Speed Dating + Speed Karaoke at MOTH Club
+DESCRIPTION:Mixed speed dating for people in their 20s and 30s\, followed 
+ by speed karaoke under MOTH Club's glitter ceiling. Doors 7pm\; come solo
+  or bring a single friend.\nPrice: £9.50\nhttps://dice.fm/event/bb7yxo-s
+ peed-dating-speed-karaoke-5th-aug-moth-club-london-tickets
+URL:https://dice.fm/event/bb7yxo-speed-dating-speed-karaoke-5th-aug-moth-c
+ lub-london-tickets
+LOCATION:MOTH Club\, Old Trades Hall\, Valette Street\, E9 6NU
+END:VEVENT
+BEGIN:VEVENT
 UID:slow-mass-at-the-victoria-dalston-5d5fb02b@london-events
 DTSTAMP:20260806T180000Z
 DTSTART:20260806T180000Z
@@ -1001,6 +1043,20 @@ DESCRIPTION:Outdoor new-moon eclipse 5Rhythms garden special with Richard
 URL:https://www.5rhythms.com/classes/SimplyBeingRhythmsNewMoonEclipseGarde
  nSpecial-298605
 LOCATION:Brockwell Park Gardens\, Brockwell Park\, SE24 9BJ
+END:VEVENT
+BEGIN:VEVENT
+UID:jeffrey-silverstein-bobby-lee-at-moth-club-594c159a@london-events
+DTSTAMP:20260813T180000Z
+DTSTART:20260813T180000Z
+DTEND:20260813T200000Z
+SUMMARY:Jeffrey Silverstein + Bobby Lee at MOTH Club
+DESCRIPTION:Portland cosmic-country/ambient-folk songwriter Jeffrey Silver
+ stein headlines with UK pastoral-twang guitarist Bobby Lee in support.\nP
+ rice: £15.90\nhttps://dice.fm/event/k6d9wq-jeffrey-silverstein-bobby-lee
+ -dj-sunday-girl-13th-aug-moth-club-london-tickets
+URL:https://dice.fm/event/k6d9wq-jeffrey-silverstein-bobby-lee-dj-sunday-g
+ irl-13th-aug-moth-club-london-tickets
+LOCATION:MOTH Club\, Old Trades Hall\, Valette Street\, E9 6NU
 END:VEVENT
 BEGIN:VEVENT
 UID:shoreditch-speed-dating-be-at-one-ages-23-35-93c11738@london-events
@@ -1074,5 +1130,31 @@ DESCRIPTION:Hands-on two-hour writing workshop with Ryan Khan using ground
  ncluded.\nPrice: £15-£35 (tiered)\nhttps://dandelion.events/e/x0hb2
 URL:https://dandelion.events/e/x0hb2
 LOCATION:The Bungalow\, Hackney Wick
+END:VEVENT
+BEGIN:VEVENT
+UID:greg-freeman-at-moth-club-a73c9379@london-events
+DTSTAMP:20260818T183000Z
+DTSTART:20260818T183000Z
+DTEND:20260818T203000Z
+SUMMARY:Greg Freeman at MOTH Club
+DESCRIPTION:Vermont indie/alt-country songwriter Greg Freeman\; first of t
+ wo nights (also 19 Aug if this sells out).\nPrice: £20.19\nhttps://dice.
+ fm/event/nvdwlq-greg-freeman-18th-aug-moth-club-london-tickets
+URL:https://dice.fm/event/nvdwlq-greg-freeman-18th-aug-moth-club-london-ti
+ ckets
+LOCATION:MOTH Club\, Old Trades Hall\, Valette Street\, E9 6NU
+END:VEVENT
+BEGIN:VEVENT
+UID:jahnavi-harrison-an-evening-of-kirtan-and-song-cb25ebff@london-events
+DTSTAMP:20260822T173000Z
+DTSTART:20260822T173000Z
+DTEND:20260822T193000Z
+SUMMARY:Jahnavi Harrison — An Evening of Kirtan and Song
+DESCRIPTION:GRAMMY-nominated devotional artist Jahnavi Harrison leads an e
+ vening of soulful kirtan and mantra song in the candlelit Union Chapel\; 
+ optional pre-show supper from 6pm.\nhttps://unionchapel.org.uk/whats-on/j
+ ahnavi-harrison
+URL:https://unionchapel.org.uk/whats-on/jahnavi-harrison
+LOCATION:Union Chapel\, Compton Terrace\, N1 2UN
 END:VEVENT
 END:VCALENDAR
