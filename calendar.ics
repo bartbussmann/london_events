@@ -5,47 +5,6 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:London Events
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
-UID:monday-contact-improv-jam-dress-up-jam-12ffe4e7@london-events
-DTSTAMP:20260713T173000Z
-DTSTART:20260713T173000Z
-DTEND:20260713T193000Z
-SUMMARY:Monday Contact Improv Jam: Dress-Up Jam
-DESCRIPTION:Weekly Monday CI jam hosted by Marie Chabert (22 years of CI p
- ractice): facilitated warm-up then open jam\, this week with a playful dr
- ess-up theme. First-timers can arrive 6:20pm for a consent/guidelines int
- ro. Jams pause after 20 July\, resuming 7 September.\nPrice: Sliding scal
- e £8-£20\nhttps://bookwhen.com/mariechabert/e/ev-s47od-20260713183000
-URL:https://bookwhen.com/mariechabert/e/ev-s47od-20260713183000
-LOCATION:Centre 151\, 151 Whiston Road\, E2 8GU
-END:VEVENT
-BEGIN:VEVENT
-UID:campaign-lab-hack-night-f5e87b03@london-events
-DTSTAMP:20260713T180000Z
-DTSTART:20260713T180000Z
-DTEND:20260713T210000Z
-SUMMARY:Campaign Lab Hack Night
-DESCRIPTION:Working session for progressive technologists and activists bu
- ilding election tools. Recurs roughly fortnightly\, with further dates on
-  27 July and 3 August.\nhttps://luma.com/0jgxtvhs
-URL:https://luma.com/0jgxtvhs
-LOCATION:Newspeak House\, 133-135 Bethnal Green Road\, E2 7DG
-END:VEVENT
-BEGIN:VEVENT
-UID:krishna-das-home-in-the-heart-kirtan-62b3ba91@london-events
-DTSTAMP:20260713T183000Z
-DTSTART:20260713T183000Z
-DTEND:20260713T213000Z
-SUMMARY:Krishna Das — Home in the Heart (kirtan)
-DESCRIPTION:Legendary kirtan/chant artist Krishna Das leads an evening of 
- call-and-response mantra singing at Union Chapel — a strong match for t
- he ecstatic dance and embodiment scene. Doors 18:30\; a second night runs
-  14 July.\nPrice: from £38.25\nhttps://www.gigantic.com/krishna-das-tick
- ets/london-union-chapel/2026-07-13-18-30
-URL:https://www.gigantic.com/krishna-das-tickets/london-union-chapel/2026-
- 07-13-18-30
-LOCATION:Union Chapel\, 19b Compton Terrace\, N1 2UN
-END:VEVENT
-BEGIN:VEVENT
 UID:men-s-circle-accountability-b4df3a65@london-events
 DTSTAMP:20260715T174500Z
 DTSTART:20260715T174500Z

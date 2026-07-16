@@ -115,6 +115,10 @@ def main() -> None:
 
     existing = json.loads(EVENTS_PATH.read_text()) if EVENTS_PATH.exists() else []
     known_ids = {e.get("id") for e in existing}
+    # ids of feed events judged unwanted (e.g. weekday-daytime) — never re-import
+    suppressed_path = EVENTS_PATH.parent / "suppressed_ids.json"
+    if suppressed_path.exists():
+        known_ids |= set(json.loads(suppressed_path.read_text()))
     now = datetime.now(timezone.utc)
     horizon = now + timedelta(days=HORIZON_DAYS)
     added = 0

@@ -14,7 +14,9 @@ interesting upcoming London events and add them to this repo's calendar.
    configured ICS feeds. Feed imports arrive without `neighbourhood` /
    `cycle_minutes` — look at each new import's venue/location and fill both
    in (LISA / 25 Holywell Row = "Shoreditch", 8). Also drop any import that
-   clearly isn't in London or violates the preferences.
+   clearly isn't in London or violates the preferences — and when you drop
+   one, add its `id` to `data/suppressed_ids.json` so the fetcher never
+   re-imports it.
 4. **Browse pass**: for each entry under `venues:` and `listings:` in
    sources.yaml, fetch the page and look for upcoming events (next ~6 weeks)
    that fit the preferences.
