@@ -817,6 +817,19 @@ LOCATION:R&H Cafe Gallery\, 84 Abingdon Villas\, Kensington\, London W8 6X
  B
 END:VEVENT
 BEGIN:VEVENT
+UID:folk-critique-book-launch-live-sets-e6a37aa9@london-events
+DTSTAMP:20260731T183000Z
+DTSTART:20260731T183000Z
+DTEND:20260731T203000Z
+SUMMARY:Folk Critique — book launch + live sets
+DESCRIPTION:Double book launch on folk revivalism and resistance with live
+  sets from Angeline Morrison\, the Black British Folk Collective\, Mataio
+  Austin-Dean and banjo player Jacken Elswyth\, plus readings.\nPrice: £1
+ 0 (£8 advance)\nhttps://www.cafeoto.co.uk/events/folk-critique/
+URL:https://www.cafeoto.co.uk/events/folk-critique/
+LOCATION:Cafe OTO\, 18-22 Ashwin Street\, Dalston\, E8 3DL
+END:VEVENT
+BEGIN:VEVENT
 UID:big-scary-indian-nyc-mr-speed-teleboutique-at-the-shacklewel-c9d54223@
  london-events
 DTSTAMP:20260731T190000Z
@@ -948,6 +961,18 @@ URL:https://dice.fm/event/2w3yv6-slow-mass-6th-aug-the-victoria-london-tic
 LOCATION:The Victoria\, 451 Kingsland Road\, Dalston\, E8 4AU
 END:VEVENT
 BEGIN:VEVENT
+UID:robert-vincent-at-green-note-3a925d8a@london-events
+DTSTAMP:20260806T180000Z
+DTSTART:20260806T180000Z
+DTEND:20260806T200000Z
+SUMMARY:Robert Vincent at Green Note
+DESCRIPTION:Award-winning Liverpool Americana singer-songwriter plays an i
+ ntimate show at Camden's dedicated folk/roots cafe venue. Doors 7pm.\nPri
+ ce: £15\nhttps://www.greennote.co.uk/production/robert-vincent/
+URL:https://www.greennote.co.uk/production/robert-vincent/
+LOCATION:Green Note\, 106 Parkway\, Camden\, NW1 7AN
+END:VEVENT
+BEGIN:VEVENT
 UID:ebony-live-at-village-underground-43ccff76@london-events
 DTSTAMP:20260806T183000Z
 DTSTART:20260806T183000Z
@@ -975,6 +1000,21 @@ DESCRIPTION:Neuroscientist Robin Carhart-Harris discusses where psychedeli
  lion.events/e/d9p3e
 URL:https://dandelion.events/e/d9p3e
 LOCATION:The Sanctuary &Soul\, 114 Cheshire Street\, E2 6EJ
+END:VEVENT
+BEGIN:VEVENT
+UID:jeffrey-alexander-the-heavy-lidders-christina-carter-9eec9c9f@london-e
+ vents
+DTSTAMP:20260808T183000Z
+DTSTART:20260808T183000Z
+DTEND:20260808T203000Z
+SUMMARY:Jeffrey Alexander & The Heavy Lidders + Christina Carter
+DESCRIPTION:Psychedelic improvisational folk-rock from Jeffrey Alexander (
+ Dire Wolves)\, joined by Christina Carter of Charalambides on wordless vo
+ cals for this UK tour date.\nPrice: £14 (£12 advance)\nhttps://www.cafe
+ oto.co.uk/events/utr-jeffrey-alexander-the-heavy-lidders/
+URL:https://www.cafeoto.co.uk/events/utr-jeffrey-alexander-the-heavy-lidde
+ rs/
+LOCATION:Cafe OTO\, 18-22 Ashwin Street\, Dalston\, E8 3DL
 END:VEVENT
 BEGIN:VEVENT
 UID:the-big-silc-freestyle-ceroc-silc-wcs-8af52ee9@london-events
@@ -1047,6 +1087,20 @@ LOCATION:Uyen Luu's studio (address emailed after booking)\, Regent Studio
  s\, 8 Andrews Road\, E8 4QN
 END:VEVENT
 BEGIN:VEVENT
+UID:dunajska-kapelye-balkan-folk-klezmer-at-green-note-c3ce6fcc@london-eve
+ nts
+DTSTAMP:20260814T180000Z
+DTSTART:20260814T180000Z
+DTEND:20260814T200000Z
+SUMMARY:Dunajska Kapelye — Balkan folk & klezmer at Green Note
+DESCRIPTION:Green Note favourites tear through Balkan and Gypsy folk\, hot
+ -club jazz\, klezmer and tango — rip-roaring East European party folk. 
+ Doors 7pm.\nPrice: £15\nhttps://www.greennote.co.uk/production/dunajska-
+ kapelye/
+URL:https://www.greennote.co.uk/production/dunajska-kapelye/
+LOCATION:Green Note\, 106 Parkway\, Camden\, NW1 7AN
+END:VEVENT
+BEGIN:VEVENT
 UID:closeup-summer-series-eaves-wilder-at-sebright-arms-174ccfb0@london-ev
  ents
 DTSTAMP:20260815T183000Z
@@ -1060,6 +1114,21 @@ DESCRIPTION:Rising London indie-pop songwriter Eaves Wilder plays a stripp
 URL:https://dice.fm/event/pynaey-closeup-summer-series-2026-eaves-wilder-1
  5th-aug-sebright-arms-london-tickets
 LOCATION:Sebright Arms\, 31-35 Coate Street\, Bethnal Green\, E2 9AG
+END:VEVENT
+BEGIN:VEVENT
+UID:london-ceilidh-club-at-cecil-sharp-house-f2353e12@london-events
+DTSTAMP:20260815T190000Z
+DTSTART:20260815T190000Z
+DTEND:20260815T220000Z
+SUMMARY:London Ceilidh Club at Cecil Sharp House
+DESCRIPTION:Saturday-night Scottish ceilidh with a live band and a caller 
+ walking everyone through the dances — no partner or experience needed\,
+  a natural fit for a Ceroc dancer. Also runs Fridays 24/31 July and 7 Aug
+ ust.\nPrice: £20 advance / £26\nhttps://ceilidhclub.com/event/london-ce
+ ilidh-club-15-8-26-cecil-sharp-house/
+URL:https://ceilidhclub.com/event/london-ceilidh-club-15-8-26-cecil-sharp-
+ house/
+LOCATION:Cecil Sharp House\, 2 Regent's Park Road\, NW1 7AY
 END:VEVENT
 BEGIN:VEVENT
 UID:alexander-technique-an-introduction-city-academy-01d64d8b@london-event

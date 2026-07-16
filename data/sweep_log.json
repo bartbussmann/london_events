@@ -1,5 +1,11 @@
 [
   {
+    "ran_at": "2026-07-16T07:50:00+01:00",
+    "added": 5,
+    "considered": 96,
+    "notes": "Daily sweep, folk-venue pass (Cafe OTO direct, Green Note, Cecil Sharp House). ICS: Paper Club re-import fixed with new suppressed_ids.json mechanism (part 1). Added: Folk Critique launch night + psych-folk at Cafe OTO, Americana + Balkan folk at Green Note, London Ceilidh Club at Cecil Sharp House (caller-led, no experience needed). Lead to retry: 'Authentic Relating Day London' Sun 9 Aug (£85, Robyn Wilford/Ksenia Belash) — page 404'd, exactly the AR gap; watch for a working page. No LessWrong/ACX until ACX Meetups Everywhere at Newspeak House late Sept."
+  },
+  {
     "ran_at": "2026-07-15T07:45:00+01:00",
     "added": 6,
     "considered": 51,

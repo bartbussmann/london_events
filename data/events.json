@@ -1100,6 +1100,25 @@
     "cycle_minutes": 45
   },
   {
+    "title": "Folk Critique — book launch + live sets",
+    "start": "2026-07-31T19:30:00+01:00",
+    "end": null,
+    "venue": "Cafe OTO",
+    "address": "18-22 Ashwin Street, Dalston, E8 3DL",
+    "url": "https://www.cafeoto.co.uk/events/folk-critique/",
+    "source": "keyword-search",
+    "tags": [
+      "music",
+      "talk"
+    ],
+    "price": "£10 (£8 advance)",
+    "description": "Double book launch on folk revivalism and resistance with live sets from Angeline Morrison, the Black British Folk Collective, Mataio Austin-Dean and banjo player Jacken Elswyth, plus readings.",
+    "neighbourhood": "Dalston",
+    "cycle_minutes": 14,
+    "id": "folk-critique-book-launch-live-sets-e6a37aa9",
+    "added": "2026-07-16"
+  },
+  {
     "title": "Big Scary Indian (NYC) + Mr Speed + Teleboutique at The Shacklewell Arms",
     "start": "2026-07-31T20:00:00+01:00",
     "end": null,
@@ -1267,6 +1286,24 @@
     "cycle_minutes": 12
   },
   {
+    "title": "Robert Vincent at Green Note",
+    "start": "2026-08-06T19:00:00+01:00",
+    "end": null,
+    "venue": "Green Note",
+    "address": "106 Parkway, Camden, NW1 7AN",
+    "url": "https://www.greennote.co.uk/production/robert-vincent/",
+    "source": "keyword-search",
+    "tags": [
+      "music"
+    ],
+    "price": "£15",
+    "description": "Award-winning Liverpool Americana singer-songwriter plays an intimate show at Camden's dedicated folk/roots cafe venue. Doors 7pm.",
+    "neighbourhood": "Camden",
+    "cycle_minutes": 32,
+    "id": "robert-vincent-at-green-note-3a925d8a",
+    "added": "2026-07-16"
+  },
+  {
     "title": "Ebony — live at Village Underground",
     "start": "2026-08-06T19:30:00+01:00",
     "end": "2026-08-06T23:00:00+01:00",
@@ -1302,6 +1339,24 @@
     "cycle_minutes": 4,
     "id": "the-next-chapter-of-psychedelics-with-robin-carhart-harris-a1f54161",
     "added": "2026-07-09"
+  },
+  {
+    "title": "Jeffrey Alexander & The Heavy Lidders + Christina Carter",
+    "start": "2026-08-08T19:30:00+01:00",
+    "end": null,
+    "venue": "Cafe OTO",
+    "address": "18-22 Ashwin Street, Dalston, E8 3DL",
+    "url": "https://www.cafeoto.co.uk/events/utr-jeffrey-alexander-the-heavy-lidders/",
+    "source": "keyword-search",
+    "tags": [
+      "music"
+    ],
+    "price": "£14 (£12 advance)",
+    "description": "Psychedelic improvisational folk-rock from Jeffrey Alexander (Dire Wolves), joined by Christina Carter of Charalambides on wordless vocals for this UK tour date.",
+    "neighbourhood": "Dalston",
+    "cycle_minutes": 14,
+    "id": "jeffrey-alexander-the-heavy-lidders-christina-carter-9eec9c9f",
+    "added": "2026-07-16"
   },
   {
     "title": "The BIG SILC Freestyle (Ceroc/SILC/WCS)",
@@ -1396,6 +1451,25 @@
     "added": "2026-07-13"
   },
   {
+    "title": "Dunajska Kapelye — Balkan folk & klezmer at Green Note",
+    "start": "2026-08-14T19:00:00+01:00",
+    "end": null,
+    "venue": "Green Note",
+    "address": "106 Parkway, Camden, NW1 7AN",
+    "url": "https://www.greennote.co.uk/production/dunajska-kapelye/",
+    "source": "keyword-search",
+    "tags": [
+      "music",
+      "dance"
+    ],
+    "price": "£15",
+    "description": "Green Note favourites tear through Balkan and Gypsy folk, hot-club jazz, klezmer and tango — rip-roaring East European party folk. Doors 7pm.",
+    "neighbourhood": "Camden",
+    "cycle_minutes": 32,
+    "id": "dunajska-kapelye-balkan-folk-klezmer-at-green-note-c3ce6fcc",
+    "added": "2026-07-16"
+  },
+  {
     "title": "closeup summer series: Eaves Wilder at Sebright Arms",
     "start": "2026-08-15T19:30:00+01:00",
     "end": null,
@@ -1412,6 +1486,26 @@
     "added": "2026-07-05",
     "neighbourhood": "Bethnal Green",
     "cycle_minutes": 4
+  },
+  {
+    "title": "London Ceilidh Club at Cecil Sharp House",
+    "start": "2026-08-15T20:00:00+01:00",
+    "end": "2026-08-15T23:00:00+01:00",
+    "venue": "Cecil Sharp House",
+    "address": "2 Regent's Park Road, NW1 7AY",
+    "url": "https://ceilidhclub.com/event/london-ceilidh-club-15-8-26-cecil-sharp-house/",
+    "source": "keyword-search",
+    "tags": [
+      "dance",
+      "music",
+      "community"
+    ],
+    "price": "£20 advance / £26",
+    "description": "Saturday-night Scottish ceilidh with a live band and a caller walking everyone through the dances — no partner or experience needed, a natural fit for a Ceroc dancer. Also runs Fridays 24/31 July and 7 August.",
+    "neighbourhood": "Primrose Hill",
+    "cycle_minutes": 32,
+    "id": "london-ceilidh-club-at-cecil-sharp-house-f2353e12",
+    "added": "2026-07-16"
   },
   {
     "title": "Alexander Technique: An Introduction (City Academy)",
