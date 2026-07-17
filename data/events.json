@@ -1204,7 +1204,7 @@
       "community"
     ],
     "price": "£85 (£75 early bird until 12 July)",
-    "description": "A day-long facilitated Circling workshop exploring the tension between our yearning for connection and the fear that comes with it. One listing showed 9 Aug — double-check the date when booking.",
+    "description": "Full-day facilitated Circling and authentic relating practice with Robyn Wilford — this appears to be the 'Authentic Relating Day London' under its event name. DATE AMBIGUITY: the Eventbrite date says Sun 2 Aug but the description references Sun 9 Aug; confirm with the organiser before booking (robyncontact365@gmail.com).",
     "id": "connection-our-deepest-desire-and-greatest-fear-circling-day-84331cdd",
     "added": "2026-07-05",
     "neighbourhood": "Vauxhall",
@@ -1266,6 +1266,25 @@
     "cycle_minutes": 12,
     "id": "speed-dating-speed-karaoke-at-moth-club-f835f39f",
     "added": "2026-07-15"
+  },
+  {
+    "title": "Contact Beyond Contact (CBC) Workshop",
+    "start": "2026-08-06T18:30:00+01:00",
+    "end": "2026-08-06T20:30:00+01:00",
+    "venue": "Siobhan Davies Studios",
+    "address": "85 Saint George's Road, SE1 6ER",
+    "url": "https://www.eventbrite.co.uk/e/contact-beyond-contact-cbc-workshop-tickets-1993753976815",
+    "source": "keyword-search",
+    "tags": [
+      "dance",
+      "workshop"
+    ],
+    "price": null,
+    "description": "Movement workshop blending Contact Improvisation with Authentic Movement, Qi Gong and somatic practice, run by Cocoon; no dance experience required. Strong crossover of contact improv and authentic relating.",
+    "neighbourhood": "Elephant & Castle",
+    "cycle_minutes": 30,
+    "id": "contact-beyond-contact-cbc-workshop-1bde84f7",
+    "added": "2026-07-17"
   },
   {
     "title": "Slow Mass at The Victoria Dalston",

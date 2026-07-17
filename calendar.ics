@@ -892,11 +892,13 @@ DTSTART:20260802T100000Z
 DTEND:20260802T170000Z
 SUMMARY:Connection: Our Deepest Desire and Greatest Fear — Circling Day 
  Workshop
-DESCRIPTION:A day-long facilitated Circling workshop exploring the tension
-  between our yearning for connection and the fear that comes with it. One
-  listing showed 9 Aug — double-check the date when booking.\nPrice: £8
- 5 (£75 early bird until 12 July)\nhttps://www.eventbrite.co.uk/e/connect
- ion-our-deepest-desire-and-greatest-fear-tickets-1990893100858
+DESCRIPTION:Full-day facilitated Circling and authentic relating practice 
+ with Robyn Wilford — this appears to be the 'Authentic Relating Day Lon
+ don' under its event name. DATE AMBIGUITY: the Eventbrite date says Sun 2
+  Aug but the description references Sun 9 Aug\; confirm with the organise
+ r before booking (robyncontact365@gmail.com).\nPrice: £85 (£75 early bi
+ rd until 12 July)\nhttps://www.eventbrite.co.uk/e/connection-our-deepest-
+ desire-and-greatest-fear-tickets-1990893100858
 URL:https://www.eventbrite.co.uk/e/connection-our-deepest-desire-and-great
  est-fear-tickets-1990893100858
 LOCATION:Bonnington Cafe and Community Centre\, 11 Vauxhall Grove\, Vauxha
@@ -945,6 +947,21 @@ DESCRIPTION:Mixed speed dating for people in their 20s and 30s\, followed
 URL:https://dice.fm/event/bb7yxo-speed-dating-speed-karaoke-5th-aug-moth-c
  lub-london-tickets
 LOCATION:MOTH Club\, Old Trades Hall\, Valette Street\, E9 6NU
+END:VEVENT
+BEGIN:VEVENT
+UID:contact-beyond-contact-cbc-workshop-1bde84f7@london-events
+DTSTAMP:20260806T173000Z
+DTSTART:20260806T173000Z
+DTEND:20260806T193000Z
+SUMMARY:Contact Beyond Contact (CBC) Workshop
+DESCRIPTION:Movement workshop blending Contact Improvisation with Authenti
+ c Movement\, Qi Gong and somatic practice\, run by Cocoon\; no dance expe
+ rience required. Strong crossover of contact improv and authentic relatin
+ g.\nhttps://www.eventbrite.co.uk/e/contact-beyond-contact-cbc-workshop-ti
+ ckets-1993753976815
+URL:https://www.eventbrite.co.uk/e/contact-beyond-contact-cbc-workshop-tic
+ kets-1993753976815
+LOCATION:Siobhan Davies Studios\, 85 Saint George's Road\, SE1 6ER
 END:VEVENT
 BEGIN:VEVENT
 UID:slow-mass-at-the-victoria-dalston-5d5fb02b@london-events
