@@ -1006,6 +1006,25 @@
     "cycle_minutes": 45
   },
   {
+    "title": "atproto.london summer drinks",
+    "start": "2026-07-30T18:00:00+01:00",
+    "end": "2026-07-30T22:00:00+01:00",
+    "venue": "Newspeak House",
+    "address": "133 Bethnal Green Road, E2 7DG",
+    "url": "https://luma.com/42emvbsy",
+    "source": "venue:newspeak-house",
+    "tags": [
+      "tech",
+      "community"
+    ],
+    "price": "Free (BYOB)",
+    "description": "Casual summer drinks on Newspeak House's covered terrace for the Bluesky/atproto decentralised-social community — users and developers welcome, no technical focus required.",
+    "neighbourhood": "Bethnal Green",
+    "cycle_minutes": 4,
+    "id": "atproto-london-summer-drinks-c8a04236",
+    "added": "2026-07-18"
+  },
+  {
     "title": "Lau Ro at Servant Jazz Quarters",
     "start": "2026-07-30T19:30:00+01:00",
     "end": null,
@@ -1190,6 +1209,26 @@
     "added": "2026-07-05",
     "neighbourhood": "Vauxhall",
     "cycle_minutes": 38
+  },
+  {
+    "title": "Song Circle @ Plot 9",
+    "start": "2026-08-02T15:00:00+01:00",
+    "end": "2026-08-02T17:00:00+01:00",
+    "venue": "Plot 9, Maze Hill",
+    "address": "Restell Close, Greenwich",
+    "url": "https://dandelion.events/e/l41z7",
+    "source": "listing:dandelion",
+    "tags": [
+      "music",
+      "community",
+      "outdoors"
+    ],
+    "price": "£6-18 sliding scale",
+    "description": "Monthly outdoor campfire-style singing circle taught by call-and-response — folk songs, harmonies and nature-themed pieces, all voices and abilities welcome.",
+    "neighbourhood": "Greenwich",
+    "cycle_minutes": 33,
+    "id": "song-circle-plot-9-90c0b20b",
+    "added": "2026-07-18"
   },
   {
     "title": "Land and Belonging: Josh Schrei and Alexander Beiner in Conversation",
@@ -1470,6 +1509,26 @@
     "added": "2026-07-16"
   },
   {
+    "title": "Bengal to Bethnal Green — Grand Union Orchestra",
+    "start": "2026-08-15T18:00:00+01:00",
+    "end": "2026-08-15T21:00:00+01:00",
+    "venue": "The Theatre at Toynbee Studios",
+    "address": "28 Commercial Street, E1 6AB",
+    "url": "https://gel.now/events/571",
+    "source": "keyword-search",
+    "tags": [
+      "music",
+      "food",
+      "community"
+    ],
+    "price": null,
+    "description": "Backyard Biennial evening celebrating Bangladeshi heritage: homemade food from women-led Oitij-jo Kitchen from 6pm, then a performance blending Bengali ragas with Grand Union Orchestra's global musicians, plus Q&A.",
+    "neighbourhood": "Aldgate / Whitechapel",
+    "cycle_minutes": 8,
+    "id": "bengal-to-bethnal-green-grand-union-orchestra-7d88eacb",
+    "added": "2026-07-18"
+  },
+  {
     "title": "closeup summer series: Eaves Wilder at Sebright Arms",
     "start": "2026-08-15T19:30:00+01:00",
     "end": null,
@@ -1561,6 +1620,45 @@
     "cycle_minutes": 12,
     "id": "greg-freeman-at-moth-club-a73c9379",
     "added": "2026-07-15"
+  },
+  {
+    "title": "Forage and Meditate on London Canals (August edition)",
+    "start": "2026-08-22T10:00:00+01:00",
+    "end": "2026-08-22T13:00:00+01:00",
+    "venue": "Hackney Wick canalside (meet near station)",
+    "address": "Hackney Wick",
+    "url": "https://dandelion.events/e/n4h43",
+    "source": "listing:dandelion",
+    "tags": [
+      "outdoors",
+      "workshop"
+    ],
+    "price": "£20-30 tiered",
+    "description": "Guided mindful foraging walk with the Barefoot Forager along the canal towards Hackney Marshes — late-summer wild plants and mushrooms, seasonal tastings, closing meditation.",
+    "neighbourhood": "Hackney Wick",
+    "cycle_minutes": 14,
+    "id": "forage-and-meditate-on-london-canals-august-edition-ef329a80",
+    "added": "2026-07-18"
+  },
+  {
+    "title": "Council Data Hack Day (Campaign Lab)",
+    "start": "2026-08-22T11:00:00+01:00",
+    "end": "2026-08-22T21:00:00+01:00",
+    "venue": "Newspeak House",
+    "address": "133 Bethnal Green Road, E2 7DG",
+    "url": "https://luma.com/campaign-g74e",
+    "source": "venue:newspeak-house",
+    "tags": [
+      "tech",
+      "workshop",
+      "community"
+    ],
+    "price": null,
+    "description": "Campaign Lab hackathon building prototypes on a new UK council data scraper — transparency tools, AI-powered search and dashboards for local democracy; coders, designers, researchers and idea-people all welcome.",
+    "neighbourhood": "Bethnal Green",
+    "cycle_minutes": 4,
+    "id": "council-data-hack-day-campaign-lab-eb0a8ba6",
+    "added": "2026-07-18"
   },
   {
     "title": "Jahnavi Harrison — An Evening of Kirtan and Song",

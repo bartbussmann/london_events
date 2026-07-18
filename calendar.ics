@@ -746,6 +746,19 @@ URL:https://www.5rhythms.com/classes/SimplyBeingRhythmsFullMoonGardenSessi
 LOCATION:Brockwell Park Gardens\, Brockwell Park\, SE24 9BJ
 END:VEVENT
 BEGIN:VEVENT
+UID:atproto-london-summer-drinks-c8a04236@london-events
+DTSTAMP:20260730T170000Z
+DTSTART:20260730T170000Z
+DTEND:20260730T210000Z
+SUMMARY:atproto.london summer drinks
+DESCRIPTION:Casual summer drinks on Newspeak House's covered terrace for t
+ he Bluesky/atproto decentralised-social community — users and developer
+ s welcome\, no technical focus required.\nPrice: Free (BYOB)\nhttps://lum
+ a.com/42emvbsy
+URL:https://luma.com/42emvbsy
+LOCATION:Newspeak House\, 133 Bethnal Green Road\, E2 7DG
+END:VEVENT
+BEGIN:VEVENT
 UID:lau-ro-at-servant-jazz-quarters-f0c3ee1a@london-events
 DTSTAMP:20260730T183000Z
 DTSTART:20260730T183000Z
@@ -890,6 +903,19 @@ URL:https://www.eventbrite.co.uk/e/connection-our-deepest-desire-and-great
  est-fear-tickets-1990893100858
 LOCATION:Bonnington Cafe and Community Centre\, 11 Vauxhall Grove\, Vauxha
  ll\, SW8 1TD
+END:VEVENT
+BEGIN:VEVENT
+UID:song-circle-plot-9-90c0b20b@london-events
+DTSTAMP:20260802T140000Z
+DTSTART:20260802T140000Z
+DTEND:20260802T160000Z
+SUMMARY:Song Circle @ Plot 9
+DESCRIPTION:Monthly outdoor campfire-style singing circle taught by call-a
+ nd-response — folk songs\, harmonies and nature-themed pieces\, all voi
+ ces and abilities welcome.\nPrice: £6-18 sliding scale\nhttps://dandelio
+ n.events/e/l41z7
+URL:https://dandelion.events/e/l41z7
+LOCATION:Plot 9\, Maze Hill\, Restell Close\, Greenwich
 END:VEVENT
 BEGIN:VEVENT
 UID:land-and-belonging-josh-schrei-and-alexander-beiner-in-conve-b6d7d807@
@@ -1105,6 +1131,19 @@ URL:https://www.greennote.co.uk/production/dunajska-kapelye/
 LOCATION:Green Note\, 106 Parkway\, Camden\, NW1 7AN
 END:VEVENT
 BEGIN:VEVENT
+UID:bengal-to-bethnal-green-grand-union-orchestra-7d88eacb@london-events
+DTSTAMP:20260815T170000Z
+DTSTART:20260815T170000Z
+DTEND:20260815T200000Z
+SUMMARY:Bengal to Bethnal Green — Grand Union Orchestra
+DESCRIPTION:Backyard Biennial evening celebrating Bangladeshi heritage: ho
+ memade food from women-led Oitij-jo Kitchen from 6pm\, then a performance
+  blending Bengali ragas with Grand Union Orchestra's global musicians\, p
+ lus Q&A.\nhttps://gel.now/events/571
+URL:https://gel.now/events/571
+LOCATION:The Theatre at Toynbee Studios\, 28 Commercial Street\, E1 6AB
+END:VEVENT
+BEGIN:VEVENT
 UID:closeup-summer-series-eaves-wilder-at-sebright-arms-174ccfb0@london-ev
  ents
 DTSTAMP:20260815T183000Z
@@ -1175,6 +1214,33 @@ DESCRIPTION:Vermont indie/alt-country songwriter Greg Freeman\; first of t
 URL:https://dice.fm/event/nvdwlq-greg-freeman-18th-aug-moth-club-london-ti
  ckets
 LOCATION:MOTH Club\, Old Trades Hall\, Valette Street\, E9 6NU
+END:VEVENT
+BEGIN:VEVENT
+UID:forage-and-meditate-on-london-canals-august-edition-ef329a80@london-ev
+ ents
+DTSTAMP:20260822T090000Z
+DTSTART:20260822T090000Z
+DTEND:20260822T120000Z
+SUMMARY:Forage and Meditate on London Canals (August edition)
+DESCRIPTION:Guided mindful foraging walk with the Barefoot Forager along t
+ he canal towards Hackney Marshes — late-summer wild plants and mushroom
+ s\, seasonal tastings\, closing meditation.\nPrice: £20-30 tiered\nhttps
+ ://dandelion.events/e/n4h43
+URL:https://dandelion.events/e/n4h43
+LOCATION:Hackney Wick canalside (meet near station)\, Hackney Wick
+END:VEVENT
+BEGIN:VEVENT
+UID:council-data-hack-day-campaign-lab-eb0a8ba6@london-events
+DTSTAMP:20260822T100000Z
+DTSTART:20260822T100000Z
+DTEND:20260822T200000Z
+SUMMARY:Council Data Hack Day (Campaign Lab)
+DESCRIPTION:Campaign Lab hackathon building prototypes on a new UK council
+  data scraper — transparency tools\, AI-powered search and dashboards f
+ or local democracy\; coders\, designers\, researchers and idea-people all
+  welcome.\nhttps://luma.com/campaign-g74e
+URL:https://luma.com/campaign-g74e
+LOCATION:Newspeak House\, 133 Bethnal Green Road\, E2 7DG
 END:VEVENT
 BEGIN:VEVENT
 UID:jahnavi-harrison-an-evening-of-kirtan-and-song-cb25ebff@london-events
