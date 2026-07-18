@@ -5,19 +5,6 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:London Events
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
-UID:men-s-circle-accountability-b4df3a65@london-events
-DTSTAMP:20260715T174500Z
-DTSTART:20260715T174500Z
-DTEND:20260715T200000Z
-SUMMARY:Men's Circle: Accountability
-DESCRIPTION:Facilitated men's circle exploring personal accountability and
-  self-trust through meditation\, embodiment\, sharing and reflection. Sma
- ll group (under 10).\nPrice: £10-£20 sliding scale\nhttps://dandelion.e
- vents/e/n05my
-URL:https://dandelion.events/e/n05my
-LOCATION:Studio 1\, OMUK\, 22 Pakenham Street\, WC1X 0LB
-END:VEVENT
-BEGIN:VEVENT
 UID:ics-7ecd2af4b8f4@london-events
 DTSTAMP:20260716T160000Z
 DTSTART:20260716T160000Z
