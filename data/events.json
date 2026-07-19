@@ -836,6 +836,25 @@
     "cycle_minutes": 16
   },
   {
+    "title": "Emotional Freedom Inquiry — somatic release circle",
+    "start": "2026-07-28T18:30:00+01:00",
+    "end": "2026-07-28T21:00:00+01:00",
+    "venue": "Private venue, Finsbury Park",
+    "address": "N4 1LS",
+    "url": "https://dandelion.events/e/t34dp",
+    "source": "listing:dandelion",
+    "tags": [
+      "workshop",
+      "community"
+    ],
+    "price": "£5-20 sliding-scale donation",
+    "description": "Gentle somatic inquiry group exploring emotional release through body awareness and presence (Sedona Method and non-duality influenced), with individual work witnessed in a compassionate circle. No experience needed.",
+    "neighbourhood": "Finsbury Park",
+    "cycle_minutes": 22,
+    "id": "emotional-freedom-inquiry-somatic-release-circle-1e6ac228",
+    "added": "2026-07-19"
+  },
+  {
     "title": "PsySoc Social: Speed-Friending & Psychedelic Storytelling",
     "start": "2026-07-29T18:30:00+01:00",
     "end": "2026-07-29T21:30:00+01:00",
@@ -1024,6 +1043,25 @@
     "cycle_minutes": 6
   },
   {
+    "title": "Worm Time Dialogues — Lammas (Bohm dialogue)",
+    "start": "2026-08-01T13:00:00+01:00",
+    "end": "2026-08-01T16:00:00+01:00",
+    "venue": "Good Shepherd Studios",
+    "address": "15A Davies Lane, E11 3DR",
+    "url": "https://dandelion.events/e/y9gub",
+    "source": "listing:dandelion",
+    "tags": [
+      "talk",
+      "community"
+    ],
+    "price": "£6-15 sliding scale",
+    "description": "Facilitated Bohm dialogue circle exploring our relationship with time and natural rhythms, paired with 'worm time' creative rest. Same practice lineage as the Bohm Dialogue on Love.",
+    "neighbourhood": "Leytonstone",
+    "cycle_minutes": 27,
+    "id": "worm-time-dialogues-lammas-bohm-dialogue-51aeb4b2",
+    "added": "2026-07-19"
+  },
+  {
     "title": "Ceroc London 50:50 — 6-hour Saturday Freestyle",
     "start": "2026-08-01T14:00:00+01:00",
     "end": "2026-08-01T20:00:00+01:00",
@@ -1058,6 +1096,25 @@
     "added": "2026-07-05",
     "neighbourhood": "Hackney Central",
     "cycle_minutes": 12
+  },
+  {
+    "title": "Intuitive Painting Workshop @ Plot 9",
+    "start": "2026-08-02T10:30:00+01:00",
+    "end": "2026-08-02T13:00:00+01:00",
+    "venue": "Plot 9, Maze Hill",
+    "address": "Restell Close, Greenwich, SE3",
+    "url": "https://dandelion.events/e/x4mnu",
+    "source": "listing:dandelion",
+    "tags": [
+      "art",
+      "workshop"
+    ],
+    "price": "£15-25 sliding scale",
+    "description": "Creative Sunday morning of guided meditation and process-led intuitive painting at the Plot 9 garden — no outcome required, all materials provided. (Clashes with the Connection circling day if that runs 2 Aug.)",
+    "neighbourhood": "Greenwich",
+    "cycle_minutes": 35,
+    "id": "intuitive-painting-workshop-plot-9-d5bffbe7",
+    "added": "2026-07-19"
   },
   {
     "title": "Connection: Our Deepest Desire and Greatest Fear — Circling Day Workshop",
@@ -1483,11 +1540,47 @@
       "music"
     ],
     "price": "£20.19",
-    "description": "Vermont indie/alt-country songwriter Greg Freeman; first of two nights (also 19 Aug if this sells out).",
+    "description": "Vermont indie/alt-country songwriter Greg Freeman; first of two nights (also 19 Aug if this sells out). NOTE: Songkick lists this as Wed 19 Aug while DICE says 18 Aug — check the ticket page before travelling.",
     "neighbourhood": "Hackney Central",
     "cycle_minutes": 12,
     "id": "greg-freeman-at-moth-club-a73c9379",
     "added": "2026-07-15"
+  },
+  {
+    "title": "Devon Again at MOTH Club",
+    "start": "2026-08-20T19:00:00+01:00",
+    "end": null,
+    "venue": "MOTH Club",
+    "address": "Old Trades Hall, Valette Street, E9 6NU",
+    "url": "https://www.songkick.com/concerts/43309048-devon-again-at-moth-club",
+    "source": "keyword-search",
+    "tags": [
+      "music"
+    ],
+    "price": "£17.93",
+    "description": "Bedroom-pop/indie songwriter Devon Again plays an intimate Thursday show at MOTH Club. Tickets on DICE.",
+    "neighbourhood": "Hackney Central",
+    "cycle_minutes": 12,
+    "id": "devon-again-at-moth-club-bceb3518",
+    "added": "2026-07-19"
+  },
+  {
+    "title": "Miss Grit + mui zyu at MOTH Club",
+    "start": "2026-08-21T19:00:00+01:00",
+    "end": null,
+    "venue": "MOTH Club",
+    "address": "Old Trades Hall, Valette Street, E9 6NU",
+    "url": "https://www.songkick.com/concerts/43327992-miss-grit-at-moth-club",
+    "source": "keyword-search",
+    "tags": [
+      "music"
+    ],
+    "price": "£17.93",
+    "description": "Art-rock songwriter Miss Grit double-billed with experimental indie-pop artist mui zyu — a strong small-venue Friday indie bill in Hackney. Tickets on DICE.",
+    "neighbourhood": "Hackney Central",
+    "cycle_minutes": 12,
+    "id": "miss-grit-mui-zyu-at-moth-club-4efc0919",
+    "added": "2026-07-19"
   },
   {
     "title": "Forage and Meditate on London Canals (August edition)",

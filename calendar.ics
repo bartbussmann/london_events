@@ -611,6 +611,21 @@ URL:https://truedating.co.uk/events/mini-golf-singles-party-28-jul-2026
 LOCATION:Puttshack\, Bank\, 1 Poultry\, London EC2R 8EJ
 END:VEVENT
 BEGIN:VEVENT
+UID:emotional-freedom-inquiry-somatic-release-circle-1e6ac228@london-event
+ s
+DTSTAMP:20260728T173000Z
+DTSTART:20260728T173000Z
+DTEND:20260728T200000Z
+SUMMARY:Emotional Freedom Inquiry — somatic release circle
+DESCRIPTION:Gentle somatic inquiry group exploring emotional release throu
+ gh body awareness and presence (Sedona Method and non-duality influenced)
+ \, with individual work witnessed in a compassionate circle. No experienc
+ e needed.\nPrice: £5-20 sliding-scale donation\nhttps://dandelion.events
+ /e/t34dp
+URL:https://dandelion.events/e/t34dp
+LOCATION:Private venue\, Finsbury Park\, N4 1LS
+END:VEVENT
+BEGIN:VEVENT
 UID:psysoc-social-speed-friending-psychedelic-storytelling-cc4592a3@london
  -events
 DTSTAMP:20260729T173000Z
@@ -751,6 +766,19 @@ URL:https://www.thursday.com/events/london/d3a99c6e-8102-40b0-a61e-c213fd8
 LOCATION:The Sanctuary &Soul\, Shoreditch\, off Brick Lane
 END:VEVENT
 BEGIN:VEVENT
+UID:worm-time-dialogues-lammas-bohm-dialogue-51aeb4b2@london-events
+DTSTAMP:20260801T120000Z
+DTSTART:20260801T120000Z
+DTEND:20260801T150000Z
+SUMMARY:Worm Time Dialogues — Lammas (Bohm dialogue)
+DESCRIPTION:Facilitated Bohm dialogue circle exploring our relationship wi
+ th time and natural rhythms\, paired with 'worm time' creative rest. Same
+  practice lineage as the Bohm Dialogue on Love.\nPrice: £6-15 sliding sc
+ ale\nhttps://dandelion.events/e/y9gub
+URL:https://dandelion.events/e/y9gub
+LOCATION:Good Shepherd Studios\, 15A Davies Lane\, E11 3DR
+END:VEVENT
+BEGIN:VEVENT
 UID:ceroc-london-50-50-6-hour-saturday-freestyle-1d4058df@london-events
 DTSTAMP:20260801T130000Z
 DTSTART:20260801T130000Z
@@ -775,6 +803,19 @@ DESCRIPTION:Cult Derby emo/post-hardcore band Crash Of Rhinos play a reuni
 URL:https://dice.fm/event/py8enk-crash-of-rhinos-1st-aug-moth-club-london-
  tickets
 LOCATION:MOTH Club\, Old Trades Hall\, Valette Street\, Hackney\, E9 6NU
+END:VEVENT
+BEGIN:VEVENT
+UID:intuitive-painting-workshop-plot-9-d5bffbe7@london-events
+DTSTAMP:20260802T093000Z
+DTSTART:20260802T093000Z
+DTEND:20260802T120000Z
+SUMMARY:Intuitive Painting Workshop @ Plot 9
+DESCRIPTION:Creative Sunday morning of guided meditation and process-led i
+ ntuitive painting at the Plot 9 garden — no outcome required\, all mate
+ rials provided. (Clashes with the Connection circling day if that runs 2 
+ Aug.)\nPrice: £15-25 sliding scale\nhttps://dandelion.events/e/x4mnu
+URL:https://dandelion.events/e/x4mnu
+LOCATION:Plot 9\, Maze Hill\, Restell Close\, Greenwich\, SE3
 END:VEVENT
 BEGIN:VEVENT
 UID:connection-our-deepest-desire-and-greatest-fear-circling-day-84331cdd@
@@ -1101,10 +1142,37 @@ DTSTART:20260818T183000Z
 DTEND:20260818T203000Z
 SUMMARY:Greg Freeman at MOTH Club
 DESCRIPTION:Vermont indie/alt-country songwriter Greg Freeman\; first of t
- wo nights (also 19 Aug if this sells out).\nPrice: £20.19\nhttps://dice.
- fm/event/nvdwlq-greg-freeman-18th-aug-moth-club-london-tickets
+ wo nights (also 19 Aug if this sells out). NOTE: Songkick lists this as W
+ ed 19 Aug while DICE says 18 Aug — check the ticket page before travell
+ ing.\nPrice: £20.19\nhttps://dice.fm/event/nvdwlq-greg-freeman-18th-aug-
+ moth-club-london-tickets
 URL:https://dice.fm/event/nvdwlq-greg-freeman-18th-aug-moth-club-london-ti
  ckets
+LOCATION:MOTH Club\, Old Trades Hall\, Valette Street\, E9 6NU
+END:VEVENT
+BEGIN:VEVENT
+UID:devon-again-at-moth-club-bceb3518@london-events
+DTSTAMP:20260820T180000Z
+DTSTART:20260820T180000Z
+DTEND:20260820T200000Z
+SUMMARY:Devon Again at MOTH Club
+DESCRIPTION:Bedroom-pop/indie songwriter Devon Again plays an intimate Thu
+ rsday show at MOTH Club. Tickets on DICE.\nPrice: £17.93\nhttps://www.so
+ ngkick.com/concerts/43309048-devon-again-at-moth-club
+URL:https://www.songkick.com/concerts/43309048-devon-again-at-moth-club
+LOCATION:MOTH Club\, Old Trades Hall\, Valette Street\, E9 6NU
+END:VEVENT
+BEGIN:VEVENT
+UID:miss-grit-mui-zyu-at-moth-club-4efc0919@london-events
+DTSTAMP:20260821T180000Z
+DTSTART:20260821T180000Z
+DTEND:20260821T200000Z
+SUMMARY:Miss Grit + mui zyu at MOTH Club
+DESCRIPTION:Art-rock songwriter Miss Grit double-billed with experimental 
+ indie-pop artist mui zyu — a strong small-venue Friday indie bill in Ha
+ ckney. Tickets on DICE.\nPrice: £17.93\nhttps://www.songkick.com/concert
+ s/43327992-miss-grit-at-moth-club
+URL:https://www.songkick.com/concerts/43327992-miss-grit-at-moth-club
 LOCATION:MOTH Club\, Old Trades Hall\, Valette Street\, E9 6NU
 END:VEVENT
 BEGIN:VEVENT
