@@ -5,64 +5,6 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:London Events
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
-UID:ics-5d35d772be12@london-events
-DTSTAMP:20260717T160000Z
-DTSTART:20260717T160000Z
-DTEND:20260717T170000Z
-SUMMARY:CLR Summer Fellowship Speaker Series: Lewis Hammond (Cooperative A
- I Foundation)
-DESCRIPTION:Get up-to-date information at: https://luma.com/1wnkty6l\n\nAd
- dress:\nLondon Initiative for Safe AI (LISA)\nLondon\, United Kingdom\n\n
- Hosted by Center on Long-term Risk & LISA\nhttps://api.lu.ma/ics/get?enti
- ty=calendar&id=cal-EIg2kZGmZGWkWcW
-URL:https://api.lu.ma/ics/get?entity=calendar&id=cal-EIg2kZGmZGWkWcW
-LOCATION:London Initiative for Safe AI (LISA)\, 25 Holywell Row\, London E
- C2A 4XE\, UK
-END:VEVENT
-BEGIN:VEVENT
-UID:london-craft-beer-festival-2026-98258270@london-events
-DTSTAMP:20260717T163000Z
-DTSTART:20260717T163000Z
-DTEND:20260717T213000Z
-SUMMARY:London Craft Beer Festival 2026
-DESCRIPTION:Two-day beer festival (17–18 Jul) with over 800 craft beers 
- from 100+ breweries\, street food and live music\; all-inclusive tickets 
- cover unlimited sampling. Friday evening session listed\; Saturday has da
- y and evening sessions.\nhttps://londoncraftbeerfestival.co.uk/
-URL:https://londoncraftbeerfestival.co.uk/
-LOCATION:Southwark Park\, Southwark Park\, SE16
-END:VEVENT
-BEGIN:VEVENT
-UID:acme-robinson-road-open-studios-friday-evening-preview-aa9570d8@london
- -events
-DTSTAMP:20260717T170000Z
-DTSTART:20260717T170000Z
-DTEND:20260717T200000Z
-SUMMARY:Acme Robinson Road Open Studios — Friday evening preview
-DESCRIPTION:Evening preview of open studios at a converted 19th-century br
- ush factory housing ~70 artists\, part of Backyard Biennial: East. Also o
- pen Sat-Sun 18-19 July 12:00-17:00 with guided tours at 15:00.\nPrice: Fr
- ee\nhttps://acme.org.uk/news/robinson-road-open-studios-archive-exhibitio
- n
-URL:https://acme.org.uk/news/robinson-road-open-studios-archive-exhibition
-LOCATION:Acme Studios\, 15 Robinson Road\, Bethnal Green\, E2 9LN
-END:VEVENT
-BEGIN:VEVENT
-UID:first-night-of-the-proms-2026-e3ef077f@london-events
-DTSTAMP:20260717T180000Z
-DTSTART:20260717T180000Z
-DTEND:20260717T200000Z
-SUMMARY:First Night of the Proms 2026
-DESCRIPTION:The BBC Proms season opens with Dalia Stasevska conducting the
-  BBC Symphony Orchestra and Chorus: Copland's Fanfare for the Common Man\
- , Gershwin's An American in Paris\, and pianist Yunchan Lim playing Ravel
- 's Piano Concerto in G.\nhttps://www.royalalberthall.com/tickets/proms/bb
- c-proms-2026/first-night-of-the-proms-2026
-URL:https://www.royalalberthall.com/tickets/proms/bbc-proms-2026/first-nig
- ht-of-the-proms-2026
-LOCATION:Royal Albert Hall\, Kensington Gore\, SW7 2AP
-END:VEVENT
-BEGIN:VEVENT
 UID:forage-and-meditate-on-london-canals-9ae7e81a@london-events
 DTSTAMP:20260718T090000Z
 DTSTART:20260718T090000Z
