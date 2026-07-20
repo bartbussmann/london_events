@@ -793,6 +793,33 @@ URL:https://dandelion.events/e/l41z7
 LOCATION:Plot 9\, Maze Hill\, Restell Close\, Greenwich
 END:VEVENT
 BEGIN:VEVENT
+UID:thursday-30-pop-culture-quiz-night-2f24bd38@london-events
+DTSTAMP:20260803T180000Z
+DTSTART:20260803T180000Z
+DTEND:20260803T210000Z
+SUMMARY:Thursday: 30+ Pop Culture Quiz Night
+DESCRIPTION:Singles-only pub quiz for the 30+ crowd at 21Soho — teams fo
+ rmed on the night\, so you meet people while competing.\nPrice: £15-20\n
+ https://www.thursday.com/events/london/632b4034-c0f3-420b-8a11-deccd6f319
+ e9
+URL:https://www.thursday.com/events/london/632b4034-c0f3-420b-8a11-deccd6f
+ 319e9
+LOCATION:21Soho\, 3-5 Sutton Row\, W1D 4NR
+END:VEVENT
+BEGIN:VEVENT
+UID:10-cups-supper-club-1358420d@london-events
+DTSTAMP:20260803T180000Z
+DTSTART:20260803T180000Z
+DTEND:20260803T220000Z
+SUMMARY:10 Cups Supper Club
+DESCRIPTION:'Haute cuisine in Hackney' — an intimate four-hour supper cl
+ ub evening on Dalston Lane. Price not shown\; check the Eventbrite page.\
+ nhttps://www.eventbrite.co.uk/e/10-cups-supper-club-tickets-1992964715112
+URL:https://www.eventbrite.co.uk/e/10-cups-supper-club-tickets-19929647151
+ 12
+LOCATION:83 Dalston Lane\, 83 Dalston Lane\, E8 2NG
+END:VEVENT
+BEGIN:VEVENT
 UID:land-and-belonging-josh-schrei-and-alexander-beiner-in-conve-b6d7d807@
  london-events
 DTSTAMP:20260804T180000Z
@@ -806,6 +833,19 @@ DESCRIPTION:The Emerald podcast's Josh Schrei and sensemaking writer Alexa
  ents/e/m05nr
 URL:https://dandelion.events/e/m05nr
 LOCATION:Number 90 Bar Hackney Wick\, Wallis Road\, E9 5LN
+END:VEVENT
+BEGIN:VEVENT
+UID:thursday-singles-darts-night-at-bat-ball-d0962e4f@london-events
+DTSTAMP:20260804T180000Z
+DTSTART:20260804T180000Z
+DTEND:20260804T210000Z
+SUMMARY:Thursday: Singles Darts Night at Bat & Ball
+DESCRIPTION:Mixed singles social darts night — activity-led icebreaker f
+ ormat rather than a standing-around bar night.\nPrice: £12-25\nhttps://w
+ ww.thursday.com/events/london/da4678c4-9c97-4466-9aed-92c7e1a5f22d
+URL:https://www.thursday.com/events/london/da4678c4-9c97-4466-9aed-92c7e1a
+ 5f22d
+LOCATION:Bat & Ball Covent Garden\, 50 Earlham St\, WC2H 9LJ
 END:VEVENT
 BEGIN:VEVENT
 UID:ics-2f702e4fcb34@london-events
@@ -878,6 +918,20 @@ URL:https://www.greennote.co.uk/production/robert-vincent/
 LOCATION:Green Note\, 106 Parkway\, Camden\, NW1 7AN
 END:VEVENT
 BEGIN:VEVENT
+UID:thursday-boxpark-shoreditch-singles-night-eb1d1476@london-events
+DTSTAMP:20260806T180000Z
+DTSTART:20260806T180000Z
+DTEND:20260806T220000Z
+SUMMARY:Thursday: Boxpark Shoreditch Singles Night
+DESCRIPTION:Thursday's flagship mixed singles bar night takes over Boxpark
+  Shoreditch\, five minutes' ride away\, with icebreakers and hosts on han
+ d.\nPrice: £12-25\nhttps://www.thursday.com/events/london/6071cc74-19cd-
+ 4748-8ab1-5fea300504c2
+URL:https://www.thursday.com/events/london/6071cc74-19cd-4748-8ab1-5fea300
+ 504c2
+LOCATION:BOXPARK Shoreditch\, 2-10 Bethnal Green Rd\, E1 6GY
+END:VEVENT
+BEGIN:VEVENT
 UID:ebony-live-at-village-underground-43ccff76@london-events
 DTSTAMP:20260806T183000Z
 DTSTART:20260806T183000Z
@@ -933,6 +987,20 @@ DESCRIPTION:Special chill-out freestyle in the big main hall at South Kens
  m/30/14796/the-big-silc-freestyle
 URL:https://www.ceroc.com/30/14796/the-big-silc-freestyle
 LOCATION:MPW Queens Gate House\, 65-67 Queen's Gate\, SW7 5JS
+END:VEVENT
+BEGIN:VEVENT
+UID:thursday-30-cocktails-singles-at-fonda-9d1a6686@london-events
+DTSTAMP:20260809T130000Z
+DTSTART:20260809T130000Z
+DTEND:20260809T170000Z
+SUMMARY:Thursday: 30+ Cocktails & Singles at Fonda
+DESCRIPTION:Sunday-afternoon mixed singles session for 30+ at Mexican rest
+ aurant-bar Fonda — cocktails and a daytime\, conversation-first format.
+ \nPrice: £12-25\nhttps://www.thursday.com/events/london/0b998088-f735-44
+ 61-a727-1575c384838d
+URL:https://www.thursday.com/events/london/0b998088-f735-4461-a727-1575c38
+ 4838d
+LOCATION:Fonda\, 12 Heddon St\, W1B 4BZ
 END:VEVENT
 BEGIN:VEVENT
 UID:simply-being-5rhythms-new-moon-eclipse-garden-special-19fd876c@london-
@@ -1103,6 +1171,19 @@ DESCRIPTION:Bedroom-pop/indie songwriter Devon Again plays an intimate Thu
  ngkick.com/concerts/43309048-devon-again-at-moth-club
 URL:https://www.songkick.com/concerts/43309048-devon-again-at-moth-club
 LOCATION:MOTH Club\, Old Trades Hall\, Valette Street\, E9 6NU
+END:VEVENT
+BEGIN:VEVENT
+UID:breathwork-harmonizing-sound-and-sacred-cacao-ceremony-0991360c@london
+ -events
+DTSTAMP:20260821T170000Z
+DTSTART:20260821T170000Z
+DTEND:20260821T200000Z
+SUMMARY:Breathwork\, Harmonizing Sound and Sacred Cacao Ceremony
+DESCRIPTION:Three-hour ceremony combining guided breathwork\, a gong and c
+ rystal-bowl sound journey\, and sacred cacao in a London Fields studio.\n
+ Price: £30-38\nhttps://dandelion.events/e/c2lpo
+URL:https://dandelion.events/e/c2lpo
+LOCATION:Unit 12\, 2-16 Bayford Street\, Bayford Street\, E8 3SE
 END:VEVENT
 BEGIN:VEVENT
 UID:miss-grit-mui-zyu-at-moth-club-4efc0919@london-events

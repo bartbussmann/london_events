@@ -1080,6 +1080,42 @@
     "added": "2026-07-18"
   },
   {
+    "title": "Thursday: 30+ Pop Culture Quiz Night",
+    "start": "2026-08-03T19:00:00+01:00",
+    "end": "2026-08-03T22:00:00+01:00",
+    "venue": "21Soho",
+    "address": "3-5 Sutton Row, W1D 4NR",
+    "url": "https://www.thursday.com/events/london/632b4034-c0f3-420b-8a11-deccd6f319e9",
+    "source": "listing:thursday-dating",
+    "tags": [
+      "community"
+    ],
+    "price": "£15-20",
+    "description": "Singles-only pub quiz for the 30+ crowd at 21Soho — teams formed on the night, so you meet people while competing.",
+    "neighbourhood": "Soho",
+    "cycle_minutes": 27,
+    "id": "thursday-30-pop-culture-quiz-night-2f24bd38",
+    "added": "2026-07-20"
+  },
+  {
+    "title": "10 Cups Supper Club",
+    "start": "2026-08-03T19:00:00+01:00",
+    "end": "2026-08-03T23:00:00+01:00",
+    "venue": "83 Dalston Lane",
+    "address": "83 Dalston Lane, E8 2NG",
+    "url": "https://www.eventbrite.co.uk/e/10-cups-supper-club-tickets-1992964715112",
+    "source": "keyword-search",
+    "tags": [
+      "food"
+    ],
+    "price": null,
+    "description": "'Haute cuisine in Hackney' — an intimate four-hour supper club evening on Dalston Lane. Price not shown; check the Eventbrite page.",
+    "neighbourhood": "Dalston",
+    "cycle_minutes": 13,
+    "id": "10-cups-supper-club-1358420d",
+    "added": "2026-07-20"
+  },
+  {
     "title": "Land and Belonging: Josh Schrei and Alexander Beiner in Conversation",
     "start": "2026-08-04T19:00:00+01:00",
     "end": "2026-08-04T22:00:00+01:00",
@@ -1097,6 +1133,24 @@
     "cycle_minutes": 13,
     "id": "land-and-belonging-josh-schrei-and-alexander-beiner-in-conve-b6d7d807",
     "added": "2026-07-09"
+  },
+  {
+    "title": "Thursday: Singles Darts Night at Bat & Ball",
+    "start": "2026-08-04T19:00:00+01:00",
+    "end": "2026-08-04T22:00:00+01:00",
+    "venue": "Bat & Ball Covent Garden",
+    "address": "50 Earlham St, WC2H 9LJ",
+    "url": "https://www.thursday.com/events/london/da4678c4-9c97-4466-9aed-92c7e1a5f22d",
+    "source": "listing:thursday-dating",
+    "tags": [
+      "community"
+    ],
+    "price": "£12-25",
+    "description": "Mixed singles social darts night — activity-led icebreaker format rather than a standing-around bar night.",
+    "neighbourhood": "Covent Garden",
+    "cycle_minutes": 25,
+    "id": "thursday-singles-darts-night-at-bat-ball-d0962e4f",
+    "added": "2026-07-20"
   },
   {
     "id": "ics-2f702e4fcb34",
@@ -1192,6 +1246,24 @@
     "added": "2026-07-16"
   },
   {
+    "title": "Thursday: Boxpark Shoreditch Singles Night",
+    "start": "2026-08-06T19:00:00+01:00",
+    "end": "2026-08-06T23:00:00+01:00",
+    "venue": "BOXPARK Shoreditch",
+    "address": "2-10 Bethnal Green Rd, E1 6GY",
+    "url": "https://www.thursday.com/events/london/6071cc74-19cd-4748-8ab1-5fea300504c2",
+    "source": "listing:thursday-dating",
+    "tags": [
+      "community"
+    ],
+    "price": "£12-25",
+    "description": "Thursday's flagship mixed singles bar night takes over Boxpark Shoreditch, five minutes' ride away, with icebreakers and hosts on hand.",
+    "neighbourhood": "Shoreditch",
+    "cycle_minutes": 6,
+    "id": "thursday-boxpark-shoreditch-singles-night-eb1d1476",
+    "added": "2026-07-20"
+  },
+  {
     "title": "Ebony — live at Village Underground",
     "start": "2026-08-06T19:30:00+01:00",
     "end": "2026-08-06T23:00:00+01:00",
@@ -1263,6 +1335,25 @@
     "cycle_minutes": 45,
     "id": "the-big-silc-freestyle-ceroc-silc-wcs-8af52ee9",
     "added": "2026-07-13"
+  },
+  {
+    "title": "Thursday: 30+ Cocktails & Singles at Fonda",
+    "start": "2026-08-09T14:00:00+01:00",
+    "end": "2026-08-09T18:00:00+01:00",
+    "venue": "Fonda",
+    "address": "12 Heddon St, W1B 4BZ",
+    "url": "https://www.thursday.com/events/london/0b998088-f735-4461-a727-1575c384838d",
+    "source": "listing:thursday-dating",
+    "tags": [
+      "community",
+      "food"
+    ],
+    "price": "£12-25",
+    "description": "Sunday-afternoon mixed singles session for 30+ at Mexican restaurant-bar Fonda — cocktails and a daytime, conversation-first format.",
+    "neighbourhood": "Mayfair",
+    "cycle_minutes": 33,
+    "id": "thursday-30-cocktails-singles-at-fonda-9d1a6686",
+    "added": "2026-07-20"
   },
   {
     "title": "Simply Being 5Rhythms New Moon Eclipse Garden Special",
@@ -1487,6 +1578,26 @@
     "cycle_minutes": 12,
     "id": "devon-again-at-moth-club-bceb3518",
     "added": "2026-07-19"
+  },
+  {
+    "title": "Breathwork, Harmonizing Sound and Sacred Cacao Ceremony",
+    "start": "2026-08-21T18:00:00+01:00",
+    "end": "2026-08-21T21:00:00+01:00",
+    "venue": "Unit 12, 2-16 Bayford Street",
+    "address": "Bayford Street, E8 3SE",
+    "url": "https://dandelion.events/e/c2lpo",
+    "source": "listing:dandelion",
+    "tags": [
+      "workshop",
+      "music",
+      "community"
+    ],
+    "price": "£30-38",
+    "description": "Three-hour ceremony combining guided breathwork, a gong and crystal-bowl sound journey, and sacred cacao in a London Fields studio.",
+    "neighbourhood": "London Fields",
+    "cycle_minutes": 10,
+    "id": "breathwork-harmonizing-sound-and-sacred-cacao-ceremony-0991360c",
+    "added": "2026-07-20"
   },
   {
     "title": "Miss Grit + mui zyu at MOTH Club",

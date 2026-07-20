@@ -1,5 +1,11 @@
 [
   {
+    "ran_at": "2026-07-20T07:50:00+01:00",
+    "added": 6,
+    "considered": 118,
+    "notes": "Daily sweep, Thursday-app dating pass (verified via their public API — pages are a JS SPA). ICS: rescheduled Kokotajlo talk (23 Jul 16:00) suppressed per weekday rule, flagged to Bart (part 1). Added: 4 early-Aug Thursday singles events (quiz, darts, BOXPARK Shoreditch 6 min, Sunday cocktails), breathwork/sound/cacao ceremony in London Fields (21 Aug), 10 Cups supper club Dalston. Thursday listings still stop at 9 Aug — recheck in 1-2 weeks for late-Aug dating. London Gong's August sessions all outside London."
+  },
+  {
     "ran_at": "2026-07-19T07:45:00+01:00",
     "added": 5,
     "considered": 31,
