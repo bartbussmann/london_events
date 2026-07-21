@@ -1129,6 +1129,26 @@
     "added": "2026-07-09"
   },
   {
+    "title": "Backyard Biennial: East — Neighbourhood Party",
+    "start": "2026-08-08T11:00:00+01:00",
+    "end": "2026-08-08T23:00:00+01:00",
+    "venue": "Whitechapel Gallery + partner venues",
+    "address": "77-82 Whitechapel High St, E1 7QX (multiple sites)",
+    "url": "https://www.whitechapelgallery.org/backyardbiennial/",
+    "source": "keyword-search",
+    "tags": [
+      "festival",
+      "art",
+      "community"
+    ],
+    "price": "Free",
+    "description": "Free all-day neighbourhood party for the Backyard Biennial: live performances, workshops, installations and participatory experiences across Whitechapel/Spitalfields venues, closing with DAYTIMERS at Whitechapel Gallery.",
+    "neighbourhood": "Whitechapel",
+    "cycle_minutes": 7,
+    "id": "backyard-biennial-east-neighbourhood-party-5de7cc97",
+    "added": "2026-07-21"
+  },
+  {
     "title": "Jeffrey Alexander & The Heavy Lidders + Christina Carter",
     "start": "2026-08-08T19:30:00+01:00",
     "end": null,
@@ -1502,5 +1522,24 @@
     "cycle_minutes": 20,
     "id": "jahnavi-harrison-an-evening-of-kirtan-and-song-cb25ebff",
     "added": "2026-07-15"
+  },
+  {
+    "title": "Ecstatic Ascension: Conscious Dance Journey",
+    "start": "2026-08-27T19:00:00+01:00",
+    "end": "2026-08-27T21:30:00+01:00",
+    "venue": "Colet House",
+    "address": "151 Talgarth Road, W14 9DA",
+    "url": "https://dandelion.events/e/august2026",
+    "source": "listing:dandelion",
+    "tags": [
+      "dance",
+      "music"
+    ],
+    "price": "£11-£20",
+    "description": "A 2.5-hour conscious/ecstatic dance journey with live musicians focused on movement medicine, emotional expression and community; open to all. Note the longer ride to West Kensington.",
+    "neighbourhood": "Barons Court",
+    "cycle_minutes": 45,
+    "id": "ecstatic-ascension-conscious-dance-journey-eb1b73e3",
+    "added": "2026-07-21"
   }
 ]

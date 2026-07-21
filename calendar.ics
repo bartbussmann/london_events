@@ -836,6 +836,21 @@ URL:https://dandelion.events/e/d9p3e
 LOCATION:The Sanctuary &Soul\, 114 Cheshire Street\, E2 6EJ
 END:VEVENT
 BEGIN:VEVENT
+UID:backyard-biennial-east-neighbourhood-party-5de7cc97@london-events
+DTSTAMP:20260808T100000Z
+DTSTART:20260808T100000Z
+DTEND:20260808T220000Z
+SUMMARY:Backyard Biennial: East — Neighbourhood Party
+DESCRIPTION:Free all-day neighbourhood party for the Backyard Biennial: li
+ ve performances\, workshops\, installations and participatory experiences
+  across Whitechapel/Spitalfields venues\, closing with DAYTIMERS at White
+ chapel Gallery.\nPrice: Free\nhttps://www.whitechapelgallery.org/backyard
+ biennial/
+URL:https://www.whitechapelgallery.org/backyardbiennial/
+LOCATION:Whitechapel Gallery + partner venues\, 77-82 Whitechapel High St\
+ , E1 7QX (multiple sites)
+END:VEVENT
+BEGIN:VEVENT
 UID:jeffrey-alexander-the-heavy-lidders-christina-carter-9eec9c9f@london-e
  vents
 DTSTAMP:20260808T183000Z
@@ -1112,5 +1127,18 @@ DESCRIPTION:GRAMMY-nominated devotional artist Jahnavi Harrison leads an e
  ahnavi-harrison
 URL:https://unionchapel.org.uk/whats-on/jahnavi-harrison
 LOCATION:Union Chapel\, Compton Terrace\, N1 2UN
+END:VEVENT
+BEGIN:VEVENT
+UID:ecstatic-ascension-conscious-dance-journey-eb1b73e3@london-events
+DTSTAMP:20260827T180000Z
+DTSTART:20260827T180000Z
+DTEND:20260827T203000Z
+SUMMARY:Ecstatic Ascension: Conscious Dance Journey
+DESCRIPTION:A 2.5-hour conscious/ecstatic dance journey with live musician
+ s focused on movement medicine\, emotional expression and community\; ope
+ n to all. Note the longer ride to West Kensington.\nPrice: £11-£20\nhtt
+ ps://dandelion.events/e/august2026
+URL:https://dandelion.events/e/august2026
+LOCATION:Colet House\, 151 Talgarth Road\, W14 9DA
 END:VEVENT
 END:VCALENDAR

@@ -1,5 +1,11 @@
 [
   {
+    "ran_at": "2026-07-21T07:45:00+01:00",
+    "added": 2,
+    "considered": 24,
+    "notes": "Daily sweep. ICS: 0 new; 9 pruned (part 1). Added: free all-day Backyard Biennial Neighbourhood Party (8 Aug, Whitechapel, 7 min), Ecstatic Ascension conscious dance with live musicians (27 Aug). Caught 4 resurfaced duplicates. Source status: Rich Mix still fully unverifiable (403 + zero third-party listings) — deprioritise; Soul Sanctuary Momence schedule unreadable, 'MVMNT Ecstatic Dance & Cacao' monthly promises new dates — recheck next sweep."
+  },
+  {
     "ran_at": "2026-07-20T07:50:00+01:00",
     "added": 6,
     "considered": 118,
