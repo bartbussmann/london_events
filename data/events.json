@@ -1110,6 +1110,24 @@
     "cycle_minutes": 8
   },
   {
+    "title": "AMO AMO + Nico Georis at Paper Dress Vintage",
+    "start": "2026-08-06T19:30:00+01:00",
+    "end": null,
+    "venue": "Paper Dress Vintage",
+    "address": "352A Mare Street, E8 1HR",
+    "url": "https://dice.fm/event/2wyy6m-amo-amo-nico-georis-6th-aug-paper-dress-vintage-london-tickets",
+    "source": "keyword-search",
+    "tags": [
+      "music"
+    ],
+    "price": null,
+    "description": "LA psych-pop band AMO AMO play an intimate Thursday show upstairs at Hackney's vintage-shop-turned-venue, with keyboardist/composer Nico Georis in support.",
+    "neighbourhood": "Hackney Central",
+    "cycle_minutes": 11,
+    "id": "amo-amo-nico-georis-at-paper-dress-vintage-de67080c",
+    "added": "2026-07-22"
+  },
+  {
     "title": "The Next Chapter of Psychedelics with Robin Carhart-Harris",
     "start": "2026-08-07T18:15:00+01:00",
     "end": "2026-08-07T20:45:00+01:00",
@@ -1524,6 +1542,25 @@
     "added": "2026-07-15"
   },
   {
+    "title": "An Introduction to Bohm Dialogue",
+    "start": "2026-08-24T18:45:00+01:00",
+    "end": "2026-08-24T21:00:00+01:00",
+    "venue": "Bunhill Fields Quaker Meeting House",
+    "address": "Quaker Court, EC1Y 8QQ",
+    "url": "https://dandelion.events/e/a7khm",
+    "source": "listing:dandelion",
+    "tags": [
+      "workshop",
+      "community"
+    ],
+    "price": "£4-£12 sliding scale",
+    "description": "Monday-evening introduction to David Bohm's dialogue practice — deep listening and tapping the collective wisdom of a group — in a contemplative Quaker meeting house near Old Street.",
+    "neighbourhood": "Old Street",
+    "cycle_minutes": 10,
+    "id": "an-introduction-to-bohm-dialogue-d5f55c4c",
+    "added": "2026-07-22"
+  },
+  {
     "title": "Ecstatic Ascension: Conscious Dance Journey",
     "start": "2026-08-27T19:00:00+01:00",
     "end": "2026-08-27T21:30:00+01:00",
@@ -1541,5 +1578,82 @@
     "cycle_minutes": 45,
     "id": "ecstatic-ascension-conscious-dance-journey-eb1b73e3",
     "added": "2026-07-21"
+  },
+  {
+    "title": "Panorama 2026 — UK National Steelband Competition",
+    "start": "2026-08-29T16:00:00+01:00",
+    "end": "2026-08-29T23:00:00+01:00",
+    "venue": "Emslie Horniman's Pleasance Park",
+    "address": "W10 3DH",
+    "url": "https://www.ticketsource.com/carnivalvillagetrust/panorama-2026-the-uk-national-steelband-competition/e-bpzamz",
+    "source": "keyword-search",
+    "tags": [
+      "music",
+      "festival",
+      "outdoors"
+    ],
+    "price": "Adults from £21.56",
+    "description": "Notting Hill Carnival's ticketed Saturday centrepiece: UK steel bands play 10-minute arrangements from memory, with the first-ever Junior Panorama at 5pm and the main competition from 8pm.",
+    "neighbourhood": "Ladbroke Grove",
+    "cycle_minutes": 45,
+    "id": "panorama-2026-uk-national-steelband-competition-6ef2fba6",
+    "added": "2026-07-22"
+  },
+  {
+    "title": "Fire-Tending & Storytelling in the Woods",
+    "start": "2026-08-29T16:00:00+01:00",
+    "end": "2026-08-29T20:00:00+01:00",
+    "venue": "Hackney woodlands (exact location on booking)",
+    "address": null,
+    "url": "https://dandelion.events/e/v2qwo",
+    "source": "listing:dandelion",
+    "tags": [
+      "workshop",
+      "outdoors",
+      "community"
+    ],
+    "price": "£30-£80 sliding scale",
+    "description": "Bank holiday Saturday evening learning to tend a fire the old way: tree identification, traditional fire-building, Celtic folklore and storytelling around the flames, with food cooked over the fire.",
+    "neighbourhood": "Hackney",
+    "cycle_minutes": 12,
+    "id": "fire-tending-storytelling-in-the-woods-bf92efb5",
+    "added": "2026-07-22"
+  },
+  {
+    "title": "Hovvdy + Esme Emerson at MOTH Club",
+    "start": "2026-08-29T19:30:00+01:00",
+    "end": "2026-08-29T22:30:00+01:00",
+    "venue": "MOTH Club",
+    "address": "Old Trades Hall, Valette Street, E9 6NU",
+    "url": "https://dice.fm/event/7dw6m7-hovvdy-29th-aug-moth-club-london-tickets",
+    "source": "keyword-search",
+    "tags": [
+      "music"
+    ],
+    "price": "£11.33",
+    "description": "Texas duo Hovvdy bring their warm, hazy indie/alt-country to MOTH Club on bank holiday Saturday, with support from Esme Emerson.",
+    "neighbourhood": "Hackney Central",
+    "cycle_minutes": 12,
+    "id": "hovvdy-esme-emerson-at-moth-club-01a60ebf",
+    "added": "2026-07-22"
+  },
+  {
+    "title": "Monday Contact Improv: Class + Jam — autumn season opener",
+    "start": "2026-09-07T18:30:00+01:00",
+    "end": "2026-09-07T20:30:00+01:00",
+    "venue": "Rose Lipman Building",
+    "address": "43 De Beauvoir Road, N1 5SQ",
+    "url": "https://bookwhen.com/mariechabert/e/ev-s9d4m-20260907183000",
+    "source": "keyword-search",
+    "tags": [
+      "dance",
+      "class"
+    ],
+    "price": "£5-£20 donation",
+    "description": "Marie Chabert's weekly Monday CI class + jam resumes after the summer break — first date of the autumn season, movers and live musicians welcome.",
+    "neighbourhood": "De Beauvoir",
+    "cycle_minutes": 8,
+    "id": "monday-contact-improv-class-jam-autumn-season-opener-65e37bfe",
+    "added": "2026-07-22"
   }
 ]

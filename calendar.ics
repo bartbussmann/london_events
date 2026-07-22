@@ -822,6 +822,20 @@ LOCATION:Village Underground\, 54 Holywell Lane\, Shoreditch\, London EC2A
   3PQ
 END:VEVENT
 BEGIN:VEVENT
+UID:amo-amo-nico-georis-at-paper-dress-vintage-de67080c@london-events
+DTSTAMP:20260806T183000Z
+DTSTART:20260806T183000Z
+DTEND:20260806T203000Z
+SUMMARY:AMO AMO + Nico Georis at Paper Dress Vintage
+DESCRIPTION:LA psych-pop band AMO AMO play an intimate Thursday show upsta
+ irs at Hackney's vintage-shop-turned-venue\, with keyboardist/composer Ni
+ co Georis in support.\nhttps://dice.fm/event/2wyy6m-amo-amo-nico-georis-6
+ th-aug-paper-dress-vintage-london-tickets
+URL:https://dice.fm/event/2wyy6m-amo-amo-nico-georis-6th-aug-paper-dress-v
+ intage-london-tickets
+LOCATION:Paper Dress Vintage\, 352A Mare Street\, E8 1HR
+END:VEVENT
+BEGIN:VEVENT
 UID:the-next-chapter-of-psychedelics-with-robin-carhart-harris-a1f54161@lo
  ndon-events
 DTSTAMP:20260807T171500Z
@@ -1129,6 +1143,19 @@ URL:https://unionchapel.org.uk/whats-on/jahnavi-harrison
 LOCATION:Union Chapel\, Compton Terrace\, N1 2UN
 END:VEVENT
 BEGIN:VEVENT
+UID:an-introduction-to-bohm-dialogue-d5f55c4c@london-events
+DTSTAMP:20260824T174500Z
+DTSTART:20260824T174500Z
+DTEND:20260824T200000Z
+SUMMARY:An Introduction to Bohm Dialogue
+DESCRIPTION:Monday-evening introduction to David Bohm's dialogue practice 
+ — deep listening and tapping the collective wisdom of a group — in a 
+ contemplative Quaker meeting house near Old Street.\nPrice: £4-£12 slid
+ ing scale\nhttps://dandelion.events/e/a7khm
+URL:https://dandelion.events/e/a7khm
+LOCATION:Bunhill Fields Quaker Meeting House\, Quaker Court\, EC1Y 8QQ
+END:VEVENT
+BEGIN:VEVENT
 UID:ecstatic-ascension-conscious-dance-journey-eb1b73e3@london-events
 DTSTAMP:20260827T180000Z
 DTSTART:20260827T180000Z
@@ -1140,5 +1167,60 @@ DESCRIPTION:A 2.5-hour conscious/ecstatic dance journey with live musician
  ps://dandelion.events/e/august2026
 URL:https://dandelion.events/e/august2026
 LOCATION:Colet House\, 151 Talgarth Road\, W14 9DA
+END:VEVENT
+BEGIN:VEVENT
+UID:panorama-2026-uk-national-steelband-competition-6ef2fba6@london-events
+DTSTAMP:20260829T150000Z
+DTSTART:20260829T150000Z
+DTEND:20260829T220000Z
+SUMMARY:Panorama 2026 — UK National Steelband Competition
+DESCRIPTION:Notting Hill Carnival's ticketed Saturday centrepiece: UK stee
+ l bands play 10-minute arrangements from memory\, with the first-ever Jun
+ ior Panorama at 5pm and the main competition from 8pm.\nPrice: Adults fro
+ m £21.56\nhttps://www.ticketsource.com/carnivalvillagetrust/panorama-202
+ 6-the-uk-national-steelband-competition/e-bpzamz
+URL:https://www.ticketsource.com/carnivalvillagetrust/panorama-2026-the-uk
+ -national-steelband-competition/e-bpzamz
+LOCATION:Emslie Horniman's Pleasance Park\, W10 3DH
+END:VEVENT
+BEGIN:VEVENT
+UID:fire-tending-storytelling-in-the-woods-bf92efb5@london-events
+DTSTAMP:20260829T150000Z
+DTSTART:20260829T150000Z
+DTEND:20260829T190000Z
+SUMMARY:Fire-Tending & Storytelling in the Woods
+DESCRIPTION:Bank holiday Saturday evening learning to tend a fire the old 
+ way: tree identification\, traditional fire-building\, Celtic folklore an
+ d storytelling around the flames\, with food cooked over the fire.\nPrice
+ : £30-£80 sliding scale\nhttps://dandelion.events/e/v2qwo
+URL:https://dandelion.events/e/v2qwo
+LOCATION:Hackney woodlands (exact location on booking)
+END:VEVENT
+BEGIN:VEVENT
+UID:hovvdy-esme-emerson-at-moth-club-01a60ebf@london-events
+DTSTAMP:20260829T183000Z
+DTSTART:20260829T183000Z
+DTEND:20260829T213000Z
+SUMMARY:Hovvdy + Esme Emerson at MOTH Club
+DESCRIPTION:Texas duo Hovvdy bring their warm\, hazy indie/alt-country to 
+ MOTH Club on bank holiday Saturday\, with support from Esme Emerson.\nPri
+ ce: £11.33\nhttps://dice.fm/event/7dw6m7-hovvdy-29th-aug-moth-club-londo
+ n-tickets
+URL:https://dice.fm/event/7dw6m7-hovvdy-29th-aug-moth-club-london-tickets
+LOCATION:MOTH Club\, Old Trades Hall\, Valette Street\, E9 6NU
+END:VEVENT
+BEGIN:VEVENT
+UID:monday-contact-improv-class-jam-autumn-season-opener-65e37bfe@london-e
+ vents
+DTSTAMP:20260907T173000Z
+DTSTART:20260907T173000Z
+DTEND:20260907T193000Z
+SUMMARY:Monday Contact Improv: Class + Jam — autumn season opener
+DESCRIPTION:Marie Chabert's weekly Monday CI class + jam resumes after the
+  summer break — first date of the autumn season\, movers and live music
+ ians welcome.\nPrice: £5-£20 donation\nhttps://bookwhen.com/mariechaber
+ t/e/ev-s9d4m-20260907183000
+URL:https://bookwhen.com/mariechabert/e/ev-s9d4m-20260907183000
+LOCATION:Rose Lipman Building\, 43 De Beauvoir Road\, N1 5SQ
 END:VEVENT
 END:VCALENDAR
