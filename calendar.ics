@@ -166,6 +166,20 @@ URL:https://dandelion.events/e/l9gtn
 LOCATION:Woodland\, Hackney Wick (exact spot shared on booking)
 END:VEVENT
 BEGIN:VEVENT
+UID:dancing-awareness-meditation-spontaneous-movement-ba982cd4@london-even
+ ts
+DTSTAMP:20260723T180000Z
+DTSTART:20260723T180000Z
+DTEND:20260723T202000Z
+SUMMARY:Dancing Awareness — meditation & spontaneous movement
+DESCRIPTION:An hour of group contemplative practice followed by an hour of
+  free spontaneous movement to a wide-ranging soundtrack — a meditation-
+ meets-ecstatic-dance evening in Clerkenwell. Tonight.\nPrice: £10-20 sli
+ ding scale\nhttps://dandelion.events/e/p3i05
+URL:https://dandelion.events/e/p3i05
+LOCATION:The Meditatio Centre\, Myddelton Square\, EC1R 1XX
+END:VEVENT
+BEGIN:VEVENT
 UID:hyper-japan-festival-2026-4da2d67a@london-events
 DTSTAMP:20260724T110000Z
 DTSTART:20260724T110000Z
@@ -1128,6 +1142,21 @@ URL:https://dandelion.events/e/a7khm
 LOCATION:Bunhill Fields Quaker Meeting House\, Quaker Court\, EC1Y 8QQ
 END:VEVENT
 BEGIN:VEVENT
+UID:fantasy-of-a-broken-heart-at-the-shacklewell-arms-4f9b5bcc@london-even
+ ts
+DTSTAMP:20260826T180000Z
+DTSTART:20260826T180000Z
+DTEND:20260826T200000Z
+SUMMARY:Fantasy of a Broken Heart at The Shacklewell Arms
+DESCRIPTION:Brooklyn art-pop/indie duo Fantasy of a Broken Heart bring the
+ ir theatrical\, prog-tinged songs to the 200-cap Dalston back room. Doors
+  7pm.\nhttps://formpresents.seetickets.com/event/fantasy-of-a-broken-hear
+ t/the-shacklewell-arms/3662430
+URL:https://formpresents.seetickets.com/event/fantasy-of-a-broken-heart/th
+ e-shacklewell-arms/3662430
+LOCATION:The Shacklewell Arms\, 71 Shacklewell Lane\, E8 2EB
+END:VEVENT
+BEGIN:VEVENT
 UID:ecstatic-ascension-conscious-dance-journey-eb1b73e3@london-events
 DTSTAMP:20260827T180000Z
 DTSTART:20260827T180000Z
@@ -1139,6 +1168,33 @@ DESCRIPTION:A 2.5-hour conscious/ecstatic dance journey with live musician
  ps://dandelion.events/e/august2026
 URL:https://dandelion.events/e/august2026
 LOCATION:Colet House\, 151 Talgarth Road\, W14 9DA
+END:VEVENT
+BEGIN:VEVENT
+UID:cusk-at-the-shacklewell-arms-749ffc53@london-events
+DTSTAMP:20260827T183000Z
+DTSTART:20260827T183000Z
+DTEND:20260827T203000Z
+SUMMARY:Cusk at The Shacklewell Arms
+DESCRIPTION:Indie/slowcore band Cusk in the Shacklewell's intimate back ro
+ om — a classic small east London pub gig. Doors 7:30pm.\nPrice: £13.60
+ \nhttps://dice.fm/event/2wy5am-cusk-27th-aug-the-shacklewell-arms-london-
+ tickets
+URL:https://dice.fm/event/2wy5am-cusk-27th-aug-the-shacklewell-arms-london
+ -tickets
+LOCATION:The Shacklewell Arms\, 71 Shacklewell Lane\, E8 2EB
+END:VEVENT
+BEGIN:VEVENT
+UID:ecotherapy-workshop-with-dr-adrian-harris-5d60c81a@london-events
+DTSTAMP:20260829T100000Z
+DTSTART:20260829T100000Z
+DTEND:20260829T153000Z
+SUMMARY:Ecotherapy Workshop with Dr. Adrian Harris
+DESCRIPTION:Full-day nature-connection workshop capped at 10 participants:
+  embodied\, sensory practices to slow down and reconnect with the more-th
+ an-human world. Bring outdoor clothing\, a sit-mat and food to share.\nPr
+ ice: £45-60\nhttps://dandelion.events/e/b1i7b
+URL:https://dandelion.events/e/b1i7b
+LOCATION:Hampstead Heath (meeting point on booking)
 END:VEVENT
 BEGIN:VEVENT
 UID:panorama-2026-uk-national-steelband-competition-6ef2fba6@london-events
@@ -1180,6 +1236,32 @@ DESCRIPTION:Texas duo Hovvdy bring their warm\, hazy indie/alt-country to
  n-tickets
 URL:https://dice.fm/event/7dw6m7-hovvdy-29th-aug-moth-club-london-tickets
 LOCATION:MOTH Club\, Old Trades Hall\, Valette Street\, E9 6NU
+END:VEVENT
+BEGIN:VEVENT
+UID:notting-hill-carnival-60th-j-ouvert-family-day-a591844d@london-events
+DTSTAMP:20260830T090000Z
+DTSTART:20260830T090000Z
+DTEND:20260830T180000Z
+SUMMARY:Notting Hill Carnival 60th — J'ouvert & Family Day
+DESCRIPTION:Diamond Jubilee edition of Europe's biggest street festival: J
+ 'ouvert from 6am\, opening ceremony 10am\, Children's Day parade\, sound 
+ systems and stages 12-7pm (72-second Grenfell silence at 3pm).\nPrice: Fr
+ ee\nhttps://nhcarnival.org/updates/notting-hill-carnival-2026
+URL:https://nhcarnival.org/updates/notting-hill-carnival-2026
+LOCATION:Streets of Notting Hill (W10/W11)\, Notting Hill / Ladbroke Grove
+END:VEVENT
+BEGIN:VEVENT
+UID:notting-hill-carnival-60th-grand-parade-6c912932@london-events
+DTSTAMP:20260831T093000Z
+DTSTART:20260831T093000Z
+DTEND:20260831T180000Z
+SUMMARY:Notting Hill Carnival 60th — Grand Parade
+DESCRIPTION:Bank holiday Monday grand parade of the 60th-anniversary Carni
+ val: the full adults' mas parade from 10:30am\, sound systems and live st
+ ages until 7pm.\nPrice: Free\nhttps://nhcarnival.org/updates/notting-hill
+ -carnival-2026
+URL:https://nhcarnival.org/updates/notting-hill-carnival-2026
+LOCATION:Streets of Notting Hill (W10/W11)\, Notting Hill / Ladbroke Grove
 END:VEVENT
 BEGIN:VEVENT
 UID:monday-contact-improv-class-jam-autumn-season-opener-65e37bfe@london-e

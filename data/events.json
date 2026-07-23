@@ -227,6 +227,25 @@
     "added": "2026-07-09"
   },
   {
+    "title": "Dancing Awareness — meditation & spontaneous movement",
+    "start": "2026-07-23T19:00:00+01:00",
+    "end": "2026-07-23T21:20:00+01:00",
+    "venue": "The Meditatio Centre",
+    "address": "Myddelton Square, EC1R 1XX",
+    "url": "https://dandelion.events/e/p3i05",
+    "source": "listing:dandelion",
+    "tags": [
+      "dance",
+      "class"
+    ],
+    "price": "£10-20 sliding scale",
+    "description": "An hour of group contemplative practice followed by an hour of free spontaneous movement to a wide-ranging soundtrack — a meditation-meets-ecstatic-dance evening in Clerkenwell. Tonight.",
+    "neighbourhood": "Clerkenwell",
+    "cycle_minutes": 15,
+    "id": "dancing-awareness-meditation-spontaneous-movement-ba982cd4",
+    "added": "2026-07-23"
+  },
+  {
     "title": "HYPER JAPAN Festival 2026",
     "start": "2026-07-24T12:00:00+01:00",
     "end": "2026-07-24T20:00:00+01:00",
@@ -1523,6 +1542,24 @@
     "added": "2026-07-22"
   },
   {
+    "title": "Fantasy of a Broken Heart at The Shacklewell Arms",
+    "start": "2026-08-26T19:00:00+01:00",
+    "end": null,
+    "venue": "The Shacklewell Arms",
+    "address": "71 Shacklewell Lane, E8 2EB",
+    "url": "https://formpresents.seetickets.com/event/fantasy-of-a-broken-heart/the-shacklewell-arms/3662430",
+    "source": "keyword-search",
+    "tags": [
+      "music"
+    ],
+    "price": null,
+    "description": "Brooklyn art-pop/indie duo Fantasy of a Broken Heart bring their theatrical, prog-tinged songs to the 200-cap Dalston back room. Doors 7pm.",
+    "neighbourhood": "Dalston",
+    "cycle_minutes": 14,
+    "id": "fantasy-of-a-broken-heart-at-the-shacklewell-arms-4f9b5bcc",
+    "added": "2026-07-23"
+  },
+  {
     "title": "Ecstatic Ascension: Conscious Dance Journey",
     "start": "2026-08-27T19:00:00+01:00",
     "end": "2026-08-27T21:30:00+01:00",
@@ -1540,6 +1577,43 @@
     "cycle_minutes": 45,
     "id": "ecstatic-ascension-conscious-dance-journey-eb1b73e3",
     "added": "2026-07-21"
+  },
+  {
+    "title": "Cusk at The Shacklewell Arms",
+    "start": "2026-08-27T19:30:00+01:00",
+    "end": null,
+    "venue": "The Shacklewell Arms",
+    "address": "71 Shacklewell Lane, E8 2EB",
+    "url": "https://dice.fm/event/2wy5am-cusk-27th-aug-the-shacklewell-arms-london-tickets",
+    "source": "keyword-search",
+    "tags": [
+      "music"
+    ],
+    "price": "£13.60",
+    "description": "Indie/slowcore band Cusk in the Shacklewell's intimate back room — a classic small east London pub gig. Doors 7:30pm.",
+    "neighbourhood": "Dalston",
+    "cycle_minutes": 14,
+    "id": "cusk-at-the-shacklewell-arms-749ffc53",
+    "added": "2026-07-23"
+  },
+  {
+    "title": "Ecotherapy Workshop with Dr. Adrian Harris",
+    "start": "2026-08-29T11:00:00+01:00",
+    "end": "2026-08-29T16:30:00+01:00",
+    "venue": "Hampstead Heath (meeting point on booking)",
+    "address": null,
+    "url": "https://dandelion.events/e/b1i7b",
+    "source": "listing:dandelion",
+    "tags": [
+      "workshop",
+      "outdoors"
+    ],
+    "price": "£45-60",
+    "description": "Full-day nature-connection workshop capped at 10 participants: embodied, sensory practices to slow down and reconnect with the more-than-human world. Bring outdoor clothing, a sit-mat and food to share.",
+    "neighbourhood": "Hampstead",
+    "cycle_minutes": 40,
+    "id": "ecotherapy-workshop-with-dr-adrian-harris-5d60c81a",
+    "added": "2026-07-23"
   },
   {
     "title": "Panorama 2026 — UK National Steelband Competition",
@@ -1598,6 +1672,46 @@
     "cycle_minutes": 12,
     "id": "hovvdy-esme-emerson-at-moth-club-01a60ebf",
     "added": "2026-07-22"
+  },
+  {
+    "title": "Notting Hill Carnival 60th — J'ouvert & Family Day",
+    "start": "2026-08-30T10:00:00+01:00",
+    "end": "2026-08-30T19:00:00+01:00",
+    "venue": "Streets of Notting Hill (W10/W11)",
+    "address": "Notting Hill / Ladbroke Grove",
+    "url": "https://nhcarnival.org/updates/notting-hill-carnival-2026",
+    "source": "keyword-search",
+    "tags": [
+      "festival",
+      "music",
+      "outdoors"
+    ],
+    "price": "Free",
+    "description": "Diamond Jubilee edition of Europe's biggest street festival: J'ouvert from 6am, opening ceremony 10am, Children's Day parade, sound systems and stages 12-7pm (72-second Grenfell silence at 3pm).",
+    "neighbourhood": "Notting Hill",
+    "cycle_minutes": 45,
+    "id": "notting-hill-carnival-60th-j-ouvert-family-day-a591844d",
+    "added": "2026-07-23"
+  },
+  {
+    "title": "Notting Hill Carnival 60th — Grand Parade",
+    "start": "2026-08-31T10:30:00+01:00",
+    "end": "2026-08-31T19:00:00+01:00",
+    "venue": "Streets of Notting Hill (W10/W11)",
+    "address": "Notting Hill / Ladbroke Grove",
+    "url": "https://nhcarnival.org/updates/notting-hill-carnival-2026",
+    "source": "keyword-search",
+    "tags": [
+      "festival",
+      "music",
+      "outdoors"
+    ],
+    "price": "Free",
+    "description": "Bank holiday Monday grand parade of the 60th-anniversary Carnival: the full adults' mas parade from 10:30am, sound systems and live stages until 7pm.",
+    "neighbourhood": "Notting Hill",
+    "cycle_minutes": 45,
+    "id": "notting-hill-carnival-60th-grand-parade-6c912932",
+    "added": "2026-07-23"
   },
   {
     "title": "Monday Contact Improv: Class + Jam — autumn season opener",
