@@ -5,34 +5,6 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:London Events
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
-UID:ics-4d43d638d5f9@london-events
-DTSTAMP:20260720T180000Z
-DTSTART:20260720T180000Z
-DTEND:20260720T190000Z
-SUMMARY:LISA Presents: Andrew Draganov - AIs\, AGI\, and what it might do
-DESCRIPTION:Get up-to-date information at: https://luma.com/ygkitm6h\n\nAd
- dress:\nLondon Initiative for Safe AI (LISA)\nLondon\, United Kingdom\n\n
- Hosted by LISA\nhttps://api.lu.ma/ics/get?entity=calendar&id=cal-EIg2kZGm
- ZGWkWcW
-URL:https://api.lu.ma/ics/get?entity=calendar&id=cal-EIg2kZGmZGWkWcW
-LOCATION:London Initiative for Safe AI (LISA)\, 25 Holywell Row\, London E
- C2A 4XE\, UK
-END:VEVENT
-BEGIN:VEVENT
-UID:monday-contact-improv-class-jam-7a4e6d07@london-events
-DTSTAMP:20260720T173000Z
-DTSTART:20260720T173000Z
-DTEND:20260720T193000Z
-SUMMARY:Monday Contact Improv: Class + Jam
-DESCRIPTION:Marie Chabert teaches a thematic CI class with somatic guided 
- exploration\, partner work and technique\, followed by a 45-60 minute ope
- n jam. Explicitly welcomes beginners through to seasoned professionals\; 
- doors 6:20pm.\nPrice: Sliding scale £12-£20\nhttps://bookwhen.com/marie
- chabert/e/ev-so6jw-20260720183000
-URL:https://bookwhen.com/mariechabert/e/ev-so6jw-20260720183000
-LOCATION:Rose Lipman Building\, 43 De Beauvoir Road\, N1 5SQ
-END:VEVENT
-BEGIN:VEVENT
 UID:ics-f8c9f003bcf6@london-events
 DTSTAMP:20260721T160000Z
 DTSTART:20260721T160000Z
