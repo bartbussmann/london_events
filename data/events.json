@@ -1637,6 +1637,25 @@
     "added": "2026-07-23"
   },
   {
+    "title": "Authentic Relating & Conscious Connections — Exploring Meaning & Aliveness",
+    "start": "2026-09-06T12:45:00+01:00",
+    "end": "2026-09-06T16:15:00+01:00",
+    "venue": "Zen Yoga",
+    "address": "Camberwell Grove, SE5",
+    "url": "https://dandelion.events/e/c0ym3",
+    "source": "listing:dandelion",
+    "tags": [
+      "workshop",
+      "community"
+    ],
+    "price": "£28-£38",
+    "description": "Experiential authentic-relating and circling-style workshop with AR games, mindfulness and embodied connection exercises from Authentic Relating Experience. In-person AR is rare in London — book ahead.",
+    "neighbourhood": "Camberwell",
+    "cycle_minutes": 33,
+    "id": "authentic-relating-conscious-connections-exploring-meaning-a-c5ef2c11",
+    "added": "2026-07-24"
+  },
+  {
     "title": "Monday Contact Improv: Class + Jam — autumn season opener",
     "start": "2026-09-07T18:30:00+01:00",
     "end": "2026-09-07T20:30:00+01:00",
@@ -1654,5 +1673,25 @@
     "cycle_minutes": 8,
     "id": "monday-contact-improv-class-jam-autumn-season-opener-65e37bfe",
     "added": "2026-07-22"
+  },
+  {
+    "title": "Knees Up Cecil Sharp Ceilidh (autumn opener)",
+    "start": "2026-09-18T20:00:00+01:00",
+    "end": "2026-09-18T23:00:00+01:00",
+    "venue": "Cecil Sharp House",
+    "address": "2 Regent's Park Road, NW1 7AY",
+    "url": "https://www.efdss.org/whats-on/27-dances/15766-knees-up-cecil-sharp-ceilidh-2026",
+    "source": "keyword-search",
+    "tags": [
+      "dance",
+      "music",
+      "community"
+    ],
+    "price": "£15 (£10 concessions)",
+    "description": "The monthly English ceilidh at the home of folk dance, with live band and expert caller, beginners welcome. Verified on the official EFDSS page as the autumn season opener.",
+    "neighbourhood": "Primrose Hill",
+    "cycle_minutes": 32,
+    "id": "knees-up-cecil-sharp-ceilidh-autumn-opener-4fe28dea",
+    "added": "2026-07-24"
   }
 ]
