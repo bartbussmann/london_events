@@ -5,59 +5,6 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:London Events
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
-UID:ics-f8c9f003bcf6@london-events
-DTSTAMP:20260721T160000Z
-DTSTART:20260721T160000Z
-DTEND:20260721T170000Z
-SUMMARY:CLR Summer Fellowship Speaker Series: Andy Gordon (Timaeus)
-DESCRIPTION:Get up-to-date information at: https://luma.com/7siqf8me\n\nAd
- dress:\nLondon Initiative for Safe AI (LISA)\nLondon\, United Kingdom\n\n
- Hosted by Center on Long-term Risk & LISA\nhttps://api.lu.ma/ics/get?enti
- ty=calendar&id=cal-EIg2kZGmZGWkWcW
-URL:https://api.lu.ma/ics/get?entity=calendar&id=cal-EIg2kZGmZGWkWcW
-LOCATION:London Initiative for Safe AI (LISA)\, 25 Holywell Row\, London E
- C2A 4XE\, UK
-END:VEVENT
-BEGIN:VEVENT
-UID:thursday-singles-pottery-night-1012a791@london-events
-DTSTAMP:20260721T173000Z
-DTSTART:20260721T173000Z
-DTEND:20260721T193000Z
-SUMMARY:Thursday: Singles Pottery Night
-DESCRIPTION:Singles pottery-painting night by the Thursday dating app — 
- dating plus a hands-on craft in one evening.\nPrice: from £15\nhttps://w
- ww.thursday.com/events/london/ffcd0b17-8985-4721-9d95-cf444ced5832
-URL:https://www.thursday.com/events/london/ffcd0b17-8985-4721-9d95-cf444ce
- d5832
-LOCATION:Pottery Café\, Battersea\, Battersea
-END:VEVENT
-BEGIN:VEVENT
-UID:thought-experiments-in-pubs-living-with-tech-3e4a2f8d@london-events
-DTSTAMP:20260721T180000Z
-DTSTART:20260721T180000Z
-DTEND:20260721T200000Z
-SUMMARY:Thought Experiments in Pubs: Living with Tech
-DESCRIPTION:Small-group discussion evening exploring technology and AI thr
- ough thought experiments and rotating conversations.\nhttps://www.meetup.
- com/thought-experiments-in-pubs/events/315452000/
-URL:https://www.meetup.com/thought-experiments-in-pubs/events/315452000/
-LOCATION:Newspeak House\, 133-135 Bethnal Green Road\, E2 7DG
-END:VEVENT
-BEGIN:VEVENT
-UID:big-dork-summer-coach-party-at-sebright-arms-17b5f6a7@london-events
-DTSTAMP:20260721T183000Z
-DTSTART:20260721T183000Z
-DTEND:20260721T203000Z
-SUMMARY:Big Dork Summer: Coach Party at Sebright Arms
-DESCRIPTION:Isle of Wight indie-rockers Coach Party play an up-close basem
- ent show as part of the Big Dork Summer series at this Bethnal Green pub 
- venue.\nPrice: £19.25\nhttps://dice.fm/event/7dggn7-big-dork-summer-coac
- h-party-21st-jul-sebright-arms-london-tickets
-URL:https://dice.fm/event/7dggn7-big-dork-summer-coach-party-21st-jul-sebr
- ight-arms-london-tickets
-LOCATION:Sebright Arms\, 31-35 Coate Street\, Bethnal Green\, E2 9AG
-END:VEVENT
-BEGIN:VEVENT
 UID:ics-baedf66515a1@london-events
 DTSTAMP:20260722T160000Z
 DTSTART:20260722T160000Z
