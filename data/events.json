@@ -1033,6 +1033,25 @@
     "added": "2026-07-20"
   },
   {
+    "title": "Heart & Cacao — ceremonial cacao, breathwork & sound",
+    "start": "2026-08-09T15:30:00+01:00",
+    "end": "2026-08-09T18:00:00+01:00",
+    "venue": "Studio Iris",
+    "address": "61 Amhurst Road, E8",
+    "url": "https://dandelion.events/e/t9a2e",
+    "source": "listing:dandelion",
+    "tags": [
+      "workshop",
+      "community"
+    ],
+    "price": "£28-£30",
+    "description": "Sunday-afternoon ceremonial gathering with Peruvian/Ghanaian cacao, breathwork, EFT tapping, sound healing and a sharing circle. Open to all, in a small Hackney studio.",
+    "neighbourhood": "Hackney Central",
+    "cycle_minutes": 13,
+    "id": "heart-cacao-ceremonial-cacao-breathwork-sound-57046cb7",
+    "added": "2026-07-25"
+  },
+  {
     "title": "Simply Being 5Rhythms New Moon Eclipse Garden Special",
     "start": "2026-08-12T18:30:00+01:00",
     "end": "2026-08-12T21:00:00+01:00",
@@ -1050,6 +1069,25 @@
     "added": "2026-07-05",
     "neighbourhood": "Herne Hill",
     "cycle_minutes": 45
+  },
+  {
+    "title": "Thursday: 30+ Singles Dinner & Aperols at Jamie Oliver's",
+    "start": "2026-08-12T19:00:00+01:00",
+    "end": "2026-08-12T22:00:00+01:00",
+    "venue": "Jamie Oliver Catherine St (Pavilion Room)",
+    "address": "6 Catherine St, WC2B 5JY",
+    "url": "https://www.thursday.com/events/5d324ca5-43ce-42f9-a80a-3e68f20d5d23",
+    "source": "listing:thursday-dating",
+    "tags": [
+      "food",
+      "community"
+    ],
+    "price": "£15 + £25 set menu",
+    "description": "Long-table singles dinner (30+, mixed) in the private Pavilion Room, with £5 spritzes on the terrace. Roughly 90% come solo; arrive before 19:15.",
+    "neighbourhood": "Covent Garden",
+    "cycle_minutes": 25,
+    "id": "thursday-30-singles-dinner-aperols-at-jamie-oliver-s-a655fc50",
+    "added": "2026-07-25"
   },
   {
     "title": "Jeffrey Silverstein + Bobby Lee at MOTH Club",
@@ -1257,6 +1295,25 @@
     "added": "2026-07-19"
   },
   {
+    "title": "Thursday: Book Club for Singles at Bàrd Books",
+    "start": "2026-08-20T19:00:00+01:00",
+    "end": "2026-08-20T22:00:00+01:00",
+    "venue": "Bàrd Books",
+    "address": "341-343 Roman Rd, Bow, E3 5QR",
+    "url": "https://www.thursday.com/events/66312fe1-125d-4b68-acd9-53f6ac552d20",
+    "source": "listing:thursday-dating",
+    "tags": [
+      "community",
+      "talk"
+    ],
+    "price": "£15",
+    "description": "Mixed-singles book club at the Roman Road bookshop-bar, discussing Jem Calder's 'I Want You To Be Happy' over drinks. Read the book beforehand; last entry 19:15.",
+    "neighbourhood": "Bow / Roman Road",
+    "cycle_minutes": 8,
+    "id": "thursday-book-club-for-singles-at-b-rd-books-091abd19",
+    "added": "2026-07-25"
+  },
+  {
     "title": "Breathwork, Harmonizing Sound and Sacred Cacao Ceremony",
     "start": "2026-08-21T18:00:00+01:00",
     "end": "2026-08-21T21:00:00+01:00",
@@ -1425,6 +1482,43 @@
     "cycle_minutes": 14,
     "id": "cusk-at-the-shacklewell-arms-749ffc53",
     "added": "2026-07-23"
+  },
+  {
+    "title": "SC/SH August Weekender Day 1 at The Old Blue Last",
+    "start": "2026-08-28T18:00:00+01:00",
+    "end": "2026-08-28T22:30:00+01:00",
+    "venue": "The Old Blue Last",
+    "address": "38 Great Eastern Street, EC2A 3ES",
+    "url": "https://dice.fm/event/yowppr-scsh-august-weekender-2026-day-1-28th-aug-the-old-blue-last-london-tickets",
+    "source": "keyword-search",
+    "tags": [
+      "music"
+    ],
+    "price": "from £11.22",
+    "description": "Scream/Shout's annual end-of-August small-band weekender upstairs at the Old Blue Last: five emo/slacker/post-hardcore acts they've discovered over the past year. Day 2 follows Saturday.",
+    "neighbourhood": "Shoreditch",
+    "cycle_minutes": 7,
+    "id": "sc-sh-august-weekender-day-1-at-the-old-blue-last-5611004f",
+    "added": "2026-07-25"
+  },
+  {
+    "title": "Introduction to Bookbinding at London Centre for Book Arts",
+    "start": "2026-08-29T10:00:00+01:00",
+    "end": "2026-08-29T17:30:00+01:00",
+    "venue": "London Centre for Book Arts",
+    "address": "56 Dace Road, E3 2NQ",
+    "url": "https://londonbookarts.org/collections/workshops/products/introduction-to-bookbinding-1-pamphlets-concertinas-japanese-stab-bindings-29-08-2026",
+    "source": "keyword-search",
+    "tags": [
+      "workshop",
+      "art"
+    ],
+    "price": "£150 (materials included)",
+    "description": "Full-day beginners' bookbinding workshop at the artist-run LCBA studio on Fish Island: hand-make pamphlet, concertina and Japanese stab-bound books to take home.",
+    "neighbourhood": "Fish Island / Hackney Wick",
+    "cycle_minutes": 14,
+    "id": "introduction-to-bookbinding-at-london-centre-for-book-arts-14717119",
+    "added": "2026-07-25"
   },
   {
     "title": "Ecotherapy Workshop with Dr. Adrian Harris",

@@ -771,6 +771,19 @@ URL:https://www.thursday.com/events/london/0b998088-f735-4461-a727-1575c38
 LOCATION:Fonda\, 12 Heddon St\, W1B 4BZ
 END:VEVENT
 BEGIN:VEVENT
+UID:heart-cacao-ceremonial-cacao-breathwork-sound-57046cb7@london-events
+DTSTAMP:20260809T143000Z
+DTSTART:20260809T143000Z
+DTEND:20260809T170000Z
+SUMMARY:Heart & Cacao — ceremonial cacao\, breathwork & sound
+DESCRIPTION:Sunday-afternoon ceremonial gathering with Peruvian/Ghanaian c
+ acao\, breathwork\, EFT tapping\, sound healing and a sharing circle. Ope
+ n to all\, in a small Hackney studio.\nPrice: £28-£30\nhttps://dandelio
+ n.events/e/t9a2e
+URL:https://dandelion.events/e/t9a2e
+LOCATION:Studio Iris\, 61 Amhurst Road\, E8
+END:VEVENT
+BEGIN:VEVENT
 UID:simply-being-5rhythms-new-moon-eclipse-garden-special-19fd876c@london-
  events
 DTSTAMP:20260812T173000Z
@@ -783,6 +796,21 @@ DESCRIPTION:Outdoor new-moon eclipse 5Rhythms garden special with Richard
 URL:https://www.5rhythms.com/classes/SimplyBeingRhythmsNewMoonEclipseGarde
  nSpecial-298605
 LOCATION:Brockwell Park Gardens\, Brockwell Park\, SE24 9BJ
+END:VEVENT
+BEGIN:VEVENT
+UID:thursday-30-singles-dinner-aperols-at-jamie-oliver-s-a655fc50@london-e
+ vents
+DTSTAMP:20260812T180000Z
+DTSTART:20260812T180000Z
+DTEND:20260812T210000Z
+SUMMARY:Thursday: 30+ Singles Dinner & Aperols at Jamie Oliver's
+DESCRIPTION:Long-table singles dinner (30+\, mixed) in the private Pavilio
+ n Room\, with £5 spritzes on the terrace. Roughly 90% come solo\; arrive
+  before 19:15.\nPrice: £15 + £25 set menu\nhttps://www.thursday.com/eve
+ nts/5d324ca5-43ce-42f9-a80a-3e68f20d5d23
+URL:https://www.thursday.com/events/5d324ca5-43ce-42f9-a80a-3e68f20d5d23
+LOCATION:Jamie Oliver Catherine St (Pavilion Room)\, 6 Catherine St\, WC2B
+  5JY
 END:VEVENT
 BEGIN:VEVENT
 UID:jeffrey-silverstein-bobby-lee-at-moth-club-594c159a@london-events
@@ -941,6 +969,19 @@ URL:https://www.songkick.com/concerts/43309048-devon-again-at-moth-club
 LOCATION:MOTH Club\, Old Trades Hall\, Valette Street\, E9 6NU
 END:VEVENT
 BEGIN:VEVENT
+UID:thursday-book-club-for-singles-at-b-rd-books-091abd19@london-events
+DTSTAMP:20260820T180000Z
+DTSTART:20260820T180000Z
+DTEND:20260820T210000Z
+SUMMARY:Thursday: Book Club for Singles at Bàrd Books
+DESCRIPTION:Mixed-singles book club at the Roman Road bookshop-bar\, discu
+ ssing Jem Calder's 'I Want You To Be Happy' over drinks. Read the book be
+ forehand\; last entry 19:15.\nPrice: £15\nhttps://www.thursday.com/event
+ s/66312fe1-125d-4b68-acd9-53f6ac552d20
+URL:https://www.thursday.com/events/66312fe1-125d-4b68-acd9-53f6ac552d20
+LOCATION:Bàrd Books\, 341-343 Roman Rd\, Bow\, E3 5QR
+END:VEVENT
+BEGIN:VEVENT
 UID:breathwork-harmonizing-sound-and-sacred-cacao-ceremony-0991360c@london
  -events
 DTSTAMP:20260821T170000Z
@@ -1060,6 +1101,38 @@ DESCRIPTION:Indie/slowcore band Cusk in the Shacklewell's intimate back ro
 URL:https://dice.fm/event/2wy5am-cusk-27th-aug-the-shacklewell-arms-london
  -tickets
 LOCATION:The Shacklewell Arms\, 71 Shacklewell Lane\, E8 2EB
+END:VEVENT
+BEGIN:VEVENT
+UID:sc-sh-august-weekender-day-1-at-the-old-blue-last-5611004f@london-even
+ ts
+DTSTAMP:20260828T170000Z
+DTSTART:20260828T170000Z
+DTEND:20260828T213000Z
+SUMMARY:SC/SH August Weekender Day 1 at The Old Blue Last
+DESCRIPTION:Scream/Shout's annual end-of-August small-band weekender upsta
+ irs at the Old Blue Last: five emo/slacker/post-hardcore acts they've dis
+ covered over the past year. Day 2 follows Saturday.\nPrice: from £11.22\
+ nhttps://dice.fm/event/yowppr-scsh-august-weekender-2026-day-1-28th-aug-t
+ he-old-blue-last-london-tickets
+URL:https://dice.fm/event/yowppr-scsh-august-weekender-2026-day-1-28th-aug
+ -the-old-blue-last-london-tickets
+LOCATION:The Old Blue Last\, 38 Great Eastern Street\, EC2A 3ES
+END:VEVENT
+BEGIN:VEVENT
+UID:introduction-to-bookbinding-at-london-centre-for-book-arts-14717119@lo
+ ndon-events
+DTSTAMP:20260829T090000Z
+DTSTART:20260829T090000Z
+DTEND:20260829T163000Z
+SUMMARY:Introduction to Bookbinding at London Centre for Book Arts
+DESCRIPTION:Full-day beginners' bookbinding workshop at the artist-run LCB
+ A studio on Fish Island: hand-make pamphlet\, concertina and Japanese sta
+ b-bound books to take home.\nPrice: £150 (materials included)\nhttps://l
+ ondonbookarts.org/collections/workshops/products/introduction-to-bookbind
+ ing-1-pamphlets-concertinas-japanese-stab-bindings-29-08-2026
+URL:https://londonbookarts.org/collections/workshops/products/introduction
+ -to-bookbinding-1-pamphlets-concertinas-japanese-stab-bindings-29-08-2026
+LOCATION:London Centre for Book Arts\, 56 Dace Road\, E3 2NQ
 END:VEVENT
 BEGIN:VEVENT
 UID:ecotherapy-workshop-with-dr-adrian-harris-5d60c81a@london-events
