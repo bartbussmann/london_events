@@ -5,59 +5,6 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:London Events
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
-UID:shroomshop-mushroom-cultivation-workshop-41045551@london-events
-DTSTAMP:20260723T173000Z
-DTSTART:20260723T173000Z
-DTEND:20260723T203000Z
-SUMMARY:Shroomshop: Mushroom Cultivation Workshop
-DESCRIPTION:Hands-on evening workshop covering grain spawn\, fruiting tubs
-  and aftercare for growing gourmet mushrooms at home\; everyone leaves wi
- th their own grow kit.\nPrice: £50 (£40 low income)\nhttps://dandelion.
- events/e/w96p3
-URL:https://dandelion.events/e/w96p3
-LOCATION:Love Shack\, Cambridge Heath Road\, E2
-END:VEVENT
-BEGIN:VEVENT
-UID:thursday-singles-night-new-venue-shoreditch-6f044090@london-events
-DTSTAMP:20260723T180000Z
-DTSTART:20260723T180000Z
-DTEND:20260723T200000Z
-SUMMARY:Thursday: Singles Night — new venue\, Shoreditch
-DESCRIPTION:Singles night by the Thursday dating app at a just-opened Shor
- editch venue.\nPrice: from £12\nhttps://www.thursday.com/events/london/f
- e2afa8a-45cb-4ddf-b07a-97d71668270b
-URL:https://www.thursday.com/events/london/fe2afa8a-45cb-4ddf-b07a-97d7166
- 8270b
-LOCATION:91-92 Great Eastern St\, 91-92 Great Eastern Street\, EC2A 3HZ
-END:VEVENT
-BEGIN:VEVENT
-UID:dancing-freedom-in-the-woods-0bb92af1@london-events
-DTSTAMP:20260723T180000Z
-DTSTART:20260723T180000Z
-DTEND:20260723T200000Z
-SUMMARY:Dancing Freedom in the Woods
-DESCRIPTION:Substance-free ecstatic dance in a Hackney Wick woodland with 
- a DJ-led wave through expansive musical genres\, closing with a fireside 
- gathering for integration and connection.\nPrice: £8-£20 sliding scale\
- nhttps://dandelion.events/e/l9gtn
-URL:https://dandelion.events/e/l9gtn
-LOCATION:Woodland\, Hackney Wick (exact spot shared on booking)
-END:VEVENT
-BEGIN:VEVENT
-UID:dancing-awareness-meditation-spontaneous-movement-ba982cd4@london-even
- ts
-DTSTAMP:20260723T180000Z
-DTSTART:20260723T180000Z
-DTEND:20260723T202000Z
-SUMMARY:Dancing Awareness — meditation & spontaneous movement
-DESCRIPTION:An hour of group contemplative practice followed by an hour of
-  free spontaneous movement to a wide-ranging soundtrack — a meditation-
- meets-ecstatic-dance evening in Clerkenwell. Tonight.\nPrice: £10-20 sli
- ding scale\nhttps://dandelion.events/e/p3i05
-URL:https://dandelion.events/e/p3i05
-LOCATION:The Meditatio Centre\, Myddelton Square\, EC1R 1XX
-END:VEVENT
-BEGIN:VEVENT
 UID:hyper-japan-festival-2026-4da2d67a@london-events
 DTSTAMP:20260724T110000Z
 DTSTART:20260724T110000Z
