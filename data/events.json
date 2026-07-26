@@ -716,6 +716,24 @@
     "added": "2026-07-20"
   },
   {
+    "title": "EYOE Recommends: Lonnie Gunn + John 4eva + Tertia (free, for War Child)",
+    "start": "2026-08-04T19:00:00+01:00",
+    "end": null,
+    "venue": "The Shacklewell Arms",
+    "address": "71 Shacklewell Lane, E8 2EB",
+    "url": "https://concerts50.com/venues/united-kingdom/london/the-shacklewell-arms",
+    "source": "keyword-search",
+    "tags": [
+      "music"
+    ],
+    "price": "Free entry (donations to War Child)",
+    "description": "Free indie showcase night at the Shacklewell Arms with rising acts Lonnie Gunn, John 4eva and Tertia, raising money for War Child. First come, first served.",
+    "neighbourhood": "Dalston",
+    "cycle_minutes": 13,
+    "id": "eyoe-recommends-lonnie-gunn-john-4eva-tertia-free-for-war-ch-279f43a1",
+    "added": "2026-07-26"
+  },
+  {
     "id": "ics-2f702e4fcb34",
     "title": "CLR Summer Fellowship Speaker Series: Chi Nguyen (Redwood Research)",
     "start": "2026-08-05T16:00:00+00:00",
@@ -1238,6 +1256,25 @@
     "added": "2026-07-25"
   },
   {
+    "title": "Dancing Awareness — meditation & spontaneous movement (20 Aug)",
+    "start": "2026-08-20T19:00:00+01:00",
+    "end": "2026-08-20T21:20:00+01:00",
+    "venue": "The Meditatio Centre",
+    "address": "Myddelton Square, EC1R 1XX",
+    "url": "https://dandelion.events/e/a6a8o",
+    "source": "listing:dandelion",
+    "tags": [
+      "dance",
+      "class"
+    ],
+    "price": "£10-£20 sliding scale",
+    "description": "An hour of group meditation on awareness followed by an hour of free, spontaneous movement to varied music — conscious dance in a quiet Clerkenwell square.",
+    "neighbourhood": "Clerkenwell",
+    "cycle_minutes": 16,
+    "id": "dancing-awareness-meditation-spontaneous-movement-20-aug-9b202ab2",
+    "added": "2026-07-26"
+  },
+  {
     "title": "Breathwork, Harmonizing Sound and Sacred Cacao Ceremony",
     "start": "2026-08-21T18:00:00+01:00",
     "end": "2026-08-21T21:00:00+01:00",
@@ -1562,6 +1599,43 @@
     "added": "2026-07-23"
   },
   {
+    "title": "Campaign Lab Summer Hack Night",
+    "start": "2026-08-31T19:00:00+01:00",
+    "end": "2026-08-31T22:00:00+01:00",
+    "venue": "Newspeak House",
+    "address": "133 Bethnal Green Road, E2 7DG",
+    "url": "https://luma.com/e0gtnzhq",
+    "source": "venue:newspeak-house",
+    "tags": [
+      "tech",
+      "community"
+    ],
+    "price": "Free (register)",
+    "description": "Bank holiday Monday edition of Campaign Lab's hack night — technologists and campaigners working on progressive election-tech projects; bring a laptop, snacks provided.",
+    "neighbourhood": "Bethnal Green",
+    "cycle_minutes": 4,
+    "id": "campaign-lab-summer-hack-night-212c774a",
+    "added": "2026-07-26"
+  },
+  {
+    "title": "Saturday Night Singles Party (ages 30-50) — True Dating",
+    "start": "2026-09-05T18:30:00+01:00",
+    "end": null,
+    "venue": "The Folly",
+    "address": "41 Gracechurch St, EC3V 0BT",
+    "url": "https://truedating.co.uk/events/saturday-night-singles-party-5-sep-2026",
+    "source": "keyword-search",
+    "tags": [
+      "community"
+    ],
+    "price": "£20",
+    "description": "Professionally hosted mixed singles social at The Folly near Monument, pitched at genuine conversation rather than a loud club night.",
+    "neighbourhood": "City of London",
+    "cycle_minutes": 14,
+    "id": "saturday-night-singles-party-ages-30-50-true-dating-2b255eba",
+    "added": "2026-07-26"
+  },
+  {
     "title": "Authentic Relating & Conscious Connections — Exploring Meaning & Aliveness",
     "start": "2026-09-06T12:45:00+01:00",
     "end": "2026-09-06T16:15:00+01:00",
@@ -1598,6 +1672,24 @@
     "cycle_minutes": 8,
     "id": "monday-contact-improv-class-jam-autumn-season-opener-65e37bfe",
     "added": "2026-07-22"
+  },
+  {
+    "title": "Shoreditch Speed Dating @ Be At One (ages 23-35) — September",
+    "start": "2026-09-10T18:30:00+01:00",
+    "end": null,
+    "venue": "Be At One, Shoreditch",
+    "address": "348 Old Street, EC1V 9NQ",
+    "url": "https://truedating.co.uk/events/shoreditch-speed-dating-10-sep-2026",
+    "source": "keyword-search",
+    "tags": [
+      "community"
+    ],
+    "price": "£10 (early bird)",
+    "description": "True Dating's Shoreditch speed dating night, 15-20 mini-dates of 4-5 minutes with a break halfway; arrive 15-30 min before the 6:30pm start.",
+    "neighbourhood": "Shoreditch",
+    "cycle_minutes": 7,
+    "id": "shoreditch-speed-dating-be-at-one-ages-23-35-september-89364a24",
+    "added": "2026-07-26"
   },
   {
     "title": "Knees Up Cecil Sharp Ceilidh (autumn opener)",

@@ -534,6 +534,22 @@ URL:https://www.thursday.com/events/london/da4678c4-9c97-4466-9aed-92c7e1a
 LOCATION:Bat & Ball Covent Garden\, 50 Earlham St\, WC2H 9LJ
 END:VEVENT
 BEGIN:VEVENT
+UID:eyoe-recommends-lonnie-gunn-john-4eva-tertia-free-for-war-ch-279f43a1@
+ london-events
+DTSTAMP:20260804T180000Z
+DTSTART:20260804T180000Z
+DTEND:20260804T200000Z
+SUMMARY:EYOE Recommends: Lonnie Gunn + John 4eva + Tertia (free\, for War 
+ Child)
+DESCRIPTION:Free indie showcase night at the Shacklewell Arms with rising 
+ acts Lonnie Gunn\, John 4eva and Tertia\, raising money for War Child. Fi
+ rst come\, first served.\nPrice: Free entry (donations to War Child)\nhtt
+ ps://concerts50.com/venues/united-kingdom/london/the-shacklewell-arms
+URL:https://concerts50.com/venues/united-kingdom/london/the-shacklewell-ar
+ ms
+LOCATION:The Shacklewell Arms\, 71 Shacklewell Lane\, E8 2EB
+END:VEVENT
+BEGIN:VEVENT
 UID:ics-2f702e4fcb34@london-events
 DTSTAMP:20260805T160000Z
 DTSTART:20260805T160000Z
@@ -929,6 +945,20 @@ URL:https://www.thursday.com/events/66312fe1-125d-4b68-acd9-53f6ac552d20
 LOCATION:Bàrd Books\, 341-343 Roman Rd\, Bow\, E3 5QR
 END:VEVENT
 BEGIN:VEVENT
+UID:dancing-awareness-meditation-spontaneous-movement-20-aug-9b202ab2@lond
+ on-events
+DTSTAMP:20260820T180000Z
+DTSTART:20260820T180000Z
+DTEND:20260820T202000Z
+SUMMARY:Dancing Awareness — meditation & spontaneous movement (20 Aug)
+DESCRIPTION:An hour of group meditation on awareness followed by an hour o
+ f free\, spontaneous movement to varied music — conscious dance in a qu
+ iet Clerkenwell square.\nPrice: £10-£20 sliding scale\nhttps://dandelio
+ n.events/e/a6a8o
+URL:https://dandelion.events/e/a6a8o
+LOCATION:The Meditatio Centre\, Myddelton Square\, EC1R 1XX
+END:VEVENT
+BEGIN:VEVENT
 UID:breathwork-harmonizing-sound-and-sacred-cacao-ceremony-0991360c@london
  -events
 DTSTAMP:20260821T170000Z
@@ -1162,6 +1192,34 @@ URL:https://nhcarnival.org/updates/notting-hill-carnival-2026
 LOCATION:Streets of Notting Hill (W10/W11)\, Notting Hill / Ladbroke Grove
 END:VEVENT
 BEGIN:VEVENT
+UID:campaign-lab-summer-hack-night-212c774a@london-events
+DTSTAMP:20260831T180000Z
+DTSTART:20260831T180000Z
+DTEND:20260831T210000Z
+SUMMARY:Campaign Lab Summer Hack Night
+DESCRIPTION:Bank holiday Monday edition of Campaign Lab's hack night — t
+ echnologists and campaigners working on progressive election-tech project
+ s\; bring a laptop\, snacks provided.\nPrice: Free (register)\nhttps://lu
+ ma.com/e0gtnzhq
+URL:https://luma.com/e0gtnzhq
+LOCATION:Newspeak House\, 133 Bethnal Green Road\, E2 7DG
+END:VEVENT
+BEGIN:VEVENT
+UID:saturday-night-singles-party-ages-30-50-true-dating-2b255eba@london-ev
+ ents
+DTSTAMP:20260905T173000Z
+DTSTART:20260905T173000Z
+DTEND:20260905T193000Z
+SUMMARY:Saturday Night Singles Party (ages 30-50) — True Dating
+DESCRIPTION:Professionally hosted mixed singles social at The Folly near M
+ onument\, pitched at genuine conversation rather than a loud club night.\
+ nPrice: £20\nhttps://truedating.co.uk/events/saturday-night-singles-part
+ y-5-sep-2026
+URL:https://truedating.co.uk/events/saturday-night-singles-party-5-sep-202
+ 6
+LOCATION:The Folly\, 41 Gracechurch St\, EC3V 0BT
+END:VEVENT
+BEGIN:VEVENT
 UID:authentic-relating-conscious-connections-exploring-meaning-a-c5ef2c11@
  london-events
 DTSTAMP:20260906T114500Z
@@ -1189,6 +1247,20 @@ DESCRIPTION:Marie Chabert's weekly Monday CI class + jam resumes after the
  t/e/ev-s9d4m-20260907183000
 URL:https://bookwhen.com/mariechabert/e/ev-s9d4m-20260907183000
 LOCATION:Rose Lipman Building\, 43 De Beauvoir Road\, N1 5SQ
+END:VEVENT
+BEGIN:VEVENT
+UID:shoreditch-speed-dating-be-at-one-ages-23-35-september-89364a24@london
+ -events
+DTSTAMP:20260910T173000Z
+DTSTART:20260910T173000Z
+DTEND:20260910T193000Z
+SUMMARY:Shoreditch Speed Dating @ Be At One (ages 23-35) — September
+DESCRIPTION:True Dating's Shoreditch speed dating night\, 15-20 mini-dates
+  of 4-5 minutes with a break halfway\; arrive 15-30 min before the 6:30pm
+  start.\nPrice: £10 (early bird)\nhttps://truedating.co.uk/events/shored
+ itch-speed-dating-10-sep-2026
+URL:https://truedating.co.uk/events/shoreditch-speed-dating-10-sep-2026
+LOCATION:Be At One\, Shoreditch\, 348 Old Street\, EC1V 9NQ
 END:VEVENT
 BEGIN:VEVENT
 UID:knees-up-cecil-sharp-ceilidh-autumn-opener-4fe28dea@london-events
