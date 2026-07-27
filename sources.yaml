@@ -5,12 +5,12 @@
 #   ics:      public calendar feeds, parsed deterministically (most reliable)
 #   venues:   venue/studio websites whose what's-on pages the agent reads
 #   listings: aggregator search/category pages the agent skims
-#   # DICE canonical venue slugs (their venue pages 403 plain fetches; curl with a
-# browser user-agent and follow the 308 redirect): moth-club-43ox, sebright-arms-4mm9,
-# the-shacklewell-arms-z82z, the-victoria-j5wd, paper-dress-vintage-ja37,
-# the-old-blue-last-4ryw, sjq-4pqp
-
-keywords: web searches the agent runs to discover new things
+#   keywords: web searches the agent runs to discover new things
+#
+# DICE canonical venue slugs for the east London gig circuit (their venue pages
+# 403 plain fetches; curl with a browser user-agent and follow the 308 redirect):
+#   moth-club-43ox, sebright-arms-4mm9, the-shacklewell-arms-z82z, the-victoria-j5wd,
+#   paper-dress-vintage-ja37, the-old-blue-last-4ryw, sjq-4pqp
 
 ics:
   - name: LISA (London Initiative for Safe AI)
