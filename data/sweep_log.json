@@ -1,5 +1,11 @@
 [
   {
+    "ran_at": "2026-07-27T07:50:00+01:00",
+    "added": 4,
+    "considered": 85,
+    "notes": "Daily sweep, September gig-circuit retry — SUCCESS via DICE canonical slugs (recorded in sources.yaml). ICS: 0 new; 6 pruned (part 1). Added: Carson McHone alt-country at Shacklewell (25 Aug), Sean McVerry at Old Blue Last + WARBY at SJQ (both 2 Sep), Automatic at MOTH (3 Sep). Caught Hovvdy duplicate (note: its price rose £11 -> £25, early tiers selling). MOTION 5Rhythms 24 Aug still fails verified-date rule (recurring-Mondays page, no dated listing). Kirtan (11-13 Sep) and Simply Being 5Rhythms (25 Sep) queued for when window reaches them."
+  },
+  {
     "ran_at": "2026-07-26T07:55:00+01:00",
     "added": 5,
     "considered": 43,

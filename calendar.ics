@@ -954,6 +954,21 @@ URL:https://dandelion.events/e/a7khm
 LOCATION:Bunhill Fields Quaker Meeting House\, Quaker Court\, EC1Y 8QQ
 END:VEVENT
 BEGIN:VEVENT
+UID:carson-mchone-birds-flying-backwards-at-the-shacklewell-arms-ef41f4c7@
+ london-events
+DTSTAMP:20260825T183000Z
+DTSTART:20260825T183000Z
+DTEND:20260825T220000Z
+SUMMARY:Carson McHone + Birds Flying Backwards at The Shacklewell Arms
+DESCRIPTION:Austin-raised alt-country/folk songwriter Carson McHone (Loose
+  Music) plays an intimate 200-cap back-room show with support from Birds 
+ Flying Backwards.\nPrice: £15.90\nhttps://dice.fm/event/92ke3o-carson-mc
+ hone-birds-flying-backwards-25th-aug-the-shacklewell-arms-london-tickets
+URL:https://dice.fm/event/92ke3o-carson-mchone-birds-flying-backwards-25th
+ -aug-the-shacklewell-arms-london-tickets
+LOCATION:The Shacklewell Arms\, 71 Shacklewell Lane\, E8 2EB
+END:VEVENT
+BEGIN:VEVENT
 UID:fantasy-of-a-broken-heart-at-the-shacklewell-arms-4f9b5bcc@london-even
  ts
 DTSTAMP:20260826T180000Z
@@ -1119,6 +1134,47 @@ DESCRIPTION:Bank holiday Monday edition of Campaign Lab's hack night — t
  ma.com/e0gtnzhq
 URL:https://luma.com/e0gtnzhq
 LOCATION:Newspeak House\, 133 Bethnal Green Road\, E2 7DG
+END:VEVENT
+BEGIN:VEVENT
+UID:sean-mcverry-sametime-tom-high-at-the-old-blue-last-bbe3e1c1@london-ev
+ ents
+DTSTAMP:20260902T183000Z
+DTSTART:20260902T183000Z
+DTEND:20260902T220000Z
+SUMMARY:Sean McVerry + Sametime + Tom High at The Old Blue Last
+DESCRIPTION:Alt-indie soloist Sean McVerry headlines the upstairs room of 
+ Shoreditch's classic pub venue\, with Sametime and Tom High in support.\n
+ Price: £13.50\nhttps://dice.fm/event/bboqwv-sean-mcverry-2nd-sep-the-old
+ -blue-last-london-tickets
+URL:https://dice.fm/event/bboqwv-sean-mcverry-2nd-sep-the-old-blue-last-lo
+ ndon-tickets
+LOCATION:The Old Blue Last\, 38 Great Eastern Street\, EC2A 3ES
+END:VEVENT
+BEGIN:VEVENT
+UID:warby-debut-album-show-at-sjq-ee657411@london-events
+DTSTAMP:20260902T183000Z
+DTSTART:20260902T183000Z
+DTEND:20260902T220000Z
+SUMMARY:WARBY — debut album show at SJQ
+DESCRIPTION:Singer-songwriter WARBY plays songs from his debut album in a 
+ 75-cap Dalston listening room\, with proceeds benefitting Music Support.\
+ nPrice: £11.36\nhttps://dice.fm/event/bbon3o-warby-2nd-sep-sjq-london-ti
+ ckets
+URL:https://dice.fm/event/bbon3o-warby-2nd-sep-sjq-london-tickets
+LOCATION:Servant Jazz Quarters\, 10A Bradbury Street\, N16 8JN
+END:VEVENT
+BEGIN:VEVENT
+UID:automatic-at-moth-club-82a8d6a0@london-events
+DTSTAMP:20260903T183000Z
+DTSTART:20260903T183000Z
+DTEND:20260903T213000Z
+SUMMARY:Automatic at MOTH Club
+DESCRIPTION:LA post-punk/synth trio Automatic bring their taut\, motorik g
+ rooves to an intimate MOTH Club headline show.\nPrice: £20.21\nhttps://d
+ ice.fm/event/dk2836-automatic-3rd-sep-moth-club-london-tickets
+URL:https://dice.fm/event/dk2836-automatic-3rd-sep-moth-club-london-ticket
+ s
+LOCATION:MOTH Club\, Old Trades Hall\, Valette Street\, E9 6NU
 END:VEVENT
 BEGIN:VEVENT
 UID:saturday-night-singles-party-ages-30-50-true-dating-2b255eba@london-ev

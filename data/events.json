@@ -1278,6 +1278,24 @@
     "added": "2026-07-22"
   },
   {
+    "title": "Carson McHone + Birds Flying Backwards at The Shacklewell Arms",
+    "start": "2026-08-25T19:30:00+01:00",
+    "end": "2026-08-25T23:00:00+01:00",
+    "venue": "The Shacklewell Arms",
+    "address": "71 Shacklewell Lane, E8 2EB",
+    "url": "https://dice.fm/event/92ke3o-carson-mchone-birds-flying-backwards-25th-aug-the-shacklewell-arms-london-tickets",
+    "source": "keyword-search",
+    "tags": [
+      "music"
+    ],
+    "price": "£15.90",
+    "description": "Austin-raised alt-country/folk songwriter Carson McHone (Loose Music) plays an intimate 200-cap back-room show with support from Birds Flying Backwards.",
+    "neighbourhood": "Dalston",
+    "cycle_minutes": 13,
+    "id": "carson-mchone-birds-flying-backwards-at-the-shacklewell-arms-ef41f4c7",
+    "added": "2026-07-27"
+  },
+  {
     "title": "Fantasy of a Broken Heart at The Shacklewell Arms",
     "start": "2026-08-26T19:00:00+01:00",
     "end": null,
@@ -1504,6 +1522,60 @@
     "cycle_minutes": 4,
     "id": "campaign-lab-summer-hack-night-212c774a",
     "added": "2026-07-26"
+  },
+  {
+    "title": "Sean McVerry + Sametime + Tom High at The Old Blue Last",
+    "start": "2026-09-02T19:30:00+01:00",
+    "end": "2026-09-02T23:00:00+01:00",
+    "venue": "The Old Blue Last",
+    "address": "38 Great Eastern Street, EC2A 3ES",
+    "url": "https://dice.fm/event/bboqwv-sean-mcverry-2nd-sep-the-old-blue-last-london-tickets",
+    "source": "keyword-search",
+    "tags": [
+      "music"
+    ],
+    "price": "£13.50",
+    "description": "Alt-indie soloist Sean McVerry headlines the upstairs room of Shoreditch's classic pub venue, with Sametime and Tom High in support.",
+    "neighbourhood": "Shoreditch",
+    "cycle_minutes": 7,
+    "id": "sean-mcverry-sametime-tom-high-at-the-old-blue-last-bbe3e1c1",
+    "added": "2026-07-27"
+  },
+  {
+    "title": "WARBY — debut album show at SJQ",
+    "start": "2026-09-02T19:30:00+01:00",
+    "end": "2026-09-02T23:00:00+01:00",
+    "venue": "Servant Jazz Quarters",
+    "address": "10A Bradbury Street, N16 8JN",
+    "url": "https://dice.fm/event/bbon3o-warby-2nd-sep-sjq-london-tickets",
+    "source": "keyword-search",
+    "tags": [
+      "music"
+    ],
+    "price": "£11.36",
+    "description": "Singer-songwriter WARBY plays songs from his debut album in a 75-cap Dalston listening room, with proceeds benefitting Music Support.",
+    "neighbourhood": "Dalston",
+    "cycle_minutes": 14,
+    "id": "warby-debut-album-show-at-sjq-ee657411",
+    "added": "2026-07-27"
+  },
+  {
+    "title": "Automatic at MOTH Club",
+    "start": "2026-09-03T19:30:00+01:00",
+    "end": "2026-09-03T22:30:00+01:00",
+    "venue": "MOTH Club",
+    "address": "Old Trades Hall, Valette Street, E9 6NU",
+    "url": "https://dice.fm/event/dk2836-automatic-3rd-sep-moth-club-london-tickets",
+    "source": "keyword-search",
+    "tags": [
+      "music"
+    ],
+    "price": "£20.21",
+    "description": "LA post-punk/synth trio Automatic bring their taut, motorik grooves to an intimate MOTH Club headline show.",
+    "neighbourhood": "Hackney Central",
+    "cycle_minutes": 12,
+    "id": "automatic-at-moth-club-82a8d6a0",
+    "added": "2026-07-27"
   },
   {
     "title": "Saturday Night Singles Party (ages 30-50) — True Dating",
