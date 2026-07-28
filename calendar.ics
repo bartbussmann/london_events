@@ -142,6 +142,19 @@ URL:https://dice.fm/event/nv6mp9-lau-ro-30th-jul-sjq-london-tickets
 LOCATION:Servant Jazz Quarters\, 10A Bradbury Street\, N16 8JN
 END:VEVENT
 BEGIN:VEVENT
+UID:t-w-c-thursday-waves-weekly-5rhythms-class-af163fd4@london-events
+DTSTAMP:20260730T190000Z
+DTSTART:20260730T190000Z
+DTEND:20260730T210000Z
+SUMMARY:T.W.C (Thursday Waves) — weekly 5Rhythms class
+DESCRIPTION:Long-running weekly 5Rhythms wave taught by Jason Rowe with co
+ mmunity teachers\, in the graceful space of St Luke's Church Holloway. Dr
+ op-in only\, no pre-booking.\nPrice: £11-20 sliding scale\, pay on door\
+ nhttps://www.5rhythms.com/classes/ThursdayWaves-329
+URL:https://www.5rhythms.com/classes/ThursdayWaves-329
+LOCATION:St Luke's Church\, Hillmarton Road\, N7 9RE
+END:VEVENT
+BEGIN:VEVENT
 UID:heart-circle-pause-reconnect-explore-7f5af2db@london-events
 DTSTAMP:20260731T170000Z
 DTSTART:20260731T170000Z
@@ -582,6 +595,20 @@ URL:https://dandelion.events/e/t9a2e
 LOCATION:Studio Iris\, 61 Amhurst Road\, E8
 END:VEVENT
 BEGIN:VEVENT
+UID:life-drawing-in-the-attic-at-hackney-picturehouse-16d08d42@london-even
+ ts
+DTSTAMP:20260811T180000Z
+DTSTART:20260811T180000Z
+DTEND:20260811T200000Z
+SUMMARY:Life Drawing in the attic at Hackney Picturehouse
+DESCRIPTION:Relaxed Tuesday-evening drop-in life drawing in the cinema att
+ ic\; materials\, easels and refreshments provided\, all levels welcome. S
+ essions pause 25 Aug and 1 Sept.\nPrice: £12.50 advance / £15 door\nhtt
+ ps://lifedrawing.art/
+URL:https://lifedrawing.art/
+LOCATION:Hackney Picturehouse (attic)\, 270 Mare Street\, E8 1HE
+END:VEVENT
+BEGIN:VEVENT
 UID:simply-being-5rhythms-new-moon-eclipse-garden-special-19fd876c@london-
  events
 DTSTAMP:20260812T173000Z
@@ -753,6 +780,21 @@ DESCRIPTION:Vermont indie/alt-country songwriter Greg Freeman\; first of t
 URL:https://dice.fm/event/nvdwlq-greg-freeman-18th-aug-moth-club-london-ti
  ckets
 LOCATION:MOTH Club\, Old Trades Hall\, Valette Street\, E9 6NU
+END:VEVENT
+BEGIN:VEVENT
+UID:m-trik-earth-krautrock-live-at-paper-dress-vintage-0b232778@london-eve
+ nts
+DTSTAMP:20260819T183000Z
+DTSTART:20260819T183000Z
+DTEND:20260819T220000Z
+SUMMARY:Møtrik — 'EARTH' krautrock live at Paper Dress Vintage
+DESCRIPTION:Portland five-piece Møtrik bring their fourth album EARTH —
+  a celestial journey through motorik krautrock\, synths and kosmische pro
+ pulsion.\nhttps://dice.fm/event/bbrg7x-mtrik-19th-aug-paper-dress-vintage
+ -london-tickets
+URL:https://dice.fm/event/bbrg7x-mtrik-19th-aug-paper-dress-vintage-london
+ -tickets
+LOCATION:Paper Dress Vintage\, 352a Mare Street\, E8 1HR
 END:VEVENT
 BEGIN:VEVENT
 UID:devon-again-at-moth-club-bceb3518@london-events
@@ -1094,6 +1136,48 @@ DESCRIPTION:LA post-punk/synth trio Automatic bring their taut\, motorik g
 URL:https://dice.fm/event/dk2836-automatic-3rd-sep-moth-club-london-ticket
  s
 LOCATION:MOTH Club\, Old Trades Hall\, Valette Street\, E9 6NU
+END:VEVENT
+BEGIN:VEVENT
+UID:lina-sounds-undiagnosed-ep-release-janayah-5e90c1e4@london-events
+DTSTAMP:20260903T183000Z
+DTSTART:20260903T183000Z
+DTEND:20260903T220000Z
+SUMMARY:lina sounds: 'undiagnosed' EP release + JANAYAH
+DESCRIPTION:London alt/indie-pop and RnB artist lina sounds launches her s
+ econd EP with an intimate live show\, support from genre-blurring opener 
+ JANAYAH.\nhttps://dice.fm/event/q2qopp-lina-sounds-undiagnosed-3rd-sep-pa
+ per-dress-vintage-london-tickets
+URL:https://dice.fm/event/q2qopp-lina-sounds-undiagnosed-3rd-sep-paper-dre
+ ss-vintage-london-tickets
+LOCATION:Paper Dress Vintage\, 352a Mare Street\, E8 1HR
+END:VEVENT
+BEGIN:VEVENT
+UID:surrendered-singing-sauna-3e56d527@london-events
+DTSTAMP:20260904T170000Z
+DTSTART:20260904T170000Z
+DTEND:20260904T203000Z
+SUMMARY:Surrendered Singing + Sauna
+DESCRIPTION:Emergent group singing with no songs and no experience needed\
+ , followed by a sauna and quiet sharing. NOTE: the listing shows 2am-6am 
+ due to a timezone entry bug\; the description confirms 6pm-9:30pm — con
+ firm with the organiser before booking.\nPrice: £8-25 sliding scale + £
+ 5 sauna\nhttps://dandelion.events/e/u5eq7
+URL:https://dandelion.events/e/u5eq7
+LOCATION:Plot 9 area\, Maze Hill\, Maze Hill\, Greenwich
+END:VEVENT
+BEGIN:VEVENT
+UID:uyen-luu-s-vietnamese-supper-club-september-opener-6893ca87@london-eve
+ nts
+DTSTAMP:20260904T180000Z
+DTSTART:20260904T180000Z
+DTEND:20260904T210000Z
+SUMMARY:Uyen Luu's Vietnamese Supper Club — September opener
+DESCRIPTION:Eight-course homemade Vietnamese feast at a shared long table 
+ in Uyen Luu's London Fields studio\; book via the form on her site.\nPric
+ e: £60\nhttps://www.uyenluu.com/supper-club-vietnamese-london/
+URL:https://www.uyenluu.com/supper-club-vietnamese-london/
+LOCATION:Uyen Luu's studio (address emailed after booking)\, near 8 Andrew
+ s Road\, E8 4QN
 END:VEVENT
 BEGIN:VEVENT
 UID:saturday-night-singles-party-ages-30-50-true-dating-2b255eba@london-ev

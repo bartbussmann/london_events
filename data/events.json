@@ -190,6 +190,25 @@
     "added": "2026-07-15"
   },
   {
+    "title": "T.W.C (Thursday Waves) — weekly 5Rhythms class",
+    "start": "2026-07-30T20:00:00+01:00",
+    "end": "2026-07-30T22:00:00+01:00",
+    "venue": "St Luke's Church",
+    "address": "Hillmarton Road, N7 9RE",
+    "url": "https://www.5rhythms.com/classes/ThursdayWaves-329",
+    "source": "keyword-search",
+    "tags": [
+      "dance",
+      "class"
+    ],
+    "price": "£11-20 sliding scale, pay on door",
+    "description": "Long-running weekly 5Rhythms wave taught by Jason Rowe with community teachers, in the graceful space of St Luke's Church Holloway. Drop-in only, no pre-booking.",
+    "neighbourhood": "Holloway",
+    "cycle_minutes": 24,
+    "id": "t-w-c-thursday-waves-weekly-5rhythms-class-af163fd4",
+    "added": "2026-07-28"
+  },
+  {
     "title": "Heart Circle — pause, reconnect & explore",
     "start": "2026-07-31T18:00:00+01:00",
     "end": "2026-07-31T20:00:00+01:00",
@@ -767,6 +786,25 @@
     "added": "2026-07-25"
   },
   {
+    "title": "Life Drawing in the attic at Hackney Picturehouse",
+    "start": "2026-08-11T19:00:00+01:00",
+    "end": null,
+    "venue": "Hackney Picturehouse (attic)",
+    "address": "270 Mare Street, E8 1HE",
+    "url": "https://lifedrawing.art/",
+    "source": "keyword-search",
+    "tags": [
+      "art",
+      "class"
+    ],
+    "price": "£12.50 advance / £15 door",
+    "description": "Relaxed Tuesday-evening drop-in life drawing in the cinema attic; materials, easels and refreshments provided, all levels welcome. Sessions pause 25 Aug and 1 Sept.",
+    "neighbourhood": "Hackney Central",
+    "cycle_minutes": 10,
+    "id": "life-drawing-in-the-attic-at-hackney-picturehouse-16d08d42",
+    "added": "2026-07-28"
+  },
+  {
     "title": "Simply Being 5Rhythms New Moon Eclipse Garden Special",
     "start": "2026-08-12T18:30:00+01:00",
     "end": "2026-08-12T21:00:00+01:00",
@@ -990,6 +1028,24 @@
     "cycle_minutes": 12,
     "id": "greg-freeman-at-moth-club-a73c9379",
     "added": "2026-07-15"
+  },
+  {
+    "title": "Møtrik — 'EARTH' krautrock live at Paper Dress Vintage",
+    "start": "2026-08-19T19:30:00+01:00",
+    "end": "2026-08-19T23:00:00+01:00",
+    "venue": "Paper Dress Vintage",
+    "address": "352a Mare Street, E8 1HR",
+    "url": "https://dice.fm/event/bbrg7x-mtrik-19th-aug-paper-dress-vintage-london-tickets",
+    "source": "keyword-search",
+    "tags": [
+      "music"
+    ],
+    "price": null,
+    "description": "Portland five-piece Møtrik bring their fourth album EARTH — a celestial journey through motorik krautrock, synths and kosmische propulsion.",
+    "neighbourhood": "Hackney Central",
+    "cycle_minutes": 11,
+    "id": "m-trik-earth-krautrock-live-at-paper-dress-vintage-0b232778",
+    "added": "2026-07-28"
   },
   {
     "title": "Devon Again at MOTH Club",
@@ -1461,6 +1517,63 @@
     "cycle_minutes": 12,
     "id": "automatic-at-moth-club-82a8d6a0",
     "added": "2026-07-27"
+  },
+  {
+    "title": "lina sounds: 'undiagnosed' EP release + JANAYAH",
+    "start": "2026-09-03T19:30:00+01:00",
+    "end": "2026-09-03T23:00:00+01:00",
+    "venue": "Paper Dress Vintage",
+    "address": "352a Mare Street, E8 1HR",
+    "url": "https://dice.fm/event/q2qopp-lina-sounds-undiagnosed-3rd-sep-paper-dress-vintage-london-tickets",
+    "source": "keyword-search",
+    "tags": [
+      "music"
+    ],
+    "price": null,
+    "description": "London alt/indie-pop and RnB artist lina sounds launches her second EP with an intimate live show, support from genre-blurring opener JANAYAH.",
+    "neighbourhood": "Hackney Central",
+    "cycle_minutes": 11,
+    "id": "lina-sounds-undiagnosed-ep-release-janayah-5e90c1e4",
+    "added": "2026-07-28"
+  },
+  {
+    "title": "Surrendered Singing + Sauna",
+    "start": "2026-09-04T18:00:00+01:00",
+    "end": "2026-09-04T21:30:00+01:00",
+    "venue": "Plot 9 area, Maze Hill",
+    "address": "Maze Hill, Greenwich",
+    "url": "https://dandelion.events/e/u5eq7",
+    "source": "listing:dandelion",
+    "tags": [
+      "music",
+      "community",
+      "workshop"
+    ],
+    "price": "£8-25 sliding scale + £5 sauna",
+    "description": "Emergent group singing with no songs and no experience needed, followed by a sauna and quiet sharing. NOTE: the listing shows 2am-6am due to a timezone entry bug; the description confirms 6pm-9:30pm — confirm with the organiser before booking.",
+    "neighbourhood": "Greenwich",
+    "cycle_minutes": 30,
+    "id": "surrendered-singing-sauna-3e56d527",
+    "added": "2026-07-28"
+  },
+  {
+    "title": "Uyen Luu's Vietnamese Supper Club — September opener",
+    "start": "2026-09-04T19:00:00+01:00",
+    "end": "2026-09-04T22:00:00+01:00",
+    "venue": "Uyen Luu's studio (address emailed after booking)",
+    "address": "near 8 Andrews Road, E8 4QN",
+    "url": "https://www.uyenluu.com/supper-club-vietnamese-london/",
+    "source": "keyword-search",
+    "tags": [
+      "food",
+      "community"
+    ],
+    "price": "£60",
+    "description": "Eight-course homemade Vietnamese feast at a shared long table in Uyen Luu's London Fields studio; book via the form on her site.",
+    "neighbourhood": "London Fields",
+    "cycle_minutes": 8,
+    "id": "uyen-luu-s-vietnamese-supper-club-september-opener-6893ca87",
+    "added": "2026-07-28"
   },
   {
     "title": "Saturday Night Singles Party (ages 30-50) — True Dating",
