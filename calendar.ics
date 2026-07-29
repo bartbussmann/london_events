@@ -5,48 +5,6 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:London Events
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
-UID:summer-sundays-at-victoria-park-bandstand-hackney-community--49c1b87a@
- london-events
-DTSTAMP:20260726T123000Z
-DTSTART:20260726T123000Z
-DTEND:20260726T150000Z
-SUMMARY:Summer Sundays at Victoria Park Bandstand: Hackney Community Orche
- stra + Disco Lizards
-DESCRIPTION:Free Sunday bandstand session with the Hackney Community Orche
- stra and Disco Lizards — picnic-blanket format in the park.\nPrice: Fre
- e\nhttps://www.towerhamletsarts.org.uk/?cid=81261
-URL:https://www.towerhamletsarts.org.uk/?cid=81261
-LOCATION:Victoria Park Bandstand\, Victoria Park\, Grove Road\, E3
-END:VEVENT
-BEGIN:VEVENT
-UID:garden-gigs-sidney-jones-cry-99-pigeon-dog-9c3a3a73@london-events
-DTSTAMP:20260726T130000Z
-DTSTART:20260726T130000Z
-DTEND:20260726T160000Z
-SUMMARY:Garden Gigs: Sidney Jones / Cry 99 / Pigeon Dog
-DESCRIPTION:Free Sunday-afternoon outdoor session in The Victoria's pub ga
- rden — part of a summer-long Garden Gigs series (2-5pm every Sunday) wi
- th three up-and-coming live acts.\nPrice: Free\nhttps://dice.fm/event/pyn
- 98y-garden-gigs-sidney-jones-cry-99-pigeon-dog-26th-jul-the-victoria-lond
- on-tickets
-URL:https://dice.fm/event/pyn98y-garden-gigs-sidney-jones-cry-99-pigeon-do
- g-26th-jul-the-victoria-london-tickets
-LOCATION:The Victoria\, 451 Kingsland Road\, Dalston\, E8 4AU
-END:VEVENT
-BEGIN:VEVENT
-UID:resistance-ecstatic-dance-yoga-5e97af28@london-events
-DTSTAMP:20260726T160000Z
-DTSTART:20260726T160000Z
-DTEND:20260726T200000Z
-SUMMARY:Resistance Ecstatic Dance & Yoga
-DESCRIPTION:Sunday evening freeform ecstatic dance journey at a Greenwich 
- garden plot with opening circle\, guided warmup and a wind-down around th
- e bonfire with tea and snacks.\nPrice: £15-£20 (somatic yoga +£5)\nhtt
- ps://dandelion.events/e/resistance-july
-URL:https://dandelion.events/e/resistance-july
-LOCATION:Plot 9 Maze Hill\, Restell Close\, Greenwich\, SE3
-END:VEVENT
-BEGIN:VEVENT
 UID:motion-london-5rhythms-movement-gathering-f7f56017@london-events
 DTSTAMP:20260727T173000Z
 DTSTART:20260727T173000Z
