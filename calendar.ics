@@ -144,6 +144,18 @@ LOCATION:R&H Cafe Gallery\, 84 Abingdon Villas\, Kensington\, London W8 6X
  B
 END:VEVENT
 BEGIN:VEVENT
+UID:sound-bath-ihridaya-eka-d53e172b@london-events
+DTSTAMP:20260731T181500Z
+DTSTART:20260731T181500Z
+DTEND:20260731T192000Z
+SUMMARY:Sound Bath — ihridaya & Eka
+DESCRIPTION:Intimate Friday-evening sound bath in a Holloway church — go
+ ngs\, bowls and voice\; small capacity so booking advised.\nPrice: £22\n
+ https://dandelion.events/e/z9a70
+URL:https://dandelion.events/e/z9a70
+LOCATION:St Luke's Church\, Hillmarton Rd\, N7 9RE
+END:VEVENT
+BEGIN:VEVENT
 UID:folk-critique-book-launch-live-sets-e6a37aa9@london-events
 DTSTAMP:20260731T183000Z
 DTSTART:20260731T183000Z
@@ -282,6 +294,34 @@ DESCRIPTION:Monthly outdoor campfire-style singing circle taught by call-a
  n.events/e/l41z7
 URL:https://dandelion.events/e/l41z7
 LOCATION:Plot 9\, Maze Hill\, Restell Close\, Greenwich
+END:VEVENT
+BEGIN:VEVENT
+UID:garden-gigs-at-the-victoria-2-aug-6ff81755@london-events
+DTSTAMP:20260802T140000Z
+DTSTART:20260802T140000Z
+DTEND:20260802T170000Z
+SUMMARY:Garden Gigs at The Victoria — 2 Aug
+DESCRIPTION:Free Sunday-afternoon acoustic sets in the Victoria's beer gar
+ den: The Place It's There + The Sha Sha Shanimals + Hiding.\nPrice: Free\
+ nhttps://dice.fm/event/avrqpq-garden-gigs-the-place-its-there-the-sha-sha
+ -shanimals-hiding-2nd-aug-the-victoria-london-tickets
+URL:https://dice.fm/event/avrqpq-garden-gigs-the-place-its-there-the-sha-s
+ ha-shanimals-hiding-2nd-aug-the-victoria-london-tickets
+LOCATION:The Victoria (garden)\, 451 Queensbridge Rd\, E8 3AS
+END:VEVENT
+BEGIN:VEVENT
+UID:sunday-jazz-at-the-old-blue-last-free-2-aug-2d622617@london-events
+DTSTAMP:20260802T180000Z
+DTSTART:20260802T180000Z
+DTEND:20260802T200000Z
+SUMMARY:Sunday Jazz at The Old Blue Last (free) — 2 Aug
+DESCRIPTION:Free weekly Sunday-evening live jazz session upstairs at the O
+ ld Blue Last — easy\, low-commitment end to the weekend.\nPrice: Free\n
+ https://dice.fm/event/bb236m-sunday-jazz-2nd-aug-the-old-blue-last-london
+ -tickets
+URL:https://dice.fm/event/bb236m-sunday-jazz-2nd-aug-the-old-blue-last-lon
+ don-tickets
+LOCATION:The Old Blue Last\, 38 Great Eastern St\, EC2A 3ES
 END:VEVENT
 BEGIN:VEVENT
 UID:thursday-30-pop-culture-quiz-night-2f24bd38@london-events
@@ -482,6 +522,20 @@ URL:https://dandelion.events/e/d9p3e
 LOCATION:The Sanctuary &Soul\, 114 Cheshire Street\, E2 6EJ
 END:VEVENT
 BEGIN:VEVENT
+UID:angel-comedy-fridays-at-the-bill-murray-c3e4ca81@london-events
+DTSTAMP:20260807T183000Z
+DTSTART:20260807T183000Z
+DTEND:20260807T203000Z
+SUMMARY:Angel Comedy Fridays at The Bill Murray
+DESCRIPTION:Friday-night stand-up showcase at Angel Comedy's 60-seat club-
+ pub\, mixing circuit pros and Edinburgh-bound acts.\nPrice: £11-£13\nht
+ tps://www.angelcomedy.co.uk/event-detail/angel-comedy-fridays-730pm-fri-7
+ th-aug-the-bill-murray-london-tickets-202608071930/
+URL:https://www.angelcomedy.co.uk/event-detail/angel-comedy-fridays-730pm-
+ fri-7th-aug-the-bill-murray-london-tickets-202608071930/
+LOCATION:The Bill Murray\, 39 Queen's Head St\, N1 8NQ
+END:VEVENT
+BEGIN:VEVENT
 UID:backyard-biennial-east-neighbourhood-party-5de7cc97@london-events
 DTSTAMP:20260808T100000Z
 DTSTART:20260808T100000Z
@@ -495,6 +549,18 @@ DESCRIPTION:Free all-day neighbourhood party for the Backyard Biennial: li
 URL:https://www.whitechapelgallery.org/backyardbiennial/
 LOCATION:Whitechapel Gallery + partner venues\, 77-82 Whitechapel High St\
  , E1 7QX (multiple sites)
+END:VEVENT
+BEGIN:VEVENT
+UID:breathe-sound-medicine-9142ae50@london-events
+DTSTAMP:20260808T120000Z
+DTSTART:20260808T120000Z
+DTEND:20260808T150000Z
+SUMMARY:Breathe\, Sound & Medicine
+DESCRIPTION:Saturday-afternoon breathwork and sound journey in Hackney wit
+ h optional ceremonial cacao — a three-hour somatic session\, open to al
+ l.\nPrice: £44\nhttps://dandelion.events/e/o9af5
+URL:https://dandelion.events/e/o9af5
+LOCATION:Private studio\, Hackney (address on booking)
 END:VEVENT
 BEGIN:VEVENT
 UID:jeffrey-alexander-the-heavy-lidders-christina-carter-9eec9c9f@london-e
@@ -539,6 +605,19 @@ URL:https://www.thursday.com/events/london/0b998088-f735-4461-a727-1575c38
 LOCATION:Fonda\, 12 Heddon St\, W1B 4BZ
 END:VEVENT
 BEGIN:VEVENT
+UID:garden-gigs-at-the-victoria-9-aug-ac687dc2@london-events
+DTSTAMP:20260809T140000Z
+DTSTART:20260809T140000Z
+DTEND:20260809T170000Z
+SUMMARY:Garden Gigs at The Victoria — 9 Aug
+DESCRIPTION:Free Sunday-afternoon garden session: Duck Wax + Highstone + P
+ ushchair.\nPrice: Free\nhttps://dice.fm/event/l8k59x-garden-gigs-duck-wax
+ -highstone-pushchair-9th-aug-the-victoria-london-tickets
+URL:https://dice.fm/event/l8k59x-garden-gigs-duck-wax-highstone-pushchair-
+ 9th-aug-the-victoria-london-tickets
+LOCATION:The Victoria (garden)\, 451 Queensbridge Rd\, E8 3AS
+END:VEVENT
+BEGIN:VEVENT
 UID:heart-cacao-ceremonial-cacao-breathwork-sound-57046cb7@london-events
 DTSTAMP:20260809T143000Z
 DTSTART:20260809T143000Z
@@ -550,6 +629,19 @@ DESCRIPTION:Sunday-afternoon ceremonial gathering with Peruvian/Ghanaian c
  n.events/e/t9a2e
 URL:https://dandelion.events/e/t9a2e
 LOCATION:Studio Iris\, 61 Amhurst Road\, E8
+END:VEVENT
+BEGIN:VEVENT
+UID:sunday-jazz-at-the-old-blue-last-free-9-aug-78369763@london-events
+DTSTAMP:20260809T180000Z
+DTSTART:20260809T180000Z
+DTEND:20260809T200000Z
+SUMMARY:Sunday Jazz at The Old Blue Last (free) — 9 Aug
+DESCRIPTION:Free weekly Sunday-evening jazz session at the Old Blue Last.\
+ nPrice: Free\nhttps://dice.fm/event/l8kblr-sunday-jazz-9th-aug-the-old-bl
+ ue-last-london-tickets
+URL:https://dice.fm/event/l8kblr-sunday-jazz-9th-aug-the-old-blue-last-lon
+ don-tickets
+LOCATION:The Old Blue Last\, 38 Great Eastern St\, EC2A 3ES
 END:VEVENT
 BEGIN:VEVENT
 UID:life-drawing-in-the-attic-at-hackney-picturehouse-16d08d42@london-even
@@ -710,6 +802,19 @@ URL:https://ceilidhclub.com/event/london-ceilidh-club-15-8-26-cecil-sharp-
 LOCATION:Cecil Sharp House\, 2 Regent's Park Road\, NW1 7AY
 END:VEVENT
 BEGIN:VEVENT
+UID:sunday-jazz-at-the-old-blue-last-free-16-aug-9bf04d2e@london-events
+DTSTAMP:20260816T180000Z
+DTSTART:20260816T180000Z
+DTEND:20260816T200000Z
+SUMMARY:Sunday Jazz at The Old Blue Last (free) — 16 Aug
+DESCRIPTION:Free weekly Sunday-evening jazz session at the Old Blue Last.\
+ nPrice: Free\nhttps://dice.fm/event/k6labo-sunday-jazz-16th-aug-the-old-b
+ lue-last-london-tickets
+URL:https://dice.fm/event/k6labo-sunday-jazz-16th-aug-the-old-blue-last-lo
+ ndon-tickets
+LOCATION:The Old Blue Last\, 38 Great Eastern St\, EC2A 3ES
+END:VEVENT
+BEGIN:VEVENT
 UID:alexander-technique-an-introduction-city-academy-01d64d8b@london-event
  s
 DTSTAMP:20260817T170000Z
@@ -723,6 +828,18 @@ DESCRIPTION:A 3-hour evening introduction to the Alexander Technique with
 URL:https://www.city-academy.com/alexander-technique-an-introduction
 LOCATION:City Academy\, Farringdon\, 10 Herbal Hill\, Farringdon\, EC1R 5E
  G
+END:VEVENT
+BEGIN:VEVENT
+UID:friko-at-moth-club-d965bd89@london-events
+DTSTAMP:20260817T183000Z
+DTSTART:20260817T183000Z
+DTEND:20260817T203000Z
+SUMMARY:Friko at MOTH Club
+DESCRIPTION:Chicago indie-rock duo Friko bring their cathartic\, string-sw
+ ept songs to MOTH Club's glittering ballroom.\nPrice: £21\nhttps://dice.
+ fm/event/nv5b9q-friko-17th-aug-moth-club-london-tickets
+URL:https://dice.fm/event/nv5b9q-friko-17th-aug-moth-club-london-tickets
+LOCATION:MOTH Club\, Old Trades Hall\, Valette St\, E9 6NU
 END:VEVENT
 BEGIN:VEVENT
 UID:words-from-the-other-side-poetry-as-a-practice-for-altered-s-65debca2@
@@ -861,6 +978,18 @@ URL:https://luma.com/campaign-g74e
 LOCATION:Newspeak House\, 133 Bethnal Green Road\, E2 7DG
 END:VEVENT
 BEGIN:VEVENT
+UID:luminous-conscious-dance-full-moon-edition-85a5b701@london-events
+DTSTAMP:20260822T170000Z
+DTSTART:20260822T170000Z
+DTEND:20260822T200000Z
+SUMMARY:Luminous Conscious Dance — Full Moon Edition
+DESCRIPTION:Full-moon ecstatic/conscious dance journey in a north London c
+ hurch hall — barefoot\, sober\, mixed crowd.\nhttps://dandelion.events/
+ e/c2u9b
+URL:https://dandelion.events/e/c2u9b
+LOCATION:St Mary's Hornsey Rise\, Ashley Rd\, N19 3AF
+END:VEVENT
+BEGIN:VEVENT
 UID:jahnavi-harrison-an-evening-of-kirtan-and-song-cb25ebff@london-events
 DTSTAMP:20260822T173000Z
 DTSTART:20260822T173000Z
@@ -872,6 +1001,48 @@ DESCRIPTION:GRAMMY-nominated devotional artist Jahnavi Harrison leads an e
  ahnavi-harrison
 URL:https://unionchapel.org.uk/whats-on/jahnavi-harrison
 LOCATION:Union Chapel\, Compton Terrace\, N1 2UN
+END:VEVENT
+BEGIN:VEVENT
+UID:angel-comedy-saturdays-at-the-bill-murray-ae2d7a8f@london-events
+DTSTAMP:20260822T180000Z
+DTSTART:20260822T180000Z
+DTEND:20260822T200000Z
+SUMMARY:Angel Comedy Saturdays at The Bill Murray
+DESCRIPTION:Saturday 7pm stand-up showcase at Angel Comedy's dedicated clu
+ b — strong mixed bills in an intimate room\, with a 9pm show after if y
+ ou want to double up.\nPrice: £11-£14\nhttps://www.angelcomedy.co.uk/ev
+ ent-detail/angel-comedy-saturdays-7pm-sat-22nd-aug-the-bill-murray-london
+ -tickets-202608221900/
+URL:https://www.angelcomedy.co.uk/event-detail/angel-comedy-saturdays-7pm-
+ sat-22nd-aug-the-bill-murray-london-tickets-202608221900/
+LOCATION:The Bill Murray\, 39 Queen's Head St\, N1 8NQ
+END:VEVENT
+BEGIN:VEVENT
+UID:garden-gigs-at-the-victoria-23-aug-dc09ca2a@london-events
+DTSTAMP:20260823T140000Z
+DTSTART:20260823T140000Z
+DTEND:20260823T170000Z
+SUMMARY:Garden Gigs at The Victoria — 23 Aug
+DESCRIPTION:Free Sunday-afternoon garden session: Squid Shed + The Home Se
+ rvice + Silver Tabby.\nPrice: Free\nhttps://dice.fm/event/ry8qqv-garden-g
+ igs-squid-shed-the-home-service-silver-tabby-23rd-aug-the-victoria-london
+ -tickets
+URL:https://dice.fm/event/ry8qqv-garden-gigs-squid-shed-the-home-service-s
+ ilver-tabby-23rd-aug-the-victoria-london-tickets
+LOCATION:The Victoria (garden)\, 451 Queensbridge Rd\, E8 3AS
+END:VEVENT
+BEGIN:VEVENT
+UID:sunday-jazz-at-the-old-blue-last-free-23-aug-3ec553bb@london-events
+DTSTAMP:20260823T180000Z
+DTSTART:20260823T180000Z
+DTEND:20260823T200000Z
+SUMMARY:Sunday Jazz at The Old Blue Last (free) — 23 Aug
+DESCRIPTION:Free weekly Sunday-evening jazz session at the Old Blue Last.\
+ nPrice: Free\nhttps://dice.fm/event/g53dg6-sunday-jazz-23rd-aug-the-old-b
+ lue-last-london-tickets
+URL:https://dice.fm/event/g53dg6-sunday-jazz-23rd-aug-the-old-blue-last-lo
+ ndon-tickets
+LOCATION:The Old Blue Last\, 38 Great Eastern St\, EC2A 3ES
 END:VEVENT
 BEGIN:VEVENT
 UID:in-the-neighbourhood-free-community-festival-at-victoria-par-d93d6d10@
@@ -1032,6 +1203,21 @@ DESCRIPTION:Bank holiday Saturday evening learning to tend a fire the old
  : £30-£80 sliding scale\nhttps://dandelion.events/e/v2qwo
 URL:https://dandelion.events/e/v2qwo
 LOCATION:Hackney woodlands (exact location on booking)
+END:VEVENT
+BEGIN:VEVENT
+UID:sc-sh-august-weekender-day-2-at-the-old-blue-last-f96be7ac@london-even
+ ts
+DTSTAMP:20260829T170000Z
+DTSTART:20260829T170000Z
+DTEND:20260829T190000Z
+SUMMARY:SC/SH August Weekender Day 2 at The Old Blue Last
+DESCRIPTION:Saturday closing day of the two-day SC/SH all-dayer of emergin
+ g guitar bands\, pairing with Day 1 already on the calendar.\nPrice: from
+  £11\nhttps://dice.fm/event/xeonnl-scsh-august-weekender-2026-day-2-29th
+ -aug-the-old-blue-last-london-tickets
+URL:https://dice.fm/event/xeonnl-scsh-august-weekender-2026-day-2-29th-aug
+ -the-old-blue-last-london-tickets
+LOCATION:The Old Blue Last\, 38 Great Eastern St\, EC2A 3ES
 END:VEVENT
 BEGIN:VEVENT
 UID:hovvdy-esme-emerson-at-moth-club-01a60ebf@london-events
@@ -1212,6 +1398,18 @@ URL:https://truedating.co.uk/events/saturday-night-singles-party-5-sep-202
 LOCATION:The Folly\, 41 Gracechurch St\, EC3V 0BT
 END:VEVENT
 BEGIN:VEVENT
+UID:luminous-x-sanctuary-soul-conscious-dance-sauna-ab128143@london-events
+DTSTAMP:20260905T173000Z
+DTSTART:20260905T173000Z
+DTEND:20260905T200000Z
+SUMMARY:Luminous x Sanctuary &Soul — conscious dance + sauna
+DESCRIPTION:Luminous conscious dance collaboration at the Cheshire Street 
+ sauna and wellness space — movement journey plus sauna.\nhttps://dandel
+ ion.events/e/f2n6m
+URL:https://dandelion.events/e/f2n6m
+LOCATION:The Sanctuary &Soul\, 114 Cheshire St\, E2 6EJ
+END:VEVENT
+BEGIN:VEVENT
 UID:authentic-relating-conscious-connections-exploring-meaning-a-c5ef2c11@
  london-events
 DTSTAMP:20260906T114500Z
@@ -1308,6 +1506,18 @@ DESCRIPTION:Two full days of congregational kirtan chanting marking the fe
  on-posts/london-mellows-2026/
 URL:https://iskcon.london/iskcon-posts/london-mellows-2026/
 LOCATION:ISKCON London (venue TBC)\, 10 Soho Street\, W1D 3DL
+END:VEVENT
+BEGIN:VEVENT
+UID:heart-circle-september-edition-6fb7d192@london-events
+DTSTAMP:20260912T173000Z
+DTSTART:20260912T173000Z
+DTEND:20260912T193000Z
+SUMMARY:Heart Circle — September edition
+DESCRIPTION:September sitting of the Heart Circle sharing/connection circl
+ e — Saturday evening at the Paper Garden eco-venue.\nhttps://dandelion.
+ events/e/heartcircle-sept26
+URL:https://dandelion.events/e/heartcircle-sept26
+LOCATION:Paper Garden\, Teredo St\, SE16
 END:VEVENT
 BEGIN:VEVENT
 UID:neumatic-parlo-houndshark-at-sebright-arms-b594b411@london-events
