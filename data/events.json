@@ -1650,6 +1650,25 @@
     "added": "2026-07-22"
   },
   {
+    "title": "Campaign Lab Summer Hack Night (7 Sep)",
+    "start": "2026-09-07T19:00:00+01:00",
+    "end": "2026-09-07T22:00:00+01:00",
+    "venue": "Newspeak House",
+    "address": "133 Bethnal Green Road, E2 7DG",
+    "url": "https://luma.com/e0gtnzhq",
+    "source": "venue:newspeak-house",
+    "tags": [
+      "tech",
+      "community"
+    ],
+    "price": "Free",
+    "description": "Bi-weekly civic-tech hack night where technologists, data scientists and campaigners work on progressive election tools; bring a laptop, snacks provided.",
+    "neighbourhood": "Bethnal Green",
+    "cycle_minutes": 4,
+    "id": "campaign-lab-summer-hack-night-7-sep-efc62781",
+    "added": "2026-07-30"
+  },
+  {
     "title": "Shoreditch Speed Dating @ Be At One (ages 23-35) — September",
     "start": "2026-09-10T18:30:00+01:00",
     "end": null,
@@ -1666,6 +1685,100 @@
     "cycle_minutes": 7,
     "id": "shoreditch-speed-dating-be-at-one-ages-23-35-september-89364a24",
     "added": "2026-07-26"
+  },
+  {
+    "title": "Shroomshop: Mushroom Cultivation Workshop (September)",
+    "start": "2026-09-10T18:30:00+01:00",
+    "end": "2026-09-10T21:45:00+01:00",
+    "venue": "Love Shack",
+    "address": "Cambridge Heath Road, E2",
+    "url": "https://dandelion.events/e/n9bz5",
+    "source": "listing:dandelion",
+    "tags": [
+      "workshop",
+      "class"
+    ],
+    "price": "£50 (£40 low income)",
+    "description": "Hands-on evening with Darren Le Baron covering grain spawn, fruiting tubs and aftercare for growing gourmet and medicinal mushrooms; everyone takes home a grow kit.",
+    "neighbourhood": "Bethnal Green",
+    "cycle_minutes": 3,
+    "id": "shroomshop-mushroom-cultivation-workshop-september-8ee33aa4",
+    "added": "2026-07-30"
+  },
+  {
+    "title": "Chant for Love and Peace — kirtan at St Ethelburga's",
+    "start": "2026-09-11T19:00:00+01:00",
+    "end": "2026-09-11T21:30:00+01:00",
+    "venue": "St Ethelburga's Centre",
+    "address": "78 Bishopsgate, EC2N 4AG",
+    "url": "https://www.eventbrite.co.uk/e/chant-for-love-and-peace-tickets-1991516807381",
+    "source": "keyword-search",
+    "tags": [
+      "music",
+      "community"
+    ],
+    "price": null,
+    "description": "Charity kirtan evening of Bhakti chanting led by Sacinandana Swami and Radhika Das; no experience needed, proceeds to humanitarian work.",
+    "neighbourhood": "Bishopsgate",
+    "cycle_minutes": 9,
+    "id": "chant-for-love-and-peace-kirtan-at-st-ethelburga-s-a0d3af86",
+    "added": "2026-07-30"
+  },
+  {
+    "title": "London Mellows 2026 — 10th Anniversary Kirtan Weekend",
+    "start": "2026-09-12T10:00:00+01:00",
+    "end": "2026-09-13T22:00:00+01:00",
+    "venue": "ISKCON London (venue TBC)",
+    "address": "10 Soho Street, W1D 3DL",
+    "url": "https://iskcon.london/iskcon-posts/london-mellows-2026/",
+    "source": "keyword-search",
+    "tags": [
+      "music",
+      "festival",
+      "community"
+    ],
+    "price": null,
+    "description": "Two full days of congregational kirtan chanting marking the festival's 10th anniversary, with guest kirtaniyas from the UK and worldwide. Venue to be confirmed on the ISKCON page.",
+    "neighbourhood": "Soho",
+    "cycle_minutes": 25,
+    "id": "london-mellows-2026-10th-anniversary-kirtan-weekend-c3d6d677",
+    "added": "2026-07-30"
+  },
+  {
+    "title": "Neumatic Parlo + Houndshark at Sebright Arms",
+    "start": "2026-09-14T19:30:00+01:00",
+    "end": null,
+    "venue": "Sebright Arms",
+    "address": "31-35 Coate Street, E2 9AG",
+    "url": "https://www.songkick.com/concerts/43336431-neumatic-parlo-at-sebright-arms",
+    "source": "keyword-search",
+    "tags": [
+      "music"
+    ],
+    "price": null,
+    "description": "Indie double bill in the Sebright Arms basement, doors 19:30; tickets via DICE.",
+    "neighbourhood": "Bethnal Green",
+    "cycle_minutes": 4,
+    "id": "neumatic-parlo-houndshark-at-sebright-arms-b594b411",
+    "added": "2026-07-30"
+  },
+  {
+    "title": "Roxanne de Bastion at Sebright Arms",
+    "start": "2026-09-15T19:30:00+01:00",
+    "end": null,
+    "venue": "Sebright Arms",
+    "address": "31-35 Coate Street, E2 9AG",
+    "url": "https://www.songkick.com/concerts/43324510-roxanne-de-bastion-at-sebright-arms",
+    "source": "keyword-search",
+    "tags": [
+      "music"
+    ],
+    "price": null,
+    "description": "Intimate pub-venue show from folk-leaning singer-songwriter Roxanne de Bastion, doors 19:30; tickets via DICE.",
+    "neighbourhood": "Bethnal Green",
+    "cycle_minutes": 4,
+    "id": "roxanne-de-bastion-at-sebright-arms-9d6aea5b",
+    "added": "2026-07-30"
   },
   {
     "title": "Knees Up Cecil Sharp Ceilidh (autumn opener)",

@@ -1241,6 +1241,18 @@ URL:https://bookwhen.com/mariechabert/e/ev-s9d4m-20260907183000
 LOCATION:Rose Lipman Building\, 43 De Beauvoir Road\, N1 5SQ
 END:VEVENT
 BEGIN:VEVENT
+UID:campaign-lab-summer-hack-night-7-sep-efc62781@london-events
+DTSTAMP:20260907T180000Z
+DTSTART:20260907T180000Z
+DTEND:20260907T210000Z
+SUMMARY:Campaign Lab Summer Hack Night (7 Sep)
+DESCRIPTION:Bi-weekly civic-tech hack night where technologists\, data sci
+ entists and campaigners work on progressive election tools\; bring a lapt
+ op\, snacks provided.\nPrice: Free\nhttps://luma.com/e0gtnzhq
+URL:https://luma.com/e0gtnzhq
+LOCATION:Newspeak House\, 133 Bethnal Green Road\, E2 7DG
+END:VEVENT
+BEGIN:VEVENT
 UID:shoreditch-speed-dating-be-at-one-ages-23-35-september-89364a24@london
  -events
 DTSTAMP:20260910T173000Z
@@ -1253,6 +1265,75 @@ DESCRIPTION:True Dating's Shoreditch speed dating night\, 15-20 mini-dates
  itch-speed-dating-10-sep-2026
 URL:https://truedating.co.uk/events/shoreditch-speed-dating-10-sep-2026
 LOCATION:Be At One\, Shoreditch\, 348 Old Street\, EC1V 9NQ
+END:VEVENT
+BEGIN:VEVENT
+UID:shroomshop-mushroom-cultivation-workshop-september-8ee33aa4@london-eve
+ nts
+DTSTAMP:20260910T173000Z
+DTSTART:20260910T173000Z
+DTEND:20260910T204500Z
+SUMMARY:Shroomshop: Mushroom Cultivation Workshop (September)
+DESCRIPTION:Hands-on evening with Darren Le Baron covering grain spawn\, f
+ ruiting tubs and aftercare for growing gourmet and medicinal mushrooms\; 
+ everyone takes home a grow kit.\nPrice: £50 (£40 low income)\nhttps://d
+ andelion.events/e/n9bz5
+URL:https://dandelion.events/e/n9bz5
+LOCATION:Love Shack\, Cambridge Heath Road\, E2
+END:VEVENT
+BEGIN:VEVENT
+UID:chant-for-love-and-peace-kirtan-at-st-ethelburga-s-a0d3af86@london-eve
+ nts
+DTSTAMP:20260911T180000Z
+DTSTART:20260911T180000Z
+DTEND:20260911T203000Z
+SUMMARY:Chant for Love and Peace — kirtan at St Ethelburga's
+DESCRIPTION:Charity kirtan evening of Bhakti chanting led by Sacinandana S
+ wami and Radhika Das\; no experience needed\, proceeds to humanitarian wo
+ rk.\nhttps://www.eventbrite.co.uk/e/chant-for-love-and-peace-tickets-1991
+ 516807381
+URL:https://www.eventbrite.co.uk/e/chant-for-love-and-peace-tickets-199151
+ 6807381
+LOCATION:St Ethelburga's Centre\, 78 Bishopsgate\, EC2N 4AG
+END:VEVENT
+BEGIN:VEVENT
+UID:london-mellows-2026-10th-anniversary-kirtan-weekend-c3d6d677@london-ev
+ ents
+DTSTAMP:20260912T090000Z
+DTSTART:20260912T090000Z
+DTEND:20260913T210000Z
+SUMMARY:London Mellows 2026 — 10th Anniversary Kirtan Weekend
+DESCRIPTION:Two full days of congregational kirtan chanting marking the fe
+ stival's 10th anniversary\, with guest kirtaniyas from the UK and worldwi
+ de. Venue to be confirmed on the ISKCON page.\nhttps://iskcon.london/iskc
+ on-posts/london-mellows-2026/
+URL:https://iskcon.london/iskcon-posts/london-mellows-2026/
+LOCATION:ISKCON London (venue TBC)\, 10 Soho Street\, W1D 3DL
+END:VEVENT
+BEGIN:VEVENT
+UID:neumatic-parlo-houndshark-at-sebright-arms-b594b411@london-events
+DTSTAMP:20260914T183000Z
+DTSTART:20260914T183000Z
+DTEND:20260914T203000Z
+SUMMARY:Neumatic Parlo + Houndshark at Sebright Arms
+DESCRIPTION:Indie double bill in the Sebright Arms basement\, doors 19:30\
+ ; tickets via DICE.\nhttps://www.songkick.com/concerts/43336431-neumatic-
+ parlo-at-sebright-arms
+URL:https://www.songkick.com/concerts/43336431-neumatic-parlo-at-sebright-
+ arms
+LOCATION:Sebright Arms\, 31-35 Coate Street\, E2 9AG
+END:VEVENT
+BEGIN:VEVENT
+UID:roxanne-de-bastion-at-sebright-arms-9d6aea5b@london-events
+DTSTAMP:20260915T183000Z
+DTSTART:20260915T183000Z
+DTEND:20260915T203000Z
+SUMMARY:Roxanne de Bastion at Sebright Arms
+DESCRIPTION:Intimate pub-venue show from folk-leaning singer-songwriter Ro
+ xanne de Bastion\, doors 19:30\; tickets via DICE.\nhttps://www.songkick.
+ com/concerts/43324510-roxanne-de-bastion-at-sebright-arms
+URL:https://www.songkick.com/concerts/43324510-roxanne-de-bastion-at-sebri
+ ght-arms
+LOCATION:Sebright Arms\, 31-35 Coate Street\, E2 9AG
 END:VEVENT
 BEGIN:VEVENT
 UID:knees-up-cecil-sharp-ceilidh-autumn-opener-4fe28dea@london-events
