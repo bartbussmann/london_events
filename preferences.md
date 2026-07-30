@@ -49,4 +49,8 @@ discovering places — not a tourist checklist.
 ## Practical constraints
 
 - Weekday events should start at 18:00 or later; weekends any time
-- Roughly 3–10 new events per sweep is the sweet spot — quality over quantity
+- BREADTH over strict curation: I want plenty of options each day. Aim for
+  8–15 new events per sweep. Include "decent fits", not only great ones —
+  when in doubt, add it. The hard skips (club nights, tourist traps,
+  mismatched dating demographics, outside London) still apply, but an event
+  only needs to be plausibly appealing, not exceptional

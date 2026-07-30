@@ -26,8 +26,11 @@ interesting upcoming London events and add them to this repo's calendar.
    - Does it match the interests in preferences.md, and none of the "skip" rules?
    - Is the date/time/URL verified on a real page? Never invent or guess dates.
    - Is it already in `data/events.json` (same event, any source)?
-   Only add events you'd genuinely flag to the calendar owner. Prefer adding
-   3–10 great events over 30 mediocre ones. Adding nothing is a valid outcome.
+   Add any event that's a decent fit for the preferences — the owner wants
+   plenty of daily options, so when in doubt, include it. Aim for 8–15
+   additions per sweep when the sources offer them. The hard rules still
+   hold (verified dates only, no invented events, respect the skip list),
+   but "interesting enough" is a low bar, not a high one.
 7. **Write**: append new events to `data/events.json` using the schema below.
 8. **Build**: run `python3 scripts/build.py`. It validates, de-duplicates,
    prunes past events, and regenerates `calendar.ics`. Fix any validation
