@@ -255,6 +255,21 @@ LOCATION:Bonnington Cafe and Community Centre\, 11 Vauxhall Grove\, Vauxha
  ll\, SW8 1TD
 END:VEVENT
 BEGIN:VEVENT
+UID:a-black-axe-mangal-bbq-with-lee-tiernan-96f7e3a8@london-events
+DTSTAMP:20260802T130000Z
+DTSTART:20260802T130000Z
+DTEND:20260802T210000Z
+SUMMARY:A Black Axe Mangal BBQ with Lee Tiernan
+DESCRIPTION:Sunday afternoon BBQ takeover of the George Tavern by Lee Tier
+ nan of cult restaurant Black Axe Mangal — fire-cooked food in one of ea
+ st London's best-loved historic pubs.\nPrice: £25\nhttps://dice.fm/event
+ /8eq6vr-a-black-axe-mangal-bbq-with-lee-tiernan-2nd-aug-the-george-tavern
+ -london-tickets
+URL:https://dice.fm/event/8eq6vr-a-black-axe-mangal-bbq-with-lee-tiernan-2
+ nd-aug-the-george-tavern-london-tickets
+LOCATION:The George Tavern\, 373 Commercial Road\, E1 0LA
+END:VEVENT
+BEGIN:VEVENT
 UID:song-circle-plot-9-90c0b20b@london-events
 DTSTAMP:20260802T140000Z
 DTSTART:20260802T140000Z
@@ -321,6 +336,19 @@ DESCRIPTION:'Haute cuisine in Hackney' — an intimate four-hour supper cl
 URL:https://www.eventbrite.co.uk/e/10-cups-supper-club-tickets-19929647151
  12
 LOCATION:83 Dalston Lane\, 83 Dalston Lane\, E8 2NG
+END:VEVENT
+BEGIN:VEVENT
+UID:big-fat-quizbox-weekly-pub-quiz-at-boxpark-ac3c22e5@london-events
+DTSTAMP:20260803T180000Z
+DTSTART:20260803T180000Z
+DTEND:20260803T200000Z
+SUMMARY:Big Fat Quizbox — weekly pub quiz at Boxpark
+DESCRIPTION:Upbeat Monday-night quiz at Boxpark Shoreditch with teams of u
+ p to 6 and prizes. Runs weekly.\nPrice: £3 per player\nhttps://www.boxpa
+ rk.co.uk/venues/shoreditch/events/big-fat-quizbox-shoreditch
+URL:https://www.boxpark.co.uk/venues/shoreditch/events/big-fat-quizbox-sho
+ reditch
+LOCATION:Boxpark Shoreditch\, 2-10 Bethnal Green Road\, E1 6GY
 END:VEVENT
 BEGIN:VEVENT
 UID:land-and-belonging-josh-schrei-and-alexander-beiner-in-conve-b6d7d807@
@@ -394,6 +422,20 @@ DESCRIPTION:Mixed speed dating for people in their 20s and 30s\, followed
 URL:https://dice.fm/event/bb7yxo-speed-dating-speed-karaoke-5th-aug-moth-c
  lub-london-tickets
 LOCATION:MOTH Club\, Old Trades Hall\, Valette Street\, E9 6NU
+END:VEVENT
+BEGIN:VEVENT
+UID:kismet-board-games-night-d97e6d25@london-events
+DTSTAMP:20260805T180000Z
+DTSTART:20260805T180000Z
+DTEND:20260805T200000Z
+SUMMARY:Kismet Board Games Night
+DESCRIPTION:Sociable midweek board games evening at a friendly Whitechapel
+  café/gallery space — an easy way to meet locals over classic and mode
+ rn games.\nhttps://www.eventbrite.co.uk/e/kismet-board-games-5-august-tic
+ kets-1995701398606
+URL:https://www.eventbrite.co.uk/e/kismet-board-games-5-august-tickets-199
+ 5701398606
+LOCATION:Kismet Café & Gallery\, 104 Cavell Street\, E1 2JA
 END:VEVENT
 BEGIN:VEVENT
 UID:contact-beyond-contact-cbc-workshop-1bde84f7@london-events
@@ -480,6 +522,19 @@ URL:https://dice.fm/event/2wyy6m-amo-amo-nico-georis-6th-aug-paper-dress-v
 LOCATION:Paper Dress Vintage\, 352A Mare Street\, E8 1HR
 END:VEVENT
 BEGIN:VEVENT
+UID:sunset-sessions-open-air-ecstatic-dance-7-aug-edition-296d1793@london-
+ events
+DTSTAMP:20260807T170000Z
+DTSTART:20260807T170000Z
+DTEND:20260807T193000Z
+SUMMARY:Sunset Sessions — open-air ecstatic dance (7 Aug edition)
+DESCRIPTION:Ecstatic Dance London's outdoor summer session with silent-dis
+ co headphones\, cacao\, fruit social and picnic in the park.\nPrice: £13
+ -£18\nhttps://dandelion.events/e/u1tjb
+URL:https://dandelion.events/e/u1tjb
+LOCATION:Regent's Park (meet at Baker Street Station)
+END:VEVENT
+BEGIN:VEVENT
 UID:the-next-chapter-of-psychedelics-with-robin-carhart-harris-a1f54161@lo
  ndon-events
 DTSTAMP:20260807T171500Z
@@ -533,6 +588,21 @@ DESCRIPTION:Saturday-afternoon breathwork and sound journey in Hackney wit
  l.\nPrice: £44\nhttps://dandelion.events/e/o9af5
 URL:https://dandelion.events/e/o9af5
 LOCATION:Private studio\, Hackney (address on booking)
+END:VEVENT
+BEGIN:VEVENT
+UID:exploding-flowers-rachel-love-jowe-head-at-the-waiting-room-ba542db8@l
+ ondon-events
+DTSTAMP:20260808T180000Z
+DTSTART:20260808T180000Z
+DTEND:20260808T210000Z
+SUMMARY:Exploding Flowers + Rachel Love + Jowe Head at The Waiting Room
+DESCRIPTION:Saturday triple bill of jangly indie-pop and post-punk royalty
+  (ex-Dolly Mixture\, ex-Swell Maps) in a 120-cap basement venue.\nPrice: 
+ £11\nhttps://dice.fm/event/mxd6rr-exploding-flowers-rachel-love-jowe-hea
+ ds-infernal-trinity-8th-aug-the-waiting-room-london-tickets
+URL:https://dice.fm/event/mxd6rr-exploding-flowers-rachel-love-jowe-heads-
+ infernal-trinity-8th-aug-the-waiting-room-london-tickets
+LOCATION:The Waiting Room\, 175 Stoke Newington High Street\, N16 0LH
 END:VEVENT
 BEGIN:VEVENT
 UID:jeffrey-alexander-the-heavy-lidders-christina-carter-9eec9c9f@london-e
@@ -644,6 +714,21 @@ URL:https://www.5rhythms.com/classes/SimplyBeingRhythmsNewMoonEclipseGarde
 LOCATION:Brockwell Park Gardens\, Brockwell Park\, SE24 9BJ
 END:VEVENT
 BEGIN:VEVENT
+UID:daisy-rickman-plays-nick-drake-s-guitar-13b31b22@london-events
+DTSTAMP:20260812T173000Z
+DTSTART:20260812T173000Z
+DTEND:20260812T210000Z
+SUMMARY:Daisy Rickman plays Nick Drake's Guitar
+DESCRIPTION:Cornish folk artist Daisy Rickman performs on Nick Drake's own
+  guitar\, presented by folk collective Broadside Hacks — a rare\, intim
+ ate folk event in EartH's atmospheric theatre.\nPrice: from £18\nhttps:/
+ /dice.fm/event/l8dknr-daisy-rickman-plays-nick-drakes-guitar-12th-aug-ear
+ th-london-tickets
+URL:https://dice.fm/event/l8dknr-daisy-rickman-plays-nick-drakes-guitar-12
+ th-aug-earth-london-tickets
+LOCATION:EartH\, 11-17 Stoke Newington Road\, N16 8BP
+END:VEVENT
+BEGIN:VEVENT
 UID:thursday-30-singles-dinner-aperols-at-jamie-oliver-s-a655fc50@london-e
  vents
 DTSTAMP:20260812T180000Z
@@ -729,6 +814,33 @@ DESCRIPTION:Green Note favourites tear through Balkan and Gypsy folk\, hot
  kapelye/
 URL:https://www.greennote.co.uk/production/dunajska-kapelye/
 LOCATION:Green Note\, 106 Parkway\, Camden\, NW1 7AN
+END:VEVENT
+BEGIN:VEVENT
+UID:jenny-don-t-and-the-spurs-at-the-lexington-ae76a6c6@london-events
+DTSTAMP:20260814T183000Z
+DTSTART:20260814T183000Z
+DTEND:20260814T220000Z
+SUMMARY:Jenny Don't And The Spurs at The Lexington
+DESCRIPTION:Portland country-punk outfit bring twangy\, high-energy honky-
+ tonk to the Lexington's upstairs stage on a Friday night.\nPrice: £16.95
+ \nhttps://dice.fm/event/dkmqlo-jenny-dont-and-the-spurs-14th-aug-the-lexi
+ ngton-london-tickets
+URL:https://dice.fm/event/dkmqlo-jenny-dont-and-the-spurs-14th-aug-the-lex
+ ington-london-tickets
+LOCATION:The Lexington\, 96-98 Pentonville Road\, N1 9JB
+END:VEVENT
+BEGIN:VEVENT
+UID:community-walk-sound-bath-reiki-at-hampstead-heath-445c402d@london-eve
+ nts
+DTSTAMP:20260815T100000Z
+DTSTART:20260815T100000Z
+DTEND:20260815T130000Z
+SUMMARY:Community walk + sound bath & reiki at Hampstead Heath
+DESCRIPTION:Saturday group walk across the Heath followed by an outdoor so
+ und bath and reiki session — a sociable\, nature-based summer morning.\
+ nPrice: £26\nhttps://dandelion.events/e/b0x62
+URL:https://dandelion.events/e/b0x62
+LOCATION:Hampstead Heath
 END:VEVENT
 BEGIN:VEVENT
 UID:bengal-to-bethnal-green-grand-union-orchestra-7d88eacb@london-events
@@ -841,6 +953,22 @@ DESCRIPTION:Vermont indie/alt-country songwriter Greg Freeman\; first of t
 URL:https://dice.fm/event/nvdwlq-greg-freeman-18th-aug-moth-club-london-ti
  ckets
 LOCATION:MOTH Club\, Old Trades Hall\, Valette Street\, E9 6NU
+END:VEVENT
+BEGIN:VEVENT
+UID:farewell-transmission-a-celebration-of-jason-molina-812d0a20@london-ev
+ ents
+DTSTAMP:20260819T180000Z
+DTSTART:20260819T180000Z
+DTEND:20260819T220000Z
+SUMMARY:Farewell Transmission: A Celebration of Jason Molina
+DESCRIPTION:Tribute night celebrating the songs of Jason Molina (Songs: Oh
+ ia / Magnolia Electric Co.) with a cast of guest performers — prime ter
+ ritory for melancholic Americana and slowcore folk.\nPrice: from £29.87\
+ nhttps://dice.fm/event/nv52d9--farewell-transmission-a-celebration-of-jas
+ on-molina-19th-aug-earth-london-tickets
+URL:https://dice.fm/event/nv52d9--farewell-transmission-a-celebration-of-j
+ ason-molina-19th-aug-earth-london-tickets
+LOCATION:EartH\, 11-17 Stoke Newington Road\, N16 8BP
 END:VEVENT
 BEGIN:VEVENT
 UID:m-trik-earth-krautrock-live-at-paper-dress-vintage-0b232778@london-eve
@@ -1286,6 +1414,22 @@ URL:https://dice.fm/event/bbon3o-warby-2nd-sep-sjq-london-tickets
 LOCATION:Servant Jazz Quarters\, 10A Bradbury Street\, N16 8JN
 END:VEVENT
 BEGIN:VEVENT
+UID:jacqui-mcshee-s-pentangle-junior-brother-at-earth-9e81b40a@london-even
+ ts
+DTSTAMP:20260903T173000Z
+DTSTART:20260903T173000Z
+DTEND:20260903T213000Z
+SUMMARY:Jacqui McShee's Pentangle + Junior Brother at EartH
+DESCRIPTION:British folk legend Jacqui McShee leads Pentangle's folk-jazz 
+ songbook\, with rising Irish songwriter Junior Brother and Scottish guita
+ rist Sam Grassie supporting.\nPrice: from £29.87\nhttps://dice.fm/event/
+ v3yee7-jacqui-mcshees-pentangle-junior-brother-sam-grassie-3rd-sep-earth-
+ london-tickets
+URL:https://dice.fm/event/v3yee7-jacqui-mcshees-pentangle-junior-brother-s
+ am-grassie-3rd-sep-earth-london-tickets
+LOCATION:EartH\, 11-17 Stoke Newington Road\, N16 8BP
+END:VEVENT
+BEGIN:VEVENT
 UID:automatic-at-moth-club-82a8d6a0@london-events
 DTSTAMP:20260903T183000Z
 DTSTART:20260903T183000Z
@@ -1423,6 +1567,20 @@ URL:https://luma.com/e0gtnzhq
 LOCATION:Newspeak House\, 133 Bethnal Green Road\, E2 7DG
 END:VEVENT
 BEGIN:VEVENT
+UID:rostam-at-village-underground-9c18192c@london-events
+DTSTAMP:20260908T183000Z
+DTSTART:20260908T183000Z
+DTEND:20260908T220000Z
+SUMMARY:Rostam at Village Underground
+DESCRIPTION:Rostam Batmanglij (ex-Vampire Weekend\, producer for Haim and 
+ Clairo) plays a headline show under the Shoreditch railway arches.\nPrice
+ : from £24.21\nhttps://dice.fm/event/oevmyg-rostam-8th-sep-village-under
+ ground-london-tickets
+URL:https://dice.fm/event/oevmyg-rostam-8th-sep-village-underground-london
+ -tickets
+LOCATION:Village Underground\, 54 Holywell Lane\, EC2A 3PQ
+END:VEVENT
+BEGIN:VEVENT
 UID:shoreditch-speed-dating-be-at-one-ages-23-35-september-89364a24@london
  -events
 DTSTAMP:20260910T173000Z
@@ -1449,6 +1607,20 @@ DESCRIPTION:Hands-on evening with Darren Le Baron covering grain spawn\, f
  andelion.events/e/n9bz5
 URL:https://dandelion.events/e/n9bz5
 LOCATION:Love Shack\, Cambridge Heath Road\, E2
+END:VEVENT
+BEGIN:VEVENT
+UID:iceland-airwaves-off-venue-showcase-free-76e73452@london-events
+DTSTAMP:20260910T180000Z
+DTSTART:20260910T180000Z
+DTEND:20260910T220000Z
+SUMMARY:Iceland Airwaves Off-Venue showcase (free)
+DESCRIPTION:Free showcase of Icelandic artists ahead of the Iceland Airwav
+ es festival\, presented by Taste of Iceland in Hoxton Square. Ticketed on
+  DICE but no charge.\nPrice: Free\nhttps://dice.fm/event/dkoxe6-iceland-a
+ irwaves-off-venue-10th-sep-colours-hoxton-london-tickets
+URL:https://dice.fm/event/dkoxe6-iceland-airwaves-off-venue-10th-sep-colou
+ rs-hoxton-london-tickets
+LOCATION:Colours Hoxton\, 2-4 Hoxton Square\, N1 6NU
 END:VEVENT
 BEGIN:VEVENT
 UID:chant-for-love-and-peace-kirtan-at-st-ethelburga-s-a0d3af86@london-eve
@@ -1492,6 +1664,21 @@ URL:https://dandelion.events/e/heartcircle-sept26
 LOCATION:Paper Garden\, Teredo St\, SE16
 END:VEVENT
 BEGIN:VEVENT
+UID:knock2bag-comedy-frankie-monroe-fiends-at-moth-club-caab091b@london-ev
+ ents
+DTSTAMP:20260912T180000Z
+DTSTART:20260912T180000Z
+DTEND:20260912T220000Z
+SUMMARY:Knock2bag Comedy: Frankie Monroe & Fiends at MOTH Club
+DESCRIPTION:Knock2bag — one of Time Out's top 5 London comedy clubs — 
+ brings a Saturday-night character comedy bill to MOTH Club's glittered ba
+ llroom.\nPrice: £17.10\nhttps://dice.fm/event/53pqgw-k2b-presents-franki
+ e-monroe-fiends-12th-sep-moth-club-london-tickets
+URL:https://dice.fm/event/53pqgw-k2b-presents-frankie-monroe-fiends-12th-s
+ ep-moth-club-london-tickets
+LOCATION:MOTH Club\, Old Trades Hall\, Valette Street\, E9 6NU
+END:VEVENT
+BEGIN:VEVENT
 UID:neumatic-parlo-houndshark-at-sebright-arms-b594b411@london-events
 DTSTAMP:20260914T183000Z
 DTSTART:20260914T183000Z
@@ -1516,6 +1703,32 @@ DESCRIPTION:Intimate pub-venue show from folk-leaning singer-songwriter Ro
 URL:https://www.songkick.com/concerts/43324510-roxanne-de-bastion-at-sebri
  ght-arms
 LOCATION:Sebright Arms\, 31-35 Coate Street\, E2 9AG
+END:VEVENT
+BEGIN:VEVENT
+UID:psychedelics-entities-and-consciousness-dr-chris-timmermann-07a053b0@l
+ ondon-events
+DTSTAMP:20260916T180000Z
+DTSTART:20260916T180000Z
+DTEND:20260916T200000Z
+SUMMARY:Psychedelics\, Entities and Consciousness — Dr. Chris Timmermann
+DESCRIPTION:Imperial College DMT researcher Dr. Chris Timmermann discusses
+  entity encounters and consciousness science\, five minutes from Weavers 
+ Fields.\nPrice: £12-£24\nhttps://dandelion.events/e/s6pht
+URL:https://dandelion.events/e/s6pht
+LOCATION:The Sanctuary &Soul\, 114 Cheshire Street\, E2 6EJ
+END:VEVENT
+BEGIN:VEVENT
+UID:laura-veirs-at-earth-3b9dba85@london-events
+DTSTAMP:20260916T183000Z
+DTSTART:20260916T183000Z
+DTEND:20260916T220000Z
+SUMMARY:Laura Veirs at EartH
+DESCRIPTION:Beloved Portland indie-folk songwriter (of case/lang/veirs fam
+ e) plays EartH's seated theatre.\nPrice: from £29.87\nhttps://dice.fm/ev
+ ent/v3y337--laura-veirs-16th-sep-earth-london-tickets
+URL:https://dice.fm/event/v3y337--laura-veirs-16th-sep-earth-london-ticket
+ s
+LOCATION:EartH\, 11-17 Stoke Newington Road\, N16 8BP
 END:VEVENT
 BEGIN:VEVENT
 UID:knees-up-cecil-sharp-ceilidh-autumn-opener-4fe28dea@london-events

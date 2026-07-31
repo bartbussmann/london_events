@@ -339,6 +339,25 @@
     "cycle_minutes": 38
   },
   {
+    "title": "A Black Axe Mangal BBQ with Lee Tiernan",
+    "start": "2026-08-02T14:00:00+01:00",
+    "end": "2026-08-02T22:00:00+01:00",
+    "venue": "The George Tavern",
+    "address": "373 Commercial Road, E1 0LA",
+    "url": "https://dice.fm/event/8eq6vr-a-black-axe-mangal-bbq-with-lee-tiernan-2nd-aug-the-george-tavern-london-tickets",
+    "source": "keyword-search",
+    "tags": [
+      "food",
+      "community"
+    ],
+    "price": "£25",
+    "description": "Sunday afternoon BBQ takeover of the George Tavern by Lee Tiernan of cult restaurant Black Axe Mangal — fire-cooked food in one of east London's best-loved historic pubs.",
+    "neighbourhood": "Stepney",
+    "cycle_minutes": 8,
+    "id": "a-black-axe-mangal-bbq-with-lee-tiernan-96f7e3a8",
+    "added": "2026-07-31"
+  },
+  {
     "title": "Song Circle @ Plot 9",
     "start": "2026-08-02T15:00:00+01:00",
     "end": "2026-08-02T17:00:00+01:00",
@@ -433,6 +452,25 @@
     "added": "2026-07-20"
   },
   {
+    "title": "Big Fat Quizbox — weekly pub quiz at Boxpark",
+    "start": "2026-08-03T19:00:00+01:00",
+    "end": "2026-08-03T21:00:00+01:00",
+    "venue": "Boxpark Shoreditch",
+    "address": "2-10 Bethnal Green Road, E1 6GY",
+    "url": "https://www.boxpark.co.uk/venues/shoreditch/events/big-fat-quizbox-shoreditch",
+    "source": "keyword-search",
+    "tags": [
+      "community",
+      "comedy"
+    ],
+    "price": "£3 per player",
+    "description": "Upbeat Monday-night quiz at Boxpark Shoreditch with teams of up to 6 and prizes. Runs weekly.",
+    "neighbourhood": "Shoreditch",
+    "cycle_minutes": 6,
+    "id": "big-fat-quizbox-weekly-pub-quiz-at-boxpark-ac3c22e5",
+    "added": "2026-07-31"
+  },
+  {
     "title": "Land and Belonging: Josh Schrei and Alexander Beiner in Conversation",
     "start": "2026-08-04T19:00:00+01:00",
     "end": "2026-08-04T22:00:00+01:00",
@@ -524,6 +562,24 @@
     "cycle_minutes": 12,
     "id": "speed-dating-speed-karaoke-at-moth-club-f835f39f",
     "added": "2026-07-15"
+  },
+  {
+    "title": "Kismet Board Games Night",
+    "start": "2026-08-05T19:00:00+01:00",
+    "end": null,
+    "venue": "Kismet Café & Gallery",
+    "address": "104 Cavell Street, E1 2JA",
+    "url": "https://www.eventbrite.co.uk/e/kismet-board-games-5-august-tickets-1995701398606",
+    "source": "keyword-search",
+    "tags": [
+      "community"
+    ],
+    "price": null,
+    "description": "Sociable midweek board games evening at a friendly Whitechapel café/gallery space — an easy way to meet locals over classic and modern games.",
+    "neighbourhood": "Whitechapel",
+    "cycle_minutes": 8,
+    "id": "kismet-board-games-night-d97e6d25",
+    "added": "2026-07-31"
   },
   {
     "title": "Contact Beyond Contact (CBC) Workshop",
@@ -635,6 +691,25 @@
     "added": "2026-07-22"
   },
   {
+    "title": "Sunset Sessions — open-air ecstatic dance (7 Aug edition)",
+    "start": "2026-08-07T18:00:00+01:00",
+    "end": "2026-08-07T20:30:00+01:00",
+    "venue": "Regent's Park (meet at Baker Street Station)",
+    "address": null,
+    "url": "https://dandelion.events/e/u1tjb",
+    "source": "listing:dandelion",
+    "tags": [
+      "dance",
+      "outdoors"
+    ],
+    "price": "£13-£18",
+    "description": "Ecstatic Dance London's outdoor summer session with silent-disco headphones, cacao, fruit social and picnic in the park.",
+    "neighbourhood": "Regent's Park",
+    "cycle_minutes": 40,
+    "id": "sunset-sessions-open-air-ecstatic-dance-7-aug-edition-296d1793",
+    "added": "2026-07-31"
+  },
+  {
     "title": "The Next Chapter of Psychedelics with Robin Carhart-Harris",
     "start": "2026-08-07T18:15:00+01:00",
     "end": "2026-08-07T20:45:00+01:00",
@@ -709,6 +784,24 @@
     "cycle_minutes": 12,
     "id": "breathe-sound-medicine-9142ae50",
     "added": "2026-07-30"
+  },
+  {
+    "title": "Exploding Flowers + Rachel Love + Jowe Head at The Waiting Room",
+    "start": "2026-08-08T19:00:00+01:00",
+    "end": "2026-08-08T22:00:00+01:00",
+    "venue": "The Waiting Room",
+    "address": "175 Stoke Newington High Street, N16 0LH",
+    "url": "https://dice.fm/event/mxd6rr-exploding-flowers-rachel-love-jowe-heads-infernal-trinity-8th-aug-the-waiting-room-london-tickets",
+    "source": "keyword-search",
+    "tags": [
+      "music"
+    ],
+    "price": "£11",
+    "description": "Saturday triple bill of jangly indie-pop and post-punk royalty (ex-Dolly Mixture, ex-Swell Maps) in a 120-cap basement venue.",
+    "neighbourhood": "Stoke Newington",
+    "cycle_minutes": 16,
+    "id": "exploding-flowers-rachel-love-jowe-head-at-the-waiting-room-ba542db8",
+    "added": "2026-07-31"
   },
   {
     "title": "Jeffrey Alexander & The Heavy Lidders + Christina Carter",
@@ -861,6 +954,24 @@
     "cycle_minutes": 45
   },
   {
+    "title": "Daisy Rickman plays Nick Drake's Guitar",
+    "start": "2026-08-12T18:30:00+01:00",
+    "end": "2026-08-12T22:00:00+01:00",
+    "venue": "EartH",
+    "address": "11-17 Stoke Newington Road, N16 8BP",
+    "url": "https://dice.fm/event/l8dknr-daisy-rickman-plays-nick-drakes-guitar-12th-aug-earth-london-tickets",
+    "source": "keyword-search",
+    "tags": [
+      "music"
+    ],
+    "price": "from £18",
+    "description": "Cornish folk artist Daisy Rickman performs on Nick Drake's own guitar, presented by folk collective Broadside Hacks — a rare, intimate folk event in EartH's atmospheric theatre.",
+    "neighbourhood": "Dalston",
+    "cycle_minutes": 14,
+    "id": "daisy-rickman-plays-nick-drake-s-guitar-13b31b22",
+    "added": "2026-07-31"
+  },
+  {
     "title": "Thursday: 30+ Singles Dinner & Aperols at Jamie Oliver's",
     "start": "2026-08-12T19:00:00+01:00",
     "end": "2026-08-12T22:00:00+01:00",
@@ -971,6 +1082,43 @@
     "cycle_minutes": 32,
     "id": "dunajska-kapelye-balkan-folk-klezmer-at-green-note-c3ce6fcc",
     "added": "2026-07-16"
+  },
+  {
+    "title": "Jenny Don't And The Spurs at The Lexington",
+    "start": "2026-08-14T19:30:00+01:00",
+    "end": "2026-08-14T23:00:00+01:00",
+    "venue": "The Lexington",
+    "address": "96-98 Pentonville Road, N1 9JB",
+    "url": "https://dice.fm/event/dkmqlo-jenny-dont-and-the-spurs-14th-aug-the-lexington-london-tickets",
+    "source": "keyword-search",
+    "tags": [
+      "music"
+    ],
+    "price": "£16.95",
+    "description": "Portland country-punk outfit bring twangy, high-energy honky-tonk to the Lexington's upstairs stage on a Friday night.",
+    "neighbourhood": "Angel",
+    "cycle_minutes": 18,
+    "id": "jenny-don-t-and-the-spurs-at-the-lexington-ae76a6c6",
+    "added": "2026-07-31"
+  },
+  {
+    "title": "Community walk + sound bath & reiki at Hampstead Heath",
+    "start": "2026-08-15T11:00:00+01:00",
+    "end": "2026-08-15T14:00:00+01:00",
+    "venue": "Hampstead Heath",
+    "address": null,
+    "url": "https://dandelion.events/e/b0x62",
+    "source": "listing:dandelion",
+    "tags": [
+      "outdoors",
+      "community"
+    ],
+    "price": "£26",
+    "description": "Saturday group walk across the Heath followed by an outdoor sound bath and reiki session — a sociable, nature-based summer morning.",
+    "neighbourhood": "Hampstead",
+    "cycle_minutes": 45,
+    "id": "community-walk-sound-bath-reiki-at-hampstead-heath-445c402d",
+    "added": "2026-07-31"
   },
   {
     "title": "Bengal to Bethnal Green — Grand Union Orchestra",
@@ -1121,6 +1269,24 @@
     "cycle_minutes": 12,
     "id": "greg-freeman-at-moth-club-a73c9379",
     "added": "2026-07-15"
+  },
+  {
+    "title": "Farewell Transmission: A Celebration of Jason Molina",
+    "start": "2026-08-19T19:00:00+01:00",
+    "end": "2026-08-19T23:00:00+01:00",
+    "venue": "EartH",
+    "address": "11-17 Stoke Newington Road, N16 8BP",
+    "url": "https://dice.fm/event/nv52d9--farewell-transmission-a-celebration-of-jason-molina-19th-aug-earth-london-tickets",
+    "source": "keyword-search",
+    "tags": [
+      "music"
+    ],
+    "price": "from £29.87",
+    "description": "Tribute night celebrating the songs of Jason Molina (Songs: Ohia / Magnolia Electric Co.) with a cast of guest performers — prime territory for melancholic Americana and slowcore folk.",
+    "neighbourhood": "Dalston",
+    "cycle_minutes": 14,
+    "id": "farewell-transmission-a-celebration-of-jason-molina-812d0a20",
+    "added": "2026-07-31"
   },
   {
     "title": "Møtrik — 'EARTH' krautrock live at Paper Dress Vintage",
@@ -1726,6 +1892,24 @@
     "added": "2026-07-27"
   },
   {
+    "title": "Jacqui McShee's Pentangle + Junior Brother at EartH",
+    "start": "2026-09-03T18:30:00+01:00",
+    "end": "2026-09-03T22:30:00+01:00",
+    "venue": "EartH",
+    "address": "11-17 Stoke Newington Road, N16 8BP",
+    "url": "https://dice.fm/event/v3yee7-jacqui-mcshees-pentangle-junior-brother-sam-grassie-3rd-sep-earth-london-tickets",
+    "source": "keyword-search",
+    "tags": [
+      "music"
+    ],
+    "price": "from £29.87",
+    "description": "British folk legend Jacqui McShee leads Pentangle's folk-jazz songbook, with rising Irish songwriter Junior Brother and Scottish guitarist Sam Grassie supporting.",
+    "neighbourhood": "Dalston",
+    "cycle_minutes": 14,
+    "id": "jacqui-mcshee-s-pentangle-junior-brother-at-earth-9e81b40a",
+    "added": "2026-07-31"
+  },
+  {
     "title": "Automatic at MOTH Club",
     "start": "2026-09-03T19:30:00+01:00",
     "end": "2026-09-03T22:30:00+01:00",
@@ -1914,6 +2098,24 @@
     "added": "2026-07-30"
   },
   {
+    "title": "Rostam at Village Underground",
+    "start": "2026-09-08T19:30:00+01:00",
+    "end": "2026-09-08T23:00:00+01:00",
+    "venue": "Village Underground",
+    "address": "54 Holywell Lane, EC2A 3PQ",
+    "url": "https://dice.fm/event/oevmyg-rostam-8th-sep-village-underground-london-tickets",
+    "source": "keyword-search",
+    "tags": [
+      "music"
+    ],
+    "price": "from £24.21",
+    "description": "Rostam Batmanglij (ex-Vampire Weekend, producer for Haim and Clairo) plays a headline show under the Shoreditch railway arches.",
+    "neighbourhood": "Shoreditch",
+    "cycle_minutes": 7,
+    "id": "rostam-at-village-underground-9c18192c",
+    "added": "2026-07-31"
+  },
+  {
     "title": "Shoreditch Speed Dating @ Be At One (ages 23-35) — September",
     "start": "2026-09-10T18:30:00+01:00",
     "end": null,
@@ -1949,6 +2151,25 @@
     "cycle_minutes": 3,
     "id": "shroomshop-mushroom-cultivation-workshop-september-8ee33aa4",
     "added": "2026-07-30"
+  },
+  {
+    "title": "Iceland Airwaves Off-Venue showcase (free)",
+    "start": "2026-09-10T19:00:00+01:00",
+    "end": "2026-09-10T23:00:00+01:00",
+    "venue": "Colours Hoxton",
+    "address": "2-4 Hoxton Square, N1 6NU",
+    "url": "https://dice.fm/event/dkoxe6-iceland-airwaves-off-venue-10th-sep-colours-hoxton-london-tickets",
+    "source": "keyword-search",
+    "tags": [
+      "music",
+      "festival"
+    ],
+    "price": "Free",
+    "description": "Free showcase of Icelandic artists ahead of the Iceland Airwaves festival, presented by Taste of Iceland in Hoxton Square. Ticketed on DICE but no charge.",
+    "neighbourhood": "Hoxton",
+    "cycle_minutes": 7,
+    "id": "iceland-airwaves-off-venue-showcase-free-76e73452",
+    "added": "2026-07-31"
   },
   {
     "title": "Chant for Love and Peace — kirtan at St Ethelburga's",
@@ -2008,6 +2229,24 @@
     "added": "2026-07-30"
   },
   {
+    "title": "Knock2bag Comedy: Frankie Monroe & Fiends at MOTH Club",
+    "start": "2026-09-12T19:00:00+01:00",
+    "end": "2026-09-12T23:00:00+01:00",
+    "venue": "MOTH Club",
+    "address": "Old Trades Hall, Valette Street, E9 6NU",
+    "url": "https://dice.fm/event/53pqgw-k2b-presents-frankie-monroe-fiends-12th-sep-moth-club-london-tickets",
+    "source": "keyword-search",
+    "tags": [
+      "comedy"
+    ],
+    "price": "£17.10",
+    "description": "Knock2bag — one of Time Out's top 5 London comedy clubs — brings a Saturday-night character comedy bill to MOTH Club's glittered ballroom.",
+    "neighbourhood": "Hackney Central",
+    "cycle_minutes": 12,
+    "id": "knock2bag-comedy-frankie-monroe-fiends-at-moth-club-caab091b",
+    "added": "2026-07-31"
+  },
+  {
     "title": "Neumatic Parlo + Houndshark at Sebright Arms",
     "start": "2026-09-14T19:30:00+01:00",
     "end": null,
@@ -2042,6 +2281,42 @@
     "cycle_minutes": 4,
     "id": "roxanne-de-bastion-at-sebright-arms-9d6aea5b",
     "added": "2026-07-30"
+  },
+  {
+    "title": "Psychedelics, Entities and Consciousness — Dr. Chris Timmermann",
+    "start": "2026-09-16T19:00:00+01:00",
+    "end": "2026-09-16T21:00:00+01:00",
+    "venue": "The Sanctuary &Soul",
+    "address": "114 Cheshire Street, E2 6EJ",
+    "url": "https://dandelion.events/e/s6pht",
+    "source": "listing:dandelion",
+    "tags": [
+      "talk"
+    ],
+    "price": "£12-£24",
+    "description": "Imperial College DMT researcher Dr. Chris Timmermann discusses entity encounters and consciousness science, five minutes from Weavers Fields.",
+    "neighbourhood": "Bethnal Green",
+    "cycle_minutes": 4,
+    "id": "psychedelics-entities-and-consciousness-dr-chris-timmermann-07a053b0",
+    "added": "2026-07-31"
+  },
+  {
+    "title": "Laura Veirs at EartH",
+    "start": "2026-09-16T19:30:00+01:00",
+    "end": "2026-09-16T23:00:00+01:00",
+    "venue": "EartH",
+    "address": "11-17 Stoke Newington Road, N16 8BP",
+    "url": "https://dice.fm/event/v3y337--laura-veirs-16th-sep-earth-london-tickets",
+    "source": "keyword-search",
+    "tags": [
+      "music"
+    ],
+    "price": "from £29.87",
+    "description": "Beloved Portland indie-folk songwriter (of case/lang/veirs fame) plays EartH's seated theatre.",
+    "neighbourhood": "Dalston",
+    "cycle_minutes": 14,
+    "id": "laura-veirs-at-earth-3b9dba85",
+    "added": "2026-07-31"
   },
   {
     "title": "Knees Up Cecil Sharp Ceilidh (autumn opener)",
