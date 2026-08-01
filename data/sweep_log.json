@@ -1,5 +1,11 @@
 [
   {
+    "ran_at": "2026-08-01T08:05:00+01:00",
+    "added": 12,
+    "considered": 74,
+    "notes": "Daily breadth sweep. ICS: 0 new; 2 pruned (part 1). Added 12: the four cap-cut re-verifications (Sunset 8 Aug, shamanic breathwork, family constellations, K2B 16 Sep), four active Thursday singles events (badminton Shoreditch, beach volleyball, 30+ bank holiday night, 5K party run), Dancing Awareness 27 Aug, American Utopia at Barbican Outdoor Cinema (30 Aug evening, Carnival-compatible), NVC power workshop, beginner tarot night. Dead angles: night markets and Hackney poetry open mics have no live dated pages; most Barbican outdoor cinema season sold out."
+  },
+  {
     "ran_at": "2026-07-31T08:10:00+01:00",
     "added": 15,
     "considered": 211,
@@ -172,11 +178,5 @@
     "added": 3,
     "considered": 15,
     "notes": "In-session sweep (headless routine replaced after silent failures). ICS: 0 new from LISA. Added 3 small gigs at Paper Dress Vintage (new venue, added to sources). Skipped: sold-out Pint of Science astronauts talk; dice.fm and Londonist returned 403."
-  },
-  {
-    "ran_at": "2026-07-05T18:00:00+01:00",
-    "added": 51,
-    "considered": 110,
-    "notes": "Initial seeding via interactive session: 44 events across new sources/interests + 7 LISA ICS imports. Sweep logging starts here; the 2026-07-06 06:02 UTC routine run predates logging and left no trace."
   }
 ]

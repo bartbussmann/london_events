@@ -748,6 +748,25 @@
     "added": "2026-07-30"
   },
   {
+    "title": "Sunset Sessions — open-air ecstatic dance (8 Aug edition)",
+    "start": "2026-08-08T18:00:00+01:00",
+    "end": "2026-08-08T20:30:00+01:00",
+    "venue": "Secret outdoor location near Baker Street",
+    "address": null,
+    "url": "https://dandelion.events/e/m6bos",
+    "source": "listing:dandelion",
+    "tags": [
+      "dance",
+      "outdoors"
+    ],
+    "price": "£13.50-£25.50",
+    "description": "Ecstatic Dance London's sober open-air silent-disco dance with cacao ceremony, fruit social and post-dance picnic in a secluded green spot. Saturday edition.",
+    "neighbourhood": "Regent's Park",
+    "cycle_minutes": 35,
+    "id": "sunset-sessions-open-air-ecstatic-dance-8-aug-edition-6a03c2e6",
+    "added": "2026-08-01"
+  },
+  {
     "title": "Exploding Flowers + Rachel Love + Jowe Head at The Waiting Room",
     "start": "2026-08-08T19:00:00+01:00",
     "end": "2026-08-08T22:00:00+01:00",
@@ -1083,6 +1102,24 @@
     "added": "2026-07-31"
   },
   {
+    "title": "Thursday: Singles Badminton Tournament — Shoreditch",
+    "start": "2026-08-15T13:00:00+01:00",
+    "end": "2026-08-15T14:00:00+01:00",
+    "venue": "Indoor courts, Shoreditch (venue on booking)",
+    "address": null,
+    "url": "https://www.thursday.com/events/london/saturday-singles-badminton-shoreditch",
+    "source": "listing:thursday-dating",
+    "tags": [
+      "community"
+    ],
+    "price": null,
+    "description": "Mixed-singles indoor badminton tournament on a Saturday afternoon — friendly competition and mingling on your doorstep. 28 spots.",
+    "neighbourhood": "Shoreditch",
+    "cycle_minutes": 7,
+    "id": "thursday-singles-badminton-tournament-shoreditch-c2d5fbf4",
+    "added": "2026-08-01"
+  },
+  {
     "title": "Bengal to Bethnal Green — Grand Union Orchestra",
     "start": "2026-08-15T18:00:00+01:00",
     "end": "2026-08-15T21:00:00+01:00",
@@ -1345,6 +1382,25 @@
     "added": "2026-07-20"
   },
   {
+    "title": "Shamanic Breathwork Journey — Release, Heal, Receive",
+    "start": "2026-08-21T18:30:00+01:00",
+    "end": "2026-08-21T21:00:00+01:00",
+    "venue": "UNIT3 Studios",
+    "address": "Canterbury Court, 1-3 Brixton Rd, SW9 6DE",
+    "url": "https://dandelion.events/e/j15gw",
+    "source": "listing:dandelion",
+    "tags": [
+      "workshop",
+      "community"
+    ],
+    "price": "£25-£45 sliding scale",
+    "description": "Conscious connected breathing workshop using altered states to release stored emotion and reconnect. Friday evening in Kennington. (Same night as the London Fields cacao ceremony — two options.)",
+    "neighbourhood": "Kennington",
+    "cycle_minutes": 40,
+    "id": "shamanic-breathwork-journey-release-heal-receive-197fcd4a",
+    "added": "2026-08-01"
+  },
+  {
     "title": "Miss Grit + mui zyu at MOTH Club",
     "start": "2026-08-21T19:00:00+01:00",
     "end": null,
@@ -1400,6 +1456,25 @@
     "cycle_minutes": 4,
     "id": "council-data-hack-day-campaign-lab-eb0a8ba6",
     "added": "2026-07-18"
+  },
+  {
+    "title": "Thursday: Singles Beach Volleyball — London Bridge",
+    "start": "2026-08-22T12:00:00+01:00",
+    "end": "2026-08-22T14:00:00+01:00",
+    "venue": "Beach volleyball courts, London Bridge (venue on booking)",
+    "address": null,
+    "url": "https://www.thursday.com/events/london/saturday-singles-beach-volleyball-london-bridge",
+    "source": "listing:thursday-dating",
+    "tags": [
+      "community",
+      "outdoors"
+    ],
+    "price": null,
+    "description": "Mixed-singles beach volleyball — teams of 6 playing to 15 points, followed by socialising. Saturday daytime, active and outdoors.",
+    "neighbourhood": "London Bridge",
+    "cycle_minutes": 20,
+    "id": "thursday-singles-beach-volleyball-london-bridge-03c21e43",
+    "added": "2026-08-01"
   },
   {
     "title": "Luminous Conscious Dance — Full Moon Edition",
@@ -1590,6 +1665,43 @@
     "added": "2026-07-21"
   },
   {
+    "title": "Dancing Awareness — meditation & spontaneous movement (27 Aug)",
+    "start": "2026-08-27T19:00:00+01:00",
+    "end": "2026-08-27T21:20:00+01:00",
+    "venue": "The Meditatio Centre",
+    "address": "Myddelton Square, EC1R 1XX",
+    "url": "https://dandelion.events/e/n8t0n",
+    "source": "listing:dandelion",
+    "tags": [
+      "dance",
+      "class"
+    ],
+    "price": "£10-£20 sliding scale",
+    "description": "An hour of group non-dual meditation followed by an hour of self-guided spontaneous movement, co-promoted with The Psychedelic Society. Second August edition.",
+    "neighbourhood": "Clerkenwell",
+    "cycle_minutes": 16,
+    "id": "dancing-awareness-meditation-spontaneous-movement-27-aug-7acbf35a",
+    "added": "2026-08-01"
+  },
+  {
+    "title": "Thursday: 30+ Bank Holiday Starts Here — Shoreditch",
+    "start": "2026-08-27T19:00:00+01:00",
+    "end": "2026-08-27T23:00:00+01:00",
+    "venue": "Shoreditch bar (venue on booking)",
+    "address": null,
+    "url": "https://www.thursday.com/events/london/thursday-30-bank-holiday-starts-here-shoreditch",
+    "source": "listing:thursday-dating",
+    "tags": [
+      "community"
+    ],
+    "price": null,
+    "description": "Big Thursday singles night exclusively for ages 30+, kicking off the bank holiday weekend in Shoreditch — 320 capacity.",
+    "neighbourhood": "Shoreditch",
+    "cycle_minutes": 7,
+    "id": "thursday-30-bank-holiday-starts-here-shoreditch-ab49f582",
+    "added": "2026-08-01"
+  },
+  {
     "title": "Cusk at The Shacklewell Arms",
     "start": "2026-08-27T19:30:00+01:00",
     "end": null,
@@ -1761,6 +1873,26 @@
     "added": "2026-07-23"
   },
   {
+    "title": "David Byrne's American Utopia — Barbican Outdoor Cinema",
+    "start": "2026-08-30T20:30:00+01:00",
+    "end": null,
+    "venue": "Sculpture Court, Barbican Centre",
+    "address": "Silk Street, EC2Y 8DS",
+    "url": "https://www.barbican.org.uk/whats-on/2026/event/outdoor-cinema-american-utopia",
+    "source": "keyword-search",
+    "tags": [
+      "film",
+      "music",
+      "outdoors"
+    ],
+    "price": "£20 (£18 conc)",
+    "description": "Spike Lee's film of David Byrne's Broadway show closes the Barbican's Outdoor Cinema season on the brutalist Sculpture Court — Talking Heads classics under the open sky. Evening start, compatible with Carnival Sunday.",
+    "neighbourhood": "Barbican",
+    "cycle_minutes": 14,
+    "id": "david-byrne-s-american-utopia-barbican-outdoor-cinema-3acddf36",
+    "added": "2026-08-01"
+  },
+  {
     "title": "Notting Hill Carnival 60th — Grand Parade",
     "start": "2026-08-31T10:30:00+01:00",
     "end": "2026-08-31T19:00:00+01:00",
@@ -1870,6 +2002,25 @@
     "cycle_minutes": 14,
     "id": "jacqui-mcshee-s-pentangle-junior-brother-at-earth-9e81b40a",
     "added": "2026-07-31"
+  },
+  {
+    "title": "Thursday x Friday Night Lights: 5K Party Run x Singles",
+    "start": "2026-09-03T18:30:00+01:00",
+    "end": "2026-09-03T22:30:00+01:00",
+    "venue": "Run The Wharf, Canary Wharf",
+    "address": "Canary Wharf, E14",
+    "url": "https://www.thursday.com/events/london/friday-night-lights-x-thursday-5k-party-run-x-singles-canary-wharf",
+    "source": "listing:thursday-dating",
+    "tags": [
+      "community",
+      "outdoors"
+    ],
+    "price": null,
+    "description": "Singles run club takeover: a closed-road 5K through Canary Wharf followed by a big post-run social. Swap dating apps for endorphins.",
+    "neighbourhood": "Canary Wharf",
+    "cycle_minutes": 20,
+    "id": "thursday-x-friday-night-lights-5k-party-run-x-singles-4426ca84",
+    "added": "2026-08-01"
   },
   {
     "title": "Automatic at MOTH Club",
@@ -2115,6 +2266,24 @@
     "added": "2026-07-30"
   },
   {
+    "title": "Systemic & Family Constellations Evening Workshop",
+    "start": "2026-09-10T18:30:00+01:00",
+    "end": "2026-09-10T21:45:00+01:00",
+    "venue": "9 Broadhurst Mansions",
+    "address": "97 Broadhurst Gardens, NW6 3QP",
+    "url": "https://dandelion.events/e/n6yxh",
+    "source": "listing:dandelion",
+    "tags": [
+      "workshop"
+    ],
+    "price": "£35 (representative)",
+    "description": "In-person Systemic Constellations evening exploring personal and family blockages. Small group, early booking advised.",
+    "neighbourhood": "West Hampstead",
+    "cycle_minutes": 42,
+    "id": "systemic-family-constellations-evening-workshop-0d80d145",
+    "added": "2026-08-01"
+  },
+  {
     "title": "Iceland Airwaves Off-Venue showcase (free)",
     "start": "2026-09-10T19:00:00+01:00",
     "end": "2026-09-10T23:00:00+01:00",
@@ -2171,6 +2340,24 @@
     "cycle_minutes": 25,
     "id": "london-mellows-2026-10th-anniversary-kirtan-weekend-c3d6d677",
     "added": "2026-07-30"
+  },
+  {
+    "title": "NVC & Understanding Power — day workshop",
+    "start": "2026-09-12T10:30:00+01:00",
+    "end": "2026-09-12T17:00:00+01:00",
+    "venue": "The Bridge",
+    "address": "Southwark Bridge Road, SE1",
+    "url": "https://dandelion.events/e/g3olu",
+    "source": "listing:dandelion",
+    "tags": [
+      "workshop"
+    ],
+    "price": "£80-£220 sliding scale",
+    "description": "Full-day Nonviolent Communication workshop on navigating power differences in difficult conversations, combining somatic self-awareness, roleplay and discussion.",
+    "neighbourhood": "Southwark",
+    "cycle_minutes": 26,
+    "id": "nvc-understanding-power-day-workshop-54f81ac3",
+    "added": "2026-08-01"
   },
   {
     "title": "Heart Circle — September edition",
@@ -2263,6 +2450,24 @@
     "added": "2026-07-31"
   },
   {
+    "title": "K2B Comedy Night at MOTH Club (16 Sep)",
+    "start": "2026-09-16T19:00:00+01:00",
+    "end": "2026-09-16T23:00:00+01:00",
+    "venue": "MOTH Club",
+    "address": "Old Trades Hall, Valette Street, E9 6NU",
+    "url": "https://dice.fm/event/7dw276-k2b-comedy-night-16th-sep-moth-club-london-tickets",
+    "source": "keyword-search",
+    "tags": [
+      "comedy"
+    ],
+    "price": null,
+    "description": "Knock2bag's weekly mixed bill of big names and handpicked ones-to-watch. Limited seating, arrive early.",
+    "neighbourhood": "Hackney Central",
+    "cycle_minutes": 12,
+    "id": "k2b-comedy-night-at-moth-club-16-sep-052f1c51",
+    "added": "2026-08-01"
+  },
+  {
     "title": "Laura Veirs at EartH",
     "start": "2026-09-16T19:30:00+01:00",
     "end": "2026-09-16T23:00:00+01:00",
@@ -2279,6 +2484,25 @@
     "cycle_minutes": 14,
     "id": "laura-veirs-at-earth-3b9dba85",
     "added": "2026-07-31"
+  },
+  {
+    "title": "Tarot for Beginners: Numerology & the Fool's Journey",
+    "start": "2026-09-17T18:30:00+01:00",
+    "end": "2026-09-17T21:30:00+01:00",
+    "venue": "21 SID Coffee",
+    "address": "21 Sidworth Street, E8 3SD",
+    "url": "https://dandelion.events/e/p9yqe",
+    "source": "listing:dandelion",
+    "tags": [
+      "workshop",
+      "class"
+    ],
+    "price": "£32-£37",
+    "description": "Beginner-friendly hands-on evening covering tarot fundamentals, numerology and the Major Arcana, with tea and biscuits included.",
+    "neighbourhood": "London Fields",
+    "cycle_minutes": 10,
+    "id": "tarot-for-beginners-numerology-the-fool-s-journey-b8deeebd",
+    "added": "2026-08-01"
   },
   {
     "title": "Knees Up Cecil Sharp Ceilidh (autumn opener)",
