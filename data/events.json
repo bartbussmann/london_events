@@ -1,43 +1,5 @@
 [
   {
-    "title": "PsySoc Social: Speed-Friending & Psychedelic Storytelling",
-    "start": "2026-07-29T18:30:00+01:00",
-    "end": "2026-07-29T21:30:00+01:00",
-    "venue": "Love Shack",
-    "address": "Cambridge Heath Road, E2",
-    "url": "https://dandelion.events/e/n6fxw",
-    "source": "listing:dandelion",
-    "tags": [
-      "community",
-      "talk"
-    ],
-    "price": "£15",
-    "description": "Structured 10-minute speed-friending conversations with connection-deepening questions, followed by a 5-minute open-mic of psychedelic experience stories, at vegan restaurant/bar Love Shack.",
-    "neighbourhood": "Bethnal Green",
-    "cycle_minutes": 4,
-    "id": "psysoc-social-speed-friending-psychedelic-storytelling-cc4592a3",
-    "added": "2026-07-13"
-  },
-  {
-    "title": "Simply Being 5Rhythms Full Moon Garden Session",
-    "start": "2026-07-29T18:45:00+01:00",
-    "end": "2026-07-29T21:15:00+01:00",
-    "venue": "Brockwell Park Gardens",
-    "address": "Brockwell Park, SE24 9BJ",
-    "url": "https://www.5rhythms.com/classes/SimplyBeingRhythmsFullMoonGardenSessionsapathtoHealingGround-298604",
-    "source": "listing:5rhythms",
-    "tags": [
-      "dance",
-      "outdoors"
-    ],
-    "price": null,
-    "description": "Outdoor full-moon 5Rhythms garden session with Richard Wiltshire in Brockwell Park.",
-    "id": "simply-being-5rhythms-full-moon-garden-session-90a98860",
-    "added": "2026-07-05",
-    "neighbourhood": "Herne Hill",
-    "cycle_minutes": 45
-  },
-  {
     "title": "atproto.london summer drinks",
     "start": "2026-07-30T18:00:00+01:00",
     "end": "2026-07-30T22:00:00+01:00",

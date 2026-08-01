@@ -5,33 +5,6 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:London Events
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
-UID:psysoc-social-speed-friending-psychedelic-storytelling-cc4592a3@london
- -events
-DTSTAMP:20260729T173000Z
-DTSTART:20260729T173000Z
-DTEND:20260729T203000Z
-SUMMARY:PsySoc Social: Speed-Friending & Psychedelic Storytelling
-DESCRIPTION:Structured 10-minute speed-friending conversations with connec
- tion-deepening questions\, followed by a 5-minute open-mic of psychedelic
-  experience stories\, at vegan restaurant/bar Love Shack.\nPrice: £15\nh
- ttps://dandelion.events/e/n6fxw
-URL:https://dandelion.events/e/n6fxw
-LOCATION:Love Shack\, Cambridge Heath Road\, E2
-END:VEVENT
-BEGIN:VEVENT
-UID:simply-being-5rhythms-full-moon-garden-session-90a98860@london-events
-DTSTAMP:20260729T174500Z
-DTSTART:20260729T174500Z
-DTEND:20260729T201500Z
-SUMMARY:Simply Being 5Rhythms Full Moon Garden Session
-DESCRIPTION:Outdoor full-moon 5Rhythms garden session with Richard Wiltshi
- re in Brockwell Park.\nhttps://www.5rhythms.com/classes/SimplyBeingRhythm
- sFullMoonGardenSessionsapathtoHealingGround-298604
-URL:https://www.5rhythms.com/classes/SimplyBeingRhythmsFullMoonGardenSessi
- onsapathtoHealingGround-298604
-LOCATION:Brockwell Park Gardens\, Brockwell Park\, SE24 9BJ
-END:VEVENT
-BEGIN:VEVENT
 UID:atproto-london-summer-drinks-c8a04236@london-events
 DTSTAMP:20260730T170000Z
 DTSTART:20260730T170000Z
