@@ -735,6 +735,21 @@ URL:https://www.eventbrite.co.uk/e/shoreditch-speed-dating-be-at-one-ages-
 LOCATION:Be At One\, Shoreditch\, 348 Old Street\, EC1V 9NQ
 END:VEVENT
 BEGIN:VEVENT
+UID:double-holotropic-breathwork-experiential-weekend-902ed665@london-even
+ ts
+DTSTAMP:20260814T170000Z
+DTSTART:20260814T170000Z
+DTEND:20260817T123000Z
+SUMMARY:Double Holotropic Breathwork — Experiential Weekend
+DESCRIPTION:Immersive Fri-Mon weekend of four Holotropic Breathwork sessio
+ ns (alternating breather/sitter) with evocative music\, mandala drawing a
+ nd integration — the deep-end Grof-method format. Note the price\; incl
+ uded as a rare-format exception.\nPrice: £485-£585 (tiered incl. low-in
+ come)\nhttps://dandelion.events/e/g2lew
+URL:https://dandelion.events/e/g2lew
+LOCATION:Colet House\, 151 Talgarth Road\, W14 9DA
+END:VEVENT
+BEGIN:VEVENT
 UID:uyen-luu-s-vietnamese-supper-club-8-courses-1eafb462@london-events
 DTSTAMP:20260814T180000Z
 DTSTART:20260814T180000Z
@@ -949,6 +964,19 @@ URL:https://dice.fm/event/bbrg7x-mtrik-19th-aug-paper-dress-vintage-london
 LOCATION:Paper Dress Vintage\, 352a Mare Street\, E8 1HR
 END:VEVENT
 BEGIN:VEVENT
+UID:a-song-for-the-xeedho-late-backyard-biennial-802b49de@london-events
+DTSTAMP:20260820T173000Z
+DTSTART:20260820T173000Z
+DTEND:20260820T200000Z
+SUMMARY:A Song for the Xeedho: LATE — Backyard Biennial
+DESCRIPTION:Free gallery late: artist Fozia Ismail in conversation on dias
+ poric memory and anticolonial archiving\, closing with DJs\, Somali food 
+ and drinks.\nPrice: Free\nhttps://www.whitechapelgallery.org/events/a-son
+ g-for-the-xeedho-late/
+URL:https://www.whitechapelgallery.org/events/a-song-for-the-xeedho-late/
+LOCATION:Whitechapel Gallery\, 77-82 Whitechapel High Street\, E1 7QX
+END:VEVENT
+BEGIN:VEVENT
 UID:devon-again-at-moth-club-bceb3518@london-events
 DTSTAMP:20260820T180000Z
 DTSTART:20260820T180000Z
@@ -1026,6 +1054,19 @@ DESCRIPTION:Art-rock songwriter Miss Grit double-billed with experimental
  s/43327992-miss-grit-at-moth-club
 URL:https://www.songkick.com/concerts/43327992-miss-grit-at-moth-club
 LOCATION:MOTH Club\, Old Trades Hall\, Valette Street\, E9 6NU
+END:VEVENT
+BEGIN:VEVENT
+UID:ceroc-south-ken-2-room-freestyle-silc-class-8ac6e2d4@london-events
+DTSTAMP:20260821T184500Z
+DTSTART:20260821T184500Z
+DTEND:20260821T223000Z
+SUMMARY:Ceroc South Ken — 2 Room Freestyle & SILC Class
+DESCRIPTION:Friday-night Ceroc with classes followed by 2.5 hours of two-r
+ oom freestyle — upbeat main hall plus a smooth SILC room\, licensed bar
+ .\nPrice: £13-£15 on the door\nhttps://www.ceroc.com/30/13693/south-ken
+ -2-room-freestyle-silc-class
+URL:https://www.ceroc.com/30/13693/south-ken-2-room-freestyle-silc-class
+LOCATION:MPW Queens Gate House\, 65-67 Queen's Gate\, SW7 5JS
 END:VEVENT
 BEGIN:VEVENT
 UID:forage-and-meditate-on-london-canals-august-edition-ef329a80@london-ev
@@ -1181,6 +1222,21 @@ URL:https://dice.fm/event/92ke3o-carson-mchone-birds-flying-backwards-25th
 LOCATION:The Shacklewell Arms\, 71 Shacklewell Lane\, E8 2EB
 END:VEVENT
 BEGIN:VEVENT
+UID:masterclass-a-conversation-with-stanley-kwan-0e409eda@london-events
+DTSTAMP:20260826T170000Z
+DTSTART:20260826T170000Z
+DTEND:20260826T190000Z
+SUMMARY:Masterclass: A Conversation with Stanley Kwan
+DESCRIPTION:Hong Kong Golden Age auteur Stanley Kwan in a masterclass conv
+ ersation\, co-presented by The Garden Cinema as part of a Hong Kong cinem
+ a retrospective.\nPrice: Free\nhttps://www.kcl.ac.uk/events/masterclass-c
+ onversation-with-stanley-kwan
+URL:https://www.kcl.ac.uk/events/masterclass-conversation-with-stanley-kwa
+ n
+LOCATION:Bush House Auditorium\, King's College London\, 30 Aldwych\, WC2B
+  4BG
+END:VEVENT
+BEGIN:VEVENT
 UID:fantasy-of-a-broken-heart-at-the-shacklewell-arms-4f9b5bcc@london-even
  ts
 DTSTAMP:20260826T180000Z
@@ -1194,6 +1250,21 @@ DESCRIPTION:Brooklyn art-pop/indie duo Fantasy of a Broken Heart bring the
 URL:https://formpresents.seetickets.com/event/fantasy-of-a-broken-heart/th
  e-shacklewell-arms/3662430
 LOCATION:The Shacklewell Arms\, 71 Shacklewell Lane\, E8 2EB
+END:VEVENT
+BEGIN:VEVENT
+UID:imagine-the-future-of-east-london-creative-workshop-e9702b49@london-ev
+ ents
+DTSTAMP:20260827T170000Z
+DTSTART:20260827T170000Z
+DTEND:20260827T193000Z
+SUMMARY:Imagine the Future of East London — creative workshop
+DESCRIPTION:Hands-on creative workshop imagining utopian futures for East 
+ London with Swiss artist Yannick Portmann. 'Wacky ideas welcome.'\nPrice:
+  Free (booking required)\nhttps://www.whitechapelgallery.org/events/yanni
+ ck-portmann-workshop/
+URL:https://www.whitechapelgallery.org/events/yannick-portmann-workshop/
+LOCATION:Clore Creative Studio\, Whitechapel Gallery\, 77-82 Whitechapel H
+ igh Street\, E1 7QX
 END:VEVENT
 BEGIN:VEVENT
 UID:ecstatic-ascension-conscious-dance-journey-eb1b73e3@london-events
@@ -1421,6 +1492,18 @@ URL:https://folkandroots.co.uk/stella-prince-4/
 LOCATION:Green Note\, 106 Parkway\, Camden\, NW1 7AN
 END:VEVENT
 BEGIN:VEVENT
+UID:wiesenthal-at-wilton-s-music-hall-d0862cfa@london-events
+DTSTAMP:20260901T180000Z
+DTSTART:20260901T180000Z
+DTEND:20260901T191500Z
+SUMMARY:Wiesenthal at Wilton's Music Hall
+DESCRIPTION:Five-star one-man play about Nazi hunter Simon Wiesenthal\, se
+ t on his final day in his Vienna office. Runs 1-5 Sep\, 75 mins no interv
+ al.\nPrice: £15.50-£30\nhttps://wiltons.org.uk/whats-on/wiesenthal/
+URL:https://wiltons.org.uk/whats-on/wiesenthal/
+LOCATION:Wilton's Music Hall\, 1 Graces Alley\, E1 8JB
+END:VEVENT
+BEGIN:VEVENT
 UID:sean-mcverry-sametime-tom-high-at-the-old-blue-last-bbe3e1c1@london-ev
  ents
 DTSTAMP:20260902T183000Z
@@ -1478,6 +1561,20 @@ DESCRIPTION:Singles run club takeover: a closed-road 5K through Canary Wha
 URL:https://www.thursday.com/events/london/friday-night-lights-x-thursday-
  5k-party-run-x-singles-canary-wharf
 LOCATION:Run The Wharf\, Canary Wharf\, Canary Wharf\, E14
+END:VEVENT
+BEGIN:VEVENT
+UID:the-signalman-victorian-magic-dickens-ghost-story-8b00d762@london-even
+ ts
+DTSTAMP:20260903T180000Z
+DTSTART:20260903T180000Z
+DTEND:20260903T192000Z
+SUMMARY:The Signalman — Victorian magic & Dickens ghost story
+DESCRIPTION:Occult illusionist David Alnwick performs Victorian magic insp
+ ired by Dickens\, followed by a dramatisation of the classic railway ghos
+ t story. One night only.\nPrice: £12.50-£27\nhttps://wiltons.org.uk/wha
+ ts-on/the-signalman/
+URL:https://wiltons.org.uk/whats-on/the-signalman/
+LOCATION:Wilton's Music Hall\, 1 Graces Alley\, E1 8JB
 END:VEVENT
 BEGIN:VEVENT
 UID:automatic-at-moth-club-82a8d6a0@london-events
@@ -1549,6 +1646,36 @@ URL:https://dandelion.events/e/t3lb6
 LOCATION:Hampstead Heath (meeting point on booking)\, Hampstead Heath
 END:VEVENT
 BEGIN:VEVENT
+UID:material-histories-a-procession-backyard-biennial-finale-6db2c105@lond
+ on-events
+DTSTAMP:20260905T110000Z
+DTSTART:20260905T110000Z
+DTEND:20260905T130000Z
+SUMMARY:Material Histories: A Procession — Backyard Biennial finale
+DESCRIPTION:Procession of large-scale community-made textile banners from 
+ Bethnal Green's Oxford House to Whitechapel Gallery\, honouring the East 
+ End rag trade. Starts on your doorstep\; start time TBC — check nearer 
+ the date.\nPrice: Free\nhttps://www.whitechapelgallery.org/backyardbienni
+ al/
+URL:https://www.whitechapelgallery.org/backyardbiennial/
+LOCATION:Oxford House to Whitechapel Gallery\, Oxford House\, Derbyshire S
+ treet\, E2 6HG
+END:VEVENT
+BEGIN:VEVENT
+UID:chisenhale-arts-and-community-street-party-b59e9f2e@london-events
+DTSTAMP:20260905T120000Z
+DTSTART:20260905T120000Z
+DTEND:20260905T180000Z
+SUMMARY:Chisenhale Arts and Community Street Party
+DESCRIPTION:Annual street party by Chisenhale Art Place and local resident
+ s: art workshops\, live performances\, communal picnic and raffles just o
+ ff Victoria Park.\nPrice: Free\nhttps://www.eventbrite.co.uk/e/chisenhale
+ -arts-and-community-street-party-tickets-1992998742890
+URL:https://www.eventbrite.co.uk/e/chisenhale-arts-and-community-street-pa
+ rty-tickets-1992998742890
+LOCATION:Chisenhale Road (street)\, Chisenhale Road\, Bow\, E3
+END:VEVENT
+BEGIN:VEVENT
 UID:saturday-night-singles-party-ages-30-50-true-dating-2b255eba@london-ev
  ents
 DTSTAMP:20260905T173000Z
@@ -1617,6 +1744,19 @@ URL:https://luma.com/e0gtnzhq
 LOCATION:Newspeak House\, 133 Bethnal Green Road\, E2 7DG
 END:VEVENT
 BEGIN:VEVENT
+UID:the-elixir-of-love-donizetti-in-english-b05123e8@london-events
+DTSTAMP:20260908T180000Z
+DTSTART:20260908T180000Z
+DTEND:20260908T202000Z
+SUMMARY:The Elixir of Love — Donizetti in English
+DESCRIPTION:Comic Donizetti with a new English libretto\, set at a village
+  fete beside a chocolate factory. Runs 8-19 Sep in the atmospheric music 
+ hall.\nPrice: £14.50-£32\nhttps://wiltons.org.uk/whats-on/the-elixir-of
+ -love/
+URL:https://wiltons.org.uk/whats-on/the-elixir-of-love/
+LOCATION:Wilton's Music Hall\, 1 Graces Alley\, E1 8JB
+END:VEVENT
+BEGIN:VEVENT
 UID:rostam-at-village-underground-9c18192c@london-events
 DTSTAMP:20260908T183000Z
 DTSTART:20260908T183000Z
@@ -1629,6 +1769,20 @@ DESCRIPTION:Rostam Batmanglij (ex-Vampire Weekend\, producer for Haim and
 URL:https://dice.fm/event/oevmyg-rostam-8th-sep-village-underground-london
  -tickets
 LOCATION:Village Underground\, 54 Holywell Lane\, EC2A 3PQ
+END:VEVENT
+BEGIN:VEVENT
+UID:fire-fire-new-play-at-arcola-opening-night-7faaf5bf@london-events
+DTSTAMP:20260909T183000Z
+DTSTART:20260909T183000Z
+DTEND:20260909T195000Z
+SUMMARY:Fire Fire — new play at Arcola (opening night)
+DESCRIPTION:Two strangers meet at a memorial on their estate and end up jo
+ ining forces for drastic climate activism. Runs 9 Sep-3 Oct\; performance
+  times vary across the run — check the booking page.\nPrice: £15-£29 
+ (Pay What You Can Tuesdays)\nhttps://www.arcolatheatre.com/event/fire-fir
+ e/
+URL:https://www.arcolatheatre.com/event/fire-fire/
+LOCATION:Arcola Theatre\, Studio 2\, 24 Ashwin Street\, Dalston\, E8 3DL
 END:VEVENT
 BEGIN:VEVENT
 UID:shoreditch-speed-dating-be-at-one-ages-23-35-september-89364a24@london
@@ -1727,6 +1881,19 @@ URL:https://dandelion.events/e/g3olu
 LOCATION:The Bridge\, Southwark Bridge Road\, SE1
 END:VEVENT
 BEGIN:VEVENT
+UID:ceroc-london-50-50-6-hour-saturday-freestyle-september-237c56bc@london
+ -events
+DTSTAMP:20260912T130000Z
+DTSTART:20260912T130000Z
+DTEND:20260912T190000Z
+SUMMARY:Ceroc London 50:50 — 6-hour Saturday Freestyle (September)
+DESCRIPTION:September edition of the 50:50 daytime freestyle: three hours 
+ of upbeat Ceroc\, then three hours of funky grooves.\nPrice: £16 advance
+  / £18 door\nhttps://www.ceroc.com/30/13685/5050
+URL:https://www.ceroc.com/30/13685/5050
+LOCATION:Edith Neville Primary School\, Purchese Street\, NW1 1RW
+END:VEVENT
+BEGIN:VEVENT
 UID:heart-circle-september-edition-6fb7d192@london-events
 DTSTAMP:20260912T173000Z
 DTSTART:20260912T173000Z
@@ -1752,6 +1919,18 @@ DESCRIPTION:Knock2bag — one of Time Out's top 5 London comedy clubs —
 URL:https://dice.fm/event/53pqgw-k2b-presents-frankie-monroe-fiends-12th-s
  ep-moth-club-london-tickets
 LOCATION:MOTH Club\, Old Trades Hall\, Valette Street\, E9 6NU
+END:VEVENT
+BEGIN:VEVENT
+UID:systemic-family-constellations-evening-14-sep-77543f74@london-events
+DTSTAMP:20260914T173000Z
+DTSTART:20260914T173000Z
+DTEND:20260914T204500Z
+SUMMARY:Systemic & Family Constellations Evening (14 Sep)
+DESCRIPTION:Second September date of the in-person constellations evening 
+ — group representative work exploring family dynamics and behaviour pat
+ terns.\nPrice: £35 (representative)\nhttps://dandelion.events/e/u4wi8
+URL:https://dandelion.events/e/u4wi8
+LOCATION:9 Broadhurst Mansions\, 97 Broadhurst Gardens\, NW6 3QP
 END:VEVENT
 BEGIN:VEVENT
 UID:neumatic-parlo-houndshark-at-sebright-arms-b594b411@london-events
@@ -1830,6 +2009,19 @@ DESCRIPTION:Beginner-friendly hands-on evening covering tarot fundamentals
  ce: £32-£37\nhttps://dandelion.events/e/p9yqe
 URL:https://dandelion.events/e/p9yqe
 LOCATION:21 SID Coffee\, 21 Sidworth Street\, E8 3SD
+END:VEVENT
+BEGIN:VEVENT
+UID:nish-kumar-at-hackney-empire-e1ee85be@london-events
+DTSTAMP:20260918T183000Z
+DTSTART:20260918T183000Z
+DTEND:20260918T203000Z
+SUMMARY:Nish Kumar at Hackney Empire
+DESCRIPTION:The UK's leading political comic brings his passionate\, progr
+ essive stand-up tour to Hackney Empire.\nPrice: £27.50\nhttps://www.hack
+ neyempire.co.uk/events/nish-kumar-angry-humour-from-a-really-nice-guy
+URL:https://www.hackneyempire.co.uk/events/nish-kumar-angry-humour-from-a-
+ really-nice-guy
+LOCATION:Hackney Empire\, 291 Mare Street\, E8 1EJ
 END:VEVENT
 BEGIN:VEVENT
 UID:knees-up-cecil-sharp-ceilidh-autumn-opener-4fe28dea@london-events
