@@ -398,6 +398,18 @@ URL:https://www.angelcomedy.co.uk/event-detail/angel-comedy-fridays-730pm-
 LOCATION:The Bill Murray\, 39 Queen's Head St\, N1 8NQ
 END:VEVENT
 BEGIN:VEVENT
+UID:slow-mornings-plot-9-yin-yoga-meditation-sauna-73fbc732@london-events
+DTSTAMP:20260808T090000Z
+DTSTART:20260808T090000Z
+DTEND:20260808T113000Z
+SUMMARY:Slow Mornings @ Plot 9 — yin yoga\, meditation & sauna
+DESCRIPTION:A gentle Saturday morning at the Plot 9 garden space: slow yin
+  yoga\, guided meditation and refreshments\, with optional sauna after.\n
+ Price: £10-20 sliding scale\nhttps://dandelion.events/e/f3blf
+URL:https://dandelion.events/e/f3blf
+LOCATION:Plot 9\, Restell Close\, Maze Hill\, SE3
+END:VEVENT
+BEGIN:VEVENT
 UID:backyard-biennial-east-neighbourhood-party-5de7cc97@london-events
 DTSTAMP:20260808T100000Z
 DTSTART:20260808T100000Z
@@ -423,6 +435,20 @@ DESCRIPTION:Saturday-afternoon breathwork and sound journey in Hackney wit
  l.\nPrice: £44\nhttps://dandelion.events/e/o9af5
 URL:https://dandelion.events/e/o9af5
 LOCATION:Private studio\, Hackney (address on booking)
+END:VEVENT
+BEGIN:VEVENT
+UID:handle-with-care-free-drop-in-at-wellcome-collection-a62c0684@london-e
+ vents
+DTSTAMP:20260808T120000Z
+DTSTART:20260808T120000Z
+DTEND:20260808T140000Z
+SUMMARY:Handle with Care — free drop-in at Wellcome Collection
+DESCRIPTION:Free Saturday drop-in: handle real items from the health/scien
+ ce collection at staffed stations\, with creative activities alongside. N
+ o booking needed.\nPrice: Free\, drop-in\nhttps://wellcomecollection.org/
+ events/handle-with-care-aug-2026
+URL:https://wellcomecollection.org/events/handle-with-care-aug-2026
+LOCATION:Wellcome Collection (The Forum)\, 183 Euston Road\, NW1 2BE
 END:VEVENT
 BEGIN:VEVENT
 UID:sunset-sessions-open-air-ecstatic-dance-8-aug-edition-6a03c2e6@london-
@@ -482,6 +508,20 @@ URL:https://www.ceroc.com/30/14796/the-big-silc-freestyle
 LOCATION:MPW Queens Gate House\, 65-67 Queen's Gate\, SW7 5JS
 END:VEVENT
 BEGIN:VEVENT
+UID:canalside-sessions-pharoah-russell-quartet-at-grow-a82c731a@london-eve
+ nts
+DTSTAMP:20260809T120000Z
+DTSTART:20260809T120000Z
+DTEND:20260809T150000Z
+SUMMARY:Canalside Sessions: Pharoah Russell Quartet at Grow
+DESCRIPTION:Free Sunday-afternoon live jazz by the canal at Hackney Wick's
+  Grow\, this week featuring the Pharoah Russell Quartet.\nPrice: Free\nht
+ tps://www.growhackney.co.uk/events-calendar
+URL:https://www.growhackney.co.uk/events-calendar
+LOCATION:Grow Hackney\, Main Yard\, 98c Wallis Road\, Hackney Wick\, E9 5L
+ N
+END:VEVENT
+BEGIN:VEVENT
 UID:thursday-30-cocktails-singles-at-fonda-9d1a6686@london-events
 DTSTAMP:20260809T130000Z
 DTSTART:20260809T130000Z
@@ -535,6 +575,19 @@ URL:https://dice.fm/event/l8kblr-sunday-jazz-9th-aug-the-old-blue-last-lon
 LOCATION:The Old Blue Last\, 38 Great Eastern St\, EC2A 3ES
 END:VEVENT
 BEGIN:VEVENT
+UID:monday-ping-pong-social-bounce-battersea-1d6c8479@london-events
+DTSTAMP:20260810T170000Z
+DTSTART:20260810T170000Z
+DTEND:20260810T210000Z
+SUMMARY:Monday Ping Pong Social @ Bounce Battersea
+DESCRIPTION:Weekly Monday ping pong social at Bounce's UV-lit Battersea ve
+ nue — casual play\, skill-tiered mini tournaments and social games. Not
+ e the longer trip (tube easier than bike).\nPrice: £5\nhttps://www.meetu
+ p.com/london-ping-pong-meetup/
+URL:https://www.meetup.com/london-ping-pong-meetup/
+LOCATION:Bounce\, Battersea Power Station\, Circus Road West\, SW11
+END:VEVENT
+BEGIN:VEVENT
 UID:life-drawing-in-the-attic-at-hackney-picturehouse-16d08d42@london-even
  ts
 DTSTAMP:20260811T180000Z
@@ -547,6 +600,31 @@ DESCRIPTION:Relaxed Tuesday-evening drop-in life drawing in the cinema att
  ps://lifedrawing.art/
 URL:https://lifedrawing.art/
 LOCATION:Hackney Picturehouse (attic)\, 270 Mare Street\, E8 1HE
+END:VEVENT
+BEGIN:VEVENT
+UID:jazz-tuesdays-at-netil360-rooftop-free-bd9822a1@london-events
+DTSTAMP:20260811T183000Z
+DTSTART:20260811T183000Z
+DTEND:20260811T203000Z
+SUMMARY:Jazz Tuesdays at Netil360 (rooftop\, free)
+DESCRIPTION:Weekly live acoustic jazz on the Netil House rooftop overlooki
+ ng London Fields\, with happy-hour drinks and pizza before the band start
+ s. Runs every Tuesday.\nPrice: Free (ticket via site)\nhttps://www.netil3
+ 60.com/jazz-tuesdays
+URL:https://www.netil360.com/jazz-tuesdays
+LOCATION:Netil360\, 1 Westgate St\, E8 3RL
+END:VEVENT
+BEGIN:VEVENT
+UID:jazz-wednesdays-at-nt-s-loft-d5ebc257@london-events
+DTSTAMP:20260812T170000Z
+DTSTART:20260812T170000Z
+DTEND:20260812T223000Z
+SUMMARY:Jazz Wednesdays at NT's Loft
+DESCRIPTION:Weekly Wednesday session of improvised jazz\, soul\, broken-be
+ at and hip-hop at Hackney Central's loft venue. Runs every Wednesday.\nPr
+ ice: Free before 7:30pm\nhttps://www.ntloft.co.uk/jazz-nights
+URL:https://www.ntloft.co.uk/jazz-nights
+LOCATION:NT's Loft\, Bohemia Place\, Hackney Central\, E8
 END:VEVENT
 BEGIN:VEVENT
 UID:simply-being-5rhythms-new-moon-eclipse-garden-special-19fd876c@london-
@@ -1822,6 +1900,19 @@ URL:https://dice.fm/event/53pqgw-k2b-presents-frankie-monroe-fiends-12th-s
 LOCATION:MOTH Club\, Old Trades Hall\, Valette Street\, E9 6NU
 END:VEVENT
 BEGIN:VEVENT
+UID:the-science-of-star-trek-royal-institution-f99bb617@london-events
+DTSTAMP:20260912T180000Z
+DTSTART:20260912T180000Z
+DTEND:20260912T193000Z
+SUMMARY:The Science of Star Trek — Royal Institution
+DESCRIPTION:Saturday-evening celebration of 60 years of Star Trek in the n
+ ewly refurbished Ri theatre: where the show's science was right\, stretch
+ ed\, or prophetic.\nPrice: £16/£10\nhttps://www.rigb.org/whats-on/scien
+ ce-star-trek
+URL:https://www.rigb.org/whats-on/science-star-trek
+LOCATION:Royal Institution Theatre\, 21 Albemarle Street\, W1S 4BS
+END:VEVENT
+BEGIN:VEVENT
 UID:systemic-family-constellations-evening-14-sep-77543f74@london-events
 DTSTAMP:20260914T173000Z
 DTSTART:20260914T173000Z
@@ -1899,6 +1990,21 @@ URL:https://dice.fm/event/v3y337--laura-veirs-16th-sep-earth-london-ticket
 LOCATION:EartH\, 11-17 Stoke Newington Road\, N16 8BP
 END:VEVENT
 BEGIN:VEVENT
+UID:intelligence-squared-an-evening-with-sebastian-faulks-493f114a@london-
+ events
+DTSTAMP:20260916T183000Z
+DTSTART:20260916T183000Z
+DTEND:20260916T194500Z
+SUMMARY:Intelligence Squared: An Evening with Sebastian Faulks
+DESCRIPTION:Intelligence Squared hosts novelist Sebastian Faulks discussin
+ g his new novel Farewell to Eden\, at London's humanist home of big ideas
+ .\nhttps://www.conwayhall.org.uk/whats-on/event/an-evening-with-sebastian
+ -faulks/
+URL:https://www.conwayhall.org.uk/whats-on/event/an-evening-with-sebastian
+ -faulks/
+LOCATION:Conway Hall\, 25 Red Lion Square\, WC1R 4RL
+END:VEVENT
+BEGIN:VEVENT
 UID:tarot-for-beginners-numerology-the-fool-s-journey-b8deeebd@london-even
  ts
 DTSTAMP:20260917T173000Z
@@ -1910,6 +2016,19 @@ DESCRIPTION:Beginner-friendly hands-on evening covering tarot fundamentals
  ce: £32-£37\nhttps://dandelion.events/e/p9yqe
 URL:https://dandelion.events/e/p9yqe
 LOCATION:21 SID Coffee\, 21 Sidworth Street\, E8 3SD
+END:VEVENT
+BEGIN:VEVENT
+UID:live-jazz-jam-with-stratos-at-grow-cfc4dd05@london-events
+DTSTAMP:20260917T180000Z
+DTSTART:20260917T180000Z
+DTEND:20260917T220000Z
+SUMMARY:Live Jazz Jam with Stratos at Grow
+DESCRIPTION:Weekly Thursday jazz jam led by Mercury-nominated bassist Rio 
+ Kai's band Stratos — hard bop and fusion\, then an open jam. Canalside 
+ venue.\nPrice: Free\nhttps://www.growhackney.co.uk/events-calendar
+URL:https://www.growhackney.co.uk/events-calendar
+LOCATION:Grow Hackney\, Main Yard\, 98c Wallis Road\, Hackney Wick\, E9 5L
+ N
 END:VEVENT
 BEGIN:VEVENT
 UID:nish-kumar-at-hackney-empire-e1ee85be@london-events
@@ -1938,5 +2057,31 @@ DESCRIPTION:The monthly English ceilidh at the home of folk dance\, with l
 URL:https://www.efdss.org/whats-on/27-dances/15766-knees-up-cecil-sharp-ce
  ilidh-2026
 LOCATION:Cecil Sharp House\, 2 Regent's Park Road\, NW1 7AY
+END:VEVENT
+BEGIN:VEVENT
+UID:forage-and-meditate-on-london-canals-september-edition-2e58fdef@london
+ -events
+DTSTAMP:20260919T090000Z
+DTSTART:20260919T090000Z
+DTEND:20260919T120000Z
+SUMMARY:Forage and Meditate on London Canals (September edition)
+DESCRIPTION:September edition of the guided foraging-plus-mindfulness cana
+ l walk\, tasting seasonal wild food and closing with a grounding meditati
+ on.\nPrice: £20-30 sliding scale\nhttps://dandelion.events/e/c6z95
+URL:https://dandelion.events/e/c6z95
+LOCATION:Hackney Wick canalside (meet near station)
+END:VEVENT
+BEGIN:VEVENT
+UID:embracing-grief-a-one-day-community-journey-ac2f45fd@london-events
+DTSTAMP:20260919T090000Z
+DTSTART:20260919T090000Z
+DTEND:20260919T170000Z
+SUMMARY:Embracing Grief: A One-Day Community Journey
+DESCRIPTION:A facilitated day of guided exercises and rituals for working 
+ with grief\, loss and difficult emotion in community. Clashes with the ca
+ nal forage that morning — pick one.\nPrice: £55-130 sliding scale (bur
+ saries)\nhttps://dandelion.events/e/e5vdk
+URL:https://dandelion.events/e/e5vdk
+LOCATION:Hackney E5 (venue on booking)
 END:VEVENT
 END:VCALENDAR

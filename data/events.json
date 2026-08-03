@@ -521,6 +521,25 @@
     "added": "2026-07-30"
   },
   {
+    "title": "Slow Mornings @ Plot 9 — yin yoga, meditation & sauna",
+    "start": "2026-08-08T10:00:00+01:00",
+    "end": "2026-08-08T12:30:00+01:00",
+    "venue": "Plot 9",
+    "address": "Restell Close, Maze Hill, SE3",
+    "url": "https://dandelion.events/e/f3blf",
+    "source": "listing:dandelion",
+    "tags": [
+      "class",
+      "community"
+    ],
+    "price": "£10-20 sliding scale",
+    "description": "A gentle Saturday morning at the Plot 9 garden space: slow yin yoga, guided meditation and refreshments, with optional sauna after.",
+    "neighbourhood": "Greenwich",
+    "cycle_minutes": 40,
+    "id": "slow-mornings-plot-9-yin-yoga-meditation-sauna-73fbc732",
+    "added": "2026-08-03"
+  },
+  {
     "title": "Backyard Biennial: East — Neighbourhood Party",
     "start": "2026-08-08T11:00:00+01:00",
     "end": "2026-08-08T23:00:00+01:00",
@@ -558,6 +577,25 @@
     "cycle_minutes": 12,
     "id": "breathe-sound-medicine-9142ae50",
     "added": "2026-07-30"
+  },
+  {
+    "title": "Handle with Care — free drop-in at Wellcome Collection",
+    "start": "2026-08-08T13:00:00+01:00",
+    "end": "2026-08-08T15:00:00+01:00",
+    "venue": "Wellcome Collection (The Forum)",
+    "address": "183 Euston Road, NW1 2BE",
+    "url": "https://wellcomecollection.org/events/handle-with-care-aug-2026",
+    "source": "keyword-search",
+    "tags": [
+      "workshop",
+      "community"
+    ],
+    "price": "Free, drop-in",
+    "description": "Free Saturday drop-in: handle real items from the health/science collection at staffed stations, with creative activities alongside. No booking needed.",
+    "neighbourhood": "Euston",
+    "cycle_minutes": 26,
+    "id": "handle-with-care-free-drop-in-at-wellcome-collection-a62c0684",
+    "added": "2026-08-03"
   },
   {
     "title": "Sunset Sessions — open-air ecstatic dance (8 Aug edition)",
@@ -631,6 +669,25 @@
     "cycle_minutes": 45,
     "id": "the-big-silc-freestyle-ceroc-silc-wcs-8af52ee9",
     "added": "2026-07-13"
+  },
+  {
+    "title": "Canalside Sessions: Pharoah Russell Quartet at Grow",
+    "start": "2026-08-09T13:00:00+01:00",
+    "end": "2026-08-09T16:00:00+01:00",
+    "venue": "Grow Hackney",
+    "address": "Main Yard, 98c Wallis Road, Hackney Wick, E9 5LN",
+    "url": "https://www.growhackney.co.uk/events-calendar",
+    "source": "keyword-search",
+    "tags": [
+      "music",
+      "outdoors"
+    ],
+    "price": "Free",
+    "description": "Free Sunday-afternoon live jazz by the canal at Hackney Wick's Grow, this week featuring the Pharoah Russell Quartet.",
+    "neighbourhood": "Hackney Wick",
+    "cycle_minutes": 14,
+    "id": "canalside-sessions-pharoah-russell-quartet-at-grow-a82c731a",
+    "added": "2026-08-03"
   },
   {
     "title": "Thursday: 30+ Cocktails & Singles at Fonda",
@@ -709,6 +766,24 @@
     "added": "2026-07-30"
   },
   {
+    "title": "Monday Ping Pong Social @ Bounce Battersea",
+    "start": "2026-08-10T18:00:00+01:00",
+    "end": "2026-08-10T22:00:00+01:00",
+    "venue": "Bounce, Battersea Power Station",
+    "address": "Circus Road West, SW11",
+    "url": "https://www.meetup.com/london-ping-pong-meetup/",
+    "source": "keyword-search",
+    "tags": [
+      "community"
+    ],
+    "price": "£5",
+    "description": "Weekly Monday ping pong social at Bounce's UV-lit Battersea venue — casual play, skill-tiered mini tournaments and social games. Note the longer trip (tube easier than bike).",
+    "neighbourhood": "Battersea",
+    "cycle_minutes": 50,
+    "id": "monday-ping-pong-social-bounce-battersea-1d6c8479",
+    "added": "2026-08-03"
+  },
+  {
     "title": "Life Drawing in the attic at Hackney Picturehouse",
     "start": "2026-08-11T19:00:00+01:00",
     "end": null,
@@ -726,6 +801,43 @@
     "cycle_minutes": 10,
     "id": "life-drawing-in-the-attic-at-hackney-picturehouse-16d08d42",
     "added": "2026-07-28"
+  },
+  {
+    "title": "Jazz Tuesdays at Netil360 (rooftop, free)",
+    "start": "2026-08-11T19:30:00+01:00",
+    "end": null,
+    "venue": "Netil360",
+    "address": "1 Westgate St, E8 3RL",
+    "url": "https://www.netil360.com/jazz-tuesdays",
+    "source": "keyword-search",
+    "tags": [
+      "music",
+      "outdoors"
+    ],
+    "price": "Free (ticket via site)",
+    "description": "Weekly live acoustic jazz on the Netil House rooftop overlooking London Fields, with happy-hour drinks and pizza before the band starts. Runs every Tuesday.",
+    "neighbourhood": "London Fields",
+    "cycle_minutes": 10,
+    "id": "jazz-tuesdays-at-netil360-rooftop-free-bd9822a1",
+    "added": "2026-08-03"
+  },
+  {
+    "title": "Jazz Wednesdays at NT's Loft",
+    "start": "2026-08-12T18:00:00+01:00",
+    "end": "2026-08-12T23:30:00+01:00",
+    "venue": "NT's Loft",
+    "address": "Bohemia Place, Hackney Central, E8",
+    "url": "https://www.ntloft.co.uk/jazz-nights",
+    "source": "keyword-search",
+    "tags": [
+      "music"
+    ],
+    "price": "Free before 7:30pm",
+    "description": "Weekly Wednesday session of improvised jazz, soul, broken-beat and hip-hop at Hackney Central's loft venue. Runs every Wednesday.",
+    "neighbourhood": "Hackney Central",
+    "cycle_minutes": 12,
+    "id": "jazz-wednesdays-at-nt-s-loft-d5ebc257",
+    "added": "2026-08-03"
   },
   {
     "title": "Simply Being 5Rhythms New Moon Eclipse Garden Special",
@@ -2434,6 +2546,24 @@
     "added": "2026-07-31"
   },
   {
+    "title": "The Science of Star Trek — Royal Institution",
+    "start": "2026-09-12T19:00:00+01:00",
+    "end": "2026-09-12T20:30:00+01:00",
+    "venue": "Royal Institution Theatre",
+    "address": "21 Albemarle Street, W1S 4BS",
+    "url": "https://www.rigb.org/whats-on/science-star-trek",
+    "source": "keyword-search",
+    "tags": [
+      "talk"
+    ],
+    "price": "£16/£10",
+    "description": "Saturday-evening celebration of 60 years of Star Trek in the newly refurbished Ri theatre: where the show's science was right, stretched, or prophetic.",
+    "neighbourhood": "Mayfair",
+    "cycle_minutes": 35,
+    "id": "the-science-of-star-trek-royal-institution-f99bb617",
+    "added": "2026-08-03"
+  },
+  {
     "title": "Systemic & Family Constellations Evening (14 Sep)",
     "start": "2026-09-14T18:30:00+01:00",
     "end": "2026-09-14T21:45:00+01:00",
@@ -2543,6 +2673,24 @@
     "added": "2026-07-31"
   },
   {
+    "title": "Intelligence Squared: An Evening with Sebastian Faulks",
+    "start": "2026-09-16T19:30:00+01:00",
+    "end": "2026-09-16T20:45:00+01:00",
+    "venue": "Conway Hall",
+    "address": "25 Red Lion Square, WC1R 4RL",
+    "url": "https://www.conwayhall.org.uk/whats-on/event/an-evening-with-sebastian-faulks/",
+    "source": "keyword-search",
+    "tags": [
+      "talk"
+    ],
+    "price": null,
+    "description": "Intelligence Squared hosts novelist Sebastian Faulks discussing his new novel Farewell to Eden, at London's humanist home of big ideas.",
+    "neighbourhood": "Holborn",
+    "cycle_minutes": 22,
+    "id": "intelligence-squared-an-evening-with-sebastian-faulks-493f114a",
+    "added": "2026-08-03"
+  },
+  {
     "title": "Tarot for Beginners: Numerology & the Fool's Journey",
     "start": "2026-09-17T18:30:00+01:00",
     "end": "2026-09-17T21:30:00+01:00",
@@ -2560,6 +2708,25 @@
     "cycle_minutes": 10,
     "id": "tarot-for-beginners-numerology-the-fool-s-journey-b8deeebd",
     "added": "2026-08-01"
+  },
+  {
+    "title": "Live Jazz Jam with Stratos at Grow",
+    "start": "2026-09-17T19:00:00+01:00",
+    "end": "2026-09-17T23:00:00+01:00",
+    "venue": "Grow Hackney",
+    "address": "Main Yard, 98c Wallis Road, Hackney Wick, E9 5LN",
+    "url": "https://www.growhackney.co.uk/events-calendar",
+    "source": "keyword-search",
+    "tags": [
+      "music",
+      "community"
+    ],
+    "price": "Free",
+    "description": "Weekly Thursday jazz jam led by Mercury-nominated bassist Rio Kai's band Stratos — hard bop and fusion, then an open jam. Canalside venue.",
+    "neighbourhood": "Hackney Wick",
+    "cycle_minutes": 14,
+    "id": "live-jazz-jam-with-stratos-at-grow-cfc4dd05",
+    "added": "2026-08-03"
   },
   {
     "title": "Nish Kumar at Hackney Empire",
@@ -2598,5 +2765,43 @@
     "cycle_minutes": 32,
     "id": "knees-up-cecil-sharp-ceilidh-autumn-opener-4fe28dea",
     "added": "2026-07-24"
+  },
+  {
+    "title": "Forage and Meditate on London Canals (September edition)",
+    "start": "2026-09-19T10:00:00+01:00",
+    "end": "2026-09-19T13:00:00+01:00",
+    "venue": "Hackney Wick canalside (meet near station)",
+    "address": null,
+    "url": "https://dandelion.events/e/c6z95",
+    "source": "listing:dandelion",
+    "tags": [
+      "outdoors",
+      "workshop"
+    ],
+    "price": "£20-30 sliding scale",
+    "description": "September edition of the guided foraging-plus-mindfulness canal walk, tasting seasonal wild food and closing with a grounding meditation.",
+    "neighbourhood": "Hackney Wick",
+    "cycle_minutes": 14,
+    "id": "forage-and-meditate-on-london-canals-september-edition-2e58fdef",
+    "added": "2026-08-03"
+  },
+  {
+    "title": "Embracing Grief: A One-Day Community Journey",
+    "start": "2026-09-19T10:00:00+01:00",
+    "end": "2026-09-19T18:00:00+01:00",
+    "venue": "Hackney E5 (venue on booking)",
+    "address": null,
+    "url": "https://dandelion.events/e/e5vdk",
+    "source": "listing:dandelion",
+    "tags": [
+      "workshop",
+      "community"
+    ],
+    "price": "£55-130 sliding scale (bursaries)",
+    "description": "A facilitated day of guided exercises and rituals for working with grief, loss and difficult emotion in community. Clashes with the canal forage that morning — pick one.",
+    "neighbourhood": "Clapton",
+    "cycle_minutes": 12,
+    "id": "embracing-grief-a-one-day-community-journey-ac2f45fd",
+    "added": "2026-08-03"
   }
 ]
