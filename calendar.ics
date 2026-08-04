@@ -221,6 +221,20 @@ URL:https://www.eventbrite.co.uk/e/kismet-board-games-5-august-tickets-199
 LOCATION:Kismet Café & Gallery\, 104 Cavell Street\, E1 2JA
 END:VEVENT
 BEGIN:VEVENT
+UID:2-weds-we-lost-alice-naked-brunch-lex-vervain-b424a4af@london-events
+DTSTAMP:20260805T183000Z
+DTSTART:20260805T183000Z
+DTEND:20260805T203000Z
+SUMMARY:£2 WEDS: We Lost Alice + Naked Brunch + Lex Vervain
+DESCRIPTION:The Victoria's £2 Wednesday new-band night with three indie a
+ cts in the small back room — the cheapest gig of the week.\nPrice: £2\
+ nhttps://dice.fm/event/dkdvwq-2-weds-we-lost-alice-naked-brunch-lex-verva
+ in-5th-aug-the-victoria-london-tickets
+URL:https://dice.fm/event/dkdvwq-2-weds-we-lost-alice-naked-brunch-lex-ver
+ vain-5th-aug-the-victoria-london-tickets
+LOCATION:The Victoria\, 451 Queensbridge Road\, London E8 3AS
+END:VEVENT
+BEGIN:VEVENT
 UID:contact-beyond-contact-cbc-workshop-1bde84f7@london-events
 DTSTAMP:20260806T173000Z
 DTSTART:20260806T173000Z
@@ -274,6 +288,20 @@ DESCRIPTION:Thursday's flagship mixed singles bar night takes over Boxpark
 URL:https://www.thursday.com/events/london/6071cc74-19cd-4748-8ab1-5fea300
  504c2
 LOCATION:BOXPARK Shoreditch\, 2-10 Bethnal Green Rd\, E1 6GY
+END:VEVENT
+BEGIN:VEVENT
+UID:thursday-30-singles-rooftop-kings-cross-1b4bd925@london-events
+DTSTAMP:20260806T180000Z
+DTSTART:20260806T180000Z
+DTEND:20260806T210000Z
+SUMMARY:Thursday: 30+ Singles Rooftop — Kings Cross
+DESCRIPTION:Thursday's rooftop singles night for the 30+ crowd — sunset 
+ drinks and hosted mingling with views over St Pancras. Rooftop capacity l
+ imited\, so book early.\nhttps://www.thursday.com/events/london/db556646-
+ 6a97-4f02-a794-4fe658f3ba56
+URL:https://www.thursday.com/events/london/db556646-6a97-4f02-a794-4fe658f
+ 3ba56
+LOCATION:Regent's Rooftop\, Kings Cross\, London
 END:VEVENT
 BEGIN:VEVENT
 UID:ebony-live-at-village-underground-43ccff76@london-events
@@ -456,6 +484,22 @@ URL:https://www.ceroc.com/30/14796/the-big-silc-freestyle
 LOCATION:MPW Queens Gate House\, 65-67 Queen's Gate\, SW7 5JS
 END:VEVENT
 BEGIN:VEVENT
+UID:thursday-singles-museum-walk-and-lunch-at-the-v-a-39040b5f@london-even
+ ts
+DTSTAMP:20260809T100000Z
+DTSTART:20260809T100000Z
+DTEND:20260809T130000Z
+SUMMARY:Thursday: Singles Museum Walk and Lunch at the V&A
+DESCRIPTION:Hosted singles-only stroll through the V&A followed by group l
+ unch nearby — small group\, conversation-first Sunday format. Far west:
+  tube beats bike for this one.\nhttps://www.thursday.com/events/london/86
+ 60aa64-ee59-430b-9f25-899c9eee6ee0
+URL:https://www.thursday.com/events/london/8660aa64-ee59-430b-9f25-899c9ee
+ e6ee0
+LOCATION:V&A Museum (meet outside main entrance)\, Cromwell Road\, South K
+ ensington SW7
+END:VEVENT
+BEGIN:VEVENT
 UID:canalside-sessions-pharoah-russell-quartet-at-grow-a82c731a@london-eve
  nts
 DTSTAMP:20260809T120000Z
@@ -536,6 +580,35 @@ URL:https://www.meetup.com/london-ping-pong-meetup/
 LOCATION:Bounce\, Battersea Power Station\, Circus Road West\, SW11
 END:VEVENT
 BEGIN:VEVENT
+UID:elliot-gray-just-like-honey-babe-at-sebright-arms-c45ab00e@london-even
+ ts
+DTSTAMP:20260810T183000Z
+DTSTART:20260810T183000Z
+DTEND:20260810T203000Z
+SUMMARY:Elliot Gray + Just Like Honey + Babe at Sebright Arms
+DESCRIPTION:Free Monday-night triple bill of new indie acts in the Sebrigh
+ t's basement venue\, a few streets from home.\nPrice: Free\nhttps://dice.
+ fm/event/6d8oq7-elliot-gray-just-like-honey-babe-10th-aug-sebright-arms-l
+ ondon-tickets
+URL:https://dice.fm/event/6d8oq7-elliot-gray-just-like-honey-babe-10th-aug
+ -sebright-arms-london-tickets
+LOCATION:Sebright Arms\, 31-35 Coate Street\, Bethnal Green\, E2 9AG
+END:VEVENT
+BEGIN:VEVENT
+UID:thursday-singles-pottery-night-at-pottery-caf-cc169c17@london-events
+DTSTAMP:20260811T173000Z
+DTSTART:20260811T173000Z
+DTEND:20260811T200000Z
+SUMMARY:Thursday: Singles Pottery Night at Pottery Café
+DESCRIPTION:Singles-only pottery-painting evening at London's original pot
+ tery cafe — July's edition sold out. Pottery + dating in one\; the trek
+  to Battersea is the only catch (train easier than bike).\nhttps://www.th
+ ursday.com/events/london/8232428a-3f88-425d-97f4-51c10a0f24e1
+URL:https://www.thursday.com/events/london/8232428a-3f88-425d-97f4-51c10a0
+ f24e1
+LOCATION:Pottery Café\, Battersea\, London SW11
+END:VEVENT
+BEGIN:VEVENT
 UID:life-drawing-in-the-attic-at-hackney-picturehouse-16d08d42@london-even
  ts
 DTSTAMP:20260811T180000Z
@@ -561,6 +634,21 @@ DESCRIPTION:Weekly live acoustic jazz on the Netil House rooftop overlooki
  60.com/jazz-tuesdays
 URL:https://www.netil360.com/jazz-tuesdays
 LOCATION:Netil360\, 1 Westgate St\, E8 3RL
+END:VEVENT
+BEGIN:VEVENT
+UID:state-of-heat-louis-gardner-visit-me-brette-wolfe-free-be6423ed@london
+ -events
+DTSTAMP:20260811T183000Z
+DTSTART:20260811T183000Z
+DTEND:20260811T203000Z
+SUMMARY:STATE OF HEAT: Louis Gardner + Visit Me + Brette Wolfe (free)
+DESCRIPTION:Free Tuesday new-music showcase upstairs at the Old Blue Last 
+ — zero-commitment weeknight gig ten minutes away.\nPrice: Free\nhttps:/
+ /dice.fm/event/ry8r8v-state-of-heat-louis-gardner-visit-me-brette-wolfe-1
+ 1th-aug-the-old-blue-last-london-tickets
+URL:https://dice.fm/event/ry8r8v-state-of-heat-louis-gardner-visit-me-bret
+ te-wolfe-11th-aug-the-old-blue-last-london-tickets
+LOCATION:The Old Blue Last\, 38 Great Eastern St\, EC2A 3ES
 END:VEVENT
 BEGIN:VEVENT
 UID:jazz-wednesdays-at-nt-s-loft-d5ebc257@london-events
@@ -619,6 +707,19 @@ LOCATION:Jamie Oliver Catherine St (Pavilion Room)\, 6 Catherine St\, WC2B
   5JY
 END:VEVENT
 BEGIN:VEVENT
+UID:tom-s-m-rmaid-ivor-woods-free-247f49a4@london-events
+DTSTAMP:20260812T183000Z
+DTSTART:20260812T183000Z
+DTEND:20260812T203000Z
+SUMMARY:TOMÁS + MÖRMAID + IVOR WOODS (free)
+DESCRIPTION:Free Wednesday triple bill of emerging acts at the Old Blue La
+ st.\nPrice: Free\nhttps://dice.fm/event/2w5a6o-toms-mrmaid-ivor-woods-12t
+ h-aug-the-old-blue-last-london-tickets
+URL:https://dice.fm/event/2w5a6o-toms-mrmaid-ivor-woods-12th-aug-the-old-b
+ lue-last-london-tickets
+LOCATION:The Old Blue Last\, 38 Great Eastern St\, EC2A 3ES
+END:VEVENT
+BEGIN:VEVENT
 UID:emotional-freedom-inquiry-somatic-release-circle-august-edit-00dc3529@
  london-events
 DTSTAMP:20260813T173000Z
@@ -660,6 +761,22 @@ DESCRIPTION:Mixed speed dating from True Dating for ages 23-35: up to 15 f
 URL:https://www.eventbrite.co.uk/e/shoreditch-speed-dating-be-at-one-ages-
  23-35-tickets-1989375388339
 LOCATION:Be At One\, Shoreditch\, 348 Old Street\, EC1V 9NQ
+END:VEVENT
+BEGIN:VEVENT
+UID:closeup-summer-series-mac-wetha-at-sebright-arms-196816e9@london-event
+ s
+DTSTAMP:20260813T183000Z
+DTSTART:20260813T183000Z
+DTEND:20260813T203000Z
+SUMMARY:closeup summer series: mac wetha at Sebright Arms
+DESCRIPTION:Producer/songwriter mac wetha (Nine8 collective) plays a strip
+ ped-back basement set in closeup's intimate summer series — same series
+  as the Eaves Wilder show already on the calendar.\nPrice: £14.25\nhttps
+ ://dice.fm/event/92knro-closeup-summer-series-2026-mac-wetha-13th-aug-seb
+ right-arms-london-tickets
+URL:https://dice.fm/event/92knro-closeup-summer-series-2026-mac-wetha-13th
+ -aug-sebright-arms-london-tickets
+LOCATION:Sebright Arms\, 31-35 Coate Street\, Bethnal Green\, E2 9AG
 END:VEVENT
 BEGIN:VEVENT
 UID:double-holotropic-breathwork-experiential-weekend-902ed665@london-even
@@ -831,6 +948,21 @@ URL:https://dice.fm/event/nv5b9q-friko-17th-aug-moth-club-london-tickets
 LOCATION:MOTH Club\, Old Trades Hall\, Valette St\, E9 6NU
 END:VEVENT
 BEGIN:VEVENT
+UID:the-doo-wolfy-stef-kett-vera-body-orchestra-free-8a8021af@london-event
+ s
+DTSTAMP:20260817T183000Z
+DTSTART:20260817T183000Z
+DTEND:20260817T203000Z
+SUMMARY:The Doo Wolfy + Stef Kett + Vera + Body Orchestra (free)
+DESCRIPTION:Free Monday four-band bill at the Old Blue Last — easy start
+  to the week.\nPrice: Free\nhttps://dice.fm/event/8e9ygr-the-doo-wolfy-st
+ ef-kett-vera-body-orchestra-solo-17th-aug-the-old-blue-last-london-ticket
+ s
+URL:https://dice.fm/event/8e9ygr-the-doo-wolfy-stef-kett-vera-body-orchest
+ ra-solo-17th-aug-the-old-blue-last-london-tickets
+LOCATION:The Old Blue Last\, 38 Great Eastern St\, EC2A 3ES
+END:VEVENT
+BEGIN:VEVENT
 UID:words-from-the-other-side-poetry-as-a-practice-for-altered-s-65debca2@
  london-events
 DTSTAMP:20260818T170000Z
@@ -891,6 +1023,21 @@ URL:https://dice.fm/event/bbrg7x-mtrik-19th-aug-paper-dress-vintage-london
 LOCATION:Paper Dress Vintage\, 352a Mare Street\, E8 1HR
 END:VEVENT
 BEGIN:VEVENT
+UID:closeup-summer-series-vincents-last-summer-at-sebright-arms-da0a801f@l
+ ondon-events
+DTSTAMP:20260819T183000Z
+DTSTART:20260819T183000Z
+DTEND:20260819T203000Z
+SUMMARY:closeup summer series: Vincents Last Summer at Sebright Arms
+DESCRIPTION:Cheap Wednesday edition of closeup's intimate summer series wi
+ th rising act Vincents Last Summer.\nPrice: £8.50\nhttps://dice.fm/event
+ /v3nl27-closeup-summer-series-2026-vincents-last-summer-19th-aug-sebright
+ -arms-london-tickets
+URL:https://dice.fm/event/v3nl27-closeup-summer-series-2026-vincents-last-
+ summer-19th-aug-sebright-arms-london-tickets
+LOCATION:Sebright Arms\, 31-35 Coate Street\, Bethnal Green\, E2 9AG
+END:VEVENT
+BEGIN:VEVENT
 UID:a-song-for-the-xeedho-late-backyard-biennial-802b49de@london-events
 DTSTAMP:20260820T173000Z
 DTSTART:20260820T173000Z
@@ -941,6 +1088,35 @@ DESCRIPTION:An hour of group meditation on awareness followed by an hour o
  n.events/e/a6a8o
 URL:https://dandelion.events/e/a6a8o
 LOCATION:The Meditatio Centre\, Myddelton Square\, EC1R 1XX
+END:VEVENT
+BEGIN:VEVENT
+UID:thursday-unlock-your-perfect-match-at-the-old-queens-head-df8a17b2@lon
+ don-events
+DTSTAMP:20260820T180000Z
+DTSTART:20260820T180000Z
+DTEND:20260820T220000Z
+SUMMARY:Thursday: Unlock Your Perfect Match at the Old Queens Head
+DESCRIPTION:Mixed singles takeover of the Old Queens Head with 'Matchbox' 
+ compatibility software pairing you with your most compatible match in the
+  room.\nhttps://www.thursday.com/events/london/32c6e669-dfe9-4015-b8a1-11
+ 81059d19db
+URL:https://www.thursday.com/events/london/32c6e669-dfe9-4015-b8a1-1181059
+ d19db
+LOCATION:Old Queens Head\, 44 Essex Road\, Angel\, N1 8LN
+END:VEVENT
+BEGIN:VEVENT
+UID:fionn-boland-and-friends-at-paper-dress-vintage-df73cad9@london-events
+DTSTAMP:20260820T183000Z
+DTSTART:20260820T183000Z
+DTEND:20260820T203000Z
+SUMMARY:Fionn Boland and Friends at Paper Dress Vintage
+DESCRIPTION:Singer-songwriter Fionn Boland with guests upstairs at the vin
+ tage-shop venue — folk-leaning Thursday show.\nPrice: £13.04\nhttps://
+ dice.fm/event/q2pw6x-fionn-boland-and-friends-20th-aug-paper-dress-vintag
+ e-london-tickets
+URL:https://dice.fm/event/q2pw6x-fionn-boland-and-friends-20th-aug-paper-d
+ ress-vintage-london-tickets
+LOCATION:Paper Dress Vintage\, 352A Mare Street\, E8 1HR
 END:VEVENT
 BEGIN:VEVENT
 UID:breathwork-harmonizing-sound-and-sacred-cacao-ceremony-0991360c@london
@@ -1134,6 +1310,21 @@ URL:https://dandelion.events/e/a7khm
 LOCATION:Bunhill Fields Quaker Meeting House\, Quaker Court\, EC1Y 8QQ
 END:VEVENT
 BEGIN:VEVENT
+UID:speed-dating-speed-karaoke-at-moth-club-25-aug-edition-9bd6fb05@london
+ -events
+DTSTAMP:20260825T180000Z
+DTSTART:20260825T180000Z
+DTEND:20260825T200000Z
+SUMMARY:Speed Dating + Speed Karaoke at MOTH Club (25 Aug edition)
+DESCRIPTION:New date for the mixed 20s/30s speed dating + speed karaoke ni
+ ght under MOTH Club's glitter ceiling — the 5 Aug edition is also on th
+ e calendar.\nPrice: £9.50\nhttps://dice.fm/event/bb7yxo-speed-dating-spe
+ ed-karaoke-25th-aug-moth-club-london-tickets
+URL:https://dice.fm/event/bb7yxo-speed-dating-speed-karaoke-25th-aug-moth-
+ club-london-tickets
+LOCATION:MOTH Club\, Old Trades Hall\, Valette Street\, E9 6NU
+END:VEVENT
+BEGIN:VEVENT
 UID:carson-mchone-birds-flying-backwards-at-the-shacklewell-arms-ef41f4c7@
  london-events
 DTSTAMP:20260825T183000Z
@@ -1164,6 +1355,20 @@ LOCATION:Bush House Auditorium\, King's College London\, 30 Aldwych\, WC2B
   4BG
 END:VEVENT
 BEGIN:VEVENT
+UID:psysoc-social-speed-friending-psychedelic-storytelling-8214ede7@london
+ -events
+DTSTAMP:20260826T174500Z
+DTSTART:20260826T174500Z
+DTEND:20260826T203000Z
+SUMMARY:PsySoc Social: Speed-Friending & Psychedelic Storytelling
+DESCRIPTION:Psychedelic Society social night on your doorstep: structured 
+ speed-friending rounds plus storytelling — an easy way to meet the cons
+ cious-community crowd locally.\nPrice: £8-£20 sliding scale\nhttps://da
+ ndelion.events/e/g2eb2
+URL:https://dandelion.events/e/g2eb2
+LOCATION:Love Shack\, Cambridge Heath Road\, Bethnal Green
+END:VEVENT
+BEGIN:VEVENT
 UID:fantasy-of-a-broken-heart-at-the-shacklewell-arms-4f9b5bcc@london-even
  ts
 DTSTAMP:20260826T180000Z
@@ -1177,6 +1382,19 @@ DESCRIPTION:Brooklyn art-pop/indie duo Fantasy of a Broken Heart bring the
 URL:https://formpresents.seetickets.com/event/fantasy-of-a-broken-heart/th
  e-shacklewell-arms/3662430
 LOCATION:The Shacklewell Arms\, 71 Shacklewell Lane\, E8 2EB
+END:VEVENT
+BEGIN:VEVENT
+UID:scarsdale-fats-summer-headline-at-sebright-arms-6e45b575@london-events
+DTSTAMP:20260826T180000Z
+DTSTART:20260826T180000Z
+DTEND:20260826T200000Z
+SUMMARY:Scarsdale Fats — Summer Headline at Sebright Arms
+DESCRIPTION:Cheap Wednesday headline show in the Sebright basement.\nPrice
+ : £11\nhttps://dice.fm/event/g53vvb-scarsdale-fats-summer-headline-26th-
+ aug-sebright-arms-london-tickets
+URL:https://dice.fm/event/g53vvb-scarsdale-fats-summer-headline-26th-aug-s
+ ebright-arms-london-tickets
+LOCATION:Sebright Arms\, 31-35 Coate Street\, Bethnal Green\, E2 9AG
 END:VEVENT
 BEGIN:VEVENT
 UID:imagine-the-future-of-east-london-creative-workshop-e9702b49@london-ev
@@ -1247,6 +1465,19 @@ DESCRIPTION:Indie/slowcore band Cusk in the Shacklewell's intimate back ro
 URL:https://dice.fm/event/2wy5am-cusk-27th-aug-the-shacklewell-arms-london
  -tickets
 LOCATION:The Shacklewell Arms\, 71 Shacklewell Lane\, E8 2EB
+END:VEVENT
+BEGIN:VEVENT
+UID:br-e-george-jr-the-9-11s-snub-at-sebright-arms-b795a154@london-events
+DTSTAMP:20260827T183000Z
+DTSTART:20260827T183000Z
+DTEND:20260827T203000Z
+SUMMARY:Brìe + George Jr. & The 9/11s + SNUB at Sebright Arms
+DESCRIPTION:Fiver Thursday triple bill of new bands at the Sebright — cl
+ assic cheap weeknight basement gig.\nPrice: £5\nhttps://dice.fm/event/2w
+ qwao-bre-george-jr-the-911s-snub-27th-aug-sebright-arms-london-tickets
+URL:https://dice.fm/event/2wqwao-bre-george-jr-the-911s-snub-27th-aug-sebr
+ ight-arms-london-tickets
+LOCATION:Sebright Arms\, 31-35 Coate Street\, Bethnal Green\, E2 9AG
 END:VEVENT
 BEGIN:VEVENT
 UID:sc-sh-august-weekender-day-1-at-the-old-blue-last-5611004f@london-even
@@ -1405,6 +1636,20 @@ URL:https://luma.com/e0gtnzhq
 LOCATION:Newspeak House\, 133 Bethnal Green Road\, E2 7DG
 END:VEVENT
 BEGIN:VEVENT
+UID:how-to-flourish-in-the-age-of-ai-daniel-susskind-5ed3c80b@london-event
+ s
+DTSTAMP:20260901T173000Z
+DTSTART:20260901T173000Z
+DTEND:20260901T184500Z
+SUMMARY:How to Flourish in the Age of AI — Daniel Susskind
+DESCRIPTION:Economist Daniel Susskind (A World Without Work) on living and
+  working well as AI reshapes the economy — How To Academy evening talk.
+ \nPrice: £15-£19.50\nhttps://howtoacademy.com/events/how-to-flourish-in
+ -the-age-of-ai/
+URL:https://howtoacademy.com/events/how-to-flourish-in-the-age-of-ai/
+LOCATION:The Conduit\, 6 Langley Street\, Covent Garden\, WC2H 9JA
+END:VEVENT
+BEGIN:VEVENT
 UID:stella-prince-sophia-brown-emanuela-at-green-note-da8adb8c@london-even
  ts
 DTSTAMP:20260901T180000Z
@@ -1429,6 +1674,19 @@ DESCRIPTION:Five-star one-man play about Nazi hunter Simon Wiesenthal\, se
  al.\nPrice: £15.50-£30\nhttps://wiltons.org.uk/whats-on/wiesenthal/
 URL:https://wiltons.org.uk/whats-on/wiesenthal/
 LOCATION:Wilton's Music Hall\, 1 Graces Alley\, E1 8JB
+END:VEVENT
+BEGIN:VEVENT
+UID:psychedelic-speed-dating-at-the-sanctuary-soul-682cfbcf@london-events
+DTSTAMP:20260902T173000Z
+DTSTART:20260902T173000Z
+DTEND:20260902T203000Z
+SUMMARY:Psychedelic Speed-Dating at The Sanctuary &Soul
+DESCRIPTION:Psychedelic Society speed dating built on the '36 Questions to
+  Intimacy' format — deep-question mini-dates rather than small talk\, w
+ ith balanced men's/women's ticketing\, five minutes from home.\nPrice: £
+ 16-£24\nhttps://dandelion.events/e/h9piz
+URL:https://dandelion.events/e/h9piz
+LOCATION:The Sanctuary &Soul\, 114 Cheshire Street\, E2 6EJ
 END:VEVENT
 BEGIN:VEVENT
 UID:sean-mcverry-sametime-tom-high-at-the-old-blue-last-bbe3e1c1@london-ev
@@ -1628,6 +1886,31 @@ DESCRIPTION:Luminous conscious dance collaboration at the Cheshire Street
  ion.events/e/f2n6m
 URL:https://dandelion.events/e/f2n6m
 LOCATION:The Sanctuary &Soul\, 114 Cheshire St\, E2 6EJ
+END:VEVENT
+BEGIN:VEVENT
+UID:pennines-at-moth-club-94c3cb38@london-events
+DTSTAMP:20260905T180000Z
+DTSTART:20260905T180000Z
+DTEND:20260905T200000Z
+SUMMARY:pennines at MOTH Club
+DESCRIPTION:Rising indie act pennines headline MOTH Club's ballroom on a S
+ aturday — cheap early-doors show.\nPrice: from £6.18\nhttps://dice.fm/
+ event/dkdb6o-pennines-5th-sep-moth-club-london-tickets
+URL:https://dice.fm/event/dkdb6o-pennines-5th-sep-moth-club-london-tickets
+LOCATION:MOTH Club\, Old Trades Hall\, Valette Street\, E9 6NU
+END:VEVENT
+BEGIN:VEVENT
+UID:james-marriott-the-new-dark-ages-at-conway-hall-e2c01e27@london-events
+DTSTAMP:20260905T183000Z
+DTSTART:20260905T183000Z
+DTEND:20260905T194500Z
+SUMMARY:James Marriott: The New Dark Ages at Conway Hall
+DESCRIPTION:Times columnist James Marriott on the decline of reading and r
+ eason in the internet age — Saturday-evening How To Academy talk at Con
+ way Hall.\nPrice: £15-£19.50\nhttps://howtoacademy.com/events/james-mar
+ riott-the-new-dark-ages/
+URL:https://howtoacademy.com/events/james-marriott-the-new-dark-ages/
+LOCATION:Conway Hall\, 25 Red Lion Square\, WC1R 4RL
 END:VEVENT
 BEGIN:VEVENT
 UID:authentic-relating-conscious-connections-exploring-meaning-a-c5ef2c11@
@@ -1859,6 +2142,20 @@ DESCRIPTION:Saturday-evening celebration of 60 years of Star Trek in the n
  ce-star-trek
 URL:https://www.rigb.org/whats-on/science-star-trek
 LOCATION:Royal Institution Theatre\, 21 Albemarle Street\, W1S 4BS
+END:VEVENT
+BEGIN:VEVENT
+UID:frank-hurricane-at-the-old-blue-last-5d565f1a@london-events
+DTSTAMP:20260912T183000Z
+DTSTART:20260912T183000Z
+DTEND:20260912T203000Z
+SUMMARY:Frank Hurricane at The Old Blue Last
+DESCRIPTION:Cult American psych-folk storyteller Frank Hurricane brings hi
+ s 'spiritual hustle' folk tales to the Old Blue Last on a Saturday night.
+ \nPrice: £14.20\nhttps://dice.fm/event/q2p3ma-frank-hurricane-12th-sep-t
+ he-old-blue-last-london-tickets
+URL:https://dice.fm/event/q2p3ma-frank-hurricane-12th-sep-the-old-blue-las
+ t-london-tickets
+LOCATION:The Old Blue Last\, 38 Great Eastern St\, EC2A 3ES
 END:VEVENT
 BEGIN:VEVENT
 UID:systemic-family-constellations-evening-14-sep-77543f74@london-events
