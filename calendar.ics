@@ -5,58 +5,6 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:London Events
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
-UID:worm-time-dialogues-lammas-bohm-dialogue-51aeb4b2@london-events
-DTSTAMP:20260801T120000Z
-DTSTART:20260801T120000Z
-DTEND:20260801T150000Z
-SUMMARY:Worm Time Dialogues — Lammas (Bohm dialogue)
-DESCRIPTION:Facilitated Bohm dialogue circle exploring our relationship wi
- th time and natural rhythms\, paired with 'worm time' creative rest. Same
-  practice lineage as the Bohm Dialogue on Love.\nPrice: £6-15 sliding sc
- ale\nhttps://dandelion.events/e/y9gub
-URL:https://dandelion.events/e/y9gub
-LOCATION:Good Shepherd Studios\, 15A Davies Lane\, E11 3DR
-END:VEVENT
-BEGIN:VEVENT
-UID:ceroc-london-50-50-6-hour-saturday-freestyle-1d4058df@london-events
-DTSTAMP:20260801T130000Z
-DTSTART:20260801T130000Z
-DTEND:20260801T190000Z
-SUMMARY:Ceroc London 50:50 — 6-hour Saturday Freestyle
-DESCRIPTION:Six-hour Saturday-afternoon Ceroc freestyle near St Pancras: u
- p-tempo Ceroc 2-5pm\, then chilled SILC-friendly grooves 5-8pm\; tea and 
- snacks included.\nPrice: £16 advance / £18 door\nhttps://www.ceroc.com/
- 30/13684/5050
-URL:https://www.ceroc.com/30/13684/5050
-LOCATION:Edith Neville Primary School\, Purchese Street\, NW1 1RW
-END:VEVENT
-BEGIN:VEVENT
-UID:the-lammas-games-lughnasadh-at-play-b18fb0f0@london-events
-DTSTAMP:20260801T130000Z
-DTSTART:20260801T130000Z
-DTEND:20260801T223000Z
-SUMMARY:The Lammas Games — Lughnasadh at Play!
-DESCRIPTION:Playful community Lammas celebration: teams invent and perform
-  their own games\, with icebreakers\, ceremonial fire-lighting\, shared f
- oraged food and evening stories and songs around the fire.\nPrice: £3-£
- 30 sliding scale\nhttps://dandelion.events/e/260801-lammasgames
-URL:https://dandelion.events/e/260801-lammasgames
-LOCATION:Markfield Park\, Crowland Road\, N15 4RB
-END:VEVENT
-BEGIN:VEVENT
-UID:crash-of-rhinos-at-moth-club-5ad5e781@london-events
-DTSTAMP:20260801T180000Z
-DTSTART:20260801T180000Z
-DTEND:20260801T200000Z
-SUMMARY:Crash Of Rhinos at MOTH Club
-DESCRIPTION:Cult Derby emo/post-hardcore band Crash Of Rhinos play a reuni
- on show at Hackney's MOTH Club. Doors 7pm.\nPrice: £17.00\nhttps://dice.
- fm/event/py8enk-crash-of-rhinos-1st-aug-moth-club-london-tickets
-URL:https://dice.fm/event/py8enk-crash-of-rhinos-1st-aug-moth-club-london-
- tickets
-LOCATION:MOTH Club\, Old Trades Hall\, Valette Street\, Hackney\, E9 6NU
-END:VEVENT
-BEGIN:VEVENT
 UID:intuitive-painting-workshop-plot-9-d5bffbe7@london-events
 DTSTAMP:20260802T093000Z
 DTSTART:20260802T093000Z
