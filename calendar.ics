@@ -146,6 +146,34 @@ URL:https://dice.fm/event/dkdvwq-2-weds-we-lost-alice-naked-brunch-lex-ver
 LOCATION:The Victoria\, 451 Queensbridge Road\, London E8 3AS
 END:VEVENT
 BEGIN:VEVENT
+UID:ceroc-wednesday-class-night-st-pancras-8bbf9e64@london-events
+DTSTAMP:20260805T183000Z
+DTSTART:20260805T183000Z
+DTEND:20260805T213000Z
+SUMMARY:Ceroc Wednesday Class Night @ St Pancras
+DESCRIPTION:Weekly Wednesday Ceroc class night at the St Pancras venue (sa
+ me hall as the 50:50 freestyles) — the most central regular Ceroc class
+  night. Runs every Wednesday\; listing verified via aggregator\, so doubl
+ e-check ceroc.com before travelling.\nPrice: ~£10-12 on the door\nhttps:
+ //allevents.in/london/ceroc
+URL:https://allevents.in/london/ceroc
+LOCATION:Edith Neville Primary School\, Purchese Street\, NW1 1RW
+END:VEVENT
+BEGIN:VEVENT
+UID:rationalish-meetup-ft-robin-hanson-cultural-drift-5bf6c64a@london-even
+ ts
+DTSTAMP:20260806T170000Z
+DTSTART:20260806T170000Z
+DTEND:20260806T200000Z
+SUMMARY:Rationalish Meetup ft. Robin Hanson — 'Cultural Drift'
+DESCRIPTION:Rationality-community meetup with economist Robin Hanson (Over
+ coming Bias) speaking on Cultural Drift. Exactly the LessWrong-adjacent c
+ rowd\, four minutes from home — short notice\, it's tomorrow.\nPrice: F
+ ree (register via Luma)\nhttps://newspeak.house/#events
+URL:https://newspeak.house/#events
+LOCATION:Newspeak House\, 133 Bethnal Green Road\, E2 7DG
+END:VEVENT
+BEGIN:VEVENT
 UID:contact-beyond-contact-cbc-workshop-1bde84f7@london-events
 DTSTAMP:20260806T173000Z
 DTSTART:20260806T173000Z
@@ -491,6 +519,18 @@ URL:https://www.meetup.com/london-ping-pong-meetup/
 LOCATION:Bounce\, Battersea Power Station\, Circus Road West\, SW11
 END:VEVENT
 BEGIN:VEVENT
+UID:campaign-lab-hack-night-10-aug-edition-b99a8cd4@london-events
+DTSTAMP:20260810T180000Z
+DTSTART:20260810T180000Z
+DTEND:20260810T210000Z
+SUMMARY:Campaign Lab Hack Night (10 Aug edition)
+DESCRIPTION:Bi-weekly civic-tech hack night building progressive election 
+ tools — this fills the Monday gap before the 22 Aug hack day and 31 Aug
+  edition.\nPrice: Free\nhttps://newspeak.house/#events
+URL:https://newspeak.house/#events
+LOCATION:Newspeak House\, 133 Bethnal Green Road\, E2 7DG
+END:VEVENT
+BEGIN:VEVENT
 UID:elliot-gray-just-like-honey-babe-at-sebright-arms-c45ab00e@london-even
  ts
 DTSTAMP:20260810T183000Z
@@ -532,6 +572,20 @@ DESCRIPTION:Relaxed Tuesday-evening drop-in life drawing in the cinema att
  ps://lifedrawing.art/
 URL:https://lifedrawing.art/
 LOCATION:Hackney Picturehouse (attic)\, 270 Mare Street\, E8 1HE
+END:VEVENT
+BEGIN:VEVENT
+UID:extended-floating-sound-journey-ecstatic-dance-london-1560beb5@london-
+ events
+DTSTAMP:20260811T181500Z
+DTSTART:20260811T181500Z
+DTEND:20260811T200000Z
+SUMMARY:Extended Floating Sound Journey (Ecstatic Dance London)
+DESCRIPTION:1h45 immersive gong/sound journey with guest musicians from th
+ e Ecstatic Dance London crew — restorative counterpart to their dance e
+ vents.\nPrice: Ticketed via Eventbrite (price on booking)\nhttps://ecstat
+ icdancelondon.com/events/
+URL:https://ecstaticdancelondon.com/events/
+LOCATION:The Skylight Centre\, 49 Corsica Street\, Highbury\, N5 1JT
 END:VEVENT
 BEGIN:VEVENT
 UID:jazz-tuesdays-at-netil360-rooftop-free-bd9822a1@london-events
@@ -616,6 +670,35 @@ DESCRIPTION:Long-table singles dinner (30+\, mixed) in the private Pavilio
 URL:https://www.thursday.com/events/5d324ca5-43ce-42f9-a80a-3e68f20d5d23
 LOCATION:Jamie Oliver Catherine St (Pavilion Room)\, 6 Catherine St\, WC2B
   5JY
+END:VEVENT
+BEGIN:VEVENT
+UID:qualia-research-institute-meetup-what-is-hedonic-tone-8bf4df54@london-
+ events
+DTSTAMP:20260812T180000Z
+DTSTART:20260812T180000Z
+DTEND:20260812T224500Z
+SUMMARY:Qualia Research Institute meetup: What is hedonic tone?
+DESCRIPTION:Talk by Chris Percy on the science of hedonic tone/valence\, f
+ ollowed by unconference-style discussions — consciousness-nerd territor
+ y bridging rationality and embodiment interests.\nPrice: Free (registrati
+ on required)\nhttps://newspeak.house/#events
+URL:https://newspeak.house/#events
+LOCATION:Newspeak House\, 133 Bethnal Green Road\, E2 7DG
+END:VEVENT
+BEGIN:VEVENT
+UID:wednesday-life-drawing-drop-in-at-the-garrett-centre-2bf450ef@london-e
+ vents
+DTSTAMP:20260812T180000Z
+DTSTART:20260812T180000Z
+DTEND:20260812T200000Z
+SUMMARY:Wednesday Life Drawing Drop-in at the Garrett Centre
+DESCRIPTION:Weekly Wednesday life drawing led by a Royal Drawing School gr
+ aduate\, all levels\, materials included — a few streets from home. Con
+ firm the date on their BookWhen before going.\nPrice: £13 drop-in (mater
+ ials included)\nhttps://www.londonlifedrawing.com/copy-of-monday-night-dr
+ op-ins
+URL:https://www.londonlifedrawing.com/copy-of-monday-night-drop-ins
+LOCATION:The Garrett Centre\, 117 Mansford Street\, E2 6LX
 END:VEVENT
 BEGIN:VEVENT
 UID:tom-s-m-rmaid-ivor-woods-free-247f49a4@london-events
@@ -703,6 +786,19 @@ DESCRIPTION:Immersive Fri-Mon weekend of four Holotropic Breathwork sessio
  come)\nhttps://dandelion.events/e/g2lew
 URL:https://dandelion.events/e/g2lew
 LOCATION:Colet House\, 151 Talgarth Road\, W14 9DA
+END:VEVENT
+BEGIN:VEVENT
+UID:paperjam-game-jam-live-scream-169a3592@london-events
+DTSTAMP:20260814T173000Z
+DTSTART:20260814T173000Z
+DTEND:20260814T203000Z
+SUMMARY:PaperJam Game Jam: Live Scream
+DESCRIPTION:Sociable Friday-evening game jam: discussion then building pap
+ er game prototypes in small groups — hands-on\, playful\, easy to meet 
+ people.\nPrice: Free (registration required)\nhttps://newspeak.house/#eve
+ nts
+URL:https://newspeak.house/#events
+LOCATION:Newspeak House\, 133 Bethnal Green Road\, E2 7DG
 END:VEVENT
 BEGIN:VEVENT
 UID:uyen-luu-s-vietnamese-supper-club-8-courses-1eafb462@london-events
@@ -886,6 +982,20 @@ DESCRIPTION:Hands-on two-hour writing workshop with Ryan Khan using ground
  ncluded.\nPrice: £15-£35 (tiered)\nhttps://dandelion.events/e/x0hb2
 URL:https://dandelion.events/e/x0hb2
 LOCATION:The Bungalow\, Hackney Wick
+END:VEVENT
+BEGIN:VEVENT
+UID:aerial-relaxation-pods-sound-journey-in-hammocks-5706ee40@london-event
+ s
+DTSTAMP:20260818T180000Z
+DTSTART:20260818T180000Z
+DTEND:20260818T204500Z
+SUMMARY:Aerial Relaxation Pods — sound journey in hammocks
+DESCRIPTION:Gong bath and sound-journey meditation taken in aerial hammock
+ s or on floor mats\, run by Ecstatic Dance London. Also runs 22 and 29 Se
+ p.\nPrice: Ticketed via Eventbrite (price on booking)\nhttps://ecstaticda
+ ncelondon.com/events/
+URL:https://ecstaticdancelondon.com/events/
+LOCATION:The Skylight Centre\, 49 Corsica Street\, Highbury\, N5 1JT
 END:VEVENT
 BEGIN:VEVENT
 UID:greg-freeman-at-moth-club-a73c9379@london-events
@@ -1421,6 +1531,18 @@ DESCRIPTION:Full-day beginners' bookbinding workshop at the artist-run LCB
 URL:https://londonbookarts.org/collections/workshops/products/introduction
  -to-bookbinding-1-pamphlets-concertinas-japanese-stab-bindings-29-08-2026
 LOCATION:London Centre for Book Arts\, 56 Dace Road\, E3 2NQ
+END:VEVENT
+BEGIN:VEVENT
+UID:house-london-housing-data-hackathon-7ee9d301@london-events
+DTSTAMP:20260829T090000Z
+DTSTART:20260829T090000Z
+DTEND:20260829T183000Z
+SUMMARY:house london! — housing data hackathon
+DESCRIPTION:Day-long hackathon on real London housing datasets with cash p
+ rizes. Bank-holiday Saturday alternative to Carnival crowds.\nPrice: Free
+  entry\, cash prizes\nhttps://newspeak.house/#events
+URL:https://newspeak.house/#events
+LOCATION:Newspeak House\, 133 Bethnal Green Road\, E2 7DG
 END:VEVENT
 BEGIN:VEVENT
 UID:ecotherapy-workshop-with-dr-adrian-harris-5d60c81a@london-events
@@ -1975,6 +2097,22 @@ URL:https://www.eventbrite.co.uk/e/chant-for-love-and-peace-tickets-199151
 LOCATION:St Ethelburga's Centre\, 78 Bishopsgate\, EC2N 4AG
 END:VEVENT
 BEGIN:VEVENT
+UID:open-house-festival-2026-london-s-buildings-unlocked-8854e85b@london-e
+ vents
+DTSTAMP:20260912T080000Z
+DTSTART:20260912T080000Z
+DTEND:20260920T170000Z
+SUMMARY:Open House Festival 2026 — London's buildings unlocked
+DESCRIPTION:35th Open House: free access to 621 normally-closed buildings 
+ including No 10\, the Lloyd's Building and BBC Broadcasting House. Per-bu
+ ilding times vary\; bookings for ticketed visits open midday 19 Aug.\nPri
+ ce: Free (some visits ticketed — bookings open midday 19 Aug)\nhttps://
+ open-city.org.uk/open-house-festival
+URL:https://open-city.org.uk/open-house-festival
+LOCATION:621 buildings across all 33 boroughs\, Citywide — programme at 
+ programme.openhouse.org.uk
+END:VEVENT
+BEGIN:VEVENT
 UID:london-mellows-2026-10th-anniversary-kirtan-weekend-c3d6d677@london-ev
  ents
 DTSTAMP:20260912T090000Z
@@ -2067,6 +2205,21 @@ DESCRIPTION:Cult American psych-folk storyteller Frank Hurricane brings hi
 URL:https://dice.fm/event/q2p3ma-frank-hurricane-12th-sep-the-old-blue-las
  t-london-tickets
 LOCATION:The Old Blue Last\, 38 Great Eastern St\, EC2A 3ES
+END:VEVENT
+BEGIN:VEVENT
+UID:the-london-barndance-company-live-band-barn-dance-6314f5a7@london-even
+ ts
+DTSTAMP:20260912T190000Z
+DTSTART:20260912T190000Z
+DTEND:20260912T210000Z
+SUMMARY:The London Barndance Company — live band barn dance
+DESCRIPTION:Zesty live music and high-energy dancing — English tradition
+  with a contra twist\, all dances called. Monthly Saturday series (also 1
+ 0 Oct\, 14 Nov\, 12 Dec).\nPrice: See barndance.org\nhttps://www.cecilsha
+ rphouse.org/whats-on/27-dances/15735-the-london-barndance-company-2026
+URL:https://www.cecilsharphouse.org/whats-on/27-dances/15735-the-london-ba
+ rndance-company-2026
+LOCATION:Cecil Sharp House\, 2 Regent's Park Road\, NW1 7AY
 END:VEVENT
 BEGIN:VEVENT
 UID:systemic-family-constellations-evening-14-sep-77543f74@london-events
@@ -2239,5 +2392,34 @@ DESCRIPTION:A facilitated day of guided exercises and rituals for working
  saries)\nhttps://dandelion.events/e/e5vdk
 URL:https://dandelion.events/e/e5vdk
 LOCATION:Hackney E5 (venue on booking)
+END:VEVENT
+BEGIN:VEVENT
+UID:international-folk-dancing-with-the-sifd-band-ed3c313b@london-events
+DTSTAMP:20260919T133000Z
+DTSTART:20260919T133000Z
+DTEND:20260919T153000Z
+SUMMARY:International Folk Dancing with the SIFD Band
+DESCRIPTION:Friendly Saturday afternoon of traditional dances from around 
+ the world with live band — beginner-tolerant social folk dance.\nPrice:
+  See sifd.uk\nhttps://www.cecilsharphouse.org/whats-on/27-dances/15787-in
+ ternational-folk-dancing-with-the-sifd-band
+URL:https://www.cecilsharphouse.org/whats-on/27-dances/15787-international
+ -folk-dancing-with-the-sifd-band
+LOCATION:Cecil Sharp House\, 2 Regent's Park Road\, NW1 7AY
+END:VEVENT
+BEGIN:VEVENT
+UID:english-country-dancing-autumn-course-opener-c2b0fde5@london-events
+DTSTAMP:20260924T183000Z
+DTSTART:20260924T183000Z
+DTEND:20260924T203000Z
+SUMMARY:English Country Dancing — autumn course opener
+DESCRIPTION:Learn English country\, ceilidh and barn dancing with live mus
+ ic and experienced caller-tutors. First session of the autumn run\, then 
+ weekly Thursdays.\nPrice: Bookable per session via CSH box office\nhttps:
+ //www.cecilsharphouse.org/whats-on/28-classes-and-courses/16107-english-c
+ ountry-dancing-24-sept-26
+URL:https://www.cecilsharphouse.org/whats-on/28-classes-and-courses/16107-
+ english-country-dancing-24-sept-26
+LOCATION:Cecil Sharp House\, 2 Regent's Park Road\, NW1 7AY
 END:VEVENT
 END:VCALENDAR

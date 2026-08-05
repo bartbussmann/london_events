@@ -184,6 +184,45 @@
     "added": "2026-08-04"
   },
   {
+    "id": "ceroc-wednesday-class-night-st-pancras-8bbf9e64",
+    "title": "Ceroc Wednesday Class Night @ St Pancras",
+    "start": "2026-08-05T19:30:00+01:00",
+    "end": "2026-08-05T22:30:00+01:00",
+    "venue": "Edith Neville Primary School",
+    "address": "Purchese Street, NW1 1RW",
+    "url": "https://allevents.in/london/ceroc",
+    "source": "listing:ceroc",
+    "tags": [
+      "dance",
+      "class"
+    ],
+    "price": "~£10-12 on the door",
+    "description": "Weekly Wednesday Ceroc class night at the St Pancras venue (same hall as the 50:50 freestyles) — the most central regular Ceroc class night. Runs every Wednesday; listing verified via aggregator, so double-check ceroc.com before travelling.",
+    "neighbourhood": "Somers Town / St Pancras",
+    "added": "2026-08-05",
+    "cycle_minutes": 28
+  },
+  {
+    "id": "rationalish-meetup-ft-robin-hanson-cultural-drift-5bf6c64a",
+    "title": "Rationalish Meetup ft. Robin Hanson — 'Cultural Drift'",
+    "start": "2026-08-06T18:00:00+01:00",
+    "end": "2026-08-06T21:00:00+01:00",
+    "venue": "Newspeak House",
+    "address": "133 Bethnal Green Road, E2 7DG",
+    "url": "https://newspeak.house/#events",
+    "source": "venue:newspeak-house",
+    "tags": [
+      "talk",
+      "community",
+      "tech"
+    ],
+    "price": "Free (register via Luma)",
+    "description": "Rationality-community meetup with economist Robin Hanson (Overcoming Bias) speaking on Cultural Drift. Exactly the LessWrong-adjacent crowd, four minutes from home — short notice, it's tomorrow.",
+    "neighbourhood": "Bethnal Green",
+    "added": "2026-08-05",
+    "cycle_minutes": 3
+  },
+  {
     "title": "Contact Beyond Contact (CBC) Workshop",
     "start": "2026-08-06T18:30:00+01:00",
     "end": "2026-08-06T20:30:00+01:00",
@@ -649,6 +688,25 @@
     "added": "2026-08-03"
   },
   {
+    "id": "campaign-lab-hack-night-10-aug-edition-b99a8cd4",
+    "title": "Campaign Lab Hack Night (10 Aug edition)",
+    "start": "2026-08-10T19:00:00+01:00",
+    "end": "2026-08-10T22:00:00+01:00",
+    "venue": "Newspeak House",
+    "address": "133 Bethnal Green Road, E2 7DG",
+    "url": "https://newspeak.house/#events",
+    "source": "venue:newspeak-house",
+    "tags": [
+      "tech",
+      "community"
+    ],
+    "price": "Free",
+    "description": "Bi-weekly civic-tech hack night building progressive election tools — this fills the Monday gap before the 22 Aug hack day and 31 Aug edition.",
+    "neighbourhood": "Bethnal Green",
+    "added": "2026-08-05",
+    "cycle_minutes": 3
+  },
+  {
     "id": "elliot-gray-just-like-honey-babe-at-sebright-arms-c45ab00e",
     "title": "Elliot Gray + Just Like Honey + Babe at Sebright Arms",
     "start": "2026-08-10T19:30:00+01:00",
@@ -703,6 +761,25 @@
     "cycle_minutes": 10,
     "id": "life-drawing-in-the-attic-at-hackney-picturehouse-16d08d42",
     "added": "2026-07-28"
+  },
+  {
+    "id": "extended-floating-sound-journey-ecstatic-dance-london-1560beb5",
+    "title": "Extended Floating Sound Journey (Ecstatic Dance London)",
+    "start": "2026-08-11T19:15:00+01:00",
+    "end": "2026-08-11T21:00:00+01:00",
+    "venue": "The Skylight Centre",
+    "address": "49 Corsica Street, Highbury, N5 1JT",
+    "url": "https://ecstaticdancelondon.com/events/",
+    "source": "venue:ecstatic-dance-london",
+    "tags": [
+      "workshop",
+      "community"
+    ],
+    "price": "Ticketed via Eventbrite (price on booking)",
+    "description": "1h45 immersive gong/sound journey with guest musicians from the Ecstatic Dance London crew — restorative counterpart to their dance events.",
+    "neighbourhood": "Highbury",
+    "added": "2026-08-05",
+    "cycle_minutes": 20
   },
   {
     "title": "Jazz Tuesdays at Netil360 (rooftop, free)",
@@ -816,6 +893,44 @@
     "added": "2026-07-25"
   },
   {
+    "id": "qualia-research-institute-meetup-what-is-hedonic-tone-8bf4df54",
+    "title": "Qualia Research Institute meetup: What is hedonic tone?",
+    "start": "2026-08-12T19:00:00+01:00",
+    "end": "2026-08-12T23:45:00+01:00",
+    "venue": "Newspeak House",
+    "address": "133 Bethnal Green Road, E2 7DG",
+    "url": "https://newspeak.house/#events",
+    "source": "venue:newspeak-house",
+    "tags": [
+      "talk",
+      "community"
+    ],
+    "price": "Free (registration required)",
+    "description": "Talk by Chris Percy on the science of hedonic tone/valence, followed by unconference-style discussions — consciousness-nerd territory bridging rationality and embodiment interests.",
+    "neighbourhood": "Bethnal Green",
+    "added": "2026-08-05",
+    "cycle_minutes": 3
+  },
+  {
+    "id": "wednesday-life-drawing-drop-in-at-the-garrett-centre-2bf450ef",
+    "title": "Wednesday Life Drawing Drop-in at the Garrett Centre",
+    "start": "2026-08-12T19:00:00+01:00",
+    "end": "2026-08-12T21:00:00+01:00",
+    "venue": "The Garrett Centre",
+    "address": "117 Mansford Street, E2 6LX",
+    "url": "https://www.londonlifedrawing.com/copy-of-monday-night-drop-ins",
+    "source": "keyword-search",
+    "tags": [
+      "art",
+      "class"
+    ],
+    "price": "£13 drop-in (materials included)",
+    "description": "Weekly Wednesday life drawing led by a Royal Drawing School graduate, all levels, materials included — a few streets from home. Confirm the date on their BookWhen before going.",
+    "neighbourhood": "Bethnal Green",
+    "added": "2026-08-05",
+    "cycle_minutes": 3
+  },
+  {
     "id": "tom-s-m-rmaid-ivor-woods-free-247f49a4",
     "title": "TOMÁS + MÖRMAID + IVOR WOODS (free)",
     "start": "2026-08-12T19:30:00+01:00",
@@ -924,6 +1039,25 @@
     "cycle_minutes": 50,
     "id": "double-holotropic-breathwork-experiential-weekend-902ed665",
     "added": "2026-08-02"
+  },
+  {
+    "id": "paperjam-game-jam-live-scream-169a3592",
+    "title": "PaperJam Game Jam: Live Scream",
+    "start": "2026-08-14T18:30:00+01:00",
+    "end": "2026-08-14T21:30:00+01:00",
+    "venue": "Newspeak House",
+    "address": "133 Bethnal Green Road, E2 7DG",
+    "url": "https://newspeak.house/#events",
+    "source": "venue:newspeak-house",
+    "tags": [
+      "community",
+      "workshop"
+    ],
+    "price": "Free (registration required)",
+    "description": "Sociable Friday-evening game jam: discussion then building paper game prototypes in small groups — hands-on, playful, easy to meet people.",
+    "neighbourhood": "Bethnal Green",
+    "added": "2026-08-05",
+    "cycle_minutes": 3
   },
   {
     "title": "Uyen Luu's Vietnamese Supper Club (8 courses)",
@@ -1167,6 +1301,25 @@
     "cycle_minutes": 14,
     "id": "words-from-the-other-side-poetry-as-a-practice-for-altered-s-65debca2",
     "added": "2026-07-14"
+  },
+  {
+    "id": "aerial-relaxation-pods-sound-journey-in-hammocks-5706ee40",
+    "title": "Aerial Relaxation Pods — sound journey in hammocks",
+    "start": "2026-08-18T19:00:00+01:00",
+    "end": "2026-08-18T21:45:00+01:00",
+    "venue": "The Skylight Centre",
+    "address": "49 Corsica Street, Highbury, N5 1JT",
+    "url": "https://ecstaticdancelondon.com/events/",
+    "source": "venue:ecstatic-dance-london",
+    "tags": [
+      "workshop",
+      "community"
+    ],
+    "price": "Ticketed via Eventbrite (price on booking)",
+    "description": "Gong bath and sound-journey meditation taken in aerial hammocks or on floor mats, run by Ecstatic Dance London. Also runs 22 and 29 Sep.",
+    "neighbourhood": "Highbury",
+    "added": "2026-08-05",
+    "cycle_minutes": 20
   },
   {
     "title": "Greg Freeman at MOTH Club",
@@ -1875,6 +2028,26 @@
     "cycle_minutes": 14,
     "id": "introduction-to-bookbinding-at-london-centre-for-book-arts-14717119",
     "added": "2026-07-25"
+  },
+  {
+    "id": "house-london-housing-data-hackathon-7ee9d301",
+    "title": "house london! — housing data hackathon",
+    "start": "2026-08-29T10:00:00+01:00",
+    "end": "2026-08-29T19:30:00+01:00",
+    "venue": "Newspeak House",
+    "address": "133 Bethnal Green Road, E2 7DG",
+    "url": "https://newspeak.house/#events",
+    "source": "venue:newspeak-house",
+    "tags": [
+      "tech",
+      "workshop",
+      "community"
+    ],
+    "price": "Free entry, cash prizes",
+    "description": "Day-long hackathon on real London housing datasets with cash prizes. Bank-holiday Saturday alternative to Carnival crowds.",
+    "neighbourhood": "Bethnal Green",
+    "added": "2026-08-05",
+    "cycle_minutes": 3
   },
   {
     "title": "Ecotherapy Workshop with Dr. Adrian Harris",
@@ -2628,6 +2801,25 @@
     "added": "2026-07-30"
   },
   {
+    "id": "open-house-festival-2026-london-s-buildings-unlocked-8854e85b",
+    "title": "Open House Festival 2026 — London's buildings unlocked",
+    "start": "2026-09-12T09:00:00+01:00",
+    "end": "2026-09-20T18:00:00+01:00",
+    "venue": "621 buildings across all 33 boroughs",
+    "address": "Citywide — programme at programme.openhouse.org.uk",
+    "url": "https://open-city.org.uk/open-house-festival",
+    "source": "keyword-search",
+    "tags": [
+      "festival",
+      "art",
+      "community"
+    ],
+    "price": "Free (some visits ticketed — bookings open midday 19 Aug)",
+    "description": "35th Open House: free access to 621 normally-closed buildings including No 10, the Lloyd's Building and BBC Broadcasting House. Per-building times vary; bookings for ticketed visits open midday 19 Aug.",
+    "neighbourhood": "London-wide",
+    "added": "2026-08-05"
+  },
+  {
     "title": "London Mellows 2026 — 10th Anniversary Kirtan Weekend",
     "start": "2026-09-12T10:00:00+01:00",
     "end": "2026-09-13T22:00:00+01:00",
@@ -2754,6 +2946,26 @@
     "neighbourhood": "Shoreditch",
     "cycle_minutes": 7,
     "added": "2026-08-04"
+  },
+  {
+    "id": "the-london-barndance-company-live-band-barn-dance-6314f5a7",
+    "title": "The London Barndance Company — live band barn dance",
+    "start": "2026-09-12T20:00:00+01:00",
+    "end": null,
+    "venue": "Cecil Sharp House",
+    "address": "2 Regent's Park Road, NW1 7AY",
+    "url": "https://www.cecilsharphouse.org/whats-on/27-dances/15735-the-london-barndance-company-2026",
+    "source": "venue:cecil-sharp-house",
+    "tags": [
+      "dance",
+      "music",
+      "community"
+    ],
+    "price": "See barndance.org",
+    "description": "Zesty live music and high-energy dancing — English tradition with a contra twist, all dances called. Monthly Saturday series (also 10 Oct, 14 Nov, 12 Dec).",
+    "neighbourhood": "Primrose Hill",
+    "added": "2026-08-05",
+    "cycle_minutes": 32
   },
   {
     "title": "Systemic & Family Constellations Evening (14 Sep)",
@@ -2995,5 +3207,43 @@
     "cycle_minutes": 12,
     "id": "embracing-grief-a-one-day-community-journey-ac2f45fd",
     "added": "2026-08-03"
+  },
+  {
+    "id": "international-folk-dancing-with-the-sifd-band-ed3c313b",
+    "title": "International Folk Dancing with the SIFD Band",
+    "start": "2026-09-19T14:30:00+01:00",
+    "end": null,
+    "venue": "Cecil Sharp House",
+    "address": "2 Regent's Park Road, NW1 7AY",
+    "url": "https://www.cecilsharphouse.org/whats-on/27-dances/15787-international-folk-dancing-with-the-sifd-band",
+    "source": "venue:cecil-sharp-house",
+    "tags": [
+      "dance",
+      "community"
+    ],
+    "price": "See sifd.uk",
+    "description": "Friendly Saturday afternoon of traditional dances from around the world with live band — beginner-tolerant social folk dance.",
+    "neighbourhood": "Primrose Hill",
+    "added": "2026-08-05",
+    "cycle_minutes": 32
+  },
+  {
+    "id": "english-country-dancing-autumn-course-opener-c2b0fde5",
+    "title": "English Country Dancing — autumn course opener",
+    "start": "2026-09-24T19:30:00+01:00",
+    "end": null,
+    "venue": "Cecil Sharp House",
+    "address": "2 Regent's Park Road, NW1 7AY",
+    "url": "https://www.cecilsharphouse.org/whats-on/28-classes-and-courses/16107-english-country-dancing-24-sept-26",
+    "source": "venue:cecil-sharp-house",
+    "tags": [
+      "dance",
+      "class"
+    ],
+    "price": "Bookable per session via CSH box office",
+    "description": "Learn English country, ceilidh and barn dancing with live music and experienced caller-tutors. First session of the autumn run, then weekly Thursdays.",
+    "neighbourhood": "Primrose Hill",
+    "added": "2026-08-05",
+    "cycle_minutes": 32
   }
 ]

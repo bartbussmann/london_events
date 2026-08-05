@@ -1,5 +1,11 @@
 [
   {
+    "ran_at": "2026-08-05T07:25:00+01:00",
+    "added": 13,
+    "considered": 62,
+    "notes": "Venues + dance-core + watchlist pass. Added 13: 5 Newspeak House events incl. Robin Hanson 'Cultural Drift' TOMORROW 6 Aug (free) and QRI hedonic-tone meetup 12 Aug; 3 Cecil Sharp House folk dances (Barndance 12 Sep, SIFD international 19 Sep, English Country Dancing course opener 24 Sep — Thursdays not Fridays); 2 Ecstatic Dance London sound journeys at Skylight Highbury; Ceroc St Pancras Wednesday class (aggregator-verified, confirm-note on entry); Garrett Centre life drawing 12 Aug (£13, 3 min away); Open House Festival 12-20 Sep (ticket bookings open 19 Aug — flag for Bart). WATCHLIST CORRECTIONS: Balkanplus at CSH is NOT 12 Sep — beginners editions 10 Oct + 14 Nov (add in Sept sweeps); ECD course is Thursdays from 24 Sep. Still unresolved: Ceroc Party of the Year date unpublished (venue/price confirmed); ACX autumn unannounced; balkanplus.org.uk unreachable; Southbank 403s, Barbican JS-only (try Playwright next); Somerset House Carnival-legacy show 13-21 Aug worth a retry; Ecstatic Saturdays Sept dates TBC; pottery (Cone8/Claystation) and Bloomsbury Alexander Technique intros have no fetchable dates. 5Rhythms: nothing new verifiable; 'Body Song' 16 Aug is women-only (skipped)."
+  },
+  {
     "ran_at": "2026-08-04T07:20:00+01:00",
     "added": 21,
     "considered": 74,
@@ -172,11 +178,5 @@
     "added": 3,
     "considered": 30,
     "notes": "Daily sweep. ICS: 0 new; build pruned 6 past events. Added: tonight's Shoreditch speed dating (23-35, tickets back in stock), RI talk on AI statistics (Sat), Bank speed dating 24 Jul (30-45). Caught 2 near-duplicates the scout resurfaced (Sunset Sessions 11 Jul, RI 'Alive' talk) — already on calendar. Skipped: Wing Fest (near sold out, £206 VIP only); stale Hackney Night Market listing."
-  },
-  {
-    "ran_at": "2026-07-08T12:30:00+01:00",
-    "added": 4,
-    "considered": 12,
-    "notes": "Extra sweep for new interest: contact improvisation. Added Marie Chabert's Monday jams (Haggerston 6 min / De Beauvoir), CI Goldsmiths Saturday class+jam, free Regent's Park outdoor Wednesday jams. Note: Monday jams pause 20 Jul–7 Sep; outdoor jam covers Wednesdays till 19 Aug. Skipped: women-only Siobhan Davies workshop; The Place jam (unverifiable, Cloudflare); Moving East jam (discontinued); Chisenhale has no CI listed currently."
   }
 ]
