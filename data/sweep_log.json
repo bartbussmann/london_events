@@ -1,5 +1,11 @@
 [
   {
+    "ran_at": "2026-08-06T07:30:00+01:00",
+    "added": 19,
+    "considered": 130,
+    "notes": "Aggregators + JS-venues pass — Barbican and Southbank finally cracked via headless Chromium (needs --proxy-server=$HTTPS_PROXY and --ssl-version-max=tls1.2; Southbank event pages still Cloudflare-blocked, verified via listing grid + third party — re-check times on the day). Added 19: Somerset House Carnival 60th free exhibition (13-21 Aug, Reasonings & Riddims day Sat 15), Barbican x3 (Liam Young 'In Other Worlds', Arrival outdoor cinema 19 Aug, Pan-African film programme), 2 free Southbank Riverside Sessions, free circling drop-in 7 Aug, Ecstatic Dance UK at The Baths 12 Aug + ECSTATICA cacao dance 20 Aug, PauseAI meetup 13 Aug, supper club at Proposition Studios E2 20 Aug, Everyman free canal cinema final weekend, Epping Forest hike, kanna plant talk, consent & connection Sunday session, Movement Lab taster 30 Sep. Skipped: BYOB pottery Edmonton (too far for a non-special event), Southend hike (outside London), LISA Principia talk 13 Aug (15:00 weekday start — flagged, Luma zpxh8ip4). Watchlist: Hackney Downs Night Market 14 Aug unverifiable (stale 2025 page); M.C. Escher at Somerset House until 6 Sep (no timed-entry details); Habibi Funk Open Air Hackney Bridge 29-30 Aug (dates ok, times/tickets unverified); ACX London still dormant; Ecstatic Saturdays Sept TBC."
+  },
+  {
     "ran_at": "2026-08-05T07:25:00+01:00",
     "added": 13,
     "considered": 62,
@@ -172,11 +178,5 @@
     "added": 7,
     "considered": 60,
     "notes": "Extra sweep for new source: Dandelion. Discovered its public ICS feed as a reliable index (HTML listing 403s). Added: men's circle, Dancing Awareness (live music), woodland ecstatic dance (Hackney Wick), MOTION 5Rhythms gathering, Heart Circle, Land & Belonging talk, Robin Carhart-Harris psychedelics talk (Cheshire St, 4 min). Skipped: Sunset Sessions duplicate. Intel: no in-person circling/AR in London until 6 Sept (Zen Yoga Camberwell, dandelion.events/e/c0ym3) — Heart Circle and men's circle are the closest matches."
-  },
-  {
-    "ran_at": "2026-07-09T07:15:00+01:00",
-    "added": 3,
-    "considered": 30,
-    "notes": "Daily sweep. ICS: 0 new; build pruned 6 past events. Added: tonight's Shoreditch speed dating (23-35, tickets back in stock), RI talk on AI statistics (Sat), Bank speed dating 24 Jul (30-45). Caught 2 near-duplicates the scout resurfaced (Sunset Sessions 11 Jul, RI 'Alive' talk) — already on calendar. Skipped: Wing Fest (near sold out, £206 VIP only); stale Hackney Night Market listing."
   }
 ]

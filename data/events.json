@@ -333,6 +333,25 @@
     "added": "2026-07-09"
   },
   {
+    "id": "circling-drop-in-evening-16e3b99d",
+    "title": "Circling Drop-in Evening",
+    "start": "2026-08-07T19:00:00+01:00",
+    "end": "2026-08-07T21:00:00+01:00",
+    "venue": "Elephant & Castle (venue on booking)",
+    "address": "Elephant and Castle, London SE1",
+    "url": "https://www.eventbrite.co.uk/e/circling-drop-in-evening-tickets-1996364183012",
+    "source": "aggregator:eventbrite",
+    "tags": [
+      "workshop",
+      "community"
+    ],
+    "price": "Free (possibly donation-based)",
+    "description": "Drop-in circling evening — relational meditation practice in small groups, no experience needed. Direct hit on the circling priority.",
+    "neighbourhood": "Elephant & Castle",
+    "added": "2026-08-06",
+    "cycle_minutes": 30
+  },
+  {
     "title": "Angel Comedy Fridays at The Bill Murray",
     "start": "2026-08-07T19:30:00+01:00",
     "end": null,
@@ -428,6 +447,63 @@
     "added": "2026-08-03"
   },
   {
+    "id": "the-archive-reimagined-pan-african-histories-and-the-moving--d8c8ef07",
+    "title": "The Archive Reimagined: Pan-African Histories and the Moving Image",
+    "start": "2026-08-08T14:00:00+01:00",
+    "end": null,
+    "venue": "Barbican Cinema 3",
+    "address": "Beech Street, London EC2Y 8DS",
+    "url": "https://www.barbican.org.uk/whats-on/2026/event/the-archive-reimagined",
+    "source": "venue:barbican",
+    "tags": [
+      "film",
+      "art"
+    ],
+    "price": "£15.50 (£12.50 concessions)",
+    "description": "Curated programme of four archival short films (108 min) reworking colonial footage into counter-histories, part of the Project a Black Planet season.",
+    "neighbourhood": "Barbican",
+    "added": "2026-08-06",
+    "cycle_minutes": 15
+  },
+  {
+    "id": "art-in-movement-exploring-embodied-experience-73b70f25",
+    "title": "Art in Movement: Exploring Embodied Experience",
+    "start": "2026-08-08T15:00:00+01:00",
+    "end": "2026-08-08T16:30:00+01:00",
+    "venue": "colour + sense studio",
+    "address": "56 Dace Road, London E3 2NQ",
+    "url": "https://www.eventbrite.co.uk/e/art-in-movement-exploring-embodied-experience-tickets-1996365523020",
+    "source": "aggregator:eventbrite",
+    "tags": [
+      "workshop",
+      "art"
+    ],
+    "price": "£45",
+    "description": "Saturday-afternoon workshop combining art-making with somatic movement practice in a Hackney Wick studio — squarely in the embodiment lane.",
+    "neighbourhood": "Hackney Wick",
+    "added": "2026-08-06",
+    "cycle_minutes": 13
+  },
+  {
+    "id": "black-eats-fest-evening-session-sat-2a60d113",
+    "title": "Black Eats Fest — evening session (Sat)",
+    "start": "2026-08-08T17:00:00+01:00",
+    "end": "2026-08-08T21:00:00+01:00",
+    "venue": "Hackney Bridge",
+    "address": "Kingsyard, East Bay Lane, Hackney Wick E15 2SJ",
+    "url": "https://hackneybridge.org/em_event/black-eats-fest/",
+    "source": "keyword-search",
+    "tags": [
+      "food",
+      "festival"
+    ],
+    "price": "Ticketed per session (blackeatsfest.com)",
+    "description": "Afro-Caribbean street-food festival at Hackney Bridge (7-9 Aug) celebrating Black-owned traders. Evening sessions 5-9pm are 18+ with DJs; day sessions 12-4pm.",
+    "neighbourhood": "Hackney Wick",
+    "added": "2026-08-06",
+    "cycle_minutes": 15
+  },
+  {
     "title": "Sunset Sessions — open-air ecstatic dance (8 Aug edition)",
     "start": "2026-08-08T18:00:00+01:00",
     "end": "2026-08-08T20:30:00+01:00",
@@ -445,6 +521,25 @@
     "cycle_minutes": 35,
     "id": "sunset-sessions-open-air-ecstatic-dance-8-aug-edition-6a03c2e6",
     "added": "2026-08-01"
+  },
+  {
+    "id": "tantra-speed-date-speed-dating-beyond-small-talk-1ed9cbf9",
+    "title": "Tantra Speed Date — Speed Dating Beyond Small Talk",
+    "start": "2026-08-08T18:00:00+01:00",
+    "end": "2026-08-08T21:00:00+01:00",
+    "venue": "Prana Voice — Holistic Well-Being",
+    "address": "4a Orsman Road, London N1 5QJ",
+    "url": "https://www.eventbrite.com/e/speed-dating-beyond-small-talk-london-speed-dating-tantra-speed-date-tickets-1984179079038",
+    "source": "aggregator:eventbrite",
+    "tags": [
+      "community",
+      "workshop"
+    ],
+    "price": "from £49.10",
+    "description": "Structured mixed men/women speed dating built on connection exercises rather than bar chat — gender-balanced format, Saturday evening in Haggerston.",
+    "neighbourhood": "Haggerston",
+    "added": "2026-08-06",
+    "cycle_minutes": 8
   },
   {
     "title": "Exploding Flowers + Rachel Love + Jowe Head at The Waiting Room",
@@ -819,6 +914,24 @@
     "added": "2026-07-31"
   },
   {
+    "id": "ecstatic-dance-uk-the-evening-sessions-7e1c551f",
+    "title": "Ecstatic Dance UK — The Evening Sessions",
+    "start": "2026-08-12T18:30:00+01:00",
+    "end": "2026-08-12T21:30:00+01:00",
+    "venue": "The Baths",
+    "address": "80 Eastway, Hackney Wick, London E9 5JH",
+    "url": "https://www.eventbrite.co.uk/e/ecstatic-dance-uk-the-evening-sessions-tickets-1990952406242",
+    "source": "aggregator:eventbrite",
+    "tags": [
+      "dance"
+    ],
+    "price": "£19.76-£27.43",
+    "description": "Midweek barefoot ecstatic dance at Hackney Wick's The Baths — sober, phone-free dance journey, unusually close to home for this scene.",
+    "neighbourhood": "Hackney Wick",
+    "added": "2026-08-06",
+    "cycle_minutes": 15
+  },
+  {
     "title": "Thursday: 30+ Singles Dinner & Aperols at Jamie Oliver's",
     "start": "2026-08-12T19:00:00+01:00",
     "end": "2026-08-12T22:00:00+01:00",
@@ -892,6 +1005,65 @@
     "neighbourhood": "Shoreditch",
     "cycle_minutes": 7,
     "added": "2026-08-04"
+  },
+  {
+    "id": "pauseai-london-meetup-d24144ff",
+    "title": "PauseAI London Meetup",
+    "start": "2026-08-13T18:00:00+01:00",
+    "end": null,
+    "venue": "Cittie of Yorke",
+    "address": "22 High Holborn, London WC1V 6BN",
+    "url": "https://luma.com/5f0u5bl1",
+    "source": "aggregator:luma",
+    "tags": [
+      "tech",
+      "community",
+      "talk"
+    ],
+    "price": "Free",
+    "description": "Monthly pub meetup for people concerned about AI risk — advocacy-flavoured rather than technical, but solidly AI-safety-community adjacent and easy to drop into.",
+    "neighbourhood": "Holborn",
+    "added": "2026-08-06",
+    "cycle_minutes": 22
+  },
+  {
+    "id": "riverside-sessions-tracks-on-tap-free-59fcb282",
+    "title": "Riverside Sessions: Tracks on Tap (free)",
+    "start": "2026-08-13T18:00:00+01:00",
+    "end": null,
+    "venue": "Riverside Terrace, Southbank Centre",
+    "address": "Belvedere Road, London SE1 8XX",
+    "url": "https://www.southbankcentre.co.uk/events/riverside-sessions/",
+    "source": "venue:southbank-centre",
+    "tags": [
+      "music",
+      "outdoors"
+    ],
+    "price": "Free",
+    "description": "Free Thursday-evening outdoor gig on the Southbank's Riverside Terrace — south London collective Tracks on Tap showcase rising talent. Times worth re-checking on the day.",
+    "neighbourhood": "South Bank",
+    "added": "2026-08-06",
+    "cycle_minutes": 28
+  },
+  {
+    "id": "the-legacy-of-notting-hill-carnival-free-exhibition-opens-13-3e3816bd",
+    "title": "The Legacy of Notting Hill Carnival — free exhibition (opens 13 Aug)",
+    "start": "2026-08-13T18:00:00+01:00",
+    "end": "2026-08-13T23:00:00+01:00",
+    "venue": "Somerset House (Lancaster & River Rooms)",
+    "address": "Strand, London WC2R 1LA",
+    "url": "https://www.somersethouse.org.uk/whats-on/the-legacy-of-nottinghill-carnival-2026",
+    "source": "venue:somerset-house",
+    "tags": [
+      "art",
+      "community",
+      "festival"
+    ],
+    "price": "Free",
+    "description": "Free multimedia exhibition for Carnival's 60th, co-curated with 50+ carnival community members: Carl Gabriel sculptures, Horace Ové photography, a Grenfell sound archive. Runs 13-21 Aug; Sat 15 Aug hosts the 'Reasonings & Riddims' talks-and-music day (open till 11pm).",
+    "neighbourhood": "Strand",
+    "added": "2026-08-06",
+    "cycle_minutes": 25
   },
   {
     "title": "Emotional Freedom Inquiry — somatic release circle (August edition)",
@@ -986,6 +1158,25 @@
     "added": "2026-08-02"
   },
   {
+    "id": "riverside-sessions-boundless-kinetika-bloco-summer-showcase--944f7c30",
+    "title": "Riverside Sessions: Boundless + Kinetika Bloco Summer Showcase (free)",
+    "start": "2026-08-14T18:00:00+01:00",
+    "end": null,
+    "venue": "Riverside Terrace, Southbank Centre",
+    "address": "Belvedere Road, London SE1 8XX",
+    "url": "https://www.southbankcentre.co.uk/events/riverside-sessions/",
+    "source": "venue:southbank-centre",
+    "tags": [
+      "music",
+      "outdoors"
+    ],
+    "price": "Free",
+    "description": "Free Friday-night riverside double: Boundless from 6pm, then Kinetika Bloco's brass-and-drums summer showcase from 7pm.",
+    "neighbourhood": "South Bank",
+    "added": "2026-08-06",
+    "cycle_minutes": 28
+  },
+  {
     "id": "paperjam-game-jam-live-scream-169a3592",
     "title": "PaperJam Game Jam: Live Scream",
     "start": "2026-08-14T18:30:00+01:00",
@@ -1061,6 +1252,43 @@
     "added": "2026-07-31"
   },
   {
+    "id": "in-other-worlds-liam-young-immersive-exhibition-until-6-sep-bb1d29dd",
+    "title": "In Other Worlds — Liam Young immersive exhibition (until 6 Sep)",
+    "start": "2026-08-15T10:00:00+01:00",
+    "end": null,
+    "venue": "The Curve, Barbican Centre",
+    "address": "Silk Street, London EC2Y 8DS",
+    "url": "https://www.barbican.org.uk/whats-on/2026/event/in-other-worlds",
+    "source": "venue:barbican",
+    "tags": [
+      "art",
+      "tech"
+    ],
+    "price": "£20.50 (£16.50 students)",
+    "description": "Speculative architect Liam Young's immersive walk-through of imagined climate-and-tech futures — films, soundscapes and costumes built with scientists and sci-fi writers. ~90 min timed entry; Thu-Sat 10am-9pm until 6 Sep.",
+    "neighbourhood": "Barbican",
+    "added": "2026-08-06",
+    "cycle_minutes": 15
+  },
+  {
+    "id": "go-london-escape-to-epping-forest-day-hike-89cd83a6",
+    "title": "GO London: Escape to Epping — forest day hike",
+    "start": "2026-08-15T10:00:00+01:00",
+    "end": null,
+    "venue": "GO London Hiking (meet point on Meetup)",
+    "address": null,
+    "url": "https://www.meetup.com/go-london/events/315917054/",
+    "source": "aggregator:meetup",
+    "tags": [
+      "outdoors",
+      "community"
+    ],
+    "price": "Free (travel extra)",
+    "description": "Saturday group hike through Epping Forest with one of London's biggest hiking meetups — sociable and beginner-friendly, and the Central line runs there straight from Bethnal Green.",
+    "neighbourhood": "Epping Forest",
+    "added": "2026-08-06"
+  },
+  {
     "title": "Community walk + sound bath & reiki at Hampstead Heath",
     "start": "2026-08-15T11:00:00+01:00",
     "end": "2026-08-15T14:00:00+01:00",
@@ -1096,6 +1324,25 @@
     "cycle_minutes": 7,
     "id": "thursday-singles-badminton-tournament-shoreditch-c2d5fbf4",
     "added": "2026-08-01"
+  },
+  {
+    "id": "everyman-on-the-canal-free-open-air-cinema-final-weekend-0cdc9193",
+    "title": "Everyman on the Canal — free open-air cinema, final weekend",
+    "start": "2026-08-15T13:00:00+01:00",
+    "end": null,
+    "venue": "Granary Square, King's Cross",
+    "address": "Granary Square, London N1C 4DQ",
+    "url": "https://www.everymancinema.com/everyman-on-the-canal-at-kings-cross/",
+    "source": "keyword-search",
+    "tags": [
+      "film",
+      "outdoors"
+    ],
+    "price": "Free, walk-in",
+    "description": "Free canalside deckchair cinema with four films a day (1pm/3pm/5pm/7.30pm) — season ends Sun 16 Aug, so this is the last weekend. Check the day's programme before going.",
+    "neighbourhood": "King's Cross",
+    "added": "2026-08-06",
+    "cycle_minutes": 28
   },
   {
     "title": "Bengal to Bethnal Green — Grand Union Orchestra",
@@ -1339,6 +1586,44 @@
     "added": "2026-08-04"
   },
   {
+    "id": "arrival-barbican-outdoor-cinema-sculpture-court-b13df912",
+    "title": "Arrival — Barbican Outdoor Cinema (Sculpture Court)",
+    "start": "2026-08-19T20:30:00+01:00",
+    "end": null,
+    "venue": "Sculpture Court, Barbican Centre",
+    "address": "Silk Street, London EC2Y 8DS",
+    "url": "https://www.barbican.org.uk/whats-on/2026/series/outdoor-cinema",
+    "source": "venue:barbican",
+    "tags": [
+      "film",
+      "outdoors"
+    ],
+    "price": "~£16.50 (check booking page)",
+    "description": "Denis Villeneuve's linguistics-first alien-contact film under the brutalist towers — opening week of the outdoor season (also Atlantics 21, Weathering With You 22, Pierrot le Fou 26 Aug).",
+    "neighbourhood": "Barbican",
+    "added": "2026-08-06",
+    "cycle_minutes": 15
+  },
+  {
+    "id": "the-after-taste-supper-club-by-michael-flakes-b569a74a",
+    "title": "The After Taste: Supper Club by Michael Flakes",
+    "start": "2026-08-20T18:00:00+01:00",
+    "end": "2026-08-20T23:30:00+01:00",
+    "venue": "Proposition Studios",
+    "address": "279 Cambridge Heath Road, London E2 0EL",
+    "url": "https://www.eventbrite.co.uk/e/the-after-taste-supper-club-by-michael-flakes-tickets-1994945306113",
+    "source": "aggregator:eventbrite",
+    "tags": [
+      "food",
+      "community"
+    ],
+    "price": "from £38.62",
+    "description": "Chef Michael Flakes' supper club lands at Proposition Studios on Cambridge Heath Road — a proper multi-course communal dinner minutes from home.",
+    "neighbourhood": "Bethnal Green",
+    "added": "2026-08-06",
+    "cycle_minutes": 3
+  },
+  {
     "title": "A Song for the Xeedho: LATE — Backyard Biennial",
     "start": "2026-08-20T18:30:00+01:00",
     "end": "2026-08-20T21:00:00+01:00",
@@ -1357,6 +1642,24 @@
     "cycle_minutes": 8,
     "id": "a-song-for-the-xeedho-late-backyard-biennial-802b49de",
     "added": "2026-08-02"
+  },
+  {
+    "id": "ecstatica-ecstatic-dance-cacao-b45469c3",
+    "title": "ECSTATICA: Ecstatic Dance & Cacao",
+    "start": "2026-08-20T18:30:00+01:00",
+    "end": "2026-08-20T22:00:00+01:00",
+    "venue": "Chestnuts Community Centre",
+    "address": "280 Saint Ann's Road, London N15 5BN",
+    "url": "https://www.eventbrite.co.uk/e/ecstatica-ecstatic-dance-cacao-tickets-1995339918409",
+    "source": "aggregator:eventbrite",
+    "tags": [
+      "dance"
+    ],
+    "price": "£16.96-£20.21",
+    "description": "Thursday-night ecstatic dance with opening cacao ceremony in South Tottenham — a new promoter (Ecstatica) rather than the usual EDL crowd.",
+    "neighbourhood": "South Tottenham",
+    "added": "2026-08-06",
+    "cycle_minutes": 30
   },
   {
     "title": "Devon Again at MOTH Club",
@@ -1431,6 +1734,25 @@
     "neighbourhood": "Angel",
     "cycle_minutes": 18,
     "added": "2026-08-04"
+  },
+  {
+    "id": "kanna-journeys-kanna-the-bushman-s-blessing-8183a808",
+    "title": "Kanna Journeys: Kanna — The Bushman's Blessing",
+    "start": "2026-08-20T19:00:00+01:00",
+    "end": "2026-08-20T21:00:00+01:00",
+    "venue": "House of Transformation",
+    "address": "222 Kingsland Road, London E2 8AX",
+    "url": "https://dandelion.events/e/o16zj",
+    "source": "aggregator:dandelion",
+    "tags": [
+      "talk",
+      "community"
+    ],
+    "price": "£15",
+    "description": "Evening on kanna (sceletium), the South African empathogenic plant — talk plus experiential session at Haggerston's House of Transformation.",
+    "neighbourhood": "Haggerston",
+    "added": "2026-08-06",
+    "cycle_minutes": 7
   },
   {
     "id": "fionn-boland-and-friends-at-paper-dress-vintage-df73cad9",
@@ -2109,6 +2431,25 @@
     "cycle_minutes": 45,
     "id": "notting-hill-carnival-60th-j-ouvert-family-day-a591844d",
     "added": "2026-07-23"
+  },
+  {
+    "id": "last-sunday-fun-consent-connection-session-2f0cc689",
+    "title": "Last-Sunday Fun, Consent & Connection Session",
+    "start": "2026-08-30T14:00:00+01:00",
+    "end": "2026-08-30T17:30:00+01:00",
+    "venue": "Old Diorama Arts Centre",
+    "address": "201 Drummond Street, Regent's Place, London NW1 3FE",
+    "url": "https://www.eventbrite.co.uk/e/last-sunday-afternoon-of-the-month-fun-consent-connection-session-tickets-1987723222667",
+    "source": "aggregator:eventbrite",
+    "tags": [
+      "workshop",
+      "community"
+    ],
+    "price": "£0-£55 sliding scale",
+    "description": "Monthly Sunday-afternoon consent and connection practice — games and exercises in the authentic-relating/contact family, mixed and open to all. Bank holiday Sunday.",
+    "neighbourhood": "Euston",
+    "added": "2026-08-06",
+    "cycle_minutes": 28
   },
   {
     "title": "David Byrne's American Utopia — Barbican Outdoor Cinema",
@@ -3190,5 +3531,24 @@
     "neighbourhood": "Primrose Hill",
     "added": "2026-08-05",
     "cycle_minutes": 32
+  },
+  {
+    "id": "movement-lab-taster-london-fields-ee7d8f93",
+    "title": "Movement Lab Taster (London Fields)",
+    "start": "2026-09-30T18:30:00+01:00",
+    "end": "2026-09-30T20:00:00+01:00",
+    "venue": "21d Ellingfort Road",
+    "address": "21d Ellingfort Road, London E8 3PA",
+    "url": "https://dandelion.events/e/s71px",
+    "source": "aggregator:dandelion",
+    "tags": [
+      "dance",
+      "workshop"
+    ],
+    "price": "£18",
+    "description": "Taster for a weekly movement-exploration lab near London Fields — improvisation and somatic practice, contact-improv adjacent. Books early.",
+    "neighbourhood": "London Fields",
+    "added": "2026-08-06",
+    "cycle_minutes": 9
   }
 ]
