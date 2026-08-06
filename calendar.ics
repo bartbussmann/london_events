@@ -5,46 +5,6 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:London Events
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
-UID:thursday-30-pop-culture-quiz-night-2f24bd38@london-events
-DTSTAMP:20260803T180000Z
-DTSTART:20260803T180000Z
-DTEND:20260803T210000Z
-SUMMARY:Thursday: 30+ Pop Culture Quiz Night
-DESCRIPTION:Singles-only pub quiz for the 30+ crowd at 21Soho — teams fo
- rmed on the night\, so you meet people while competing.\nPrice: £15-20\n
- https://www.thursday.com/events/london/632b4034-c0f3-420b-8a11-deccd6f319
- e9
-URL:https://www.thursday.com/events/london/632b4034-c0f3-420b-8a11-deccd6f
- 319e9
-LOCATION:21Soho\, 3-5 Sutton Row\, W1D 4NR
-END:VEVENT
-BEGIN:VEVENT
-UID:10-cups-supper-club-1358420d@london-events
-DTSTAMP:20260803T180000Z
-DTSTART:20260803T180000Z
-DTEND:20260803T220000Z
-SUMMARY:10 Cups Supper Club
-DESCRIPTION:'Haute cuisine in Hackney' — an intimate four-hour supper cl
- ub evening on Dalston Lane. Price not shown\; check the Eventbrite page.\
- nhttps://www.eventbrite.co.uk/e/10-cups-supper-club-tickets-1992964715112
-URL:https://www.eventbrite.co.uk/e/10-cups-supper-club-tickets-19929647151
- 12
-LOCATION:83 Dalston Lane\, 83 Dalston Lane\, E8 2NG
-END:VEVENT
-BEGIN:VEVENT
-UID:big-fat-quizbox-weekly-pub-quiz-at-boxpark-ac3c22e5@london-events
-DTSTAMP:20260803T180000Z
-DTSTART:20260803T180000Z
-DTEND:20260803T200000Z
-SUMMARY:Big Fat Quizbox — weekly pub quiz at Boxpark
-DESCRIPTION:Upbeat Monday-night quiz at Boxpark Shoreditch with teams of u
- p to 6 and prizes. Runs weekly.\nPrice: £3 per player\nhttps://www.boxpa
- rk.co.uk/venues/shoreditch/events/big-fat-quizbox-shoreditch
-URL:https://www.boxpark.co.uk/venues/shoreditch/events/big-fat-quizbox-sho
- reditch
-LOCATION:Boxpark Shoreditch\, 2-10 Bethnal Green Road\, E1 6GY
-END:VEVENT
-BEGIN:VEVENT
 UID:land-and-belonging-josh-schrei-and-alexander-beiner-in-conve-b6d7d807@
  london-events
 DTSTAMP:20260804T180000Z
