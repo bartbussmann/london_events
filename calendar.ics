@@ -5,50 +5,6 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:London Events
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
-UID:land-and-belonging-josh-schrei-and-alexander-beiner-in-conve-b6d7d807@
- london-events
-DTSTAMP:20260804T180000Z
-DTSTART:20260804T180000Z
-DTEND:20260804T210000Z
-SUMMARY:Land and Belonging: Josh Schrei and Alexander Beiner in Conversati
- on
-DESCRIPTION:The Emerald podcast's Josh Schrei and sensemaking writer Alexa
- nder Beiner explore immigration\, land and belonging through a mythic len
- s\, hosted by the Psychedelic Society.\nPrice: £25\nhttps://dandelion.ev
- ents/e/m05nr
-URL:https://dandelion.events/e/m05nr
-LOCATION:Number 90 Bar Hackney Wick\, Wallis Road\, E9 5LN
-END:VEVENT
-BEGIN:VEVENT
-UID:thursday-singles-darts-night-at-bat-ball-d0962e4f@london-events
-DTSTAMP:20260804T180000Z
-DTSTART:20260804T180000Z
-DTEND:20260804T210000Z
-SUMMARY:Thursday: Singles Darts Night at Bat & Ball
-DESCRIPTION:Mixed singles social darts night — activity-led icebreaker f
- ormat rather than a standing-around bar night.\nPrice: £12-25\nhttps://w
- ww.thursday.com/events/london/da4678c4-9c97-4466-9aed-92c7e1a5f22d
-URL:https://www.thursday.com/events/london/da4678c4-9c97-4466-9aed-92c7e1a
- 5f22d
-LOCATION:Bat & Ball Covent Garden\, 50 Earlham St\, WC2H 9LJ
-END:VEVENT
-BEGIN:VEVENT
-UID:eyoe-recommends-lonnie-gunn-john-4eva-tertia-free-for-war-ch-279f43a1@
- london-events
-DTSTAMP:20260804T180000Z
-DTSTART:20260804T180000Z
-DTEND:20260804T200000Z
-SUMMARY:EYOE Recommends: Lonnie Gunn + John 4eva + Tertia (free\, for War 
- Child)
-DESCRIPTION:Free indie showcase night at the Shacklewell Arms with rising 
- acts Lonnie Gunn\, John 4eva and Tertia\, raising money for War Child. Fi
- rst come\, first served.\nPrice: Free entry (donations to War Child)\nhtt
- ps://concerts50.com/venues/united-kingdom/london/the-shacklewell-arms
-URL:https://concerts50.com/venues/united-kingdom/london/the-shacklewell-ar
- ms
-LOCATION:The Shacklewell Arms\, 71 Shacklewell Lane\, E8 2EB
-END:VEVENT
-BEGIN:VEVENT
 UID:ics-2f702e4fcb34@london-events
 DTSTAMP:20260805T160000Z
 DTSTART:20260805T160000Z
