@@ -1,5 +1,11 @@
 [
   {
+    "ran_at": "2026-08-07T07:30:00+01:00",
+    "added": 25,
+    "considered": 145,
+    "notes": "Mid-size venues + fringe theatre + September talks pass — biggest single haul yet. Union Chapel and EartH cracked via headless Chromium; Yard Theatre no longer blocked. Added 25: Union Chapel x6 (Mavis Staples 13 Aug, Fukuyama 3 Sep, Al-Khalili 8 Sep, Roger Eno 9 Sep, Rovelli 24 Sep, Grace Petrie 25 Sep — prices null, external ticketing, Staples likely £40+); EartH x6 (Arthur Russell tribute 18 Aug, Bright Phoebus Watersons tribute 8 Sep, Laraaji 9 Sep — clashes Roger Eno, Gia Margaret 10 Sep, William Tyler 15 Sep, Novara Downstream 21 Sep); Belair Lip Bombs at Village Underground 3 Sep; Anthony Joseph at OTO 12 Aug; Wilton's FLOP! 24 Sep; Turn of the Screw at Arcola from 11 Sep; for colored girls at The Yard from 2 Sep; Fatiha El-Ghorri at Hackney Empire 10 Sep; Angel Comedy free Camden Head x3 (12/14/15 Aug — free shows moved from Bill Murray to Camden Head); Conway Hall x3 (Fortean magick 4 Sep, Social Atrophy talk + chamber season opener both 13 Sep); &Soul Wellness Social 6 Sep. Skipped: &Soul 14 Aug singles social (LGBTQ+-specific), Fiddlehead (too heavy), Charlotte Church Pop Dungeon (party-night), Southend hike leftovers. Watchlist: RI autumn listings STILL school-holiday-only — recheck; Gresham College JS-blocked, autumn PDF exists; Arcola Grimeborn opera (Dido 11-15 Aug, Rinaldo 19-22, Magic Flute 25-29) cheap but times unverified; Natural Information Society OTO residency 16-17 Aug times unverified; Union Chapel also has Tim Marshall 10 Sep, Mike Dawes 11 Sep, John Scofield 20 Aug (times unverified); LessWrong /community: no London events."
+  },
+  {
     "ran_at": "2026-08-06T07:30:00+01:00",
     "added": 19,
     "considered": 130,
@@ -172,11 +178,5 @@
     "added": 6,
     "considered": 30,
     "notes": "Daily sweep (first using Dandelion ICS index). ICS: 0 new from LISA; 6 past events pruned. Added: woodland ecstatic dance gathering (tomorrow), Bottle Factory Flea market (Sunday), canal foraging walk, mushroom cultivation workshop (Cambridge Heath Rd, 4 min), Bohm Dialogue on Love, Greenwich ecstatic dance. Skipped: stale Victoria Park bandstand/acro listings. Intel: Backyard Biennial East — free 8-week arts festival across east London 15 Jul-6 Sep (whitechapelgallery.org) — a season, not a dated entry; scouts should watch for its individual events."
-  },
-  {
-    "ran_at": "2026-07-09T17:45:00+01:00",
-    "added": 7,
-    "considered": 60,
-    "notes": "Extra sweep for new source: Dandelion. Discovered its public ICS feed as a reliable index (HTML listing 403s). Added: men's circle, Dancing Awareness (live music), woodland ecstatic dance (Hackney Wick), MOTION 5Rhythms gathering, Heart Circle, Land & Belonging talk, Robin Carhart-Harris psychedelics talk (Cheshire St, 4 min). Skipped: Sunset Sessions duplicate. Intel: no in-person circling/AR in London until 6 Sept (Zen Yoga Camberwell, dandelion.events/e/c0ym3) — Heart Circle and men's circle are the closest matches."
   }
 ]

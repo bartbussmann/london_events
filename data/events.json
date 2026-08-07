@@ -952,6 +952,42 @@
     "added": "2026-08-04"
   },
   {
+    "id": "anthony-joseph-haunting-the-black-air-at-cafe-oto-dbc9ecf9",
+    "title": "Anthony Joseph: Haunting the Black Air at Cafe OTO",
+    "start": "2026-08-12T19:30:00+01:00",
+    "end": null,
+    "venue": "Cafe OTO",
+    "address": "18-22 Ashwin Street, Dalston, E8 3DL",
+    "url": "https://www.cafeoto.co.uk/events/",
+    "source": "venue:cafe-oto",
+    "tags": [
+      "music"
+    ],
+    "price": "£15 (£12 advance)",
+    "description": "Poet-musician Anthony Joseph — T.S. Eliot Prize winner with a jazz-soul band behind him — one of the most accessible nights on OTO's August calendar. Find the show on the events index.",
+    "neighbourhood": "Dalston",
+    "cycle_minutes": 14,
+    "added": "2026-08-07"
+  },
+  {
+    "id": "angel-comedy-raw-wednesdays-free-camden-head-be003753",
+    "title": "Angel Comedy RAW Wednesdays (Free) — Camden Head",
+    "start": "2026-08-12T19:30:00+01:00",
+    "end": null,
+    "venue": "The Camden Head",
+    "address": "2 Camden Walk, Islington, N1 8DY",
+    "url": "https://www.angelcomedy.co.uk/event-detail/angel-comedy-raw-wednesdays-free-wed-12th-aug-the-camden-head-london-tickets-202608121930",
+    "source": "venue:angel-comedy",
+    "tags": [
+      "comedy"
+    ],
+    "price": "Free",
+    "description": "Angel Comedy's free nightly new-material night — circuit pros test fresh stuff alongside rising acts. All free shows now run at the Camden Head, not The Bill Murray.",
+    "neighbourhood": "Angel",
+    "cycle_minutes": 18,
+    "added": "2026-08-07"
+  },
+  {
     "id": "pauseai-london-meetup-d24144ff",
     "title": "PauseAI London Meetup",
     "start": "2026-08-13T18:00:00+01:00",
@@ -1046,6 +1082,24 @@
     "cycle_minutes": 12,
     "id": "jeffrey-silverstein-bobby-lee-at-moth-club-594c159a",
     "added": "2026-07-15"
+  },
+  {
+    "id": "mavis-staples-at-union-chapel-bd9c1108",
+    "title": "Mavis Staples at Union Chapel",
+    "start": "2026-08-13T19:00:00+01:00",
+    "end": null,
+    "venue": "Union Chapel",
+    "address": "Compton Terrace, Islington, N1 2UN",
+    "url": "https://unionchapel.org.uk/whats-on/mavis-staples-13-aug-2026",
+    "source": "venue:union-chapel",
+    "tags": [
+      "music"
+    ],
+    "price": null,
+    "description": "Gospel/soul legend Mavis Staples plays the second of two nights in the candlelit chapel (a 12 Aug date also exists). Doors 7pm; price on ticketing site — likely £40+, check before booking.",
+    "neighbourhood": "Islington",
+    "cycle_minutes": 20,
+    "added": "2026-08-07"
   },
   {
     "title": "Shoreditch Speed Dating @ Be At One (ages 23-35)",
@@ -1197,6 +1251,24 @@
     "added": "2026-07-31"
   },
   {
+    "id": "angel-comedy-fridays-camden-head-free-66ffaa2e",
+    "title": "Angel Comedy Fridays @ Camden Head (Free)",
+    "start": "2026-08-14T20:00:00+01:00",
+    "end": null,
+    "venue": "The Camden Head",
+    "address": "2 Camden Walk, Islington, N1 8DY",
+    "url": "https://www.angelcomedy.co.uk/event-detail/angel-comedy-fridays-camden-head-free--800pm-fri-14th-aug-the-camden-head-202608142000",
+    "source": "venue:angel-comedy",
+    "tags": [
+      "comedy"
+    ],
+    "price": "Free",
+    "description": "Free Friday-night stand-up showcase — mid-Edinburgh season, so expect polished preview material.",
+    "neighbourhood": "Angel",
+    "cycle_minutes": 18,
+    "added": "2026-08-07"
+  },
+  {
     "id": "in-other-worlds-liam-young-immersive-exhibition-until-6-sep-bb1d29dd",
     "title": "In Other Worlds — Liam Young immersive exhibition (until 6 Sep)",
     "start": "2026-08-15T10:00:00+01:00",
@@ -1328,6 +1400,24 @@
     "cycle_minutes": 4
   },
   {
+    "id": "angel-comedy-saturdays-camden-head-free-4456282d",
+    "title": "Angel Comedy Saturdays @ Camden Head (Free)",
+    "start": "2026-08-15T19:30:00+01:00",
+    "end": null,
+    "venue": "The Camden Head",
+    "address": "2 Camden Walk, Islington, N1 8DY",
+    "url": "https://www.angelcomedy.co.uk/event-detail/angel-comedy-saturdays-camden-head-free-730pm-sat-15th-aug-the-camden-head-london-tickets-202608151930",
+    "source": "venue:angel-comedy",
+    "tags": [
+      "comedy"
+    ],
+    "price": "Free",
+    "description": "Free Saturday-night mixed-bill showcase; a second free show follows at 9.30pm if the first is full.",
+    "neighbourhood": "Angel",
+    "cycle_minutes": 18,
+    "added": "2026-08-07"
+  },
+  {
     "title": "London Ceilidh Club at Cecil Sharp House",
     "start": "2026-08-15T20:00:00+01:00",
     "end": "2026-08-15T23:00:00+01:00",
@@ -1457,6 +1547,24 @@
     "neighbourhood": "Highbury",
     "added": "2026-08-05",
     "cycle_minutes": 20
+  },
+  {
+    "id": "speakers-corner-quartet-celebrates-the-music-of-arthur-russe-c227d8c2",
+    "title": "Speakers Corner Quartet celebrates the music of Arthur Russell",
+    "start": "2026-08-18T19:00:00+01:00",
+    "end": "2026-08-18T23:00:00+01:00",
+    "venue": "EartH",
+    "address": "11-17 Stoke Newington Road, Dalston, N16 8BP",
+    "url": "https://earthackney.co.uk/events/speakers-corner-quartet-celebrates-the-music-of-arthur-russell-18th-aug-earth-london-tickets-8eqw82",
+    "source": "venue:earth-hackney",
+    "tags": [
+      "music"
+    ],
+    "price": null,
+    "description": "Acclaimed South London collective reinterpret cult songwriter/cellist Arthur Russell's catalogue — a special one-off in EartH's theatre.",
+    "neighbourhood": "Dalston",
+    "cycle_minutes": 14,
+    "added": "2026-08-07"
   },
   {
     "title": "Greg Freeman at MOTH Club",
@@ -2565,6 +2673,24 @@
     "added": "2026-07-27"
   },
   {
+    "id": "for-colored-girls-who-have-considered-suicide-when-the-rainb-517eb86b",
+    "title": "for colored girls who have considered suicide / when the rainbow is enuf",
+    "start": "2026-09-02T19:30:00+01:00",
+    "end": null,
+    "venue": "The Yard Theatre",
+    "address": "Queen's Yard, White Post Lane, Hackney Wick, E9 5EN",
+    "url": "https://www.theyardtheatre.co.uk/events/for-colored-girls",
+    "source": "venue:yard-theatre",
+    "tags": [
+      "theatre"
+    ],
+    "price": "tiered; £5 on the door for 27-and-unders",
+    "description": "Ntozake Shange's landmark choreopoem — poetry, movement and music — opens The Yard's autumn. Runs to 3 Oct; 7.30pm previews 2-7 Sep, then Mon-Sat 7pm.",
+    "neighbourhood": "Hackney Wick",
+    "cycle_minutes": 15,
+    "added": "2026-08-07"
+  },
+  {
     "title": "Jacqui McShee's Pentangle + Junior Brother at EartH",
     "start": "2026-09-03T18:30:00+01:00",
     "end": "2026-09-03T22:30:00+01:00",
@@ -2620,6 +2746,24 @@
     "added": "2026-08-02"
   },
   {
+    "id": "francis-fukuyama-at-union-chapel-a9453115",
+    "title": "Francis Fukuyama at Union Chapel",
+    "start": "2026-09-03T19:00:00+01:00",
+    "end": null,
+    "venue": "Union Chapel",
+    "address": "Compton Terrace, Islington, N1 2UN",
+    "url": "https://unionchapel.org.uk/whats-on/francis-fukuyama",
+    "source": "venue:union-chapel",
+    "tags": [
+      "talk"
+    ],
+    "price": null,
+    "description": "The End of History author on liberal order, populism and where politics goes next. Doors 6pm, talk 7pm.",
+    "neighbourhood": "Islington",
+    "cycle_minutes": 20,
+    "added": "2026-08-07"
+  },
+  {
     "title": "Automatic at MOTH Club",
     "start": "2026-09-03T19:30:00+01:00",
     "end": "2026-09-03T22:30:00+01:00",
@@ -2654,6 +2798,24 @@
     "cycle_minutes": 11,
     "id": "lina-sounds-undiagnosed-ep-release-janayah-5e90c1e4",
     "added": "2026-07-28"
+  },
+  {
+    "id": "the-belair-lip-bombs-snuggle-morn-at-village-underground-aa28c0ea",
+    "title": "The Belair Lip Bombs + Snuggle + Morn at Village Underground",
+    "start": "2026-09-03T19:30:00+01:00",
+    "end": "2026-09-03T23:00:00+01:00",
+    "venue": "Village Underground",
+    "address": "54 Holywell Lane, Shoreditch, EC2A 3PQ",
+    "url": "https://villageunderground.co.uk/events/the-belair-lip-bombs-snuggle-morn-3rd-sep-village-underground-london-tickets-8elkw7",
+    "source": "venue:village-underground",
+    "tags": [
+      "music"
+    ],
+    "price": null,
+    "description": "Rising Australian indie/garage-rock band headline the converted warehouse with two supports — proper gig, walkable from home.",
+    "neighbourhood": "Shoreditch",
+    "cycle_minutes": 7,
+    "added": "2026-08-07"
   },
   {
     "title": "Surrendered Singing + Sauna",
@@ -2693,6 +2855,24 @@
     "cycle_minutes": 8,
     "id": "uyen-luu-s-vietnamese-supper-club-september-opener-6893ca87",
     "added": "2026-07-28"
+  },
+  {
+    "id": "london-fortean-society-magick-in-seven-objects-200af106",
+    "title": "London Fortean Society: Magick in Seven Objects",
+    "start": "2026-09-04T19:00:00+01:00",
+    "end": "2026-09-04T20:30:00+01:00",
+    "venue": "Conway Hall",
+    "address": "25 Red Lion Square, WC1R 4RL",
+    "url": "https://conwayhall.ticketsolve.com/ticketbooth/shows/1173674867",
+    "source": "venue:conway-hall",
+    "tags": [
+      "talk"
+    ],
+    "price": null,
+    "description": "Historian Dr Thomas Waters tells the history of magic through seven objects, from Stone Age symbols to enchanted weapons — classic quirky Fortean Society evening.",
+    "neighbourhood": "Holborn",
+    "cycle_minutes": 22,
+    "added": "2026-08-07"
   },
   {
     "title": "PsySoc Community Walk, Speed-Friending & Nature Connection (September)",
@@ -2827,6 +3007,25 @@
     "added": "2026-08-04"
   },
   {
+    "id": "the-wellness-social-reformer-pilates-sauna-brunch-at-soul-f6d5877e",
+    "title": "The Wellness Social: Reformer Pilates, Sauna & Brunch at &Soul",
+    "start": "2026-09-06T10:00:00+01:00",
+    "end": null,
+    "venue": "The Sanctuary &Soul",
+    "address": "114 Cheshire Street, E2 6EJ",
+    "url": "https://andsoulsanctuary.com/whats-on",
+    "source": "venue:and-soul-sanctuary",
+    "tags": [
+      "community",
+      "class"
+    ],
+    "price": null,
+    "description": "Sunday-morning social at the Cheshire Street sanctuary: reformer Pilates, sauna time, then a curated brunch — sociable wellness four minutes from home.",
+    "neighbourhood": "Bethnal Green",
+    "cycle_minutes": 4,
+    "added": "2026-08-07"
+  },
+  {
     "title": "Authentic Relating & Conscious Connections — Exploring Meaning & Aliveness",
     "start": "2026-09-06T12:45:00+01:00",
     "end": "2026-09-06T16:15:00+01:00",
@@ -2884,6 +3083,24 @@
     "added": "2026-07-30"
   },
   {
+    "id": "bright-phoebus-revisited-lal-mike-waterson-tribute-d5356564",
+    "title": "Bright Phoebus Revisited (Lal & Mike Waterson tribute)",
+    "start": "2026-09-08T18:30:00+01:00",
+    "end": "2026-09-08T22:00:00+01:00",
+    "venue": "EartH",
+    "address": "11-17 Stoke Newington Road, Dalston, N16 8BP",
+    "url": "https://earthackney.co.uk/events/bright-phoebus-revisited-8th-sep-earth-london-tickets-wwdm7p",
+    "source": "venue:earth-hackney",
+    "tags": [
+      "music"
+    ],
+    "price": null,
+    "description": "Live celebration of Lal and Mike Waterson's legendary lost 1972 folk-noir album Bright Phoebus — prime folk territory. Doors 6.30pm.",
+    "neighbourhood": "Dalston",
+    "cycle_minutes": 14,
+    "added": "2026-08-07"
+  },
+  {
     "title": "The Elixir of Love — Donizetti in English",
     "start": "2026-09-08T19:00:00+01:00",
     "end": "2026-09-08T21:20:00+01:00",
@@ -2903,6 +3120,24 @@
     "added": "2026-08-02"
   },
   {
+    "id": "the-mystery-of-time-with-jim-al-khalili-062cc4e7",
+    "title": "The Mystery of Time, with Jim Al-Khalili",
+    "start": "2026-09-08T19:00:00+01:00",
+    "end": null,
+    "venue": "Union Chapel",
+    "address": "Compton Terrace, Islington, N1 2UN",
+    "url": "https://unionchapel.org.uk/whats-on/the-mystery-of-time-with-jim-al-khalili",
+    "source": "venue:union-chapel",
+    "tags": [
+      "talk"
+    ],
+    "price": null,
+    "description": "Physicist and broadcaster Jim Al-Khalili on the physics of time. Doors 6pm, start 7pm.",
+    "neighbourhood": "Islington",
+    "cycle_minutes": 20,
+    "added": "2026-08-07"
+  },
+  {
     "title": "Rostam at Village Underground",
     "start": "2026-09-08T19:30:00+01:00",
     "end": "2026-09-08T23:00:00+01:00",
@@ -2919,6 +3154,42 @@
     "cycle_minutes": 7,
     "id": "rostam-at-village-underground-9c18192c",
     "added": "2026-07-31"
+  },
+  {
+    "id": "roger-eno-at-union-chapel-b075fe97",
+    "title": "Roger Eno at Union Chapel",
+    "start": "2026-09-09T19:00:00+01:00",
+    "end": null,
+    "venue": "Union Chapel",
+    "address": "Compton Terrace, Islington, N1 2UN",
+    "url": "https://unionchapel.org.uk/whats-on/roger-eno",
+    "source": "venue:union-chapel",
+    "tags": [
+      "music"
+    ],
+    "price": null,
+    "description": "Ambient/modern-classical composer Roger Eno performs his Deutsche Grammophon trilogy — first UK show since a sold-out QEH date. Same night as Laraaji at EartH: pick one ambient elder.",
+    "neighbourhood": "Islington",
+    "cycle_minutes": 20,
+    "added": "2026-08-07"
+  },
+  {
+    "id": "laraaji-at-earth-b52ec378",
+    "title": "Laraaji at EartH",
+    "start": "2026-09-09T19:00:00+01:00",
+    "end": "2026-09-09T23:00:00+01:00",
+    "venue": "EartH",
+    "address": "11-17 Stoke Newington Road, Dalston, N16 8BP",
+    "url": "https://earthackney.co.uk/events/laraaji-9th-sep-earth-london-tickets-dkp666",
+    "source": "venue:earth-hackney",
+    "tags": [
+      "music"
+    ],
+    "price": null,
+    "description": "Ambient-zither legend Laraaji (of Brian Eno's Ambient 3) brings his trance-inducing autoharp jams to Dalston. Clashes with Roger Eno at Union Chapel the same night.",
+    "neighbourhood": "Dalston",
+    "cycle_minutes": 14,
+    "added": "2026-08-07"
   },
   {
     "title": "Fire Fire — new play at Arcola (opening night)",
@@ -3013,6 +3284,42 @@
     "added": "2026-07-31"
   },
   {
+    "id": "gia-margaret-at-earth-01789289",
+    "title": "Gia Margaret at EartH",
+    "start": "2026-09-10T19:30:00+01:00",
+    "end": "2026-09-10T23:00:00+01:00",
+    "venue": "EartH",
+    "address": "11-17 Stoke Newington Road, Dalston, N16 8BP",
+    "url": "https://earthackney.co.uk/events/gia-margaret-10th-sep-earth-london-tickets-q292gy",
+    "source": "venue:earth-hackney",
+    "tags": [
+      "music"
+    ],
+    "price": null,
+    "description": "Chicago ambient-folk songwriter Gia Margaret ('sleep rock') plays EartH's atmospheric theatre — gentle, intimate weeknight show.",
+    "neighbourhood": "Dalston",
+    "cycle_minutes": 14,
+    "added": "2026-08-07"
+  },
+  {
+    "id": "fatiha-el-ghorri-cockney-stacking-doll-d92708ee",
+    "title": "Fatiha El-Ghorri: Cockney Stacking Doll",
+    "start": "2026-09-10T19:30:00+01:00",
+    "end": null,
+    "venue": "Hackney Empire",
+    "address": "291 Mare Street, E8 1EJ",
+    "url": "https://www.hackneyempire.co.uk/events/fatiha-el-ghorri-cockney-stacking-doll",
+    "source": "venue:hackney-empire",
+    "tags": [
+      "comedy"
+    ],
+    "price": "£19",
+    "description": "Award-winning East London comedian's debut tour show — sharp, stereotype-smashing stand-up on home turf at the Empire.",
+    "neighbourhood": "Hackney Central",
+    "cycle_minutes": 12,
+    "added": "2026-08-07"
+  },
+  {
     "title": "Chant for Love and Peace — kirtan at St Ethelburga's",
     "start": "2026-09-11T19:00:00+01:00",
     "end": "2026-09-11T21:30:00+01:00",
@@ -3030,6 +3337,24 @@
     "cycle_minutes": 9,
     "id": "chant-for-love-and-peace-kirtan-at-st-ethelburga-s-a0d3af86",
     "added": "2026-07-30"
+  },
+  {
+    "id": "the-turn-of-the-screw-at-arcola-theatre-4d82cf7d",
+    "title": "The Turn of the Screw at Arcola Theatre",
+    "start": "2026-09-11T19:30:00+01:00",
+    "end": null,
+    "venue": "Arcola Theatre (Studio 1)",
+    "address": "24 Ashwin Street, Dalston, E8 3DL",
+    "url": "https://www.arcolatheatre.com/event/the-turn-of-the-screw/",
+    "source": "venue:arcola",
+    "tags": [
+      "theatre"
+    ],
+    "price": "£12-£39",
+    "description": "World-premiere Morgan Lloyd Malcolm adaptation of Henry James's ghost story, running 11 Sep - 10 Oct. Evening shows alternate 7pm/7.30pm — confirm exact time when booking.",
+    "neighbourhood": "Dalston",
+    "cycle_minutes": 14,
+    "added": "2026-08-07"
   },
   {
     "id": "open-house-festival-2026-london-s-buildings-unlocked-8854e85b",
@@ -3199,6 +3524,42 @@
     "cycle_minutes": 32
   },
   {
+    "id": "ethical-matters-fighting-social-atrophy-dr-sarah-stein-lubra-b1f657e1",
+    "title": "Ethical Matters: Fighting Social Atrophy — Dr Sarah Stein Lubrano",
+    "start": "2026-09-13T15:00:00+01:00",
+    "end": "2026-09-13T16:30:00+01:00",
+    "venue": "Conway Hall",
+    "address": "25 Red Lion Square, WC1R 4RL",
+    "url": "https://conwayhall.ticketsolve.com/ticketbooth/shows/1173675226",
+    "source": "venue:conway-hall",
+    "tags": [
+      "talk"
+    ],
+    "price": null,
+    "description": "Sunday-afternoon talk on why sociability has collapsed since the pandemic and what rebuilds it — could pair with the 6.30pm chamber concert in the same building.",
+    "neighbourhood": "Holborn",
+    "cycle_minutes": 22,
+    "added": "2026-08-07"
+  },
+  {
+    "id": "conway-hall-sunday-concerts-season-opener-aa4f90b3",
+    "title": "Conway Hall Sunday Concerts: season opener",
+    "start": "2026-09-13T18:30:00+01:00",
+    "end": "2026-09-13T20:30:00+01:00",
+    "venue": "Conway Hall",
+    "address": "25 Red Lion Square, WC1R 4RL",
+    "url": "https://conwayhall.ticketsolve.com/ticketbooth/shows/1173675193",
+    "source": "venue:conway-hall",
+    "tags": [
+      "music"
+    ],
+    "price": null,
+    "description": "The world's longest-running chamber music series resumes: cellist-in-residence Bartholomew LaFollette with string players.",
+    "neighbourhood": "Holborn",
+    "cycle_minutes": 22,
+    "added": "2026-08-07"
+  },
+  {
     "title": "Systemic & Family Constellations Evening (14 Sep)",
     "start": "2026-09-14T18:30:00+01:00",
     "end": "2026-09-14T21:45:00+01:00",
@@ -3252,6 +3613,24 @@
     "cycle_minutes": 4,
     "id": "roxanne-de-bastion-at-sebright-arms-9d6aea5b",
     "added": "2026-07-30"
+  },
+  {
+    "id": "william-tyler-at-earth-71dca36c",
+    "title": "William Tyler at EartH",
+    "start": "2026-09-15T19:30:00+01:00",
+    "end": "2026-09-15T23:00:00+01:00",
+    "venue": "EartH",
+    "address": "11-17 Stoke Newington Road, Dalston, N16 8BP",
+    "url": "https://earthackney.co.uk/events/william-tyler-15th-sep-earth-london-tickets-7dmwmp",
+    "source": "venue:earth-hackney",
+    "tags": [
+      "music"
+    ],
+    "price": null,
+    "description": "Nashville guitarist William Tyler (ex-Lambchop) plays cosmic-Americana instrumentals — pairs with Laura Veirs at the same venue the following night.",
+    "neighbourhood": "Dalston",
+    "cycle_minutes": 14,
+    "added": "2026-08-07"
   },
   {
     "title": "Psychedelics, Entities and Consciousness — Dr. Chris Timmermann",
@@ -3459,6 +3838,61 @@
     "cycle_minutes": 32
   },
   {
+    "id": "novara-media-s-downstream-irl-trauma-farming-9f218de5",
+    "title": "Novara Media's Downstream IRL — Trauma Farming",
+    "start": "2026-09-21T18:30:00+01:00",
+    "end": "2026-09-21T22:00:00+01:00",
+    "venue": "EartH",
+    "address": "11-17 Stoke Newington Road, Dalston, N16 8BP",
+    "url": "https://earthackney.co.uk/events/novara-medias-downstream-irl-trauma-farming-21st-sep-earth-london-tickets-bb9wxv",
+    "source": "venue:earth-hackney",
+    "tags": [
+      "talk"
+    ],
+    "price": null,
+    "description": "Live edition of Novara's Downstream interview show asking how 'lived experience' and pain became a personal brand — Monday-evening ideas event.",
+    "neighbourhood": "Dalston",
+    "cycle_minutes": 14,
+    "added": "2026-08-07"
+  },
+  {
+    "id": "carlo-rovelli-lessons-on-physics-and-philosophy-9af18cdb",
+    "title": "Carlo Rovelli: Lessons on Physics and Philosophy",
+    "start": "2026-09-24T18:00:00+01:00",
+    "end": null,
+    "venue": "Union Chapel",
+    "address": "Compton Terrace, Islington, N1 2UN",
+    "url": "https://unionchapel.org.uk/whats-on/carlo-rovelli-lessons-on-physics-and-philosophy",
+    "source": "venue:union-chapel",
+    "tags": [
+      "talk"
+    ],
+    "price": null,
+    "description": "Quantum-gravity physicist Carlo Rovelli live with audience Q&A; every ticket includes a hardback of his new book. Doors 6pm.",
+    "neighbourhood": "Islington",
+    "cycle_minutes": 20,
+    "added": "2026-08-07"
+  },
+  {
+    "id": "flop-the-best-songs-from-the-worst-musicals-8557574f",
+    "title": "FLOP! The Best Songs From The Worst Musicals",
+    "start": "2026-09-24T19:00:00+01:00",
+    "end": null,
+    "venue": "Wilton's Music Hall",
+    "address": "1 Graces Alley, Whitechapel, E1 8JB",
+    "url": "https://wiltons.org.uk/whats-on/flop-the-best-songs-from-the-worst-musicals/",
+    "source": "venue:wiltons",
+    "tags": [
+      "theatre",
+      "comedy"
+    ],
+    "price": "£10.50-£25",
+    "description": "Musical cabaret celebrating Broadway's biggest flops in the world's oldest music hall. Runs to Sat 26 Sep, 7pm nightly plus Sat matinee.",
+    "neighbourhood": "Whitechapel",
+    "cycle_minutes": 10,
+    "added": "2026-08-07"
+  },
+  {
     "id": "english-country-dancing-autumn-course-opener-c2b0fde5",
     "title": "English Country Dancing — autumn course opener",
     "start": "2026-09-24T19:30:00+01:00",
@@ -3476,6 +3910,24 @@
     "neighbourhood": "Primrose Hill",
     "added": "2026-08-05",
     "cycle_minutes": 32
+  },
+  {
+    "id": "grace-petrie-at-union-chapel-21267766",
+    "title": "Grace Petrie at Union Chapel",
+    "start": "2026-09-25T20:00:00+01:00",
+    "end": null,
+    "venue": "Union Chapel",
+    "address": "Compton Terrace, Islington, N1 2UN",
+    "url": "https://unionchapel.org.uk/whats-on/grace-petrie",
+    "source": "venue:union-chapel",
+    "tags": [
+      "music"
+    ],
+    "price": null,
+    "description": "Protest-folk songwriter Grace Petrie in a show of two halves: stripped-back solo set plus full-band career retrospective. Doors 7pm, start 8pm.",
+    "neighbourhood": "Islington",
+    "cycle_minutes": 20,
+    "added": "2026-08-07"
   },
   {
     "id": "movement-lab-taster-london-fields-ee7d8f93",

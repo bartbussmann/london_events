@@ -717,6 +717,35 @@ URL:https://dice.fm/event/2w5a6o-toms-mrmaid-ivor-woods-12th-aug-the-old-b
 LOCATION:The Old Blue Last\, 38 Great Eastern St\, EC2A 3ES
 END:VEVENT
 BEGIN:VEVENT
+UID:anthony-joseph-haunting-the-black-air-at-cafe-oto-dbc9ecf9@london-even
+ ts
+DTSTAMP:20260812T183000Z
+DTSTART:20260812T183000Z
+DTEND:20260812T203000Z
+SUMMARY:Anthony Joseph: Haunting the Black Air at Cafe OTO
+DESCRIPTION:Poet-musician Anthony Joseph — T.S. Eliot Prize winner with 
+ a jazz-soul band behind him — one of the most accessible nights on OTO'
+ s August calendar. Find the show on the events index.\nPrice: £15 (£12 
+ advance)\nhttps://www.cafeoto.co.uk/events/
+URL:https://www.cafeoto.co.uk/events/
+LOCATION:Cafe OTO\, 18-22 Ashwin Street\, Dalston\, E8 3DL
+END:VEVENT
+BEGIN:VEVENT
+UID:angel-comedy-raw-wednesdays-free-camden-head-be003753@london-events
+DTSTAMP:20260812T183000Z
+DTSTART:20260812T183000Z
+DTEND:20260812T203000Z
+SUMMARY:Angel Comedy RAW Wednesdays (Free) — Camden Head
+DESCRIPTION:Angel Comedy's free nightly new-material night — circuit pro
+ s test fresh stuff alongside rising acts. All free shows now run at the C
+ amden Head\, not The Bill Murray.\nPrice: Free\nhttps://www.angelcomedy.c
+ o.uk/event-detail/angel-comedy-raw-wednesdays-free-wed-12th-aug-the-camde
+ n-head-london-tickets-202608121930
+URL:https://www.angelcomedy.co.uk/event-detail/angel-comedy-raw-wednesdays
+ -free-wed-12th-aug-the-camden-head-london-tickets-202608121930
+LOCATION:The Camden Head\, 2 Camden Walk\, Islington\, N1 8DY
+END:VEVENT
+BEGIN:VEVENT
 UID:pauseai-london-meetup-d24144ff@london-events
 DTSTAMP:20260813T170000Z
 DTSTART:20260813T170000Z
@@ -789,6 +818,19 @@ DESCRIPTION:Portland cosmic-country/ambient-folk songwriter Jeffrey Silver
 URL:https://dice.fm/event/k6d9wq-jeffrey-silverstein-bobby-lee-dj-sunday-g
  irl-13th-aug-moth-club-london-tickets
 LOCATION:MOTH Club\, Old Trades Hall\, Valette Street\, E9 6NU
+END:VEVENT
+BEGIN:VEVENT
+UID:mavis-staples-at-union-chapel-bd9c1108@london-events
+DTSTAMP:20260813T180000Z
+DTSTART:20260813T180000Z
+DTEND:20260813T200000Z
+SUMMARY:Mavis Staples at Union Chapel
+DESCRIPTION:Gospel/soul legend Mavis Staples plays the second of two night
+ s in the candlelit chapel (a 12 Aug date also exists). Doors 7pm\; price 
+ on ticketing site — likely £40+\, check before booking.\nhttps://union
+ chapel.org.uk/whats-on/mavis-staples-13-aug-2026
+URL:https://unionchapel.org.uk/whats-on/mavis-staples-13-aug-2026
+LOCATION:Union Chapel\, Compton Terrace\, Islington\, N1 2UN
 END:VEVENT
 BEGIN:VEVENT
 UID:shoreditch-speed-dating-be-at-one-ages-23-35-93c11738@london-events
@@ -907,6 +949,20 @@ URL:https://dice.fm/event/dkmqlo-jenny-dont-and-the-spurs-14th-aug-the-lex
 LOCATION:The Lexington\, 96-98 Pentonville Road\, N1 9JB
 END:VEVENT
 BEGIN:VEVENT
+UID:angel-comedy-fridays-camden-head-free-66ffaa2e@london-events
+DTSTAMP:20260814T190000Z
+DTSTART:20260814T190000Z
+DTEND:20260814T210000Z
+SUMMARY:Angel Comedy Fridays @ Camden Head (Free)
+DESCRIPTION:Free Friday-night stand-up showcase — mid-Edinburgh season\,
+  so expect polished preview material.\nPrice: Free\nhttps://www.angelcome
+ dy.co.uk/event-detail/angel-comedy-fridays-camden-head-free--800pm-fri-14
+ th-aug-the-camden-head-202608142000
+URL:https://www.angelcomedy.co.uk/event-detail/angel-comedy-fridays-camden
+ -head-free--800pm-fri-14th-aug-the-camden-head-202608142000
+LOCATION:The Camden Head\, 2 Camden Walk\, Islington\, N1 8DY
+END:VEVENT
+BEGIN:VEVENT
 UID:in-other-worlds-liam-young-immersive-exhibition-until-6-sep-bb1d29dd@l
  ondon-events
 DTSTAMP:20260815T090000Z
@@ -1005,6 +1061,21 @@ URL:https://dice.fm/event/pynaey-closeup-summer-series-2026-eaves-wilder-1
 LOCATION:Sebright Arms\, 31-35 Coate Street\, Bethnal Green\, E2 9AG
 END:VEVENT
 BEGIN:VEVENT
+UID:angel-comedy-saturdays-camden-head-free-4456282d@london-events
+DTSTAMP:20260815T183000Z
+DTSTART:20260815T183000Z
+DTEND:20260815T203000Z
+SUMMARY:Angel Comedy Saturdays @ Camden Head (Free)
+DESCRIPTION:Free Saturday-night mixed-bill showcase\; a second free show f
+ ollows at 9.30pm if the first is full.\nPrice: Free\nhttps://www.angelcom
+ edy.co.uk/event-detail/angel-comedy-saturdays-camden-head-free-730pm-sat-
+ 15th-aug-the-camden-head-london-tickets-202608151930
+URL:https://www.angelcomedy.co.uk/event-detail/angel-comedy-saturdays-camd
+ en-head-free-730pm-sat-15th-aug-the-camden-head-london-tickets-2026081519
+ 30
+LOCATION:The Camden Head\, 2 Camden Walk\, Islington\, N1 8DY
+END:VEVENT
+BEGIN:VEVENT
 UID:london-ceilidh-club-at-cecil-sharp-house-f2353e12@london-events
 DTSTAMP:20260815T190000Z
 DTSTART:20260815T190000Z
@@ -1101,6 +1172,21 @@ DESCRIPTION:Gong bath and sound-journey meditation taken in aerial hammock
  ncelondon.com/events/
 URL:https://ecstaticdancelondon.com/events/
 LOCATION:The Skylight Centre\, 49 Corsica Street\, Highbury\, N5 1JT
+END:VEVENT
+BEGIN:VEVENT
+UID:speakers-corner-quartet-celebrates-the-music-of-arthur-russe-c227d8c2@
+ london-events
+DTSTAMP:20260818T180000Z
+DTSTART:20260818T180000Z
+DTEND:20260818T220000Z
+SUMMARY:Speakers Corner Quartet celebrates the music of Arthur Russell
+DESCRIPTION:Acclaimed South London collective reinterpret cult songwriter/
+ cellist Arthur Russell's catalogue — a special one-off in EartH's theat
+ re.\nhttps://earthackney.co.uk/events/speakers-corner-quartet-celebrates-
+ the-music-of-arthur-russell-18th-aug-earth-london-tickets-8eqw82
+URL:https://earthackney.co.uk/events/speakers-corner-quartet-celebrates-th
+ e-music-of-arthur-russell-18th-aug-earth-london-tickets-8eqw82
+LOCATION:EartH\, 11-17 Stoke Newington Road\, Dalston\, N16 8BP
 END:VEVENT
 BEGIN:VEVENT
 UID:greg-freeman-at-moth-club-a73c9379@london-events
@@ -1926,6 +2012,22 @@ URL:https://dice.fm/event/bbon3o-warby-2nd-sep-sjq-london-tickets
 LOCATION:Servant Jazz Quarters\, 10A Bradbury Street\, N16 8JN
 END:VEVENT
 BEGIN:VEVENT
+UID:for-colored-girls-who-have-considered-suicide-when-the-rainb-517eb86b@
+ london-events
+DTSTAMP:20260902T183000Z
+DTSTART:20260902T183000Z
+DTEND:20260902T203000Z
+SUMMARY:for colored girls who have considered suicide / when the rainbow i
+ s enuf
+DESCRIPTION:Ntozake Shange's landmark choreopoem — poetry\, movement and
+  music — opens The Yard's autumn. Runs to 3 Oct\; 7.30pm previews 2-7 S
+ ep\, then Mon-Sat 7pm.\nPrice: tiered\; £5 on the door for 27-and-unders
+ \nhttps://www.theyardtheatre.co.uk/events/for-colored-girls
+URL:https://www.theyardtheatre.co.uk/events/for-colored-girls
+LOCATION:The Yard Theatre\, Queen's Yard\, White Post Lane\, Hackney Wick\
+ , E9 5EN
+END:VEVENT
+BEGIN:VEVENT
 UID:jacqui-mcshee-s-pentangle-junior-brother-at-earth-9e81b40a@london-even
  ts
 DTSTAMP:20260903T173000Z
@@ -1971,6 +2073,18 @@ URL:https://wiltons.org.uk/whats-on/the-signalman/
 LOCATION:Wilton's Music Hall\, 1 Graces Alley\, E1 8JB
 END:VEVENT
 BEGIN:VEVENT
+UID:francis-fukuyama-at-union-chapel-a9453115@london-events
+DTSTAMP:20260903T180000Z
+DTSTART:20260903T180000Z
+DTEND:20260903T200000Z
+SUMMARY:Francis Fukuyama at Union Chapel
+DESCRIPTION:The End of History author on liberal order\, populism and wher
+ e politics goes next. Doors 6pm\, talk 7pm.\nhttps://unionchapel.org.uk/w
+ hats-on/francis-fukuyama
+URL:https://unionchapel.org.uk/whats-on/francis-fukuyama
+LOCATION:Union Chapel\, Compton Terrace\, Islington\, N1 2UN
+END:VEVENT
+BEGIN:VEVENT
 UID:automatic-at-moth-club-82a8d6a0@london-events
 DTSTAMP:20260903T183000Z
 DTSTART:20260903T183000Z
@@ -1996,6 +2110,21 @@ DESCRIPTION:London alt/indie-pop and RnB artist lina sounds launches her s
 URL:https://dice.fm/event/q2qopp-lina-sounds-undiagnosed-3rd-sep-paper-dre
  ss-vintage-london-tickets
 LOCATION:Paper Dress Vintage\, 352a Mare Street\, E8 1HR
+END:VEVENT
+BEGIN:VEVENT
+UID:the-belair-lip-bombs-snuggle-morn-at-village-underground-aa28c0ea@lond
+ on-events
+DTSTAMP:20260903T183000Z
+DTSTART:20260903T183000Z
+DTEND:20260903T220000Z
+SUMMARY:The Belair Lip Bombs + Snuggle + Morn at Village Underground
+DESCRIPTION:Rising Australian indie/garage-rock band headline the converte
+ d warehouse with two supports — proper gig\, walkable from home.\nhttps
+ ://villageunderground.co.uk/events/the-belair-lip-bombs-snuggle-morn-3rd-
+ sep-village-underground-london-tickets-8elkw7
+URL:https://villageunderground.co.uk/events/the-belair-lip-bombs-snuggle-m
+ orn-3rd-sep-village-underground-london-tickets-8elkw7
+LOCATION:Village Underground\, 54 Holywell Lane\, Shoreditch\, EC2A 3PQ
 END:VEVENT
 BEGIN:VEVENT
 UID:surrendered-singing-sauna-3e56d527@london-events
@@ -2024,6 +2153,19 @@ DESCRIPTION:Eight-course homemade Vietnamese feast at a shared long table
 URL:https://www.uyenluu.com/supper-club-vietnamese-london/
 LOCATION:Uyen Luu's studio (address emailed after booking)\, near 8 Andrew
  s Road\, E8 4QN
+END:VEVENT
+BEGIN:VEVENT
+UID:london-fortean-society-magick-in-seven-objects-200af106@london-events
+DTSTAMP:20260904T180000Z
+DTSTART:20260904T180000Z
+DTEND:20260904T193000Z
+SUMMARY:London Fortean Society: Magick in Seven Objects
+DESCRIPTION:Historian Dr Thomas Waters tells the history of magic through 
+ seven objects\, from Stone Age symbols to enchanted weapons — classic q
+ uirky Fortean Society evening.\nhttps://conwayhall.ticketsolve.com/ticket
+ booth/shows/1173674867
+URL:https://conwayhall.ticketsolve.com/ticketbooth/shows/1173674867
+LOCATION:Conway Hall\, 25 Red Lion Square\, WC1R 4RL
 END:VEVENT
 BEGIN:VEVENT
 UID:psysoc-community-walk-speed-friending-nature-connection-sept-5f63a3ef@
@@ -2122,6 +2264,19 @@ URL:https://howtoacademy.com/events/james-marriott-the-new-dark-ages/
 LOCATION:Conway Hall\, 25 Red Lion Square\, WC1R 4RL
 END:VEVENT
 BEGIN:VEVENT
+UID:the-wellness-social-reformer-pilates-sauna-brunch-at-soul-f6d5877e@lon
+ don-events
+DTSTAMP:20260906T090000Z
+DTSTART:20260906T090000Z
+DTEND:20260906T110000Z
+SUMMARY:The Wellness Social: Reformer Pilates\, Sauna & Brunch at &Soul
+DESCRIPTION:Sunday-morning social at the Cheshire Street sanctuary: reform
+ er Pilates\, sauna time\, then a curated brunch — sociable wellness fou
+ r minutes from home.\nhttps://andsoulsanctuary.com/whats-on
+URL:https://andsoulsanctuary.com/whats-on
+LOCATION:The Sanctuary &Soul\, 114 Cheshire Street\, E2 6EJ
+END:VEVENT
+BEGIN:VEVENT
 UID:authentic-relating-conscious-connections-exploring-meaning-a-c5ef2c11@
  london-events
 DTSTAMP:20260906T114500Z
@@ -2163,6 +2318,21 @@ URL:https://luma.com/e0gtnzhq
 LOCATION:Newspeak House\, 133 Bethnal Green Road\, E2 7DG
 END:VEVENT
 BEGIN:VEVENT
+UID:bright-phoebus-revisited-lal-mike-waterson-tribute-d5356564@london-eve
+ nts
+DTSTAMP:20260908T173000Z
+DTSTART:20260908T173000Z
+DTEND:20260908T210000Z
+SUMMARY:Bright Phoebus Revisited (Lal & Mike Waterson tribute)
+DESCRIPTION:Live celebration of Lal and Mike Waterson's legendary lost 197
+ 2 folk-noir album Bright Phoebus — prime folk territory. Doors 6.30pm.\
+ nhttps://earthackney.co.uk/events/bright-phoebus-revisited-8th-sep-earth-
+ london-tickets-wwdm7p
+URL:https://earthackney.co.uk/events/bright-phoebus-revisited-8th-sep-eart
+ h-london-tickets-wwdm7p
+LOCATION:EartH\, 11-17 Stoke Newington Road\, Dalston\, N16 8BP
+END:VEVENT
+BEGIN:VEVENT
 UID:the-elixir-of-love-donizetti-in-english-b05123e8@london-events
 DTSTAMP:20260908T180000Z
 DTSTART:20260908T180000Z
@@ -2174,6 +2344,19 @@ DESCRIPTION:Comic Donizetti with a new English libretto\, set at a village
  -love/
 URL:https://wiltons.org.uk/whats-on/the-elixir-of-love/
 LOCATION:Wilton's Music Hall\, 1 Graces Alley\, E1 8JB
+END:VEVENT
+BEGIN:VEVENT
+UID:the-mystery-of-time-with-jim-al-khalili-062cc4e7@london-events
+DTSTAMP:20260908T180000Z
+DTSTART:20260908T180000Z
+DTEND:20260908T200000Z
+SUMMARY:The Mystery of Time\, with Jim Al-Khalili
+DESCRIPTION:Physicist and broadcaster Jim Al-Khalili on the physics of tim
+ e. Doors 6pm\, start 7pm.\nhttps://unionchapel.org.uk/whats-on/the-myster
+ y-of-time-with-jim-al-khalili
+URL:https://unionchapel.org.uk/whats-on/the-mystery-of-time-with-jim-al-kh
+ alili
+LOCATION:Union Chapel\, Compton Terrace\, Islington\, N1 2UN
 END:VEVENT
 BEGIN:VEVENT
 UID:rostam-at-village-underground-9c18192c@london-events
@@ -2188,6 +2371,33 @@ DESCRIPTION:Rostam Batmanglij (ex-Vampire Weekend\, producer for Haim and
 URL:https://dice.fm/event/oevmyg-rostam-8th-sep-village-underground-london
  -tickets
 LOCATION:Village Underground\, 54 Holywell Lane\, EC2A 3PQ
+END:VEVENT
+BEGIN:VEVENT
+UID:roger-eno-at-union-chapel-b075fe97@london-events
+DTSTAMP:20260909T180000Z
+DTSTART:20260909T180000Z
+DTEND:20260909T200000Z
+SUMMARY:Roger Eno at Union Chapel
+DESCRIPTION:Ambient/modern-classical composer Roger Eno performs his Deuts
+ che Grammophon trilogy — first UK show since a sold-out QEH date. Same 
+ night as Laraaji at EartH: pick one ambient elder.\nhttps://unionchapel.o
+ rg.uk/whats-on/roger-eno
+URL:https://unionchapel.org.uk/whats-on/roger-eno
+LOCATION:Union Chapel\, Compton Terrace\, Islington\, N1 2UN
+END:VEVENT
+BEGIN:VEVENT
+UID:laraaji-at-earth-b52ec378@london-events
+DTSTAMP:20260909T180000Z
+DTSTART:20260909T180000Z
+DTEND:20260909T220000Z
+SUMMARY:Laraaji at EartH
+DESCRIPTION:Ambient-zither legend Laraaji (of Brian Eno's Ambient 3) bring
+ s his trance-inducing autoharp jams to Dalston. Clashes with Roger Eno at
+  Union Chapel the same night.\nhttps://earthackney.co.uk/events/laraaji-9
+ th-sep-earth-london-tickets-dkp666
+URL:https://earthackney.co.uk/events/laraaji-9th-sep-earth-london-tickets-
+ dkp666
+LOCATION:EartH\, 11-17 Stoke Newington Road\, Dalston\, N16 8BP
 END:VEVENT
 BEGIN:VEVENT
 UID:fire-fire-new-play-at-arcola-opening-night-7faaf5bf@london-events
@@ -2258,6 +2468,34 @@ URL:https://dice.fm/event/dkoxe6-iceland-airwaves-off-venue-10th-sep-colou
 LOCATION:Colours Hoxton\, 2-4 Hoxton Square\, N1 6NU
 END:VEVENT
 BEGIN:VEVENT
+UID:gia-margaret-at-earth-01789289@london-events
+DTSTAMP:20260910T183000Z
+DTSTART:20260910T183000Z
+DTEND:20260910T220000Z
+SUMMARY:Gia Margaret at EartH
+DESCRIPTION:Chicago ambient-folk songwriter Gia Margaret ('sleep rock') pl
+ ays EartH's atmospheric theatre — gentle\, intimate weeknight show.\nht
+ tps://earthackney.co.uk/events/gia-margaret-10th-sep-earth-london-tickets
+ -q292gy
+URL:https://earthackney.co.uk/events/gia-margaret-10th-sep-earth-london-ti
+ ckets-q292gy
+LOCATION:EartH\, 11-17 Stoke Newington Road\, Dalston\, N16 8BP
+END:VEVENT
+BEGIN:VEVENT
+UID:fatiha-el-ghorri-cockney-stacking-doll-d92708ee@london-events
+DTSTAMP:20260910T183000Z
+DTSTART:20260910T183000Z
+DTEND:20260910T203000Z
+SUMMARY:Fatiha El-Ghorri: Cockney Stacking Doll
+DESCRIPTION:Award-winning East London comedian's debut tour show — sharp
+ \, stereotype-smashing stand-up on home turf at the Empire.\nPrice: £19\
+ nhttps://www.hackneyempire.co.uk/events/fatiha-el-ghorri-cockney-stacking
+ -doll
+URL:https://www.hackneyempire.co.uk/events/fatiha-el-ghorri-cockney-stacki
+ ng-doll
+LOCATION:Hackney Empire\, 291 Mare Street\, E8 1EJ
+END:VEVENT
+BEGIN:VEVENT
 UID:chant-for-love-and-peace-kirtan-at-st-ethelburga-s-a0d3af86@london-eve
  nts
 DTSTAMP:20260911T180000Z
@@ -2271,6 +2509,19 @@ DESCRIPTION:Charity kirtan evening of Bhakti chanting led by Sacinandana S
 URL:https://www.eventbrite.co.uk/e/chant-for-love-and-peace-tickets-199151
  6807381
 LOCATION:St Ethelburga's Centre\, 78 Bishopsgate\, EC2N 4AG
+END:VEVENT
+BEGIN:VEVENT
+UID:the-turn-of-the-screw-at-arcola-theatre-4d82cf7d@london-events
+DTSTAMP:20260911T183000Z
+DTSTART:20260911T183000Z
+DTEND:20260911T203000Z
+SUMMARY:The Turn of the Screw at Arcola Theatre
+DESCRIPTION:World-premiere Morgan Lloyd Malcolm adaptation of Henry James'
+ s ghost story\, running 11 Sep - 10 Oct. Evening shows alternate 7pm/7.30
+ pm — confirm exact time when booking.\nPrice: £12-£39\nhttps://www.ar
+ colatheatre.com/event/the-turn-of-the-screw/
+URL:https://www.arcolatheatre.com/event/the-turn-of-the-screw/
+LOCATION:Arcola Theatre (Studio 1)\, 24 Ashwin Street\, Dalston\, E8 3DL
 END:VEVENT
 BEGIN:VEVENT
 UID:open-house-festival-2026-london-s-buildings-unlocked-8854e85b@london-e
@@ -2398,6 +2649,33 @@ URL:https://www.cecilsharphouse.org/whats-on/27-dances/15735-the-london-ba
 LOCATION:Cecil Sharp House\, 2 Regent's Park Road\, NW1 7AY
 END:VEVENT
 BEGIN:VEVENT
+UID:ethical-matters-fighting-social-atrophy-dr-sarah-stein-lubra-b1f657e1@
+ london-events
+DTSTAMP:20260913T140000Z
+DTSTART:20260913T140000Z
+DTEND:20260913T153000Z
+SUMMARY:Ethical Matters: Fighting Social Atrophy — Dr Sarah Stein Lubran
+ o
+DESCRIPTION:Sunday-afternoon talk on why sociability has collapsed since t
+ he pandemic and what rebuilds it — could pair with the 6.30pm chamber c
+ oncert in the same building.\nhttps://conwayhall.ticketsolve.com/ticketbo
+ oth/shows/1173675226
+URL:https://conwayhall.ticketsolve.com/ticketbooth/shows/1173675226
+LOCATION:Conway Hall\, 25 Red Lion Square\, WC1R 4RL
+END:VEVENT
+BEGIN:VEVENT
+UID:conway-hall-sunday-concerts-season-opener-aa4f90b3@london-events
+DTSTAMP:20260913T173000Z
+DTSTART:20260913T173000Z
+DTEND:20260913T193000Z
+SUMMARY:Conway Hall Sunday Concerts: season opener
+DESCRIPTION:The world's longest-running chamber music series resumes: cell
+ ist-in-residence Bartholomew LaFollette with string players.\nhttps://con
+ wayhall.ticketsolve.com/ticketbooth/shows/1173675193
+URL:https://conwayhall.ticketsolve.com/ticketbooth/shows/1173675193
+LOCATION:Conway Hall\, 25 Red Lion Square\, WC1R 4RL
+END:VEVENT
+BEGIN:VEVENT
 UID:systemic-family-constellations-evening-14-sep-77543f74@london-events
 DTSTAMP:20260914T173000Z
 DTSTART:20260914T173000Z
@@ -2434,6 +2712,20 @@ DESCRIPTION:Intimate pub-venue show from folk-leaning singer-songwriter Ro
 URL:https://www.songkick.com/concerts/43324510-roxanne-de-bastion-at-sebri
  ght-arms
 LOCATION:Sebright Arms\, 31-35 Coate Street\, E2 9AG
+END:VEVENT
+BEGIN:VEVENT
+UID:william-tyler-at-earth-71dca36c@london-events
+DTSTAMP:20260915T183000Z
+DTSTART:20260915T183000Z
+DTEND:20260915T220000Z
+SUMMARY:William Tyler at EartH
+DESCRIPTION:Nashville guitarist William Tyler (ex-Lambchop) plays cosmic-A
+ mericana instrumentals — pairs with Laura Veirs at the same venue the f
+ ollowing night.\nhttps://earthackney.co.uk/events/william-tyler-15th-sep-
+ earth-london-tickets-7dmwmp
+URL:https://earthackney.co.uk/events/william-tyler-15th-sep-earth-london-t
+ ickets-7dmwmp
+LOCATION:EartH\, 11-17 Stoke Newington Road\, Dalston\, N16 8BP
 END:VEVENT
 BEGIN:VEVENT
 UID:psychedelics-entities-and-consciousness-dr-chris-timmermann-07a053b0@l
@@ -2584,6 +2876,48 @@ URL:https://www.cecilsharphouse.org/whats-on/27-dances/15787-international
 LOCATION:Cecil Sharp House\, 2 Regent's Park Road\, NW1 7AY
 END:VEVENT
 BEGIN:VEVENT
+UID:novara-media-s-downstream-irl-trauma-farming-9f218de5@london-events
+DTSTAMP:20260921T173000Z
+DTSTART:20260921T173000Z
+DTEND:20260921T210000Z
+SUMMARY:Novara Media's Downstream IRL — Trauma Farming
+DESCRIPTION:Live edition of Novara's Downstream interview show asking how 
+ 'lived experience' and pain became a personal brand — Monday-evening id
+ eas event.\nhttps://earthackney.co.uk/events/novara-medias-downstream-irl
+ -trauma-farming-21st-sep-earth-london-tickets-bb9wxv
+URL:https://earthackney.co.uk/events/novara-medias-downstream-irl-trauma-f
+ arming-21st-sep-earth-london-tickets-bb9wxv
+LOCATION:EartH\, 11-17 Stoke Newington Road\, Dalston\, N16 8BP
+END:VEVENT
+BEGIN:VEVENT
+UID:carlo-rovelli-lessons-on-physics-and-philosophy-9af18cdb@london-events
+DTSTAMP:20260924T170000Z
+DTSTART:20260924T170000Z
+DTEND:20260924T190000Z
+SUMMARY:Carlo Rovelli: Lessons on Physics and Philosophy
+DESCRIPTION:Quantum-gravity physicist Carlo Rovelli live with audience Q&A
+ \; every ticket includes a hardback of his new book. Doors 6pm.\nhttps://
+ unionchapel.org.uk/whats-on/carlo-rovelli-lessons-on-physics-and-philosop
+ hy
+URL:https://unionchapel.org.uk/whats-on/carlo-rovelli-lessons-on-physics-a
+ nd-philosophy
+LOCATION:Union Chapel\, Compton Terrace\, Islington\, N1 2UN
+END:VEVENT
+BEGIN:VEVENT
+UID:flop-the-best-songs-from-the-worst-musicals-8557574f@london-events
+DTSTAMP:20260924T180000Z
+DTSTART:20260924T180000Z
+DTEND:20260924T200000Z
+SUMMARY:FLOP! The Best Songs From The Worst Musicals
+DESCRIPTION:Musical cabaret celebrating Broadway's biggest flops in the wo
+ rld's oldest music hall. Runs to Sat 26 Sep\, 7pm nightly plus Sat matine
+ e.\nPrice: £10.50-£25\nhttps://wiltons.org.uk/whats-on/flop-the-best-so
+ ngs-from-the-worst-musicals/
+URL:https://wiltons.org.uk/whats-on/flop-the-best-songs-from-the-worst-mus
+ icals/
+LOCATION:Wilton's Music Hall\, 1 Graces Alley\, Whitechapel\, E1 8JB
+END:VEVENT
+BEGIN:VEVENT
 UID:english-country-dancing-autumn-course-opener-c2b0fde5@london-events
 DTSTAMP:20260924T183000Z
 DTSTART:20260924T183000Z
@@ -2597,6 +2931,18 @@ DESCRIPTION:Learn English country\, ceilidh and barn dancing with live mus
 URL:https://www.cecilsharphouse.org/whats-on/28-classes-and-courses/16107-
  english-country-dancing-24-sept-26
 LOCATION:Cecil Sharp House\, 2 Regent's Park Road\, NW1 7AY
+END:VEVENT
+BEGIN:VEVENT
+UID:grace-petrie-at-union-chapel-21267766@london-events
+DTSTAMP:20260925T190000Z
+DTSTART:20260925T190000Z
+DTEND:20260925T210000Z
+SUMMARY:Grace Petrie at Union Chapel
+DESCRIPTION:Protest-folk songwriter Grace Petrie in a show of two halves: 
+ stripped-back solo set plus full-band career retrospective. Doors 7pm\, s
+ tart 8pm.\nhttps://unionchapel.org.uk/whats-on/grace-petrie
+URL:https://unionchapel.org.uk/whats-on/grace-petrie
+LOCATION:Union Chapel\, Compton Terrace\, Islington\, N1 2UN
 END:VEVENT
 BEGIN:VEVENT
 UID:movement-lab-taster-london-fields-ee7d8f93@london-events
