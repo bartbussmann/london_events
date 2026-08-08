@@ -580,6 +580,25 @@
     "added": "2026-08-03"
   },
   {
+    "id": "going-slow-rebuilding-intention-through-physical-listening-s-fcfb019b",
+    "title": "Going Slow: Rebuilding Intention Through Physical Listening Spaces",
+    "start": "2026-08-10T18:00:00+01:00",
+    "end": null,
+    "venue": "Netil House",
+    "address": "1 Westgate Street, London Fields, E8 3RL",
+    "url": "https://eatworkart.com/netil-house/events/four-corners-going-offline-1",
+    "source": "venue:netil-house",
+    "tags": [
+      "talk",
+      "music"
+    ],
+    "price": null,
+    "description": "Panel on the rise of hi-fi listening bars and what they teach about attention, with Yu Su, Shai Space founder Henry Farrant and NTS resident Pritpal Ajimal. Monday 6pm, ten minutes from home.",
+    "neighbourhood": "London Fields",
+    "cycle_minutes": 9,
+    "added": "2026-08-08"
+  },
+  {
     "id": "campaign-lab-hack-night-10-aug-edition-b99a8cd4",
     "title": "Campaign Lab Hack Night (10 Aug edition)",
     "start": "2026-08-10T19:00:00+01:00",
@@ -1345,6 +1364,25 @@
     "added": "2026-07-16"
   },
   {
+    "id": "thursday-singles-museum-walk-lunch-national-portrait-gallery-08e37fcc",
+    "title": "Thursday: Singles Museum Walk & Lunch — National Portrait Gallery",
+    "start": "2026-08-16T11:00:00+01:00",
+    "end": "2026-08-16T14:00:00+01:00",
+    "venue": "National Portrait Gallery (meet outside)",
+    "address": "St Martin's Place, WC2H 0HE",
+    "url": "https://www.thursday.com/events/london/1b946b67-902e-4e83-9194-41ddb673aa43",
+    "source": "listing:thursday-dating",
+    "tags": [
+      "community",
+      "art"
+    ],
+    "price": "£15",
+    "description": "Hosted singles-only stroll through the NPG then group lunch — the V&A edition of this format sold out. Mixed men/women tickets.",
+    "neighbourhood": "Trafalgar Square",
+    "cycle_minutes": 25,
+    "added": "2026-08-08"
+  },
+  {
     "title": "Sunday Jazz at The Old Blue Last (free) — 16 Aug",
     "start": "2026-08-16T19:00:00+01:00",
     "end": null,
@@ -1362,6 +1400,24 @@
     "cycle_minutes": 7,
     "id": "sunday-jazz-at-the-old-blue-last-free-16-aug-9bf04d2e",
     "added": "2026-07-30"
+  },
+  {
+    "id": "natural-information-society-residency-day-one-with-coby-sey-bb24d946",
+    "title": "Natural Information Society residency — Day One with Coby Sey",
+    "start": "2026-08-16T19:30:00+01:00",
+    "end": null,
+    "venue": "Cafe OTO",
+    "address": "18-22 Ashwin Street, Dalston, E8 3DL",
+    "url": "https://www.cafeoto.co.uk/events/natural-information-society-2026/",
+    "source": "venue:cafe-oto",
+    "tags": [
+      "music"
+    ],
+    "price": "£17 advance / £19 door",
+    "description": "First night of the Chicago hypnotic-minimalist ensemble's two-day OTO residency, with Coby Sey opening. Tickets per night.",
+    "neighbourhood": "Dalston",
+    "cycle_minutes": 14,
+    "added": "2026-08-08"
   },
   {
     "title": "Alexander Technique: An Introduction (City Academy)",
@@ -1416,6 +1472,24 @@
     "neighbourhood": "Shoreditch",
     "cycle_minutes": 7,
     "added": "2026-08-04"
+  },
+  {
+    "id": "natural-information-society-residency-day-two-with-evan-park-fe9df21b",
+    "title": "Natural Information Society residency — Day Two with Evan Parker",
+    "start": "2026-08-17T19:30:00+01:00",
+    "end": null,
+    "venue": "Cafe OTO",
+    "address": "18-22 Ashwin Street, Dalston, E8 3DL",
+    "url": "https://www.cafeoto.co.uk/events/natural-information-society-2026/",
+    "source": "venue:cafe-oto",
+    "tags": [
+      "music"
+    ],
+    "price": "£17 advance / £19 door",
+    "description": "Second night of the residency, joined by free-improv sax legend Evan Parker. Monday, 7.30pm.",
+    "neighbourhood": "Dalston",
+    "cycle_minutes": 14,
+    "added": "2026-08-08"
   },
   {
     "title": "Words From the Other Side: Poetry as a Practice for Altered States",
@@ -1715,6 +1789,24 @@
     "cycle_minutes": 7
   },
   {
+    "id": "john-scofield-s-long-days-quartet-at-union-chapel-97342656",
+    "title": "John Scofield's Long Days Quartet at Union Chapel",
+    "start": "2026-08-20T19:00:00+01:00",
+    "end": "2026-08-20T22:30:00+01:00",
+    "venue": "Union Chapel",
+    "address": "19b Compton Terrace, Islington, N1 2UN",
+    "url": "https://unionchapel.org.uk/whats-on/john-scofields-long-days-quartet",
+    "source": "venue:union-chapel",
+    "tags": [
+      "music"
+    ],
+    "price": "£42.50",
+    "description": "Jazz guitar great John Scofield with John Medeski, Ted Poor and Vicente Archer in the candlelit chapel. Doors 7pm, unreserved seating.",
+    "neighbourhood": "Islington",
+    "cycle_minutes": 20,
+    "added": "2026-08-08"
+  },
+  {
     "id": "fionn-boland-and-friends-at-paper-dress-vintage-df73cad9",
     "title": "Fionn Boland and Friends at Paper Dress Vintage",
     "start": "2026-08-20T19:30:00+01:00",
@@ -1731,6 +1823,25 @@
     "neighbourhood": "Hackney Central",
     "cycle_minutes": 12,
     "added": "2026-08-04"
+  },
+  {
+    "id": "thursday-x-barry-s-singles-workout-social-st-paul-s-51221b96",
+    "title": "Thursday x Barry's: Singles Workout & Social — St Paul's",
+    "start": "2026-08-20T19:30:00+01:00",
+    "end": "2026-08-20T22:00:00+01:00",
+    "venue": "Barry's St Paul's",
+    "address": "St Paul's, EC4 (studio on booking)",
+    "url": "https://www.thursday.com/events/london/4f25237c-ceea-4e22-8b42-2fcf9e91c5c8",
+    "source": "listing:thursday-dating",
+    "tags": [
+      "community",
+      "class"
+    ],
+    "price": "£30",
+    "description": "Signature Barry's workout class for singles followed by a hosted social — activity-first dating format, mixed tickets.",
+    "neighbourhood": "St Paul's",
+    "cycle_minutes": 15,
+    "added": "2026-08-08"
   },
   {
     "title": "Breathwork, Harmonizing Sound and Sacred Cacao Ceremony",
@@ -1788,6 +1899,25 @@
     "cycle_minutes": 12,
     "id": "miss-grit-mui-zyu-at-moth-club-4efc0919",
     "added": "2026-07-19"
+  },
+  {
+    "id": "thursday-x-clarity-rooftop-singles-wine-social-kings-cross-67b406b3",
+    "title": "Thursday x Clarity: Rooftop Singles Wine Social — Kings Cross",
+    "start": "2026-08-21T19:00:00+01:00",
+    "end": "2026-08-21T22:30:00+01:00",
+    "venue": "Rivvia (rooftop)",
+    "address": "Kings Cross, London",
+    "url": "https://www.thursday.com/events/london/b9af455f-bb90-4998-a509-8ceeb0c4a85d",
+    "source": "listing:thursday-dating",
+    "tags": [
+      "community",
+      "food"
+    ],
+    "price": "£15 early bird / £20",
+    "description": "Relaxed hosted wine social at Rivvia rooftop with a sommelier introducing pours plus live music — conversation-first, not a formal tasting.",
+    "neighbourhood": "Kings Cross",
+    "cycle_minutes": 28,
+    "added": "2026-08-08"
   },
   {
     "title": "Ceroc South Ken — 2 Room Freestyle & SILC Class",
@@ -2238,6 +2368,25 @@
     "added": "2026-07-25"
   },
   {
+    "id": "ihridaya-taro-gong-bath-with-live-multi-instrumentalist-66c27b4d",
+    "title": "ihridaya & Taro — gong bath with live multi-instrumentalist",
+    "start": "2026-08-28T19:15:00+01:00",
+    "end": "2026-08-28T20:20:00+01:00",
+    "venue": "St Luke's Church",
+    "address": "Hillmarton Road, Holloway, N7",
+    "url": "https://dandelion.events/e/v99um",
+    "source": "aggregator:dandelion",
+    "tags": [
+      "workshop",
+      "music"
+    ],
+    "price": "£22",
+    "description": "Monthly church-acoustics sound bath: gongs plus guest musician Taro on violin, Tibetan bowls, flutes and percussion.",
+    "neighbourhood": "Holloway",
+    "cycle_minutes": 25,
+    "added": "2026-08-08"
+  },
+  {
     "title": "Introduction to Bookbinding at London Centre for Book Arts",
     "start": "2026-08-29T10:00:00+01:00",
     "end": "2026-08-29T17:30:00+01:00",
@@ -2294,6 +2443,26 @@
     "cycle_minutes": 40,
     "id": "ecotherapy-workshop-with-dr-adrian-harris-5d60c81a",
     "added": "2026-07-23"
+  },
+  {
+    "id": "habibi-funk-friends-open-air-weekender-at-hackney-bridge-0b4262be",
+    "title": "Habibi Funk & Friends: Open Air Weekender at Hackney Bridge",
+    "start": "2026-08-29T13:30:00+01:00",
+    "end": "2026-08-29T22:00:00+01:00",
+    "venue": "Hackney Bridge Garden",
+    "address": "Kingsyard, East Bay Lane, Hackney Wick, E15 2SJ",
+    "url": "https://hackneybridge.org/em_event/habibi-funk-friends-open-air-weekender/",
+    "source": "venue:hackney-bridge",
+    "tags": [
+      "music",
+      "outdoors",
+      "festival"
+    ],
+    "price": "Ticketed via ra.co",
+    "description": "Habibi Funk's open-air label weekender: Arab funk/psych, Lebanese and Sudanese jazz — Dar Disku, Jamz Supernova, My Analog Journal, Guts, live sets from Kazdoura and The Scorpios. Runs Sat 29 AND Sun 30 Aug, 13:30-22:00, last entry 20:00.",
+    "neighbourhood": "Hackney Wick",
+    "cycle_minutes": 15,
+    "added": "2026-08-08"
   },
   {
     "title": "Panorama 2026 — UK National Steelband Competition",
@@ -2410,6 +2579,25 @@
     "neighbourhood": "Euston",
     "added": "2026-08-06",
     "cycle_minutes": 28
+  },
+  {
+    "id": "thursday-singles-beach-volleyball-speed-dating-after-party-l-8966dffa",
+    "title": "Thursday: Singles Beach Volleyball Speed Dating + After-Party — Leyton",
+    "start": "2026-08-30T17:30:00+01:00",
+    "end": "2026-08-30T21:00:00+01:00",
+    "venue": "Beach volleyball courts, Leyton",
+    "address": "Leyton, E10 (court on booking)",
+    "url": "https://www.thursday.com/events/london/7868a05d-cd7d-4d08-ac30-8a6cd6c08bb8",
+    "source": "listing:thursday-dating",
+    "tags": [
+      "community",
+      "outdoors"
+    ],
+    "price": "£25 (after-party included)",
+    "description": "Rotating-partner beach volleyball as speed dating, then an after-party — bank holiday Sunday, east London.",
+    "neighbourhood": "Leyton",
+    "cycle_minutes": 20,
+    "added": "2026-08-08"
   },
   {
     "title": "David Byrne's American Utopia — Barbican Outdoor Cinema",
@@ -2671,6 +2859,42 @@
     "added": "2026-08-07"
   },
   {
+    "id": "thursday-singles-night-at-barrio-shoreditch-9be92141",
+    "title": "Thursday: Singles Night at Barrio Shoreditch",
+    "start": "2026-09-03T19:00:00+01:00",
+    "end": "2026-09-03T23:00:00+01:00",
+    "venue": "Barrio Shoreditch (terrace)",
+    "address": "141 Shoreditch High Street, E1 6JE",
+    "url": "https://www.thursday.com/events/london/6893feb2-79aa-4821-8575-9c94d5343392",
+    "source": "listing:thursday-dating",
+    "tags": [
+      "community"
+    ],
+    "price": "£12 early bird / £18",
+    "description": "Thursday takes over Barrio's terrace with Matchbox algorithmic matching — flagship bar-night format ten minutes from home. Same night as their Kings Cross rooftop: pick one.",
+    "neighbourhood": "Shoreditch",
+    "cycle_minutes": 7,
+    "added": "2026-08-08"
+  },
+  {
+    "id": "thursday-25-35-singles-rooftop-kings-cross-september-39219a8d",
+    "title": "Thursday: 25-35 Singles Rooftop — Kings Cross (September)",
+    "start": "2026-09-03T19:00:00+01:00",
+    "end": "2026-09-03T22:00:00+01:00",
+    "venue": "Regent's Rooftop",
+    "address": "Kings Cross, London",
+    "url": "https://www.thursday.com/events/london/c34ec1b9-091a-49a7-beae-61ee0d69c3e5",
+    "source": "listing:thursday-dating",
+    "tags": [
+      "community"
+    ],
+    "price": "£12 early bird / £18",
+    "description": "Sunset rooftop singles night for 25-35s over St Pancras — same night as the Barrio Shoreditch event, pick one.",
+    "neighbourhood": "Kings Cross",
+    "cycle_minutes": 28,
+    "added": "2026-08-08"
+  },
+  {
     "title": "Automatic at MOTH Club",
     "start": "2026-09-03T19:30:00+01:00",
     "end": "2026-09-03T22:30:00+01:00",
@@ -2723,6 +2947,24 @@
     "neighbourhood": "Shoreditch",
     "cycle_minutes": 7,
     "added": "2026-08-07"
+  },
+  {
+    "id": "t-w-c-5rhythms-thursday-waves-first-september-session-7c6deb09",
+    "title": "T.W.C 5Rhythms (Thursday Waves) — first September session",
+    "start": "2026-09-03T20:00:00+01:00",
+    "end": "2026-09-03T22:00:00+01:00",
+    "venue": "St Luke's Church",
+    "address": "Hillmarton Road, N7 9RE",
+    "url": "https://www.5rhythms.com/classes/TWCformerlyThursdayWaves-329",
+    "source": "listing:5rhythms",
+    "tags": [
+      "dance"
+    ],
+    "price": "£11-£20 sliding scale, on door",
+    "description": "London's long-running weekly 5Rhythms wave — drop-in, doors 7.45pm. Listed as weekly Thursdays; confirm this date on the day.",
+    "neighbourhood": "Holloway",
+    "cycle_minutes": 25,
+    "added": "2026-08-08"
   },
   {
     "title": "Surrendered Singing + Sauna",
@@ -3117,6 +3359,24 @@
     "added": "2026-08-02"
   },
   {
+    "id": "how-geography-explains-our-world-tim-marshall-bb19f43d",
+    "title": "How Geography Explains Our World — Tim Marshall",
+    "start": "2026-09-10T18:00:00+01:00",
+    "end": "2026-09-10T22:30:00+01:00",
+    "venue": "Union Chapel",
+    "address": "19b Compton Terrace, Islington, N1 2UN",
+    "url": "https://unionchapel.org.uk/whats-on/how-geography-explains-our-world-with-tim-marshall",
+    "source": "venue:union-chapel",
+    "tags": [
+      "talk"
+    ],
+    "price": "from £22.50",
+    "description": "Prisoners of Geography author Tim Marshall on geopolitics with audience Q&A, marking the book's 10th-anniversary edition. Doors 6pm.",
+    "neighbourhood": "Islington",
+    "cycle_minutes": 20,
+    "added": "2026-08-08"
+  },
+  {
     "title": "Shoreditch Speed Dating @ Be At One (ages 23-35) — September",
     "start": "2026-09-10T18:30:00+01:00",
     "end": null,
@@ -3244,6 +3504,24 @@
     "cycle_minutes": 9,
     "id": "chant-for-love-and-peace-kirtan-at-st-ethelburga-s-a0d3af86",
     "added": "2026-07-30"
+  },
+  {
+    "id": "mike-dawes-at-union-chapel-a9050432",
+    "title": "Mike Dawes at Union Chapel",
+    "start": "2026-09-11T19:00:00+01:00",
+    "end": "2026-09-11T22:30:00+01:00",
+    "venue": "Union Chapel",
+    "address": "19b Compton Terrace, Islington, N1 2UN",
+    "url": "https://unionchapel.org.uk/whats-on/mike-dawes",
+    "source": "venue:union-chapel",
+    "tags": [
+      "music"
+    ],
+    "price": "£25",
+    "description": "Virtuoso fingerstyle acoustic guitarist Mike Dawes — one-man-band arrangements in a room built for them. Doors 7pm.",
+    "neighbourhood": "Islington",
+    "cycle_minutes": 20,
+    "added": "2026-08-08"
   },
   {
     "id": "the-turn-of-the-screw-at-arcola-theatre-4d82cf7d",
@@ -3486,6 +3764,24 @@
     "added": "2026-08-02"
   },
   {
+    "id": "gresham-college-the-sky-at-night-tonight-chris-lintott-free-b77de091",
+    "title": "Gresham College: The Sky at Night, Tonight — Chris Lintott (free)",
+    "start": "2026-09-14T19:00:00+01:00",
+    "end": null,
+    "venue": "Conway Hall",
+    "address": "25 Red Lion Square, Holborn, WC1R 4RL",
+    "url": "https://www.gresham.ac.uk/whats-on/sky-night",
+    "source": "venue:gresham-college",
+    "tags": [
+      "talk"
+    ],
+    "price": "Free (register)",
+    "description": "Sky at Night presenter Chris Lintott on first results from the Vera Rubin Observatory. Rescheduled from April, so likely to book up.",
+    "neighbourhood": "Holborn",
+    "cycle_minutes": 22,
+    "added": "2026-08-08"
+  },
+  {
     "title": "Neumatic Parlo + Houndshark at Sebright Arms",
     "start": "2026-09-14T19:30:00+01:00",
     "end": null,
@@ -3502,6 +3798,24 @@
     "cycle_minutes": 4,
     "id": "neumatic-parlo-houndshark-at-sebright-arms-b594b411",
     "added": "2026-07-30"
+  },
+  {
+    "id": "gresham-college-cracking-the-whip-strings-chains-and-dinosau-4c545a5e",
+    "title": "Gresham College: Cracking the Whip — Strings, Chains and Dinosaurs (free)",
+    "start": "2026-09-15T18:00:00+01:00",
+    "end": null,
+    "venue": "Barnard's Inn Hall",
+    "address": "Holborn, EC1N 2HH",
+    "url": "https://www.gresham.ac.uk/whats-on/cracking-whip",
+    "source": "venue:gresham-college",
+    "tags": [
+      "talk"
+    ],
+    "price": "Free (register)",
+    "description": "Oxford mathematician Alain Goriely on the maths of whips and chains — and whether dinosaurs broke the sound barrier with their tails.",
+    "neighbourhood": "Holborn",
+    "cycle_minutes": 18,
+    "added": "2026-08-08"
   },
   {
     "title": "Roxanne de Bastion at Sebright Arms",
@@ -3650,6 +3964,24 @@
     "added": "2026-08-03"
   },
   {
+    "id": "thursday-book-club-for-singles-at-b-rd-books-september-702ea57f",
+    "title": "Thursday: Book Club for Singles at Bàrd Books (September)",
+    "start": "2026-09-17T19:00:00+01:00",
+    "end": "2026-09-17T22:00:00+01:00",
+    "venue": "Bàrd Books",
+    "address": "Roman Road, Bow, E3",
+    "url": "https://www.thursday.com/events/london/8500db4e-d571-4c14-8cab-01d68fc9e437",
+    "source": "listing:thursday-dating",
+    "tags": [
+      "community"
+    ],
+    "price": "£15",
+    "description": "September edition of the monthly singles book club at the Roman Road bookshop — very local, mixed tickets.",
+    "neighbourhood": "Bow",
+    "cycle_minutes": 10,
+    "added": "2026-08-08"
+  },
+  {
     "title": "Nish Kumar at Hackney Empire",
     "start": "2026-09-18T19:30:00+01:00",
     "end": "2026-09-18T21:30:00+01:00",
@@ -3763,6 +4095,25 @@
     "added": "2026-08-07"
   },
   {
+    "id": "gresham-college-the-future-of-creativity-daniel-susskind-fre-89968b9c",
+    "title": "Gresham College: The Future of Creativity — Daniel Susskind (free)",
+    "start": "2026-09-22T18:00:00+01:00",
+    "end": null,
+    "venue": "Barnard's Inn Hall",
+    "address": "Holborn, EC1N 2HH",
+    "url": "https://www.gresham.ac.uk/whats-on/future-creativity",
+    "source": "venue:gresham-college",
+    "tags": [
+      "talk",
+      "tech"
+    ],
+    "price": "Free (register)",
+    "description": "Economist Daniel Susskind on what AI systems that write, compose and paint mean for human creativity — complements his 1 Sep Conduit talk.",
+    "neighbourhood": "Holborn",
+    "cycle_minutes": 18,
+    "added": "2026-08-08"
+  },
+  {
     "id": "carlo-rovelli-lessons-on-physics-and-philosophy-9af18cdb",
     "title": "Carlo Rovelli: Lessons on Physics and Philosophy",
     "start": "2026-09-24T18:00:00+01:00",
@@ -3779,6 +4130,24 @@
     "neighbourhood": "Islington",
     "cycle_minutes": 20,
     "added": "2026-08-07"
+  },
+  {
+    "id": "gresham-college-carbon-our-flexible-friend-helen-czerski-fre-f746c768",
+    "title": "Gresham College: Carbon, Our Flexible Friend — Helen Czerski (free)",
+    "start": "2026-09-24T18:00:00+01:00",
+    "end": null,
+    "venue": "Barnard's Inn Hall",
+    "address": "Holborn, EC1N 2HH",
+    "url": "https://www.gresham.ac.uk/whats-on/carbon",
+    "source": "venue:gresham-college",
+    "tags": [
+      "talk"
+    ],
+    "price": "Free (register)",
+    "description": "Physicist Helen Czerski on how carbon built the natural world. Same evening as the Rovelli talk — a free alternative if that sells out.",
+    "neighbourhood": "Holborn",
+    "cycle_minutes": 18,
+    "added": "2026-08-08"
   },
   {
     "id": "flop-the-best-songs-from-the-worst-musicals-8557574f",
@@ -3819,6 +4188,24 @@
     "cycle_minutes": 32
   },
   {
+    "id": "simply-being-5rhythms-autumn-season-opener-cb7f31e1",
+    "title": "Simply Being 5Rhythms — autumn season opener",
+    "start": "2026-09-25T18:45:00+01:00",
+    "end": "2026-09-25T20:45:00+01:00",
+    "venue": "Central School of Ballet",
+    "address": "21-22 Hatfields, Paris Garden, SE1 8DJ",
+    "url": "https://www.5rhythms.com/classes/SimplyBeingRhythms-291541",
+    "source": "listing:5rhythms",
+    "tags": [
+      "dance"
+    ],
+    "price": "from £15.50 (£10 first-timer offer)",
+    "description": "Richard Wiltshire's Friday 5Rhythms class resumes 25 Sep after the summer break. Doors 6.30pm; book via bookwhen by 5pm on the day.",
+    "neighbourhood": "South Bank",
+    "cycle_minutes": 30,
+    "added": "2026-08-08"
+  },
+  {
     "id": "grace-petrie-at-union-chapel-21267766",
     "title": "Grace Petrie at Union Chapel",
     "start": "2026-09-25T20:00:00+01:00",
@@ -3854,5 +4241,43 @@
     "neighbourhood": "London Fields",
     "added": "2026-08-06",
     "cycle_minutes": 9
+  },
+  {
+    "id": "london-vocal-improv-cabaret-autumn-edition-d3182fbf",
+    "title": "London Vocal Improv Cabaret (autumn edition)",
+    "start": "2026-09-30T19:00:00+01:00",
+    "end": "2026-09-30T21:30:00+01:00",
+    "venue": "Music Tree",
+    "address": "Barnsbury Street, Islington, N1",
+    "url": "https://dandelion.events/e/k5fhk",
+    "source": "aggregator:dandelion",
+    "tags": [
+      "music",
+      "community"
+    ],
+    "price": "£15-£25 sliding scale",
+    "description": "Participatory vocal-improv cabaret: sing from your seat, pick games from a menu, or get drawn from the hat — fundraiser for the UK Vocal Improv Collective.",
+    "neighbourhood": "Islington",
+    "cycle_minutes": 22,
+    "added": "2026-08-08"
+  },
+  {
+    "id": "headless-way-a-day-with-richard-lang-october-date-e1ff4b7e",
+    "title": "Headless Way: a day with Richard Lang (October date)",
+    "start": "2026-10-17T10:00:00+01:00",
+    "end": "2026-10-17T16:00:00+01:00",
+    "venue": "Stoke Newington (address on booking)",
+    "address": "Stoke Newington, N16",
+    "url": "https://dandelion.events/e/k28r0",
+    "source": "aggregator:dandelion",
+    "tags": [
+      "workshop",
+      "talk"
+    ],
+    "price": "£35-£45",
+    "description": "Day of Douglas Harding's 'Headless Way' awareness experiments with Richard Lang (Waking Up app) — 16 places. The sold-out 19 Sep edition's replacement: this October date has availability.",
+    "neighbourhood": "Stoke Newington",
+    "cycle_minutes": 15,
+    "added": "2026-08-08"
   }
 ]

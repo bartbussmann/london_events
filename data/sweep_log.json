@@ -1,5 +1,11 @@
 [
   {
+    "ran_at": "2026-08-08T07:35:00+01:00",
+    "added": 23,
+    "considered": 120,
+    "notes": "Follow-up + refresh pass — all six near-misses resolved. Added 23: Natural Information Society OTO residency both nights (16-17 Aug, £17); Union Chapel trio confirmed (Scofield £42.50 20 Aug, Tim Marshall 10 Sep, Mike Dawes 11 Sep); Habibi Funk weekender 29-30 Aug (times confirmed, tickets via RA); 4 FREE Gresham College autumn lectures (Lintott/Rubin Observatory 14 Sep, whip-maths 15 Sep, Susskind creativity 22 Sep, Czerski carbon 24 Sep); 7 Thursday events incl. Barrio Shoreditch 3 Sep and Barry's workout social; gong bath Holloway 28 Aug; Headless Way 17 OCT date (19 Sep sold out — watchlist item resolved); vocal improv cabaret 30 Sep; T.W.C 5Rhythms 3 Sep (weekly, confirm-note) + Simply Being resumes 25 Sep (watchlist resolved); Netil House listening-bar panel Mon 10 Aug. SKIPPED: both Grimeborn operas SOLD OUT every date (Rinaldo 19-22, Flute 25-29, £15-39 7.30pm — watch for returns); 2 Ladywell somatic sessions (40+ min, not special enough); Chaos In The CBD (DJ event); All Points East (price/scale). DEAD: Hackney Downs Night Market has no 2026 presence — treat as not running; LISA Luma shows no upcoming events; KERB/British Street Food Awards pages stale. T.W.C recurrence and Going Slow price unconfirmed — notes on entries."
+  },
+  {
     "ran_at": "2026-08-07T07:30:00+01:00",
     "added": 25,
     "considered": 145,
@@ -172,11 +178,5 @@
     "added": 6,
     "considered": 21,
     "notes": "Daily sweep. ICS: 2 new LISA socials auto-imported (Dine & Align with GovAI fellows 22 Jul; MATS x LISA x LASR summer social 24 Jul). Scout added: two free Victoria Park bandstand Sundays (12 + 26 Jul, 8 min), Darren Le Baron entheogens talk at Love Shack (4 min), PsySoc Hampstead Heath walk with speed-friending. Caught 3 duplicates the scout resurfaced. Intel: Backyard Biennial East launch 14 Jul excluded by weekday-daytime rule; its 100+ free events (15 Jul-6 Sep) deserve a targeted future sweep. Shroomshop PRO advanced day (19 Jul, £110) skipped as near-duplicate — flag if wanted."
-  },
-  {
-    "ran_at": "2026-07-10T07:20:00+01:00",
-    "added": 6,
-    "considered": 30,
-    "notes": "Daily sweep (first using Dandelion ICS index). ICS: 0 new from LISA; 6 past events pruned. Added: woodland ecstatic dance gathering (tomorrow), Bottle Factory Flea market (Sunday), canal foraging walk, mushroom cultivation workshop (Cambridge Heath Rd, 4 min), Bohm Dialogue on Love, Greenwich ecstatic dance. Skipped: stale Victoria Park bandstand/acro listings. Intel: Backyard Biennial East — free 8-week arts festival across east London 15 Jul-6 Sep (whitechapelgallery.org) — a season, not a dated entry; scouts should watch for its individual events."
   }
 ]
