@@ -1,5 +1,11 @@
 [
   {
+    "ran_at": "2026-08-09T07:40:00+01:00",
+    "added": 27,
+    "considered": 130,
+    "notes": "Late-September gap fill + October opener. Every empty day 20-29 Sep now has at least one option. Added 27: late-Sep — SUN•DAY ecstatic dance 20 Sep, Migrateful refugee-chef cookery 20 Sep, free OBL bill 20 Sep, Campaign Lab 21 Sep, Jim Ghedi folk at MOTH 22 Sep, Nagasaki Swim 23 Sep, Goûté Bon supper club E2 25 Sep, Soundhood multi-venue festival 25-26 Sep, pottery workshop E9 26 Sep, Tellison 26 Sep, Consent&Connection + Portals 27 Sep, K-Music EartH + TIM KEY at Wilton's (28 Sep-3 Oct) 28 Sep, HONEYMOAN 29 Sep, Rick Nodine weekly CI class 30 Sep (term is at Acland Burghley Tufnell Park NOT The Place, running since 7 Sep); Oct — John Myrtle SJQ 1 Oct, Alela Diane 4 Oct, Campaign Lab 5 Oct, Balkanplus + Barndance both 10 Oct (same-building clash noted), Tiny Vipers folk bill SJQ 11 Oct, ceilidh 16 Oct, Brown Horse 22 Oct, Sex & Psychedelics 24 Oct (price-flagged), Rick Nodine TRAINING GROUND intensive 29 Oct-1 Nov (£175-220, rare-format exception — long-watched anchor resolved). TECHNIQUE: DICE full listings via api.dice.fm/venue_profiles/<id>?all_events=true (ids: MOTH 43, OBL 37, Shacklewell 10, Victoria 54, Sebright 163, SJQ 181, PDV 373). Spares logged by scout: Le Vent du Nord CSH 24 Sep, Leveret 1 Oct, Goblin Band 31 Oct, Oi Va Voi EartH 1 Oct, DIY Alive 3 Oct, Simon Amstell 9 Oct, Ben Watt & Tracey Thorn MOTH 25-27 Oct. Still open: RI autumn (JS pagination — needs interactive), Ceroc Party of the Year date unpublished, ACX list ~24 Aug, cicalendar October."
+  },
+  {
     "ran_at": "2026-08-08T07:35:00+01:00",
     "added": 23,
     "considered": 120,
@@ -172,11 +178,5 @@
     "added": 6,
     "considered": 25,
     "notes": "Daily sweep with targeted Backyard Biennial East pass. ICS: 0 new; 5 past events pruned (committed as part 1). Added: Hillary Klug Appalachian fiddle gig TONIGHT (Hoxton, 7 min), 3 free Biennial events (Fozia Ismail talk, Acme open studios preview 4 min, Somalinimo gallery late), King's Cross singles party (30-45), Ceroc SouthKen freestyle. Skipped: Swaraj at 93 Feet East (club night). Intel: National Gallery free life-drawing late 24 Jul — tickets go live Mon 20 Jul 11:00, NG site blocks bots so needs manual booking; Ceroc all-day 'Party of the Year' at SE1 has no date on its page — check ceroc.com event finder."
-  },
-  {
-    "ran_at": "2026-07-11T07:25:00+01:00",
-    "added": 6,
-    "considered": 21,
-    "notes": "Daily sweep. ICS: 2 new LISA socials auto-imported (Dine & Align with GovAI fellows 22 Jul; MATS x LISA x LASR summer social 24 Jul). Scout added: two free Victoria Park bandstand Sundays (12 + 26 Jul, 8 min), Darren Le Baron entheogens talk at Love Shack (4 min), PsySoc Hampstead Heath walk with speed-friending. Caught 3 duplicates the scout resurfaced. Intel: Backyard Biennial East launch 14 Jul excluded by weekday-daytime rule; its 100+ free events (15 Jul-6 Sep) deserve a targeted future sweep. Shroomshop PRO advanced day (19 Jul, £110) skipped as near-duplicate — flag if wanted."
   }
 ]

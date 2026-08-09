@@ -3930,6 +3930,61 @@
     "cycle_minutes": 32
   },
   {
+    "id": "ecstatic-dance-uk-sun-day-morning-dance-ca002029",
+    "title": "Ecstatic Dance UK — SUN•DAY morning dance",
+    "start": "2026-09-20T10:00:00+01:00",
+    "end": "2026-09-20T13:00:00+01:00",
+    "venue": "The Baths",
+    "address": "80 Eastway, Hackney Wick, London E9 5JH",
+    "url": "https://www.eventbrite.co.uk/e/ecstatic-dance-uk-sunday-tickets-1990952289894",
+    "source": "aggregator:eventbrite",
+    "tags": [
+      "dance"
+    ],
+    "price": null,
+    "description": "Sunday-morning barefoot ecstatic dance at Hackney Wick's The Baths — sober, phone-free, same crew as the midweek Evening Sessions.",
+    "neighbourhood": "Hackney Wick",
+    "cycle_minutes": 15,
+    "added": "2026-08-09"
+  },
+  {
+    "id": "saudi-arabian-uyghur-cookery-class-with-sana-migrateful-c799e227",
+    "title": "Saudi Arabian + Uyghur Cookery Class with Sana (Migrateful)",
+    "start": "2026-09-20T18:15:00+01:00",
+    "end": "2026-09-20T20:45:00+01:00",
+    "venue": "Migrateful Cookery School",
+    "address": "Corporation Row, Clerkenwell, EC1R 0HU",
+    "url": "https://www.eventbrite.co.uk/e/saudi-arabian-uyghur-cookery-class-with-sana-cookery-school-tickets-1995921476866",
+    "source": "aggregator:eventbrite",
+    "tags": [
+      "food",
+      "class"
+    ],
+    "price": null,
+    "description": "Hands-on cookery class led by a refugee chef teaching Saudi and Uyghur home cooking, eaten together at the end — Migrateful's classes are sociable and consistently well reviewed.",
+    "neighbourhood": "Clerkenwell",
+    "cycle_minutes": 15,
+    "added": "2026-08-09"
+  },
+  {
+    "id": "neumatic-parlo-enabling-behaviour-houndshark-free-a4768d29",
+    "title": "Neumatic Parlo + Enabling Behaviour + Houndshark (free)",
+    "start": "2026-09-20T19:30:00+01:00",
+    "end": null,
+    "venue": "The Old Blue Last",
+    "address": "38 Great Eastern St, EC2A 3ES",
+    "url": "https://dice.fm/event/8e9mg5-neumatic-parlo-enabling-behaviour-houndshark-20th-sep-the-old-blue-last-london-tickets",
+    "source": "venue:dice-the-old-blue-last",
+    "tags": [
+      "music"
+    ],
+    "price": "Free",
+    "description": "Free Sunday triple bill upstairs at the Old Blue Last; Neumatic Parlo also play Sebright on 14 Sep — this is a free second chance.",
+    "neighbourhood": "Shoreditch",
+    "cycle_minutes": 7,
+    "added": "2026-08-09"
+  },
+  {
     "id": "novara-media-s-downstream-irl-trauma-farming-9f218de5",
     "title": "Novara Media's Downstream IRL — Trauma Farming",
     "start": "2026-09-21T18:30:00+01:00",
@@ -3946,6 +4001,25 @@
     "neighbourhood": "Dalston",
     "cycle_minutes": 14,
     "added": "2026-08-07"
+  },
+  {
+    "id": "campaign-lab-hack-night-21-sep-edition-524ba4dc",
+    "title": "Campaign Lab Hack Night (21 Sep edition)",
+    "start": "2026-09-21T19:00:00+01:00",
+    "end": "2026-09-21T22:00:00+01:00",
+    "venue": "Newspeak House (Drawing Room)",
+    "address": "133 Bethnal Green Road, E2 7DG",
+    "url": "https://newspeak.house/#events",
+    "source": "venue:newspeak-house",
+    "tags": [
+      "tech",
+      "community"
+    ],
+    "price": "Free",
+    "description": "Bi-weekly civic-tech hack night building progressive election tools — the series continues past the summer editions.",
+    "neighbourhood": "Bethnal Green",
+    "cycle_minutes": 3,
+    "added": "2026-08-09"
   },
   {
     "id": "gresham-college-the-future-of-creativity-daniel-susskind-fre-89968b9c",
@@ -3965,6 +4039,61 @@
     "neighbourhood": "Holborn",
     "cycle_minutes": 18,
     "added": "2026-08-08"
+  },
+  {
+    "id": "jim-ghedi-at-moth-club-6610d75a",
+    "title": "Jim Ghedi at MOTH Club",
+    "start": "2026-09-22T19:30:00+01:00",
+    "end": null,
+    "venue": "MOTH Club",
+    "address": "Old Trades Hall, Valette Street, E9 6NU",
+    "url": "https://dice.fm/event/av53g7-jim-ghedi-22nd-sep-moth-club-london-tickets",
+    "source": "venue:dice-moth-club",
+    "tags": [
+      "music"
+    ],
+    "price": "£19.27",
+    "description": "Sheffield folk guitarist Jim Ghedi — heavy, drone-inflected British folk in MOTH's glittery working men's club hall.",
+    "neighbourhood": "Hackney Central",
+    "cycle_minutes": 12,
+    "added": "2026-08-09"
+  },
+  {
+    "id": "words-from-the-other-side-poetry-for-altered-states-septembe-4ff5cf1c",
+    "title": "Words From the Other Side: Poetry for Altered States (September edition)",
+    "start": "2026-09-23T18:00:00+01:00",
+    "end": "2026-09-23T20:00:00+01:00",
+    "venue": "Hackney Wick (address on booking)",
+    "address": null,
+    "url": "https://dandelion.events/e/l4lk7",
+    "source": "aggregator:dandelion",
+    "tags": [
+      "workshop",
+      "community"
+    ],
+    "price": "£10-£25 sliding scale",
+    "description": "Workshop using poetry as a practice for exploring altered states — sits between the psychedelics-talk and embodiment strands.",
+    "neighbourhood": "Hackney Wick",
+    "cycle_minutes": 15,
+    "added": "2026-08-09"
+  },
+  {
+    "id": "nagasaki-swim-starter-car-symbol-soup-at-the-victoria-fe823f6f",
+    "title": "Nagasaki Swim + Starter Car + Symbol Soup at The Victoria",
+    "start": "2026-09-23T19:30:00+01:00",
+    "end": "2026-09-23T23:00:00+01:00",
+    "venue": "The Victoria",
+    "address": "451 Queensbridge Rd, E8 3AS",
+    "url": "https://dice.fm/event/2w6d67-nagasaki-swim-starter-car-symbol-soup-23rd-sep-the-victoria-london-tickets",
+    "source": "venue:dice-the-victoria",
+    "tags": [
+      "music"
+    ],
+    "price": "£8.61",
+    "description": "Rotterdam indie-rock band Nagasaki Swim double-bill with London's Starter Car — cheap midweek back-room gig.",
+    "neighbourhood": "Dalston",
+    "cycle_minutes": 12,
+    "added": "2026-08-09"
   },
   {
     "id": "carlo-rovelli-lessons-on-physics-and-philosophy-9af18cdb",
@@ -4041,6 +4170,44 @@
     "cycle_minutes": 32
   },
   {
+    "id": "soundhood-east-london-multi-venue-small-gig-festival-25-26-s-e2f12eaa",
+    "title": "Soundhood East London — multi-venue small-gig festival (25-26 Sep)",
+    "start": "2026-09-25T18:00:00+01:00",
+    "end": "2026-09-26T23:45:00+01:00",
+    "venue": "Sebright Arms + The Victoria + Paper Dress Vintage + more",
+    "address": "Various east London venues",
+    "url": "https://dice.fm/event/bb23em-soundhood-east-london-son-estrella-galicia-25th-sep-the-victoria-london-sebright-arms-london-paper-dress-vintage-london-various-venues-london-london-tickets",
+    "source": "venue:dice-sebright-arms",
+    "tags": [
+      "music",
+      "festival"
+    ],
+    "price": "from £33.38 (likely 2-day ticket)",
+    "description": "SON Estrella Galicia's Soundhood festival across the east-London small-venue circuit: Honeyglaze, The Orchestra (For Now), thistle. and more — venue-hopping between rooms all a short cycle away.",
+    "neighbourhood": "Bethnal Green / Hackney",
+    "cycle_minutes": 5,
+    "added": "2026-08-09"
+  },
+  {
+    "id": "go-t-bon-supper-club-anniversary-edition-55cd86e5",
+    "title": "Goûté Bon Supper Club: Anniversary edition",
+    "start": "2026-09-25T18:30:00+01:00",
+    "end": "2026-09-25T21:30:00+01:00",
+    "venue": "Enola's Kitchen",
+    "address": "11 Shipton Street, London E2 7RU",
+    "url": "https://www.eventbrite.co.uk/e/goute-bon-supper-club-anniversary-tickets-1994986170339",
+    "source": "aggregator:eventbrite",
+    "tags": [
+      "food",
+      "community"
+    ],
+    "price": null,
+    "description": "Anniversary edition of the Goûté Bon supper club — a shared-table Friday supper a few streets from home off Columbia Road.",
+    "neighbourhood": "Bethnal Green",
+    "cycle_minutes": 4,
+    "added": "2026-08-09"
+  },
+  {
     "id": "simply-being-5rhythms-autumn-season-opener-cb7f31e1",
     "title": "Simply Being 5Rhythms — autumn season opener",
     "start": "2026-09-25T18:45:00+01:00",
@@ -4077,6 +4244,136 @@
     "added": "2026-08-07"
   },
   {
+    "id": "clay-culture-making-ancient-history-pottery-workshop-677bbdf1",
+    "title": "Clay & Culture: Making Ancient History — pottery workshop",
+    "start": "2026-09-26T10:00:00+01:00",
+    "end": "2026-09-26T13:00:00+01:00",
+    "venue": "Prideaux House",
+    "address": "10 Church Crescent, London E9 7DL",
+    "url": "https://www.eventbrite.co.uk/e/clay-culture-making-ancient-history-hands-on-pottery-workshop-tickets-1992484186839",
+    "source": "aggregator:eventbrite",
+    "tags": [
+      "class",
+      "art"
+    ],
+    "price": null,
+    "description": "Saturday-morning hands-on pottery workshop in Hackney recreating ancient ceramic techniques.",
+    "neighbourhood": "Hackney",
+    "cycle_minutes": 10,
+    "added": "2026-08-09"
+  },
+  {
+    "id": "tellison-at-moth-club-cbe7ec78",
+    "title": "Tellison at MOTH Club",
+    "start": "2026-09-26T19:30:00+01:00",
+    "end": null,
+    "venue": "MOTH Club",
+    "address": "Old Trades Hall, Valette Street, E9 6NU",
+    "url": "https://dice.fm/event/7dxar6-tellison-26th-sep-moth-club-london-tickets",
+    "source": "venue:dice-moth-club",
+    "tags": [
+      "music"
+    ],
+    "price": "from £13.39",
+    "description": "Cult London indie-rock band Tellison play a rare headline show — singalong-heavy word-of-mouth favourites in a 200-cap room.",
+    "neighbourhood": "Hackney Central",
+    "cycle_minutes": 12,
+    "added": "2026-08-09"
+  },
+  {
+    "id": "fun-consent-connection-session-september-edition-27669a61",
+    "title": "Fun, Consent & Connection session (September edition)",
+    "start": "2026-09-27T14:00:00+01:00",
+    "end": "2026-09-27T17:30:00+01:00",
+    "venue": "Old Diorama Arts Centre",
+    "address": "201 Drummond Street, Regent's Place, NW1 3FE",
+    "url": "https://www.eventbrite.co.uk/e/last-sunday-afternoon-of-the-month-fun-consent-connection-session-tickets-1987723224673",
+    "source": "aggregator:eventbrite",
+    "tags": [
+      "workshop",
+      "community"
+    ],
+    "price": null,
+    "description": "Monthly Sunday-afternoon connection and consent-practice session — structured relational games in authentic-relating territory.",
+    "neighbourhood": "Euston",
+    "cycle_minutes": 28,
+    "added": "2026-08-09"
+  },
+  {
+    "id": "portals-presents-a-tota-so-poptones-salang-03f2374e",
+    "title": "Portals Presents: A-Tota-So + Poptones + Salang",
+    "start": "2026-09-27T19:00:00+01:00",
+    "end": null,
+    "venue": "The Old Blue Last",
+    "address": "38 Great Eastern St, EC2A 3ES",
+    "url": "https://dice.fm/event/7dgglp-portals-presents-a-tota-so-poptones-salang-27th-sep-the-old-blue-last-london-tickets",
+    "source": "venue:dice-the-old-blue-last",
+    "tags": [
+      "music"
+    ],
+    "price": "£12",
+    "description": "Math-rock/post-rock triple bill from the Portals collective — Sunday-evening gig to close the weekend.",
+    "neighbourhood": "Shoreditch",
+    "cycle_minutes": 7,
+    "added": "2026-08-09"
+  },
+  {
+    "id": "k-music-festival-adg7-chang-kiha-lil-cherry-goldbuuda-775f75b6",
+    "title": "K-Music Festival: ADG7 + Chang Kiha + Lil Cherry & GOLDBUUDA",
+    "start": "2026-09-28T19:30:00+01:00",
+    "end": "2026-09-28T23:00:00+01:00",
+    "venue": "EartH",
+    "address": "11-17 Stoke Newington Road, N16 8BP",
+    "url": "https://earthackney.co.uk/events/k-music-festival-adg7-chang-kiha-lil-cherry-goldbuuda-28th-sep-earth-london-tickets-xeovae/",
+    "source": "venue:earth-hackney",
+    "tags": [
+      "music",
+      "festival"
+    ],
+    "price": null,
+    "description": "K-Music Festival opener: Korean shamanic folk-pop nine-piece ADG7, indie-rock legend Chang Kiha and rap duo Lil Cherry & GOLDBUUDA — a genuinely unusual Monday night.",
+    "neighbourhood": "Dalston",
+    "cycle_minutes": 14,
+    "added": "2026-08-09"
+  },
+  {
+    "id": "tim-key-loganberry-at-wilton-s-music-hall-28-sep-3-oct-b9614634",
+    "title": "Tim Key: Loganberry at Wilton's Music Hall (28 Sep - 3 Oct)",
+    "start": "2026-09-28T19:45:00+01:00",
+    "end": null,
+    "venue": "Wilton's Music Hall",
+    "address": "1 Graces Alley, London E1 8JB",
+    "url": "https://wiltons.org.uk/whats-on/tim-key-loganberry-2/",
+    "source": "venue:wiltons",
+    "tags": [
+      "comedy",
+      "theatre"
+    ],
+    "price": "£12-£26",
+    "description": "Poet-comedian Tim Key's new show Loganberry in the world's oldest surviving music hall — nightly at 7.45pm through Sat 3 Oct.",
+    "neighbourhood": "Whitechapel",
+    "cycle_minutes": 10,
+    "added": "2026-08-09"
+  },
+  {
+    "id": "honeymoan-at-moth-club-36fcd567",
+    "title": "HONEYMOAN at MOTH Club",
+    "start": "2026-09-29T19:30:00+01:00",
+    "end": null,
+    "venue": "MOTH Club",
+    "address": "Old Trades Hall, Valette Street, E9 6NU",
+    "url": "https://dice.fm/event/nv5ppl-honeymoan-29th-sep-moth-club-london-tickets",
+    "source": "venue:dice-moth-club",
+    "tags": [
+      "music"
+    ],
+    "price": "£18.13",
+    "description": "Cape Town-formed dreamy indie-pop band HONEYMOAN headline MOTH Club.",
+    "neighbourhood": "Hackney Central",
+    "cycle_minutes": 12,
+    "added": "2026-08-09"
+  },
+  {
     "id": "movement-lab-taster-london-fields-ee7d8f93",
     "title": "Movement Lab Taster (London Fields)",
     "start": "2026-09-30T18:30:00+01:00",
@@ -4094,6 +4391,25 @@
     "neighbourhood": "London Fields",
     "added": "2026-08-06",
     "cycle_minutes": 9
+  },
+  {
+    "id": "contact-improvisation-wednesday-open-class-jam-with-rick-nod-4779d02b",
+    "title": "Contact Improvisation: Wednesday Open Class & Jam with Rick Nodine",
+    "start": "2026-09-30T18:30:00+01:00",
+    "end": "2026-09-30T21:00:00+01:00",
+    "venue": "Acland Burghley School Sports Centre",
+    "address": "Churchill Road, London NW5 1AN",
+    "url": "https://bookwhen.com/ricknodine/e/ev-sacu1-20260930183000",
+    "source": "venue:rick-nodine-bookwhen",
+    "tags": [
+      "dance",
+      "class"
+    ],
+    "price": "£20 (£16 concession)",
+    "description": "Rick Nodine's weekly CI open class (90 min) flowing into an hour of jamming, everyone welcome — autumn term at Acland Burghley, Tufnell Park (also 7/14/21 Oct). Northern line easier than the ~35 min cycle.",
+    "neighbourhood": "Tufnell Park",
+    "cycle_minutes": 35,
+    "added": "2026-08-09"
   },
   {
     "id": "london-vocal-improv-cabaret-autumn-edition-d3182fbf",
@@ -4115,6 +4431,134 @@
     "added": "2026-08-08"
   },
   {
+    "id": "john-myrtle-at-servant-jazz-quarters-13e52a7b",
+    "title": "John Myrtle at Servant Jazz Quarters",
+    "start": "2026-10-01T19:00:00+01:00",
+    "end": null,
+    "venue": "Servant Jazz Quarters (SJQ)",
+    "address": "10a Bradbury Street, Dalston, N16 8JN",
+    "url": "https://dice.fm/event/8eq3vw-john-myrtle-special-guest-1st-oct-sjq-london-tickets",
+    "source": "venue:dice-sjq",
+    "tags": [
+      "music"
+    ],
+    "price": "£13.63",
+    "description": "Jangly London bedroom-pop songwriter John Myrtle (gentle 60s melodies) headlines the tiny SJQ basement.",
+    "neighbourhood": "Dalston",
+    "cycle_minutes": 15,
+    "added": "2026-08-09"
+  },
+  {
+    "id": "alela-diane-at-earth-a93f5e7f",
+    "title": "Alela Diane at EartH",
+    "start": "2026-10-04T19:30:00+01:00",
+    "end": "2026-10-04T23:00:00+01:00",
+    "venue": "EartH",
+    "address": "11-17 Stoke Newington Road, N16 8BP",
+    "url": "https://earthackney.co.uk/events/alela-diane-4th-oct-earth-london-tickets-7dkq9v/",
+    "source": "venue:earth-hackney",
+    "tags": [
+      "music"
+    ],
+    "price": null,
+    "description": "Portland folk singer-songwriter Alela Diane — hushed, timeless Americana in EartH's seated theatre.",
+    "neighbourhood": "Dalston",
+    "cycle_minutes": 14,
+    "added": "2026-08-09"
+  },
+  {
+    "id": "campaign-lab-hack-night-5-oct-edition-3889f420",
+    "title": "Campaign Lab Hack Night (5 Oct edition)",
+    "start": "2026-10-05T19:00:00+01:00",
+    "end": "2026-10-05T22:00:00+01:00",
+    "venue": "Newspeak House (Drawing Room)",
+    "address": "133 Bethnal Green Road, E2 7DG",
+    "url": "https://newspeak.house/#events",
+    "source": "venue:newspeak-house",
+    "tags": [
+      "tech",
+      "community"
+    ],
+    "price": "Free",
+    "description": "First October edition of the bi-weekly civic-tech hack night (a 19 Oct edition is also listed).",
+    "neighbourhood": "Bethnal Green",
+    "cycle_minutes": 3,
+    "added": "2026-08-09"
+  },
+  {
+    "id": "balkanplus-for-beginners-at-cecil-sharp-house-1d959eda",
+    "title": "Balkanplus for Beginners at Cecil Sharp House",
+    "start": "2026-10-10T19:00:00+01:00",
+    "end": "2026-10-10T22:00:00+01:00",
+    "venue": "Cecil Sharp House",
+    "address": "2 Regent's Park Road, London NW1 7AY",
+    "url": "https://www.cecilsharphouse.org/whats-on/27-dances/16172-beginners-balkanplus",
+    "source": "venue:cecil-sharp-house",
+    "tags": [
+      "dance"
+    ],
+    "price": "£15 on the door (cash only)",
+    "description": "Beginner-friendly Balkan folk dance evening with background on the dances (next edition 14 Nov). Clashes with the Barndance upstairs the same night — pick one.",
+    "neighbourhood": "Primrose Hill",
+    "cycle_minutes": 32,
+    "added": "2026-08-09"
+  },
+  {
+    "id": "the-london-barndance-company-october-edition-e8916725",
+    "title": "The London Barndance Company — October edition",
+    "start": "2026-10-10T20:00:00+01:00",
+    "end": "2026-10-10T23:00:00+01:00",
+    "venue": "Cecil Sharp House",
+    "address": "2 Regent's Park Road, London NW1 7AY",
+    "url": "https://www.cecilsharphouse.org/whats-on/27-dances/15735-the-london-barndance-company-2026",
+    "source": "venue:cecil-sharp-house",
+    "tags": [
+      "dance",
+      "music"
+    ],
+    "price": "£17 (£14 concessions)",
+    "description": "October edition of the live-band barn dance — same series as the 12 Sep date. Clashes with Balkanplus for Beginners in the same building.",
+    "neighbourhood": "Primrose Hill",
+    "cycle_minutes": 32,
+    "added": "2026-08-09"
+  },
+  {
+    "id": "tiny-vipers-chantal-acda-red-river-dialect-at-sjq-e92460ff",
+    "title": "Tiny Vipers + Chantal Acda + Red River Dialect at SJQ",
+    "start": "2026-10-11T19:30:00+01:00",
+    "end": null,
+    "venue": "Servant Jazz Quarters (SJQ)",
+    "address": "10a Bradbury Street, Dalston, N16 8JN",
+    "url": "https://dice.fm/event/yowo6x-tiny-vipers-chantal-acda-red-river-dialect-11th-oct-sjq-london-tickets",
+    "source": "venue:dice-sjq",
+    "tags": [
+      "music"
+    ],
+    "price": "£11.36",
+    "description": "Stacked intimate folk triple bill: Tiny Vipers, Belgian songwriter Chantal Acda and a solo Red River Dialect set — remarkable value for a Sunday in a tiny room.",
+    "neighbourhood": "Dalston",
+    "cycle_minutes": 15,
+    "added": "2026-08-09"
+  },
+  {
+    "id": "knees-up-cecil-sharp-ceilidh-october-edition-55ed3d8a",
+    "title": "Knees Up Cecil Sharp Ceilidh (October edition)",
+    "start": "2026-10-16T20:00:00+01:00",
+    "end": "2026-10-16T23:00:00+01:00",
+    "venue": "Cecil Sharp House",
+    "address": "2 Regent's Park Road, London NW1 7AY",
+    "url": "https://www.cecilsharphouse.org/whats-on/27-dances/15766-knees-up-cecil-sharp-ceilidh-2026",
+    "source": "venue:cecil-sharp-house",
+    "tags": [
+      "dance"
+    ],
+    "price": "£15 (£10 concessions)",
+    "description": "October edition of the monthly Friday-night ceilidh with live band and caller.",
+    "neighbourhood": "Primrose Hill",
+    "cycle_minutes": 32,
+    "added": "2026-08-09"
+  },
+  {
     "id": "headless-way-a-day-with-richard-lang-october-date-e1ff4b7e",
     "title": "Headless Way: a day with Richard Lang (October date)",
     "start": "2026-10-17T10:00:00+01:00",
@@ -4132,5 +4576,61 @@
     "neighbourhood": "Stoke Newington",
     "cycle_minutes": 15,
     "added": "2026-08-08"
+  },
+  {
+    "id": "brown-horse-at-moth-club-05aae99c",
+    "title": "Brown Horse at MOTH Club",
+    "start": "2026-10-22T19:30:00+01:00",
+    "end": null,
+    "venue": "MOTH Club",
+    "address": "Old Trades Hall, Valette Street, E9 6NU",
+    "url": "https://dice.fm/event/l85r6b-brown-horse-22nd-oct-moth-club-london-tickets",
+    "source": "venue:dice-moth-club",
+    "tags": [
+      "music"
+    ],
+    "price": "from £13.46",
+    "description": "Norwich alt-country/folk-rock risers Brown Horse (Loose Music) — one of the best folk-adjacent picks on the October circuit.",
+    "neighbourhood": "Hackney Central",
+    "cycle_minutes": 12,
+    "added": "2026-08-09"
+  },
+  {
+    "id": "sex-psychedelics-talks-performance-social-d38a3371",
+    "title": "Sex & Psychedelics — talks, performance & social",
+    "start": "2026-10-24T14:00:00+01:00",
+    "end": "2026-10-24T22:30:00+01:00",
+    "venue": "Om Being",
+    "address": "Amhurst Terrace, London E8",
+    "url": "https://dandelion.events/e/l6r0o",
+    "source": "aggregator:dandelion",
+    "tags": [
+      "talk",
+      "community"
+    ],
+    "price": "tiered ~£5-£65 — main tiers near the price cap",
+    "description": "Day of talks and performance on psychedelics and intimacy ending in an evening social, at a Hackney studio — strong fit for the psychedelic-science thread; cheaper tiers exist, main tiers near £60.",
+    "neighbourhood": "Hackney Downs",
+    "cycle_minutes": 12,
+    "added": "2026-08-09"
+  },
+  {
+    "id": "training-ground-4-day-contact-improvisation-intensive-rick-n-bd8ce8ed",
+    "title": "TRAINING GROUND — 4-day contact improvisation intensive (Rick Nodine)",
+    "start": "2026-10-29T10:00:00+00:00",
+    "end": "2026-11-01T17:00:00+00:00",
+    "venue": "Acland Burghley School",
+    "address": "Burghley Road, London NW5 1UJ",
+    "url": "https://dandelion.events/e/trainingground",
+    "source": "aggregator:dandelion",
+    "tags": [
+      "dance",
+      "workshop"
+    ],
+    "price": "£175-£220 (well over usual cap — rare-format exception)",
+    "description": "Rick Nodine's four-day CI intensive, Thu 29 Oct - Sun 1 Nov — the long-watched late-October anchor. Flagged: daytime hours and far over the normal price cap, included as a rare-format exception.",
+    "neighbourhood": "Tufnell Park",
+    "cycle_minutes": 35,
+    "added": "2026-08-09"
   }
 ]
