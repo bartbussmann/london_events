@@ -392,6 +392,19 @@ URL:https://www.ntloft.co.uk/jazz-nights
 LOCATION:NT's Loft\, Bohemia Place\, Hackney Central\, E8
 END:VEVENT
 BEGIN:VEVENT
+UID:eclipse-ci-jam-park-contact-improvisation-picnic-4effdab2@london-event
+ s
+DTSTAMP:20260812T170000Z
+DTSTART:20260812T170000Z
+DTEND:20260812T200000Z
+SUMMARY:Eclipse CI jam — park contact improvisation + picnic
+DESCRIPTION:This Wednesday's free summer park CI jam lands on eclipse nigh
+ t: picnic from 6pm\, warm-up into jam from 6:40pm. Weekly series runs to 
+ 2 Sep.\nPrice: Free\nhttps://ci-jams.pages.dev/
+URL:https://ci-jams.pages.dev/
+LOCATION:Regent's Park (map pin on ci-jams page)\, Regent's Park\, NW1
+END:VEVENT
+BEGIN:VEVENT
 UID:simply-being-5rhythms-new-moon-eclipse-garden-special-19fd876c@london-
  events
 DTSTAMP:20260812T173000Z
@@ -1383,6 +1396,35 @@ URL:https://www.angelcomedy.co.uk/event-detail/angel-comedy-saturdays-7pm-
 LOCATION:The Bill Murray\, 39 Queen's Head St\, N1 8NQ
 END:VEVENT
 BEGIN:VEVENT
+UID:rorshokito-london-2036-structured-small-group-discussion-aft-070fdc2a@
+ london-events
+DTSTAMP:20260823T130000Z
+DTSTART:20260823T130000Z
+DTEND:20260823T170000Z
+SUMMARY:Rorshokito: London 2036 — structured small-group discussion afte
+ rnoon
+DESCRIPTION:New format: participants propose and vote discussion topics in
+  advance\, then meet in curated groups of four to talk about London ten y
+ ears from now. Sunday afternoon in Bethnal Green.\nhttps://newspeak.house
+ /#events
+URL:https://newspeak.house/#events
+LOCATION:Proximate (via Newspeak House)\, Bethnal Green (venue on registra
+ tion)
+END:VEVENT
+BEGIN:VEVENT
+UID:culture-convo-social-picnic-victoria-park-726e3a73@london-events
+DTSTAMP:20260823T130000Z
+DTSTART:20260823T130000Z
+DTEND:20260823T150000Z
+SUMMARY:Culture & Convo Social Picnic (Victoria Park)
+DESCRIPTION:Sociable Sunday-afternoon picnic meetup by the Burdett-Coutts 
+ fountain — low-key way to meet people ten minutes from home.\nhttps://d
+ andelion.events/e/q836f
+URL:https://dandelion.events/e/q836f
+LOCATION:Victoria Park — Burdett-Coutts Memorial Fountain\, Victoria Par
+ k\, E9 7DD
+END:VEVENT
+BEGIN:VEVENT
 UID:garden-gigs-at-the-victoria-23-aug-dc09ca2a@london-events
 DTSTAMP:20260823T140000Z
 DTSTART:20260823T140000Z
@@ -1438,6 +1480,18 @@ DESCRIPTION:Monday-evening introduction to David Bohm's dialogue practice
  ing scale\nhttps://dandelion.events/e/a7khm
 URL:https://dandelion.events/e/a7khm
 LOCATION:Bunhill Fields Quaker Meeting House\, Quaker Court\, EC1Y 8QQ
+END:VEVENT
+BEGIN:VEVENT
+UID:campaign-lab-hack-night-24-aug-edition-3b034fae@london-events
+DTSTAMP:20260824T180000Z
+DTSTART:20260824T180000Z
+DTEND:20260824T210000Z
+SUMMARY:Campaign Lab Hack Night (24 Aug edition)
+DESCRIPTION:Bi-weekly civic-tech hack night\, snacks provided. This date r
+ eplaced the previously-listed 31 Aug edition on Newspeak's site.\nPrice: 
+ Free\nhttps://newspeak.house/#events
+URL:https://newspeak.house/#events
+LOCATION:Newspeak House\, 133 Bethnal Green Road\, E2 7DG
 END:VEVENT
 BEGIN:VEVENT
 UID:speed-dating-speed-karaoke-at-moth-club-25-aug-edition-9bd6fb05@london
@@ -1835,8 +1889,9 @@ DTEND:20260831T210000Z
 SUMMARY:Campaign Lab Summer Hack Night
 DESCRIPTION:Bank holiday Monday edition of Campaign Lab's hack night — t
  echnologists and campaigners working on progressive election-tech project
- s\; bring a laptop\, snacks provided.\nPrice: Free (register)\nhttps://lu
- ma.com/e0gtnzhq
+ s\; bring a laptop\, snacks provided. NOTE (10 Aug): this date has droppe
+ d off Newspeak's listing — likely moved to 24 Aug\; check before going.
+ \nPrice: Free (register)\nhttps://luma.com/e0gtnzhq
 URL:https://luma.com/e0gtnzhq
 LOCATION:Newspeak House\, 133 Bethnal Green Road\, E2 7DG
 END:VEVENT
@@ -1967,6 +2022,23 @@ DESCRIPTION:Singles run club takeover: a closed-road 5K through Canary Wha
 URL:https://www.thursday.com/events/london/friday-night-lights-x-thursday-
  5k-party-run-x-singles-canary-wharf
 LOCATION:Run The Wharf\, Canary Wharf\, Canary Wharf\, E14
+END:VEVENT
+BEGIN:VEVENT
+UID:moments-of-idleness-flow-immersive-riverside-concert-totally-e4d02b6a@
+ london-events
+DTSTAMP:20260903T173000Z
+DTSTART:20260903T173000Z
+DTEND:20260903T193000Z
+SUMMARY:Moments of Idleness / FLOW — immersive riverside concert (Totall
+ y Thames)
+DESCRIPTION:Immersive Thursday-evening concert shaped in dialogue with the
+  Thames\, on a pier house at Hermitage Moorings in Wapping — part of To
+ tally Thames' opening week.\nPrice: £22 (£18 concessions)\nhttps://tham
+ esfestivaltrust.org/whats-on/moments-of-idleness-flow-26841/
+URL:https://thamesfestivaltrust.org/whats-on/moments-of-idleness-flow-2684
+ 1/
+LOCATION:The Pier House at Hermitage Moorings\, Hermitage Moorings\, Wappi
+ ng High Street\, E1W
 END:VEVENT
 BEGIN:VEVENT
 UID:the-signalman-victorian-magic-dickens-ghost-story-8b00d762@london-even
@@ -2120,6 +2192,21 @@ DESCRIPTION:Historian Dr Thomas Waters tells the history of magic through
  booth/shows/1173674867
 URL:https://conwayhall.ticketsolve.com/ticketbooth/shows/1173674867
 LOCATION:Conway Hall\, 25 Red Lion Square\, WC1R 4RL
+END:VEVENT
+BEGIN:VEVENT
+UID:mudlarks-of-the-thames-foreshore-free-weekend-symposium-4f75d68f@londo
+ n-events
+DTSTAMP:20260905T090000Z
+DTSTART:20260905T090000Z
+DTEND:20260905T160000Z
+SUMMARY:Mudlarks of the Thames Foreshore — free weekend symposium
+DESCRIPTION:Two-day symposium (Sat 5 - Sun 6 Sep\, 10am-5pm\, drop in) bri
+ nging mudlarks and archaeologists together on what the Thames foreshore r
+ eveals — free\, no booking.\nPrice: Free\nhttps://thamesfestivaltrust.o
+ rg/whats-on/symposium-mudlarks-of-the-thames-foreshore-27044/
+URL:https://thamesfestivaltrust.org/whats-on/symposium-mudlarks-of-the-tha
+ mes-foreshore-27044/
+LOCATION:Guildhall\, 71 Basinghall Street\, EC2V 7HH
 END:VEVENT
 BEGIN:VEVENT
 UID:psysoc-community-walk-speed-friending-nature-connection-sept-5f63a3ef@
@@ -2352,6 +2439,22 @@ DESCRIPTION:Ambient-zither legend Laraaji (of Brian Eno's Ambient 3) bring
 URL:https://earthackney.co.uk/events/laraaji-9th-sep-earth-london-tickets-
  dkp666
 LOCATION:EartH\, 11-17 Stoke Newington Road\, Dalston\, N16 8BP
+END:VEVENT
+BEGIN:VEVENT
+UID:what-can-ancient-dna-tell-us-about-the-romans-mary-beard-pan-a30e33ab@
+ london-events
+DTSTAMP:20260909T180000Z
+DTSTART:20260909T180000Z
+DTEND:20260909T193000Z
+SUMMARY:What can ancient DNA tell us about... the Romans (Mary Beard panel
+ )
+DESCRIPTION:Mary Beard chairs a panel with Peter Frankopan and Crick ancie
+ nt-genomics researchers on how ancient DNA is rewriting the Roman era. Do
+ ors 18:30.\nPrice: Free (book on Eventbrite)\nhttps://www.crick.ac.uk/wha
+ ts-on/what-can-ancient-dna-tell-us-about-the-romans
+URL:https://www.crick.ac.uk/whats-on/what-can-ancient-dna-tell-us-about-th
+ e-romans
+LOCATION:Francis Crick Institute\, 1 Midland Road\, King's Cross NW1 1AT
 END:VEVENT
 BEGIN:VEVENT
 UID:fire-fire-new-play-at-arcola-opening-night-7faaf5bf@london-events
@@ -2682,6 +2785,22 @@ URL:https://www.gresham.ac.uk/whats-on/sky-night
 LOCATION:Conway Hall\, 25 Red Lion Square\, Holborn\, WC1R 4RL
 END:VEVENT
 BEGIN:VEVENT
+UID:jbs-haldane-lecture-2026-genetic-discoveries-illuminating-ju-d909bacd@
+ london-events
+DTSTAMP:20260914T180000Z
+DTSTART:20260914T180000Z
+DTEND:20260914T193000Z
+SUMMARY:JBS Haldane Lecture 2026: Genetic discoveries illuminating justice
+DESCRIPTION:Geneticist Carola Vinuesa on how genetic discoveries are overt
+ urning wrongful convictions — the annual Haldane Lecture in the Ri thea
+ tre. Same evening as the free Lintott lecture at Conway Hall.\nPrice: £1
+ 6 (£10 concessions)\nhttps://www.rigb.org/whats-on/jbs-haldane-lecture-2
+ 026-genetic-discoveries-illuminating-justice
+URL:https://www.rigb.org/whats-on/jbs-haldane-lecture-2026-genetic-discove
+ ries-illuminating-justice
+LOCATION:Royal Institution\, 21 Albemarle Street\, Mayfair W1S 4BS
+END:VEVENT
+BEGIN:VEVENT
 UID:neumatic-parlo-houndshark-at-sebright-arms-b594b411@london-events
 DTSTAMP:20260914T183000Z
 DTSTART:20260914T183000Z
@@ -2899,6 +3018,22 @@ URL:https://www.cecilsharphouse.org/whats-on/27-dances/15787-international
 LOCATION:Cecil Sharp House\, 2 Regent's Park Road\, NW1 7AY
 END:VEVENT
 BEGIN:VEVENT
+UID:you-don-t-know-what-you-re-m-ss-ng-the-hidden-data-shaping-o-725b23c7@
+ london-events
+DTSTAMP:20260919T180000Z
+DTSTART:20260919T180000Z
+DTEND:20260919T193000Z
+SUMMARY:You don't know what you're m ss ng: the hidden data shaping our be
+ haviour
+DESCRIPTION:Saturday-evening Ri talk on the missing and hidden data that q
+ uietly shapes our decisions.\nPrice: £16 (£10 concessions)\nhttps://www
+ .rigb.org/whats-on/you-dont-know-what-youre-m-ss-ng-hidden-data-shaping-o
+ ur-behaviour
+URL:https://www.rigb.org/whats-on/you-dont-know-what-youre-m-ss-ng-hidden-
+ data-shaping-our-behaviour
+LOCATION:Royal Institution\, 21 Albemarle Street\, Mayfair W1S 4BS
+END:VEVENT
+BEGIN:VEVENT
 UID:ecstatic-dance-uk-sun-day-morning-dance-ca002029@london-events
 DTSTAMP:20260920T090000Z
 DTSTART:20260920T090000Z
@@ -2957,6 +3092,18 @@ DESCRIPTION:Live edition of Novara's Downstream interview show asking how
 URL:https://earthackney.co.uk/events/novara-medias-downstream-irl-trauma-f
  arming-21st-sep-earth-london-tickets-bb9wxv
 LOCATION:EartH\, 11-17 Stoke Newington Road\, Dalston\, N16 8BP
+END:VEVENT
+BEGIN:VEVENT
+UID:monday-contact-improv-jam-at-rose-lipman-21-sep-60fc6bae@london-events
+DTSTAMP:20260921T173000Z
+DTSTART:20260921T173000Z
+DTEND:20260921T193000Z
+SUMMARY:Monday Contact Improv Jam at Rose Lipman (21 Sep)
+DESCRIPTION:Weekly Monday CI jam with facilitated warm-up by Marie Chabert
+ \; doors 6:20pm\, newcomers welcome (arrive early for the consent/guideli
+ nes intro).\nhttps://cicalendar.uk/london
+URL:https://cicalendar.uk/london
+LOCATION:Rose Lipman Building\, 43 De Beauvoir Road\, N1 5SQ
 END:VEVENT
 BEGIN:VEVENT
 UID:campaign-lab-hack-night-21-sep-edition-524ba4dc@london-events
@@ -3133,6 +3280,22 @@ DESCRIPTION:Richard Wiltshire's Friday 5Rhythms class resumes 25 Sep after
 URL:https://www.5rhythms.com/classes/SimplyBeingRhythms-291541
 LOCATION:Central School of Ballet\, 21-22 Hatfields\, Paris Garden\, SE1 8
  DJ
+END:VEVENT
+BEGIN:VEVENT
+UID:ri-discourse-physics-and-philosophy-on-the-equality-of-all-t-b2fb7e54@
+ london-events
+DTSTAMP:20260925T182000Z
+DTSTART:20260925T182000Z
+DTEND:20260925T194500Z
+SUMMARY:Ri Discourse: Physics and philosophy — on the equality of all th
+ ings (Carlo Rovelli)
+DESCRIPTION:Rovelli gives a formal Friday-night Ri Discourse — the night
+  after his Union Chapel talk\; two chances in a row.\nPrice: £20 (£15 c
+ oncessions)\nhttps://www.rigb.org/whats-on/discourse-physics-and-philosop
+ hy-equality-all-things
+URL:https://www.rigb.org/whats-on/discourse-physics-and-philosophy-equalit
+ y-all-things
+LOCATION:Royal Institution\, 21 Albemarle Street\, Mayfair W1S 4BS
 END:VEVENT
 BEGIN:VEVENT
 UID:grace-petrie-at-union-chapel-21267766@london-events
@@ -3315,6 +3478,19 @@ URL:https://earthackney.co.uk/events/alela-diane-4th-oct-earth-london-tick
 LOCATION:EartH\, 11-17 Stoke Newington Road\, N16 8BP
 END:VEVENT
 BEGIN:VEVENT
+UID:monday-contact-improv-class-jam-at-rose-lipman-5-oct-e0f48c0a@london-e
+ vents
+DTSTAMP:20261005T173000Z
+DTSTART:20261005T173000Z
+DTEND:20261005T193000Z
+SUMMARY:Monday Contact Improv: Class + Jam at Rose Lipman (5 Oct)
+DESCRIPTION:Class-week edition of the Monday CI night: taught class by Mar
+ ie followed by the jam. Doors 6:20pm\; further jams 19 Oct and 2 Nov.\nht
+ tps://cicalendar.uk/london
+URL:https://cicalendar.uk/london
+LOCATION:Rose Lipman Building\, 43 De Beauvoir Road\, N1 5SQ
+END:VEVENT
+BEGIN:VEVENT
 UID:campaign-lab-hack-night-5-oct-edition-3889f420@london-events
 DTSTAMP:20261005T180000Z
 DTSTART:20261005T180000Z
@@ -3325,6 +3501,44 @@ DESCRIPTION:First October edition of the bi-weekly civic-tech hack night (
  vents
 URL:https://newspeak.house/#events
 LOCATION:Newspeak House (Drawing Room)\, 133 Bethnal Green Road\, E2 7DG
+END:VEVENT
+BEGIN:VEVENT
+UID:the-life-scientific-live-jim-al-khalili-interviews-chris-pac-44a40d17@
+ london-events
+DTSTAMP:20261006T180000Z
+DTSTART:20261006T180000Z
+DTEND:20261006T193000Z
+SUMMARY:The Life Scientific live: Jim Al-Khalili interviews Chris Packham
+DESCRIPTION:Radio 4's The Life Scientific recorded live in the Ri theatre:
+  Al-Khalili interviews naturalist Chris Packham.\nPrice: £16 (£10 conce
+ ssions)\nhttps://www.rigb.org/whats-on/life-scientific
+URL:https://www.rigb.org/whats-on/life-scientific
+LOCATION:Royal Institution\, 21 Albemarle Street\, Mayfair W1S 4BS
+END:VEVENT
+BEGIN:VEVENT
+UID:wifi-wars-debug-xxii-interactive-comedy-game-show-8c36d57e@london-even
+ ts
+DTSTAMP:20261009T180000Z
+DTSTART:20261009T180000Z
+DTEND:20261009T193000Z
+SUMMARY:WiFi Wars Debug XXII — interactive comedy game show
+DESCRIPTION:The whole audience plays games together on their phones — th
+ e rowdier Friday-night side of the Ri.\nPrice: £16 (£10 concessions)\nh
+ ttps://www.rigb.org/whats-on/wifi-wars-debug-xxii
+URL:https://www.rigb.org/whats-on/wifi-wars-debug-xxii
+LOCATION:Royal Institution\, 21 Albemarle Street\, Mayfair W1S 4BS
+END:VEVENT
+BEGIN:VEVENT
+UID:new-scientist-live-2026-public-weekend-at-excel-59a46163@london-events
+DTSTAMP:20261010T090000Z
+DTSTART:20261010T090000Z
+DTEND:20261010T160000Z
+SUMMARY:New Scientist Live 2026 (public weekend at ExCeL)
+DESCRIPTION:The big annual science festival: talks\, demos and exhibits. P
+ ublic days Sat 10 and Sun 11 Oct\, 10am-5pm.\nPrice: ~£48/day (verify on
+  seetickets)\nhttps://www.excel.london/whats-on/New-Scientist-Live-2026
+URL:https://www.excel.london/whats-on/New-Scientist-Live-2026
+LOCATION:ExCeL London\, Royal Victoria Dock\, 1 Western Gateway\, E16 1XL
 END:VEVENT
 BEGIN:VEVENT
 UID:balkanplus-for-beginners-at-cecil-sharp-house-1d959eda@london-events
@@ -3355,6 +3569,20 @@ URL:https://www.cecilsharphouse.org/whats-on/27-dances/15735-the-london-ba
 LOCATION:Cecil Sharp House\, 2 Regent's Park Road\, London NW1 7AY
 END:VEVENT
 BEGIN:VEVENT
+UID:alexander-technique-day-workshop-at-city-lit-6157be6e@london-events
+DTSTAMP:20261011T090000Z
+DTSTART:20261011T090000Z
+DTEND:20261011T153000Z
+SUMMARY:Alexander Technique day workshop at City Lit
+DESCRIPTION:One-day beginners' Alexander Technique workshop (course FZE07)
+ \, Sun 11 Oct 10:00-16:30. Over the price line but the AT lane is high pr
+ iority and dated AT workshops are rare\; a 28 Nov edition also exists.\nP
+ rice: £99 (over usual cap — high-priority AT exception)\nhttps://www.c
+ itylit.ac.uk/courses/alexander-technique-workshop
+URL:https://www.citylit.ac.uk/courses/alexander-technique-workshop
+LOCATION:City Lit\, 1-10 Keeley Street\, Covent Garden WC2B 4BA
+END:VEVENT
+BEGIN:VEVENT
 UID:tiny-vipers-chantal-acda-red-river-dialect-at-sjq-e92460ff@london-even
  ts
 DTSTAMP:20261011T183000Z
@@ -3369,6 +3597,18 @@ URL:https://dice.fm/event/yowo6x-tiny-vipers-chantal-acda-red-river-dialec
  t-11th-oct-sjq-london-tickets
 LOCATION:Servant Jazz Quarters (SJQ)\, 10a Bradbury Street\, Dalston\, N16
   8JN
+END:VEVENT
+BEGIN:VEVENT
+UID:ri-discourse-cern-the-past-present-and-future-e62898d4@london-events
+DTSTAMP:20261016T182000Z
+DTSTART:20261016T182000Z
+DTEND:20261016T194500Z
+SUMMARY:Ri Discourse: CERN — the past\, present and future
+DESCRIPTION:Mark Thomson\, Director-General of CERN\, on where particle ph
+ ysics goes after the LHC.\nPrice: £20 (£15 concessions)\nhttps://www.ri
+ gb.org/whats-on/discourse-cern-past-present-and-future
+URL:https://www.rigb.org/whats-on/discourse-cern-past-present-and-future
+LOCATION:Royal Institution\, 21 Albemarle Street\, Mayfair W1S 4BS
 END:VEVENT
 BEGIN:VEVENT
 UID:knees-up-cecil-sharp-ceilidh-october-edition-55ed3d8a@london-events
@@ -3424,6 +3664,19 @@ DESCRIPTION:Day of talks and performance on psychedelics and intimacy endi
  .events/e/l6r0o
 URL:https://dandelion.events/e/l6r0o
 LOCATION:Om Being\, Amhurst Terrace\, London E8
+END:VEVENT
+BEGIN:VEVENT
+UID:an-evening-of-unnecessary-detail-festival-of-the-spoken-nerd-162bf026@
+ london-events
+DTSTAMP:20261024T180000Z
+DTSTART:20261024T180000Z
+DTEND:20261024T210000Z
+SUMMARY:An Evening of Unnecessary Detail (Festival of the Spoken Nerd)
+DESCRIPTION:Festival of the Spoken Nerd and guests do gloriously nerdy com
+ edy/science variety in the Ri theatre.\nPrice: £20 (£15 concessions)\nh
+ ttps://www.rigb.org/whats-on/evening-unnecessary-detail-4
+URL:https://www.rigb.org/whats-on/evening-unnecessary-detail-4
+LOCATION:Royal Institution\, 21 Albemarle Street\, Mayfair W1S 4BS
 END:VEVENT
 BEGIN:VEVENT
 UID:training-ground-4-day-contact-improvisation-intensive-rick-n-bd8ce8ed@

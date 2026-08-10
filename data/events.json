@@ -526,6 +526,26 @@
     "added": "2026-08-03"
   },
   {
+    "id": "eclipse-ci-jam-park-contact-improvisation-picnic-4effdab2",
+    "title": "Eclipse CI jam — park contact improvisation + picnic",
+    "start": "2026-08-12T18:00:00+01:00",
+    "end": "2026-08-12T21:00:00+01:00",
+    "venue": "Regent's Park (map pin on ci-jams page)",
+    "address": "Regent's Park, NW1",
+    "url": "https://ci-jams.pages.dev/",
+    "source": "listing:cicalendar",
+    "tags": [
+      "dance",
+      "outdoors",
+      "community"
+    ],
+    "price": "Free",
+    "description": "This Wednesday's free summer park CI jam lands on eclipse night: picnic from 6pm, warm-up into jam from 6:40pm. Weekly series runs to 2 Sep.",
+    "neighbourhood": "Regent's Park",
+    "cycle_minutes": 35,
+    "added": "2026-08-10"
+  },
+  {
     "title": "Simply Being 5Rhythms New Moon Eclipse Garden Special",
     "start": "2026-08-12T18:30:00+01:00",
     "end": "2026-08-12T21:00:00+01:00",
@@ -1830,6 +1850,44 @@
     "added": "2026-07-30"
   },
   {
+    "id": "rorshokito-london-2036-structured-small-group-discussion-aft-070fdc2a",
+    "title": "Rorshokito: London 2036 — structured small-group discussion afternoon",
+    "start": "2026-08-23T14:00:00+01:00",
+    "end": "2026-08-23T18:00:00+01:00",
+    "venue": "Proximate (via Newspeak House)",
+    "address": "Bethnal Green (venue on registration)",
+    "url": "https://newspeak.house/#events",
+    "source": "venue:newspeak-house",
+    "tags": [
+      "community",
+      "talk"
+    ],
+    "price": null,
+    "description": "New format: participants propose and vote discussion topics in advance, then meet in curated groups of four to talk about London ten years from now. Sunday afternoon in Bethnal Green.",
+    "neighbourhood": "Bethnal Green",
+    "cycle_minutes": 4,
+    "added": "2026-08-10"
+  },
+  {
+    "id": "culture-convo-social-picnic-victoria-park-726e3a73",
+    "title": "Culture & Convo Social Picnic (Victoria Park)",
+    "start": "2026-08-23T14:00:00+01:00",
+    "end": null,
+    "venue": "Victoria Park — Burdett-Coutts Memorial Fountain",
+    "address": "Victoria Park, E9 7DD",
+    "url": "https://dandelion.events/e/q836f",
+    "source": "aggregator:dandelion",
+    "tags": [
+      "community",
+      "outdoors"
+    ],
+    "price": null,
+    "description": "Sociable Sunday-afternoon picnic meetup by the Burdett-Coutts fountain — low-key way to meet people ten minutes from home.",
+    "neighbourhood": "Victoria Park",
+    "cycle_minutes": 8,
+    "added": "2026-08-10"
+  },
+  {
     "title": "Garden Gigs at The Victoria — 23 Aug",
     "start": "2026-08-23T15:00:00+01:00",
     "end": "2026-08-23T18:00:00+01:00",
@@ -1905,6 +1963,25 @@
     "cycle_minutes": 10,
     "id": "an-introduction-to-bohm-dialogue-d5f55c4c",
     "added": "2026-07-22"
+  },
+  {
+    "id": "campaign-lab-hack-night-24-aug-edition-3b034fae",
+    "title": "Campaign Lab Hack Night (24 Aug edition)",
+    "start": "2026-08-24T19:00:00+01:00",
+    "end": "2026-08-24T22:00:00+01:00",
+    "venue": "Newspeak House",
+    "address": "133 Bethnal Green Road, E2 7DG",
+    "url": "https://newspeak.house/#events",
+    "source": "venue:newspeak-house",
+    "tags": [
+      "tech",
+      "community"
+    ],
+    "price": "Free",
+    "description": "Bi-weekly civic-tech hack night, snacks provided. This date replaced the previously-listed 31 Aug edition on Newspeak's site.",
+    "neighbourhood": "Bethnal Green",
+    "cycle_minutes": 3,
+    "added": "2026-08-10"
   },
   {
     "id": "speed-dating-speed-karaoke-at-moth-club-25-aug-edition-9bd6fb05",
@@ -2430,7 +2507,7 @@
       "community"
     ],
     "price": "Free (register)",
-    "description": "Bank holiday Monday edition of Campaign Lab's hack night — technologists and campaigners working on progressive election-tech projects; bring a laptop, snacks provided.",
+    "description": "Bank holiday Monday edition of Campaign Lab's hack night — technologists and campaigners working on progressive election-tech projects; bring a laptop, snacks provided. NOTE (10 Aug): this date has dropped off Newspeak's listing — likely moved to 24 Aug; check before going.",
     "neighbourhood": "Bethnal Green",
     "cycle_minutes": 4,
     "id": "campaign-lab-summer-hack-night-212c774a",
@@ -2599,6 +2676,25 @@
     "cycle_minutes": 20,
     "id": "thursday-x-friday-night-lights-5k-party-run-x-singles-4426ca84",
     "added": "2026-08-01"
+  },
+  {
+    "id": "moments-of-idleness-flow-immersive-riverside-concert-totally-e4d02b6a",
+    "title": "Moments of Idleness / FLOW — immersive riverside concert (Totally Thames)",
+    "start": "2026-09-03T18:30:00+01:00",
+    "end": "2026-09-03T20:30:00+01:00",
+    "venue": "The Pier House at Hermitage Moorings",
+    "address": "Hermitage Moorings, Wapping High Street, E1W",
+    "url": "https://thamesfestivaltrust.org/whats-on/moments-of-idleness-flow-26841/",
+    "source": "festival:totally-thames",
+    "tags": [
+      "music",
+      "art"
+    ],
+    "price": "£22 (£18 concessions)",
+    "description": "Immersive Thursday-evening concert shaped in dialogue with the Thames, on a pier house at Hermitage Moorings in Wapping — part of Totally Thames' opening week.",
+    "neighbourhood": "Wapping",
+    "cycle_minutes": 15,
+    "added": "2026-08-10"
   },
   {
     "title": "The Signalman — Victorian magic & Dickens ghost story",
@@ -2800,6 +2896,25 @@
     "neighbourhood": "Holborn",
     "cycle_minutes": 22,
     "added": "2026-08-07"
+  },
+  {
+    "id": "mudlarks-of-the-thames-foreshore-free-weekend-symposium-4f75d68f",
+    "title": "Mudlarks of the Thames Foreshore — free weekend symposium",
+    "start": "2026-09-05T10:00:00+01:00",
+    "end": "2026-09-05T17:00:00+01:00",
+    "venue": "Guildhall",
+    "address": "71 Basinghall Street, EC2V 7HH",
+    "url": "https://thamesfestivaltrust.org/whats-on/symposium-mudlarks-of-the-thames-foreshore-27044/",
+    "source": "festival:totally-thames",
+    "tags": [
+      "talk",
+      "community"
+    ],
+    "price": "Free",
+    "description": "Two-day symposium (Sat 5 - Sun 6 Sep, 10am-5pm, drop in) bringing mudlarks and archaeologists together on what the Thames foreshore reveals — free, no booking.",
+    "neighbourhood": "City of London",
+    "cycle_minutes": 12,
+    "added": "2026-08-10"
   },
   {
     "title": "PsySoc Community Walk, Speed-Friending & Nature Connection (September)",
@@ -3117,6 +3232,24 @@
     "neighbourhood": "Dalston",
     "cycle_minutes": 14,
     "added": "2026-08-07"
+  },
+  {
+    "id": "what-can-ancient-dna-tell-us-about-the-romans-mary-beard-pan-a30e33ab",
+    "title": "What can ancient DNA tell us about... the Romans (Mary Beard panel)",
+    "start": "2026-09-09T19:00:00+01:00",
+    "end": "2026-09-09T20:30:00+01:00",
+    "venue": "Francis Crick Institute",
+    "address": "1 Midland Road, King's Cross NW1 1AT",
+    "url": "https://www.crick.ac.uk/whats-on/what-can-ancient-dna-tell-us-about-the-romans",
+    "source": "venue:crick",
+    "tags": [
+      "talk"
+    ],
+    "price": "Free (book on Eventbrite)",
+    "description": "Mary Beard chairs a panel with Peter Frankopan and Crick ancient-genomics researchers on how ancient DNA is rewriting the Roman era. Doors 18:30.",
+    "neighbourhood": "King's Cross",
+    "cycle_minutes": 28,
+    "added": "2026-08-10"
   },
   {
     "title": "Fire Fire — new play at Arcola (opening night)",
@@ -3560,6 +3693,24 @@
     "added": "2026-08-08"
   },
   {
+    "id": "jbs-haldane-lecture-2026-genetic-discoveries-illuminating-ju-d909bacd",
+    "title": "JBS Haldane Lecture 2026: Genetic discoveries illuminating justice",
+    "start": "2026-09-14T19:00:00+01:00",
+    "end": "2026-09-14T20:30:00+01:00",
+    "venue": "Royal Institution",
+    "address": "21 Albemarle Street, Mayfair W1S 4BS",
+    "url": "https://www.rigb.org/whats-on/jbs-haldane-lecture-2026-genetic-discoveries-illuminating-justice",
+    "source": "venue:royal-institution",
+    "tags": [
+      "talk"
+    ],
+    "price": "£16 (£10 concessions)",
+    "description": "Geneticist Carola Vinuesa on how genetic discoveries are overturning wrongful convictions — the annual Haldane Lecture in the Ri theatre. Same evening as the free Lintott lecture at Conway Hall.",
+    "neighbourhood": "Mayfair",
+    "cycle_minutes": 35,
+    "added": "2026-08-10"
+  },
+  {
     "title": "Neumatic Parlo + Houndshark at Sebright Arms",
     "start": "2026-09-14T19:30:00+01:00",
     "end": null,
@@ -3855,6 +4006,24 @@
     "cycle_minutes": 32
   },
   {
+    "id": "you-don-t-know-what-you-re-m-ss-ng-the-hidden-data-shaping-o-725b23c7",
+    "title": "You don't know what you're m ss ng: the hidden data shaping our behaviour",
+    "start": "2026-09-19T19:00:00+01:00",
+    "end": "2026-09-19T20:30:00+01:00",
+    "venue": "Royal Institution",
+    "address": "21 Albemarle Street, Mayfair W1S 4BS",
+    "url": "https://www.rigb.org/whats-on/you-dont-know-what-youre-m-ss-ng-hidden-data-shaping-our-behaviour",
+    "source": "venue:royal-institution",
+    "tags": [
+      "talk"
+    ],
+    "price": "£16 (£10 concessions)",
+    "description": "Saturday-evening Ri talk on the missing and hidden data that quietly shapes our decisions.",
+    "neighbourhood": "Mayfair",
+    "cycle_minutes": 35,
+    "added": "2026-08-10"
+  },
+  {
     "id": "ecstatic-dance-uk-sun-day-morning-dance-ca002029",
     "title": "Ecstatic Dance UK — SUN•DAY morning dance",
     "start": "2026-09-20T10:00:00+01:00",
@@ -3926,6 +4095,25 @@
     "neighbourhood": "Dalston",
     "cycle_minutes": 14,
     "added": "2026-08-07"
+  },
+  {
+    "id": "monday-contact-improv-jam-at-rose-lipman-21-sep-60fc6bae",
+    "title": "Monday Contact Improv Jam at Rose Lipman (21 Sep)",
+    "start": "2026-09-21T18:30:00+01:00",
+    "end": null,
+    "venue": "Rose Lipman Building",
+    "address": "43 De Beauvoir Road, N1 5SQ",
+    "url": "https://cicalendar.uk/london",
+    "source": "listing:cicalendar",
+    "tags": [
+      "dance",
+      "community"
+    ],
+    "price": null,
+    "description": "Weekly Monday CI jam with facilitated warm-up by Marie Chabert; doors 6:20pm, newcomers welcome (arrive early for the consent/guidelines intro).",
+    "neighbourhood": "De Beauvoir",
+    "cycle_minutes": 10,
+    "added": "2026-08-10"
   },
   {
     "id": "campaign-lab-hack-night-21-sep-edition-524ba4dc",
@@ -4149,6 +4337,24 @@
     "neighbourhood": "South Bank",
     "cycle_minutes": 30,
     "added": "2026-08-08"
+  },
+  {
+    "id": "ri-discourse-physics-and-philosophy-on-the-equality-of-all-t-b2fb7e54",
+    "title": "Ri Discourse: Physics and philosophy — on the equality of all things (Carlo Rovelli)",
+    "start": "2026-09-25T19:20:00+01:00",
+    "end": "2026-09-25T20:45:00+01:00",
+    "venue": "Royal Institution",
+    "address": "21 Albemarle Street, Mayfair W1S 4BS",
+    "url": "https://www.rigb.org/whats-on/discourse-physics-and-philosophy-equality-all-things",
+    "source": "venue:royal-institution",
+    "tags": [
+      "talk"
+    ],
+    "price": "£20 (£15 concessions)",
+    "description": "Rovelli gives a formal Friday-night Ri Discourse — the night after his Union Chapel talk; two chances in a row.",
+    "neighbourhood": "Mayfair",
+    "cycle_minutes": 35,
+    "added": "2026-08-10"
   },
   {
     "id": "grace-petrie-at-union-chapel-21267766",
@@ -4392,6 +4598,26 @@
     "added": "2026-08-09"
   },
   {
+    "id": "monday-contact-improv-class-jam-at-rose-lipman-5-oct-e0f48c0a",
+    "title": "Monday Contact Improv: Class + Jam at Rose Lipman (5 Oct)",
+    "start": "2026-10-05T18:30:00+01:00",
+    "end": null,
+    "venue": "Rose Lipman Building",
+    "address": "43 De Beauvoir Road, N1 5SQ",
+    "url": "https://cicalendar.uk/london",
+    "source": "listing:cicalendar",
+    "tags": [
+      "dance",
+      "class",
+      "community"
+    ],
+    "price": null,
+    "description": "Class-week edition of the Monday CI night: taught class by Marie followed by the jam. Doors 6:20pm; further jams 19 Oct and 2 Nov.",
+    "neighbourhood": "De Beauvoir",
+    "cycle_minutes": 10,
+    "added": "2026-08-10"
+  },
+  {
     "id": "campaign-lab-hack-night-5-oct-edition-3889f420",
     "title": "Campaign Lab Hack Night (5 Oct edition)",
     "start": "2026-10-05T19:00:00+01:00",
@@ -4409,6 +4635,62 @@
     "neighbourhood": "Bethnal Green",
     "cycle_minutes": 3,
     "added": "2026-08-09"
+  },
+  {
+    "id": "the-life-scientific-live-jim-al-khalili-interviews-chris-pac-44a40d17",
+    "title": "The Life Scientific live: Jim Al-Khalili interviews Chris Packham",
+    "start": "2026-10-06T19:00:00+01:00",
+    "end": "2026-10-06T20:30:00+01:00",
+    "venue": "Royal Institution",
+    "address": "21 Albemarle Street, Mayfair W1S 4BS",
+    "url": "https://www.rigb.org/whats-on/life-scientific",
+    "source": "venue:royal-institution",
+    "tags": [
+      "talk"
+    ],
+    "price": "£16 (£10 concessions)",
+    "description": "Radio 4's The Life Scientific recorded live in the Ri theatre: Al-Khalili interviews naturalist Chris Packham.",
+    "neighbourhood": "Mayfair",
+    "cycle_minutes": 35,
+    "added": "2026-08-10"
+  },
+  {
+    "id": "wifi-wars-debug-xxii-interactive-comedy-game-show-8c36d57e",
+    "title": "WiFi Wars Debug XXII — interactive comedy game show",
+    "start": "2026-10-09T19:00:00+01:00",
+    "end": "2026-10-09T20:30:00+01:00",
+    "venue": "Royal Institution",
+    "address": "21 Albemarle Street, Mayfair W1S 4BS",
+    "url": "https://www.rigb.org/whats-on/wifi-wars-debug-xxii",
+    "source": "venue:royal-institution",
+    "tags": [
+      "comedy",
+      "tech"
+    ],
+    "price": "£16 (£10 concessions)",
+    "description": "The whole audience plays games together on their phones — the rowdier Friday-night side of the Ri.",
+    "neighbourhood": "Mayfair",
+    "cycle_minutes": 35,
+    "added": "2026-08-10"
+  },
+  {
+    "id": "new-scientist-live-2026-public-weekend-at-excel-59a46163",
+    "title": "New Scientist Live 2026 (public weekend at ExCeL)",
+    "start": "2026-10-10T10:00:00+01:00",
+    "end": "2026-10-10T17:00:00+01:00",
+    "venue": "ExCeL London",
+    "address": "Royal Victoria Dock, 1 Western Gateway, E16 1XL",
+    "url": "https://www.excel.london/whats-on/New-Scientist-Live-2026",
+    "source": "keyword-search",
+    "tags": [
+      "talk",
+      "festival"
+    ],
+    "price": "~£48/day (verify on seetickets)",
+    "description": "The big annual science festival: talks, demos and exhibits. Public days Sat 10 and Sun 11 Oct, 10am-5pm.",
+    "neighbourhood": "Royal Docks",
+    "cycle_minutes": 30,
+    "added": "2026-08-10"
   },
   {
     "id": "balkanplus-for-beginners-at-cecil-sharp-house-1d959eda",
@@ -4448,6 +4730,25 @@
     "added": "2026-08-09"
   },
   {
+    "id": "alexander-technique-day-workshop-at-city-lit-6157be6e",
+    "title": "Alexander Technique day workshop at City Lit",
+    "start": "2026-10-11T10:00:00+01:00",
+    "end": "2026-10-11T16:30:00+01:00",
+    "venue": "City Lit",
+    "address": "1-10 Keeley Street, Covent Garden WC2B 4BA",
+    "url": "https://www.citylit.ac.uk/courses/alexander-technique-workshop",
+    "source": "venue:citylit",
+    "tags": [
+      "workshop",
+      "class"
+    ],
+    "price": "£99 (over usual cap — high-priority AT exception)",
+    "description": "One-day beginners' Alexander Technique workshop (course FZE07), Sun 11 Oct 10:00-16:30. Over the price line but the AT lane is high priority and dated AT workshops are rare; a 28 Nov edition also exists.",
+    "neighbourhood": "Covent Garden",
+    "cycle_minutes": 25,
+    "added": "2026-08-10"
+  },
+  {
     "id": "tiny-vipers-chantal-acda-red-river-dialect-at-sjq-e92460ff",
     "title": "Tiny Vipers + Chantal Acda + Red River Dialect at SJQ",
     "start": "2026-10-11T19:30:00+01:00",
@@ -4464,6 +4765,24 @@
     "neighbourhood": "Dalston",
     "cycle_minutes": 15,
     "added": "2026-08-09"
+  },
+  {
+    "id": "ri-discourse-cern-the-past-present-and-future-e62898d4",
+    "title": "Ri Discourse: CERN — the past, present and future",
+    "start": "2026-10-16T19:20:00+01:00",
+    "end": "2026-10-16T20:45:00+01:00",
+    "venue": "Royal Institution",
+    "address": "21 Albemarle Street, Mayfair W1S 4BS",
+    "url": "https://www.rigb.org/whats-on/discourse-cern-past-present-and-future",
+    "source": "venue:royal-institution",
+    "tags": [
+      "talk"
+    ],
+    "price": "£20 (£15 concessions)",
+    "description": "Mark Thomson, Director-General of CERN, on where particle physics goes after the LHC.",
+    "neighbourhood": "Mayfair",
+    "cycle_minutes": 35,
+    "added": "2026-08-10"
   },
   {
     "id": "knees-up-cecil-sharp-ceilidh-october-edition-55ed3d8a",
@@ -4538,6 +4857,25 @@
     "neighbourhood": "Hackney Downs",
     "cycle_minutes": 12,
     "added": "2026-08-09"
+  },
+  {
+    "id": "an-evening-of-unnecessary-detail-festival-of-the-spoken-nerd-162bf026",
+    "title": "An Evening of Unnecessary Detail (Festival of the Spoken Nerd)",
+    "start": "2026-10-24T19:00:00+01:00",
+    "end": "2026-10-24T22:00:00+01:00",
+    "venue": "Royal Institution",
+    "address": "21 Albemarle Street, Mayfair W1S 4BS",
+    "url": "https://www.rigb.org/whats-on/evening-unnecessary-detail-4",
+    "source": "venue:royal-institution",
+    "tags": [
+      "comedy",
+      "talk"
+    ],
+    "price": "£20 (£15 concessions)",
+    "description": "Festival of the Spoken Nerd and guests do gloriously nerdy comedy/science variety in the Ri theatre.",
+    "neighbourhood": "Mayfair",
+    "cycle_minutes": 35,
+    "added": "2026-08-10"
   },
   {
     "id": "training-ground-4-day-contact-improvisation-intensive-rick-n-bd8ce8ed",
