@@ -5,62 +5,6 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:London Events
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
-UID:sunset-sessions-open-air-ecstatic-dance-7-aug-edition-296d1793@london-
- events
-DTSTAMP:20260807T170000Z
-DTSTART:20260807T170000Z
-DTEND:20260807T193000Z
-SUMMARY:Sunset Sessions — open-air ecstatic dance (7 Aug edition)
-DESCRIPTION:Ecstatic Dance London's outdoor summer session with silent-dis
- co headphones\, cacao\, fruit social and picnic in the park.\nPrice: £13
- -£18\nhttps://dandelion.events/e/u1tjb
-URL:https://dandelion.events/e/u1tjb
-LOCATION:Regent's Park (meet at Baker Street Station)
-END:VEVENT
-BEGIN:VEVENT
-UID:the-next-chapter-of-psychedelics-with-robin-carhart-harris-a1f54161@lo
- ndon-events
-DTSTAMP:20260807T171500Z
-DTSTART:20260807T171500Z
-DTEND:20260807T194500Z
-SUMMARY:The Next Chapter of Psychedelics with Robin Carhart-Harris
-DESCRIPTION:Neuroscientist Robin Carhart-Harris discusses where psychedeli
- c science goes next\, including his REBUS model and forthcoming book\, fo
- llowed by social mingling.\nPrice: £20-£30 sliding scale\nhttps://dande
- lion.events/e/d9p3e
-URL:https://dandelion.events/e/d9p3e
-LOCATION:The Sanctuary &Soul\, 114 Cheshire Street\, E2 6EJ
-END:VEVENT
-BEGIN:VEVENT
-UID:circling-drop-in-evening-16e3b99d@london-events
-DTSTAMP:20260807T180000Z
-DTSTART:20260807T180000Z
-DTEND:20260807T200000Z
-SUMMARY:Circling Drop-in Evening
-DESCRIPTION:Drop-in circling evening — relational meditation practice in
-  small groups\, no experience needed. Direct hit on the circling priority
- .\nPrice: Free (possibly donation-based)\nhttps://www.eventbrite.co.uk/e/
- circling-drop-in-evening-tickets-1996364183012
-URL:https://www.eventbrite.co.uk/e/circling-drop-in-evening-tickets-199636
- 4183012
-LOCATION:Elephant & Castle (venue on booking)\, Elephant and Castle\, Lond
- on SE1
-END:VEVENT
-BEGIN:VEVENT
-UID:angel-comedy-fridays-at-the-bill-murray-c3e4ca81@london-events
-DTSTAMP:20260807T183000Z
-DTSTART:20260807T183000Z
-DTEND:20260807T203000Z
-SUMMARY:Angel Comedy Fridays at The Bill Murray
-DESCRIPTION:Friday-night stand-up showcase at Angel Comedy's 60-seat club-
- pub\, mixing circuit pros and Edinburgh-bound acts.\nPrice: £11-£13\nht
- tps://www.angelcomedy.co.uk/event-detail/angel-comedy-fridays-730pm-fri-7
- th-aug-the-bill-murray-london-tickets-202608071930/
-URL:https://www.angelcomedy.co.uk/event-detail/angel-comedy-fridays-730pm-
- fri-7th-aug-the-bill-murray-london-tickets-202608071930/
-LOCATION:The Bill Murray\, 39 Queen's Head St\, N1 8NQ
-END:VEVENT
-BEGIN:VEVENT
 UID:slow-mornings-plot-9-yin-yoga-meditation-sauna-73fbc732@london-events
 DTSTAMP:20260808T090000Z
 DTSTART:20260808T090000Z
