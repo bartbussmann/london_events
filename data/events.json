@@ -674,6 +674,25 @@
     "cycle_minutes": 28
   },
   {
+    "id": "open-air-ecstatic-dance-sunset-sessions-friday-edition-98457cb5",
+    "title": "Open-Air Ecstatic Dance: Sunset Sessions (Friday edition)",
+    "start": "2026-08-14T18:00:00+01:00",
+    "end": "2026-08-14T20:30:00+01:00",
+    "venue": "Regent's Park (meet at Baker Street Station)",
+    "address": "Baker Street / Regent's Park, NW1",
+    "url": "https://dandelion.events/e/u1tjb",
+    "source": "aggregator:dandelion",
+    "tags": [
+      "dance",
+      "outdoors"
+    ],
+    "price": "£13-£30 (tiered)",
+    "description": "Outdoor sunset ecstatic dance with cacao, fruit social and picnic — silent-disco headphones in the park.",
+    "neighbourhood": "Regent's Park",
+    "cycle_minutes": 35,
+    "added": "2026-08-11"
+  },
+  {
     "id": "paperjam-game-jam-live-scream-169a3592",
     "title": "PaperJam Game Jam: Live Scream",
     "start": "2026-08-14T18:30:00+01:00",
@@ -880,6 +899,25 @@
     "added": "2026-07-18"
   },
   {
+    "id": "open-air-ecstatic-dance-sunset-sessions-saturday-edition-0eaa9f70",
+    "title": "Open-Air Ecstatic Dance: Sunset Sessions (Saturday edition)",
+    "start": "2026-08-15T18:00:00+01:00",
+    "end": "2026-08-15T20:30:00+01:00",
+    "venue": "Regent's Park (meet at Baker Street Station)",
+    "address": "Baker Street / Regent's Park, NW1",
+    "url": "https://dandelion.events/e/m6bos",
+    "source": "aggregator:dandelion",
+    "tags": [
+      "dance",
+      "outdoors"
+    ],
+    "price": "£13-£30 (tiered)",
+    "description": "Saturday edition of the outdoor sunset ecstatic dance with cacao and picnic social.",
+    "neighbourhood": "Regent's Park",
+    "cycle_minutes": 35,
+    "added": "2026-08-11"
+  },
+  {
     "title": "closeup summer series: Eaves Wilder at Sebright Arms",
     "start": "2026-08-15T19:30:00+01:00",
     "end": null,
@@ -1008,6 +1046,24 @@
     "added": "2026-07-05",
     "neighbourhood": "Clerkenwell",
     "cycle_minutes": 20
+  },
+  {
+    "id": "thursday-30-pub-quiz-night-at-21soho-5d41aebf",
+    "title": "Thursday: 30+ Pub Quiz Night at 21Soho",
+    "start": "2026-08-17T19:00:00+01:00",
+    "end": null,
+    "venue": "21Soho",
+    "address": "Soho, W1",
+    "url": "https://www.thursday.com/events/london/ea3fc2be-eac8-4e58-a6c9-767bed8138b7",
+    "source": "listing:thursday-dating",
+    "tags": [
+      "community"
+    ],
+    "price": "£18",
+    "description": "Monday singles pub quiz for 30+ (mixed, min age 30) at Soho's comedy club — teams mixed on arrival. Listing data has shown conflicting dates for this one; double-check the booking page.",
+    "neighbourhood": "Soho",
+    "cycle_minutes": 30,
+    "added": "2026-08-11"
   },
   {
     "title": "Friko at MOTH Club",
@@ -1492,6 +1548,43 @@
     "added": "2026-08-08"
   },
   {
+    "id": "thursday-singles-comedy-night-at-21soho-e08ce27a",
+    "title": "Thursday: Singles Comedy Night at 21Soho",
+    "start": "2026-08-21T19:00:00+01:00",
+    "end": null,
+    "venue": "21Soho",
+    "address": "Soho, W1",
+    "url": "https://www.thursday.com/events/london/9c1b1d3d-ef49-4053-a527-a58aeb31b3d3",
+    "source": "listing:thursday-dating",
+    "tags": [
+      "community",
+      "comedy"
+    ],
+    "price": "£12",
+    "description": "Friday-night singles comedy show and mingle at 21Soho — mixed, no age cap listed.",
+    "neighbourhood": "Soho",
+    "cycle_minutes": 30,
+    "added": "2026-08-11"
+  },
+  {
+    "id": "obl-presents-the-howling-fiends-luck-machine-the-doldrums-ac6513e9",
+    "title": "OBL Presents: The Howling Fiends + Luck Machine + The Doldrums",
+    "start": "2026-08-21T19:30:00+01:00",
+    "end": null,
+    "venue": "The Old Blue Last",
+    "address": "38 Great Eastern St, EC2A 3ES",
+    "url": "https://dice.fm/event/6a74b3b2f037c30001c271c3",
+    "source": "venue:dice-the-old-blue-last",
+    "tags": [
+      "music"
+    ],
+    "price": "£5",
+    "description": "Newly announced £5 Friday triple bill of emerging bands upstairs at the Old Blue Last.",
+    "neighbourhood": "Shoreditch",
+    "cycle_minutes": 7,
+    "added": "2026-08-11"
+  },
+  {
     "title": "Ceroc South Ken — 2 Room Freestyle & SILC Class",
     "start": "2026-08-21T19:45:00+01:00",
     "end": "2026-08-21T23:30:00+01:00",
@@ -1566,6 +1659,25 @@
     "cycle_minutes": 20,
     "id": "thursday-singles-beach-volleyball-london-bridge-03c21e43",
     "added": "2026-08-01"
+  },
+  {
+    "id": "reading-and-leeds-but-better-free-all-dayer-at-sebright-arms-d975e49e",
+    "title": "Reading and Leeds (but better) — free all-dayer at Sebright Arms",
+    "start": "2026-08-22T15:00:00+01:00",
+    "end": null,
+    "venue": "Sebright Arms",
+    "address": "31-35 Coate Street, Bethnal Green, E2 9AG",
+    "url": "https://dice.fm/event/6a709721e63a460001713b90",
+    "source": "venue:dice-sebright-arms",
+    "tags": [
+      "music",
+      "festival"
+    ],
+    "price": "Free",
+    "description": "Free Saturday all-dayer in the Sebright basement, cheekily programmed against Reading & Leeds weekend — a few streets from home.",
+    "neighbourhood": "Bethnal Green",
+    "cycle_minutes": 4,
+    "added": "2026-08-11"
   },
   {
     "title": "Luminous Conscious Dance — Full Moon Edition",
@@ -2210,6 +2322,24 @@
     "cycle_minutes": 28
   },
   {
+    "id": "wishing-cap-josh-curtis-thank-you-park-free-sunday-matinee-69ad7a83",
+    "title": "Wishing Cap + Josh Curtis + Thank You Park (free Sunday matinee)",
+    "start": "2026-08-30T15:30:00+01:00",
+    "end": null,
+    "venue": "The Old Blue Last",
+    "address": "38 Great Eastern St, EC2A 3ES",
+    "url": "https://dice.fm/event/6a75e495e7a52e00014dd9c0",
+    "source": "venue:dice-the-old-blue-last",
+    "tags": [
+      "music"
+    ],
+    "price": "Free",
+    "description": "Free bank-holiday-Sunday afternoon bill at the Old Blue Last — zero-commitment pre-Carnival option.",
+    "neighbourhood": "Shoreditch",
+    "cycle_minutes": 7,
+    "added": "2026-08-11"
+  },
+  {
     "id": "thursday-singles-beach-volleyball-speed-dating-after-party-l-8966dffa",
     "title": "Thursday: Singles Beach Volleyball Speed Dating + After-Party — Leyton",
     "start": "2026-08-30T17:30:00+01:00",
@@ -2269,6 +2399,25 @@
     "added": "2026-07-23"
   },
   {
+    "id": "thursday-bank-holiday-beach-volleyball-london-bridge-26764d6b",
+    "title": "Thursday: Bank Holiday Beach Volleyball — London Bridge",
+    "start": "2026-08-31T12:00:00+01:00",
+    "end": null,
+    "venue": "Marlborough Sports Garden",
+    "address": "Union Street, London Bridge, SE1",
+    "url": "https://www.thursday.com/events/london/8edb9971-ad65-424c-84b8-5e8808eb65ad",
+    "source": "listing:thursday-dating",
+    "tags": [
+      "community",
+      "outdoors"
+    ],
+    "price": "£22",
+    "description": "Bank-holiday-Monday mixed singles beach volleyball at London Bridge's sand courts — same format as the August editions.",
+    "neighbourhood": "London Bridge",
+    "cycle_minutes": 18,
+    "added": "2026-08-11"
+  },
+  {
     "title": "Campaign Lab Summer Hack Night",
     "start": "2026-08-31T19:00:00+01:00",
     "end": "2026-08-31T22:00:00+01:00",
@@ -2305,6 +2454,24 @@
     "neighbourhood": "Covent Garden",
     "cycle_minutes": 25,
     "added": "2026-08-04"
+  },
+  {
+    "id": "k2b-presents-romesh-ranganathan-work-in-progress-at-moth-clu-67b4c03b",
+    "title": "K2B Presents: Romesh Ranganathan (work in progress) at MOTH Club",
+    "start": "2026-09-01T18:45:00+01:00",
+    "end": null,
+    "venue": "MOTH Club",
+    "address": "Old Trades Hall, Valette Street, E9 6NU",
+    "url": "https://dice.fm/event/923d99-k2b-presents-romesh-ranganathan-wip-1st-sep-moth-club-london-tickets",
+    "source": "venue:dice-moth-club",
+    "tags": [
+      "comedy"
+    ],
+    "price": "£18.81",
+    "description": "Arena-scale comedian Romesh Ranganathan tests new material in MOTH Club's tiny glitter-ceilinged ballroom — likely to go fast.",
+    "neighbourhood": "Hackney Central",
+    "cycle_minutes": 12,
+    "added": "2026-08-11"
   },
   {
     "title": "Stella Prince + Sophia Brown + Emanuela at Green Note",
@@ -2359,6 +2526,24 @@
     "neighbourhood": "Bethnal Green",
     "cycle_minutes": 4,
     "added": "2026-08-04"
+  },
+  {
+    "id": "thursday-30-new-venue-singles-night-at-oche-the-strand-4f0c859b",
+    "title": "Thursday: 30+ New Venue Singles Night at Oche, The Strand",
+    "start": "2026-09-02T19:00:00+01:00",
+    "end": null,
+    "venue": "Oche The Strand",
+    "address": "The Strand, WC2",
+    "url": "https://www.thursday.com/events/london/1e8c74d8-797b-4ad8-951a-f0a5bda9b074",
+    "source": "listing:thursday-dating",
+    "tags": [
+      "community"
+    ],
+    "price": "£12",
+    "description": "Wednesday 30+ mixed singles night at Oche's interactive darts bar off the Strand — built-in activity.",
+    "neighbourhood": "Strand",
+    "cycle_minutes": 25,
+    "added": "2026-08-11"
   },
   {
     "title": "Sean McVerry + Sametime + Tom High at The Old Blue Last",
@@ -2861,6 +3046,25 @@
     "added": "2026-07-24"
   },
   {
+    "id": "song-circle-plot-9-5eeed78f",
+    "title": "Song Circle @ Plot 9",
+    "start": "2026-09-06T15:00:00+01:00",
+    "end": "2026-09-06T18:00:00+01:00",
+    "venue": "Plot 9",
+    "address": "Maze Hill, Greenwich",
+    "url": "https://dandelion.events/e/y7n5y",
+    "source": "aggregator:dandelion",
+    "tags": [
+      "music",
+      "community"
+    ],
+    "price": "£5-£18 (tiered)",
+    "description": "Sunday-afternoon community song circle at the Plot 9 garden space — group singing, no experience needed.",
+    "neighbourhood": "Greenwich",
+    "cycle_minutes": 30,
+    "added": "2026-08-11"
+  },
+  {
     "title": "Monday Contact Improv: Class + Jam — autumn season opener",
     "start": "2026-09-07T18:30:00+01:00",
     "end": "2026-09-07T20:30:00+01:00",
@@ -2897,6 +3101,24 @@
     "cycle_minutes": 4,
     "id": "campaign-lab-summer-hack-night-7-sep-efc62781",
     "added": "2026-07-30"
+  },
+  {
+    "id": "the-ecosystem-of-life-underground-royal-institution-457869c5",
+    "title": "The ecosystem of life underground — Royal Institution",
+    "start": "2026-09-07T19:00:00+01:00",
+    "end": "2026-09-07T20:30:00+01:00",
+    "venue": "Royal Institution",
+    "address": "21 Albemarle Street, Mayfair, W1S 4BS",
+    "url": "https://www.rigb.org/whats-on/ecosystem-life-underground",
+    "source": "venue:royal-institution",
+    "tags": [
+      "talk"
+    ],
+    "price": "£16 (£10 concession)",
+    "description": "Monday-evening Ri talk on the hidden ecosystems beneath our feet — soil life, fungal networks and subterranean biology.",
+    "neighbourhood": "Mayfair",
+    "cycle_minutes": 35,
+    "added": "2026-08-11"
   },
   {
     "id": "bright-phoebus-revisited-lal-mike-waterson-tribute-d5356564",
@@ -2970,6 +3192,25 @@
     "cycle_minutes": 7,
     "id": "rostam-at-village-underground-9c18192c",
     "added": "2026-07-31"
+  },
+  {
+    "id": "walking-with-the-ancestors-journeys-across-ancient-africa-12781031",
+    "title": "Walking with the Ancestors: Journeys across Ancient Africa",
+    "start": "2026-09-09T18:30:00+01:00",
+    "end": "2026-09-09T21:30:00+01:00",
+    "venue": "Love Shack",
+    "address": "Cambridge Heath Road, Bethnal Green, E2",
+    "url": "https://dandelion.events/e/z2prl",
+    "source": "aggregator:dandelion",
+    "tags": [
+      "talk",
+      "community"
+    ],
+    "price": "£5-£20 (tiered)",
+    "description": "Evening talk/journey with ethnomycologist Darren Le Baron on ancient African history and plant traditions — walking distance from home.",
+    "neighbourhood": "Bethnal Green",
+    "cycle_minutes": 3,
+    "added": "2026-08-11"
   },
   {
     "id": "roger-eno-at-union-chapel-b075fe97",
@@ -3761,6 +4002,25 @@
     "added": "2026-08-03"
   },
   {
+    "id": "quartet-a-weekend-of-improvisation-collective-performance-bc363573",
+    "title": "QUARTET — a weekend of improvisation & collective performance",
+    "start": "2026-09-19T14:00:00+01:00",
+    "end": "2026-09-19T19:00:00+01:00",
+    "venue": "Acland Burghley School Sports Centre",
+    "address": "Churchill Road, Tufnell Park, NW5 1AN",
+    "url": "https://bookwhen.com/ricknodine/e/ev-sf6vv-20260919140000",
+    "source": "venue:rick-nodine-bookwhen",
+    "tags": [
+      "dance",
+      "workshop"
+    ],
+    "price": "£100-£120 full weekend (over usual cap — rare-format exception)",
+    "description": "Two-day improvisation/CI weekend (Sat 19 + Sun 20 Sep) with four teachers incl. Rick Nodine — choreography, camera, group process and contact improvisation.",
+    "neighbourhood": "Tufnell Park",
+    "cycle_minutes": 35,
+    "added": "2026-08-11"
+  },
+  {
     "id": "international-folk-dancing-with-the-sifd-band-ed3c313b",
     "title": "International Folk Dancing with the SIFD Band",
     "start": "2026-09-19T14:30:00+01:00",
@@ -4057,6 +4317,24 @@
     "cycle_minutes": 32
   },
   {
+    "id": "le-vent-du-nord-at-cecil-sharp-house-87d55ef8",
+    "title": "Le Vent du Nord at Cecil Sharp House",
+    "start": "2026-09-24T19:30:00+01:00",
+    "end": "2026-09-24T21:30:00+01:00",
+    "venue": "Cecil Sharp House",
+    "address": "2 Regent's Park Road, NW1 7AY",
+    "url": "https://www.efdss.org/whats-on",
+    "source": "venue:cecil-sharp-house",
+    "tags": [
+      "music"
+    ],
+    "price": null,
+    "description": "Quebec's leading trad-folk band return to the home of English folk for a dynamic hurdy-gurdy-driven show.",
+    "neighbourhood": "Primrose Hill",
+    "cycle_minutes": 32,
+    "added": "2026-08-11"
+  },
+  {
     "id": "soundhood-east-london-multi-venue-small-gig-festival-25-26-s-e2f12eaa",
     "title": "Soundhood East London — multi-venue small-gig festival (25-26 Sep)",
     "start": "2026-09-25T18:00:00+01:00",
@@ -4168,6 +4446,44 @@
     "added": "2026-08-09"
   },
   {
+    "id": "autumn-equinox-apple-pressing-conker-tournament-5c538a2a",
+    "title": "Autumn Equinox Apple Pressing & Conker Tournament",
+    "start": "2026-09-26T12:00:00+01:00",
+    "end": "2026-09-26T14:00:00+01:00",
+    "venue": "The Thanet Youth & Community Centre",
+    "address": "Herbert Street, Kentish Town, NW5 4HD",
+    "url": "https://dandelion.events/e/f6r5b",
+    "source": "aggregator:dandelion",
+    "tags": [
+      "community",
+      "outdoors",
+      "food"
+    ],
+    "price": "Free-£2",
+    "description": "Community apple pressing plus a conker tournament for the autumn equinox — bring apples, leave with juice.",
+    "neighbourhood": "Kentish Town",
+    "cycle_minutes": 35,
+    "added": "2026-08-11"
+  },
+  {
+    "id": "the-story-of-birds-from-the-jurassic-to-today-royal-institut-5d37c59f",
+    "title": "The story of birds: from the Jurassic to today — Royal Institution",
+    "start": "2026-09-26T19:00:00+01:00",
+    "end": "2026-09-26T20:30:00+01:00",
+    "venue": "Royal Institution",
+    "address": "21 Albemarle Street, Mayfair, W1S 4BS",
+    "url": "https://www.rigb.org/whats-on/story-birds-jurassic-today",
+    "source": "venue:royal-institution",
+    "tags": [
+      "talk"
+    ],
+    "price": "£16 (£10 concession)",
+    "description": "Saturday-evening Ri lecture tracing bird evolution from Jurassic dinosaurs to modern species.",
+    "neighbourhood": "Mayfair",
+    "cycle_minutes": 35,
+    "added": "2026-08-11"
+  },
+  {
     "id": "tellison-at-moth-club-cbe7ec78",
     "title": "Tellison at MOTH Club",
     "start": "2026-09-26T19:30:00+01:00",
@@ -4184,6 +4500,26 @@
     "neighbourhood": "Hackney Central",
     "cycle_minutes": 12,
     "added": "2026-08-09"
+  },
+  {
+    "id": "vocal-playground-collaborative-vocal-improv-day-cd91b53f",
+    "title": "Vocal Playground — collaborative vocal improv day",
+    "start": "2026-09-27T13:00:00+01:00",
+    "end": "2026-09-27T18:00:00+01:00",
+    "venue": "Music Tree",
+    "address": "Barnsbury Street, Islington, N1",
+    "url": "https://dandelion.events/e/l6p4r",
+    "source": "aggregator:dandelion",
+    "tags": [
+      "workshop",
+      "music",
+      "community"
+    ],
+    "price": "£35-£55 (tiered)",
+    "description": "Sunday afternoon of collaborative vocal improvisation and group singing games at Music Tree in Barnsbury.",
+    "neighbourhood": "Barnsbury",
+    "cycle_minutes": 22,
+    "added": "2026-08-11"
   },
   {
     "id": "fun-consent-connection-session-september-edition-27669a61",
@@ -4354,6 +4690,61 @@
     "added": "2026-08-09"
   },
   {
+    "id": "leveret-at-cecil-sharp-house-da52362a",
+    "title": "Leveret at Cecil Sharp House",
+    "start": "2026-10-01T19:30:00+01:00",
+    "end": "2026-10-01T21:30:00+01:00",
+    "venue": "Cecil Sharp House",
+    "address": "2 Regent's Park Road, NW1 7AY",
+    "url": "https://www.efdss.org/whats-on",
+    "source": "venue:cecil-sharp-house",
+    "tags": [
+      "music"
+    ],
+    "price": null,
+    "description": "English folk supergroup Leveret (Andy Cutting, Sam Sweeney, Rob Harbron) play their all-improvised instrumental trad. Same night as Oi Va Voi at EartH — pick one.",
+    "neighbourhood": "Primrose Hill",
+    "cycle_minutes": 32,
+    "added": "2026-08-11"
+  },
+  {
+    "id": "oi-va-voi-live-in-concert-cable-street-90-festival-aaba186a",
+    "title": "Oi Va Voi: Live in Concert — Cable Street 90 festival",
+    "start": "2026-10-01T21:00:00+01:00",
+    "end": "2026-10-01T22:30:00+01:00",
+    "venue": "EartH Theatre",
+    "address": "11-17 Stoke Newington Road, Dalston, N16 8BP",
+    "url": "https://bod.org.uk/cable-street-90/",
+    "source": "festival:cable-street-90",
+    "tags": [
+      "music",
+      "community"
+    ],
+    "price": "£22.50",
+    "description": "Klezmer/electronica band Oi Va Voi mark the 90th anniversary of the Battle of Cable Street, part of a festival of Jewish culture and solidarity in east London. Clashes with Leveret at CSH.",
+    "neighbourhood": "Dalston",
+    "cycle_minutes": 14,
+    "added": "2026-08-11"
+  },
+  {
+    "id": "supercharged-the-future-of-energy-materials-royal-institutio-5117c7e3",
+    "title": "Supercharged: the future of energy materials — Royal Institution",
+    "start": "2026-10-03T19:00:00+01:00",
+    "end": "2026-10-03T20:30:00+01:00",
+    "venue": "Royal Institution",
+    "address": "21 Albemarle Street, Mayfair, W1S 4BS",
+    "url": "https://www.rigb.org/whats-on/supercharged-future-energy-materials",
+    "source": "venue:royal-institution",
+    "tags": [
+      "talk"
+    ],
+    "price": "£16 (£10 concession)",
+    "description": "Ri talk on next-generation battery and energy-storage materials.",
+    "neighbourhood": "Mayfair",
+    "cycle_minutes": 35,
+    "added": "2026-08-11"
+  },
+  {
     "id": "alela-diane-at-earth-a93f5e7f",
     "title": "Alela Diane at EartH",
     "start": "2026-10-04T19:30:00+01:00",
@@ -4411,6 +4802,24 @@
     "added": "2026-08-09"
   },
   {
+    "id": "art-cure-the-science-of-how-the-arts-transform-our-health-eab15339",
+    "title": "Art cure: the science of how the arts transform our health",
+    "start": "2026-10-05T19:00:00+01:00",
+    "end": "2026-10-05T20:30:00+01:00",
+    "venue": "Royal Institution",
+    "address": "21 Albemarle Street, Mayfair, W1S 4BS",
+    "url": "https://www.rigb.org/whats-on/art-cure-science-how-arts-transform-our-health",
+    "source": "venue:royal-institution",
+    "tags": [
+      "talk"
+    ],
+    "price": "£16 (£10 concession)",
+    "description": "Monday Ri talk on the neuroscience and physiology of how art, music and creativity affect health.",
+    "neighbourhood": "Mayfair",
+    "cycle_minutes": 35,
+    "added": "2026-08-11"
+  },
+  {
     "id": "the-life-scientific-live-jim-al-khalili-interviews-chris-pac-44a40d17",
     "title": "The Life Scientific live: Jim Al-Khalili interviews Chris Packham",
     "start": "2026-10-06T19:00:00+01:00",
@@ -4448,6 +4857,24 @@
     "added": "2026-08-10"
   },
   {
+    "id": "simon-amstell-i-love-it-here-at-hackney-empire-cf08ebe8",
+    "title": "Simon Amstell: I Love It Here at Hackney Empire",
+    "start": "2026-10-09T19:30:00+01:00",
+    "end": null,
+    "venue": "Hackney Empire",
+    "address": "291 Mare Street, E8 1EJ",
+    "url": "https://www.hackneyempire.co.uk/events/simon-amstell-i-love-it-here",
+    "source": "venue:hackney-empire",
+    "tags": [
+      "comedy"
+    ],
+    "price": "£19-£28",
+    "description": "Simon Amstell's new stand-up show on love, shame and being alive, at the local grand old variety theatre.",
+    "neighbourhood": "Hackney Central",
+    "cycle_minutes": 12,
+    "added": "2026-08-11"
+  },
+  {
     "id": "new-scientist-live-2026-public-weekend-at-excel-59a46163",
     "title": "New Scientist Live 2026 (public weekend at ExCeL)",
     "start": "2026-10-10T10:00:00+01:00",
@@ -4483,6 +4910,24 @@
     "neighbourhood": "Primrose Hill",
     "cycle_minutes": 32,
     "added": "2026-08-09"
+  },
+  {
+    "id": "extraordinary-chemical-experiments-which-shaped-today-s-worl-7ec80583",
+    "title": "Extraordinary chemical experiments which shaped today's world — Andrew Szydlo",
+    "start": "2026-10-10T19:00:00+01:00",
+    "end": "2026-10-10T20:30:00+01:00",
+    "venue": "Royal Institution",
+    "address": "21 Albemarle Street, Mayfair, W1S 4BS",
+    "url": "https://www.rigb.org/whats-on/extraordinary-chemical-experiments-which-shaped-todays-world",
+    "source": "venue:royal-institution",
+    "tags": [
+      "talk"
+    ],
+    "price": "£16 (£10 concession)",
+    "description": "Cult chemistry showman Andrew Szydlo recreates history-shaping experiments live in the Ri theatre — his demo lectures reliably sell out.",
+    "neighbourhood": "Mayfair",
+    "cycle_minutes": 35,
+    "added": "2026-08-11"
   },
   {
     "id": "the-london-barndance-company-october-edition-e8916725",
@@ -4596,6 +5041,24 @@
     "added": "2026-08-08"
   },
   {
+    "id": "the-ancient-cosmos-the-james-webb-space-telescope-s-new-reve-682f4ac0",
+    "title": "The ancient cosmos: the James Webb Space Telescope's new revelations",
+    "start": "2026-10-17T19:00:00+01:00",
+    "end": "2026-10-17T20:30:00+01:00",
+    "venue": "Royal Institution",
+    "address": "21 Albemarle Street, Mayfair, W1S 4BS",
+    "url": "https://www.rigb.org/whats-on/ancient-cosmos-james-webb-space-telescopes-new-revelations",
+    "source": "venue:royal-institution",
+    "tags": [
+      "talk"
+    ],
+    "price": "£16 (£10 concession)",
+    "description": "Ri lecture on JWST's discoveries about the earliest galaxies and the deep universe.",
+    "neighbourhood": "Mayfair",
+    "cycle_minutes": 35,
+    "added": "2026-08-11"
+  },
+  {
     "id": "brown-horse-at-moth-club-05aae99c",
     "title": "Brown Horse at MOTH Club",
     "start": "2026-10-22T19:30:00+01:00",
@@ -4652,6 +5115,24 @@
     "added": "2026-08-10"
   },
   {
+    "id": "global-fusion-developments-the-race-for-power-royal-institut-11bb4f89",
+    "title": "Global fusion developments: the race for power — Royal Institution",
+    "start": "2026-10-26T19:00:00+00:00",
+    "end": "2026-10-26T20:30:00+00:00",
+    "venue": "Royal Institution",
+    "address": "21 Albemarle Street, Mayfair, W1S 4BS",
+    "url": "https://www.rigb.org/whats-on/global-fusion-developments-race-power",
+    "source": "venue:royal-institution",
+    "tags": [
+      "talk"
+    ],
+    "price": "£16 (£10 concession)",
+    "description": "Monday Ri talk surveying the worldwide race to commercial fusion energy.",
+    "neighbourhood": "Mayfair",
+    "cycle_minutes": 35,
+    "added": "2026-08-11"
+  },
+  {
     "id": "training-ground-4-day-contact-improvisation-intensive-rick-n-bd8ce8ed",
     "title": "TRAINING GROUND — 4-day contact improvisation intensive (Rick Nodine)",
     "start": "2026-10-29T10:00:00+00:00",
@@ -4669,5 +5150,23 @@
     "neighbourhood": "Tufnell Park",
     "cycle_minutes": 35,
     "added": "2026-08-09"
+  },
+  {
+    "id": "goblin-band-follia-4-folky-halloween-at-cecil-sharp-house-72a18002",
+    "title": "Goblin Band + Follia 4 — folky Halloween at Cecil Sharp House",
+    "start": "2026-10-31T19:30:00+00:00",
+    "end": "2026-10-31T21:30:00+00:00",
+    "venue": "Cecil Sharp House",
+    "address": "2 Regent's Park Road, NW1 7AY",
+    "url": "https://www.efdss.org/whats-on",
+    "source": "venue:cecil-sharp-house",
+    "tags": [
+      "music"
+    ],
+    "price": null,
+    "description": "Young trad-revival favourites Goblin Band headline a folky Halloween celebration with support from Follia 4.",
+    "neighbourhood": "Primrose Hill",
+    "cycle_minutes": 32,
+    "added": "2026-08-11"
   }
 ]

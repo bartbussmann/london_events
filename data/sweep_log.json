@@ -1,5 +1,11 @@
 [
   {
+    "ran_at": "2026-08-11T07:45:00+01:00",
+    "added": 27,
+    "considered": 300,
+    "notes": "Spares-verification + fast-source refresh. Added 27: all 7 remaining Ri autumn talks individually verified (underground ecosystems 7 Sep, birds 26 Sep, energy materials 3 Oct, art-and-health 5 Oct, Szydlo chemistry spectacular 10 Oct, JWST 17 Oct, fusion 26 Oct — all £16/£10); CSH folk trio (Le Vent du Nord 24 Sep, Leveret 1 Oct, Goblin Band Halloween 31 Oct); Oi Va Voi Cable Street 90 at EartH 1 Oct (clashes Leveret — noted both ways); Simon Amstell 9 Oct; QUARTET improv weekend 19-20 Sep (£100-120 flagged exception); vocal improv day 27 Sep; apple pressing + conkers 26 Sep; DICE new announcements — Romesh Ranganathan WIP at MOTH 1 Sep (standout, will go fast), £5 OBL bill 21 Aug, FREE Sebright all-dayer 'Reading and Leeds (but better)' 22 Aug, free OBL Sunday matinee 30 Aug; Thursday x4 (30+ quiz 17 Aug w/ date-check note, comedy night 21 Aug, BH volleyball 31 Aug, Oche darts 2 Sep); Sunset Sessions return 14+15 Aug; Song Circle Plot 9 6 Sep; Darren Le Baron ancestors talk at Love Shack 9 Sep. SKIPPED: DIY Alive 3 Oct (date confirmed, start time unpublished — EartH site behind Shield captcha, add when time appears); Kensal Rise tacos social (too far west); Ben Watt & Tracey Thorn MOTH — ALL nights sold out (resale watch). ACX: still unannounced as of 11 Aug, recheck ~24 Aug. Spare DICE gigs logged by scout: Charlie Kilgore SJQ 7 Sep, Deeper Into Movies bday MOTH 6 Sep £10, scouts OBL 1 Oct free, Pedestrian Band OBL 13 Oct free, Vision Fortune Shacklewell 14 Oct free, Painting Shacklewell 29 Oct free, LA WOMEN Victoria 28 Aug."
+  },
+  {
     "ran_at": "2026-08-10T07:40:00+01:00",
     "added": 18,
     "considered": 400,
@@ -172,11 +178,5 @@
     "added": 3,
     "considered": 34,
     "notes": "Daily sweep. ICS: 1 new LISA talk auto-imported (Andrew Draganov on AGI, 20 Jul). Scout added: Sunset Sessions 31 Jul edition, altered-states poetry workshop in Hackney Wick (18 Aug). Caught 3 duplicates the scout resurfaced (Thought Experiments 21 Jul, Land & Belonging, Carhart-Harris). Source issues: MOTH Club 503, Sebright Arms listings not rendering — gig circuit needs a retry tomorrow; Newspeak's Luma handle is luma.com/newspeak-house (not /newspeakhouse). No new 5Rhythms workshops, supper clubs or folk nights verified; AISB and PauseCon fall after 20 Aug — will enter the window later."
-  },
-  {
-    "ran_at": "2026-07-13T07:35:00+01:00",
-    "added": 6,
-    "considered": 21,
-    "notes": "Daily sweep, window extending into August. ICS: 0 new; 13 past events pruned (part 1). Added: Luminous conscious dance at Sanctuary &Soul (Sat, 3 min), PsySoc speed-friending + psychedelic storytelling at Love Shack, two August Ceroc freestyles (6-hour 50:50 at King's Cross; BIG SILC South Ken), Uyen Luu August sitting, August Shoreditch speed dating. Deliberate omissions: JOYN Temple (£85+ tantric-leaning, experience prerequisites — borderline, flag if wanted); Shroomshop PRO (near-duplicate). Ceroc 'Party of the Year' still undated — not in event finder through Oct; retry later. No LessWrong/ACX August events posted yet; AIT/ML safety symposium 27-29 Jul is in Oxford (outside London)."
   }
 ]
