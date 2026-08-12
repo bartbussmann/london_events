@@ -5,89 +5,6 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:London Events
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
-UID:thursday-singles-museum-walk-and-lunch-at-the-v-a-39040b5f@london-even
- ts
-DTSTAMP:20260809T100000Z
-DTSTART:20260809T100000Z
-DTEND:20260809T130000Z
-SUMMARY:Thursday: Singles Museum Walk and Lunch at the V&A
-DESCRIPTION:Hosted singles-only stroll through the V&A followed by group l
- unch nearby — small group\, conversation-first Sunday format. Far west:
-  tube beats bike for this one.\nhttps://www.thursday.com/events/london/86
- 60aa64-ee59-430b-9f25-899c9eee6ee0
-URL:https://www.thursday.com/events/london/8660aa64-ee59-430b-9f25-899c9ee
- e6ee0
-LOCATION:V&A Museum (meet outside main entrance)\, Cromwell Road\, South K
- ensington SW7
-END:VEVENT
-BEGIN:VEVENT
-UID:canalside-sessions-pharoah-russell-quartet-at-grow-a82c731a@london-eve
- nts
-DTSTAMP:20260809T120000Z
-DTSTART:20260809T120000Z
-DTEND:20260809T150000Z
-SUMMARY:Canalside Sessions: Pharoah Russell Quartet at Grow
-DESCRIPTION:Free Sunday-afternoon live jazz by the canal at Hackney Wick's
-  Grow\, this week featuring the Pharoah Russell Quartet.\nPrice: Free\nht
- tps://www.growhackney.co.uk/events-calendar
-URL:https://www.growhackney.co.uk/events-calendar
-LOCATION:Grow Hackney\, Main Yard\, 98c Wallis Road\, Hackney Wick\, E9 5L
- N
-END:VEVENT
-BEGIN:VEVENT
-UID:thursday-30-cocktails-singles-at-fonda-9d1a6686@london-events
-DTSTAMP:20260809T130000Z
-DTSTART:20260809T130000Z
-DTEND:20260809T170000Z
-SUMMARY:Thursday: 30+ Cocktails & Singles at Fonda
-DESCRIPTION:Sunday-afternoon mixed singles session for 30+ at Mexican rest
- aurant-bar Fonda — cocktails and a daytime\, conversation-first format.
- \nPrice: £12-25\nhttps://www.thursday.com/events/london/0b998088-f735-44
- 61-a727-1575c384838d
-URL:https://www.thursday.com/events/london/0b998088-f735-4461-a727-1575c38
- 4838d
-LOCATION:Fonda\, 12 Heddon St\, W1B 4BZ
-END:VEVENT
-BEGIN:VEVENT
-UID:garden-gigs-at-the-victoria-9-aug-ac687dc2@london-events
-DTSTAMP:20260809T140000Z
-DTSTART:20260809T140000Z
-DTEND:20260809T170000Z
-SUMMARY:Garden Gigs at The Victoria — 9 Aug
-DESCRIPTION:Free Sunday-afternoon garden session: Duck Wax + Highstone + P
- ushchair.\nPrice: Free\nhttps://dice.fm/event/l8k59x-garden-gigs-duck-wax
- -highstone-pushchair-9th-aug-the-victoria-london-tickets
-URL:https://dice.fm/event/l8k59x-garden-gigs-duck-wax-highstone-pushchair-
- 9th-aug-the-victoria-london-tickets
-LOCATION:The Victoria (garden)\, 451 Queensbridge Rd\, E8 3AS
-END:VEVENT
-BEGIN:VEVENT
-UID:heart-cacao-ceremonial-cacao-breathwork-sound-57046cb7@london-events
-DTSTAMP:20260809T143000Z
-DTSTART:20260809T143000Z
-DTEND:20260809T170000Z
-SUMMARY:Heart & Cacao — ceremonial cacao\, breathwork & sound
-DESCRIPTION:Sunday-afternoon ceremonial gathering with Peruvian/Ghanaian c
- acao\, breathwork\, EFT tapping\, sound healing and a sharing circle. Ope
- n to all\, in a small Hackney studio.\nPrice: £28-£30\nhttps://dandelio
- n.events/e/t9a2e
-URL:https://dandelion.events/e/t9a2e
-LOCATION:Studio Iris\, 61 Amhurst Road\, E8
-END:VEVENT
-BEGIN:VEVENT
-UID:sunday-jazz-at-the-old-blue-last-free-9-aug-78369763@london-events
-DTSTAMP:20260809T180000Z
-DTSTART:20260809T180000Z
-DTEND:20260809T200000Z
-SUMMARY:Sunday Jazz at The Old Blue Last (free) — 9 Aug
-DESCRIPTION:Free weekly Sunday-evening jazz session at the Old Blue Last.\
- nPrice: Free\nhttps://dice.fm/event/l8kblr-sunday-jazz-9th-aug-the-old-bl
- ue-last-london-tickets
-URL:https://dice.fm/event/l8kblr-sunday-jazz-9th-aug-the-old-blue-last-lon
- don-tickets
-LOCATION:The Old Blue Last\, 38 Great Eastern St\, EC2A 3ES
-END:VEVENT
-BEGIN:VEVENT
 UID:monday-ping-pong-social-bounce-battersea-1d6c8479@london-events
 DTSTAMP:20260810T170000Z
 DTSTART:20260810T170000Z
@@ -908,6 +825,17 @@ DESCRIPTION:Vermont indie/alt-country songwriter Greg Freeman\; first of t
 URL:https://dice.fm/event/nvdwlq-greg-freeman-18th-aug-moth-club-london-ti
  ckets
 LOCATION:MOTH Club\, Old Trades Hall\, Valette Street\, E9 6NU
+END:VEVENT
+BEGIN:VEVENT
+UID:ics-77d904ad7ce2@london-events
+DTSTAMP:20260819T170000Z
+DTSTART:20260819T170000Z
+DTEND:20260819T183000Z
+SUMMARY:Scaling the AI Safety Frontier: LISA Grantmaking Panel
+DESCRIPTION:Panel on funding the AI safety field — LISA grantmaking disc
+ ussion. Starts 18:00 London.\nhttps://luma.com/ttv6yvvx
+URL:https://luma.com/ttv6yvvx
+LOCATION:LISA\, 25 Holywell Row\, 25 Holywell Row\, EC2A 4XE
 END:VEVENT
 BEGIN:VEVENT
 UID:farewell-transmission-a-celebration-of-jason-molina-812d0a20@london-ev
