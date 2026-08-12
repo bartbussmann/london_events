@@ -1,5 +1,11 @@
 [
   {
+    "ran_at": "2026-08-12T07:45:00+01:00",
+    "added": 14,
+    "considered": 140,
+    "notes": "Social-formats + hands-on-classes pass (new angle). Added 14: Knight Club free weekly chess at Café 1001 Brick Lane (Tuesdays, ~300 players, 6 min away — confirm on Instagram); Moth Mainstage at QEH 9 Sep (£41); Spark storytelling open mic 7 Oct (Brixton trek); Draughts board-game speed dating 17 Aug (25-38) + free 20s/30s board games afternoon 23 Aug (waitlisted); life drawing attic season opener 8 Sep + Roebuck Borough 9 Sep; Migrateful Tajik 21 Aug (£60) + Omani 2 Sep (£50) — found their events REST API (migrateful.org/wp-json/tribe/events/v1/events); Barbican sound-forensics panel 26 Sep; M.C. Escher final fortnight (until 6 Sep, daily timed entry); Wilton's silent films w/ live scores (Caligari 6 Oct, Safety Last! 9 Oct); Ecstatic Saturdays AUTUMN OPENER 26 Sep (watchlist resolved; Cacao Dance Tribe 25 Sep same venue). ICS: kept LISA grantmaking panel 19 Aug (18:00 start passes), suppressed 17:00 CLR talk. DEAD/EMPTY: Natural Born Storytellers dormant (site stops Dec 2024, Meetup deleted); ceramics tasters still dateless (Crown Works Pottery in BG worth a dedicated headless pass; Clay Time £68 over budget; Stepney pottery 404); Ceroc finder is a JS map — no new east nights. Barbican spares: Bessel van der Kolk 2 Nov SOLD OUT (waitlist via HTA), Nick Park 14 Oct no time, Blindboy 26 Oct. Wilton's spares: Pepys INCENDIARY 7-8 Oct, Private Peaceful 21-23 Sep. Moth StorySLAM tickets release ~3 weeks ahead — recheck. Draughts own social Mondays undated."
+  },
+  {
     "ran_at": "2026-08-11T07:45:00+01:00",
     "added": 27,
     "considered": 300,
@@ -172,11 +178,5 @@
     "added": 6,
     "considered": 51,
     "notes": "Daily sweep, gig-circuit retry via DICE (venue sites were down yesterday). ICS: 1 LISA import dropped (Paper Club, Wed 16:00 — violates weekday-18:00 rule); 11 past pruned. Added: free Sunday Garden Gigs at The Victoria (weekly series), Lau Ro psych-folk at SJQ, MOTH Club speed dating + karaoke (5 Aug), two MOTH folk/country gigs (Silverstein 13 Aug, Freeman 18 Aug), Jahnavi Harrison kirtan at Union Chapel (22 Aug). Skipped to stay in cap: CLAMM, Friko, AMO AMO, Stanford Family Band, East London Block Party. Intel: Cafe OTO has no DICE page (check cafeoto.co.uk directly); Green Note/Cecil Sharp House need a dedicated pass; no London Alexander Technique workshops in window."
-  },
-  {
-    "ran_at": "2026-07-14T07:40:00+01:00",
-    "added": 3,
-    "considered": 34,
-    "notes": "Daily sweep. ICS: 1 new LISA talk auto-imported (Andrew Draganov on AGI, 20 Jul). Scout added: Sunset Sessions 31 Jul edition, altered-states poetry workshop in Hackney Wick (18 Aug). Caught 3 duplicates the scout resurfaced (Thought Experiments 21 Jul, Land & Belonging, Carhart-Harris). Source issues: MOTH Club 503, Sebright Arms listings not rendering — gig circuit needs a retry tomorrow; Newspeak's Luma handle is luma.com/newspeak-house (not /newspeakhouse). No new 5Rhythms workshops, supper clubs or folk nights verified; AISB and PauseCon fall after 20 Aug — will enter the window later."
   }
 ]

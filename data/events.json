@@ -952,6 +952,24 @@
     "added": "2026-08-11"
   },
   {
+    "id": "games-themed-speed-dating-at-draughts-waterloo-ages-25-38-208e1ccf",
+    "title": "Games Themed Speed Dating at Draughts Waterloo (ages 25-38)",
+    "start": "2026-08-17T19:15:00+01:00",
+    "end": "2026-08-17T21:15:00+01:00",
+    "venue": "Draughts Board Game Café, Waterloo",
+    "address": "Arch 16, Leake Street, SE1 7NN",
+    "url": "https://www.meetup.com/its-a-date-singles-events/events/315887627/",
+    "source": "aggregator:meetup",
+    "tags": [
+      "community"
+    ],
+    "price": "£18.99",
+    "description": "Mixed speed dating built around quick tabletop games at London's original board-game café — icebreakers instead of small talk. A 21 Sep edition also exists.",
+    "neighbourhood": "Waterloo",
+    "cycle_minutes": 30,
+    "added": "2026-08-12"
+  },
+  {
     "title": "Friko at MOTH Club",
     "start": "2026-08-17T19:30:00+01:00",
     "end": null,
@@ -1023,6 +1041,24 @@
     "cycle_minutes": 14,
     "id": "words-from-the-other-side-poetry-as-a-practice-for-altered-s-65debca2",
     "added": "2026-07-14"
+  },
+  {
+    "id": "knight-club-free-chess-night-at-caf-1001-5dd203de",
+    "title": "Knight Club — free chess night at Café 1001",
+    "start": "2026-08-18T18:30:00+01:00",
+    "end": "2026-08-18T23:30:00+01:00",
+    "venue": "Café 1001, Truman Brewery",
+    "address": "91 Brick Lane, E1 6QL",
+    "url": "https://www.trumanbrewery.com/web/nightlife.pl?wtID=2289",
+    "source": "keyword-search",
+    "tags": [
+      "community"
+    ],
+    "price": "Free",
+    "description": "Weekly Tuesday chess social drawing ~300 players — boards on every table, DJ sets, all levels. Runs every Tuesday; confirm on @knightclubchess before travelling.",
+    "neighbourhood": "Brick Lane",
+    "cycle_minutes": 6,
+    "added": "2026-08-12"
   },
   {
     "id": "aerial-relaxation-pods-sound-journey-in-hammocks-5706ee40",
@@ -1397,6 +1433,25 @@
     "added": "2026-07-20"
   },
   {
+    "id": "tajik-cookery-class-with-akbar-migrateful-d38e23f6",
+    "title": "Tajik Cookery Class with Akbar (Migrateful)",
+    "start": "2026-08-21T18:15:00+01:00",
+    "end": null,
+    "venue": "Migrateful Cookery School",
+    "address": "Corporation Row, Clerkenwell, EC1R 0DR",
+    "url": "https://www.migrateful.org/event/tajik-cookery-class-with-akbar-london-cookery-school-13/",
+    "source": "venue:migrateful",
+    "tags": [
+      "food",
+      "class"
+    ],
+    "price": "£60",
+    "description": "Hands-on Tajik cookery evening led by chef Akbar — a cuisine you won't find elsewhere in London, eaten together at the end. Also runs 31 Aug and 5 Sep.",
+    "neighbourhood": "Clerkenwell",
+    "cycle_minutes": 15,
+    "added": "2026-08-12"
+  },
+  {
     "title": "Shamanic Breathwork Journey — Release, Heal, Receive",
     "start": "2026-08-21T18:30:00+01:00",
     "end": "2026-08-21T21:00:00+01:00",
@@ -1525,6 +1580,24 @@
     "cycle_minutes": 14,
     "id": "forage-and-meditate-on-london-canals-august-edition-ef329a80",
     "added": "2026-07-18"
+  },
+  {
+    "id": "m-c-escher-the-exhibition-final-fortnight-until-6-sep-fd96676a",
+    "title": "M.C. Escher. The Exhibition — final fortnight (until 6 Sep)",
+    "start": "2026-08-22T10:00:00+01:00",
+    "end": null,
+    "venue": "Embankment Galleries, Somerset House",
+    "address": "Strand, WC2R 1LA",
+    "url": "https://www.somersethouse.org.uk/whats-on/mc-escher-the-exhibition",
+    "source": "venue:somerset-house",
+    "tags": [
+      "art"
+    ],
+    "price": "from £16.50",
+    "description": "150+ works of impossible geometry and metamorphosis — closes 6 Sep, open daily 10am-8pm; a weekday evening slot dodges the weekend queues. Listed here on a suggested Saturday; any date before 6 Sep works.",
+    "neighbourhood": "Strand",
+    "cycle_minutes": 25,
+    "added": "2026-08-12"
   },
   {
     "title": "Council Data Hack Day (Campaign Lab)",
@@ -1696,6 +1769,24 @@
     "cycle_minutes": 14,
     "id": "garden-gigs-at-the-victoria-23-aug-dc09ca2a",
     "added": "2026-07-30"
+  },
+  {
+    "id": "free-board-games-afternoon-london-20s-30s-aed53b9c",
+    "title": "Free Board Games Afternoon — London 20s & 30s",
+    "start": "2026-08-23T16:00:00+01:00",
+    "end": "2026-08-23T20:00:00+01:00",
+    "venue": "The Thirsty Bear",
+    "address": "62 Stamford Street, SE1 9LX",
+    "url": "https://www.meetup.com/london-friendship-project/events/316062252/",
+    "source": "aggregator:meetup",
+    "tags": [
+      "community"
+    ],
+    "price": "Free",
+    "description": "Sunday-afternoon board games social run by The Great Friendship Project for 20s/30s — designed for coming solo. Currently waitlisted; join the list and spots usually churn.",
+    "neighbourhood": "South Bank",
+    "cycle_minutes": 28,
+    "added": "2026-08-12"
   },
   {
     "title": "Sunday Jazz at The Old Blue Last (free) — 23 Aug",
@@ -2415,6 +2506,25 @@
     "added": "2026-08-02"
   },
   {
+    "id": "omani-cookery-class-with-hani-migrateful-pop-up-2322d60d",
+    "title": "Omani Cookery Class with Hani (Migrateful pop-up)",
+    "start": "2026-09-02T18:15:00+01:00",
+    "end": null,
+    "venue": "Migrateful pop-up, Islington",
+    "address": "Risinghill Street, N1 9QG",
+    "url": "https://www.migrateful.org/event/omani-cookery-class-with-hani-london-pop-up-17/",
+    "source": "venue:migrateful",
+    "tags": [
+      "food",
+      "class"
+    ],
+    "price": "£50",
+    "description": "Cook a full Omani feast with chef Hani at Migrateful's Angel pop-up kitchen, then eat together.",
+    "neighbourhood": "Angel",
+    "cycle_minutes": 18,
+    "added": "2026-08-12"
+  },
+  {
     "id": "psychedelic-speed-dating-at-the-sanctuary-soul-682cfbcf",
     "title": "Psychedelic Speed-Dating at The Sanctuary &Soul",
     "start": "2026-09-02T18:30:00+01:00",
@@ -3081,6 +3191,25 @@
     "added": "2026-08-07"
   },
   {
+    "id": "life-drawing-in-the-attic-september-season-opener-aa523d53",
+    "title": "Life Drawing in the attic — September season opener",
+    "start": "2026-09-08T19:00:00+01:00",
+    "end": null,
+    "venue": "Hackney Picturehouse (attic)",
+    "address": "270 Mare Street, E8 1HE",
+    "url": "https://lifedrawing.art/",
+    "source": "venue:lifedrawing-attic",
+    "tags": [
+      "art",
+      "class"
+    ],
+    "price": "£12.50 advance / £15 door",
+    "description": "The Tuesday attic drop-in returns after its late-summer break: sessions 8/15/22/29 Sep with a different tutor each week. Materials provided; start time carried from August listings — confirm on the site.",
+    "neighbourhood": "Hackney Central",
+    "cycle_minutes": 12,
+    "added": "2026-08-12"
+  },
+  {
     "title": "Rostam at Village Underground",
     "start": "2026-09-08T19:30:00+01:00",
     "end": "2026-09-08T23:00:00+01:00",
@@ -3172,6 +3301,25 @@
     "added": "2026-08-10"
   },
   {
+    "id": "life-drawing-in-borough-at-the-roebuck-2fe1ceed",
+    "title": "Life Drawing in Borough at The Roebuck",
+    "start": "2026-09-09T19:00:00+01:00",
+    "end": "2026-09-09T21:00:00+01:00",
+    "venue": "The Roebuck",
+    "address": "50 Great Dover Street, SE1 4YG",
+    "url": "https://www.eventbrite.co.uk/e/life-drawing-in-borough-at-the-roebuck-tickets-1994804057635",
+    "source": "aggregator:eventbrite",
+    "tags": [
+      "art",
+      "class"
+    ],
+    "price": "£16",
+    "description": "Relaxed pub life-drawing session — all levels, basic materials provided, drink in hand. Doors 6:50pm.",
+    "neighbourhood": "Borough",
+    "cycle_minutes": 25,
+    "added": "2026-08-12"
+  },
+  {
     "title": "Fire Fire — new play at Arcola (opening night)",
     "start": "2026-09-09T19:30:00+01:00",
     "end": "2026-09-09T20:50:00+01:00",
@@ -3188,6 +3336,25 @@
     "cycle_minutes": 14,
     "id": "fire-fire-new-play-at-arcola-opening-night-7faaf5bf",
     "added": "2026-08-02"
+  },
+  {
+    "id": "the-moth-mainstage-tightrope-6f8134e9",
+    "title": "The Moth Mainstage: Tightrope",
+    "start": "2026-09-09T20:00:00+01:00",
+    "end": null,
+    "venue": "Queen Elizabeth Hall, Southbank Centre",
+    "address": "Belvedere Road, London SE1 8XX",
+    "url": "https://www.southbankcentre.co.uk/whats-on/the-moth-mainstage-tightrope/",
+    "source": "keyword-search",
+    "tags": [
+      "talk",
+      "community"
+    ],
+    "price": "from £41",
+    "description": "The Moth's flagship true-storytelling night comes to London: five tellers, live music, theme 'Tightrope' — moments when life hangs in the balance.",
+    "neighbourhood": "South Bank",
+    "cycle_minutes": 28,
+    "added": "2026-08-12"
   },
   {
     "id": "how-geography-explains-our-world-tim-marshall-bb19f43d",
@@ -4371,6 +4538,25 @@
     "added": "2026-08-11"
   },
   {
+    "id": "lawrence-abu-hamdan-the-crack-and-the-boom-6e2a94ea",
+    "title": "Lawrence Abu Hamdan: The Crack and the Boom",
+    "start": "2026-09-26T16:30:00+01:00",
+    "end": null,
+    "venue": "Cinema 1, Barbican Centre",
+    "address": "Silk Street, EC2Y 8DS",
+    "url": "https://www.barbican.org.uk/whats-on/2026/event/lawrence-abu-hamdan-the-crack-and-the-boom",
+    "source": "venue:barbican",
+    "tags": [
+      "talk",
+      "art"
+    ],
+    "price": "£15.50",
+    "description": "Panel of artists, researchers and investigators on sound as forensic evidence — what listening can prove about violence and conflict. Saturday 4:30pm; pairs with Ecstatic Saturdays that evening.",
+    "neighbourhood": "Barbican",
+    "cycle_minutes": 15,
+    "added": "2026-08-12"
+  },
+  {
     "id": "the-story-of-birds-from-the-jurassic-to-today-royal-institut-5d37c59f",
     "title": "The story of birds: from the Jurassic to today — Royal Institution",
     "start": "2026-09-26T19:00:00+01:00",
@@ -4387,6 +4573,25 @@
     "neighbourhood": "Mayfair",
     "cycle_minutes": 35,
     "added": "2026-08-11"
+  },
+  {
+    "id": "ecstatic-saturdays-tufnell-park-autumn-opener-28005c42",
+    "title": "Ecstatic Saturdays — Tufnell Park (autumn opener)",
+    "start": "2026-09-26T19:00:00+01:00",
+    "end": "2026-09-26T21:45:00+01:00",
+    "venue": "Ecstatic Dance London venue, Burghley Road",
+    "address": "Burghley Road, Tufnell Park, NW5",
+    "url": "https://ecstaticdancelondon.com/events/",
+    "source": "venue:ecstatic-dance-london",
+    "tags": [
+      "dance",
+      "community"
+    ],
+    "price": "Ticketed via Eventbrite",
+    "description": "First autumn Ecstatic Saturdays date: barefoot ecstatic dance 7-9:45pm followed by a fruit social — two minutes from Tufnell Park station. Cacao Dance Tribe runs the night before at the same venue.",
+    "neighbourhood": "Tufnell Park",
+    "cycle_minutes": 30,
+    "added": "2026-08-12"
   },
   {
     "id": "tellison-at-moth-club-cbe7ec78",
@@ -4743,6 +4948,44 @@
     "added": "2026-08-10"
   },
   {
+    "id": "the-cabinet-of-dr-caligari-1920-with-live-score-at-wilton-s-843dedaf",
+    "title": "The Cabinet of Dr Caligari (1920) with live score at Wilton's",
+    "start": "2026-10-06T19:00:00+01:00",
+    "end": null,
+    "venue": "Wilton's Music Hall",
+    "address": "1 Graces Alley, E1 8JB",
+    "url": "https://wiltons.org.uk/whats-on/",
+    "source": "venue:wiltons",
+    "tags": [
+      "film",
+      "music"
+    ],
+    "price": null,
+    "description": "The silent German-expressionist horror classic screened with a live score in the world's oldest surviving music hall — limited availability.",
+    "neighbourhood": "Whitechapel",
+    "cycle_minutes": 10,
+    "added": "2026-08-12"
+  },
+  {
+    "id": "spark-storytelling-open-mic-haunted-148d5b01",
+    "title": "Spark Storytelling Open Mic — 'Haunted'",
+    "start": "2026-10-07T19:30:00+01:00",
+    "end": null,
+    "venue": "Upstairs at The Ritzy (Picturehouse)",
+    "address": "Brixton Oval, Coldharbour Lane, SW2 1JG",
+    "url": "https://www.picturehouses.com/movie-details/000/HO00010004/spark-storytelling-open-mic",
+    "source": "keyword-search",
+    "tags": [
+      "talk",
+      "community"
+    ],
+    "price": "£5",
+    "description": "Britain's first true-storytelling club: open-mic true stories on the theme 'Haunted' — sign up on the night or just listen. Brixton is a trek: Victoria line beats bike.",
+    "neighbourhood": "Brixton",
+    "cycle_minutes": 45,
+    "added": "2026-08-12"
+  },
+  {
     "id": "wifi-wars-debug-xxii-interactive-comedy-game-show-8c36d57e",
     "title": "WiFi Wars Debug XXII — interactive comedy game show",
     "start": "2026-10-09T19:00:00+01:00",
@@ -4760,6 +5003,25 @@
     "neighbourhood": "Mayfair",
     "cycle_minutes": 35,
     "added": "2026-08-10"
+  },
+  {
+    "id": "harold-lloyd-s-safety-last-1923-with-live-score-at-wilton-s-d488780f",
+    "title": "Harold Lloyd's Safety Last! (1923) with live score at Wilton's",
+    "start": "2026-10-09T19:00:00+01:00",
+    "end": null,
+    "venue": "Wilton's Music Hall",
+    "address": "1 Graces Alley, E1 8JB",
+    "url": "https://wiltons.org.uk/whats-on/",
+    "source": "venue:wiltons",
+    "tags": [
+      "film",
+      "music"
+    ],
+    "price": null,
+    "description": "Harold Lloyd's clock-dangling silent comedy with live musical accompaniment in the candlelit music hall.",
+    "neighbourhood": "Whitechapel",
+    "cycle_minutes": 10,
+    "added": "2026-08-12"
   },
   {
     "id": "simon-amstell-i-love-it-here-at-hackney-empire-cf08ebe8",

@@ -729,6 +729,21 @@ URL:https://www.thursday.com/events/london/ea3fc2be-eac8-4e58-a6c9-767bed8
 LOCATION:21Soho\, Soho\, W1
 END:VEVENT
 BEGIN:VEVENT
+UID:games-themed-speed-dating-at-draughts-waterloo-ages-25-38-208e1ccf@lon
+ don-events
+DTSTAMP:20260817T181500Z
+DTSTART:20260817T181500Z
+DTEND:20260817T201500Z
+SUMMARY:Games Themed Speed Dating at Draughts Waterloo (ages 25-38)
+DESCRIPTION:Mixed speed dating built around quick tabletop games at London
+ 's original board-game café — icebreakers instead of small talk. A 21 
+ Sep edition also exists.\nPrice: £18.99\nhttps://www.meetup.com/its-a-da
+ te-singles-events/events/315887627/
+URL:https://www.meetup.com/its-a-date-singles-events/events/315887627/
+LOCATION:Draughts Board Game Café\, Waterloo\, Arch 16\, Leake Street\, S
+ E1 7NN
+END:VEVENT
+BEGIN:VEVENT
 UID:friko-at-moth-club-d965bd89@london-events
 DTSTAMP:20260817T183000Z
 DTSTART:20260817T183000Z
@@ -781,6 +796,19 @@ DESCRIPTION:Hands-on two-hour writing workshop with Ryan Khan using ground
  ncluded.\nPrice: £15-£35 (tiered)\nhttps://dandelion.events/e/x0hb2
 URL:https://dandelion.events/e/x0hb2
 LOCATION:The Bungalow\, Hackney Wick
+END:VEVENT
+BEGIN:VEVENT
+UID:knight-club-free-chess-night-at-caf-1001-5dd203de@london-events
+DTSTAMP:20260818T173000Z
+DTSTART:20260818T173000Z
+DTEND:20260818T223000Z
+SUMMARY:Knight Club — free chess night at Café 1001
+DESCRIPTION:Weekly Tuesday chess social drawing ~300 players — boards on
+  every table\, DJ sets\, all levels. Runs every Tuesday\; confirm on @kni
+ ghtclubchess before travelling.\nPrice: Free\nhttps://www.trumanbrewery.c
+ om/web/nightlife.pl?wtID=2289
+URL:https://www.trumanbrewery.com/web/nightlife.pl?wtID=2289
+LOCATION:Café 1001\, Truman Brewery\, 91 Brick Lane\, E1 6QL
 END:VEVENT
 BEGIN:VEVENT
 UID:aerial-relaxation-pods-sound-journey-in-hammocks-5706ee40@london-event
@@ -1062,6 +1090,21 @@ URL:https://dandelion.events/e/c2lpo
 LOCATION:Unit 12\, 2-16 Bayford Street\, Bayford Street\, E8 3SE
 END:VEVENT
 BEGIN:VEVENT
+UID:tajik-cookery-class-with-akbar-migrateful-d38e23f6@london-events
+DTSTAMP:20260821T171500Z
+DTSTART:20260821T171500Z
+DTEND:20260821T191500Z
+SUMMARY:Tajik Cookery Class with Akbar (Migrateful)
+DESCRIPTION:Hands-on Tajik cookery evening led by chef Akbar — a cuisine
+  you won't find elsewhere in London\, eaten together at the end. Also run
+ s 31 Aug and 5 Sep.\nPrice: £60\nhttps://www.migrateful.org/event/tajik-
+ cookery-class-with-akbar-london-cookery-school-13/
+URL:https://www.migrateful.org/event/tajik-cookery-class-with-akbar-london
+ -cookery-school-13/
+LOCATION:Migrateful Cookery School\, Corporation Row\, Clerkenwell\, EC1R 
+ 0DR
+END:VEVENT
+BEGIN:VEVENT
 UID:shamanic-breathwork-journey-release-heal-receive-197fcd4a@london-event
  s
 DTSTAMP:20260821T173000Z
@@ -1155,6 +1198,21 @@ DESCRIPTION:Guided mindful foraging walk with the Barefoot Forager along t
  ://dandelion.events/e/n4h43
 URL:https://dandelion.events/e/n4h43
 LOCATION:Hackney Wick canalside (meet near station)\, Hackney Wick
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c-escher-the-exhibition-final-fortnight-until-6-sep-fd96676a@london-
+ events
+DTSTAMP:20260822T090000Z
+DTSTART:20260822T090000Z
+DTEND:20260822T110000Z
+SUMMARY:M.C. Escher. The Exhibition — final fortnight (until 6 Sep)
+DESCRIPTION:150+ works of impossible geometry and metamorphosis — closes
+  6 Sep\, open daily 10am-8pm\; a weekday evening slot dodges the weekend 
+ queues. Listed here on a suggested Saturday\; any date before 6 Sep works
+ .\nPrice: from £16.50\nhttps://www.somersethouse.org.uk/whats-on/mc-esch
+ er-the-exhibition
+URL:https://www.somersethouse.org.uk/whats-on/mc-escher-the-exhibition
+LOCATION:Embankment Galleries\, Somerset House\, Strand\, WC2R 1LA
 END:VEVENT
 BEGIN:VEVENT
 UID:council-data-hack-day-campaign-lab-eb0a8ba6@london-events
@@ -1278,6 +1336,19 @@ DESCRIPTION:Free Sunday-afternoon garden session: Squid Shed + The Home Se
 URL:https://dice.fm/event/ry8qqv-garden-gigs-squid-shed-the-home-service-s
  ilver-tabby-23rd-aug-the-victoria-london-tickets
 LOCATION:The Victoria (garden)\, 451 Queensbridge Rd\, E8 3AS
+END:VEVENT
+BEGIN:VEVENT
+UID:free-board-games-afternoon-london-20s-30s-aed53b9c@london-events
+DTSTAMP:20260823T150000Z
+DTSTART:20260823T150000Z
+DTEND:20260823T190000Z
+SUMMARY:Free Board Games Afternoon — London 20s & 30s
+DESCRIPTION:Sunday-afternoon board games social run by The Great Friendshi
+ p Project for 20s/30s — designed for coming solo. Currently waitlisted\
+ ; join the list and spots usually churn.\nPrice: Free\nhttps://www.meetup
+ .com/london-friendship-project/events/316062252/
+URL:https://www.meetup.com/london-friendship-project/events/316062252/
+LOCATION:The Thirsty Bear\, 62 Stamford Street\, SE1 9LX
 END:VEVENT
 BEGIN:VEVENT
 UID:sunday-jazz-at-the-old-blue-last-free-23-aug-3ec553bb@london-events
@@ -1820,6 +1891,19 @@ URL:https://wiltons.org.uk/whats-on/wiesenthal/
 LOCATION:Wilton's Music Hall\, 1 Graces Alley\, E1 8JB
 END:VEVENT
 BEGIN:VEVENT
+UID:omani-cookery-class-with-hani-migrateful-pop-up-2322d60d@london-events
+DTSTAMP:20260902T171500Z
+DTSTART:20260902T171500Z
+DTEND:20260902T191500Z
+SUMMARY:Omani Cookery Class with Hani (Migrateful pop-up)
+DESCRIPTION:Cook a full Omani feast with chef Hani at Migrateful's Angel p
+ op-up kitchen\, then eat together.\nPrice: £50\nhttps://www.migrateful.o
+ rg/event/omani-cookery-class-with-hani-london-pop-up-17/
+URL:https://www.migrateful.org/event/omani-cookery-class-with-hani-london-
+ pop-up-17/
+LOCATION:Migrateful pop-up\, Islington\, Risinghill Street\, N1 9QG
+END:VEVENT
+BEGIN:VEVENT
 UID:psychedelic-speed-dating-at-the-sanctuary-soul-682cfbcf@london-events
 DTSTAMP:20260902T173000Z
 DTSTART:20260902T173000Z
@@ -2324,6 +2408,20 @@ URL:https://unionchapel.org.uk/whats-on/the-mystery-of-time-with-jim-al-kh
 LOCATION:Union Chapel\, Compton Terrace\, Islington\, N1 2UN
 END:VEVENT
 BEGIN:VEVENT
+UID:life-drawing-in-the-attic-september-season-opener-aa523d53@london-even
+ ts
+DTSTAMP:20260908T180000Z
+DTSTART:20260908T180000Z
+DTEND:20260908T200000Z
+SUMMARY:Life Drawing in the attic — September season opener
+DESCRIPTION:The Tuesday attic drop-in returns after its late-summer break:
+  sessions 8/15/22/29 Sep with a different tutor each week. Materials prov
+ ided\; start time carried from August listings — confirm on the site.\n
+ Price: £12.50 advance / £15 door\nhttps://lifedrawing.art/
+URL:https://lifedrawing.art/
+LOCATION:Hackney Picturehouse (attic)\, 270 Mare Street\, E8 1HE
+END:VEVENT
+BEGIN:VEVENT
 UID:rostam-at-village-underground-9c18192c@london-events
 DTSTAMP:20260908T183000Z
 DTSTART:20260908T183000Z
@@ -2394,6 +2492,20 @@ URL:https://www.crick.ac.uk/whats-on/what-can-ancient-dna-tell-us-about-th
 LOCATION:Francis Crick Institute\, 1 Midland Road\, King's Cross NW1 1AT
 END:VEVENT
 BEGIN:VEVENT
+UID:life-drawing-in-borough-at-the-roebuck-2fe1ceed@london-events
+DTSTAMP:20260909T180000Z
+DTSTART:20260909T180000Z
+DTEND:20260909T200000Z
+SUMMARY:Life Drawing in Borough at The Roebuck
+DESCRIPTION:Relaxed pub life-drawing session — all levels\, basic materi
+ als provided\, drink in hand. Doors 6:50pm.\nPrice: £16\nhttps://www.eve
+ ntbrite.co.uk/e/life-drawing-in-borough-at-the-roebuck-tickets-1994804057
+ 635
+URL:https://www.eventbrite.co.uk/e/life-drawing-in-borough-at-the-roebuck-
+ tickets-1994804057635
+LOCATION:The Roebuck\, 50 Great Dover Street\, SE1 4YG
+END:VEVENT
+BEGIN:VEVENT
 UID:fire-fire-new-play-at-arcola-opening-night-7faaf5bf@london-events
 DTSTAMP:20260909T183000Z
 DTSTART:20260909T183000Z
@@ -2406,6 +2518,21 @@ DESCRIPTION:Two strangers meet at a memorial on their estate and end up jo
  e/
 URL:https://www.arcolatheatre.com/event/fire-fire/
 LOCATION:Arcola Theatre\, Studio 2\, 24 Ashwin Street\, Dalston\, E8 3DL
+END:VEVENT
+BEGIN:VEVENT
+UID:the-moth-mainstage-tightrope-6f8134e9@london-events
+DTSTAMP:20260909T190000Z
+DTSTART:20260909T190000Z
+DTEND:20260909T210000Z
+SUMMARY:The Moth Mainstage: Tightrope
+DESCRIPTION:The Moth's flagship true-storytelling night comes to London: f
+ ive tellers\, live music\, theme 'Tightrope' — moments when life hangs 
+ in the balance.\nPrice: from £41\nhttps://www.southbankcentre.co.uk/what
+ s-on/the-moth-mainstage-tightrope/
+URL:https://www.southbankcentre.co.uk/whats-on/the-moth-mainstage-tightrop
+ e/
+LOCATION:Queen Elizabeth Hall\, Southbank Centre\, Belvedere Road\, London
+  SE1 8XX
 END:VEVENT
 BEGIN:VEVENT
 UID:how-geography-explains-our-world-tim-marshall-bb19f43d@london-events
@@ -3302,6 +3429,21 @@ LOCATION:The Thanet Youth & Community Centre\, Herbert Street\, Kentish To
  wn\, NW5 4HD
 END:VEVENT
 BEGIN:VEVENT
+UID:lawrence-abu-hamdan-the-crack-and-the-boom-6e2a94ea@london-events
+DTSTAMP:20260926T153000Z
+DTSTART:20260926T153000Z
+DTEND:20260926T173000Z
+SUMMARY:Lawrence Abu Hamdan: The Crack and the Boom
+DESCRIPTION:Panel of artists\, researchers and investigators on sound as f
+ orensic evidence — what listening can prove about violence and conflict
+ . Saturday 4:30pm\; pairs with Ecstatic Saturdays that evening.\nPrice: 
+ £15.50\nhttps://www.barbican.org.uk/whats-on/2026/event/lawrence-abu-ham
+ dan-the-crack-and-the-boom
+URL:https://www.barbican.org.uk/whats-on/2026/event/lawrence-abu-hamdan-th
+ e-crack-and-the-boom
+LOCATION:Cinema 1\, Barbican Centre\, Silk Street\, EC2Y 8DS
+END:VEVENT
+BEGIN:VEVENT
 UID:the-story-of-birds-from-the-jurassic-to-today-royal-institut-5d37c59f@
  london-events
 DTSTAMP:20260926T180000Z
@@ -3314,6 +3456,20 @@ DESCRIPTION:Saturday-evening Ri lecture tracing bird evolution from Jurass
  ww.rigb.org/whats-on/story-birds-jurassic-today
 URL:https://www.rigb.org/whats-on/story-birds-jurassic-today
 LOCATION:Royal Institution\, 21 Albemarle Street\, Mayfair\, W1S 4BS
+END:VEVENT
+BEGIN:VEVENT
+UID:ecstatic-saturdays-tufnell-park-autumn-opener-28005c42@london-events
+DTSTAMP:20260926T180000Z
+DTSTART:20260926T180000Z
+DTEND:20260926T204500Z
+SUMMARY:Ecstatic Saturdays — Tufnell Park (autumn opener)
+DESCRIPTION:First autumn Ecstatic Saturdays date: barefoot ecstatic dance 
+ 7-9:45pm followed by a fruit social — two minutes from Tufnell Park sta
+ tion. Cacao Dance Tribe runs the night before at the same venue.\nPrice: 
+ Ticketed via Eventbrite\nhttps://ecstaticdancelondon.com/events/
+URL:https://ecstaticdancelondon.com/events/
+LOCATION:Ecstatic Dance London venue\, Burghley Road\, Burghley Road\, Tuf
+ nell Park\, NW5
 END:VEVENT
 BEGIN:VEVENT
 UID:tellison-at-moth-club-cbe7ec78@london-events
@@ -3573,6 +3729,34 @@ URL:https://www.rigb.org/whats-on/life-scientific
 LOCATION:Royal Institution\, 21 Albemarle Street\, Mayfair W1S 4BS
 END:VEVENT
 BEGIN:VEVENT
+UID:the-cabinet-of-dr-caligari-1920-with-live-score-at-wilton-s-843dedaf@l
+ ondon-events
+DTSTAMP:20261006T180000Z
+DTSTART:20261006T180000Z
+DTEND:20261006T200000Z
+SUMMARY:The Cabinet of Dr Caligari (1920) with live score at Wilton's
+DESCRIPTION:The silent German-expressionist horror classic screened with a
+  live score in the world's oldest surviving music hall — limited availa
+ bility.\nhttps://wiltons.org.uk/whats-on/
+URL:https://wiltons.org.uk/whats-on/
+LOCATION:Wilton's Music Hall\, 1 Graces Alley\, E1 8JB
+END:VEVENT
+BEGIN:VEVENT
+UID:spark-storytelling-open-mic-haunted-148d5b01@london-events
+DTSTAMP:20261007T183000Z
+DTSTART:20261007T183000Z
+DTEND:20261007T203000Z
+SUMMARY:Spark Storytelling Open Mic — 'Haunted'
+DESCRIPTION:Britain's first true-storytelling club: open-mic true stories 
+ on the theme 'Haunted' — sign up on the night or just listen. Brixton i
+ s a trek: Victoria line beats bike.\nPrice: £5\nhttps://www.picturehouse
+ s.com/movie-details/000/HO00010004/spark-storytelling-open-mic
+URL:https://www.picturehouses.com/movie-details/000/HO00010004/spark-story
+ telling-open-mic
+LOCATION:Upstairs at The Ritzy (Picturehouse)\, Brixton Oval\, Coldharbour
+  Lane\, SW2 1JG
+END:VEVENT
+BEGIN:VEVENT
 UID:wifi-wars-debug-xxii-interactive-comedy-game-show-8c36d57e@london-even
  ts
 DTSTAMP:20261009T180000Z
@@ -3584,6 +3768,19 @@ DESCRIPTION:The whole audience plays games together on their phones — th
  ttps://www.rigb.org/whats-on/wifi-wars-debug-xxii
 URL:https://www.rigb.org/whats-on/wifi-wars-debug-xxii
 LOCATION:Royal Institution\, 21 Albemarle Street\, Mayfair W1S 4BS
+END:VEVENT
+BEGIN:VEVENT
+UID:harold-lloyd-s-safety-last-1923-with-live-score-at-wilton-s-d488780f@l
+ ondon-events
+DTSTAMP:20261009T180000Z
+DTSTART:20261009T180000Z
+DTEND:20261009T200000Z
+SUMMARY:Harold Lloyd's Safety Last! (1923) with live score at Wilton's
+DESCRIPTION:Harold Lloyd's clock-dangling silent comedy with live musical 
+ accompaniment in the candlelit music hall.\nhttps://wiltons.org.uk/whats-
+ on/
+URL:https://wiltons.org.uk/whats-on/
+LOCATION:Wilton's Music Hall\, 1 Graces Alley\, E1 8JB
 END:VEVENT
 BEGIN:VEVENT
 UID:simon-amstell-i-love-it-here-at-hackney-empire-cf08ebe8@london-events
