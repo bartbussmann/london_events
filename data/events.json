@@ -448,6 +448,25 @@
     "added": "2026-08-04"
   },
   {
+    "id": "god-s-own-junkyard-neon-wonderland-open-till-10pm-fri-sat-39e9c897",
+    "title": "God's Own Junkyard — neon wonderland (open till 10pm Fri/Sat)",
+    "start": "2026-08-14T11:00:00+01:00",
+    "end": "2026-08-14T22:00:00+01:00",
+    "venue": "God's Own Junkyard",
+    "address": "Ravenswood Industrial Estate, Shernhall Street, Walthamstow, E17 9HQ",
+    "url": "https://www.godsownjunkyard.co.uk/",
+    "source": "venue:gods-own-junkyard",
+    "tags": [
+      "art",
+      "food"
+    ],
+    "price": "Free entry",
+    "description": "Warehouse crammed floor-to-ceiling with salvaged neon and movie props, with the Rolling Scones cafe/bar — magical after dark, craft breweries in the same yard. Open Fri/Sat 11am-10pm, Sun to 6pm.",
+    "neighbourhood": "Walthamstow",
+    "cycle_minutes": 30,
+    "added": "2026-08-13"
+  },
+  {
     "title": "Double Holotropic Breathwork — Experiential Weekend",
     "start": "2026-08-14T18:00:00+01:00",
     "end": "2026-08-17T13:30:00+01:00",
@@ -562,6 +581,42 @@
     "added": "2026-07-16"
   },
   {
+    "id": "candlelight-music-from-the-movies-at-st-martin-in-the-fields-4ac99474",
+    "title": "Candlelight: Music from the Movies at St Martin-in-the-Fields",
+    "start": "2026-08-14T19:00:00+01:00",
+    "end": null,
+    "venue": "St Martin-in-the-Fields",
+    "address": "Trafalgar Square, WC2N 4JJ",
+    "url": "https://www.stmartin-in-the-fields.org/candlelight-concerts/",
+    "source": "venue:st-martin-in-the-fields",
+    "tags": [
+      "music"
+    ],
+    "price": "from £12",
+    "description": "Film scores — Bond, Game of Thrones, Schindler's List — by candlelight in the Trafalgar Square church. Classic atmospheric Friday-night material.",
+    "neighbourhood": "Trafalgar Square",
+    "cycle_minutes": 25,
+    "added": "2026-08-13"
+  },
+  {
+    "id": "allysha-joy-at-ronnie-scott-s-059294c2",
+    "title": "Allysha Joy at Ronnie Scott's",
+    "start": "2026-08-14T19:00:00+01:00",
+    "end": null,
+    "venue": "Ronnie Scott's Jazz Club",
+    "address": "47 Frith Street, Soho, W1D 4HT",
+    "url": "https://www.ronniescotts.co.uk/find-a-show/allysha-joy",
+    "source": "venue:ronnie-scotts",
+    "tags": [
+      "music"
+    ],
+    "price": "£35-£55 (pricey — flagged)",
+    "description": "Melbourne jazz-soul singer and Rhodes player headlines London's most storied jazz club — candlelit tables, supper-club intimacy.",
+    "neighbourhood": "Soho",
+    "cycle_minutes": 30,
+    "added": "2026-08-13"
+  },
+  {
     "title": "Jenny Don't And The Spurs at The Lexington",
     "start": "2026-08-14T19:30:00+01:00",
     "end": "2026-08-14T23:00:00+01:00",
@@ -596,6 +651,25 @@
     "neighbourhood": "Angel",
     "cycle_minutes": 18,
     "added": "2026-08-07"
+  },
+  {
+    "id": "the-devil-wears-prada-2-rooftop-cinema-club-stratford-739ebc70",
+    "title": "The Devil Wears Prada 2 — Rooftop Cinema Club Stratford",
+    "start": "2026-08-14T20:45:00+01:00",
+    "end": null,
+    "venue": "Rooftop Cinema Club, Roof East",
+    "address": "Floor 8, Stratford Multi-Storey Car Park, Great Eastern Road, E15 1BB",
+    "url": "https://rooftopcinemaclub.com/uk/london/stratford/screenings/the-devil-wears-prada-2-3097",
+    "source": "venue:rooftop-cinema-club",
+    "tags": [
+      "film",
+      "outdoors"
+    ],
+    "price": "adult seats priced per screening; Love Seat doubles",
+    "description": "The new Prada sequel under the stars with wireless headphones, Love Seat double deckchairs and Canary Wharf skyline views; bars and street food downstairs. 18+.",
+    "neighbourhood": "Stratford",
+    "cycle_minutes": 20,
+    "added": "2026-08-13"
   },
   {
     "id": "in-other-worlds-liam-young-immersive-exhibition-until-6-sep-bb1d29dd",
@@ -652,6 +726,25 @@
     "cycle_minutes": 45,
     "id": "community-walk-sound-bath-reiki-at-hampstead-heath-445c402d",
     "added": "2026-07-31"
+  },
+  {
+    "id": "la-sagra-di-shoreditch-gloria-s-italian-village-feast-c70df6b9",
+    "title": "La Sagra di Shoreditch — Gloria's Italian village feast",
+    "start": "2026-08-15T12:30:00+01:00",
+    "end": "2026-08-15T17:30:00+01:00",
+    "venue": "Museum of the Home (hosted by Gloria / Big Mamma)",
+    "address": "136 Kingsland Road, E2 8EA",
+    "url": "https://bigmammagroup.com/en/trattorias/gloria",
+    "source": "venue:big-mamma-gloria",
+    "tags": [
+      "food",
+      "festival"
+    ],
+    "price": "£84pp (well over cap — one-off charity feast, all profits donated)",
+    "description": "One-off Italian sagra in the museum gardens: four-course feast from Gloria with Kricket and Blacklock, live music, painting pop-up, tombola — profits to The Felix Project. Ten-minute walk from home.",
+    "neighbourhood": "Hoxton",
+    "cycle_minutes": 6,
+    "added": "2026-08-13"
   },
   {
     "title": "Thursday: Singles Badminton Tournament — Shoreditch",
@@ -730,6 +823,80 @@
     "added": "2026-08-11"
   },
   {
+    "id": "back-to-black-20th-anniversary-at-the-jazz-cafe-8a12711b",
+    "title": "Back to Black — 20th Anniversary at the Jazz Cafe",
+    "start": "2026-08-15T18:30:00+01:00",
+    "end": "2026-08-15T22:00:00+01:00",
+    "venue": "The Jazz Cafe",
+    "address": "5 Parkway, Camden, NW1 7PG",
+    "url": "https://thejazzcafelondon.com/event/back-to-black-20th-anniversary-2/",
+    "source": "venue:jazz-cafe",
+    "tags": [
+      "music"
+    ],
+    "price": "£20 standing",
+    "description": "Ciara Haidar and a full house band perform Back to Black front-to-back for its 20th anniversary, on the Camden stage Amy herself played. 18+, doors 6:30pm.",
+    "neighbourhood": "Camden",
+    "cycle_minutes": 32,
+    "added": "2026-08-13"
+  },
+  {
+    "id": "summer-sounds-free-festival-songs-of-love-and-ecstasy-open-a-f81122be",
+    "title": "Summer Sounds free festival: Songs of Love and Ecstasy (open-air opera)",
+    "start": "2026-08-15T18:30:00+01:00",
+    "end": "2026-08-15T20:30:00+01:00",
+    "venue": "Coal Drops Yard, King's Cross",
+    "address": "Stable Street, N1C 4DQ",
+    "url": "https://www.artstrust.co.uk/events/kings-cross-summer-sounds-1-e9d9c",
+    "source": "festival:summer-sounds",
+    "tags": [
+      "music",
+      "outdoors",
+      "festival"
+    ],
+    "price": "Free, no booking",
+    "description": "Free open-air evening of opera and musical theatre at Coal Drops Yard — pairs with the Everyman canal cinema a minute away for a zero-cost King's Cross date night.",
+    "neighbourhood": "King's Cross",
+    "cycle_minutes": 28,
+    "added": "2026-08-13"
+  },
+  {
+    "id": "vivaldi-four-seasons-by-candlelight-at-st-martin-in-the-fiel-78bdd14d",
+    "title": "Vivaldi Four Seasons by Candlelight at St Martin-in-the-Fields",
+    "start": "2026-08-15T19:00:00+01:00",
+    "end": null,
+    "venue": "St Martin-in-the-Fields",
+    "address": "Trafalgar Square, WC2N 4JJ",
+    "url": "https://www.stmartin-in-the-fields.org/candlelight-concerts/",
+    "source": "venue:st-martin-in-the-fields",
+    "tags": [
+      "music"
+    ],
+    "price": "from £9",
+    "description": "The Four Seasons by candlelight — the quintessential cheap-but-magical London date concert, Saturday 7pm.",
+    "neighbourhood": "Trafalgar Square",
+    "cycle_minutes": 25,
+    "added": "2026-08-13"
+  },
+  {
+    "id": "blue-lab-beats-upstairs-at-ronnie-s-21698f2d",
+    "title": "Blue Lab Beats — Upstairs at Ronnie's",
+    "start": "2026-08-15T19:00:00+01:00",
+    "end": null,
+    "venue": "Upstairs at Ronnie Scott's",
+    "address": "47 Frith Street, Soho, W1D 4HT",
+    "url": "https://www.ronniescotts.co.uk/find-a-show/blue-lab-beats",
+    "source": "venue:ronnie-scotts",
+    "tags": [
+      "music"
+    ],
+    "price": "£25-£35",
+    "description": "GRAMMY-winning London jazz-hip-hop duo in the tiny upstairs room with a full band. Two shows Saturday — set times on the booking page (19:00 is a placeholder).",
+    "neighbourhood": "Soho",
+    "cycle_minutes": 30,
+    "added": "2026-08-13"
+  },
+  {
     "title": "closeup summer series: Eaves Wilder at Sebright Arms",
     "start": "2026-08-15T19:30:00+01:00",
     "end": null,
@@ -766,6 +933,42 @@
     "added": "2026-08-07"
   },
   {
+    "id": "sara-pascoe-friends-roundhouse-comedy-festival-88a520a3",
+    "title": "Sara Pascoe & Friends — Roundhouse Comedy Festival",
+    "start": "2026-08-15T19:30:00+01:00",
+    "end": null,
+    "venue": "Roundhouse",
+    "address": "Chalk Farm Road, NW1 8EH",
+    "url": "https://www.roundhouse.org.uk/whats-on/sara-pascoe-friends-cf/",
+    "source": "venue:roundhouse",
+    "tags": [
+      "comedy"
+    ],
+    "price": "£5-£38",
+    "description": "Sara Pascoe hosts Nina Conti, John Kearns, Harriet Kemsley and Michael Odewale in the Victorian roundhouse — tickets from a fiver.",
+    "neighbourhood": "Chalk Farm",
+    "cycle_minutes": 35,
+    "added": "2026-08-13"
+  },
+  {
+    "id": "annie-whitehead-new-5tet-at-the-vortex-94093b86",
+    "title": "Annie Whitehead New 5tet at the Vortex",
+    "start": "2026-08-15T19:45:00+01:00",
+    "end": "2026-08-15T22:30:00+01:00",
+    "venue": "Vortex Jazz Club",
+    "address": "11 Gillett Square, Dalston, N16 8AZ",
+    "url": "https://www.universe.com/events/annie-whitehead-new-5tet-tickets-2CTYMK",
+    "source": "venue:vortex",
+    "tags": [
+      "music"
+    ],
+    "price": "£18",
+    "description": "Legendary trombonist Annie Whitehead leads her new quintet in Dalston's beloved 100-seat jazz room — candle-on-table intimate, 15 minutes from home.",
+    "neighbourhood": "Dalston",
+    "cycle_minutes": 14,
+    "added": "2026-08-13"
+  },
+  {
     "title": "London Ceilidh Club at Cecil Sharp House",
     "start": "2026-08-15T20:00:00+01:00",
     "end": "2026-08-15T23:00:00+01:00",
@@ -786,6 +989,25 @@
     "added": "2026-07-16"
   },
   {
+    "id": "wes-anderson-the-archives-final-weekend-closes-16-aug-68e00c69",
+    "title": "Wes Anderson: The Archives — final weekend (closes 16 Aug)",
+    "start": "2026-08-16T10:00:00+01:00",
+    "end": null,
+    "venue": "Design Museum",
+    "address": "224-238 Kensington High Street, W8 6AG",
+    "url": "https://designmuseum.org/exhibitions/wes-anderson-the-archives",
+    "source": "venue:design-museum",
+    "tags": [
+      "art",
+      "film"
+    ],
+    "price": "£20.69",
+    "description": "Last chance ever: 700+ objects from Wes Anderson's archive — the Grand Budapest Hotel model, Mr Fox puppets, Margot's fur coat. Final day Sun 16 Aug; book timed entry, it will be rammed. Tube, not bike.",
+    "neighbourhood": "Kensington",
+    "cycle_minutes": 50,
+    "added": "2026-08-13"
+  },
+  {
     "id": "thursday-singles-museum-walk-lunch-national-portrait-gallery-08e37fcc",
     "title": "Thursday: Singles Museum Walk & Lunch — National Portrait Gallery",
     "start": "2026-08-16T11:00:00+01:00",
@@ -803,6 +1025,26 @@
     "neighbourhood": "Trafalgar Square",
     "cycle_minutes": 25,
     "added": "2026-08-08"
+  },
+  {
+    "id": "summer-sounds-family-sunday-tomorrow-s-warriors-takeover-wit-56b233a1",
+    "title": "Summer Sounds Family Sunday: Tomorrow's Warriors takeover with ESKA (free)",
+    "start": "2026-08-16T12:00:00+01:00",
+    "end": "2026-08-16T18:00:00+01:00",
+    "venue": "Coal Drops Yard, King's Cross",
+    "address": "Stable Street, N1C 4DQ",
+    "url": "https://www.artstrust.co.uk/events/kings-cross-summer-sounds-1-e9d9c",
+    "source": "festival:summer-sounds",
+    "tags": [
+      "music",
+      "outdoors",
+      "festival"
+    ],
+    "price": "Free, no booking",
+    "description": "All-afternoon free jazz takeover for Tomorrow's Warriors' 35th: Camilla George, Denys Baptiste, and a big-band finale with ESKA at 5pm — wander in and out, canal-side.",
+    "neighbourhood": "King's Cross",
+    "cycle_minutes": 28,
+    "added": "2026-08-13"
   },
   {
     "id": "reggae-party-with-the-tighten-up-crew-s-reggae-cookouts-free-336f2794",
@@ -878,6 +1120,25 @@
     "neighbourhood": "Dalston",
     "cycle_minutes": 14,
     "added": "2026-08-08"
+  },
+  {
+    "id": "interstellar-rooftop-cinema-club-stratford-sunday-closer-d162f8e8",
+    "title": "Interstellar — Rooftop Cinema Club Stratford (Sunday closer)",
+    "start": "2026-08-16T19:30:00+01:00",
+    "end": null,
+    "venue": "Rooftop Cinema Club, Roof East",
+    "address": "Floor 8, Stratford Multi-Storey Car Park, Great Eastern Road, E15 1BB",
+    "url": "https://rooftopcinemaclub.com/uk/london/stratford/screenings",
+    "source": "venue:rooftop-cinema-club",
+    "tags": [
+      "film",
+      "outdoors"
+    ],
+    "price": "adult seats priced per screening; Love Seat doubles",
+    "description": "Nolan's space epic on a rooftop as the sun sets over the Olympic Park — headphones on, Love Seat double deckchair for two. The Peckham Saturday showing is sold out; book this one early.",
+    "neighbourhood": "Stratford",
+    "cycle_minutes": 20,
+    "added": "2026-08-13"
   },
   {
     "title": "Alexander Technique: An Introduction (City Academy)",

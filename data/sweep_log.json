@@ -1,5 +1,11 @@
 [
   {
+    "ran_at": "2026-08-13T11:30:00+01:00",
+    "added": 14,
+    "considered": 38,
+    "notes": "SPECIAL: date-weekend pass (Bart's request — visitor from NL, 14-16 Aug). Added 14 date-worthy events: candlelight concerts at St Martin-in-the-Fields (film scores Fri from £12, Vivaldi Sat from £9); Rooftop Cinema Club Stratford (Prada 2 Fri, Interstellar Sun — Love Seat doubles; Peckham Interstellar Sat sold out); Ronnie Scott's x2 (Allysha Joy Fri £35-55 flagged, Blue Lab Beats upstairs Sat); God's Own Junkyard neon warehouse (free, open till 10pm Fri/Sat); La Sagra di Shoreditch £84 charity feast Sat (over cap — added under special-request licence); Back to Black 20th anniv at Jazz Cafe Sat £20; Sara Pascoe & Friends Roundhouse Sat from £5; Annie Whitehead at Vortex Sat £18; free Summer Sounds at Coal Drops Yard (open-air opera Sat evening, Tomorrow's Warriors jazz takeover w/ ESKA Sun afternoon); Wes Anderson Archives FINAL weekend at Design Museum (closes Sun 16 — book timed entry). Wilton's dark till 1 Sep; Luna Cinema unreachable; Queen of Hoxton is club nights only."
+  },
+  {
     "ran_at": "2026-08-13T07:45:00+01:00",
     "added": 13,
     "considered": 210,
@@ -172,11 +178,5 @@
     "added": 1,
     "considered": 30,
     "notes": "Daily sweep. ICS: 0 new. AR Day mystery resolved: the 9 Aug 'Authentic Relating Day' has no live listing anywhere, but Robyn Wilford's 2 Aug 'Connection' circling day (already on calendar) is the same event — same facilitator, format, £85; its description still references 9 Aug, so the true date is ambiguous. Updated that entry with a confirm-before-booking note (organiser: robyncontact365@gmail.com). Added: Contact Beyond Contact workshop at Siobhan Davies Studios (CI + Authentic Movement + Qi Gong, 6 Aug). Caught 4 resurfaced duplicates — coverage saturating, a good sign. Skipped: Soul Project retreat (ages 21-30 only... just misses at 31)."
-  },
-  {
-    "ran_at": "2026-07-16T07:50:00+01:00",
-    "added": 5,
-    "considered": 96,
-    "notes": "Daily sweep, folk-venue pass (Cafe OTO direct, Green Note, Cecil Sharp House). ICS: Paper Club re-import fixed with new suppressed_ids.json mechanism (part 1). Added: Folk Critique launch night + psych-folk at Cafe OTO, Americana + Balkan folk at Green Note, London Ceilidh Club at Cecil Sharp House (caller-led, no experience needed). Lead to retry: 'Authentic Relating Day London' Sun 9 Aug (£85, Robyn Wilford/Ksenia Belash) — page 404'd, exactly the AR gap; watch for a working page. No LessWrong/ACX until ACX Meetups Everywhere at Newspeak House late Sept."
   }
 ]
