@@ -805,6 +805,26 @@
     "added": "2026-08-08"
   },
   {
+    "id": "reggae-party-with-the-tighten-up-crew-s-reggae-cookouts-free-336f2794",
+    "title": "Reggae Party with The Tighten Up Crew's Reggae Cookouts (free)",
+    "start": "2026-08-16T15:00:00+01:00",
+    "end": "2026-08-16T20:00:00+01:00",
+    "venue": "Union Chapel",
+    "address": "Compton Terrace, Islington, N1 2UN",
+    "url": "https://unionchapel.org.uk/whats-on/caribbeanreggae-party-with-the-tighten-up-crews-reggae-cookouts",
+    "source": "venue:union-chapel",
+    "tags": [
+      "music",
+      "food",
+      "community"
+    ],
+    "price": "Free (walk-up, arrive early)",
+    "description": "Free Sunday-afternoon sound-system session in the chapel: vintage ska-to-dub vinyl with Caribbean food from Uptown Cuisine (free for the first 30 through the door).",
+    "neighbourhood": "Islington",
+    "cycle_minutes": 20,
+    "added": "2026-08-13"
+  },
+  {
     "title": "Sunday Jazz at The Old Blue Last (free) — 16 Aug",
     "start": "2026-08-16T19:00:00+01:00",
     "end": null,
@@ -822,6 +842,24 @@
     "cycle_minutes": 7,
     "id": "sunday-jazz-at-the-old-blue-last-free-16-aug-9bf04d2e",
     "added": "2026-07-30"
+  },
+  {
+    "id": "heck-the-one-before-the-last-one-ever-penultimate-show-04ccc0a9",
+    "title": "HECK — The One Before The Last One Ever (penultimate show)",
+    "start": "2026-08-16T19:00:00+01:00",
+    "end": null,
+    "venue": "Signature Brew Haggerston",
+    "address": "Haggerston, E8",
+    "url": "https://dice.fm/event/6d8mdb-heck-the-one-before-the-last-one-ever-london-16th-aug-signature-brew-haggerston-london-tickets",
+    "source": "keyword-search",
+    "tags": [
+      "music"
+    ],
+    "price": "£18.36",
+    "description": "Nottingham hardcore chaos-merchants HECK play the second-to-last show of their existence in a small brewery taproom — heavier than usual but 'truly unique carnage' in an intimate room, this Sunday.",
+    "neighbourhood": "Haggerston",
+    "cycle_minutes": 9,
+    "added": "2026-08-13"
   },
   {
     "id": "natural-information-society-residency-day-one-with-coby-sey-bb24d946",
@@ -1061,6 +1099,24 @@
     "cycle_minutes": 8
   },
   {
+    "id": "2h-mug-handbuilding-taster-at-crown-works-pottery-35e5d181",
+    "title": "2h Mug Handbuilding Taster at Crown Works Pottery",
+    "start": "2026-08-19T18:30:00+01:00",
+    "end": "2026-08-19T20:30:00+01:00",
+    "venue": "Crown Works Pottery",
+    "address": "Bethnal Green, E2 6QQ",
+    "url": "https://crownworkspottery.com/taster-sessions/tastersessionsmarchapril-lya2l-l244p-na4cn-gwd8g-f59ag-7dm5l",
+    "source": "venue:crown-works",
+    "tags": [
+      "class"
+    ],
+    "price": "£60",
+    "description": "Two-hour beginners handbuilding taster — make a mug from slab/coil. The cheaper sibling of the throwing taster; also runs 20/21/22/23/28/29/30 Aug at 18:30.",
+    "neighbourhood": "Bethnal Green",
+    "cycle_minutes": 5,
+    "added": "2026-08-13"
+  },
+  {
     "title": "Farewell Transmission: A Celebration of Jason Molina",
     "start": "2026-08-19T19:00:00+01:00",
     "end": "2026-08-19T23:00:00+01:00",
@@ -1113,6 +1169,24 @@
     "neighbourhood": "Bethnal Green",
     "cycle_minutes": 4,
     "added": "2026-08-04"
+  },
+  {
+    "id": "angel-comedy-raw-wednesdays-free-19-aug-0744585e",
+    "title": "Angel Comedy RAW Wednesdays (Free) — 19 Aug",
+    "start": "2026-08-19T19:30:00+01:00",
+    "end": null,
+    "venue": "The Camden Head",
+    "address": "2 Camden Walk, Islington, N1 8DY",
+    "url": "https://www.angelcomedy.co.uk/event-detail/angel-comedy-raw-wednesdays-free-wed-19th-aug-the-camden-head-london-tickets-202608191930",
+    "source": "venue:angel-comedy",
+    "tags": [
+      "comedy"
+    ],
+    "price": "Free",
+    "description": "Free new-material night — circuit pros work out fresh sets alongside rising acts.",
+    "neighbourhood": "Angel",
+    "cycle_minutes": 18,
+    "added": "2026-08-13"
   },
   {
     "id": "arrival-barbican-outdoor-cinema-sculpture-court-b13df912",
@@ -1489,6 +1563,24 @@
     "added": "2026-08-02"
   },
   {
+    "id": "angel-comedy-fridays-camden-head-free-21-aug-5abc8e05",
+    "title": "Angel Comedy Fridays @ Camden Head (Free) — 21 Aug",
+    "start": "2026-08-21T20:00:00+01:00",
+    "end": null,
+    "venue": "The Camden Head",
+    "address": "2 Camden Walk, Islington, N1 8DY",
+    "url": "https://www.angelcomedy.co.uk/event-detail/angel-comedy-fridays-camden-head-free--800pm-fri-21st-aug-the-camden-head-202608212000",
+    "source": "venue:angel-comedy",
+    "tags": [
+      "comedy"
+    ],
+    "price": "Free",
+    "description": "Free Friday-night stand-up showcase — Edinburgh season means polished preview material on the free bills.",
+    "neighbourhood": "Angel",
+    "cycle_minutes": 18,
+    "added": "2026-08-13"
+  },
+  {
     "title": "Forage and Meditate on London Canals (August edition)",
     "start": "2026-08-22T10:00:00+01:00",
     "end": "2026-08-22T13:00:00+01:00",
@@ -1584,6 +1676,24 @@
     "added": "2026-08-11"
   },
   {
+    "id": "wheel-throwing-taster-at-cone8-ceramics-e6e32340",
+    "title": "Wheel-throwing taster at Cone8 Ceramics",
+    "start": "2026-08-22T16:00:00+01:00",
+    "end": "2026-08-22T18:30:00+01:00",
+    "venue": "Cone8 Ceramics",
+    "address": "Hackney Wick (address sent on booking)",
+    "url": "https://coneeight.co.uk/products/pottery-class-throwing",
+    "source": "venue:cone8-studios",
+    "tags": [
+      "class"
+    ],
+    "price": "£60",
+    "description": "2.5-hour small-group wheel-throwing class for beginners — longer than most tasters at the same price. Also Sat 9:30am and Sun 1pm slots on 15/16, 22/23 and 29 Aug.",
+    "neighbourhood": "Hackney Wick",
+    "cycle_minutes": 15,
+    "added": "2026-08-13"
+  },
+  {
     "title": "Luminous Conscious Dance — Full Moon Edition",
     "start": "2026-08-22T18:00:00+01:00",
     "end": "2026-08-22T21:00:00+01:00",
@@ -1638,6 +1748,24 @@
     "cycle_minutes": 18,
     "id": "angel-comedy-saturdays-at-the-bill-murray-ae2d7a8f",
     "added": "2026-07-30"
+  },
+  {
+    "id": "angel-comedy-saturdays-camden-head-free-22-aug-5d2ecd93",
+    "title": "Angel Comedy Saturdays @ Camden Head (Free) — 22 Aug",
+    "start": "2026-08-22T20:00:00+01:00",
+    "end": null,
+    "venue": "The Camden Head",
+    "address": "2 Camden Walk, Islington, N1 8DY",
+    "url": "https://www.angelcomedy.co.uk/event-detail/angel-comedy-saturdays-camden-head-free-8pm-sat-22nd-aug-the-camden-head-london-tickets-202608222000",
+    "source": "venue:angel-comedy",
+    "tags": [
+      "comedy"
+    ],
+    "price": "Free",
+    "description": "Free Saturday mixed-bill showcase at 8pm.",
+    "neighbourhood": "Angel",
+    "cycle_minutes": 18,
+    "added": "2026-08-13"
   },
   {
     "id": "rorshokito-london-2036-structured-small-group-discussion-aft-070fdc2a",
@@ -1713,6 +1841,24 @@
     "neighbourhood": "South Bank",
     "cycle_minutes": 28,
     "added": "2026-08-12"
+  },
+  {
+    "id": "2h-wheel-throwing-taster-at-crown-works-pottery-78f283c6",
+    "title": "2h Wheel-Throwing Taster at Crown Works Pottery",
+    "start": "2026-08-23T18:30:00+01:00",
+    "end": "2026-08-23T20:30:00+01:00",
+    "venue": "Crown Works Pottery",
+    "address": "Bethnal Green, E2 6QQ",
+    "url": "https://crownworkspottery.com/taster-sessions/tastersessionsmarchapril-lya2l-l244p-na4cn-gwd8g-f59ag-tdtah",
+    "source": "venue:crown-works",
+    "tags": [
+      "class"
+    ],
+    "price": "£70 (over usual cap — pottery exception)",
+    "description": "Two-hour beginners wheel-throwing taster at the neighbourhood studio — five minutes from home. Many other dated slots (most evenings 18:30): 15/16/22/26/27/29/30 Aug all live.",
+    "neighbourhood": "Bethnal Green",
+    "cycle_minutes": 5,
+    "added": "2026-08-13"
   },
   {
     "title": "Sunday Jazz at The Old Blue Last (free) — 23 Aug",
@@ -2203,6 +2349,24 @@
     "cycle_minutes": 12,
     "id": "hovvdy-esme-emerson-at-moth-club-01a60ebf",
     "added": "2026-07-22"
+  },
+  {
+    "id": "angel-comedy-saturdays-camden-head-free-29-aug-f458f329",
+    "title": "Angel Comedy Saturdays @ Camden Head (Free) — 29 Aug",
+    "start": "2026-08-29T20:00:00+01:00",
+    "end": null,
+    "venue": "The Camden Head",
+    "address": "2 Camden Walk, Islington, N1 8DY",
+    "url": "https://www.angelcomedy.co.uk/event-detail/angel-comedy-saturdays-camden-head-free-8pm-sat-29th-aug-the-camden-head-london-tickets-202608292000",
+    "source": "venue:angel-comedy",
+    "tags": [
+      "comedy"
+    ],
+    "price": "Free",
+    "description": "Free bank-holiday-weekend Saturday showcase; RAW nights most other evenings too.",
+    "neighbourhood": "Angel",
+    "cycle_minutes": 18,
+    "added": "2026-08-13"
   },
   {
     "title": "Notting Hill Carnival 60th — J'ouvert & Family Day",
@@ -3485,6 +3649,25 @@
     "added": "2026-08-05"
   },
   {
+    "id": "men-s-breathwork-journey-at-we-the-conscious-b30a4a67",
+    "title": "Men's Breathwork Journey at We The Conscious",
+    "start": "2026-09-12T09:00:00+01:00",
+    "end": "2026-09-12T11:30:00+01:00",
+    "venue": "We The Conscious, studio 72",
+    "address": "17 Amhurst Terrace, E8",
+    "url": "https://dandelion.events/e/t9e5h",
+    "source": "aggregator:dandelion",
+    "tags": [
+      "workshop",
+      "community"
+    ],
+    "price": "£36-£44",
+    "description": "Saturday-morning conscious connected breathwork session for men focused on emotional release — further dates 3 Oct, 7 Nov, 5 Dec.",
+    "neighbourhood": "Hackney Downs",
+    "cycle_minutes": 12,
+    "added": "2026-08-13"
+  },
+  {
     "title": "London Mellows 2026 — 10th Anniversary Kirtan Weekend",
     "start": "2026-09-12T10:00:00+01:00",
     "end": "2026-09-13T22:00:00+01:00",
@@ -3539,6 +3722,26 @@
     "cycle_minutes": 30,
     "id": "ceroc-london-50-50-6-hour-saturday-freestyle-september-237c56bc",
     "added": "2026-08-02"
+  },
+  {
+    "id": "ecstatic-dance-gathering-outdoor-silent-disco-dance-in-hackn-1996e0c3",
+    "title": "Ecstatic Dance Gathering — outdoor silent-disco dance in Hackney Wick Woodland",
+    "start": "2026-09-12T15:00:00+01:00",
+    "end": "2026-09-12T19:00:00+01:00",
+    "venue": "Hackney Wick Woodland",
+    "address": "Hackney Wick, London",
+    "url": "https://dandelion.events/e/z6t0y",
+    "source": "aggregator:dandelion",
+    "tags": [
+      "dance",
+      "outdoors",
+      "community"
+    ],
+    "price": "£11.11-£33.33 (tiered)",
+    "description": "Outdoor silent-disco ecstatic dance: facilitated practice, fire, sober with optional ceremonial cacao — Saturday afternoon, unusually close for this scene.",
+    "neighbourhood": "Hackney Wick",
+    "cycle_minutes": 15,
+    "added": "2026-08-13"
   },
   {
     "title": "Heart Circle — September edition",
@@ -3922,6 +4125,25 @@
     "neighbourhood": "Bow",
     "cycle_minutes": 10,
     "added": "2026-08-08"
+  },
+  {
+    "id": "breathwork-harmonizing-sound-and-sacred-cacao-ceremony-18-se-2a4f6ff4",
+    "title": "Breathwork, Harmonizing Sound and Sacred Cacao Ceremony (18 Sep edition)",
+    "start": "2026-09-18T18:00:00+01:00",
+    "end": "2026-09-18T21:00:00+01:00",
+    "venue": "Unit 12, 2-16 Bayford Street",
+    "address": "Unit 12, 2-16 Bayford Street, E8 3SE",
+    "url": "https://dandelion.events/e/c2lpo",
+    "source": "aggregator:dandelion",
+    "tags": [
+      "workshop",
+      "community"
+    ],
+    "price": "£30-£38",
+    "description": "New September date for the breathwork + live harmonizing-sound immersion with ceremonial cacao — the 21 Aug edition is also on the calendar.",
+    "neighbourhood": "London Fields",
+    "cycle_minutes": 10,
+    "added": "2026-08-13"
   },
   {
     "title": "Nish Kumar at Hackney Empire",
@@ -4761,6 +4983,25 @@
     "neighbourhood": "Dalston",
     "cycle_minutes": 14,
     "added": "2026-08-11"
+  },
+  {
+    "id": "diy-alive-festival-2026-sports-team-nell-mescal-feet-walt-di-a132649a",
+    "title": "DIY Alive Festival 2026 — Sports Team, Nell Mescal, FEET, Walt Disco",
+    "start": "2026-10-03T13:00:00+01:00",
+    "end": "2026-10-03T23:00:00+01:00",
+    "venue": "EartH",
+    "address": "11-17 Stoke Newington Road, Dalston, N16 8BP",
+    "url": "https://dice.fm/event/q2pqxy-diy-alive-festival-3rd-oct-earth-london-tickets",
+    "source": "venue:dice-earth",
+    "tags": [
+      "music",
+      "festival"
+    ],
+    "price": "£37.81 current tier",
+    "description": "DIY Magazine's all-day festival across both EartH stages: live music, talks, Q&As and workshops, headlined by Sports Team with Nell Mescal, FEET and Walt Disco. 1pm-11pm.",
+    "neighbourhood": "Dalston",
+    "cycle_minutes": 14,
+    "added": "2026-08-13"
   },
   {
     "id": "supercharged-the-future-of-energy-materials-royal-institutio-5117c7e3",
