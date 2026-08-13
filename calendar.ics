@@ -5,60 +5,6 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:London Events
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
-UID:monday-ping-pong-social-bounce-battersea-1d6c8479@london-events
-DTSTAMP:20260810T170000Z
-DTSTART:20260810T170000Z
-DTEND:20260810T210000Z
-SUMMARY:Monday Ping Pong Social @ Bounce Battersea
-DESCRIPTION:Weekly Monday ping pong social at Bounce's UV-lit Battersea ve
- nue — casual play\, skill-tiered mini tournaments and social games. Not
- e the longer trip (tube easier than bike).\nPrice: £5\nhttps://www.meetu
- p.com/london-ping-pong-meetup/
-URL:https://www.meetup.com/london-ping-pong-meetup/
-LOCATION:Bounce\, Battersea Power Station\, Circus Road West\, SW11
-END:VEVENT
-BEGIN:VEVENT
-UID:going-slow-rebuilding-intention-through-physical-listening-s-fcfb019b@
- london-events
-DTSTAMP:20260810T170000Z
-DTSTART:20260810T170000Z
-DTEND:20260810T190000Z
-SUMMARY:Going Slow: Rebuilding Intention Through Physical Listening Spaces
-DESCRIPTION:Panel on the rise of hi-fi listening bars and what they teach 
- about attention\, with Yu Su\, Shai Space founder Henry Farrant and NTS r
- esident Pritpal Ajimal. Monday 6pm\, ten minutes from home.\nhttps://eatw
- orkart.com/netil-house/events/four-corners-going-offline-1
-URL:https://eatworkart.com/netil-house/events/four-corners-going-offline-1
-LOCATION:Netil House\, 1 Westgate Street\, London Fields\, E8 3RL
-END:VEVENT
-BEGIN:VEVENT
-UID:campaign-lab-hack-night-10-aug-edition-b99a8cd4@london-events
-DTSTAMP:20260810T180000Z
-DTSTART:20260810T180000Z
-DTEND:20260810T210000Z
-SUMMARY:Campaign Lab Hack Night (10 Aug edition)
-DESCRIPTION:Bi-weekly civic-tech hack night building progressive election 
- tools — this fills the Monday gap before the 22 Aug hack day and 31 Aug
-  edition.\nPrice: Free\nhttps://newspeak.house/#events
-URL:https://newspeak.house/#events
-LOCATION:Newspeak House\, 133 Bethnal Green Road\, E2 7DG
-END:VEVENT
-BEGIN:VEVENT
-UID:elliot-gray-just-like-honey-babe-at-sebright-arms-c45ab00e@london-even
- ts
-DTSTAMP:20260810T183000Z
-DTSTART:20260810T183000Z
-DTEND:20260810T203000Z
-SUMMARY:Elliot Gray + Just Like Honey + Babe at Sebright Arms
-DESCRIPTION:Free Monday-night triple bill of new indie acts in the Sebrigh
- t's basement venue\, a few streets from home.\nPrice: Free\nhttps://dice.
- fm/event/6d8oq7-elliot-gray-just-like-honey-babe-10th-aug-sebright-arms-l
- ondon-tickets
-URL:https://dice.fm/event/6d8oq7-elliot-gray-just-like-honey-babe-10th-aug
- -sebright-arms-london-tickets
-LOCATION:Sebright Arms\, 31-35 Coate Street\, Bethnal Green\, E2 9AG
-END:VEVENT
-BEGIN:VEVENT
 UID:thursday-singles-pottery-night-at-pottery-caf-cc169c17@london-events
 DTSTAMP:20260811T173000Z
 DTSTART:20260811T173000Z
