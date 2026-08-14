@@ -559,6 +559,25 @@
     "added": "2026-08-07"
   },
   {
+    "id": "trad-irish-seisi-n-at-the-auld-shillelagh-kevin-olohan-niall-60aa739a",
+    "title": "Trad Irish Seisiún at The Auld Shillelagh — Kevin Olohan & Niall Murphy",
+    "start": "2026-08-14T20:00:00+01:00",
+    "end": "2026-08-14T23:00:00+01:00",
+    "venue": "The Auld Shillelagh",
+    "address": "105 Stoke Newington Church Street, N16 0UD",
+    "url": "https://www.theauldshillelagh.co.uk/events-2/2026/8/1/music-august-2026",
+    "source": "venue:auld-shillelagh",
+    "tags": [
+      "music",
+      "community"
+    ],
+    "price": "Free",
+    "description": "Tonight's confirmed Irish seisiún at the famously narrow Stokey institution — live from 8/9pm to 11pm. Sessions run every other Thursday & Friday; August rota is posted on their events page.",
+    "neighbourhood": "Stoke Newington",
+    "cycle_minutes": 18,
+    "added": "2026-08-14"
+  },
+  {
     "id": "the-devil-wears-prada-2-rooftop-cinema-club-stratford-739ebc70",
     "title": "The Devil Wears Prada 2 — Rooftop Cinema Club Stratford",
     "start": "2026-08-14T20:45:00+01:00",
@@ -688,6 +707,25 @@
     "neighbourhood": "King's Cross",
     "added": "2026-08-06",
     "cycle_minutes": 28
+  },
+  {
+    "id": "singaround-at-the-harrison-free-folk-session-191755c2",
+    "title": "Singaround at The Harrison (free folk session)",
+    "start": "2026-08-15T13:00:00+01:00",
+    "end": null,
+    "venue": "The Harrison (cellar venue)",
+    "address": "28 Harrison Street, King's Cross, WC1H 8JF",
+    "url": "https://harrisonvenuelondon.com/events/singaround-london/",
+    "source": "venue:the-harrison",
+    "tags": [
+      "music",
+      "community"
+    ],
+    "price": "Free",
+    "description": "Free, friendly traditional singaround in the Harrison's basement folk cellar this Saturday afternoon — bring a song or just listen.",
+    "neighbourhood": "King's Cross",
+    "cycle_minutes": 25,
+    "added": "2026-08-14"
   },
   {
     "title": "Bengal to Bethnal Green — Grand Union Orchestra",
@@ -951,6 +989,26 @@
     "neighbourhood": "King's Cross",
     "cycle_minutes": 28,
     "added": "2026-08-13"
+  },
+  {
+    "id": "free-outdoor-jazz-salsa-at-the-palm-tree-courtyard-67c89481",
+    "title": "Free Outdoor Jazz & Salsa at The Palm Tree courtyard",
+    "start": "2026-08-16T14:00:00+01:00",
+    "end": "2026-08-16T18:00:00+01:00",
+    "venue": "The Palm Tree (forecourt), Mile End Park",
+    "address": "127 Grove Road, Mile End, E3 5BH",
+    "url": "https://umat.org.uk/palm-tree.html",
+    "source": "listing:umat",
+    "tags": [
+      "music",
+      "dance",
+      "outdoors"
+    ],
+    "price": "Free",
+    "description": "Free afternoon of live jazz bands alternating with salsa dance sessions outside the legendary cash-only East End jazz pub. The pub's indoor weekend crooner nights have no published schedule — just turn up after 8pm.",
+    "neighbourhood": "Mile End",
+    "cycle_minutes": 8,
+    "added": "2026-08-14"
   },
   {
     "id": "reggae-party-with-the-tighten-up-crew-s-reggae-cookouts-free-336f2794",
@@ -1748,6 +1806,25 @@
     "added": "2026-08-13"
   },
   {
+    "id": "trad-irish-seisi-n-at-the-auld-shillelagh-lloyd-john-722af6ef",
+    "title": "Trad Irish Seisiún at The Auld Shillelagh — Lloyd John",
+    "start": "2026-08-21T20:00:00+01:00",
+    "end": "2026-08-21T23:00:00+01:00",
+    "venue": "The Auld Shillelagh",
+    "address": "105 Stoke Newington Church Street, N16 0UD",
+    "url": "https://www.theauldshillelagh.co.uk/events-2/2026/8/1/music-august-2026",
+    "source": "venue:auld-shillelagh",
+    "tags": [
+      "music",
+      "community"
+    ],
+    "price": "Free",
+    "description": "Next Friday's seisiún, live 8/9pm-11pm. Later August dates also confirmed: Seán Finch Sat 22, Podge Colton Fri 28, Christy O'Donnell Sat 29.",
+    "neighbourhood": "Stoke Newington",
+    "cycle_minutes": 18,
+    "added": "2026-08-14"
+  },
+  {
     "title": "Forage and Meditate on London Canals (August edition)",
     "start": "2026-08-22T10:00:00+01:00",
     "end": "2026-08-22T13:00:00+01:00",
@@ -2105,6 +2182,24 @@
     "added": "2026-08-10"
   },
   {
+    "id": "martin-carthy-along-the-road-forever-box-set-launch-aa523609",
+    "title": "Martin Carthy 'Along The Road Forever' box set launch",
+    "start": "2026-08-24T19:30:00+01:00",
+    "end": null,
+    "venue": "Cecil Sharp House",
+    "address": "2 Regent's Park Road, NW1 7AY",
+    "url": "https://www.efdss.org/whats-on",
+    "source": "venue:cecil-sharp-house",
+    "tags": [
+      "music"
+    ],
+    "price": null,
+    "description": "Celebration of folk godfather Martin Carthy's deluxe box set launch at the home of English folk — a rare chance to be in the room with the man who taught Paul Simon 'Scarborough Fair'.",
+    "neighbourhood": "Primrose Hill",
+    "cycle_minutes": 32,
+    "added": "2026-08-14"
+  },
+  {
     "id": "speed-dating-speed-karaoke-at-moth-club-25-aug-edition-9bd6fb05",
     "title": "Speed Dating + Speed Karaoke at MOTH Club (25 Aug edition)",
     "start": "2026-08-25T19:00:00+01:00",
@@ -2361,6 +2456,24 @@
     "neighbourhood": "Holloway",
     "cycle_minutes": 25,
     "added": "2026-08-08"
+  },
+  {
+    "id": "kiran-leonard-jennifer-walton-another-country-at-the-ivy-hou-b416e87d",
+    "title": "Kiran Leonard + Jennifer Walton + Another Country at The Ivy House",
+    "start": "2026-08-28T19:30:00+01:00",
+    "end": null,
+    "venue": "The Ivy House",
+    "address": "40 Stuart Road, Nunhead, SE15 3BE",
+    "url": "https://www.ivyhousenunhead.com/whats-on",
+    "source": "venue:ivy-house",
+    "tags": [
+      "music"
+    ],
+    "price": "£12",
+    "description": "Cult Manchester songwriter Kiran Leonard at London's first community-owned pub — special enough to justify the Nunhead trek (Overground easier than the ~45 min cycle).",
+    "neighbourhood": "Nunhead",
+    "cycle_minutes": 45,
+    "added": "2026-08-14"
   },
   {
     "title": "Introduction to Bookbinding at London Centre for Book Arts",
@@ -2690,6 +2803,24 @@
     "added": "2026-07-26"
   },
   {
+    "id": "siwan-catrin-and-tamise-folk-and-roots-at-the-harrison-be7089b7",
+    "title": "Siwan Catrin and Tamise — Folk and Roots at The Harrison",
+    "start": "2026-08-31T19:30:00+01:00",
+    "end": null,
+    "venue": "The Harrison (cellar venue)",
+    "address": "28 Harrison Street, King's Cross, WC1H 8JF",
+    "url": "https://harrisonvenuelondon.com/harrison-venue-events-gigs-kings-cross/",
+    "source": "venue:the-harrison",
+    "tags": [
+      "music"
+    ],
+    "price": "£13",
+    "description": "Folk and Roots double bill in the Harrison's tiny candlelit cellar on bank holiday Monday — Welsh-language folk with harmony duo Tamise.",
+    "neighbourhood": "King's Cross",
+    "cycle_minutes": 25,
+    "added": "2026-08-14"
+  },
+  {
     "id": "how-to-flourish-in-the-age-of-ai-daniel-susskind-5ed3c80b",
     "title": "How to Flourish in the Age of AI — Daniel Susskind",
     "start": "2026-09-01T18:30:00+01:00",
@@ -2761,6 +2892,25 @@
     "cycle_minutes": 8,
     "id": "wiesenthal-at-wilton-s-music-hall-d0862cfa",
     "added": "2026-08-02"
+  },
+  {
+    "id": "sharp-s-folk-club-theme-night-coming-home-a7388b1f",
+    "title": "Sharp's Folk Club Theme Night: Coming Home",
+    "start": "2026-09-01T19:30:00+01:00",
+    "end": null,
+    "venue": "Cecil Sharp House",
+    "address": "2 Regent's Park Road, NW1 7AY",
+    "url": "https://www.efdss.org/whats-on",
+    "source": "venue:cecil-sharp-house",
+    "tags": [
+      "music",
+      "community"
+    ],
+    "price": null,
+    "description": "The traditional singing night returns after summer with a 'Coming Home' theme — sing, play or just listen. Most Tuesdays 7:30pm (guest Brian Peters 22 Sep).",
+    "neighbourhood": "Primrose Hill",
+    "cycle_minutes": 32,
+    "added": "2026-08-14"
   },
   {
     "id": "omani-cookery-class-with-hani-migrateful-pop-up-2322d60d",
@@ -3000,6 +3150,25 @@
     "added": "2026-08-08"
   },
   {
+    "id": "the-hackney-folk-club-newberry-verch-at-chats-palace-70f95a77",
+    "title": "The Hackney Folk Club: Newberry & Verch at Chats Palace",
+    "start": "2026-09-03T19:00:00+01:00",
+    "end": null,
+    "venue": "Chats Palace",
+    "address": "42-44 Brooksby's Walk, Homerton, E9 6DF",
+    "url": "https://dice.fm/event/2w8yop-the-hackney-folk-club-newberry-and-verch-3rd-sep-chats-palace-london-tickets",
+    "source": "venue:dice-chats-palace",
+    "tags": [
+      "music",
+      "community"
+    ],
+    "price": null,
+    "description": "Hackney Folk Club night with transatlantic duo Newberry & Verch (April Verch is a renowned Canadian fiddler/stepdancer) — the closest thing to a proper folk club on your doorstep.",
+    "neighbourhood": "Homerton",
+    "cycle_minutes": 12,
+    "added": "2026-08-14"
+  },
+  {
     "title": "Automatic at MOTH Club",
     "start": "2026-09-03T19:30:00+01:00",
     "end": "2026-09-03T22:30:00+01:00",
@@ -3127,6 +3296,43 @@
     "neighbourhood": "Holborn",
     "cycle_minutes": 22,
     "added": "2026-08-07"
+  },
+  {
+    "id": "marisa-anderson-luce-mawdsley-at-chats-palace-ae335ff6",
+    "title": "Marisa Anderson + Luce Mawdsley at Chats Palace",
+    "start": "2026-09-04T19:30:00+01:00",
+    "end": null,
+    "venue": "Chats Palace",
+    "address": "42-44 Brooksby's Walk, Homerton, E9 6DF",
+    "url": "https://dice.fm/event/l8xonb-marisa-anderson-luce-mawdsley-4th-sep-chats-palace-london-tickets",
+    "source": "venue:dice-chats-palace",
+    "tags": [
+      "music"
+    ],
+    "price": null,
+    "description": "Revered American primitive/experimental folk guitarist Marisa Anderson (Thrill Jockey) in an intimate Homerton room — a serious get for a venue this size.",
+    "neighbourhood": "Homerton",
+    "cycle_minutes": 12,
+    "added": "2026-08-14"
+  },
+  {
+    "id": "the-lantern-society-folk-club-night-at-the-betsey-trotwood-527b8d82",
+    "title": "The Lantern Society — folk club night at The Betsey Trotwood",
+    "start": "2026-09-04T20:00:00+01:00",
+    "end": "2026-09-04T23:00:00+01:00",
+    "venue": "The Betsey Trotwood",
+    "address": "56 Farringdon Road, Clerkenwell, EC1R 3BL",
+    "url": "https://www.thebetsey.com/music-events",
+    "source": "venue:betsey-trotwood",
+    "tags": [
+      "music",
+      "community"
+    ],
+    "price": "£7 adv / £10 door",
+    "description": "The long-running candlelit acoustic/folk showcase in the Victorian pub's upstairs room. Also runs 18 Sep.",
+    "neighbourhood": "Clerkenwell",
+    "cycle_minutes": 15,
+    "added": "2026-08-14"
   },
   {
     "id": "mudlarks-of-the-thames-foreshore-free-weekend-symposium-4f75d68f",
@@ -3337,6 +3543,25 @@
     "added": "2026-08-11"
   },
   {
+    "id": "walthamstow-folk-club-singaround-season-opener-ff37b5ce",
+    "title": "Walthamstow Folk Club Singaround — season opener",
+    "start": "2026-09-06T19:30:00+01:00",
+    "end": null,
+    "venue": "Ye Olde Rose & Crown Theatre Pub",
+    "address": "53 Hoe Street, Walthamstow, E17 4SA",
+    "url": "https://www.walthamstowfolk.co.uk/",
+    "source": "venue:walthamstow-folk-club",
+    "tags": [
+      "music",
+      "community"
+    ],
+    "price": "Free",
+    "description": "The club reopens after summer with a free all-welcome singaround. Every Sunday, doors 7:30pm; autumn guests include Kevin Sheils (13 Sep) and Bold Reilly (27 Sep).",
+    "neighbourhood": "Walthamstow",
+    "cycle_minutes": 30,
+    "added": "2026-08-14"
+  },
+  {
     "title": "Monday Contact Improv: Class + Jam — autumn season opener",
     "start": "2026-09-07T18:30:00+01:00",
     "end": "2026-09-07T20:30:00+01:00",
@@ -3465,6 +3690,25 @@
     "neighbourhood": "Hackney Central",
     "cycle_minutes": 12,
     "added": "2026-08-12"
+  },
+  {
+    "id": "bonnie-dobson-morning-dew-book-launch-at-the-betsey-trotwood-3bd97bca",
+    "title": "Bonnie Dobson 'Morning Dew' book launch at The Betsey Trotwood",
+    "start": "2026-09-08T19:00:00+01:00",
+    "end": "2026-09-08T23:00:00+01:00",
+    "venue": "The Betsey Trotwood",
+    "address": "56 Farringdon Road, Clerkenwell, EC1R 3BL",
+    "url": "https://wegottickets.com/f/24850",
+    "source": "venue:betsey-trotwood",
+    "tags": [
+      "music",
+      "talk"
+    ],
+    "price": "TBA on WeGotTickets",
+    "description": "1960s folk legend Bonnie Dobson (writer of 'Morning Dew', covered by the Grateful Dead) launches her memoir with a live show in the tiny Clerkenwell pub.",
+    "neighbourhood": "Clerkenwell",
+    "cycle_minutes": 15,
+    "added": "2026-08-14"
   },
   {
     "title": "Rostam at Village Underground",
@@ -3704,6 +3948,24 @@
     "cycle_minutes": 7,
     "id": "iceland-airwaves-off-venue-showcase-free-76e73452",
     "added": "2026-07-31"
+  },
+  {
+    "id": "james-felice-the-felice-brothers-will-lawrence-at-green-note-4026d14a",
+    "title": "James Felice (The Felice Brothers) + Will Lawrence at Green Note",
+    "start": "2026-09-10T19:00:00+01:00",
+    "end": null,
+    "venue": "Green Note",
+    "address": "106 Parkway, Camden, NW1 7AN",
+    "url": "https://www.songkick.com/concerts/43257631-james-felice-at-green-note",
+    "source": "venue:green-note",
+    "tags": [
+      "music"
+    ],
+    "price": null,
+    "description": "Felice Brothers accordionist/singer James Felice solo in London's best folk café — ragged-hearted Americana at kitchen-table range. Time is a doors placeholder; confirm on greennote.co.uk.",
+    "neighbourhood": "Camden",
+    "cycle_minutes": 32,
+    "added": "2026-08-14"
   },
   {
     "id": "gia-margaret-at-earth-01789289",
@@ -4094,6 +4356,24 @@
     "added": "2026-08-10"
   },
   {
+    "id": "dean-owens-marcus-bonfanti-at-green-note-f4d110e6",
+    "title": "Dean Owens + Marcus Bonfanti at Green Note",
+    "start": "2026-09-14T19:00:00+01:00",
+    "end": null,
+    "venue": "Green Note",
+    "address": "106 Parkway, Camden, NW1 7AN",
+    "url": "https://www.songkick.com/concerts/43288375-dean-owens-at-green-note",
+    "source": "venue:green-note",
+    "tags": [
+      "music"
+    ],
+    "price": null,
+    "description": "Scottish Americana songwriter Dean Owens (Buffalo Blood) shares a Monday bill with blues guitarist Marcus Bonfanti. Time is a doors placeholder; confirm on greennote.co.uk.",
+    "neighbourhood": "Camden",
+    "cycle_minutes": 32,
+    "added": "2026-08-14"
+  },
+  {
     "title": "Neumatic Parlo + Houndshark at Sebright Arms",
     "start": "2026-09-14T19:30:00+01:00",
     "end": null,
@@ -4238,6 +4518,24 @@
     "added": "2026-08-03"
   },
   {
+    "id": "sam-carter-sings-nic-jones-at-cecil-sharp-house-bb75bdac",
+    "title": "Sam Carter sings Nic Jones at Cecil Sharp House",
+    "start": "2026-09-16T19:30:00+01:00",
+    "end": null,
+    "venue": "Cecil Sharp House",
+    "address": "2 Regent's Park Road, NW1 7AY",
+    "url": "https://www.efdss.org/whats-on",
+    "source": "venue:cecil-sharp-house",
+    "tags": [
+      "music"
+    ],
+    "price": null,
+    "description": "BBC Folk Award winner Sam Carter performs the music of Nic Jones — one of the most loved (and least performable) catalogues in English folk.",
+    "neighbourhood": "Primrose Hill",
+    "cycle_minutes": 32,
+    "added": "2026-08-14"
+  },
+  {
     "title": "Tarot for Beginners: Numerology & the Fool's Journey",
     "start": "2026-09-17T18:30:00+01:00",
     "end": "2026-09-17T21:30:00+01:00",
@@ -4292,6 +4590,25 @@
     "neighbourhood": "Bow",
     "cycle_minutes": 10,
     "added": "2026-08-08"
+  },
+  {
+    "id": "the-hackney-folk-club-mishra-at-chats-palace-bc67983e",
+    "title": "The Hackney Folk Club: Mishra at Chats Palace",
+    "start": "2026-09-17T19:00:00+01:00",
+    "end": null,
+    "venue": "Chats Palace",
+    "address": "42-44 Brooksby's Walk, Homerton, E9 6DF",
+    "url": "https://dice.fm/event/bb8g2x-the-hackney-folk-club-mishra-17th-sep-chats-palace-london-tickets",
+    "source": "venue:dice-chats-palace",
+    "tags": [
+      "music",
+      "community"
+    ],
+    "price": null,
+    "description": "Award-nominated folk/global fusion band Mishra (banjo, tabla, clarinet) at the local folk club. Season continues with Bruce Molsky & Darol Anger (15 Oct).",
+    "neighbourhood": "Homerton",
+    "cycle_minutes": 12,
+    "added": "2026-08-14"
   },
   {
     "id": "breathwork-harmonizing-sound-and-sacred-cacao-ceremony-18-se-2a4f6ff4",
@@ -4425,6 +4742,26 @@
     "neighbourhood": "Primrose Hill",
     "added": "2026-08-05",
     "cycle_minutes": 32
+  },
+  {
+    "id": "the-art-of-play-play-fight-contact-improvisation-d79f32fd",
+    "title": "The Art of Play: play fight & contact improvisation",
+    "start": "2026-09-19T18:00:00+01:00",
+    "end": null,
+    "venue": "Anatomie Studio",
+    "address": "Station Passage, Peckham, SE15",
+    "url": "https://dandelion.events/e/6a7dc52aeebf46a29e0be5be",
+    "source": "aggregator:dandelion",
+    "tags": [
+      "dance",
+      "workshop",
+      "community"
+    ],
+    "price": "£50-£80 tiered (top tier over cap — flagged)",
+    "description": "Evening workshop blending play-fighting and contact improvisation — physical, playful, squarely in the CI/embodiment lane.",
+    "neighbourhood": "Peckham",
+    "cycle_minutes": 35,
+    "added": "2026-08-14"
   },
   {
     "id": "you-don-t-know-what-you-re-m-ss-ng-the-hidden-data-shaping-o-725b23c7",

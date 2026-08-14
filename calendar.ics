@@ -432,6 +432,22 @@ URL:https://www.angelcomedy.co.uk/event-detail/angel-comedy-fridays-camden
 LOCATION:The Camden Head\, 2 Camden Walk\, Islington\, N1 8DY
 END:VEVENT
 BEGIN:VEVENT
+UID:trad-irish-seisi-n-at-the-auld-shillelagh-kevin-olohan-niall-60aa739a@
+ london-events
+DTSTAMP:20260814T190000Z
+DTSTART:20260814T190000Z
+DTEND:20260814T220000Z
+SUMMARY:Trad Irish Seisiún at The Auld Shillelagh — Kevin Olohan & Nial
+ l Murphy
+DESCRIPTION:Tonight's confirmed Irish seisiún at the famously narrow Stok
+ ey institution — live from 8/9pm to 11pm. Sessions run every other Thur
+ sday & Friday\; August rota is posted on their events page.\nPrice: Free\
+ nhttps://www.theauldshillelagh.co.uk/events-2/2026/8/1/music-august-2026
+URL:https://www.theauldshillelagh.co.uk/events-2/2026/8/1/music-august-202
+ 6
+LOCATION:The Auld Shillelagh\, 105 Stoke Newington Church Street\, N16 0UD
+END:VEVENT
+BEGIN:VEVENT
 UID:the-devil-wears-prada-2-rooftop-cinema-club-stratford-739ebc70@london-
  events
 DTSTAMP:20260814T194500Z
@@ -533,6 +549,19 @@ DESCRIPTION:Free canalside deckchair cinema with four films a day (1pm/3pm
  .everymancinema.com/everyman-on-the-canal-at-kings-cross/
 URL:https://www.everymancinema.com/everyman-on-the-canal-at-kings-cross/
 LOCATION:Granary Square\, King's Cross\, Granary Square\, London N1C 4DQ
+END:VEVENT
+BEGIN:VEVENT
+UID:singaround-at-the-harrison-free-folk-session-191755c2@london-events
+DTSTAMP:20260815T120000Z
+DTSTART:20260815T120000Z
+DTEND:20260815T140000Z
+SUMMARY:Singaround at The Harrison (free folk session)
+DESCRIPTION:Free\, friendly traditional singaround in the Harrison's basem
+ ent folk cellar this Saturday afternoon — bring a song or just listen.\
+ nPrice: Free\nhttps://harrisonvenuelondon.com/events/singaround-london/
+URL:https://harrisonvenuelondon.com/events/singaround-london/
+LOCATION:The Harrison (cellar venue)\, 28 Harrison Street\, King's Cross\,
+  WC1H 8JF
 END:VEVENT
 BEGIN:VEVENT
 UID:bengal-to-bethnal-green-grand-union-orchestra-7d88eacb@london-events
@@ -733,6 +762,21 @@ DESCRIPTION:All-afternoon free jazz takeover for Tomorrow's Warriors' 35th
  www.artstrust.co.uk/events/kings-cross-summer-sounds-1-e9d9c
 URL:https://www.artstrust.co.uk/events/kings-cross-summer-sounds-1-e9d9c
 LOCATION:Coal Drops Yard\, King's Cross\, Stable Street\, N1C 4DQ
+END:VEVENT
+BEGIN:VEVENT
+UID:free-outdoor-jazz-salsa-at-the-palm-tree-courtyard-67c89481@london-eve
+ nts
+DTSTAMP:20260816T130000Z
+DTSTART:20260816T130000Z
+DTEND:20260816T170000Z
+SUMMARY:Free Outdoor Jazz & Salsa at The Palm Tree courtyard
+DESCRIPTION:Free afternoon of live jazz bands alternating with salsa dance
+  sessions outside the legendary cash-only East End jazz pub. The pub's in
+ door weekend crooner nights have no published schedule — just turn up a
+ fter 8pm.\nPrice: Free\nhttps://umat.org.uk/palm-tree.html
+URL:https://umat.org.uk/palm-tree.html
+LOCATION:The Palm Tree (forecourt)\, Mile End Park\, 127 Grove Road\, Mile
+  End\, E3 5BH
 END:VEVENT
 BEGIN:VEVENT
 UID:reggae-party-with-the-tighten-up-crew-s-reggae-cookouts-free-336f2794@
@@ -1339,6 +1383,21 @@ URL:https://www.angelcomedy.co.uk/event-detail/angel-comedy-fridays-camden
 LOCATION:The Camden Head\, 2 Camden Walk\, Islington\, N1 8DY
 END:VEVENT
 BEGIN:VEVENT
+UID:trad-irish-seisi-n-at-the-auld-shillelagh-lloyd-john-722af6ef@london-e
+ vents
+DTSTAMP:20260821T190000Z
+DTSTART:20260821T190000Z
+DTEND:20260821T220000Z
+SUMMARY:Trad Irish Seisiún at The Auld Shillelagh — Lloyd John
+DESCRIPTION:Next Friday's seisiún\, live 8/9pm-11pm. Later August dates a
+ lso confirmed: Seán Finch Sat 22\, Podge Colton Fri 28\, Christy O'Donne
+ ll Sat 29.\nPrice: Free\nhttps://www.theauldshillelagh.co.uk/events-2/202
+ 6/8/1/music-august-2026
+URL:https://www.theauldshillelagh.co.uk/events-2/2026/8/1/music-august-202
+ 6
+LOCATION:The Auld Shillelagh\, 105 Stoke Newington Church Street\, N16 0UD
+END:VEVENT
+BEGIN:VEVENT
 UID:forage-and-meditate-on-london-canals-august-edition-ef329a80@london-ev
  ents
 DTSTAMP:20260822T090000Z
@@ -1600,6 +1659,20 @@ URL:https://newspeak.house/#events
 LOCATION:Newspeak House\, 133 Bethnal Green Road\, E2 7DG
 END:VEVENT
 BEGIN:VEVENT
+UID:martin-carthy-along-the-road-forever-box-set-launch-aa523609@london-ev
+ ents
+DTSTAMP:20260824T183000Z
+DTSTART:20260824T183000Z
+DTEND:20260824T203000Z
+SUMMARY:Martin Carthy 'Along The Road Forever' box set launch
+DESCRIPTION:Celebration of folk godfather Martin Carthy's deluxe box set l
+ aunch at the home of English folk — a rare chance to be in the room wit
+ h the man who taught Paul Simon 'Scarborough Fair'.\nhttps://www.efdss.or
+ g/whats-on
+URL:https://www.efdss.org/whats-on
+LOCATION:Cecil Sharp House\, 2 Regent's Park Road\, NW1 7AY
+END:VEVENT
+BEGIN:VEVENT
 UID:speed-dating-speed-karaoke-at-moth-club-25-aug-edition-9bd6fb05@london
  -events
 DTSTAMP:20260825T180000Z
@@ -1797,6 +1870,20 @@ DESCRIPTION:Monthly church-acoustics sound bath: gongs plus guest musician
  tps://dandelion.events/e/v99um
 URL:https://dandelion.events/e/v99um
 LOCATION:St Luke's Church\, Hillmarton Road\, Holloway\, N7
+END:VEVENT
+BEGIN:VEVENT
+UID:kiran-leonard-jennifer-walton-another-country-at-the-ivy-hou-b416e87d@
+ london-events
+DTSTAMP:20260828T183000Z
+DTSTART:20260828T183000Z
+DTEND:20260828T203000Z
+SUMMARY:Kiran Leonard + Jennifer Walton + Another Country at The Ivy House
+DESCRIPTION:Cult Manchester songwriter Kiran Leonard at London's first com
+ munity-owned pub — special enough to justify the Nunhead trek (Overgrou
+ nd easier than the ~45 min cycle).\nPrice: £12\nhttps://www.ivyhousenunh
+ ead.com/whats-on
+URL:https://www.ivyhousenunhead.com/whats-on
+LOCATION:The Ivy House\, 40 Stuart Road\, Nunhead\, SE15 3BE
 END:VEVENT
 BEGIN:VEVENT
 UID:introduction-to-bookbinding-at-london-centre-for-book-arts-14717119@lo
@@ -2044,6 +2131,22 @@ URL:https://luma.com/e0gtnzhq
 LOCATION:Newspeak House\, 133 Bethnal Green Road\, E2 7DG
 END:VEVENT
 BEGIN:VEVENT
+UID:siwan-catrin-and-tamise-folk-and-roots-at-the-harrison-be7089b7@london
+ -events
+DTSTAMP:20260831T183000Z
+DTSTART:20260831T183000Z
+DTEND:20260831T203000Z
+SUMMARY:Siwan Catrin and Tamise — Folk and Roots at The Harrison
+DESCRIPTION:Folk and Roots double bill in the Harrison's tiny candlelit ce
+ llar on bank holiday Monday — Welsh-language folk with harmony duo Tami
+ se.\nPrice: £13\nhttps://harrisonvenuelondon.com/harrison-venue-events-g
+ igs-kings-cross/
+URL:https://harrisonvenuelondon.com/harrison-venue-events-gigs-kings-cross
+ /
+LOCATION:The Harrison (cellar venue)\, 28 Harrison Street\, King's Cross\,
+  WC1H 8JF
+END:VEVENT
+BEGIN:VEVENT
 UID:how-to-flourish-in-the-age-of-ai-daniel-susskind-5ed3c80b@london-event
  s
 DTSTAMP:20260901T173000Z
@@ -2097,6 +2200,18 @@ DESCRIPTION:Five-star one-man play about Nazi hunter Simon Wiesenthal\, se
  al.\nPrice: £15.50-£30\nhttps://wiltons.org.uk/whats-on/wiesenthal/
 URL:https://wiltons.org.uk/whats-on/wiesenthal/
 LOCATION:Wilton's Music Hall\, 1 Graces Alley\, E1 8JB
+END:VEVENT
+BEGIN:VEVENT
+UID:sharp-s-folk-club-theme-night-coming-home-a7388b1f@london-events
+DTSTAMP:20260901T183000Z
+DTSTART:20260901T183000Z
+DTEND:20260901T203000Z
+SUMMARY:Sharp's Folk Club Theme Night: Coming Home
+DESCRIPTION:The traditional singing night returns after summer with a 'Com
+ ing Home' theme — sing\, play or just listen. Most Tuesdays 7:30pm (gue
+ st Brian Peters 22 Sep).\nhttps://www.efdss.org/whats-on
+URL:https://www.efdss.org/whats-on
+LOCATION:Cecil Sharp House\, 2 Regent's Park Road\, NW1 7AY
 END:VEVENT
 BEGIN:VEVENT
 UID:omani-cookery-class-with-hani-migrateful-pop-up-2322d60d@london-events
@@ -2287,6 +2402,22 @@ URL:https://www.thursday.com/events/london/c34ec1b9-091a-49a7-beae-61ee0d6
 LOCATION:Regent's Rooftop\, Kings Cross\, London
 END:VEVENT
 BEGIN:VEVENT
+UID:the-hackney-folk-club-newberry-verch-at-chats-palace-70f95a77@london-e
+ vents
+DTSTAMP:20260903T180000Z
+DTSTART:20260903T180000Z
+DTEND:20260903T200000Z
+SUMMARY:The Hackney Folk Club: Newberry & Verch at Chats Palace
+DESCRIPTION:Hackney Folk Club night with transatlantic duo Newberry & Verc
+ h (April Verch is a renowned Canadian fiddler/stepdancer) — the closest
+  thing to a proper folk club on your doorstep.\nhttps://dice.fm/event/2w8
+ yop-the-hackney-folk-club-newberry-and-verch-3rd-sep-chats-palace-london-
+ tickets
+URL:https://dice.fm/event/2w8yop-the-hackney-folk-club-newberry-and-verch-
+ 3rd-sep-chats-palace-london-tickets
+LOCATION:Chats Palace\, 42-44 Brooksby's Walk\, Homerton\, E9 6DF
+END:VEVENT
+BEGIN:VEVENT
 UID:automatic-at-moth-club-82a8d6a0@london-events
 DTSTAMP:20260903T183000Z
 DTSTART:20260903T183000Z
@@ -2382,6 +2513,33 @@ DESCRIPTION:Historian Dr Thomas Waters tells the history of magic through
  booth/shows/1173674867
 URL:https://conwayhall.ticketsolve.com/ticketbooth/shows/1173674867
 LOCATION:Conway Hall\, 25 Red Lion Square\, WC1R 4RL
+END:VEVENT
+BEGIN:VEVENT
+UID:marisa-anderson-luce-mawdsley-at-chats-palace-ae335ff6@london-events
+DTSTAMP:20260904T183000Z
+DTSTART:20260904T183000Z
+DTEND:20260904T203000Z
+SUMMARY:Marisa Anderson + Luce Mawdsley at Chats Palace
+DESCRIPTION:Revered American primitive/experimental folk guitarist Marisa 
+ Anderson (Thrill Jockey) in an intimate Homerton room — a serious get f
+ or a venue this size.\nhttps://dice.fm/event/l8xonb-marisa-anderson-luce-
+ mawdsley-4th-sep-chats-palace-london-tickets
+URL:https://dice.fm/event/l8xonb-marisa-anderson-luce-mawdsley-4th-sep-cha
+ ts-palace-london-tickets
+LOCATION:Chats Palace\, 42-44 Brooksby's Walk\, Homerton\, E9 6DF
+END:VEVENT
+BEGIN:VEVENT
+UID:the-lantern-society-folk-club-night-at-the-betsey-trotwood-527b8d82@lo
+ ndon-events
+DTSTAMP:20260904T190000Z
+DTSTART:20260904T190000Z
+DTEND:20260904T220000Z
+SUMMARY:The Lantern Society — folk club night at The Betsey Trotwood
+DESCRIPTION:The long-running candlelit acoustic/folk showcase in the Victo
+ rian pub's upstairs room. Also runs 18 Sep.\nPrice: £7 adv / £10 door\n
+ https://www.thebetsey.com/music-events
+URL:https://www.thebetsey.com/music-events
+LOCATION:The Betsey Trotwood\, 56 Farringdon Road\, Clerkenwell\, EC1R 3BL
 END:VEVENT
 BEGIN:VEVENT
 UID:mudlarks-of-the-thames-foreshore-free-weekend-symposium-4f75d68f@londo
@@ -2535,6 +2693,20 @@ URL:https://dandelion.events/e/y7n5y
 LOCATION:Plot 9\, Maze Hill\, Greenwich
 END:VEVENT
 BEGIN:VEVENT
+UID:walthamstow-folk-club-singaround-season-opener-ff37b5ce@london-events
+DTSTAMP:20260906T183000Z
+DTSTART:20260906T183000Z
+DTEND:20260906T203000Z
+SUMMARY:Walthamstow Folk Club Singaround — season opener
+DESCRIPTION:The club reopens after summer with a free all-welcome singarou
+ nd. Every Sunday\, doors 7:30pm\; autumn guests include Kevin Sheils (13 
+ Sep) and Bold Reilly (27 Sep).\nPrice: Free\nhttps://www.walthamstowfolk.
+ co.uk/
+URL:https://www.walthamstowfolk.co.uk/
+LOCATION:Ye Olde Rose & Crown Theatre Pub\, 53 Hoe Street\, Walthamstow\, 
+ E17 4SA
+END:VEVENT
+BEGIN:VEVENT
 UID:monday-contact-improv-class-jam-autumn-season-opener-65e37bfe@london-e
  vents
 DTSTAMP:20260907T173000Z
@@ -2628,6 +2800,20 @@ DESCRIPTION:The Tuesday attic drop-in returns after its late-summer break:
  Price: £12.50 advance / £15 door\nhttps://lifedrawing.art/
 URL:https://lifedrawing.art/
 LOCATION:Hackney Picturehouse (attic)\, 270 Mare Street\, E8 1HE
+END:VEVENT
+BEGIN:VEVENT
+UID:bonnie-dobson-morning-dew-book-launch-at-the-betsey-trotwood-3bd97bca@
+ london-events
+DTSTAMP:20260908T180000Z
+DTSTART:20260908T180000Z
+DTEND:20260908T220000Z
+SUMMARY:Bonnie Dobson 'Morning Dew' book launch at The Betsey Trotwood
+DESCRIPTION:1960s folk legend Bonnie Dobson (writer of 'Morning Dew'\, cov
+ ered by the Grateful Dead) launches her memoir with a live show in the ti
+ ny Clerkenwell pub.\nPrice: TBA on WeGotTickets\nhttps://wegottickets.com
+ /f/24850
+URL:https://wegottickets.com/f/24850
+LOCATION:The Betsey Trotwood\, 56 Farringdon Road\, Clerkenwell\, EC1R 3BL
 END:VEVENT
 BEGIN:VEVENT
 UID:rostam-at-village-underground-9c18192c@london-events
@@ -2809,6 +2995,20 @@ DESCRIPTION:Free showcase of Icelandic artists ahead of the Iceland Airwav
 URL:https://dice.fm/event/dkoxe6-iceland-airwaves-off-venue-10th-sep-colou
  rs-hoxton-london-tickets
 LOCATION:Colours Hoxton\, 2-4 Hoxton Square\, N1 6NU
+END:VEVENT
+BEGIN:VEVENT
+UID:james-felice-the-felice-brothers-will-lawrence-at-green-note-4026d14a@
+ london-events
+DTSTAMP:20260910T180000Z
+DTSTART:20260910T180000Z
+DTEND:20260910T200000Z
+SUMMARY:James Felice (The Felice Brothers) + Will Lawrence at Green Note
+DESCRIPTION:Felice Brothers accordionist/singer James Felice solo in Londo
+ n's best folk café — ragged-hearted Americana at kitchen-table range. 
+ Time is a doors placeholder\; confirm on greennote.co.uk.\nhttps://www.so
+ ngkick.com/concerts/43257631-james-felice-at-green-note
+URL:https://www.songkick.com/concerts/43257631-james-felice-at-green-note
+LOCATION:Green Note\, 106 Parkway\, Camden\, NW1 7AN
 END:VEVENT
 BEGIN:VEVENT
 UID:gia-margaret-at-earth-01789289@london-events
@@ -3100,6 +3300,19 @@ URL:https://www.rigb.org/whats-on/jbs-haldane-lecture-2026-genetic-discove
 LOCATION:Royal Institution\, 21 Albemarle Street\, Mayfair W1S 4BS
 END:VEVENT
 BEGIN:VEVENT
+UID:dean-owens-marcus-bonfanti-at-green-note-f4d110e6@london-events
+DTSTAMP:20260914T180000Z
+DTSTART:20260914T180000Z
+DTEND:20260914T200000Z
+SUMMARY:Dean Owens + Marcus Bonfanti at Green Note
+DESCRIPTION:Scottish Americana songwriter Dean Owens (Buffalo Blood) share
+ s a Monday bill with blues guitarist Marcus Bonfanti. Time is a doors pla
+ ceholder\; confirm on greennote.co.uk.\nhttps://www.songkick.com/concerts
+ /43288375-dean-owens-at-green-note
+URL:https://www.songkick.com/concerts/43288375-dean-owens-at-green-note
+LOCATION:Green Note\, 106 Parkway\, Camden\, NW1 7AN
+END:VEVENT
+BEGIN:VEVENT
 UID:neumatic-parlo-houndshark-at-sebright-arms-b594b411@london-events
 DTSTAMP:20260914T183000Z
 DTSTART:20260914T183000Z
@@ -3209,6 +3422,18 @@ URL:https://www.conwayhall.org.uk/whats-on/event/an-evening-with-sebastian
 LOCATION:Conway Hall\, 25 Red Lion Square\, WC1R 4RL
 END:VEVENT
 BEGIN:VEVENT
+UID:sam-carter-sings-nic-jones-at-cecil-sharp-house-bb75bdac@london-events
+DTSTAMP:20260916T183000Z
+DTSTART:20260916T183000Z
+DTEND:20260916T203000Z
+SUMMARY:Sam Carter sings Nic Jones at Cecil Sharp House
+DESCRIPTION:BBC Folk Award winner Sam Carter performs the music of Nic Jon
+ es — one of the most loved (and least performable) catalogues in Englis
+ h folk.\nhttps://www.efdss.org/whats-on
+URL:https://www.efdss.org/whats-on
+LOCATION:Cecil Sharp House\, 2 Regent's Park Road\, NW1 7AY
+END:VEVENT
+BEGIN:VEVENT
 UID:tarot-for-beginners-numerology-the-fool-s-journey-b8deeebd@london-even
  ts
 DTSTAMP:20260917T173000Z
@@ -3247,6 +3472,20 @@ DESCRIPTION:September edition of the monthly singles book club at the Roma
 URL:https://www.thursday.com/events/london/8500db4e-d571-4c14-8cab-01d68fc
  9e437
 LOCATION:Bàrd Books\, Roman Road\, Bow\, E3
+END:VEVENT
+BEGIN:VEVENT
+UID:the-hackney-folk-club-mishra-at-chats-palace-bc67983e@london-events
+DTSTAMP:20260917T180000Z
+DTSTART:20260917T180000Z
+DTEND:20260917T200000Z
+SUMMARY:The Hackney Folk Club: Mishra at Chats Palace
+DESCRIPTION:Award-nominated folk/global fusion band Mishra (banjo\, tabla\
+ , clarinet) at the local folk club. Season continues with Bruce Molsky & 
+ Darol Anger (15 Oct).\nhttps://dice.fm/event/bb8g2x-the-hackney-folk-club
+ -mishra-17th-sep-chats-palace-london-tickets
+URL:https://dice.fm/event/bb8g2x-the-hackney-folk-club-mishra-17th-sep-cha
+ ts-palace-london-tickets
+LOCATION:Chats Palace\, 42-44 Brooksby's Walk\, Homerton\, E9 6DF
 END:VEVENT
 BEGIN:VEVENT
 UID:breathwork-harmonizing-sound-and-sacred-cacao-ceremony-18-se-2a4f6ff4@
@@ -3346,6 +3585,20 @@ DESCRIPTION:Friendly Saturday afternoon of traditional dances from around
 URL:https://www.cecilsharphouse.org/whats-on/27-dances/15787-international
  -folk-dancing-with-the-sifd-band
 LOCATION:Cecil Sharp House\, 2 Regent's Park Road\, NW1 7AY
+END:VEVENT
+BEGIN:VEVENT
+UID:the-art-of-play-play-fight-contact-improvisation-d79f32fd@london-event
+ s
+DTSTAMP:20260919T170000Z
+DTSTART:20260919T170000Z
+DTEND:20260919T190000Z
+SUMMARY:The Art of Play: play fight & contact improvisation
+DESCRIPTION:Evening workshop blending play-fighting and contact improvisat
+ ion — physical\, playful\, squarely in the CI/embodiment lane.\nPrice: 
+ £50-£80 tiered (top tier over cap — flagged)\nhttps://dandelion.event
+ s/e/6a7dc52aeebf46a29e0be5be
+URL:https://dandelion.events/e/6a7dc52aeebf46a29e0be5be
+LOCATION:Anatomie Studio\, Station Passage\, Peckham\, SE15
 END:VEVENT
 BEGIN:VEVENT
 UID:you-don-t-know-what-you-re-m-ss-ng-the-hidden-data-shaping-o-725b23c7@
