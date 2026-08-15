@@ -3358,6 +3358,25 @@
     "added": "2026-08-14"
   },
   {
+    "id": "deeper-into-movies-10th-birthday-party-at-moth-club-0361ca39",
+    "title": "Deeper Into Movies 10th Birthday Party at MOTH Club",
+    "start": "2026-09-06T19:30:00+01:00",
+    "end": null,
+    "venue": "MOTH Club",
+    "address": "Old Trades Hall, Valette Street, E9 6NU",
+    "url": "https://dice.fm/event/xe3lbl-deeper-into-movies-10th-birthday-party-6th-sep-moth-club-london-tickets",
+    "source": "venue:dice-moth-club",
+    "tags": [
+      "music",
+      "film"
+    ],
+    "price": "£10",
+    "description": "The beloved film-club-meets-gig-night celebrates 10 years where it started: short films, live performances and more, Sunday evening.",
+    "neighbourhood": "Hackney Central",
+    "cycle_minutes": 12,
+    "added": "2026-08-15"
+  },
+  {
     "title": "Monday Contact Improv: Class + Jam — autumn season opener",
     "start": "2026-09-07T18:30:00+01:00",
     "end": "2026-09-07T20:30:00+01:00",
@@ -3412,6 +3431,24 @@
     "neighbourhood": "Mayfair",
     "cycle_minutes": 35,
     "added": "2026-08-11"
+  },
+  {
+    "id": "charlie-kilgore-live-from-the-afterlife-at-sjq-e0aa548e",
+    "title": "Charlie Kilgore: Live From The Afterlife at SJQ",
+    "start": "2026-09-07T19:30:00+01:00",
+    "end": null,
+    "venue": "Servant Jazz Quarters",
+    "address": "10a Bradbury Street, Dalston, N16 8JN",
+    "url": "https://dice.fm/event/yodp82-charlie-kilgore-live-from-the-afterlife-7th-sep-sjq-london-tickets",
+    "source": "venue:dice-sjq",
+    "tags": [
+      "music"
+    ],
+    "price": "£14.50",
+    "description": "Producer for Arlo Parks and Jordana steps out with his own songs — intimate Monday basement show.",
+    "neighbourhood": "Dalston",
+    "cycle_minutes": 15,
+    "added": "2026-08-15"
   },
   {
     "id": "bright-phoebus-revisited-lal-mike-waterson-tribute-d5356564",
@@ -5285,6 +5322,24 @@
     "added": "2026-08-11"
   },
   {
+    "id": "swim-deep-at-moth-club-455da9c6",
+    "title": "Swim Deep at MOTH Club",
+    "start": "2026-10-02T19:00:00+01:00",
+    "end": null,
+    "venue": "MOTH Club",
+    "address": "Old Trades Hall, Valette Street, E9 6NU",
+    "url": "https://dice.fm/event/avpbe2-swim-deep-2nd-oct-moth-club-london-tickets",
+    "source": "venue:dice-moth-club",
+    "tags": [
+      "music"
+    ],
+    "price": "£23.80",
+    "description": "B-Town indie-pop veterans play the first of two intimate MOTH nights (also 3 Oct).",
+    "neighbourhood": "Hackney Central",
+    "cycle_minutes": 12,
+    "added": "2026-08-15"
+  },
+  {
     "id": "diy-alive-festival-2026-sports-team-nell-mescal-feet-walt-di-a132649a",
     "title": "DIY Alive Festival 2026 — Sports Team, Nell Mescal, FEET, Walt Disco",
     "start": "2026-10-03T13:00:00+01:00",
@@ -5434,6 +5489,24 @@
     "added": "2026-08-12"
   },
   {
+    "id": "ga-a-at-servant-jazz-quarters-4785282d",
+    "title": "GAÏA at Servant Jazz Quarters",
+    "start": "2026-10-07T19:00:00+01:00",
+    "end": null,
+    "venue": "Servant Jazz Quarters",
+    "address": "10a Bradbury Street, Dalston, N16 8JN",
+    "url": "https://dice.fm/event/8e92a7-gaa-7th-oct-sjq-london-tickets",
+    "source": "venue:dice-sjq",
+    "tags": [
+      "music"
+    ],
+    "price": "£11.70",
+    "description": "Communion ONE new-music night with rising artist GAÏA in Dalston's tiny basement venue.",
+    "neighbourhood": "Dalston",
+    "cycle_minutes": 15,
+    "added": "2026-08-15"
+  },
+  {
     "id": "spark-storytelling-open-mic-haunted-148d5b01",
     "title": "Spark Storytelling Open Mic — 'Haunted'",
     "start": "2026-10-07T19:30:00+01:00",
@@ -5451,6 +5524,61 @@
     "neighbourhood": "Brixton",
     "cycle_minutes": 45,
     "added": "2026-08-12"
+  },
+  {
+    "id": "systemic-family-constellations-evening-workshop-kailash-cent-6f70225f",
+    "title": "Systemic & Family Constellations Evening Workshop (Kailash Centre)",
+    "start": "2026-10-08T18:30:00+01:00",
+    "end": "2026-10-08T21:45:00+01:00",
+    "venue": "Kailash Centre",
+    "address": "7 Newcourt Street, St John's Wood, NW8 7AA",
+    "url": "https://dandelion.events/e/p3lp4",
+    "source": "aggregator:dandelion",
+    "tags": [
+      "workshop"
+    ],
+    "price": "£25-£35",
+    "description": "Evening in-person constellations workshop — group relational work in the family-systems tradition. Tube easier than the ~40 min ride.",
+    "neighbourhood": "St John's Wood",
+    "cycle_minutes": 40,
+    "added": "2026-08-15"
+  },
+  {
+    "id": "terra-twin-at-moth-club-990b4139",
+    "title": "Terra Twin at MOTH Club",
+    "start": "2026-10-08T19:00:00+01:00",
+    "end": null,
+    "venue": "MOTH Club",
+    "address": "Old Trades Hall, Valette Street, E9 6NU",
+    "url": "https://dice.fm/event/92k22d-terra-twin-8th-oct-moth-club-london-tickets",
+    "source": "venue:dice-moth-club",
+    "tags": [
+      "music"
+    ],
+    "price": "£13.60",
+    "description": "Communion ONE presents Terra Twin — cheap Thursday-night new-music pick.",
+    "neighbourhood": "Hackney Central",
+    "cycle_minutes": 12,
+    "added": "2026-08-15"
+  },
+  {
+    "id": "incendiary-samuel-pepys-in-words-and-music-at-wilton-s-68e66d3b",
+    "title": "INCENDIARY — Samuel Pepys in Words and Music at Wilton's",
+    "start": "2026-10-08T19:00:00+01:00",
+    "end": null,
+    "venue": "Wilton's Music Hall",
+    "address": "1 Graces Alley, E1 8JB",
+    "url": "https://wiltons.org.uk/whats-on/incendiary-samuel-pepys-in-words-and-music/",
+    "source": "venue:wiltons",
+    "tags": [
+      "music",
+      "theatre"
+    ],
+    "price": "£17-£32",
+    "description": "Pepys's diary of plague, fire and the fall of kings performed by RSC associate Edward Bennett with Baroque soprano Grace Davidson. Also Wed 7 Oct 7pm.",
+    "neighbourhood": "Whitechapel",
+    "cycle_minutes": 10,
+    "added": "2026-08-15"
   },
   {
     "id": "wifi-wars-debug-xxii-interactive-comedy-game-show-8c36d57e",
@@ -5602,6 +5730,24 @@
     "added": "2026-08-10"
   },
   {
+    "id": "jembaa-groove-at-village-underground-aeb1e6ae",
+    "title": "Jembaa Groove at Village Underground",
+    "start": "2026-10-11T19:00:00+01:00",
+    "end": null,
+    "venue": "Village Underground",
+    "address": "54 Holywell Lane, EC2A 3PQ",
+    "url": "https://dice.fm/event/mxdg7v-jembaa-groove-11th-oct-village-underground-london-tickets",
+    "source": "venue:dice-village-underground",
+    "tags": [
+      "music"
+    ],
+    "price": "from £29.87",
+    "description": "Berlin Afro-soul/highlife six-piece in the Shoreditch warehouse space — Sunday night.",
+    "neighbourhood": "Shoreditch",
+    "cycle_minutes": 7,
+    "added": "2026-08-15"
+  },
+  {
     "id": "tiny-vipers-chantal-acda-red-river-dialect-at-sjq-e92460ff",
     "title": "Tiny Vipers + Chantal Acda + Red River Dialect at SJQ",
     "start": "2026-10-11T19:30:00+01:00",
@@ -5618,6 +5764,209 @@
     "neighbourhood": "Dalston",
     "cycle_minutes": 15,
     "added": "2026-08-09"
+  },
+  {
+    "id": "contact-improv-monday-beginners-class-with-rick-nodine-12-oc-e789b49e",
+    "title": "Contact Improv: Monday Beginners class with Rick Nodine (12 Oct drop-in)",
+    "start": "2026-10-12T18:30:00+01:00",
+    "end": "2026-10-12T21:30:00+01:00",
+    "venue": "Acland Burghley School Sports Centre",
+    "address": "Burghley Road, Tufnell Park, NW5 1UJ",
+    "url": "https://bookwhen.com/ricknodine/e/ev-szq85-20261012183000",
+    "source": "listing:cicalendar",
+    "tags": [
+      "dance",
+      "class"
+    ],
+    "price": null,
+    "description": "Drop-in single class in Rick Nodine's Monday beginners CI course — a proper way into contact improvisation.",
+    "neighbourhood": "Tufnell Park",
+    "cycle_minutes": 35,
+    "added": "2026-08-15"
+  },
+  {
+    "id": "suzanne-ciani-robot-koch-the-future-is-sound-at-earth-17b8676b",
+    "title": "Suzanne Ciani + Robot Koch — The Future Is Sound at EartH",
+    "start": "2026-10-12T19:00:00+01:00",
+    "end": null,
+    "venue": "EartH (Evolutionary Arts Hackney)",
+    "address": "11-17 Stoke Newington Road, Dalston, N16 8BP",
+    "url": "https://dice.fm/event/g53bl6-suzanne-ciani-robot-koch-ruthlss-more-the-future-is-sound-2026-12th-oct-earth-london-tickets",
+    "source": "venue:dice-earth",
+    "tags": [
+      "music",
+      "tech"
+    ],
+    "price": "£33.27",
+    "description": "Quadraphonic Buchla legend Suzanne Ciani headlines a future-of-sound evening with Robot Koch and RUTHLSS — a rare Monday-night event.",
+    "neighbourhood": "Dalston",
+    "cycle_minutes": 14,
+    "added": "2026-08-15"
+  },
+  {
+    "id": "a-brief-case-of-crazy-offie-winning-physical-comedy-at-wilto-5a7ebb6a",
+    "title": "A Brief Case of Crazy — Offie-winning physical comedy at Wilton's",
+    "start": "2026-10-12T19:00:00+01:00",
+    "end": null,
+    "venue": "Wilton's Music Hall",
+    "address": "1 Graces Alley, E1 8JB",
+    "url": "https://wiltons.org.uk/whats-on/a-brief-case-of-crazy/",
+    "source": "venue:wiltons",
+    "tags": [
+      "theatre",
+      "comedy"
+    ],
+    "price": "£10-£25",
+    "description": "OFFIE-winning romantic physical comedy in the Chaplin/Mr Bean tradition. Runs Mon 12 - Wed 14 Oct at 7pm.",
+    "neighbourhood": "Whitechapel",
+    "cycle_minutes": 10,
+    "added": "2026-08-15"
+  },
+  {
+    "id": "casper-walsh-hustler-boogie-tour-at-moth-club-0ddee856",
+    "title": "Casper Walsh: Hustler Boogie Tour at MOTH Club",
+    "start": "2026-10-13T19:00:00+01:00",
+    "end": null,
+    "venue": "MOTH Club",
+    "address": "Old Trades Hall, Valette Street, E9 6NU",
+    "url": "https://dice.fm/event/oe8rxg-casper-walsh-hustler-boogie-tour-13th-oct-moth-club-london-tickets",
+    "source": "venue:dice-moth-club",
+    "tags": [
+      "music"
+    ],
+    "price": "£21.53",
+    "description": "Casper Walsh brings the Hustler Boogie tour to MOTH's glittery ballroom.",
+    "neighbourhood": "Hackney Central",
+    "cycle_minutes": 12,
+    "added": "2026-08-15"
+  },
+  {
+    "id": "slavoj-i-ek-live-how-to-academy-abfc90e6",
+    "title": "Slavoj Žižek live (How To Academy)",
+    "start": "2026-10-13T19:30:00+01:00",
+    "end": "2026-10-13T20:45:00+01:00",
+    "venue": "Royal Geographical Society",
+    "address": "1 Kensington Gore, SW7 2AR",
+    "url": "https://howtoacademy.com/events/slavoj-zizek-2/",
+    "source": "venue:how-to-academy",
+    "tags": [
+      "talk"
+    ],
+    "price": "£15-£19.50",
+    "description": "The maverick philosopher live at the Royal Geographical Society — provocative big-ideas evening. Tube easier than cycling.",
+    "neighbourhood": "South Kensington",
+    "cycle_minutes": 45,
+    "added": "2026-08-15"
+  },
+  {
+    "id": "pedestrian-band-the-scuttlers-at-the-old-blue-last-free-761b5bfb",
+    "title": "Pedestrian Band + The Scuttlers at The Old Blue Last (free)",
+    "start": "2026-10-13T20:00:00+01:00",
+    "end": null,
+    "venue": "The Old Blue Last",
+    "address": "38 Great Eastern Street, EC2A 3ES",
+    "url": "https://dice.fm/event/2wqbvo-pedestrian-band-the-scuttlers-live-13th-oct-the-old-blue-last-london-tickets",
+    "source": "venue:dice-the-old-blue-last",
+    "tags": [
+      "music"
+    ],
+    "price": "Free",
+    "description": "London trio's surreal noise/garage-punk with Bristol art-rockers The Scuttlers plus a vinyl DJ set — free Tuesday bill.",
+    "neighbourhood": "Shoreditch",
+    "cycle_minutes": 7,
+    "added": "2026-08-15"
+  },
+  {
+    "id": "contact-improv-wednesday-open-class-jam-with-rick-nodine-14--92dc9dd5",
+    "title": "Contact Improv: Wednesday Open Class & Jam with Rick Nodine (14 Oct)",
+    "start": "2026-10-14T18:30:00+01:00",
+    "end": "2026-10-14T21:30:00+01:00",
+    "venue": "Acland Burghley School Sports Centre",
+    "address": "Burghley Road, Tufnell Park, NW5 1UJ",
+    "url": "https://bookwhen.com/ricknodine/e/ev-sacu1-20261014183000",
+    "source": "listing:cicalendar",
+    "tags": [
+      "dance",
+      "class"
+    ],
+    "price": null,
+    "description": "All-levels CI class then open jam — same format as the 30 Sep session; also runs Wed 21 Oct.",
+    "neighbourhood": "Tufnell Park",
+    "cycle_minutes": 35,
+    "added": "2026-08-15"
+  },
+  {
+    "id": "5x15-can-we-reclaim-childhood-from-big-tech-kidron-toksvig-7d58537a",
+    "title": "5x15: Can We Reclaim Childhood from Big Tech? — Kidron & Toksvig",
+    "start": "2026-10-14T19:00:00+01:00",
+    "end": "2026-10-14T20:30:00+01:00",
+    "venue": "Conway Hall",
+    "address": "25 Red Lion Square, WC1R 4RL",
+    "url": "https://www.conwayhall.org.uk/whats-on/event/can-we-reclaim-childhood-from-big-tech-beeban-kidron-sandi-toksvig/",
+    "source": "venue:conway-hall",
+    "tags": [
+      "talk",
+      "tech"
+    ],
+    "price": null,
+    "description": "Age-appropriate-design campaigner Baroness Kidron in conversation with Sandi Toksvig on children, phones and Big Tech.",
+    "neighbourhood": "Holborn",
+    "cycle_minutes": 22,
+    "added": "2026-08-15"
+  },
+  {
+    "id": "vision-fortune-abigail-snail-free-show-at-shacklewell-arms-00bb3668",
+    "title": "Vision Fortune + Abigail Snail — free show at Shacklewell Arms",
+    "start": "2026-10-14T19:30:00+01:00",
+    "end": null,
+    "venue": "The Shacklewell Arms",
+    "address": "71 Shacklewell Lane, Dalston, E8 2EB",
+    "url": "https://dice.fm/event/l8d9gb-vision-fortune-abigail-snail-free-entry-show-14th-oct-the-shacklewell-arms-london-tickets",
+    "source": "venue:dice-shacklewell-arms",
+    "tags": [
+      "music"
+    ],
+    "price": "Free",
+    "description": "Baba Yaga's Hut free-entry show: cult experimental band Vision Fortune, returned after a long hiatus.",
+    "neighbourhood": "Dalston",
+    "cycle_minutes": 13,
+    "added": "2026-08-15"
+  },
+  {
+    "id": "kacy-clayton-at-moth-club-f83e0f5a",
+    "title": "Kacy & Clayton at MOTH Club",
+    "start": "2026-10-15T19:00:00+01:00",
+    "end": null,
+    "venue": "MOTH Club",
+    "address": "Old Trades Hall, Valette Street, E9 6NU",
+    "url": "https://dice.fm/event/53lygk-kacy-clayton-15th-oct-moth-club-london-tickets",
+    "source": "venue:dice-moth-club",
+    "tags": [
+      "music"
+    ],
+    "price": "£19.84",
+    "description": "Saskatchewan cousins' revered country-folk duo — a strong folk pick for the Thursday.",
+    "neighbourhood": "Hackney Central",
+    "cycle_minutes": 12,
+    "added": "2026-08-15"
+  },
+  {
+    "id": "m-x-at-sebright-arms-free-df783280",
+    "title": "M/X at Sebright Arms (free)",
+    "start": "2026-10-15T19:30:00+01:00",
+    "end": null,
+    "venue": "Sebright Arms",
+    "address": "31-35 Coate Street, Bethnal Green, E2 9AG",
+    "url": "https://dice.fm/event/k6d2eq-mx-15th-oct-sebright-arms-london-tickets",
+    "source": "venue:dice-sebright-arms",
+    "tags": [
+      "music"
+    ],
+    "price": "Free",
+    "description": "Bristol dream-punk three-piece — raw-energy post-punk/indie-gaze, free in the basement four minutes from home.",
+    "neighbourhood": "Bethnal Green",
+    "cycle_minutes": 4,
+    "added": "2026-08-15"
   },
   {
     "id": "ri-discourse-cern-the-past-present-and-future-e62898d4",
@@ -5675,6 +6024,26 @@
     "added": "2026-08-08"
   },
   {
+    "id": "embodayfest-ecstatic-dance-uk-day-festival-98e3f957",
+    "title": "EmboDAYfest — Ecstatic Dance UK day festival",
+    "start": "2026-10-17T12:00:00+01:00",
+    "end": "2026-10-17T22:30:00+01:00",
+    "venue": "Eastway Baths",
+    "address": "Eastway, Hackney Wick, E9",
+    "url": "https://dandelion.events/e/w8nbs",
+    "source": "aggregator:dandelion",
+    "tags": [
+      "dance",
+      "festival",
+      "workshop"
+    ],
+    "price": "tiered ~£35-£62",
+    "description": "All-day ecstatic dance festival — multiple dance journeys, workshops and cacao through to 10:30pm, in Hackney Wick.",
+    "neighbourhood": "Hackney Wick",
+    "cycle_minutes": 15,
+    "added": "2026-08-15"
+  },
+  {
     "id": "the-ancient-cosmos-the-james-webb-space-telescope-s-new-reve-682f4ac0",
     "title": "The ancient cosmos: the James Webb Space Telescope's new revelations",
     "start": "2026-10-17T19:00:00+01:00",
@@ -5693,6 +6062,136 @@
     "added": "2026-08-11"
   },
   {
+    "id": "authentic-connections-wavekind-partner-breathwork-half-day-r-88ca7edf",
+    "title": "Authentic Connections: Wavekind Partner Breathwork Half-Day Retreat",
+    "start": "2026-10-18T13:30:00+01:00",
+    "end": "2026-10-18T18:00:00+01:00",
+    "venue": "Self-Retreat Studio",
+    "address": "49 Kentish Town Road, NW1 8NX",
+    "url": "https://dandelion.events/e/g6f2y",
+    "source": "aggregator:dandelion",
+    "tags": [
+      "workshop",
+      "community"
+    ],
+    "price": "£55-£69 solo",
+    "description": "Half-day partner breathwork retreat limited to 12 pairs — come solo and be paired, or bring a friend; includes prep and integration calls.",
+    "neighbourhood": "Camden",
+    "cycle_minutes": 30,
+    "added": "2026-08-15"
+  },
+  {
+    "id": "shaemless-at-the-old-blue-last-free-931ab1cc",
+    "title": "Shaemless at The Old Blue Last (free)",
+    "start": "2026-10-18T20:00:00+01:00",
+    "end": null,
+    "venue": "The Old Blue Last",
+    "address": "38 Great Eastern Street, EC2A 3ES",
+    "url": "https://dice.fm/event/oearga-shaemless-18th-oct-the-old-blue-last-london-tickets",
+    "source": "venue:dice-the-old-blue-last",
+    "tags": [
+      "music"
+    ],
+    "price": "Free",
+    "description": "Dutch noise-post-punk trio (new album produced by Gilla Band's Daniel Fox) — free Sunday-night show.",
+    "neighbourhood": "Shoreditch",
+    "cycle_minutes": 7,
+    "added": "2026-08-15"
+  },
+  {
+    "id": "monday-contact-improv-jam-at-rose-lipman-19-oct-63c68421",
+    "title": "Monday Contact Improv Jam at Rose Lipman (19 Oct)",
+    "start": "2026-10-19T18:30:00+01:00",
+    "end": "2026-10-19T20:30:00+01:00",
+    "venue": "Rose Lipman Building",
+    "address": "43 De Beauvoir Road, N1 5SQ",
+    "url": "https://cicalendar.uk/london",
+    "source": "listing:cicalendar",
+    "tags": [
+      "dance",
+      "community"
+    ],
+    "price": null,
+    "description": "Marie Chabert's Monday CI jam — jam-only session this week.",
+    "neighbourhood": "De Beauvoir",
+    "cycle_minutes": 10,
+    "added": "2026-08-15"
+  },
+  {
+    "id": "onetrackminds-music-storytelling-night-at-wilton-s-58c083f4",
+    "title": "OneTrackMinds — music & storytelling night at Wilton's",
+    "start": "2026-10-19T19:00:00+01:00",
+    "end": null,
+    "venue": "Wilton's Music Hall",
+    "address": "1 Graces Alley, E1 8JB",
+    "url": "https://wiltons.org.uk/whats-on/onetrackminds/",
+    "source": "venue:wiltons",
+    "tags": [
+      "talk",
+      "music"
+    ],
+    "price": "£10-£18",
+    "description": "'Desert Island Discs meets TED Talks meets The Moth': five guests each tell the story of one song that changed their life.",
+    "neighbourhood": "Whitechapel",
+    "cycle_minutes": 10,
+    "added": "2026-08-15"
+  },
+  {
+    "id": "twawsi-the-world-as-we-see-it-ace-dance-double-bill-41243c06",
+    "title": "TWAWSI: The World As We See It — ACE dance double bill",
+    "start": "2026-10-20T19:30:00+01:00",
+    "end": null,
+    "venue": "Hackney Empire",
+    "address": "291 Mare Street, E8 1EJ",
+    "url": "https://www.hackneyempire.co.uk/events/twawsi-the-world-as-we-see-it",
+    "source": "venue:hackney-empire",
+    "tags": [
+      "dance",
+      "theatre"
+    ],
+    "price": "£15-£32",
+    "description": "Contemporary dance double bill redefining dance from the African diaspora, in the Frank Matcham theatre.",
+    "neighbourhood": "Hackney Central",
+    "cycle_minutes": 12,
+    "added": "2026-08-15"
+  },
+  {
+    "id": "earth-tongue-at-the-old-blue-last-79a9fc1a",
+    "title": "Earth Tongue at The Old Blue Last",
+    "start": "2026-10-21T19:00:00+01:00",
+    "end": null,
+    "venue": "The Old Blue Last",
+    "address": "38 Great Eastern Street, EC2A 3ES",
+    "url": "https://dice.fm/event/ww92rr-earth-tongue-21st-oct-the-old-blue-last-london-tickets",
+    "source": "venue:dice-the-old-blue-last",
+    "tags": [
+      "music"
+    ],
+    "price": "£13.26",
+    "description": "Wellington fuzz-psych duo squeeze into the Old Blue Last — loud, cheap Wednesday option.",
+    "neighbourhood": "Shoreditch",
+    "cycle_minutes": 7,
+    "added": "2026-08-15"
+  },
+  {
+    "id": "susan-calman-tall-tales-at-hackney-empire-58021105",
+    "title": "Susan Calman: Tall Tales at Hackney Empire",
+    "start": "2026-10-21T19:30:00+01:00",
+    "end": null,
+    "venue": "Hackney Empire",
+    "address": "291 Mare Street, E8 1EJ",
+    "url": "https://www.hackneyempire.co.uk/events/susan-calman-tall-tales",
+    "source": "venue:hackney-empire",
+    "tags": [
+      "comedy"
+    ],
+    "price": "£28.50",
+    "description": "Susan Calman's first tour in ten years — big-room stand-up ten minutes from home.",
+    "neighbourhood": "Hackney Central",
+    "cycle_minutes": 12,
+    "added": "2026-08-15"
+  },
+  {
     "id": "brown-horse-at-moth-club-05aae99c",
     "title": "Brown Horse at MOTH Club",
     "start": "2026-10-22T19:30:00+01:00",
@@ -5709,6 +6208,42 @@
     "neighbourhood": "Hackney Central",
     "cycle_minutes": 12,
     "added": "2026-08-09"
+  },
+  {
+    "id": "hackney-comedy-experience-with-jen-brister-at-earth-65e1c479",
+    "title": "Hackney Comedy Experience with Jen Brister at EartH",
+    "start": "2026-10-23T19:00:00+01:00",
+    "end": null,
+    "venue": "EartH (Evolutionary Arts Hackney)",
+    "address": "11-17 Stoke Newington Road, Dalston, N16 8BP",
+    "url": "https://dice.fm/event/8ela55-hackney-comedy-experience-with-jen-brister-23rd-oct-earth-london-tickets",
+    "source": "venue:dice-earth",
+    "tags": [
+      "comedy"
+    ],
+    "price": "£29.87",
+    "description": "Mixed-bill comedy night headlined by Jen Brister in EartH's theatre.",
+    "neighbourhood": "Dalston",
+    "cycle_minutes": 14,
+    "added": "2026-08-15"
+  },
+  {
+    "id": "names-farewell-show-at-the-old-blue-last-1b32d742",
+    "title": "NAMES — farewell show at The Old Blue Last",
+    "start": "2026-10-23T19:30:00+01:00",
+    "end": null,
+    "venue": "The Old Blue Last",
+    "address": "38 Great Eastern Street, EC2A 3ES",
+    "url": "https://dice.fm/event/l87aax-names-farewell-show-23rd-oct-the-old-blue-last-london-tickets",
+    "source": "venue:dice-the-old-blue-last",
+    "tags": [
+      "music"
+    ],
+    "price": "£14",
+    "description": "London alt-indie trio NAMES bow out for good with Rila's Edge and amilost in support — a last-ever show.",
+    "neighbourhood": "Shoreditch",
+    "cycle_minutes": 7,
+    "added": "2026-08-15"
   },
   {
     "id": "sex-psychedelics-talks-performance-social-d38a3371",
@@ -5749,6 +6284,42 @@
     "added": "2026-08-10"
   },
   {
+    "id": "henning-wehn-acid-wehn-at-hackney-empire-dc120bc8",
+    "title": "Henning Wehn: Acid Wehn at Hackney Empire",
+    "start": "2026-10-25T16:30:00+00:00",
+    "end": null,
+    "venue": "Hackney Empire",
+    "address": "291 Mare Street, E8 1EJ",
+    "url": "https://www.hackneyempire.co.uk/events/henning-wehn-acid-wehn",
+    "source": "venue:hackney-empire",
+    "tags": [
+      "comedy"
+    ],
+    "price": "£27-£31",
+    "description": "The German Comedy Ambassador's 'unbiased look at climate change' — Sunday 4:30pm show.",
+    "neighbourhood": "Hackney Central",
+    "cycle_minutes": 12,
+    "added": "2026-08-15"
+  },
+  {
+    "id": "the-jump-cuts-at-shacklewell-arms-free-58ce7c4b",
+    "title": "The Jump Cuts at Shacklewell Arms (free)",
+    "start": "2026-10-25T19:30:00+00:00",
+    "end": null,
+    "venue": "The Shacklewell Arms",
+    "address": "71 Shacklewell Lane, Dalston, E8 2EB",
+    "url": "https://dice.fm/event/53mo6l-the-jump-cuts-25th-oct-the-shacklewell-arms-london-tickets",
+    "source": "venue:dice-shacklewell-arms",
+    "tags": [
+      "music"
+    ],
+    "price": "Free",
+    "description": "Free Sunday-night back-room show — easy zero-cost option.",
+    "neighbourhood": "Dalston",
+    "cycle_minutes": 13,
+    "added": "2026-08-15"
+  },
+  {
     "id": "global-fusion-developments-the-race-for-power-royal-institut-11bb4f89",
     "title": "Global fusion developments: the race for power — Royal Institution",
     "start": "2026-10-26T19:00:00+00:00",
@@ -5765,6 +6336,79 @@
     "neighbourhood": "Mayfair",
     "cycle_minutes": 35,
     "added": "2026-08-11"
+  },
+  {
+    "id": "marina-herlop-at-earth-615d4ff8",
+    "title": "Marina Herlop at EartH",
+    "start": "2026-10-27T19:00:00+00:00",
+    "end": null,
+    "venue": "EartH (Evolutionary Arts Hackney)",
+    "address": "11-17 Stoke Newington Road, Dalston, N16 8BP",
+    "url": "https://dice.fm/event/7dw9yv-marina-herlop-27th-oct-earth-london-tickets",
+    "source": "venue:dice-earth",
+    "tags": [
+      "music"
+    ],
+    "price": "£29.87",
+    "description": "Catalan avant-pop pianist/vocalist (PAN label) — spellbinding experimental show, the local Tuesday alternative.",
+    "neighbourhood": "Dalston",
+    "cycle_minutes": 14,
+    "added": "2026-08-15"
+  },
+  {
+    "id": "jung-chang-fly-wild-swans-how-to-academy-ac437910",
+    "title": "Jung Chang — Fly, Wild Swans (How To Academy)",
+    "start": "2026-10-27T19:30:00+00:00",
+    "end": "2026-10-27T20:45:00+00:00",
+    "venue": "St Martin-in-the-Fields",
+    "address": "Trafalgar Square, WC2N 4JJ",
+    "url": "https://howtoacademy.com/events/jung-chang-fly-wild-swans-2/",
+    "source": "venue:how-to-academy",
+    "tags": [
+      "talk"
+    ],
+    "price": "£15-£29.95",
+    "description": "Wild Swans author Jung Chang in conversation with Christina Lamb in the Trafalgar Square church.",
+    "neighbourhood": "Trafalgar Square",
+    "cycle_minutes": 25,
+    "added": "2026-08-15"
+  },
+  {
+    "id": "ethical-matters-ghibli-and-goodness-at-conway-hall-bc5f7a1e",
+    "title": "Ethical Matters: Ghibli and Goodness at Conway Hall",
+    "start": "2026-10-28T18:30:00+00:00",
+    "end": "2026-10-28T20:00:00+00:00",
+    "venue": "Conway Hall",
+    "address": "25 Red Lion Square, WC1R 4RL",
+    "url": "https://www.conwayhall.org.uk/whats-on/event/ghibli-and-goodness/",
+    "source": "venue:conway-hall",
+    "tags": [
+      "talk",
+      "film"
+    ],
+    "price": null,
+    "description": "What Studio Ghibli — Mononoke, Grave of the Fireflies, Pom Poko — teaches about ethics.",
+    "neighbourhood": "Holborn",
+    "cycle_minutes": 22,
+    "added": "2026-08-15"
+  },
+  {
+    "id": "nick-hakim-at-village-underground-e67fd51e",
+    "title": "Nick Hakim at Village Underground",
+    "start": "2026-10-28T19:30:00+00:00",
+    "end": null,
+    "venue": "Village Underground",
+    "address": "54 Holywell Lane, EC2A 3PQ",
+    "url": "https://dice.fm/event/wwpmpv-nick-hakim-28th-oct-village-underground-london-tickets",
+    "source": "venue:dice-village-underground",
+    "tags": [
+      "music"
+    ],
+    "price": "£29.87",
+    "description": "Woozy soul/psych songwriter Nick Hakim's London show on his UK tour.",
+    "neighbourhood": "Shoreditch",
+    "cycle_minutes": 7,
+    "added": "2026-08-15"
   },
   {
     "id": "training-ground-4-day-contact-improvisation-intensive-rick-n-bd8ce8ed",
@@ -5784,6 +6428,60 @@
     "neighbourhood": "Tufnell Park",
     "cycle_minutes": 35,
     "added": "2026-08-09"
+  },
+  {
+    "id": "painting-the-fruit-band-at-shacklewell-arms-free-582cfd1d",
+    "title": "Painting + The Fruit Band at Shacklewell Arms (free)",
+    "start": "2026-10-29T19:30:00+00:00",
+    "end": null,
+    "venue": "The Shacklewell Arms",
+    "address": "71 Shacklewell Lane, Dalston, E8 2EB",
+    "url": "https://dice.fm/event/mxn8nl-painting-the-fruit-band-29th-oct-the-shacklewell-arms-london-tickets",
+    "source": "venue:dice-shacklewell-arms",
+    "tags": [
+      "music"
+    ],
+    "price": "Free",
+    "description": "Free Thursday back-room bill: Painting headline with The Fruit Band.",
+    "neighbourhood": "Dalston",
+    "cycle_minutes": 13,
+    "added": "2026-08-15"
+  },
+  {
+    "id": "dan-jones-castles-a-fortified-history-of-the-world-7fa98c56",
+    "title": "Dan Jones: Castles — A Fortified History of the World",
+    "start": "2026-10-30T19:00:00+00:00",
+    "end": "2026-10-30T20:15:00+00:00",
+    "venue": "Royal Geographical Society",
+    "address": "1 Kensington Gore, SW7 2AR",
+    "url": "https://howtoacademy.com/events/dan-jones-castles-a-fortified-history-of-the-world/",
+    "source": "venue:how-to-academy",
+    "tags": [
+      "talk"
+    ],
+    "price": "£15-£19.50",
+    "description": "Bestselling medieval historian Dan Jones on castles and power. Tube easier than cycling.",
+    "neighbourhood": "South Kensington",
+    "cycle_minutes": 45,
+    "added": "2026-08-15"
+  },
+  {
+    "id": "flowers-for-the-dead-at-shacklewell-arms-free-98b77e29",
+    "title": "Flowers For The Dead at Shacklewell Arms (free)",
+    "start": "2026-10-30T19:30:00+00:00",
+    "end": null,
+    "venue": "The Shacklewell Arms",
+    "address": "71 Shacklewell Lane, Dalston, E8 2EB",
+    "url": "https://dice.fm/event/bb9lbg-flowers-for-the-dead-30th-oct-the-shacklewell-arms-london-tickets",
+    "source": "venue:dice-shacklewell-arms",
+    "tags": [
+      "music"
+    ],
+    "price": "Free",
+    "description": "Free Halloween-eve show at the Shacklewell — zero-cost local option.",
+    "neighbourhood": "Dalston",
+    "cycle_minutes": 13,
+    "added": "2026-08-15"
   },
   {
     "id": "goblin-band-follia-4-folky-halloween-at-cecil-sharp-house-72a18002",

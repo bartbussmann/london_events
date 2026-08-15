@@ -1,5 +1,11 @@
 [
   {
+    "ran_at": "2026-08-15T08:00:00+01:00",
+    "added": 38,
+    "considered": 260,
+    "notes": "October fill — all 15 empty October days now covered. Added 38: verified DICE leads (GAÏA 7 Oct, free Pedestrian Band 13 Oct, Casper Walsh 13 Oct, free Vision Fortune 14 Oct, free Painting 29 Oct, Charlie Kilgore 7 Sep, Deeper Into Movies bday 6 Sep) with DATE CORRECTIONS: Jembaa Groove is Sun 11 Oct (not 13), Nick Hakim Wed 28 Oct (not 29). October circuit: Swim Deep 2 Oct, Terra Twin 8 Oct, M/X free + Kacy & Clayton 15 Oct, Shaemless free 18 Oct, Earth Tongue 21 Oct, NAMES farewell 23 Oct, Jump Cuts free 25 Oct, Marina Herlop 27 Oct, Flowers For The Dead free 30 Oct. Wilton's: INCENDIARY Pepys 8 Oct, Brief Case of Crazy 12-14 Oct, OneTrackMinds 19 Oct. Talks: Žižek 13 Oct RGS, 5x15 Kidron/Toksvig 14 Oct, Jung Chang 27 Oct, Ghibli ethics 28 Oct, Dan Jones 30 Oct. Hackney Empire: TWAWSI 20 Oct, Susan Calman 21 Oct, Henning Wehn 25 Oct, Jen Brister at EartH 23 Oct. Embodiment: EmboDAYfest all-day dance festival 17 Oct, Rick Nodine Mon 12 + Wed 14 Oct, Rose Lipman jam 19 Oct, constellations Kailash 8 Oct, partner breathwork retreat 18 Oct. Suzanne Ciani at EartH 12 Oct. SKIPPED: Tilda Maplestone 9 Sep SOLD OUT; BFI LFF closing gala 18 Oct (Jesse Eisenberg's The Debut — date real, time TBC; programme 2 Sep, booking 17 Sep — WATCHLIST). Union Chapel listing broken even headless (AJAX never fires) — retry. EDL October dances unpublished. Post-25-Oct entries use +00:00 (clocks change). Huge spares list in scout output incl. Dexys 27-28 Oct (£45-75), Goblin Band 31 Oct already in, Stoker Wilde musical 27-31 Oct, Bloomsbury Festival all month."
+  },
+  {
     "ran_at": "2026-08-14T07:45:00+01:00",
     "added": 18,
     "considered": 195,
@@ -172,11 +178,5 @@
     "added": 5,
     "considered": 31,
     "notes": "Daily sweep. ICS: 0 new; 7 pruned (part 1). Added: somatic release circle (Finsbury Park), Lammas Bohm dialogue, intuitive painting at Plot 9, two late-Aug MOTH indie gigs (Devon Again, Miss Grit + mui zyu). Flagged Greg Freeman 18-vs-19 Aug date discrepancy on its entry. Bank holiday: All Points East w2 (28-30 Aug) skipped as taste mismatch (Tyler the Creator/Twenty One Pilots); Carnival 60th (30-31 Aug, free) enters window next week; frontier MOTH gigs (Hovvdy 29 Aug) queued. PauseCon London (4-7 Sep) applications close 21 Aug. Late-Aug dating gap persists (DateinaDash/SpeedDater 403)."
-  },
-  {
-    "ran_at": "2026-07-18T07:40:00+01:00",
-    "added": 5,
-    "considered": 68,
-    "notes": "Daily sweep, late-August frontier. ICS: 0 new; 1 pruned (part 1). Added: atproto.london drinks + Campaign Lab hack day at Newspeak, Song Circle at Plot 9, Bengal to Bethnal Green (Biennial, Toynbee Studios), August foraging walk. Skipped: Emerging Waves Kew 5Rhythms (65 min cycle for a teacher-in-training class — consistent with earlier Kew skips; also date/day mismatch on their site). Intel: bank holiday 29-31 Aug events (All Points East w2, Notting Hill Carnival 60th, Battersea Park in Concert) enter the window next week."
   }
 ]
