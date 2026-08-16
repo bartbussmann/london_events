@@ -1,5 +1,11 @@
 [
   {
+    "ran_at": "2026-08-16T07:50:00+01:00",
+    "added": 23,
+    "considered": 390,
+    "notes": "Refreshes + November peek. Union Chapel FIXED (plain fetch works again) — added Robyn Hitchcock 10 Oct, Jake Xerxes Fussell + Naima Bock 14 Oct (standout folk bill), Tim Spector talk 19 Oct, Ezra Furman solo 26 Oct, Radie Peat (Lankum) 3 Nov; UC spares: Perfume Genius duo 27-28 Oct, Joan As Police Woman 5-6 Nov, Eddi Reader 15 Oct, The Slow Show 10 Nov. November opened: MOTH indie-folk week (Horse Jumper 2, Greg Mendez 3, Colin Miller/Told Slant 5, Kiwi Jr 6), Konradsen Shacklewell 2 Nov, PDV cheap bills 5 + 11 Nov (Aayushi), Vernon Spring SJQ night-two 4 Nov (announced status), MARIAM sings Amadou & Mariam 6 Nov + Emma-Jean Thackray Dear Miles 13 Nov at EartH, Ceroc 50:50 14 Nov. Thursday early-Sept x3 (Cocktail Club Shoreditch 10 Sep 5-min-away; pottery Battersea 8 Sep; Jamie Oliver dinner 9 Sep — DATE DISCREPANCY flagged on entry). Dandelion: Court of Cards masquerade 10 Oct, TRE workshop 27 Sep, Plot 9 album launch 3 Oct. Campaign Lab 19 Oct (+2/16/30 Nov later). WATCHLIST: ACX still not posted (recheck ~24 Aug); no Moth StorySLAM London; Ceroc POTY unlisted BUT found Ceroc Champs London 20-21 Nov Harrow (competition + freestyle parties — add if wanted); Auld Shillelagh Sept rota not up (recheck next week). DICE Nov spares logged in scout output."
+  },
+  {
     "ran_at": "2026-08-15T08:00:00+01:00",
     "added": 38,
     "considered": 260,
@@ -172,11 +178,5 @@
     "added": 6,
     "considered": 118,
     "notes": "Daily sweep, Thursday-app dating pass (verified via their public API — pages are a JS SPA). ICS: rescheduled Kokotajlo talk (23 Jul 16:00) suppressed per weekday rule, flagged to Bart (part 1). Added: 4 early-Aug Thursday singles events (quiz, darts, BOXPARK Shoreditch 6 min, Sunday cocktails), breathwork/sound/cacao ceremony in London Fields (21 Aug), 10 Cups supper club Dalston. Thursday listings still stop at 9 Aug — recheck in 1-2 weeks for late-Aug dating. London Gong's August sessions all outside London."
-  },
-  {
-    "ran_at": "2026-07-19T07:45:00+01:00",
-    "added": 5,
-    "considered": 31,
-    "notes": "Daily sweep. ICS: 0 new; 7 pruned (part 1). Added: somatic release circle (Finsbury Park), Lammas Bohm dialogue, intuitive painting at Plot 9, two late-Aug MOTH indie gigs (Devon Again, Miss Grit + mui zyu). Flagged Greg Freeman 18-vs-19 Aug date discrepancy on its entry. Bank holiday: All Points East w2 (28-30 Aug) skipped as taste mismatch (Tyler the Creator/Twenty One Pilots); Carnival 60th (30-31 Aug, free) enters window next week; frontier MOTH gigs (Hovvdy 29 Aug) queued. PauseCon London (4-7 Sep) applications close 21 Aug. Late-Aug dating gap persists (DateinaDash/SpeedDater 403)."
   }
 ]

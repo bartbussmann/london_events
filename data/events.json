@@ -3319,6 +3319,25 @@
     "added": "2026-08-07"
   },
   {
+    "id": "thursday-singles-pottery-night-at-pottery-caf-september-edit-054d8149",
+    "title": "Thursday: Singles Pottery Night at Pottery Café (September edition)",
+    "start": "2026-09-08T18:30:00+01:00",
+    "end": "2026-09-08T21:00:00+01:00",
+    "venue": "Pottery Café",
+    "address": "153 Northcote Road, Battersea, SW11 6QB",
+    "url": "https://www.thursday.com/events/london/3c2fb2cd-4987-40f3-b2a1-aaaceae71477",
+    "source": "listing:thursday-dating",
+    "tags": [
+      "community",
+      "class"
+    ],
+    "price": "£15 + painting/food extra",
+    "description": "Round two of the sold-out pottery-painting singles night — hands busy, conversation flows. The Battersea trek is the only catch (train to Clapham Junction).",
+    "neighbourhood": "Battersea",
+    "cycle_minutes": 50,
+    "added": "2026-08-16"
+  },
+  {
     "title": "The Elixir of Love — Donizetti in English",
     "start": "2026-09-08T19:00:00+01:00",
     "end": "2026-09-08T21:20:00+01:00",
@@ -3504,6 +3523,25 @@
     "added": "2026-08-12"
   },
   {
+    "id": "thursday-24-35-singles-dinner-at-jamie-oliver-s-catherine-st-d15d5f2e",
+    "title": "Thursday: 24-35 Singles Dinner at Jamie Oliver's Catherine St",
+    "start": "2026-09-09T19:00:00+01:00",
+    "end": "2026-09-09T22:00:00+01:00",
+    "venue": "Jamie Oliver Catherine St (Pavilion Room)",
+    "address": "6 Catherine Street, WC2B 5JY",
+    "url": "https://www.thursday.com/events/london/5d10e66d-5a39-4c6a-b401-fbaef42b035c",
+    "source": "listing:thursday-dating",
+    "tags": [
+      "community",
+      "food"
+    ],
+    "price": "£15 + £25 set menu",
+    "description": "Intimate singles dinner (ages 24-35) in the Pavilion Room at Jamie Oliver's Covent Garden restaurant. Listing data is inconsistent on the date (8th vs 9th) — verify on the booking page.",
+    "neighbourhood": "Covent Garden",
+    "cycle_minutes": 22,
+    "added": "2026-08-16"
+  },
+  {
     "title": "Fire Fire — new play at Arcola (opening night)",
     "start": "2026-09-09T19:30:00+01:00",
     "end": "2026-09-09T20:50:00+01:00",
@@ -3649,6 +3687,24 @@
     "neighbourhood": "Camden",
     "cycle_minutes": 32,
     "added": "2026-08-14"
+  },
+  {
+    "id": "thursday-everyone-single-the-cocktail-club-shoreditch-a45739e0",
+    "title": "Thursday: Everyone Single — The Cocktail Club Shoreditch",
+    "start": "2026-09-10T19:00:00+01:00",
+    "end": "2026-09-10T23:00:00+01:00",
+    "venue": "The Cocktail Club, Shoreditch",
+    "address": "29 Sclater Street, E1 6HT",
+    "url": "https://www.thursday.com/events/london/88744405-7d8a-452c-b9d6-578ad9a545c3",
+    "source": "listing:thursday-dating",
+    "tags": [
+      "community"
+    ],
+    "price": "£12 early bird / £18",
+    "description": "Thursday takes over the Cocktail Club on Sclater Street — a whole bar of London singles, no forced icebreakers, five minutes from home.",
+    "neighbourhood": "Shoreditch",
+    "cycle_minutes": 5,
+    "added": "2026-08-16"
   },
   {
     "id": "gia-margaret-at-earth-01789289",
@@ -4986,6 +5042,24 @@
     "added": "2026-08-09"
   },
   {
+    "id": "reset-the-nervous-system-with-tre-5cc5dc14",
+    "title": "Reset The Nervous System with TRE",
+    "start": "2026-09-27T15:30:00+01:00",
+    "end": "2026-09-27T17:30:00+01:00",
+    "venue": "The ARC",
+    "address": "98b St Paul Street, N1 7DF",
+    "url": "https://dandelion.events/e/t82au",
+    "source": "aggregator:dandelion",
+    "tags": [
+      "workshop"
+    ],
+    "price": "£35-£45",
+    "description": "Sunday-afternoon TRE (tension & trauma releasing exercises) workshop — guided tremoring practice to discharge stored stress, close to home.",
+    "neighbourhood": "Hoxton",
+    "cycle_minutes": 10,
+    "added": "2026-08-16"
+  },
+  {
     "id": "portals-presents-a-tota-so-poptones-salang-03f2374e",
     "title": "Portals Presents: A-Tota-So + Poptones + Salang",
     "start": "2026-09-27T19:00:00+01:00",
@@ -5207,6 +5281,25 @@
     "neighbourhood": "Dalston",
     "cycle_minutes": 14,
     "added": "2026-08-13"
+  },
+  {
+    "id": "when-all-the-birds-have-flown-away-album-launch-at-plot-9-0d47d05a",
+    "title": "When all the Birds Have Flown Away — album launch at Plot 9",
+    "start": "2026-10-03T18:00:00+01:00",
+    "end": "2026-10-03T22:00:00+01:00",
+    "venue": "Plot 9",
+    "address": "Restell Close, Maze Hill, Greenwich SE3",
+    "url": "https://dandelion.events/e/p4udy",
+    "source": "aggregator:dandelion",
+    "tags": [
+      "music",
+      "community"
+    ],
+    "price": "£10-£18",
+    "description": "Saturday-evening album launch at the Maze Hill community garden space that hosts the song circles — intimate, community-run setting.",
+    "neighbourhood": "Greenwich",
+    "cycle_minutes": 30,
+    "added": "2026-08-16"
   },
   {
     "id": "supercharged-the-future-of-energy-materials-royal-institutio-5117c7e3",
@@ -5506,6 +5599,25 @@
     "added": "2026-08-10"
   },
   {
+    "id": "the-court-of-cards-esoteric-masquerade-at-limehouse-town-hal-7adb7224",
+    "title": "The Court of Cards — esoteric masquerade at Limehouse Town Hall",
+    "start": "2026-10-10T14:00:00+01:00",
+    "end": "2026-10-11T02:00:00+01:00",
+    "venue": "Limehouse Town Hall",
+    "address": "646 Commercial Road, E14 7HA",
+    "url": "https://dandelion.events/e/thecourtofcards26",
+    "source": "aggregator:dandelion",
+    "tags": [
+      "art",
+      "community"
+    ],
+    "price": "£30-£100 tiered (£1 pre-registration now)",
+    "description": "Immersive esoteric-arts masquerade: tarot-themed performance art, costume and theatre running Saturday 2pm until 2am.",
+    "neighbourhood": "Limehouse",
+    "cycle_minutes": 15,
+    "added": "2026-08-16"
+  },
+  {
     "id": "balkanplus-for-beginners-at-cecil-sharp-house-1d959eda",
     "title": "Balkanplus for Beginners at Cecil Sharp House",
     "start": "2026-10-10T19:00:00+01:00",
@@ -5540,6 +5652,24 @@
     "neighbourhood": "Mayfair",
     "cycle_minutes": 35,
     "added": "2026-08-11"
+  },
+  {
+    "id": "robyn-hitchcock-at-union-chapel-c55bcdc2",
+    "title": "Robyn Hitchcock at Union Chapel",
+    "start": "2026-10-10T19:00:00+01:00",
+    "end": null,
+    "venue": "Union Chapel",
+    "address": "Compton Terrace, Islington, N1 2UN",
+    "url": "https://unionchapel.org.uk/whats-on/robyn-hitchcock",
+    "source": "venue:union-chapel",
+    "tags": [
+      "music"
+    ],
+    "price": null,
+    "description": "Psych-folk legend and Soft Boys founder Robyn Hitchcock plays the candlelit chapel — surreal songcraft in London's most atmospheric venue.",
+    "neighbourhood": "Islington",
+    "cycle_minutes": 20,
+    "added": "2026-08-16"
   },
   {
     "id": "the-london-barndance-company-october-edition-e8916725",
@@ -5746,6 +5876,24 @@
     "added": "2026-08-15"
   },
   {
+    "id": "jake-xerxes-fussell-naima-bock-at-union-chapel-07bde836",
+    "title": "Jake Xerxes Fussell + Naima Bock at Union Chapel",
+    "start": "2026-10-14T18:30:00+01:00",
+    "end": null,
+    "venue": "Union Chapel",
+    "address": "Compton Terrace, Islington, N1 2UN",
+    "url": "https://unionchapel.org.uk/whats-on/jake-xerxes-fussell-naima-bock",
+    "source": "venue:union-chapel",
+    "tags": [
+      "music"
+    ],
+    "price": null,
+    "description": "North Carolina folk interpreter Jake Xerxes Fussell reworks traditional American songs, supported by ex-Goat Girl folk songwriter Naima Bock — an exceptional folk double bill for the chapel.",
+    "neighbourhood": "Islington",
+    "cycle_minutes": 20,
+    "added": "2026-08-16"
+  },
+  {
     "id": "5x15-can-we-reclaim-childhood-from-big-tech-kidron-toksvig-7d58537a",
     "title": "5x15: Can We Reclaim Childhood from Big Tech? — Kidron & Toksvig",
     "start": "2026-10-14T19:00:00+01:00",
@@ -5949,6 +6097,25 @@
     "added": "2026-08-15"
   },
   {
+    "id": "tim-spector-the-science-of-good-mood-food-union-chapel-ec0ff49a",
+    "title": "Tim Spector: The Science of Good Mood Food — Union Chapel",
+    "start": "2026-10-19T18:00:00+01:00",
+    "end": null,
+    "venue": "Union Chapel",
+    "address": "Compton Terrace, Islington, N1 2UN",
+    "url": "https://unionchapel.org.uk/whats-on/tim-spector-the-science-of-good-mood-food",
+    "source": "venue:union-chapel",
+    "tags": [
+      "talk",
+      "food"
+    ],
+    "price": null,
+    "description": "ZOE co-founder and epidemiologist Tim Spector on how food shapes mood and the gut microbiome — a science talk in the chapel.",
+    "neighbourhood": "Islington",
+    "cycle_minutes": 20,
+    "added": "2026-08-16"
+  },
+  {
     "id": "monday-contact-improv-jam-at-rose-lipman-19-oct-63c68421",
     "title": "Monday Contact Improv Jam at Rose Lipman (19 Oct)",
     "start": "2026-10-19T18:30:00+01:00",
@@ -5985,6 +6152,25 @@
     "neighbourhood": "Whitechapel",
     "cycle_minutes": 10,
     "added": "2026-08-15"
+  },
+  {
+    "id": "campaign-lab-hack-night-19-oct-edition-4a395126",
+    "title": "Campaign Lab Hack Night (19 Oct edition)",
+    "start": "2026-10-19T19:00:00+01:00",
+    "end": "2026-10-19T22:00:00+01:00",
+    "venue": "Newspeak House",
+    "address": "133 Bethnal Green Road, E2 7DG",
+    "url": "https://newspeak.house/#events",
+    "source": "venue:newspeak-house",
+    "tags": [
+      "tech",
+      "community"
+    ],
+    "price": "Free (registration required)",
+    "description": "Bi-weekly civic-tech hack night in the Drawing Room — further dates 2, 16 and 30 Nov.",
+    "neighbourhood": "Bethnal Green",
+    "cycle_minutes": 3,
+    "added": "2026-08-16"
   },
   {
     "id": "twawsi-the-world-as-we-see-it-ace-dance-double-bill-41243c06",
@@ -6170,6 +6356,24 @@
     "added": "2026-08-15"
   },
   {
+    "id": "ezra-furman-solo-at-union-chapel-c48716b6",
+    "title": "Ezra Furman (solo) at Union Chapel",
+    "start": "2026-10-26T18:30:00+00:00",
+    "end": null,
+    "venue": "Union Chapel",
+    "address": "Compton Terrace, Islington, N1 2UN",
+    "url": "https://unionchapel.org.uk/whats-on/ezra-furman-solo",
+    "source": "venue:union-chapel",
+    "tags": [
+      "music"
+    ],
+    "price": null,
+    "description": "Ezra Furman strips her raw, literate rock'n'roll down to a solo chapel show.",
+    "neighbourhood": "Islington",
+    "cycle_minutes": 20,
+    "added": "2026-08-16"
+  },
+  {
     "id": "global-fusion-developments-the-race-for-power-royal-institut-11bb4f89",
     "title": "Global fusion developments: the race for power — Royal Institution",
     "start": "2026-10-26T19:00:00+00:00",
@@ -6350,5 +6554,221 @@
     "neighbourhood": "Primrose Hill",
     "cycle_minutes": 32,
     "added": "2026-08-11"
+  },
+  {
+    "id": "horse-jumper-of-love-jawdropped-hammok-at-moth-club-8dd9092f",
+    "title": "Horse Jumper of Love + Jawdropped + Hammok at MOTH Club",
+    "start": "2026-11-02T19:30:00+00:00",
+    "end": "2026-11-02T23:00:00+00:00",
+    "venue": "MOTH Club",
+    "address": "Old Trades Hall, Valette Street, E9 6NU",
+    "url": "https://dice.fm/event/rykpa5-horse-jumper-of-love-jawdropped-hammok-2nd-nov-moth-club-london-tickets",
+    "source": "venue:dice-moth-club",
+    "tags": [
+      "music"
+    ],
+    "price": "£28.98",
+    "description": "Boston slowcore trio bring their heavy-lidded, molasses-slow indie rock to MOTH's glitter ballroom. Same night as Konradsen at the Shacklewell — pick one.",
+    "neighbourhood": "Hackney Central",
+    "cycle_minutes": 12,
+    "added": "2026-08-16"
+  },
+  {
+    "id": "konradsen-at-the-shacklewell-arms-d7efa1b7",
+    "title": "Konradsen at The Shacklewell Arms",
+    "start": "2026-11-02T19:30:00+00:00",
+    "end": "2026-11-02T23:00:00+00:00",
+    "venue": "The Shacklewell Arms",
+    "address": "71 Shacklewell Lane, E8 2EB",
+    "url": "https://dice.fm/event/bb93lk-konradsen-2nd-nov-the-shacklewell-arms-london-tickets",
+    "source": "venue:dice-shacklewell-arms",
+    "tags": [
+      "music"
+    ],
+    "price": "£18.13",
+    "description": "Norwegian duo Konradsen play tender, piano-led indie-folk laced with field recordings in the Shacklewell's back room.",
+    "neighbourhood": "Dalston",
+    "cycle_minutes": 13,
+    "added": "2026-08-16"
+  },
+  {
+    "id": "radie-peat-at-union-chapel-6a9405e5",
+    "title": "Radie Peat at Union Chapel",
+    "start": "2026-11-03T19:00:00+00:00",
+    "end": null,
+    "venue": "Union Chapel",
+    "address": "Compton Terrace, Islington, N1 2UN",
+    "url": "https://unionchapel.org.uk/whats-on/radie-peat",
+    "source": "venue:union-chapel",
+    "tags": [
+      "music"
+    ],
+    "price": null,
+    "description": "Lankum's mesmeric vocalist Radie Peat in her own right — drone-heavy Irish folk that will suit the chapel perfectly.",
+    "neighbourhood": "Islington",
+    "cycle_minutes": 20,
+    "added": "2026-08-16"
+  },
+  {
+    "id": "greg-mendez-asher-white-villagerrr-at-moth-club-c4652ab7",
+    "title": "Greg Mendez + Asher White + villagerrr at MOTH Club",
+    "start": "2026-11-03T19:30:00+00:00",
+    "end": "2026-11-03T23:00:00+00:00",
+    "venue": "MOTH Club",
+    "address": "Old Trades Hall, Valette Street, E9 6NU",
+    "url": "https://dice.fm/event/6dkw77-greg-mendez-asher-white-villagerrr-3rd-nov-moth-club-london-tickets",
+    "source": "venue:dice-moth-club",
+    "tags": [
+      "music"
+    ],
+    "price": "£23.18",
+    "description": "Philadelphia songwriter Greg Mendez plays his hushed, confessional lo-fi folk songs with a strong three-act bill.",
+    "neighbourhood": "Hackney Central",
+    "cycle_minutes": 12,
+    "added": "2026-08-16"
+  },
+  {
+    "id": "the-vernon-spring-a-plane-over-woods-5-year-anniversary-at-s-bc2bb0a9",
+    "title": "The Vernon Spring — 'A Plane Over Woods' 5-year anniversary at SJQ (night two)",
+    "start": "2026-11-04T19:30:00+00:00",
+    "end": "2026-11-04T22:00:00+00:00",
+    "venue": "Servant Jazz Quarters",
+    "address": "10A Bradbury Street, Dalston, N16 8JN",
+    "url": "https://dice.fm/event/923kp9-the-vernon-spring-a-plane-over-woods-5-year-anniversary-tour-4th-nov-sjq-london-tickets",
+    "source": "venue:dice-sjq",
+    "tags": [
+      "music"
+    ],
+    "price": "£16.38",
+    "description": "Pianist Sam Beste's Vernon Spring project marks five years of A Plane Over Woods in the tiny basement jazz bar. Night one sold out; this second night is newly announced — check it's on sale.",
+    "neighbourhood": "Dalston",
+    "cycle_minutes": 15,
+    "added": "2026-08-16"
+  },
+  {
+    "id": "colin-miller-told-slant-h-pruz-elijah-wolf-at-moth-club-d0896892",
+    "title": "Colin Miller + Told Slant + h pruz + Elijah Wolf at MOTH Club",
+    "start": "2026-11-05T19:30:00+00:00",
+    "end": "2026-11-05T23:00:00+00:00",
+    "venue": "MOTH Club",
+    "address": "Old Trades Hall, Valette Street, E9 6NU",
+    "url": "https://dice.fm/event/7dgqo7-colin-miller-told-slant-h-pruz-elijah-wolf-5th-nov-moth-club-london-tickets",
+    "source": "venue:dice-moth-club",
+    "tags": [
+      "music"
+    ],
+    "price": "£20.30",
+    "description": "Stacked four-act indie-folk bill: Asheville's Colin Miller (MJ Lenderman/Wednesday circle) plus Brooklyn's Told Slant — a lot of gentle Americana for ~£20.",
+    "neighbourhood": "Hackney Central",
+    "cycle_minutes": 12,
+    "added": "2026-08-16"
+  },
+  {
+    "id": "teiger-mount-forel-at-paper-dress-vintage-41f7fadd",
+    "title": "Teiger + Mount Forel at Paper Dress Vintage",
+    "start": "2026-11-05T19:30:00+00:00",
+    "end": "2026-11-05T23:00:00+00:00",
+    "venue": "Paper Dress Vintage",
+    "address": "352a Mare Street, E8 1HR",
+    "url": "https://dice.fm/event/yoex3a-teiger-mount-forel-5th-nov-paper-dress-vintage-london-tickets",
+    "source": "venue:dice-paper-dress-vintage",
+    "tags": [
+      "music"
+    ],
+    "price": "£11.22",
+    "description": "Cheap Thursday double bill of atmospheric indie upstairs at the Hackney vintage shop venue.",
+    "neighbourhood": "Hackney Central",
+    "cycle_minutes": 12,
+    "added": "2026-08-16"
+  },
+  {
+    "id": "mariam-sings-amadou-mariam-at-earth-e0b29c0c",
+    "title": "MARIAM sings AMADOU & MARIAM at EartH",
+    "start": "2026-11-06T19:00:00+00:00",
+    "end": null,
+    "venue": "EartH",
+    "address": "11 Stoke Newington Road, N16 8BH",
+    "url": "https://dice.fm/event/92knvd-mariam-sings-amadou-mariam-6th-nov-earth-london-tickets",
+    "source": "venue:dice-earth",
+    "tags": [
+      "music"
+    ],
+    "price": null,
+    "description": "Mariam Doumbia performs the beloved Malian blues-pop catalogue of Amadou & Mariam — a special Friday-night celebration.",
+    "neighbourhood": "Dalston",
+    "cycle_minutes": 14,
+    "added": "2026-08-16"
+  },
+  {
+    "id": "kiwi-jr-alien-boy-bleary-eyed-at-moth-club-8b5911fe",
+    "title": "Kiwi Jr + Alien Boy + Bleary Eyed at MOTH Club",
+    "start": "2026-11-06T19:30:00+00:00",
+    "end": "2026-11-06T23:00:00+00:00",
+    "venue": "MOTH Club",
+    "address": "Old Trades Hall, Valette Street, E9 6NU",
+    "url": "https://dice.fm/event/l8do3l-kiwi-jr-alien-boy-bleary-eyed-6th-nov-moth-club-london-tickets",
+    "source": "venue:dice-moth-club",
+    "tags": [
+      "music"
+    ],
+    "price": "£20.30",
+    "description": "Toronto jangle-pop wits Kiwi Jr headline a Friday three-band bill.",
+    "neighbourhood": "Hackney Central",
+    "cycle_minutes": 12,
+    "added": "2026-08-16"
+  },
+  {
+    "id": "aayushi-ray-vincent-mills-hannah-lou-clark-at-paper-dress-vi-bcdfa5ed",
+    "title": "Aayushi + Ray Vincent-Mills + Hannah Lou Clark at Paper Dress Vintage",
+    "start": "2026-11-11T19:30:00+00:00",
+    "end": "2026-11-11T23:00:00+00:00",
+    "venue": "Paper Dress Vintage",
+    "address": "352a Mare Street, E8 1HR",
+    "url": "https://dice.fm/event/l8d9wl-aayushi-ray-vincent-mills-hannah-lou-clark-11th-nov-paper-dress-vintage-london-tickets",
+    "source": "venue:dice-paper-dress-vintage",
+    "tags": [
+      "music"
+    ],
+    "price": "£14.04",
+    "description": "Whisper-quiet folk songwriter Aayushi tops a three-act Wednesday bill — hushed fingerpicked songs in a small room.",
+    "neighbourhood": "Hackney Central",
+    "cycle_minutes": 12,
+    "added": "2026-08-16"
+  },
+  {
+    "id": "emma-jean-thackray-dear-miles-a-love-letter-at-earth-15953bc0",
+    "title": "Emma-Jean Thackray: Dear Miles — A Love Letter at EartH",
+    "start": "2026-11-13T19:30:00+00:00",
+    "end": null,
+    "venue": "EartH",
+    "address": "11 Stoke Newington Road, N16 8BH",
+    "url": "https://dice.fm/event/eoyqwy-emma-jean-thackray-dear-miles-a-love-letter-13th-nov-earth-london-tickets",
+    "source": "venue:dice-earth",
+    "tags": [
+      "music"
+    ],
+    "price": null,
+    "description": "London jazz polymath Emma-Jean Thackray's tribute to Miles Davis, 'Dear Miles'.",
+    "neighbourhood": "Dalston",
+    "cycle_minutes": 14,
+    "added": "2026-08-16"
+  },
+  {
+    "id": "ceroc-london-50-50-6-hour-saturday-freestyle-november-d2c7efbb",
+    "title": "Ceroc London 50:50 — 6-hour Saturday Freestyle (November)",
+    "start": "2026-11-14T14:00:00+00:00",
+    "end": "2026-11-14T20:00:00+00:00",
+    "venue": "Ceroc St Pancras",
+    "address": "St Pancras, NW1 1RW",
+    "url": "https://www.ceroc.com/30/13687/5050",
+    "source": "venue:ceroc",
+    "tags": [
+      "dance"
+    ],
+    "price": null,
+    "description": "November edition of the Saturday-afternoon six-hour freestyle — up-tempo and chill rooms, 2-8pm.",
+    "neighbourhood": "St Pancras",
+    "cycle_minutes": 28,
+    "added": "2026-08-16"
   }
 ]
