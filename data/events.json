@@ -764,6 +764,24 @@
     "added": "2026-08-13"
   },
   {
+    "id": "ecstatic-dance-uk-the-evening-sessions-19-aug-dd7e99ef",
+    "title": "Ecstatic Dance UK — The Evening Sessions (19 Aug)",
+    "start": "2026-08-19T18:40:00+01:00",
+    "end": null,
+    "venue": "The Baths",
+    "address": "80 Eastway, Hackney Wick, London E9 5JH",
+    "url": "https://www.eventbrite.co.uk/e/ecstatic-dance-uk-the-evening-sessions-tickets-1990952407245",
+    "source": "aggregator:eventbrite",
+    "tags": [
+      "dance"
+    ],
+    "price": null,
+    "description": "Midweek evening edition of the SUN•DAY crew's ecstatic dance at The Baths — sober, barefoot, facilitated conscious dance.",
+    "neighbourhood": "Hackney Wick",
+    "cycle_minutes": 15,
+    "added": "2026-08-17"
+  },
+  {
     "title": "Farewell Transmission: A Celebration of Jason Molina",
     "start": "2026-08-19T19:00:00+01:00",
     "end": "2026-08-19T23:00:00+01:00",
@@ -1172,6 +1190,25 @@
     "neighbourhood": "Soho",
     "cycle_minutes": 30,
     "added": "2026-08-11"
+  },
+  {
+    "id": "circling-drop-in-evening-21-aug-elephant-castle-ab420f9e",
+    "title": "Circling Drop-in Evening (21 Aug, Elephant & Castle)",
+    "start": "2026-08-21T19:00:00+01:00",
+    "end": "2026-08-21T21:00:00+01:00",
+    "venue": "Elephant & Castle (address on booking)",
+    "address": "Elephant and Castle, London SE1",
+    "url": "https://www.eventbrite.co.uk/e/circling-drop-in-evening-tickets-1996404700200",
+    "source": "aggregator:eventbrite",
+    "tags": [
+      "workshop",
+      "community"
+    ],
+    "price": null,
+    "description": "The Elephant & Castle circling drop-in — present-moment relational awareness practice, 7-9pm; arrive from 6:50pm.",
+    "neighbourhood": "Elephant & Castle",
+    "cycle_minutes": 30,
+    "added": "2026-08-17"
   },
   {
     "id": "obl-presents-the-howling-fiends-luck-machine-the-doldrums-ac6513e9",
@@ -1861,6 +1898,25 @@
     "added": "2026-07-25"
   },
   {
+    "id": "the-sunset-sessions-open-air-ecstatic-dance-bank-holiday-fri-2db040ca",
+    "title": "The Sunset Sessions — open-air ecstatic dance (bank holiday Friday)",
+    "start": "2026-08-28T18:00:00+01:00",
+    "end": "2026-08-28T20:30:00+01:00",
+    "venue": "Secret central London park (revealed on booking)",
+    "address": "Central London park, NW1 area",
+    "url": "https://www.eventbrite.co.uk/e/the-sunset-sessions-outdoor-dances-with-ecstatic-dance-london-open-air-tickets-1997509101494",
+    "source": "venue:ecstatic-dance-london",
+    "tags": [
+      "dance",
+      "outdoors"
+    ],
+    "price": null,
+    "description": "Open-air silent-disco ecstatic dance with cacao ceremony at sunset. Also runs Saturday 29 Aug, same 6-8:30pm slot.",
+    "neighbourhood": "Regent's Park",
+    "cycle_minutes": 35,
+    "added": "2026-08-17"
+  },
+  {
     "id": "ihridaya-taro-gong-bath-with-live-multi-instrumentalist-66c27b4d",
     "title": "ihridaya & Taro — gong bath with live multi-instrumentalist",
     "start": "2026-08-28T19:15:00+01:00",
@@ -1896,6 +1952,24 @@
     "neighbourhood": "Nunhead",
     "cycle_minutes": 45,
     "added": "2026-08-14"
+  },
+  {
+    "id": "bbc-prom-altin-g-n-with-jules-buckley-the-bbc-symphony-orche-deee10a9",
+    "title": "BBC Prom: Altin Gün with Jules Buckley & the BBC Symphony Orchestra",
+    "start": "2026-08-28T19:30:00+01:00",
+    "end": null,
+    "venue": "Royal Albert Hall",
+    "address": "Kensington Gore, London SW7 2AP",
+    "url": "https://bachtrack.com/concert-event/altin-gun-bbc-symphony-orchestra-royal-albert-hall-28-august-2026/437779",
+    "source": "keyword-search",
+    "tags": [
+      "music"
+    ],
+    "price": "from ~£16",
+    "description": "Turkish psych-folk band Altin Gün make their Proms debut with orchestral Anatolian folk-rock and guest Derya Yildirim — special enough to cross town for. Bank holiday Friday.",
+    "neighbourhood": "South Kensington",
+    "cycle_minutes": 45,
+    "added": "2026-08-17"
   },
   {
     "title": "Introduction to Bookbinding at London Centre for Book Arts",
@@ -2091,6 +2165,24 @@
     "added": "2026-07-23"
   },
   {
+    "id": "ecstatic-dance-uk-sun-day-bank-holiday-dance-with-jagua-6b48613e",
+    "title": "Ecstatic Dance UK — SUN•DAY bank holiday dance with Jagua",
+    "start": "2026-08-30T10:00:00+01:00",
+    "end": null,
+    "venue": "The Baths",
+    "address": "80 Eastway, Hackney Wick, London E9 5JH",
+    "url": "https://www.eventbrite.co.uk/e/ecstatic-dance-uk-sunday-tickets-111553290896",
+    "source": "venue:ecstatic-dance-uk",
+    "tags": [
+      "dance"
+    ],
+    "price": "£15.50 advance / £25 door",
+    "description": "Bank holiday Sunday morning ecstatic dance with international guest DJ Jagua. Doors 10:00, arrival by 10:30, dance from 11:00.",
+    "neighbourhood": "Hackney Wick",
+    "cycle_minutes": 15,
+    "added": "2026-08-17"
+  },
+  {
     "id": "last-sunday-fun-consent-connection-session-2f0cc689",
     "title": "Last-Sunday Fun, Consent & Connection Session",
     "start": "2026-08-30T14:00:00+01:00",
@@ -2108,6 +2200,25 @@
     "neighbourhood": "Euston",
     "added": "2026-08-06",
     "cycle_minutes": 28
+  },
+  {
+    "id": "st-kat-s-floating-jazz-festival-free-summer-closing-weekend-1c43173c",
+    "title": "St Kat's Floating Jazz Festival — free Summer Closing weekend",
+    "start": "2026-08-30T14:00:00+01:00",
+    "end": "2026-08-30T18:30:00+01:00",
+    "venue": "Marble Quay, St Katharine Docks",
+    "address": "St Katharine Docks, London E1W 1LA",
+    "url": "https://www.eventbrite.co.uk/e/summer-closing-festival-floating-jazz-club-london-tickets-1985613404143",
+    "source": "keyword-search",
+    "tags": [
+      "music",
+      "outdoors"
+    ],
+    "price": "Free",
+    "description": "Three days of free live jazz on Marble Quay as the Floating Jazz Club closes its summer season (runs Fri 28 - Sun 30; Sunday session 2-6:30pm confirmed). Wander down, no tickets.",
+    "neighbourhood": "St Katharine Docks",
+    "cycle_minutes": 12,
+    "added": "2026-08-17"
   },
   {
     "id": "wishing-cap-josh-curtis-thank-you-park-free-sunday-matinee-69ad7a83",
@@ -2167,6 +2278,24 @@
     "added": "2026-08-01"
   },
   {
+    "id": "tracey-emin-retrospective-final-day-at-tate-modern-c4ce11c7",
+    "title": "Tracey Emin retrospective — final day at Tate Modern",
+    "start": "2026-08-31T10:00:00+01:00",
+    "end": "2026-08-31T20:00:00+01:00",
+    "venue": "Tate Modern (Eyal Ofer Galleries)",
+    "address": "Bankside, London SE1 9TG",
+    "url": "https://www.tate.org.uk/whats-on/tate-modern/tracey-emin",
+    "source": "venue:tate-modern",
+    "tags": [
+      "art"
+    ],
+    "price": "£22",
+    "description": "Major Tracey Emin retrospective closes on bank holiday Monday, with hours extended to 8pm on the final day. Last chance.",
+    "neighbourhood": "Bankside",
+    "cycle_minutes": 25,
+    "added": "2026-08-17"
+  },
+  {
     "title": "Notting Hill Carnival 60th — Grand Parade",
     "start": "2026-08-31T10:30:00+01:00",
     "end": "2026-08-31T19:00:00+01:00",
@@ -2204,6 +2333,26 @@
     "neighbourhood": "London Bridge",
     "cycle_minutes": 18,
     "added": "2026-08-11"
+  },
+  {
+    "id": "lido-festival-maribou-state-kelis-folamour-theo-parrish-b2b--0467f189",
+    "title": "LIDO Festival: Maribou State + Kelis, Folamour, Theo Parrish b2b Moodymann",
+    "start": "2026-08-31T12:00:00+01:00",
+    "end": null,
+    "venue": "Victoria Park (Lido Field)",
+    "address": "Victoria Park, Tower Hamlets, E3",
+    "url": "https://lidofestival.co.uk/",
+    "source": "keyword-search",
+    "tags": [
+      "music",
+      "festival",
+      "outdoors"
+    ],
+    "price": "£59.95 + fees (just over cap — doorstep exception)",
+    "description": "One-day bank holiday Monday festival five minutes from home: Maribou State headline with Kelis, Theo Parrish b2b Moodymann, Alabaster DePlume. NOTE: 12:00 is a placeholder — gate times publish via the festival app.",
+    "neighbourhood": "Victoria Park",
+    "cycle_minutes": 5,
+    "added": "2026-08-17"
   },
   {
     "title": "Campaign Lab Summer Hack Night",
@@ -3077,6 +3226,24 @@
     "added": "2026-08-15"
   },
   {
+    "id": "wild-pink-newhvn-at-the-lexington-a532a2e7",
+    "title": "Wild Pink + newhvn at The Lexington",
+    "start": "2026-09-07T19:30:00+01:00",
+    "end": null,
+    "venue": "The Lexington",
+    "address": "96-98 Pentonville Road, London N1 9JB",
+    "url": "https://www.thelexington.co.uk/events.php",
+    "source": "venue:the-lexington",
+    "tags": [
+      "music"
+    ],
+    "price": null,
+    "description": "Brooklyn indie-rock/Americana band Wild Pink in the Lexington's intimate 200-cap upstairs room.",
+    "neighbourhood": "Angel",
+    "cycle_minutes": 20,
+    "added": "2026-08-17"
+  },
+  {
     "id": "bright-phoebus-revisited-lal-mike-waterson-tribute-d5356564",
     "title": "Bright Phoebus Revisited (Lal & Mike Waterson tribute)",
     "start": "2026-09-08T18:30:00+01:00",
@@ -3519,6 +3686,25 @@
     "added": "2026-08-07"
   },
   {
+    "id": "dance-sound-healing-gong-bath-at-liquid-movement-a18e9a14",
+    "title": "Dance, Sound Healing + Gong Bath at Liquid Movement",
+    "start": "2026-09-10T19:45:00+01:00",
+    "end": null,
+    "venue": "Liquid Movement",
+    "address": "455 Wick Lane, Unit 12b, London E3 2TB",
+    "url": "https://www.eventbrite.com/e/dance-sound-healing-gong-bath-tickets-1993020446807",
+    "source": "aggregator:eventbrite",
+    "tags": [
+      "dance",
+      "workshop"
+    ],
+    "price": null,
+    "description": "Evening of free movement into sound healing and gong bath at a Hackney Wick studio — conscious dance plus deep rest combo.",
+    "neighbourhood": "Fish Island",
+    "cycle_minutes": 12,
+    "added": "2026-08-17"
+  },
+  {
     "title": "Chant for Love and Peace — kirtan at St Ethelburga's",
     "start": "2026-09-11T19:00:00+01:00",
     "end": "2026-09-11T21:30:00+01:00",
@@ -3889,6 +4075,24 @@
     "added": "2026-08-14"
   },
   {
+    "id": "zeteo-uk-launch-live-at-the-barbican-mehdi-hasan-zack-polans-9f4defbd",
+    "title": "Zeteo UK Launch — live at the Barbican (Mehdi Hasan, Zack Polanski)",
+    "start": "2026-09-14T19:00:00+01:00",
+    "end": "2026-09-14T21:00:00+01:00",
+    "venue": "Barbican Centre",
+    "address": "Silk Street, London EC2Y 8DS",
+    "url": "https://www.eventbrite.com/e/zeteo-uk-launch-event-live-at-the-barbican-tickets-1993298643902",
+    "source": "venue:barbican",
+    "tags": [
+      "talk"
+    ],
+    "price": null,
+    "description": "Official launch of Zeteo UK: Mehdi Hasan and Shehab Khan in conversation with Green Party leader Zack Polanski, plus audience Q&A. Doors 6pm, unreserved seating.",
+    "neighbourhood": "Barbican",
+    "cycle_minutes": 15,
+    "added": "2026-08-17"
+  },
+  {
     "title": "Neumatic Parlo + Houndshark at Sebright Arms",
     "start": "2026-09-14T19:30:00+01:00",
     "end": null,
@@ -3959,6 +4163,25 @@
     "neighbourhood": "Dalston",
     "cycle_minutes": 14,
     "added": "2026-08-07"
+  },
+  {
+    "id": "authentic-relating-5-principles-for-healthy-relating-1f35c472",
+    "title": "Authentic Relating: 5 Principles for Healthy Relating",
+    "start": "2026-09-16T18:30:00+01:00",
+    "end": null,
+    "venue": "The Hearth",
+    "address": "16 Lonsdale Road, Queen's Park, NW6 6RD",
+    "url": "https://www.eventbrite.co.uk/e/authentic-relating-5-principles-for-healthy-relating-tickets-1994646897565",
+    "source": "aggregator:eventbrite",
+    "tags": [
+      "workshop",
+      "community"
+    ],
+    "price": null,
+    "description": "Evening workshop on the five core authentic relating principles. Far west — Overground beats the ~50 min cycle.",
+    "neighbourhood": "Queen's Park",
+    "cycle_minutes": 50,
+    "added": "2026-08-17"
   },
   {
     "title": "Psychedelics, Entities and Consciousness — Dr. Chris Timmermann",
@@ -4143,6 +4366,24 @@
     "neighbourhood": "London Fields",
     "cycle_minutes": 10,
     "added": "2026-08-13"
+  },
+  {
+    "id": "luke-haines-the-auteurs-the-lighthouse-at-the-lexington-b9027b84",
+    "title": "Luke Haines (The Auteurs) + The Lighthouse at The Lexington",
+    "start": "2026-09-18T19:00:00+01:00",
+    "end": null,
+    "venue": "The Lexington",
+    "address": "96-98 Pentonville Road, London N1 9JB",
+    "url": "https://www.thelexington.co.uk/events.php",
+    "source": "venue:the-lexington",
+    "tags": [
+      "music"
+    ],
+    "price": null,
+    "description": "Britpop-era cult songwriter Luke Haines (The Auteurs, Black Box Recorder) plays the upstairs room.",
+    "neighbourhood": "Angel",
+    "cycle_minutes": 20,
+    "added": "2026-08-17"
   },
   {
     "title": "Nish Kumar at Hackney Empire",
@@ -4537,6 +4778,25 @@
     "added": "2026-08-07"
   },
   {
+    "id": "extended-floating-sound-journey-gong-bath-24-sep-2608caa3",
+    "title": "Extended Floating Sound Journey Gong Bath (24 Sep)",
+    "start": "2026-09-24T19:15:00+01:00",
+    "end": "2026-09-24T21:00:00+01:00",
+    "venue": "The Skylight Centre",
+    "address": "49 Corsica Street, London N5 1JT",
+    "url": "https://www.ecstaticdancelondon.com/events",
+    "source": "venue:ecstatic-dance-london",
+    "tags": [
+      "workshop",
+      "community"
+    ],
+    "price": null,
+    "description": "New 1h45 extended edition of the floating sound journey — guest musicians, crystal and Tibetan bowls, aromatherapy and chai, in hammocks.",
+    "neighbourhood": "Highbury",
+    "cycle_minutes": 20,
+    "added": "2026-08-17"
+  },
+  {
     "id": "english-country-dancing-autumn-course-opener-c2b0fde5",
     "title": "English Country Dancing — autumn course opener",
     "start": "2026-09-24T19:30:00+01:00",
@@ -4646,6 +4906,42 @@
     "neighbourhood": "Mayfair",
     "cycle_minutes": 35,
     "added": "2026-08-10"
+  },
+  {
+    "id": "voxtrot-at-the-lexington-line-of-best-fit-djs-d702c0cb",
+    "title": "Voxtrot at The Lexington (+ Line of Best Fit DJs)",
+    "start": "2026-09-25T19:30:00+01:00",
+    "end": null,
+    "venue": "The Lexington",
+    "address": "96-98 Pentonville Road, London N1 9JB",
+    "url": "https://www.thelexington.co.uk/events.php",
+    "source": "venue:the-lexington",
+    "tags": [
+      "music"
+    ],
+    "price": null,
+    "description": "Reunited mid-2000s indie-pop cult favourites Voxtrot play two Lexington nights (25 and 26 Sep); Friday with Line of Best Fit DJ set.",
+    "neighbourhood": "Angel",
+    "cycle_minutes": 20,
+    "added": "2026-08-17"
+  },
+  {
+    "id": "cacao-dance-tribe-friday-night-dance-cacao-354d394a",
+    "title": "Cacao Dance Tribe: Friday Night Dance & Cacao",
+    "start": "2026-09-25T19:45:00+01:00",
+    "end": "2026-09-25T22:45:00+01:00",
+    "venue": "Tufnell Park venue (address on booking)",
+    "address": "Burghley Road, London NW5 1UJ",
+    "url": "https://www.eventbrite.co.uk/e/ecstatic-dance-london-cacao-dance-tribe-friday-night-dance-cacao-tickets-1992835988086",
+    "source": "venue:ecstatic-dance-london",
+    "tags": [
+      "dance"
+    ],
+    "price": null,
+    "description": "New Friday-night ecstatic dance with cacao ceremony — DJ Seth Newman, no booze/no shoes, fruit social until 10:45pm. Night before the Ecstatic Saturdays opener at the same venue.",
+    "neighbourhood": "Tufnell Park",
+    "cycle_minutes": 30,
+    "added": "2026-08-17"
   },
   {
     "id": "grace-petrie-at-union-chapel-21267766",
@@ -4983,6 +5279,25 @@
     "neighbourhood": "Dalston",
     "cycle_minutes": 15,
     "added": "2026-08-09"
+  },
+  {
+    "id": "system-reset-bioenergetics-guided-flow-sound-journey-3954d43e",
+    "title": "System Reset — bioenergetics, guided flow & sound journey",
+    "start": "2026-10-01T19:15:00+01:00",
+    "end": "2026-10-01T22:00:00+01:00",
+    "venue": "The Skylight Centre",
+    "address": "49 Corsica Street, London N5 1JT",
+    "url": "https://www.ecstaticdancelondon.com/events",
+    "source": "venue:ecstatic-dance-london",
+    "tags": [
+      "workshop",
+      "dance"
+    ],
+    "price": null,
+    "description": "First published October date from Ecstatic Dance London: a nervous-system reset evening combining bioenergetics, guided creative flow movement and aerial-pod sound journey.",
+    "neighbourhood": "Highbury",
+    "cycle_minutes": 20,
+    "added": "2026-08-17"
   },
   {
     "id": "leveret-at-cecil-sharp-house-da52362a",
@@ -5375,6 +5690,25 @@
     "added": "2026-08-10"
   },
   {
+    "id": "root-rise-master-plant-breathwork-live-soundscape-ecstatic-d-b4e169a4",
+    "title": "Root & Rise: Master Plant Breathwork, Live Soundscape & Ecstatic Dance",
+    "start": "2026-10-10T11:45:00+01:00",
+    "end": null,
+    "venue": "Love Shack",
+    "address": "Arch 298, 299 Cambridge Heath Road, E2 9HA",
+    "url": "https://www.eventbrite.co.uk/e/root-rise-master-plant-breathwork-live-soundscape-ecstatic-dance-tickets-1997437418087",
+    "source": "aggregator:eventbrite",
+    "tags": [
+      "dance",
+      "workshop"
+    ],
+    "price": null,
+    "description": "Saturday daytime journey of breathwork, live soundscape and ecstatic dance in a railway arch on Cambridge Heath Road — about as local as it gets.",
+    "neighbourhood": "Bethnal Green",
+    "cycle_minutes": 3,
+    "added": "2026-08-17"
+  },
+  {
     "id": "the-court-of-cards-esoteric-masquerade-at-limehouse-town-hal-7adb7224",
     "title": "The Court of Cards — esoteric masquerade at Limehouse Town Hall",
     "start": "2026-10-10T14:00:00+01:00",
@@ -5705,6 +6039,25 @@
     "neighbourhood": "Dalston",
     "cycle_minutes": 13,
     "added": "2026-08-15"
+  },
+  {
+    "id": "an-evening-with-nick-park-the-wrong-trousers-and-other-stori-009dead2",
+    "title": "An Evening with Nick Park: The Wrong Trousers and Other Stories",
+    "start": "2026-10-14T20:00:00+01:00",
+    "end": null,
+    "venue": "Barbican Hall",
+    "address": "Silk Street, London EC2Y 8DS",
+    "url": "https://www.barbican.org.uk/whats-on/2026/event/an-evening-with-nick-park",
+    "source": "venue:barbican",
+    "tags": [
+      "talk",
+      "film"
+    ],
+    "price": null,
+    "description": "Wallace & Gromit creator Nick Park in conversation on decades of Aardman clay magic, with a week-early copy of Gromit's 'autobiography' included. 8pm.",
+    "neighbourhood": "Barbican",
+    "cycle_minutes": 15,
+    "added": "2026-08-17"
   },
   {
     "id": "kacy-clayton-at-moth-club-f83e0f5a",
@@ -6056,6 +6409,24 @@
     "neighbourhood": "Shoreditch",
     "cycle_minutes": 7,
     "added": "2026-08-15"
+  },
+  {
+    "id": "an-evening-with-kristin-hersh-at-the-lexington-night-one-of--f56cfc46",
+    "title": "An Evening with Kristin Hersh at The Lexington (night one of three)",
+    "start": "2026-10-23T19:30:00+01:00",
+    "end": null,
+    "venue": "The Lexington",
+    "address": "96-98 Pentonville Road, London N1 9JB",
+    "url": "https://www.thelexington.co.uk/events.php",
+    "source": "venue:the-lexington",
+    "tags": [
+      "music"
+    ],
+    "price": null,
+    "description": "Throwing Muses' Kristin Hersh plays an intimate three-night residency (23-25 Oct) in the upstairs room.",
+    "neighbourhood": "Angel",
+    "cycle_minutes": 20,
+    "added": "2026-08-17"
   },
   {
     "id": "sex-psychedelics-talks-performance-social-d38a3371",

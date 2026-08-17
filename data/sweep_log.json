@@ -1,5 +1,11 @@
 [
   {
+    "ran_at": "2026-08-17T07:50:00+01:00",
+    "added": 20,
+    "considered": 140,
+    "notes": "Dance/embodiment refresh + bank holiday + verifications. Added 20: bank holiday — Altin Gün Proms debut at Royal Albert Hall 28 Aug (from £16), free St Kat's Floating Jazz closing weekend 28-30 Aug, Sunset Sessions open-air dance 28 Aug (+29th), SUN•DAY w/ guest DJ Jagua 30 Aug, LIDO Festival Victoria Park 31 Aug (£59.95+fees, doorstep exception, gate times TBC — placeholder noted), Tracey Emin FINAL DAY Tate Modern 31 Aug (open till 8pm); embodiment — circling drop-in 21 Aug, Evening Sessions dance 19 Aug, gong bath Liquid Movement 10 Sep, extended sound journey 24 Sep, Cacao Dance Tribe Friday 25 Sep, System Reset 1 Oct (EDL's first October date), Root & Rise breathwork+dance at Love Shack 10 Oct (3 min away), AR 5-principles workshop 16 Sep (Queen's Park, distance-flagged); Lexington x4 (Wild Pink 7 Sep, Luke Haines 18 Sep, Voxtrot 25 Sep, Kristin Hersh residency night one 23 Oct); Barbican verifications DONE — Zeteo launch 14 Sep 19:00 (Mehdi Hasan/Polanski), Nick Park 14 Oct 20:00. SKIPPED: All Points East final weekend (£117+, weak fit — noted); EDUK SUN•DAY 23 Aug/6 Sep/13 Sep (weekly series, not flooding). STILL WAITING: EDL October Saturdays, Auld Shillelagh Sept rota, ACX fall list, &Soul page JS-truncated. Lexington spares: Weird Nightmare 5 Sep, Holy Wave 8 Sep, Ruthie Foster 23 Sep, Penelope Isles 30 Oct."
+  },
+  {
     "ran_at": "2026-08-16T07:50:00+01:00",
     "added": 23,
     "considered": 390,
@@ -172,11 +178,5 @@
     "added": 2,
     "considered": 24,
     "notes": "Daily sweep. ICS: 0 new; 9 pruned (part 1). Added: free all-day Backyard Biennial Neighbourhood Party (8 Aug, Whitechapel, 7 min), Ecstatic Ascension conscious dance with live musicians (27 Aug). Caught 4 resurfaced duplicates. Source status: Rich Mix still fully unverifiable (403 + zero third-party listings) — deprioritise; Soul Sanctuary Momence schedule unreadable, 'MVMNT Ecstatic Dance & Cacao' monthly promises new dates — recheck next sweep."
-  },
-  {
-    "ran_at": "2026-07-20T07:50:00+01:00",
-    "added": 6,
-    "considered": 118,
-    "notes": "Daily sweep, Thursday-app dating pass (verified via their public API — pages are a JS SPA). ICS: rescheduled Kokotajlo talk (23 Jul 16:00) suppressed per weekday rule, flagged to Bart (part 1). Added: 4 early-Aug Thursday singles events (quiz, darts, BOXPARK Shoreditch 6 min, Sunday cocktails), breathwork/sound/cacao ceremony in London Fields (21 Aug), 10 Cups supper club Dalston. Thursday listings still stop at 9 Aug — recheck in 1-2 weeks for late-Aug dating. London Gong's August sessions all outside London."
   }
 ]
