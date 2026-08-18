@@ -1,5 +1,11 @@
 [
   {
+    "ran_at": "2026-08-18T07:50:00+01:00",
+    "added": 17,
+    "considered": 110,
+    "notes": "Local-institutions pass (all first-time venues). Added 17: Kings Place x6 — folk programme swept (Jaywalkers 18 Sep, Samba Touré 27 Sep, Frankie Archer 1 Oct, Hajda Banda 8 Oct, Future Folk opener 17 Oct, Guardian Science Weekly AI live-pod 3 Sep; spares: Intelligence Squared Harding/Campbell 7 Sep, Martin Simpson 25 Sep); Hoxton Hall x2 (Sounds Impossible magic-play 8 Sep, Hidden Jazz Club 11 Sep — 1860s music hall 10 min away, also 20 Nov); SWING VEIN opened — Bishopsgate Institute x3 (beginner Swing Den 4 Sep £12, Swing Live w/ band 18 Sep, Lindy Hop in a day 27 Sep £45) + Some Like it Swing at Genesis 28 Aug; Genesis Poetry Slam 3 Sep (£1, monthly) + ALIEN w/ intro 10 Sep; Rio Cinema x3 (Doc'n Roll punk-docs Q&A 12 Sep, HAKEEM + Hak Baker acoustic 19 Sep, AUDITION 35mm w/ Kapadia 25 Sep). ICS: LISA AI Safety Careers Fair Sat 22 Aug kept (12:00 London). BLOCKED: Rich Mix Cloudflare persists; Close-Up went bot-challenged mid-sweep — Satantango 6-13 Sep, Cuadro negro 11 Sep, HK film fest 29 Sep have verified DATES but no times (re-sweep for times; 5 min away). SOLD OUT: Haley Heynderickx at Hoxton Hall 26-27 Aug (watch returns). Watchlist: ACX (~24 Aug), Auld Shillelagh Sept rota, Moth StorySLAM all still unpublished."
+  },
+  {
     "ran_at": "2026-08-17T07:50:00+01:00",
     "added": 20,
     "considered": 140,
@@ -172,11 +178,5 @@
     "added": 6,
     "considered": 24,
     "notes": "Daily sweep, bank-holiday-Saturday pass. ICS: 0 new. Added: Hovvdy at MOTH (29 Aug, £11 — book early), Panorama steel band competition (Carnival's ticketed Saturday), fire-tending & storytelling in Hackney woods, intro to Bohm Dialogue (Old Street), AMO AMO at Paper Dress (6 Aug), and the CI autumn season opener (7 Sep — series anchor). Left out: Ecotherapy workshop Hampstead Heath 29 Aug (£45-60, 10 places — flag if wanted). Ceroc Party of the Year still undated. Sanctuary &Soul MVMNT dates still unannounced."
-  },
-  {
-    "ran_at": "2026-07-21T07:45:00+01:00",
-    "added": 2,
-    "considered": 24,
-    "notes": "Daily sweep. ICS: 0 new; 9 pruned (part 1). Added: free all-day Backyard Biennial Neighbourhood Party (8 Aug, Whitechapel, 7 min), Ecstatic Ascension conscious dance with live musicians (27 Aug). Caught 4 resurfaced duplicates. Source status: Rich Mix still fully unverifiable (403 + zero third-party listings) — deprioritise; Soul Sanctuary Momence schedule unreadable, 'MVMNT Ecstatic Dance & Cacao' monthly promises new dates — recheck next sweep."
   }
 ]

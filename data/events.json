@@ -1655,6 +1655,25 @@
     "added": "2026-08-17"
   },
   {
+    "id": "some-like-it-swing-swing-dance-social-at-genesis-cinema-23de2e66",
+    "title": "Some Like it Swing — swing dance social at Genesis Cinema",
+    "start": "2026-08-28T19:30:00+01:00",
+    "end": null,
+    "venue": "Genesis Cinema",
+    "address": "93-95 Mile End Road, London E1 4UJ",
+    "url": "https://www.genesiscinema.co.uk/event/92488",
+    "source": "venue:genesis-cinema",
+    "tags": [
+      "dance",
+      "community"
+    ],
+    "price": null,
+    "description": "Monthly SwingdanceUK social in the cinema bar: beginner Lindy Hop class 7:30-8:30pm, then vintage 30s-50s records until late.",
+    "neighbourhood": "Mile End",
+    "cycle_minutes": 7,
+    "added": "2026-08-18"
+  },
+  {
     "title": "Introduction to Bookbinding at London Centre for Book Arts",
     "start": "2026-08-29T10:00:00+01:00",
     "end": "2026-08-29T17:30:00+01:00",
@@ -2423,6 +2442,25 @@
     "added": "2026-08-14"
   },
   {
+    "id": "the-guardian-science-weekly-x-black-box-live-podcast-on-ai-067b0f73",
+    "title": "The Guardian Science Weekly x Black Box — live podcast on AI",
+    "start": "2026-09-03T19:00:00+01:00",
+    "end": null,
+    "venue": "Kings Place",
+    "address": "90 York Way, London N1 9AG",
+    "url": "https://www.kingsplace.co.uk/whats-on/podcast/the-guardian-science-weekly/",
+    "source": "venue:kings-place",
+    "tags": [
+      "talk",
+      "tech"
+    ],
+    "price": null,
+    "description": "Live recording of the Guardian's Science Weekly with Black Box host Michael Safi and science editor Ian Sample, on the collision between AI and us. Part of London Podcast Festival.",
+    "neighbourhood": "King's Cross",
+    "cycle_minutes": 30,
+    "added": "2026-08-18"
+  },
+  {
     "title": "Automatic at MOTH Club",
     "start": "2026-09-03T19:30:00+01:00",
     "end": "2026-09-03T22:30:00+01:00",
@@ -2475,6 +2513,25 @@
     "neighbourhood": "Shoreditch",
     "cycle_minutes": 7,
     "added": "2026-08-07"
+  },
+  {
+    "id": "genesis-poetry-slam-september-edition-f394a2d8",
+    "title": "Genesis Poetry Slam (September edition)",
+    "start": "2026-09-03T19:30:00+01:00",
+    "end": null,
+    "venue": "Genesis Cinema",
+    "address": "93-95 Mile End Road, London E1 4UJ",
+    "url": "https://www.genesiscinema.co.uk/event/92613",
+    "source": "venue:genesis-cinema",
+    "tags": [
+      "talk",
+      "community"
+    ],
+    "price": "£1",
+    "description": "London's only three-round poetry slam, 15+ years running, first Thursday monthly — up to 12 poets compete, £1 tickets, doors 6:45pm.",
+    "neighbourhood": "Mile End",
+    "cycle_minutes": 7,
+    "added": "2026-08-18"
   },
   {
     "id": "t-w-c-5rhythms-thursday-waves-first-september-session-7c6deb09",
@@ -2550,6 +2607,25 @@
     "neighbourhood": "Holborn",
     "cycle_minutes": 22,
     "added": "2026-08-07"
+  },
+  {
+    "id": "swing-den-beginner-friendly-swing-social-at-bishopsgate-inst-39f8b402",
+    "title": "Swing Den — beginner-friendly swing social at Bishopsgate Institute",
+    "start": "2026-09-04T19:00:00+01:00",
+    "end": "2026-09-04T23:00:00+01:00",
+    "venue": "Bishopsgate Institute",
+    "address": "230 Bishopsgate, London EC2M 4QH",
+    "url": "https://www.bishopsgate.org.uk/whats-on/activity/260410-swing-den-2",
+    "source": "venue:bishopsgate-institute",
+    "tags": [
+      "dance",
+      "class"
+    ],
+    "price": "£12 adv / £15 door",
+    "description": "Swing Patrol social night especially for beginners — taster lesson at the start and teachers on hand all evening, in the Victorian Great Hall. Final Swing Den of the season.",
+    "neighbourhood": "Liverpool Street",
+    "cycle_minutes": 8,
+    "added": "2026-08-18"
   },
   {
     "id": "marisa-anderson-luce-mawdsley-at-chats-palace-ae335ff6",
@@ -2962,6 +3038,25 @@
     "neighbourhood": "Battersea",
     "cycle_minutes": 50,
     "added": "2026-08-16"
+  },
+  {
+    "id": "sounds-impossible-casefile-13-magic-music-play-at-hoxton-hal-693f13fd",
+    "title": "Sounds Impossible: Casefile 13 — magic & music play at Hoxton Hall",
+    "start": "2026-09-08T18:45:00+01:00",
+    "end": null,
+    "venue": "Hoxton Hall",
+    "address": "130 Hoxton Street, London N1 6SH",
+    "url": "https://hoxtonhall.ticketsolve.com/ticketbooth/shows/1173690975",
+    "source": "venue:hoxton-hall",
+    "tags": [
+      "theatre",
+      "music"
+    ],
+    "price": null,
+    "description": "Edinburgh Fringe hit: part detective story, part fever dream about a secret agency behind the world's small impossible things, told through live music and magic. Doors 18:45.",
+    "neighbourhood": "Hoxton",
+    "cycle_minutes": 8,
+    "added": "2026-08-18"
   },
   {
     "title": "The Elixir of Love — Donizetti in English",
@@ -3388,6 +3483,24 @@
     "added": "2026-08-17"
   },
   {
+    "id": "alien-1979-with-intro-bloody-mary-film-club-at-genesis-96b5809c",
+    "title": "ALIEN (1979) with intro — Bloody Mary Film Club at Genesis",
+    "start": "2026-09-10T20:45:00+01:00",
+    "end": null,
+    "venue": "Genesis Cinema",
+    "address": "93-95 Mile End Road, London E1 4UJ",
+    "url": "https://www.genesiscinema.co.uk/event/109788",
+    "source": "venue:genesis-cinema",
+    "tags": [
+      "film"
+    ],
+    "price": null,
+    "description": "Ridley Scott's masterpiece with an intro talk from Genesis's resident film scholar on Ripley as the original Final Girl. Doors 8:30pm.",
+    "neighbourhood": "Mile End",
+    "cycle_minutes": 7,
+    "added": "2026-08-18"
+  },
+  {
     "title": "Chant for Love and Peace — kirtan at St Ethelburga's",
     "start": "2026-09-11T19:00:00+01:00",
     "end": "2026-09-11T21:30:00+01:00",
@@ -3441,6 +3554,24 @@
     "neighbourhood": "Dalston",
     "cycle_minutes": 14,
     "added": "2026-08-07"
+  },
+  {
+    "id": "hidden-jazz-club-at-hoxton-hall-28583764",
+    "title": "Hidden Jazz Club at Hoxton Hall",
+    "start": "2026-09-11T20:00:00+01:00",
+    "end": null,
+    "venue": "Hoxton Hall",
+    "address": "130 Hoxton Street, London N1 6SH",
+    "url": "https://hoxtonhall.ticketsolve.com/ticketbooth/shows/1173649756",
+    "source": "venue:hoxton-hall",
+    "tags": [
+      "music"
+    ],
+    "price": null,
+    "description": "Artist-run underground jazz night in a Grade II listed 1860s music hall — rotating cast incl. Denys Baptiste and Binker Golding, hang-out time between sets. Also 20 Nov.",
+    "neighbourhood": "Hoxton",
+    "cycle_minutes": 8,
+    "added": "2026-08-18"
   },
   {
     "id": "open-house-festival-2026-london-s-buildings-unlocked-8854e85b",
@@ -3555,6 +3686,25 @@
     "neighbourhood": "Hackney Wick",
     "cycle_minutes": 15,
     "added": "2026-08-13"
+  },
+  {
+    "id": "doc-n-roll-more-punk-than-punk-after-eight-q-a-at-rio-cinema-aefb42ae",
+    "title": "Doc'n Roll: More Punk Than Punk + After Eight (+ Q&A) at Rio Cinema",
+    "start": "2026-09-12T18:00:00+01:00",
+    "end": null,
+    "venue": "Rio Cinema",
+    "address": "107 Kingsland High Street, Dalston, E8 2PB",
+    "url": "https://riocinema.org.uk/Rio.dll/WhatsOn?f=2699704",
+    "source": "venue:rio-cinema",
+    "tags": [
+      "film",
+      "music"
+    ],
+    "price": null,
+    "description": "Double bill of music/justice docs — Aki Nawaz's Pakistani punk story and the Satpal Ram campaign — with a Q&A featuring both directors, Aki Nawaz and Nikesh Shukla.",
+    "neighbourhood": "Dalston",
+    "cycle_minutes": 15,
+    "added": "2026-08-18"
   },
   {
     "title": "Heart Circle — September edition",
@@ -4069,6 +4219,25 @@
     "added": "2026-08-17"
   },
   {
+    "id": "swing-live-lindy-hop-social-with-live-band-at-bishopsgate-in-37ec9df7",
+    "title": "Swing Live — lindy hop social with live band at Bishopsgate Institute",
+    "start": "2026-09-18T19:00:00+01:00",
+    "end": "2026-09-18T23:00:00+01:00",
+    "venue": "Bishopsgate Institute",
+    "address": "230 Bishopsgate, London EC2M 4QH",
+    "url": "https://www.bishopsgate.org.uk/whats-on/activity/260417-swing-live-2",
+    "source": "venue:bishopsgate-institute",
+    "tags": [
+      "dance",
+      "music"
+    ],
+    "price": "£17 adv / £21 door",
+    "description": "Season-closing Swing Patrol night with a live band and vintage DJs, opening with a beginner taster class — all levels.",
+    "neighbourhood": "Liverpool Street",
+    "cycle_minutes": 8,
+    "added": "2026-08-18"
+  },
+  {
     "title": "Nish Kumar at Hackney Empire",
     "start": "2026-09-18T19:30:00+01:00",
     "end": "2026-09-18T21:30:00+01:00",
@@ -4105,6 +4274,24 @@
     "cycle_minutes": 32,
     "id": "knees-up-cecil-sharp-ceilidh-autumn-opener-4fe28dea",
     "added": "2026-07-24"
+  },
+  {
+    "id": "jaywalkers-at-kings-place-115a0a41",
+    "title": "Jaywalkers at Kings Place",
+    "start": "2026-09-18T20:00:00+01:00",
+    "end": null,
+    "venue": "Kings Place",
+    "address": "90 York Way, London N1 9AG",
+    "url": "https://www.kingsplace.co.uk/whats-on/folk/jaywalkers/",
+    "source": "venue:kings-place",
+    "tags": [
+      "music"
+    ],
+    "price": null,
+    "description": "Acoustic powerhouse trio blending bluegrass, country, folk and Americana — blistering fiddle, mandolin and tight three-part harmony.",
+    "neighbourhood": "King's Cross",
+    "cycle_minutes": 30,
+    "added": "2026-08-18"
   },
   {
     "title": "Forage and Meditate on London Canals (September edition)",
@@ -4201,6 +4388,25 @@
     "neighbourhood": "Peckham",
     "cycle_minutes": 35,
     "added": "2026-08-14"
+  },
+  {
+    "id": "doc-n-roll-hakeem-q-a-and-acoustic-set-from-hak-baker-f4779b9c",
+    "title": "Doc'n Roll: HAKEEM + Q&A and acoustic set from Hak Baker",
+    "start": "2026-09-19T18:30:00+01:00",
+    "end": null,
+    "venue": "Rio Cinema",
+    "address": "107 Kingsland High Street, Dalston, E8 2PB",
+    "url": "https://riocinema.org.uk/Rio.dll/WhatsOn?f=2652932",
+    "source": "venue:rio-cinema",
+    "tags": [
+      "film",
+      "music"
+    ],
+    "price": null,
+    "description": "Intimate doc following east London musician Hak Baker through five years of sudden stardom — with live Q&A and an acoustic set from Baker himself.",
+    "neighbourhood": "Dalston",
+    "cycle_minutes": 15,
+    "added": "2026-08-18"
   },
   {
     "id": "you-don-t-know-what-you-re-m-ss-ng-the-hidden-data-shaping-o-725b23c7",
@@ -4645,6 +4851,24 @@
     "added": "2026-08-07"
   },
   {
+    "id": "audition-35mm-presented-by-asif-kapadia-at-rio-cinema-434e45cf",
+    "title": "AUDITION (35mm) presented by Asif Kapadia at Rio Cinema",
+    "start": "2026-09-25T20:30:00+01:00",
+    "end": null,
+    "venue": "Rio Cinema",
+    "address": "107 Kingsland High Street, Dalston, E8 2PB",
+    "url": "https://riocinema.org.uk/Rio.dll/WhatsOn?f=2770270",
+    "source": "venue:rio-cinema",
+    "tags": [
+      "film"
+    ],
+    "price": null,
+    "description": "Oscar-winner Asif Kapadia introduces Takashi Miike's 1999 horror on 35mm, part of the Rio's 50th-anniversary season.",
+    "neighbourhood": "Dalston",
+    "cycle_minutes": 15,
+    "added": "2026-08-18"
+  },
+  {
     "id": "clay-culture-making-ancient-history-pottery-workshop-677bbdf1",
     "title": "Clay & Culture: Making Ancient History — pottery workshop",
     "start": "2026-09-26T10:00:00+01:00",
@@ -4797,6 +5021,25 @@
     "added": "2026-08-09"
   },
   {
+    "id": "dance-in-a-day-lindy-hop-beginners-workshop-bbd53b1c",
+    "title": "Dance in a Day: Lindy Hop — beginners workshop",
+    "start": "2026-09-27T14:00:00+01:00",
+    "end": "2026-09-27T17:30:00+01:00",
+    "venue": "Bishopsgate Institute",
+    "address": "230 Bishopsgate, London EC2M 4QH",
+    "url": "https://www.bishopsgate.org.uk/whats-on/activity/260426-dance-in-a-day-lindy-hop-2",
+    "source": "venue:bishopsgate-institute",
+    "tags": [
+      "dance",
+      "class"
+    ],
+    "price": "£45",
+    "description": "Learn Lindy Hop from scratch in one Sunday afternoon — rotating partners, no partner needed.",
+    "neighbourhood": "Liverpool Street",
+    "cycle_minutes": 8,
+    "added": "2026-08-18"
+  },
+  {
     "id": "reset-the-nervous-system-with-tre-5cc5dc14",
     "title": "Reset The Nervous System with TRE",
     "start": "2026-09-27T15:30:00+01:00",
@@ -4831,6 +5074,24 @@
     "neighbourhood": "Shoreditch",
     "cycle_minutes": 7,
     "added": "2026-08-09"
+  },
+  {
+    "id": "samba-tour-songlines-encounters-at-kings-place-74afef60",
+    "title": "Samba Touré — Songlines Encounters at Kings Place",
+    "start": "2026-09-27T20:00:00+01:00",
+    "end": null,
+    "venue": "Kings Place",
+    "address": "90 York Way, London N1 9AG",
+    "url": "https://www.kingsplace.co.uk/whats-on/contemporary/samba-toure/",
+    "source": "venue:kings-place",
+    "tags": [
+      "music"
+    ],
+    "price": null,
+    "description": "Malian desert-blues guitarist in the Songlines Encounters series — hypnotic grooves in the lineage of Ali Farka Touré.",
+    "neighbourhood": "King's Cross",
+    "cycle_minutes": 30,
+    "added": "2026-08-18"
   },
   {
     "id": "k-music-festival-adg7-chang-kiha-lil-cherry-goldbuuda-775f75b6",
@@ -4999,6 +5260,24 @@
     "neighbourhood": "Primrose Hill",
     "cycle_minutes": 32,
     "added": "2026-08-11"
+  },
+  {
+    "id": "frankie-archer-at-kings-place-0a922fc3",
+    "title": "Frankie Archer at Kings Place",
+    "start": "2026-10-01T20:00:00+01:00",
+    "end": null,
+    "venue": "Kings Place",
+    "address": "90 York Way, London N1 9AG",
+    "url": "https://www.kingsplace.co.uk/whats-on/folk/frankie-archer-2/",
+    "source": "venue:kings-place",
+    "tags": [
+      "music"
+    ],
+    "price": null,
+    "description": "Nu-ancient trad bangers: Northumbrian fiddle and voice pushed through dreamy electronics and gnarly distortion.",
+    "neighbourhood": "King's Cross",
+    "cycle_minutes": 30,
+    "added": "2026-08-18"
   },
   {
     "id": "oi-va-voi-live-in-concert-cable-street-90-festival-aaba186a",
@@ -5296,6 +5575,25 @@
     "neighbourhood": "Whitechapel",
     "cycle_minutes": 10,
     "added": "2026-08-15"
+  },
+  {
+    "id": "hajda-banda-at-kings-place-decb93ed",
+    "title": "Hajda Banda at Kings Place",
+    "start": "2026-10-08T20:00:00+01:00",
+    "end": null,
+    "venue": "Kings Place",
+    "address": "90 York Way, London N1 9AG",
+    "url": "https://www.kingsplace.co.uk/whats-on/folk/hajda-banda-seated-standing-event/",
+    "source": "venue:kings-place",
+    "tags": [
+      "music",
+      "dance"
+    ],
+    "price": null,
+    "description": "Belarusian-Polish band playing traditional dance music of the Podlasie borderlands on acoustic village instruments — likely to get people dancing.",
+    "neighbourhood": "King's Cross",
+    "cycle_minutes": 30,
+    "added": "2026-08-18"
   },
   {
     "id": "wifi-wars-debug-xxii-interactive-comedy-game-show-8c36d57e",
@@ -5870,6 +6168,24 @@
     "neighbourhood": "Mayfair",
     "cycle_minutes": 35,
     "added": "2026-08-11"
+  },
+  {
+    "id": "jacken-elswyth-and-elspeth-anne-future-folk-series-opener-a1070ec1",
+    "title": "Jacken Elswyth and Elspeth Anne — Future Folk series opener",
+    "start": "2026-10-17T20:00:00+01:00",
+    "end": null,
+    "venue": "Kings Place",
+    "address": "90 York Way, London N1 9AG",
+    "url": "https://www.kingsplace.co.uk/whats-on/folk/jacken-elswyth-and-elspeth-anne/",
+    "source": "venue:kings-place",
+    "tags": [
+      "music"
+    ],
+    "price": null,
+    "description": "Opening night of the Future Folk series: banjo, voice, drone and distortion woven into strange, compelling modern folk.",
+    "neighbourhood": "King's Cross",
+    "cycle_minutes": 30,
+    "added": "2026-08-18"
   },
   {
     "id": "authentic-connections-wavekind-partner-breathwork-half-day-r-88ca7edf",

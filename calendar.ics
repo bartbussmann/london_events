@@ -1262,6 +1262,19 @@ URL:https://bachtrack.com/concert-event/altin-gun-bbc-symphony-orchestra-r
 LOCATION:Royal Albert Hall\, Kensington Gore\, London SW7 2AP
 END:VEVENT
 BEGIN:VEVENT
+UID:some-like-it-swing-swing-dance-social-at-genesis-cinema-23de2e66@londo
+ n-events
+DTSTAMP:20260828T183000Z
+DTSTART:20260828T183000Z
+DTEND:20260828T203000Z
+SUMMARY:Some Like it Swing — swing dance social at Genesis Cinema
+DESCRIPTION:Monthly SwingdanceUK social in the cinema bar: beginner Lindy 
+ Hop class 7:30-8:30pm\, then vintage 30s-50s records until late.\nhttps:/
+ /www.genesiscinema.co.uk/event/92488
+URL:https://www.genesiscinema.co.uk/event/92488
+LOCATION:Genesis Cinema\, 93-95 Mile End Road\, London E1 4UJ
+END:VEVENT
+BEGIN:VEVENT
 UID:introduction-to-bookbinding-at-london-centre-for-book-arts-14717119@lo
  ndon-events
 DTSTAMP:20260829T090000Z
@@ -1855,6 +1868,21 @@ URL:https://dice.fm/event/2w8yop-the-hackney-folk-club-newberry-and-verch-
 LOCATION:Chats Palace\, 42-44 Brooksby's Walk\, Homerton\, E9 6DF
 END:VEVENT
 BEGIN:VEVENT
+UID:the-guardian-science-weekly-x-black-box-live-podcast-on-ai-067b0f73@lo
+ ndon-events
+DTSTAMP:20260903T180000Z
+DTSTART:20260903T180000Z
+DTEND:20260903T200000Z
+SUMMARY:The Guardian Science Weekly x Black Box — live podcast on AI
+DESCRIPTION:Live recording of the Guardian's Science Weekly with Black Box
+  host Michael Safi and science editor Ian Sample\, on the collision betwe
+ en AI and us. Part of London Podcast Festival.\nhttps://www.kingsplace.co
+ .uk/whats-on/podcast/the-guardian-science-weekly/
+URL:https://www.kingsplace.co.uk/whats-on/podcast/the-guardian-science-wee
+ kly/
+LOCATION:Kings Place\, 90 York Way\, London N1 9AG
+END:VEVENT
+BEGIN:VEVENT
 UID:automatic-at-moth-club-82a8d6a0@london-events
 DTSTAMP:20260903T183000Z
 DTSTART:20260903T183000Z
@@ -1895,6 +1923,18 @@ DESCRIPTION:Rising Australian indie/garage-rock band headline the converte
 URL:https://villageunderground.co.uk/events/the-belair-lip-bombs-snuggle-m
  orn-3rd-sep-village-underground-london-tickets-8elkw7
 LOCATION:Village Underground\, 54 Holywell Lane\, Shoreditch\, EC2A 3PQ
+END:VEVENT
+BEGIN:VEVENT
+UID:genesis-poetry-slam-september-edition-f394a2d8@london-events
+DTSTAMP:20260903T183000Z
+DTSTART:20260903T183000Z
+DTEND:20260903T203000Z
+SUMMARY:Genesis Poetry Slam (September edition)
+DESCRIPTION:London's only three-round poetry slam\, 15+ years running\, fi
+ rst Thursday monthly — up to 12 poets compete\, £1 tickets\, doors 6:4
+ 5pm.\nPrice: £1\nhttps://www.genesiscinema.co.uk/event/92613
+URL:https://www.genesiscinema.co.uk/event/92613
+LOCATION:Genesis Cinema\, 93-95 Mile End Road\, London E1 4UJ
 END:VEVENT
 BEGIN:VEVENT
 UID:t-w-c-5rhythms-thursday-waves-first-september-session-7c6deb09@london-
@@ -1950,6 +1990,21 @@ DESCRIPTION:Historian Dr Thomas Waters tells the history of magic through
  booth/shows/1173674867
 URL:https://conwayhall.ticketsolve.com/ticketbooth/shows/1173674867
 LOCATION:Conway Hall\, 25 Red Lion Square\, WC1R 4RL
+END:VEVENT
+BEGIN:VEVENT
+UID:swing-den-beginner-friendly-swing-social-at-bishopsgate-inst-39f8b402@
+ london-events
+DTSTAMP:20260904T180000Z
+DTSTART:20260904T180000Z
+DTEND:20260904T220000Z
+SUMMARY:Swing Den — beginner-friendly swing social at Bishopsgate Instit
+ ute
+DESCRIPTION:Swing Patrol social night especially for beginners — taster 
+ lesson at the start and teachers on hand all evening\, in the Victorian G
+ reat Hall. Final Swing Den of the season.\nPrice: £12 adv / £15 door\nh
+ ttps://www.bishopsgate.org.uk/whats-on/activity/260410-swing-den-2
+URL:https://www.bishopsgate.org.uk/whats-on/activity/260410-swing-den-2
+LOCATION:Bishopsgate Institute\, 230 Bishopsgate\, London EC2M 4QH
 END:VEVENT
 BEGIN:VEVENT
 UID:marisa-anderson-luce-mawdsley-at-chats-palace-ae335ff6@london-events
@@ -2254,6 +2309,21 @@ DESCRIPTION:Round two of the sold-out pottery-painting singles night — h
 URL:https://www.thursday.com/events/london/3c2fb2cd-4987-40f3-b2a1-aaaceae
  71477
 LOCATION:Pottery Café\, 153 Northcote Road\, Battersea\, SW11 6QB
+END:VEVENT
+BEGIN:VEVENT
+UID:sounds-impossible-casefile-13-magic-music-play-at-hoxton-hal-693f13fd@
+ london-events
+DTSTAMP:20260908T174500Z
+DTSTART:20260908T174500Z
+DTEND:20260908T194500Z
+SUMMARY:Sounds Impossible: Casefile 13 — magic & music play at Hoxton Ha
+ ll
+DESCRIPTION:Edinburgh Fringe hit: part detective story\, part fever dream 
+ about a secret agency behind the world's small impossible things\, told t
+ hrough live music and magic. Doors 18:45.\nhttps://hoxtonhall.ticketsolve
+ .com/ticketbooth/shows/1173690975
+URL:https://hoxtonhall.ticketsolve.com/ticketbooth/shows/1173690975
+LOCATION:Hoxton Hall\, 130 Hoxton Street\, London N1 6SH
 END:VEVENT
 BEGIN:VEVENT
 UID:the-elixir-of-love-donizetti-in-english-b05123e8@london-events
@@ -2579,6 +2649,19 @@ URL:https://www.eventbrite.com/e/dance-sound-healing-gong-bath-tickets-199
 LOCATION:Liquid Movement\, 455 Wick Lane\, Unit 12b\, London E3 2TB
 END:VEVENT
 BEGIN:VEVENT
+UID:alien-1979-with-intro-bloody-mary-film-club-at-genesis-96b5809c@london
+ -events
+DTSTAMP:20260910T194500Z
+DTSTART:20260910T194500Z
+DTEND:20260910T214500Z
+SUMMARY:ALIEN (1979) with intro — Bloody Mary Film Club at Genesis
+DESCRIPTION:Ridley Scott's masterpiece with an intro talk from Genesis's r
+ esident film scholar on Ripley as the original Final Girl. Doors 8:30pm.\
+ nhttps://www.genesiscinema.co.uk/event/109788
+URL:https://www.genesiscinema.co.uk/event/109788
+LOCATION:Genesis Cinema\, 93-95 Mile End Road\, London E1 4UJ
+END:VEVENT
+BEGIN:VEVENT
 UID:chant-for-love-and-peace-kirtan-at-st-ethelburga-s-a0d3af86@london-eve
  nts
 DTSTAMP:20260911T180000Z
@@ -2617,6 +2700,19 @@ DESCRIPTION:World-premiere Morgan Lloyd Malcolm adaptation of Henry James'
  colatheatre.com/event/the-turn-of-the-screw/
 URL:https://www.arcolatheatre.com/event/the-turn-of-the-screw/
 LOCATION:Arcola Theatre (Studio 1)\, 24 Ashwin Street\, Dalston\, E8 3DL
+END:VEVENT
+BEGIN:VEVENT
+UID:hidden-jazz-club-at-hoxton-hall-28583764@london-events
+DTSTAMP:20260911T190000Z
+DTSTART:20260911T190000Z
+DTEND:20260911T210000Z
+SUMMARY:Hidden Jazz Club at Hoxton Hall
+DESCRIPTION:Artist-run underground jazz night in a Grade II listed 1860s m
+ usic hall — rotating cast incl. Denys Baptiste and Binker Golding\, han
+ g-out time between sets. Also 20 Nov.\nhttps://hoxtonhall.ticketsolve.com
+ /ticketbooth/shows/1173649756
+URL:https://hoxtonhall.ticketsolve.com/ticketbooth/shows/1173649756
+LOCATION:Hoxton Hall\, 130 Hoxton Street\, London N1 6SH
 END:VEVENT
 BEGIN:VEVENT
 UID:open-house-festival-2026-london-s-buildings-unlocked-8854e85b@london-e
@@ -2700,6 +2796,21 @@ DESCRIPTION:Outdoor silent-disco ecstatic dance: facilitated practice\, fi
  lion.events/e/z6t0y
 URL:https://dandelion.events/e/z6t0y
 LOCATION:Hackney Wick Woodland\, Hackney Wick\, London
+END:VEVENT
+BEGIN:VEVENT
+UID:doc-n-roll-more-punk-than-punk-after-eight-q-a-at-rio-cinema-aefb42ae@
+ london-events
+DTSTAMP:20260912T170000Z
+DTSTART:20260912T170000Z
+DTEND:20260912T190000Z
+SUMMARY:Doc'n Roll: More Punk Than Punk + After Eight (+ Q&A) at Rio Cinem
+ a
+DESCRIPTION:Double bill of music/justice docs — Aki Nawaz's Pakistani pu
+ nk story and the Satpal Ram campaign — with a Q&A featuring both direct
+ ors\, Aki Nawaz and Nikesh Shukla.\nhttps://riocinema.org.uk/Rio.dll/What
+ sOn?f=2699704
+URL:https://riocinema.org.uk/Rio.dll/WhatsOn?f=2699704
+LOCATION:Rio Cinema\, 107 Kingsland High Street\, Dalston\, E8 2PB
 END:VEVENT
 BEGIN:VEVENT
 UID:heart-circle-september-edition-6fb7d192@london-events
@@ -3087,6 +3198,21 @@ URL:https://www.thelexington.co.uk/events.php
 LOCATION:The Lexington\, 96-98 Pentonville Road\, London N1 9JB
 END:VEVENT
 BEGIN:VEVENT
+UID:swing-live-lindy-hop-social-with-live-band-at-bishopsgate-in-37ec9df7@
+ london-events
+DTSTAMP:20260918T180000Z
+DTSTART:20260918T180000Z
+DTEND:20260918T220000Z
+SUMMARY:Swing Live — lindy hop social with live band at Bishopsgate Inst
+ itute
+DESCRIPTION:Season-closing Swing Patrol night with a live band and vintage
+  DJs\, opening with a beginner taster class — all levels.\nPrice: £17 
+ adv / £21 door\nhttps://www.bishopsgate.org.uk/whats-on/activity/260417-
+ swing-live-2
+URL:https://www.bishopsgate.org.uk/whats-on/activity/260417-swing-live-2
+LOCATION:Bishopsgate Institute\, 230 Bishopsgate\, London EC2M 4QH
+END:VEVENT
+BEGIN:VEVENT
 UID:nish-kumar-at-hackney-empire-e1ee85be@london-events
 DTSTAMP:20260918T183000Z
 DTSTART:20260918T183000Z
@@ -3113,6 +3239,18 @@ DESCRIPTION:The monthly English ceilidh at the home of folk dance\, with l
 URL:https://www.efdss.org/whats-on/27-dances/15766-knees-up-cecil-sharp-ce
  ilidh-2026
 LOCATION:Cecil Sharp House\, 2 Regent's Park Road\, NW1 7AY
+END:VEVENT
+BEGIN:VEVENT
+UID:jaywalkers-at-kings-place-115a0a41@london-events
+DTSTAMP:20260918T190000Z
+DTSTART:20260918T190000Z
+DTEND:20260918T210000Z
+SUMMARY:Jaywalkers at Kings Place
+DESCRIPTION:Acoustic powerhouse trio blending bluegrass\, country\, folk a
+ nd Americana — blistering fiddle\, mandolin and tight three-part harmon
+ y.\nhttps://www.kingsplace.co.uk/whats-on/folk/jaywalkers/
+URL:https://www.kingsplace.co.uk/whats-on/folk/jaywalkers/
+LOCATION:Kings Place\, 90 York Way\, London N1 9AG
 END:VEVENT
 BEGIN:VEVENT
 UID:forage-and-meditate-on-london-canals-september-edition-2e58fdef@london
@@ -3183,6 +3321,19 @@ DESCRIPTION:Evening workshop blending play-fighting and contact improvisat
  s/e/6a7dc52aeebf46a29e0be5be
 URL:https://dandelion.events/e/6a7dc52aeebf46a29e0be5be
 LOCATION:Anatomie Studio\, Station Passage\, Peckham\, SE15
+END:VEVENT
+BEGIN:VEVENT
+UID:doc-n-roll-hakeem-q-a-and-acoustic-set-from-hak-baker-f4779b9c@london-
+ events
+DTSTAMP:20260919T173000Z
+DTSTART:20260919T173000Z
+DTEND:20260919T193000Z
+SUMMARY:Doc'n Roll: HAKEEM + Q&A and acoustic set from Hak Baker
+DESCRIPTION:Intimate doc following east London musician Hak Baker through 
+ five years of sudden stardom — with live Q&A and an acoustic set from B
+ aker himself.\nhttps://riocinema.org.uk/Rio.dll/WhatsOn?f=2652932
+URL:https://riocinema.org.uk/Rio.dll/WhatsOn?f=2652932
+LOCATION:Rio Cinema\, 107 Kingsland High Street\, Dalston\, E8 2PB
 END:VEVENT
 BEGIN:VEVENT
 UID:you-don-t-know-what-you-re-m-ss-ng-the-hidden-data-shaping-o-725b23c7@
@@ -3530,6 +3681,19 @@ URL:https://unionchapel.org.uk/whats-on/grace-petrie
 LOCATION:Union Chapel\, Compton Terrace\, Islington\, N1 2UN
 END:VEVENT
 BEGIN:VEVENT
+UID:audition-35mm-presented-by-asif-kapadia-at-rio-cinema-434e45cf@london-
+ events
+DTSTAMP:20260925T193000Z
+DTSTART:20260925T193000Z
+DTEND:20260925T213000Z
+SUMMARY:AUDITION (35mm) presented by Asif Kapadia at Rio Cinema
+DESCRIPTION:Oscar-winner Asif Kapadia introduces Takashi Miike's 1999 horr
+ or on 35mm\, part of the Rio's 50th-anniversary season.\nhttps://riocinem
+ a.org.uk/Rio.dll/WhatsOn?f=2770270
+URL:https://riocinema.org.uk/Rio.dll/WhatsOn?f=2770270
+LOCATION:Rio Cinema\, 107 Kingsland High Street\, Dalston\, E8 2PB
+END:VEVENT
+BEGIN:VEVENT
 UID:clay-culture-making-ancient-history-pottery-workshop-677bbdf1@london-e
  vents
 DTSTAMP:20260926T090000Z
@@ -3642,6 +3806,19 @@ LOCATION:Old Diorama Arts Centre\, 201 Drummond Street\, Regent's Place\,
  NW1 3FE
 END:VEVENT
 BEGIN:VEVENT
+UID:dance-in-a-day-lindy-hop-beginners-workshop-bbd53b1c@london-events
+DTSTAMP:20260927T130000Z
+DTSTART:20260927T130000Z
+DTEND:20260927T163000Z
+SUMMARY:Dance in a Day: Lindy Hop — beginners workshop
+DESCRIPTION:Learn Lindy Hop from scratch in one Sunday afternoon — rotat
+ ing partners\, no partner needed.\nPrice: £45\nhttps://www.bishopsgate.o
+ rg.uk/whats-on/activity/260426-dance-in-a-day-lindy-hop-2
+URL:https://www.bishopsgate.org.uk/whats-on/activity/260426-dance-in-a-day
+ -lindy-hop-2
+LOCATION:Bishopsgate Institute\, 230 Bishopsgate\, London EC2M 4QH
+END:VEVENT
+BEGIN:VEVENT
 UID:reset-the-nervous-system-with-tre-5cc5dc14@london-events
 DTSTAMP:20260927T143000Z
 DTSTART:20260927T143000Z
@@ -3666,6 +3843,18 @@ DESCRIPTION:Math-rock/post-rock triple bill from the Portals collective
 URL:https://dice.fm/event/7dgglp-portals-presents-a-tota-so-poptones-salan
  g-27th-sep-the-old-blue-last-london-tickets
 LOCATION:The Old Blue Last\, 38 Great Eastern St\, EC2A 3ES
+END:VEVENT
+BEGIN:VEVENT
+UID:samba-tour-songlines-encounters-at-kings-place-74afef60@london-events
+DTSTAMP:20260927T190000Z
+DTSTART:20260927T190000Z
+DTEND:20260927T210000Z
+SUMMARY:Samba Touré — Songlines Encounters at Kings Place
+DESCRIPTION:Malian desert-blues guitarist in the Songlines Encounters seri
+ es — hypnotic grooves in the lineage of Ali Farka Touré.\nhttps://www.
+ kingsplace.co.uk/whats-on/contemporary/samba-toure/
+URL:https://www.kingsplace.co.uk/whats-on/contemporary/samba-toure/
+LOCATION:Kings Place\, 90 York Way\, London N1 9AG
 END:VEVENT
 BEGIN:VEVENT
 UID:k-music-festival-adg7-chang-kiha-lil-cherry-goldbuuda-775f75b6@london-
@@ -3789,6 +3978,18 @@ DESCRIPTION:English folk supergroup Leveret (Andy Cutting\, Sam Sweeney\,
  i Va Voi at EartH — pick one.\nhttps://www.efdss.org/whats-on
 URL:https://www.efdss.org/whats-on
 LOCATION:Cecil Sharp House\, 2 Regent's Park Road\, NW1 7AY
+END:VEVENT
+BEGIN:VEVENT
+UID:frankie-archer-at-kings-place-0a922fc3@london-events
+DTSTAMP:20261001T190000Z
+DTSTART:20261001T190000Z
+DTEND:20261001T210000Z
+SUMMARY:Frankie Archer at Kings Place
+DESCRIPTION:Nu-ancient trad bangers: Northumbrian fiddle and voice pushed 
+ through dreamy electronics and gnarly distortion.\nhttps://www.kingsplace
+ .co.uk/whats-on/folk/frankie-archer-2/
+URL:https://www.kingsplace.co.uk/whats-on/folk/frankie-archer-2/
+LOCATION:Kings Place\, 90 York Way\, London N1 9AG
 END:VEVENT
 BEGIN:VEVENT
 UID:oi-va-voi-live-in-concert-cable-street-90-festival-aaba186a@london-eve
@@ -4004,6 +4205,20 @@ DESCRIPTION:Pepys's diary of plague\, fire and the fall of kings performed
 URL:https://wiltons.org.uk/whats-on/incendiary-samuel-pepys-in-words-and-m
  usic/
 LOCATION:Wilton's Music Hall\, 1 Graces Alley\, E1 8JB
+END:VEVENT
+BEGIN:VEVENT
+UID:hajda-banda-at-kings-place-decb93ed@london-events
+DTSTAMP:20261008T190000Z
+DTSTART:20261008T190000Z
+DTEND:20261008T210000Z
+SUMMARY:Hajda Banda at Kings Place
+DESCRIPTION:Belarusian-Polish band playing traditional dance music of the 
+ Podlasie borderlands on acoustic village instruments — likely to get pe
+ ople dancing.\nhttps://www.kingsplace.co.uk/whats-on/folk/hajda-banda-sea
+ ted-standing-event/
+URL:https://www.kingsplace.co.uk/whats-on/folk/hajda-banda-seated-standing
+ -event/
+LOCATION:Kings Place\, 90 York Way\, London N1 9AG
 END:VEVENT
 BEGIN:VEVENT
 UID:wifi-wars-debug-xxii-interactive-comedy-game-show-8c36d57e@london-even
@@ -4432,6 +4647,20 @@ DESCRIPTION:Ri lecture on JWST's discoveries about the earliest galaxies a
 URL:https://www.rigb.org/whats-on/ancient-cosmos-james-webb-space-telescop
  es-new-revelations
 LOCATION:Royal Institution\, 21 Albemarle Street\, Mayfair\, W1S 4BS
+END:VEVENT
+BEGIN:VEVENT
+UID:jacken-elswyth-and-elspeth-anne-future-folk-series-opener-a1070ec1@lon
+ don-events
+DTSTAMP:20261017T190000Z
+DTSTART:20261017T190000Z
+DTEND:20261017T210000Z
+SUMMARY:Jacken Elswyth and Elspeth Anne — Future Folk series opener
+DESCRIPTION:Opening night of the Future Folk series: banjo\, voice\, drone
+  and distortion woven into strange\, compelling modern folk.\nhttps://www
+ .kingsplace.co.uk/whats-on/folk/jacken-elswyth-and-elspeth-anne/
+URL:https://www.kingsplace.co.uk/whats-on/folk/jacken-elswyth-and-elspeth-
+ anne/
+LOCATION:Kings Place\, 90 York Way\, London N1 9AG
 END:VEVENT
 BEGIN:VEVENT
 UID:authentic-connections-wavekind-partner-breathwork-half-day-r-88ca7edf@
