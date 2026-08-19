@@ -2663,7 +2663,7 @@
     "added": "2026-08-07"
   },
   {
-    "title": "Authentic Relating & Conscious Connections — Exploring Meaning & Aliveness",
+    "title": "What Happens to You Around Other People? — Authentic Relating London",
     "start": "2026-09-06T12:45:00+01:00",
     "end": "2026-09-06T16:15:00+01:00",
     "venue": "Zen Yoga",
@@ -2829,6 +2829,24 @@
     "neighbourhood": "Angel",
     "cycle_minutes": 20,
     "added": "2026-08-17"
+  },
+  {
+    "id": "intelligence-squared-luke-harding-alastair-campbell-trump-pu-8c6eeda7",
+    "title": "Intelligence Squared: Luke Harding & Alastair Campbell — Trump, Putin and the New Age of Conquest",
+    "start": "2026-09-07T19:30:00+01:00",
+    "end": "2026-09-07T21:00:00+01:00",
+    "venue": "Kings Place",
+    "address": "90 York Way, N1 9AG",
+    "url": "https://www.eventbrite.co.uk/e/luke-harding-and-alastair-campbell-trump-putin-and-a-new-age-of-conquest-tickets-1994291977991",
+    "source": "venue:kings-place",
+    "tags": [
+      "talk"
+    ],
+    "price": "from £19.99",
+    "description": "Guardian foreign correspondent Luke Harding (launching Betrayal, with reporting from Ukraine) in conversation with Alastair Campbell on the return of great-power politics.",
+    "neighbourhood": "King's Cross",
+    "cycle_minutes": 30,
+    "added": "2026-08-19"
   },
   {
     "id": "bright-phoebus-revisited-lal-mike-waterson-tribute-d5356564",
@@ -3627,6 +3645,102 @@
     "cycle_minutes": 32
   },
   {
+    "id": "open-house-trellick-tower-flat-tour-goldfinger-1972-2758100a",
+    "title": "Open House: Trellick Tower — flat tour (Goldfinger, 1972)",
+    "start": "2026-09-13T11:00:00+01:00",
+    "end": null,
+    "venue": "Trellick Tower",
+    "address": "5 Golborne Road, W10 5UT",
+    "url": "https://programme.openhouse.org.uk/listings/2203",
+    "source": "festival:open-house",
+    "tags": [
+      "festival",
+      "art"
+    ],
+    "price": "Free (ticketed)",
+    "description": "30-min tours inside a flat in Goldfinger's Grade II* brutalist icon, Sun 13 Sep only, slots 11:00-16:00. One of the festival's fastest sellouts — booking opens midday 19 Aug. Tube easier than the ~55 min ride.",
+    "neighbourhood": "North Kensington",
+    "cycle_minutes": 55,
+    "added": "2026-08-19"
+  },
+  {
+    "id": "open-house-golden-lane-estate-tours-and-flat-visits-b658d43e",
+    "title": "Open House: Golden Lane Estate — tours and flat visits",
+    "start": "2026-09-13T11:00:00+01:00",
+    "end": "2026-09-13T17:00:00+01:00",
+    "venue": "Golden Lane Community Centre",
+    "address": "Fann Street, EC1Y 0SA",
+    "url": "https://programme.openhouse.org.uk/listings/7444",
+    "source": "festival:open-house",
+    "tags": [
+      "festival",
+      "art"
+    ],
+    "price": "Free (ticketed)",
+    "description": "Chamberlin Powell & Bon's pre-Barbican estate (1957): estate tours plus access inside several residents' flats, hourly slots Sun 13 Sep. Booking opens midday 19 Aug.",
+    "neighbourhood": "Barbican",
+    "cycle_minutes": 15,
+    "added": "2026-08-19"
+  },
+  {
+    "id": "open-house-barbican-conservatory-head-gardener-tour-plant-ad-5fb4a46f",
+    "title": "Open House: Barbican Conservatory — head gardener tour & plant adoption",
+    "start": "2026-09-13T11:30:00+01:00",
+    "end": null,
+    "venue": "Barbican Centre",
+    "address": "Silk Street, EC2Y 8DS",
+    "url": "https://programme.openhouse.org.uk/listings/13685",
+    "source": "festival:open-house",
+    "tags": [
+      "festival",
+      "outdoors"
+    ],
+    "price": "Free (ticketed)",
+    "description": "Sun 13 Sep: conservatory entry with plant adoption (12:00-14:00), head-gardener tour (12:15) and half-hourly welcome tours. Each needs a separate free ticket — bookings open midday 19 Aug.",
+    "neighbourhood": "Barbican",
+    "cycle_minutes": 15,
+    "added": "2026-08-19"
+  },
+  {
+    "id": "open-house-brutalism-high-tech-walking-tour-barbican-to-lloy-d1cb9371",
+    "title": "Open House: Brutalism & High-Tech walking tour (Barbican to Lloyd's)",
+    "start": "2026-09-13T14:00:00+01:00",
+    "end": "2026-09-13T17:00:00+01:00",
+    "venue": "Meet: St Giles Cripplegate, Barbican",
+    "address": "Fore Street, EC2Y",
+    "url": "https://programme.openhouse.org.uk/listings/13565",
+    "source": "festival:open-house",
+    "tags": [
+      "festival",
+      "art",
+      "outdoors"
+    ],
+    "price": "Free (ticketed)",
+    "description": "3-hour guided walk through post-war City architecture — Barbican brutalism to the High-Tech Lloyd's Building. Sun 13 Sep 14:00; clashes with Trellick/Golden Lane slots. Booking opens midday 19 Aug.",
+    "neighbourhood": "City of London",
+    "cycle_minutes": 15,
+    "added": "2026-08-19"
+  },
+  {
+    "id": "open-house-alexandra-road-estate-inside-a-neave-brown-maison-2eba5df8",
+    "title": "Open House: Alexandra Road Estate — inside a Neave Brown maisonette",
+    "start": "2026-09-13T14:00:00+01:00",
+    "end": "2026-09-13T17:00:00+01:00",
+    "venue": "Alexandra Road Estate (Rowley Way)",
+    "address": "85b Rowley Way, NW8 0SN",
+    "url": "https://programme.openhouse.org.uk/listings/12110",
+    "source": "festival:open-house",
+    "tags": [
+      "festival",
+      "art"
+    ],
+    "price": "Free (ticketed)",
+    "description": "Visit a refurbished maisonette inside Neave Brown's celebrated stepped-concrete estate. Sun 13 Sep, hourly slots 14:00-17:00 — combinable with a morning at Golden Lane. Overground easier than the ~45 min ride. Booking opens midday 19 Aug.",
+    "neighbourhood": "South Hampstead",
+    "cycle_minutes": 45,
+    "added": "2026-08-19"
+  },
+  {
     "id": "ethical-matters-fighting-social-atrophy-dr-sarah-stein-lubra-b1f657e1",
     "title": "Ethical Matters: Fighting Social Atrophy — Dr Sarah Stein Lubrano",
     "start": "2026-09-13T15:00:00+01:00",
@@ -4010,6 +4124,25 @@
     "added": "2026-08-14"
   },
   {
+    "id": "open-house-bishopsgate-goodsyard-behind-the-hoarding-at-the--2f7700ca",
+    "title": "Open House: Bishopsgate Goodsyard — behind the hoarding at the Braithwaite Arches",
+    "start": "2026-09-18T11:00:00+01:00",
+    "end": "2026-09-18T12:30:00+01:00",
+    "venue": "Bishopsgate Goodsyard",
+    "address": "68 Sclater Street, E1 6HR",
+    "url": "https://programme.openhouse.org.uk/listings/12431",
+    "source": "festival:open-house",
+    "tags": [
+      "festival",
+      "art"
+    ],
+    "price": "Free (ticketed)",
+    "description": "Guided walk behind the hoardings of the Shoreditch goodsyard (largely shut since 1964) with the developers — 5 minutes from home. Fri 18 Sep 11:00 or 14:00 only; weekday daytime is the trade-off, flagged as a rare-access exception. Booking opens midday 19 Aug.",
+    "neighbourhood": "Shoreditch",
+    "cycle_minutes": 6,
+    "added": "2026-08-19"
+  },
+  {
     "id": "breathwork-harmonizing-sound-and-sacred-cacao-ceremony-18-se-2a4f6ff4",
     "title": "Breathwork, Harmonizing Sound and Sacred Cacao Ceremony (18 Sep edition)",
     "start": "2026-09-18T18:00:00+01:00",
@@ -4122,6 +4255,25 @@
     "added": "2026-08-18"
   },
   {
+    "id": "open-house-bt-tower-34th-floor-revolving-viewing-tour-b571be51",
+    "title": "Open House: BT Tower — 34th-floor revolving viewing tour",
+    "start": "2026-09-19T09:30:00+01:00",
+    "end": null,
+    "venue": "BT Tower",
+    "address": "45 Maple Street, W1T 4BG",
+    "url": "https://programme.openhouse.org.uk/listings/2735",
+    "source": "festival:open-house",
+    "tags": [
+      "festival",
+      "art"
+    ],
+    "price": "Free (ticketed)",
+    "description": "Rare public access to the famous revolving 34th floor, 158m up, before the tower's hotel conversion — 45-min guided slots Sat 19 + Sun 20 Sep. BOOKING OPENS MIDDAY 19 AUG (free Open House account needed); expect these to vanish in minutes.",
+    "neighbourhood": "Fitzrovia",
+    "cycle_minutes": 32,
+    "added": "2026-08-19"
+  },
+  {
     "title": "Forage and Meditate on London Canals (September edition)",
     "start": "2026-09-19T10:00:00+01:00",
     "end": "2026-09-19T13:00:00+01:00",
@@ -4179,6 +4331,26 @@
     "added": "2026-08-11"
   },
   {
+    "id": "open-house-the-story-of-housing-in-hackney-walking-tour-from-a872108b",
+    "title": "Open House: The Story of Housing in Hackney — walking tour from Hoxton",
+    "start": "2026-09-19T14:00:00+01:00",
+    "end": "2026-09-19T15:45:00+01:00",
+    "venue": "Meet: Hoxton Station",
+    "address": "Hoxton Station, E2 8HD",
+    "url": "https://programme.openhouse.org.uk/listings/13760",
+    "source": "festival:open-house",
+    "tags": [
+      "festival",
+      "community",
+      "outdoors"
+    ],
+    "price": "Free (ticketed)",
+    "description": "Walking tour tracing how Hackney's housing evolved, starting at Hoxton Station — properly local. Sat 19 Sep 14:00; clashes with Glenkerry House. Booking opens midday 19 Aug.",
+    "neighbourhood": "Hoxton",
+    "cycle_minutes": 7,
+    "added": "2026-08-19"
+  },
+  {
     "id": "international-folk-dancing-with-the-sifd-band-ed3c313b",
     "title": "International Folk Dancing with the SIFD Band",
     "start": "2026-09-19T14:30:00+01:00",
@@ -4196,6 +4368,26 @@
     "neighbourhood": "Primrose Hill",
     "added": "2026-08-05",
     "cycle_minutes": 32
+  },
+  {
+    "id": "open-house-glenkerry-house-resident-led-tour-of-goldfinger-s-0b529e47",
+    "title": "Open House: Glenkerry House — resident-led tour of Goldfinger's co-op tower",
+    "start": "2026-09-19T14:30:00+01:00",
+    "end": "2026-09-19T15:45:00+01:00",
+    "venue": "Glenkerry House, Brownfield Estate",
+    "address": "Glenkerry House, Poplar, E14 0SL",
+    "url": "https://programme.openhouse.org.uk/listings/9437",
+    "source": "festival:open-house",
+    "tags": [
+      "festival",
+      "art",
+      "community"
+    ],
+    "price": "Free (ticketed)",
+    "description": "Tour of Goldfinger's last high-rise — Balfron's sister block, still run as a residents' housing co-op. Two slots Sat 19 Sep; clashes with the Hackney housing walk. Booking opens midday 19 Aug.",
+    "neighbourhood": "Poplar",
+    "cycle_minutes": 20,
+    "added": "2026-08-19"
   },
   {
     "id": "the-art-of-play-play-fight-contact-improvisation-d79f32fd",
@@ -4271,6 +4463,25 @@
     "neighbourhood": "Hackney Wick",
     "cycle_minutes": 15,
     "added": "2026-08-09"
+  },
+  {
+    "id": "open-house-leadenhall-market-tour-with-roman-ruins-access-6deda44f",
+    "title": "Open House: Leadenhall Market tour with Roman ruins access",
+    "start": "2026-09-20T11:00:00+01:00",
+    "end": "2026-09-20T12:00:00+01:00",
+    "venue": "Leadenhall Market",
+    "address": "Gracechurch Street, EC3V 1LT",
+    "url": "https://programme.openhouse.org.uk/listings/3348",
+    "source": "festival:open-house",
+    "tags": [
+      "festival",
+      "art"
+    ],
+    "price": "Free (ticketed)",
+    "description": "Horace Jones's Victorian market with exclusive access to the Roman ruins beneath — 2,000 years in one hour. Sun 20 Sep 11:00 (also Sat 19 14:00). Booking opens midday 19 Aug.",
+    "neighbourhood": "City of London",
+    "cycle_minutes": 13,
+    "added": "2026-08-19"
   },
   {
     "id": "saudi-arabian-uyghur-cookery-class-with-sana-migrateful-c799e227",
@@ -4643,6 +4854,24 @@
     "added": "2026-08-17"
   },
   {
+    "id": "martin-simpson-some-kind-of-jubilee-tour-at-kings-place-d6892eab",
+    "title": "Martin Simpson — Some Kind of Jubilee Tour at Kings Place",
+    "start": "2026-09-25T19:30:00+01:00",
+    "end": null,
+    "venue": "Kings Place (Hall One)",
+    "address": "90 York Way, N1 9AG",
+    "url": "https://www.kingsplace.co.uk/whats-on/folk/martin-simpson-6/",
+    "source": "venue:kings-place",
+    "tags": [
+      "music"
+    ],
+    "price": "TBC (reportedly £10 under-30 allocation)",
+    "description": "One of England's finest folk guitarists on his new-album tour — 7:30pm, with a free foyer pre-show set reported from 7:15pm.",
+    "neighbourhood": "King's Cross",
+    "cycle_minutes": 30,
+    "added": "2026-08-19"
+  },
+  {
     "id": "cacao-dance-tribe-friday-night-dance-cacao-354d394a",
     "title": "Cacao Dance Tribe: Friday Night Dance & Cacao",
     "start": "2026-09-25T19:45:00+01:00",
@@ -4753,6 +4982,24 @@
     "neighbourhood": "Barbican",
     "cycle_minutes": 15,
     "added": "2026-08-12"
+  },
+  {
+    "id": "luminous-conscious-dance-full-harvest-moon-edition-fb410559",
+    "title": "Luminous Conscious Dance — Full Harvest Moon edition",
+    "start": "2026-09-26T18:00:00+01:00",
+    "end": "2026-09-26T21:00:00+01:00",
+    "venue": "St Mary's Hornsey Rise",
+    "address": "Ashley Road, N19",
+    "url": "https://dandelion.events/e/c81q2",
+    "source": "aggregator:dandelion",
+    "tags": [
+      "dance"
+    ],
+    "price": "~£16-£21",
+    "description": "Sober full-moon conscious dance with DJ Gumbo — doors 6pm, journey from 6:30pm. Same night as the Ecstatic Saturdays opener in Tufnell Park: pick one.",
+    "neighbourhood": "Hornsey Rise",
+    "cycle_minutes": 35,
+    "added": "2026-08-19"
   },
   {
     "id": "the-story-of-birds-from-the-jurassic-to-today-royal-institut-5d37c59f",
@@ -4866,6 +5113,25 @@
     "neighbourhood": "Liverpool Street",
     "cycle_minutes": 8,
     "added": "2026-08-18"
+  },
+  {
+    "id": "primal-play-london-autumn-edition-play-fight-contact-improv--e2ea5287",
+    "title": "Primal Play London — Autumn Edition (play fight, contact improv & authentic relating)",
+    "start": "2026-09-27T14:00:00+01:00",
+    "end": "2026-09-27T18:00:00+01:00",
+    "venue": "Self-Retreat Studio",
+    "address": "Kentish Town Road, NW1",
+    "url": "https://dandelion.events/e/c4ug2",
+    "source": "aggregator:dandelion",
+    "tags": [
+      "dance",
+      "workshop"
+    ],
+    "price": "£44-£60 (tiered)",
+    "description": "Trauma-informed afternoon of primal play, play-fighting, contact improv and conscious touch — squarely in the embodiment wheelhouse.",
+    "neighbourhood": "Kentish Town",
+    "cycle_minutes": 30,
+    "added": "2026-08-19"
   },
   {
     "id": "reset-the-nervous-system-with-tre-5cc5dc14",
