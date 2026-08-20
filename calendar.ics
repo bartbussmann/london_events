@@ -341,6 +341,18 @@ URL:https://www.thursday.com/events/london/4f25237c-ceea-4e22-8b42-2fcf9e9
 LOCATION:Barry's St Paul's\, St Paul's\, EC4 (studio on booking)
 END:VEVENT
 BEGIN:VEVENT
+UID:swamp-the-party-bellybuttonlint-at-the-shacklewell-arms-free-8c97f55f@
+ london-events
+DTSTAMP:20260820T183000Z
+DTSTART:20260820T183000Z
+DTEND:20260820T213000Z
+SUMMARY:Swamp + The Party + bellybuttonlint at The Shacklewell Arms (free)
+DESCRIPTION:Free three-band bill in the Shacklewell's back room tonight (T
+ hursday).\nPrice: Free\nhttps://dice.fm/event/6a7ee7d0c9707e0001c3b9ef
+URL:https://dice.fm/event/6a7ee7d0c9707e0001c3b9ef
+LOCATION:The Shacklewell Arms\, 71 Shacklewell Lane\, E8 2EB
+END:VEVENT
+BEGIN:VEVENT
 UID:breathwork-harmonizing-sound-and-sacred-cacao-ceremony-0991360c@london
  -events
 DTSTAMP:20260821T170000Z
@@ -438,6 +450,18 @@ LOCATION:Elephant & Castle (address on booking)\, Elephant and Castle\, Lo
  ndon SE1
 END:VEVENT
 BEGIN:VEVENT
+UID:chess-at-sjq-free-chess-night-7febed3f@london-events
+DTSTAMP:20260821T180000Z
+DTSTART:20260821T180000Z
+DTEND:20260821T220000Z
+SUMMARY:Chess at SJQ — free chess night
+DESCRIPTION:Casual chess night at the tiny Dalston bar/venue — easy low-
+ key social\, free entry.\nPrice: Free\nhttps://dice.fm/event/6a82d530ae49
+ 3600013f6f97
+URL:https://dice.fm/event/6a82d530ae493600013f6f97
+LOCATION:Servant Jazz Quarters\, 10A Bradbury Street\, N16 8JN
+END:VEVENT
+BEGIN:VEVENT
 UID:obl-presents-the-howling-fiends-luck-machine-the-doldrums-ac6513e9@lon
  don-events
 DTSTAMP:20260821T183000Z
@@ -449,6 +473,20 @@ DESCRIPTION:Newly announced £5 Friday triple bill of emerging bands upsta
  c30001c271c3
 URL:https://dice.fm/event/6a74b3b2f037c30001c271c3
 LOCATION:The Old Blue Last\, 38 Great Eastern St\, EC2A 3ES
+END:VEVENT
+BEGIN:VEVENT
+UID:disco-lizards-noct-fruit-band-zoo-mustang-at-sebright-arms-f-98488eaf@
+ london-events
+DTSTAMP:20260821T183000Z
+DTSTART:20260821T183000Z
+DTEND:20260821T220000Z
+SUMMARY:Disco Lizards + NOCT + Fruit Band + Zoo Mustang at Sebright Arms (
+ free)
+DESCRIPTION:Free four-band Friday bill in the Sebright basement — walkin
+ g distance from home.\nPrice: Free\nhttps://dice.fm/event/6a8590868d75d60
+ 001acc03b
+URL:https://dice.fm/event/6a8590868d75d60001acc03b
+LOCATION:Sebright Arms\, 31-35 Coate St\, E2 9AG
 END:VEVENT
 BEGIN:VEVENT
 UID:ceroc-south-ken-2-room-freestyle-silc-class-8ac6e2d4@london-events
@@ -879,6 +917,19 @@ DESCRIPTION:Hands-on creative workshop imagining utopian futures for East
 URL:https://www.whitechapelgallery.org/events/yannick-portmann-workshop/
 LOCATION:Clore Creative Studio\, Whitechapel Gallery\, 77-82 Whitechapel H
  igh Street\, E1 7QX
+END:VEVENT
+BEGIN:VEVENT
+UID:london-futurists-anticipating-a-technoprogressive-future-ec7db120@lond
+ on-events
+DTSTAMP:20260827T170000Z
+DTSTART:20260827T170000Z
+DTEND:20260827T200000Z
+SUMMARY:London Futurists: Anticipating a technoprogressive future
+DESCRIPTION:In-person London Futurists pub discussion on hopes and fears f
+ or a technoprogressive future — rationality/tech-adjacent crowd.\nPrice
+ : Free\nhttps://www.meetup.com/london-futurists/events/316140083/
+URL:https://www.meetup.com/london-futurists/events/316140083/
+LOCATION:Ye Olde Cock Taverne\, 22 Fleet Street\, EC4Y 1AA
 END:VEVENT
 BEGIN:VEVENT
 UID:ecstatic-ascension-conscious-dance-journey-eb1b73e3@london-events
@@ -1345,6 +1396,18 @@ URL:https://luma.com/e0gtnzhq
 LOCATION:Newspeak House\, 133 Bethnal Green Road\, E2 7DG
 END:VEVENT
 BEGIN:VEVENT
+UID:monique-clare-at-green-note-4ef0bbcf@london-events
+DTSTAMP:20260831T180000Z
+DTSTART:20260831T180000Z
+DTEND:20260831T200000Z
+SUMMARY:Monique Clare at Green Note
+DESCRIPTION:Australian folk cellist-songwriter at Camden's tiny acoustic r
+ oom. Doors 19:00\, music 20:30 (bank holiday Monday).\nPrice: £14\nhttps
+ ://www.greennote.co.uk/production/monique-clare/
+URL:https://www.greennote.co.uk/production/monique-clare/
+LOCATION:Green Note\, 106 Parkway\, Camden\, NW1 7AN
+END:VEVENT
+BEGIN:VEVENT
 UID:siwan-catrin-and-tamise-folk-and-roots-at-the-harrison-be7089b7@london
  -events
 DTSTAMP:20260831T183000Z
@@ -1359,6 +1422,19 @@ URL:https://harrisonvenuelondon.com/harrison-venue-events-gigs-kings-cross
  /
 LOCATION:The Harrison (cellar venue)\, 28 Harrison Street\, King's Cross\,
   WC1H 8JF
+END:VEVENT
+BEGIN:VEVENT
+UID:fred-stranger-the-mudd-club-frightened-hopalong-gretzky-free-1ec746bb@
+ london-events
+DTSTAMP:20260831T183000Z
+DTSTART:20260831T183000Z
+DTEND:20260831T213000Z
+SUMMARY:Fred Stranger & The Mudd Club + Frightened + Hopalong Gretzky (fre
+ e)
+DESCRIPTION:Free three-band bill on bank holiday Monday evening at the Sha
+ cklewell.\nPrice: Free\nhttps://dice.fm/event/6a8306825bc9cf00014da44e
+URL:https://dice.fm/event/6a8306825bc9cf00014da44e
+LOCATION:The Shacklewell Arms\, 71 Shacklewell Lane\, E8 2EB
 END:VEVENT
 BEGIN:VEVENT
 UID:how-to-flourish-in-the-age-of-ai-daniel-susskind-5ed3c80b@london-event
@@ -1785,6 +1861,18 @@ URL:https://dice.fm/event/l8xonb-marisa-anderson-luce-mawdsley-4th-sep-cha
 LOCATION:Chats Palace\, 42-44 Brooksby's Walk\, Homerton\, E9 6DF
 END:VEVENT
 BEGIN:VEVENT
+UID:ignoring-izzy-bugbear-candy-s-room-at-paper-dress-vintage-b71d7b4b@lon
+ don-events
+DTSTAMP:20260904T183000Z
+DTSTART:20260904T183000Z
+DTEND:20260904T220000Z
+SUMMARY:Ignoring Izzy + Bugbear + Candy's Room at Paper Dress Vintage
+DESCRIPTION:Cheap Friday indie triple bill upstairs at the vintage-shop ve
+ nue.\nPrice: £7.21\nhttps://dice.fm/event/6a835d3d91dc540001919cef
+URL:https://dice.fm/event/6a835d3d91dc540001919cef
+LOCATION:Paper Dress Vintage\, 352a Mare Street\, E8 1HR
+END:VEVENT
+BEGIN:VEVENT
 UID:the-lantern-society-folk-club-night-at-the-betsey-trotwood-527b8d82@lo
  ndon-events
 DTSTAMP:20260904T190000Z
@@ -2161,6 +2249,18 @@ URL:https://wegottickets.com/f/24850
 LOCATION:The Betsey Trotwood\, 56 Farringdon Road\, Clerkenwell\, EC1R 3BL
 END:VEVENT
 BEGIN:VEVENT
+UID:josh-middleton-rasika-ajotikar-at-green-note-ac2c3cf0@london-events
+DTSTAMP:20260908T180000Z
+DTSTART:20260908T180000Z
+DTEND:20260908T200000Z
+SUMMARY:Josh Middleton & Rasika Ajotikar at Green Note
+DESCRIPTION:Voice-and-accordion duo exploring the spaces between Celtic an
+ d Bulgarian folk traditions. Doors 19:00\, music 20:30.\nPrice: £15\nhtt
+ ps://www.greennote.co.uk/production/josh-middleton-rasika-ajotikar/
+URL:https://www.greennote.co.uk/production/josh-middleton-rasika-ajotikar/
+LOCATION:Green Note\, 106 Parkway\, Camden\, NW1 7AN
+END:VEVENT
+BEGIN:VEVENT
 UID:rostam-at-village-underground-9c18192c@london-events
 DTSTAMP:20260908T183000Z
 DTSTART:20260908T183000Z
@@ -2173,6 +2273,20 @@ DESCRIPTION:Rostam Batmanglij (ex-Vampire Weekend\, producer for Haim and
 URL:https://dice.fm/event/oevmyg-rostam-8th-sep-village-underground-london
  -tickets
 LOCATION:Village Underground\, 54 Holywell Lane\, EC2A 3PQ
+END:VEVENT
+BEGIN:VEVENT
+UID:kant-s-cave-philosophy-and-ai-free-panel-discussion-e25fdcc8@london-ev
+ ents
+DTSTAMP:20260908T183000Z
+DTSTART:20260908T183000Z
+DTEND:20260908T200000Z
+SUMMARY:Kant's Cave: Philosophy and AI — free panel discussion
+DESCRIPTION:Philosophy For All's monthly Kant's Cave panel takes on philos
+ ophy and AI — rationality-adjacent and five minutes from home.\nPrice: 
+ Free\nhttps://www.meetup.com/http-pfalondon-org/events/312450224/
+URL:https://www.meetup.com/http-pfalondon-org/events/312450224/
+LOCATION:St Hilda's East Community Centre\, 18 Club Row\, Shoreditch\, E2 
+ 7EY
 END:VEVENT
 BEGIN:VEVENT
 UID:walking-with-the-ancestors-journeys-across-ancient-africa-12781031@lon
@@ -2345,6 +2459,21 @@ URL:https://dandelion.events/e/n6yxh
 LOCATION:9 Broadhurst Mansions\, 97 Broadhurst Gardens\, NW6 3QP
 END:VEVENT
 BEGIN:VEVENT
+UID:yugantar-film-collective-screening-discussion-free-64d59e7d@london-eve
+ nts
+DTSTAMP:20260910T174500Z
+DTSTART:20260910T174500Z
+DTEND:20260910T200000Z
+SUMMARY:Yugantar Film Collective — screening & discussion (free)
+DESCRIPTION:Two restored films by India's pioneering 1980s feminist film c
+ ollective\, with readings and a discussion featuring filmmaker Alia Syed.
+ \nPrice: Free\nhttps://www.somersethouse.org.uk/whats-on/yugantar-film-co
+ llective-jemma-desai
+URL:https://www.somersethouse.org.uk/whats-on/yugantar-film-collective-jem
+ ma-desai
+LOCATION:Somerset House\, Screening Room\, Strand\, WC2R 1LA
+END:VEVENT
+BEGIN:VEVENT
 UID:iceland-airwaves-off-venue-showcase-free-76e73452@london-events
 DTSTAMP:20260910T180000Z
 DTSTART:20260910T180000Z
@@ -2367,8 +2496,8 @@ DTEND:20260910T200000Z
 SUMMARY:James Felice (The Felice Brothers) + Will Lawrence at Green Note
 DESCRIPTION:Felice Brothers accordionist/singer James Felice solo in Londo
  n's best folk café — ragged-hearted Americana at kitchen-table range. 
- Time is a doors placeholder\; confirm on greennote.co.uk.\nhttps://www.so
- ngkick.com/concerts/43257631-james-felice-at-green-note
+ Doors 7pm\, music 8:30pm (confirmed).\nPrice: £16\nhttps://www.songkick.
+ com/concerts/43257631-james-felice-at-green-note
 URL:https://www.songkick.com/concerts/43257631-james-felice-at-green-note
 LOCATION:Green Note\, 106 Parkway\, Camden\, NW1 7AN
 END:VEVENT
@@ -2813,9 +2942,9 @@ DTSTART:20260914T180000Z
 DTEND:20260914T200000Z
 SUMMARY:Dean Owens + Marcus Bonfanti at Green Note
 DESCRIPTION:Scottish Americana songwriter Dean Owens (Buffalo Blood) share
- s a Monday bill with blues guitarist Marcus Bonfanti. Time is a doors pla
- ceholder\; confirm on greennote.co.uk.\nhttps://www.songkick.com/concerts
- /43288375-dean-owens-at-green-note
+ s a Monday bill with blues guitarist Marcus Bonfanti. Doors 7pm\, music 8
+ :30pm (confirmed).\nPrice: £16\nhttps://www.songkick.com/concerts/432883
+ 75-dean-owens-at-green-note
 URL:https://www.songkick.com/concerts/43288375-dean-owens-at-green-note
 LOCATION:Green Note\, 106 Parkway\, Camden\, NW1 7AN
 END:VEVENT
@@ -2847,6 +2976,19 @@ DESCRIPTION:Indie double bill in the Sebright Arms basement\, doors 19:30\
 URL:https://www.songkick.com/concerts/43336431-neumatic-parlo-at-sebright-
  arms
 LOCATION:Sebright Arms\, 31-35 Coate Street\, E2 9AG
+END:VEVENT
+BEGIN:VEVENT
+UID:counter-chamber-jay-chakravorty-bk-pepper-tom-rogerson-at-sj-24fb5d3d@
+ london-events
+DTSTAMP:20260914T183000Z
+DTSTART:20260914T183000Z
+DTEND:20260914T223000Z
+SUMMARY:Counter Chamber: Jay Chakravorty + BK Pepper + Tom Rogerson at SJQ
+DESCRIPTION:Modern-classical/ambient triple bill in SJQ's intimate basemen
+ t — Tom Rogerson (Eno collaborator) plus composers Jay Chakravorty and 
+ BK Pepper.\nPrice: £15\nhttps://dice.fm/event/6a846015a3132b0001d621ee
+URL:https://dice.fm/event/6a846015a3132b0001d621ee
+LOCATION:Servant Jazz Quarters\, 10A Bradbury Street\, N16 8JN
 END:VEVENT
 BEGIN:VEVENT
 UID:gresham-college-cracking-the-whip-strings-chains-and-dinosau-4c545a5e@
@@ -2889,6 +3031,22 @@ DESCRIPTION:Nashville guitarist William Tyler (ex-Lambchop) plays cosmic-A
 URL:https://earthackney.co.uk/events/william-tyler-15th-sep-earth-london-t
  ickets-7dmwmp
 LOCATION:EartH\, 11-17 Stoke Newington Road\, Dalston\, N16 8BP
+END:VEVENT
+BEGIN:VEVENT
+UID:reviving-craft-reflection-of-the-mind-free-exhibition-16-27--80e5768e@
+ london-events
+DTSTAMP:20260916T100000Z
+DTSTART:20260916T100000Z
+DTEND:20260927T170000Z
+SUMMARY:Reviving Craft: Reflection of the Mind — free exhibition (16-27 
+ Sep)
+DESCRIPTION:60+ artists tracing China's living craft heritage across ceram
+ ics\, textiles\, glass and furniture. Daily 11:00-18:00\, 16-27 Sep only.
+ \nPrice: Free\nhttps://www.somersethouse.org.uk/whats-on/reviving-craft-r
+ eflection-of-the-mind
+URL:https://www.somersethouse.org.uk/whats-on/reviving-craft-reflection-of
+ -the-mind
+LOCATION:Somerset House\, Strand\, WC2R 1LA
 END:VEVENT
 BEGIN:VEVENT
 UID:authentic-relating-5-principles-for-healthy-relating-1f35c472@london-e
@@ -3368,6 +3526,20 @@ URL:https://newspeak.house/#events
 LOCATION:Newspeak House (Drawing Room)\, 133 Bethnal Green Road\, E2 7DG
 END:VEVENT
 BEGIN:VEVENT
+UID:games-themed-speed-dating-at-draughts-waterloo-21-sep-ages-2-e843fee3@
+ london-events
+DTSTAMP:20260921T181500Z
+DTSTART:20260921T181500Z
+DTEND:20260921T201500Z
+SUMMARY:Games Themed Speed Dating at Draughts Waterloo (21 Sep\, ages 25-3
+ 8)
+DESCRIPTION:September edition of the board-game-themed speed dating at the
+  Leake Street games café — mixed\, 25-38 bracket.\nPrice: £25\nhttps:
+ //www.meetup.com/draughts/events/315889061/
+URL:https://www.meetup.com/draughts/events/315889061/
+LOCATION:Draughts Waterloo\, Arch 16\, Leake Street\, SE1 7NN
+END:VEVENT
+BEGIN:VEVENT
 UID:gresham-college-the-future-of-creativity-daniel-susskind-fre-89968b9c@
  london-events
 DTSTAMP:20260922T170000Z
@@ -3466,6 +3638,20 @@ DESCRIPTION:Musical cabaret celebrating Broadway's biggest flops in the wo
 URL:https://wiltons.org.uk/whats-on/flop-the-best-songs-from-the-worst-mus
  icals/
 LOCATION:Wilton's Music Hall\, 1 Graces Alley\, Whitechapel\, E1 8JB
+END:VEVENT
+BEGIN:VEVENT
+UID:wellcome-collection-lates-the-friendship-effect-1b4a1927@london-events
+DTSTAMP:20260924T180000Z
+DTSTART:20260924T180000Z
+DTEND:20260924T210000Z
+SUMMARY:Wellcome Collection Lates: The Friendship Effect
+DESCRIPTION:Evening late on the science of friendship: talks\, workshops\,
+  live music and dance performances. Free but book — ticket doesn't guar
+ antee entry.\nPrice: Free (book on Eventbrite)\nhttps://wellcomecollectio
+ n.org/events/wellcome-collection-lates-the-friendship-effect
+URL:https://wellcomecollection.org/events/wellcome-collection-lates-the-fr
+ iendship-effect
+LOCATION:Wellcome Collection\, 183 Euston Road\, NW1 2BE
 END:VEVENT
 BEGIN:VEVENT
 UID:extended-floating-sound-journey-gong-bath-24-sep-2608caa3@london-event
@@ -4622,6 +4808,18 @@ URL:https://www.rigb.org/whats-on/ancient-cosmos-james-webb-space-telescop
 LOCATION:Royal Institution\, 21 Albemarle Street\, Mayfair\, W1S 4BS
 END:VEVENT
 BEGIN:VEVENT
+UID:veps-at-the-old-blue-last-3afdf680@london-events
+DTSTAMP:20261017T183000Z
+DTSTART:20261017T183000Z
+DTEND:20261017T220000Z
+SUMMARY:Veps at The Old Blue Last
+DESCRIPTION:Oslo indie four-piece Veps headline the Old Blue Last on a Sat
+ urday night.\nPrice: £14.87\nhttps://dice.fm/event/6a82f19610826100019a3
+ 629
+URL:https://dice.fm/event/6a82f19610826100019a3629
+LOCATION:The Old Blue Last\, 38 Great Eastern Street\, EC2A 3ES
+END:VEVENT
+BEGIN:VEVENT
 UID:jacken-elswyth-and-elspeth-anne-future-folk-series-opener-a1070ec1@lon
  don-events
 DTSTAMP:20261017T190000Z
@@ -5174,5 +5372,19 @@ DESCRIPTION:November edition of the Saturday-afternoon six-hour freestyle
  0
 URL:https://www.ceroc.com/30/13687/5050
 LOCATION:Ceroc St Pancras\, St Pancras\, NW1 1RW
+END:VEVENT
+BEGIN:VEVENT
+UID:deeper-cuts-nan-rizinni-at-paper-dress-vintage-efg-london-ja-f55cb2e8@
+ london-events
+DTSTAMP:20261118T193000Z
+DTSTART:20261118T193000Z
+DTEND:20261118T230000Z
+SUMMARY:Deeper Cuts: Naná Rizinni at Paper Dress Vintage (EFG London Jazz
+  Festival)
+DESCRIPTION:Brazilian artist Naná Rizinni plays an intimate EFG London Ja
+ zz Festival show — £8 midweek festival gig in Hackney.\nPrice: £8\nht
+ tps://dice.fm/event/6a7f37a7dc0034000120b544
+URL:https://dice.fm/event/6a7f37a7dc0034000120b544
+LOCATION:Paper Dress Vintage\, 352a Mare Street\, E8 1HR
 END:VEVENT
 END:VCALENDAR

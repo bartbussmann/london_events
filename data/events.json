@@ -443,6 +443,24 @@
     "added": "2026-08-08"
   },
   {
+    "id": "swamp-the-party-bellybuttonlint-at-the-shacklewell-arms-free-8c97f55f",
+    "title": "Swamp + The Party + bellybuttonlint at The Shacklewell Arms (free)",
+    "start": "2026-08-20T19:30:00+01:00",
+    "end": "2026-08-20T22:30:00+01:00",
+    "venue": "The Shacklewell Arms",
+    "address": "71 Shacklewell Lane, E8 2EB",
+    "url": "https://dice.fm/event/6a7ee7d0c9707e0001c3b9ef",
+    "source": "venue:dice-shacklewell-arms",
+    "tags": [
+      "music"
+    ],
+    "price": "Free",
+    "description": "Free three-band bill in the Shacklewell's back room tonight (Thursday).",
+    "neighbourhood": "Dalston",
+    "cycle_minutes": 13,
+    "added": "2026-08-20"
+  },
+  {
     "title": "Breathwork, Harmonizing Sound and Sacred Cacao Ceremony",
     "start": "2026-08-21T18:00:00+01:00",
     "end": "2026-08-21T21:00:00+01:00",
@@ -576,6 +594,24 @@
     "added": "2026-08-17"
   },
   {
+    "id": "chess-at-sjq-free-chess-night-7febed3f",
+    "title": "Chess at SJQ — free chess night",
+    "start": "2026-08-21T19:00:00+01:00",
+    "end": "2026-08-21T23:00:00+01:00",
+    "venue": "Servant Jazz Quarters",
+    "address": "10A Bradbury Street, N16 8JN",
+    "url": "https://dice.fm/event/6a82d530ae493600013f6f97",
+    "source": "venue:dice-sjq",
+    "tags": [
+      "community"
+    ],
+    "price": "Free",
+    "description": "Casual chess night at the tiny Dalston bar/venue — easy low-key social, free entry.",
+    "neighbourhood": "Dalston",
+    "cycle_minutes": 15,
+    "added": "2026-08-20"
+  },
+  {
     "id": "obl-presents-the-howling-fiends-luck-machine-the-doldrums-ac6513e9",
     "title": "OBL Presents: The Howling Fiends + Luck Machine + The Doldrums",
     "start": "2026-08-21T19:30:00+01:00",
@@ -592,6 +628,24 @@
     "neighbourhood": "Shoreditch",
     "cycle_minutes": 7,
     "added": "2026-08-11"
+  },
+  {
+    "id": "disco-lizards-noct-fruit-band-zoo-mustang-at-sebright-arms-f-98488eaf",
+    "title": "Disco Lizards + NOCT + Fruit Band + Zoo Mustang at Sebright Arms (free)",
+    "start": "2026-08-21T19:30:00+01:00",
+    "end": "2026-08-21T23:00:00+01:00",
+    "venue": "Sebright Arms",
+    "address": "31-35 Coate St, E2 9AG",
+    "url": "https://dice.fm/event/6a8590868d75d60001acc03b",
+    "source": "venue:dice-sebright-arms",
+    "tags": [
+      "music"
+    ],
+    "price": "Free",
+    "description": "Free four-band Friday bill in the Sebright basement — walking distance from home.",
+    "neighbourhood": "Bethnal Green",
+    "cycle_minutes": 4,
+    "added": "2026-08-20"
   },
   {
     "title": "Ceroc South Ken — 2 Room Freestyle & SILC Class",
@@ -1170,6 +1224,25 @@
     "cycle_minutes": 8,
     "id": "imagine-the-future-of-east-london-creative-workshop-e9702b49",
     "added": "2026-08-02"
+  },
+  {
+    "id": "london-futurists-anticipating-a-technoprogressive-future-ec7db120",
+    "title": "London Futurists: Anticipating a technoprogressive future",
+    "start": "2026-08-27T18:00:00+01:00",
+    "end": "2026-08-27T21:00:00+01:00",
+    "venue": "Ye Olde Cock Taverne",
+    "address": "22 Fleet Street, EC4Y 1AA",
+    "url": "https://www.meetup.com/london-futurists/events/316140083/",
+    "source": "aggregator:meetup",
+    "tags": [
+      "talk",
+      "tech"
+    ],
+    "price": "Free",
+    "description": "In-person London Futurists pub discussion on hopes and fears for a technoprogressive future — rationality/tech-adjacent crowd.",
+    "neighbourhood": "Fleet Street",
+    "cycle_minutes": 18,
+    "added": "2026-08-20"
   },
   {
     "title": "Ecstatic Ascension: Conscious Dance Journey",
@@ -1777,6 +1850,24 @@
     "added": "2026-07-26"
   },
   {
+    "id": "monique-clare-at-green-note-4ef0bbcf",
+    "title": "Monique Clare at Green Note",
+    "start": "2026-08-31T19:00:00+01:00",
+    "end": null,
+    "venue": "Green Note",
+    "address": "106 Parkway, Camden, NW1 7AN",
+    "url": "https://www.greennote.co.uk/production/monique-clare/",
+    "source": "venue:green-note",
+    "tags": [
+      "music"
+    ],
+    "price": "£14",
+    "description": "Australian folk cellist-songwriter at Camden's tiny acoustic room. Doors 19:00, music 20:30 (bank holiday Monday).",
+    "neighbourhood": "Camden",
+    "cycle_minutes": 32,
+    "added": "2026-08-20"
+  },
+  {
     "id": "siwan-catrin-and-tamise-folk-and-roots-at-the-harrison-be7089b7",
     "title": "Siwan Catrin and Tamise — Folk and Roots at The Harrison",
     "start": "2026-08-31T19:30:00+01:00",
@@ -1793,6 +1884,24 @@
     "neighbourhood": "King's Cross",
     "cycle_minutes": 25,
     "added": "2026-08-14"
+  },
+  {
+    "id": "fred-stranger-the-mudd-club-frightened-hopalong-gretzky-free-1ec746bb",
+    "title": "Fred Stranger & The Mudd Club + Frightened + Hopalong Gretzky (free)",
+    "start": "2026-08-31T19:30:00+01:00",
+    "end": "2026-08-31T22:30:00+01:00",
+    "venue": "The Shacklewell Arms",
+    "address": "71 Shacklewell Lane, E8 2EB",
+    "url": "https://dice.fm/event/6a8306825bc9cf00014da44e",
+    "source": "venue:dice-shacklewell-arms",
+    "tags": [
+      "music"
+    ],
+    "price": "Free",
+    "description": "Free three-band bill on bank holiday Monday evening at the Shacklewell.",
+    "neighbourhood": "Dalston",
+    "cycle_minutes": 13,
+    "added": "2026-08-20"
   },
   {
     "id": "how-to-flourish-in-the-age-of-ai-daniel-susskind-5ed3c80b",
@@ -2347,6 +2456,24 @@
     "added": "2026-08-14"
   },
   {
+    "id": "ignoring-izzy-bugbear-candy-s-room-at-paper-dress-vintage-b71d7b4b",
+    "title": "Ignoring Izzy + Bugbear + Candy's Room at Paper Dress Vintage",
+    "start": "2026-09-04T19:30:00+01:00",
+    "end": "2026-09-04T23:00:00+01:00",
+    "venue": "Paper Dress Vintage",
+    "address": "352a Mare Street, E8 1HR",
+    "url": "https://dice.fm/event/6a835d3d91dc540001919cef",
+    "source": "venue:dice-paper-dress-vintage",
+    "tags": [
+      "music"
+    ],
+    "price": "£7.21",
+    "description": "Cheap Friday indie triple bill upstairs at the vintage-shop venue.",
+    "neighbourhood": "Hackney Central",
+    "cycle_minutes": 12,
+    "added": "2026-08-20"
+  },
+  {
     "id": "the-lantern-society-folk-club-night-at-the-betsey-trotwood-527b8d82",
     "title": "The Lantern Society — folk club night at The Betsey Trotwood",
     "start": "2026-09-04T20:00:00+01:00",
@@ -2853,6 +2980,24 @@
     "added": "2026-08-14"
   },
   {
+    "id": "josh-middleton-rasika-ajotikar-at-green-note-ac2c3cf0",
+    "title": "Josh Middleton & Rasika Ajotikar at Green Note",
+    "start": "2026-09-08T19:00:00+01:00",
+    "end": null,
+    "venue": "Green Note",
+    "address": "106 Parkway, Camden, NW1 7AN",
+    "url": "https://www.greennote.co.uk/production/josh-middleton-rasika-ajotikar/",
+    "source": "venue:green-note",
+    "tags": [
+      "music"
+    ],
+    "price": "£15",
+    "description": "Voice-and-accordion duo exploring the spaces between Celtic and Bulgarian folk traditions. Doors 19:00, music 20:30.",
+    "neighbourhood": "Camden",
+    "cycle_minutes": 32,
+    "added": "2026-08-20"
+  },
+  {
     "title": "Rostam at Village Underground",
     "start": "2026-09-08T19:30:00+01:00",
     "end": "2026-09-08T23:00:00+01:00",
@@ -2869,6 +3014,25 @@
     "cycle_minutes": 7,
     "id": "rostam-at-village-underground-9c18192c",
     "added": "2026-07-31"
+  },
+  {
+    "id": "kant-s-cave-philosophy-and-ai-free-panel-discussion-e25fdcc8",
+    "title": "Kant's Cave: Philosophy and AI — free panel discussion",
+    "start": "2026-09-08T19:30:00+01:00",
+    "end": "2026-09-08T21:00:00+01:00",
+    "venue": "St Hilda's East Community Centre",
+    "address": "18 Club Row, Shoreditch, E2 7EY",
+    "url": "https://www.meetup.com/http-pfalondon-org/events/312450224/",
+    "source": "aggregator:meetup",
+    "tags": [
+      "talk",
+      "tech"
+    ],
+    "price": "Free",
+    "description": "Philosophy For All's monthly Kant's Cave panel takes on philosophy and AI — rationality-adjacent and five minutes from home.",
+    "neighbourhood": "Shoreditch",
+    "cycle_minutes": 3,
+    "added": "2026-08-20"
   },
   {
     "id": "walking-with-the-ancestors-journeys-across-ancient-africa-12781031",
@@ -3092,6 +3256,25 @@
     "added": "2026-08-01"
   },
   {
+    "id": "yugantar-film-collective-screening-discussion-free-64d59e7d",
+    "title": "Yugantar Film Collective — screening & discussion (free)",
+    "start": "2026-09-10T18:45:00+01:00",
+    "end": "2026-09-10T21:00:00+01:00",
+    "venue": "Somerset House, Screening Room",
+    "address": "Strand, WC2R 1LA",
+    "url": "https://www.somersethouse.org.uk/whats-on/yugantar-film-collective-jemma-desai",
+    "source": "venue:somerset-house",
+    "tags": [
+      "film",
+      "talk"
+    ],
+    "price": "Free",
+    "description": "Two restored films by India's pioneering 1980s feminist film collective, with readings and a discussion featuring filmmaker Alia Syed.",
+    "neighbourhood": "Strand",
+    "cycle_minutes": 25,
+    "added": "2026-08-20"
+  },
+  {
     "title": "Iceland Airwaves Off-Venue showcase (free)",
     "start": "2026-09-10T19:00:00+01:00",
     "end": "2026-09-10T23:00:00+01:00",
@@ -3122,8 +3305,8 @@
     "tags": [
       "music"
     ],
-    "price": null,
-    "description": "Felice Brothers accordionist/singer James Felice solo in London's best folk café — ragged-hearted Americana at kitchen-table range. Time is a doors placeholder; confirm on greennote.co.uk.",
+    "price": "£16",
+    "description": "Felice Brothers accordionist/singer James Felice solo in London's best folk café — ragged-hearted Americana at kitchen-table range. Doors 7pm, music 8:30pm (confirmed).",
     "neighbourhood": "Camden",
     "cycle_minutes": 32,
     "added": "2026-08-14"
@@ -3716,8 +3899,8 @@
     "tags": [
       "music"
     ],
-    "price": null,
-    "description": "Scottish Americana songwriter Dean Owens (Buffalo Blood) shares a Monday bill with blues guitarist Marcus Bonfanti. Time is a doors placeholder; confirm on greennote.co.uk.",
+    "price": "£16",
+    "description": "Scottish Americana songwriter Dean Owens (Buffalo Blood) shares a Monday bill with blues guitarist Marcus Bonfanti. Doors 7pm, music 8:30pm (confirmed).",
     "neighbourhood": "Camden",
     "cycle_minutes": 32,
     "added": "2026-08-14"
@@ -3757,6 +3940,24 @@
     "cycle_minutes": 4,
     "id": "neumatic-parlo-houndshark-at-sebright-arms-b594b411",
     "added": "2026-07-30"
+  },
+  {
+    "id": "counter-chamber-jay-chakravorty-bk-pepper-tom-rogerson-at-sj-24fb5d3d",
+    "title": "Counter Chamber: Jay Chakravorty + BK Pepper + Tom Rogerson at SJQ",
+    "start": "2026-09-14T19:30:00+01:00",
+    "end": "2026-09-14T23:30:00+01:00",
+    "venue": "Servant Jazz Quarters",
+    "address": "10A Bradbury Street, N16 8JN",
+    "url": "https://dice.fm/event/6a846015a3132b0001d621ee",
+    "source": "venue:dice-sjq",
+    "tags": [
+      "music"
+    ],
+    "price": "£15",
+    "description": "Modern-classical/ambient triple bill in SJQ's intimate basement — Tom Rogerson (Eno collaborator) plus composers Jay Chakravorty and BK Pepper.",
+    "neighbourhood": "Dalston",
+    "cycle_minutes": 15,
+    "added": "2026-08-20"
   },
   {
     "id": "gresham-college-cracking-the-whip-strings-chains-and-dinosau-4c545a5e",
@@ -3811,6 +4012,24 @@
     "neighbourhood": "Dalston",
     "cycle_minutes": 14,
     "added": "2026-08-07"
+  },
+  {
+    "id": "reviving-craft-reflection-of-the-mind-free-exhibition-16-27--80e5768e",
+    "title": "Reviving Craft: Reflection of the Mind — free exhibition (16-27 Sep)",
+    "start": "2026-09-16T11:00:00+01:00",
+    "end": "2026-09-27T18:00:00+01:00",
+    "venue": "Somerset House",
+    "address": "Strand, WC2R 1LA",
+    "url": "https://www.somersethouse.org.uk/whats-on/reviving-craft-reflection-of-the-mind",
+    "source": "venue:somerset-house",
+    "tags": [
+      "art"
+    ],
+    "price": "Free",
+    "description": "60+ artists tracing China's living craft heritage across ceramics, textiles, glass and furniture. Daily 11:00-18:00, 16-27 Sep only.",
+    "neighbourhood": "Strand",
+    "cycle_minutes": 25,
+    "added": "2026-08-20"
   },
   {
     "id": "authentic-relating-5-principles-for-healthy-relating-1f35c472",
@@ -4450,6 +4669,24 @@
     "added": "2026-08-09"
   },
   {
+    "id": "games-themed-speed-dating-at-draughts-waterloo-21-sep-ages-2-e843fee3",
+    "title": "Games Themed Speed Dating at Draughts Waterloo (21 Sep, ages 25-38)",
+    "start": "2026-09-21T19:15:00+01:00",
+    "end": "2026-09-21T21:15:00+01:00",
+    "venue": "Draughts Waterloo",
+    "address": "Arch 16, Leake Street, SE1 7NN",
+    "url": "https://www.meetup.com/draughts/events/315889061/",
+    "source": "aggregator:meetup",
+    "tags": [
+      "community"
+    ],
+    "price": "£25",
+    "description": "September edition of the board-game-themed speed dating at the Leake Street games café — mixed, 25-38 bracket.",
+    "neighbourhood": "Waterloo",
+    "cycle_minutes": 30,
+    "added": "2026-08-20"
+  },
+  {
     "id": "gresham-college-the-future-of-creativity-daniel-susskind-fre-89968b9c",
     "title": "Gresham College: The Future of Creativity — Daniel Susskind (free)",
     "start": "2026-09-22T18:00:00+01:00",
@@ -4577,6 +4814,25 @@
     "neighbourhood": "Whitechapel",
     "cycle_minutes": 10,
     "added": "2026-08-07"
+  },
+  {
+    "id": "wellcome-collection-lates-the-friendship-effect-1b4a1927",
+    "title": "Wellcome Collection Lates: The Friendship Effect",
+    "start": "2026-09-24T19:00:00+01:00",
+    "end": "2026-09-24T22:00:00+01:00",
+    "venue": "Wellcome Collection",
+    "address": "183 Euston Road, NW1 2BE",
+    "url": "https://wellcomecollection.org/events/wellcome-collection-lates-the-friendship-effect",
+    "source": "venue:wellcome-collection",
+    "tags": [
+      "talk",
+      "community"
+    ],
+    "price": "Free (book on Eventbrite)",
+    "description": "Evening late on the science of friendship: talks, workshops, live music and dance performances. Free but book — ticket doesn't guarantee entry.",
+    "neighbourhood": "Euston",
+    "cycle_minutes": 28,
+    "added": "2026-08-20"
   },
   {
     "id": "extended-floating-sound-journey-gong-bath-24-sep-2608caa3",
@@ -6137,6 +6393,24 @@
     "added": "2026-08-11"
   },
   {
+    "id": "veps-at-the-old-blue-last-3afdf680",
+    "title": "Veps at The Old Blue Last",
+    "start": "2026-10-17T19:30:00+01:00",
+    "end": "2026-10-17T23:00:00+01:00",
+    "venue": "The Old Blue Last",
+    "address": "38 Great Eastern Street, EC2A 3ES",
+    "url": "https://dice.fm/event/6a82f19610826100019a3629",
+    "source": "venue:dice-the-old-blue-last",
+    "tags": [
+      "music"
+    ],
+    "price": "£14.87",
+    "description": "Oslo indie four-piece Veps headline the Old Blue Last on a Saturday night.",
+    "neighbourhood": "Shoreditch",
+    "cycle_minutes": 7,
+    "added": "2026-08-20"
+  },
+  {
     "id": "jacken-elswyth-and-elspeth-anne-future-folk-series-opener-a1070ec1",
     "title": "Jacken Elswyth and Elspeth Anne — Future Folk series opener",
     "start": "2026-10-17T20:00:00+01:00",
@@ -6883,5 +7157,23 @@
     "neighbourhood": "St Pancras",
     "cycle_minutes": 28,
     "added": "2026-08-16"
+  },
+  {
+    "id": "deeper-cuts-nan-rizinni-at-paper-dress-vintage-efg-london-ja-f55cb2e8",
+    "title": "Deeper Cuts: Naná Rizinni at Paper Dress Vintage (EFG London Jazz Festival)",
+    "start": "2026-11-18T19:30:00+00:00",
+    "end": "2026-11-18T23:00:00+00:00",
+    "venue": "Paper Dress Vintage",
+    "address": "352a Mare Street, E8 1HR",
+    "url": "https://dice.fm/event/6a7f37a7dc0034000120b544",
+    "source": "venue:dice-paper-dress-vintage",
+    "tags": [
+      "music"
+    ],
+    "price": "£8",
+    "description": "Brazilian artist Naná Rizinni plays an intimate EFG London Jazz Festival show — £8 midweek festival gig in Hackney.",
+    "neighbourhood": "Hackney Central",
+    "cycle_minutes": 12,
+    "added": "2026-08-20"
   }
 ]
