@@ -817,6 +817,24 @@
     "added": "2026-08-13"
   },
   {
+    "id": "stolen-moments-granfergo-at-servant-jazz-quarters-cedd8a68",
+    "title": "Stolen Moments: Granfergo at Servant Jazz Quarters",
+    "start": "2026-08-22T20:00:00+01:00",
+    "end": null,
+    "venue": "Servant Jazz Quarters",
+    "address": "10a Bradbury Street, Dalston, N16 8JN",
+    "url": "https://dice.fm/event/wwmvnn-stolen-moments-granfergo-22nd-aug-sjq-london-tickets",
+    "source": "venue:dice-sjq",
+    "tags": [
+      "music"
+    ],
+    "price": "£16.69",
+    "description": "Stolen Moments jazz night in SJQ's tiny basement this Saturday, headlined by Granfergo.",
+    "neighbourhood": "Dalston",
+    "cycle_minutes": 15,
+    "added": "2026-08-21"
+  },
+  {
     "id": "rorshokito-london-2036-structured-small-group-discussion-aft-070fdc2a",
     "title": "Rorshokito: London 2036 — structured small-group discussion afternoon",
     "start": "2026-08-23T14:00:00+01:00",
@@ -7049,6 +7067,24 @@
     "added": "2026-08-16"
   },
   {
+    "id": "after-john-cosmic-music-of-alice-coltrane-efg-london-jazz-fe-c270c8d9",
+    "title": "After John — Cosmic Music of Alice Coltrane (EFG London Jazz Festival)",
+    "start": "2026-11-13T19:45:00+00:00",
+    "end": "2026-11-13T22:30:00+00:00",
+    "venue": "Vortex Jazz Club",
+    "address": "11 Gillett Square, Dalston, N16 8AZ",
+    "url": "https://www.vortexjazz.co.uk/events/2026-11-13/",
+    "source": "festival:efg-ljf",
+    "tags": [
+      "music"
+    ],
+    "price": "£20 (£16 students)",
+    "description": "Festival opening night at the 100-cap Vortex: a tribute to the cosmic, devotional music of Alice Coltrane.",
+    "neighbourhood": "Dalston",
+    "cycle_minutes": 14,
+    "added": "2026-08-21"
+  },
+  {
     "id": "ceroc-london-50-50-6-hour-saturday-freestyle-november-d2c7efbb",
     "title": "Ceroc London 50:50 — 6-hour Saturday Freestyle (November)",
     "start": "2026-11-14T14:00:00+00:00",
@@ -7067,6 +7103,132 @@
     "added": "2026-08-16"
   },
   {
+    "id": "ari-hoenig-trio-feat-tom-ollendorff-viktor-nyberg-efg-ljf-e8b95f22",
+    "title": "Ari Hoenig Trio feat. Tom Ollendorff & Viktor Nyberg (EFG LJF)",
+    "start": "2026-11-14T18:30:00+00:00",
+    "end": "2026-11-14T22:00:00+00:00",
+    "venue": "Vortex Jazz Club",
+    "address": "11 Gillett Square, Dalston, N16 8AZ",
+    "url": "https://www.vortexjazz.co.uk/events/2026-11-14/",
+    "source": "festival:efg-ljf",
+    "tags": [
+      "music"
+    ],
+    "price": "£23 (£19 students)",
+    "description": "NYC drum virtuoso Ari Hoenig — famous for playing melodies on the kit — squeezes into the Vortex for two Saturday sets. World-class player, tiny room; 18:30 is doors/first set.",
+    "neighbourhood": "Dalston",
+    "cycle_minutes": 14,
+    "added": "2026-08-21"
+  },
+  {
+    "id": "joyce-moreno-at-earth-ca6c7995",
+    "title": "Joyce Moreno at EartH",
+    "start": "2026-11-15T19:30:00+00:00",
+    "end": "2026-11-15T23:00:00+00:00",
+    "venue": "EartH",
+    "address": "11-17 Stoke Newington Road, Dalston, N16 8BH",
+    "url": "https://dice.fm/event/eomnwo-joyce-moreno-15th-nov-earth-london-tickets",
+    "source": "venue:dice-earth",
+    "tags": [
+      "music"
+    ],
+    "price": "from £35.54",
+    "description": "Legendary Brazilian MPB/jazz singer-guitarist Joyce Moreno ('Feminina') plays a rare London show during the jazz-festival window.",
+    "neighbourhood": "Dalston",
+    "cycle_minutes": 14,
+    "added": "2026-08-21"
+  },
+  {
+    "id": "elephant-stone-at-moth-club-d7a3328c",
+    "title": "Elephant Stone at MOTH Club",
+    "start": "2026-11-16T19:30:00+00:00",
+    "end": "2026-11-16T23:00:00+00:00",
+    "venue": "MOTH Club",
+    "address": "Old Trades Hall, Valette Street, E9 6NU",
+    "url": "https://dice.fm/event/923bm6-elephant-stone-16th-nov-moth-club-london-tickets",
+    "source": "venue:dice-moth-club",
+    "tags": [
+      "music"
+    ],
+    "price": "£20.40",
+    "description": "Montreal psych-rock/sitar-pop veterans in MOTH's glitter ballroom. Same night as Crow Culture at the Vortex — pick one.",
+    "neighbourhood": "Hackney Central",
+    "cycle_minutes": 12,
+    "added": "2026-08-21"
+  },
+  {
+    "id": "crow-culture-at-vortex-efg-ljf-cheap-monday-d4050b45",
+    "title": "Crow Culture at Vortex (EFG LJF — cheap Monday)",
+    "start": "2026-11-16T19:45:00+00:00",
+    "end": "2026-11-16T22:30:00+00:00",
+    "venue": "Vortex Jazz Club",
+    "address": "11 Gillett Square, Dalston, N16 8AZ",
+    "url": "https://www.vortexjazz.co.uk/events/2026-11-16/",
+    "source": "festival:efg-ljf",
+    "tags": [
+      "music"
+    ],
+    "price": "£15 (£6.25 students)",
+    "description": "Young London guitar/vocals/drums trio at the Vortex — good low-commitment weeknight festival option. Same night as Elephant Stone at MOTH.",
+    "neighbourhood": "Dalston",
+    "cycle_minutes": 14,
+    "added": "2026-08-21"
+  },
+  {
+    "id": "sam-gendel-sam-wilkes-at-union-chapel-efg-ljf-f84d26e2",
+    "title": "Sam Gendel & Sam Wilkes at Union Chapel (EFG LJF)",
+    "start": "2026-11-17T19:30:00+00:00",
+    "end": null,
+    "venue": "Union Chapel",
+    "address": "Compton Terrace, Islington, N1 2UN",
+    "url": "https://efglondonjazzfestival.org.uk/events/sam-gendel-sam-wilkes",
+    "source": "festival:efg-ljf",
+    "tags": [
+      "music"
+    ],
+    "price": "£34",
+    "description": "Cult LA duo — Gendel's warped saxophone and Wilkes's bass — bring their understated, exploratory music to the candlelit chapel. One of the festival's coolest bookings; clashes with Keg at MOTH.",
+    "neighbourhood": "Islington",
+    "cycle_minutes": 20,
+    "added": "2026-08-21"
+  },
+  {
+    "id": "keg-relaxing-near-the-hospital-album-tour-at-moth-club-e647a5b7",
+    "title": "Keg — 'Relaxing Near the Hospital' album tour at MOTH Club",
+    "start": "2026-11-17T19:30:00+00:00",
+    "end": "2026-11-17T23:00:00+00:00",
+    "venue": "MOTH Club",
+    "address": "Old Trades Hall, Valette Street, E9 6NU",
+    "url": "https://dice.fm/event/6d8nmq-keg-relaxing-near-the-hospital-album-tour-17th-nov-moth-club-london-tickets",
+    "source": "venue:dice-moth-club",
+    "tags": [
+      "music"
+    ],
+    "price": "£15.87",
+    "description": "Brighton seven-piece Keg play chaotic, brassy art-punk — one of the most fun live bands on the UK circuit — launching their new album. Clashes with Sam Gendel at Union Chapel.",
+    "neighbourhood": "Hackney Central",
+    "cycle_minutes": 12,
+    "added": "2026-08-21"
+  },
+  {
+    "id": "gigi-masin-at-earth-249d14e2",
+    "title": "Gigi Masin at EartH",
+    "start": "2026-11-18T19:00:00+00:00",
+    "end": "2026-11-18T23:00:00+00:00",
+    "venue": "EartH",
+    "address": "11-17 Stoke Newington Road, Dalston, N16 8BH",
+    "url": "https://dice.fm/event/av5x8x-gigi-masin-18th-nov-earth-london-tickets",
+    "source": "venue:dice-earth",
+    "tags": [
+      "music"
+    ],
+    "price": "£29.87",
+    "description": "Venetian ambient legend Gigi Masin (Gaussian Curve) plays a rare live set — seated, immersive and lovely. Busy night: Ayanna Witter-Johnson and the PDV jazz-festival gig clash.",
+    "neighbourhood": "Dalston",
+    "cycle_minutes": 14,
+    "added": "2026-08-21"
+  },
+  {
     "id": "deeper-cuts-nan-rizinni-at-paper-dress-vintage-efg-london-ja-f55cb2e8",
     "title": "Deeper Cuts: Naná Rizinni at Paper Dress Vintage (EFG London Jazz Festival)",
     "start": "2026-11-18T19:30:00+00:00",
@@ -7083,5 +7245,113 @@
     "neighbourhood": "Hackney Central",
     "cycle_minutes": 12,
     "added": "2026-08-20"
+  },
+  {
+    "id": "ayanna-witter-johnson-at-93-feet-east-efg-ljf-9e0ce351",
+    "title": "Ayanna Witter-Johnson at 93 Feet East (EFG LJF)",
+    "start": "2026-11-18T20:00:00+00:00",
+    "end": null,
+    "venue": "93 Feet East",
+    "address": "150 Brick Lane, E1 6QL",
+    "url": "https://efglondonjazzfestival.org.uk/events/ayanna-witter-johnson-4",
+    "source": "festival:efg-ljf",
+    "tags": [
+      "music"
+    ],
+    "price": "£9-£31",
+    "description": "MOBO-nominated singer and cellist blending soul, jazz and folk — an LJF show seven minutes away on Brick Lane, with £9 entry-level tickets.",
+    "neighbourhood": "Brick Lane",
+    "cycle_minutes": 6,
+    "added": "2026-08-21"
+  },
+  {
+    "id": "sarah-julia-at-moth-club-e508f64a",
+    "title": "Sarah Julia at MOTH Club",
+    "start": "2026-11-19T19:30:00+00:00",
+    "end": "2026-11-19T23:00:00+00:00",
+    "venue": "MOTH Club",
+    "address": "Old Trades Hall, Valette Street, E9 6NU",
+    "url": "https://dice.fm/event/eoy8po-sarah-julia-19th-nov-moth-club-london-tickets",
+    "source": "venue:dice-moth-club",
+    "tags": [
+      "music"
+    ],
+    "price": "£20.40",
+    "description": "Amsterdam indie/folk-rock singer-songwriter headlines MOTH — alternative to Córas Trio at the Vortex the same Thursday.",
+    "neighbourhood": "Hackney Central",
+    "cycle_minutes": 12,
+    "added": "2026-08-21"
+  },
+  {
+    "id": "c-ras-trio-at-vortex-jazz-club-efg-ljf-49e64c5e",
+    "title": "Córas Trio at Vortex Jazz Club (EFG LJF)",
+    "start": "2026-11-19T19:45:00+00:00",
+    "end": "2026-11-19T22:30:00+00:00",
+    "venue": "Vortex Jazz Club",
+    "address": "11 Gillett Square, Dalston, N16 8AZ",
+    "url": "https://efglondonjazzfestival.org.uk/events/coras-trio",
+    "source": "festival:efg-ljf",
+    "tags": [
+      "music"
+    ],
+    "price": "£17.50",
+    "description": "Belfast trio deconstructing Irish traditional melodies with fiddle, guitar and transcendental electronics — the folk/jazz crossover sweet spot in a 100-cap room.",
+    "neighbourhood": "Dalston",
+    "cycle_minutes": 14,
+    "added": "2026-08-21"
+  },
+  {
+    "id": "jimi-tenor-band-two-day-residency-at-cafe-oto-860397aa",
+    "title": "Jimi Tenor Band — two-day residency at Cafe OTO",
+    "start": "2026-11-20T19:30:00+00:00",
+    "end": null,
+    "venue": "Cafe OTO",
+    "address": "18-22 Ashwin Street, Dalston, E8 3DL",
+    "url": "https://www.cafeoto.co.uk/events/jimi-tenor-band-two-day-residency/",
+    "source": "venue:cafe-oto",
+    "tags": [
+      "music"
+    ],
+    "price": "£20/night (£36 both)",
+    "description": "Finnish afro-jazz maverick Jimi Tenor with full band over Fri 20 + Sat 21 Nov, playing 'Selenites, Selenites!' — OTO's take on jazz-festival weekend.",
+    "neighbourhood": "Dalston",
+    "cycle_minutes": 14,
+    "added": "2026-08-21"
+  },
+  {
+    "id": "silver-birch-wareham-goller-betamax-sharkey-at-moth-club-50fdf38d",
+    "title": "Silver Birch — Wareham/Goller/Betamax/Sharkey at MOTH Club",
+    "start": "2026-11-21T19:30:00+00:00",
+    "end": "2026-11-21T22:30:00+00:00",
+    "venue": "MOTH Club",
+    "address": "Old Trades Hall, Valette Street, E9 6NU",
+    "url": "https://dice.fm/event/v3d8v7-silver-birch-pete-wareham-ruth-goller-betamax-chris-sharkey-21st-nov-moth-club-london-tickets",
+    "source": "venue:dice-moth-club",
+    "tags": [
+      "music"
+    ],
+    "price": "£20",
+    "description": "New supergroup from the Acoustic Ladyland/Melt Yourself Down orbit — heavy leftfield jazz on the festival's final Saturday.",
+    "neighbourhood": "Hackney Central",
+    "cycle_minutes": 12,
+    "added": "2026-08-21"
+  },
+  {
+    "id": "pearl-the-oysters-at-moth-club-979d44d8",
+    "title": "Pearl & The Oysters at MOTH Club",
+    "start": "2026-11-22T19:00:00+00:00",
+    "end": "2026-11-22T22:00:00+00:00",
+    "venue": "MOTH Club",
+    "address": "Old Trades Hall, Valette Street, E9 6NU",
+    "url": "https://dice.fm/event/l8k8xr-pearl-and-the-oysters-22nd-nov-moth-club-london-tickets",
+    "source": "venue:dice-moth-club",
+    "tags": [
+      "music"
+    ],
+    "price": "£18.13",
+    "description": "French-American duo making sunny space-age tropical pop (Stones Throw) — an easy, charming Sunday-evening closer.",
+    "neighbourhood": "Hackney Central",
+    "cycle_minutes": 12,
+    "added": "2026-08-21"
   }
 ]

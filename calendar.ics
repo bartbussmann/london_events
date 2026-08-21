@@ -606,6 +606,20 @@ URL:https://www.angelcomedy.co.uk/event-detail/angel-comedy-saturdays-camd
 LOCATION:The Camden Head\, 2 Camden Walk\, Islington\, N1 8DY
 END:VEVENT
 BEGIN:VEVENT
+UID:stolen-moments-granfergo-at-servant-jazz-quarters-cedd8a68@london-even
+ ts
+DTSTAMP:20260822T190000Z
+DTSTART:20260822T190000Z
+DTEND:20260822T210000Z
+SUMMARY:Stolen Moments: Granfergo at Servant Jazz Quarters
+DESCRIPTION:Stolen Moments jazz night in SJQ's tiny basement this Saturday
+ \, headlined by Granfergo.\nPrice: £16.69\nhttps://dice.fm/event/wwmvnn-
+ stolen-moments-granfergo-22nd-aug-sjq-london-tickets
+URL:https://dice.fm/event/wwmvnn-stolen-moments-granfergo-22nd-aug-sjq-lon
+ don-tickets
+LOCATION:Servant Jazz Quarters\, 10a Bradbury Street\, Dalston\, N16 8JN
+END:VEVENT
+BEGIN:VEVENT
 UID:rorshokito-london-2036-structured-small-group-discussion-aft-070fdc2a@
  london-events
 DTSTAMP:20260823T130000Z
@@ -5290,6 +5304,20 @@ URL:https://dice.fm/event/eoyqwy-emma-jean-thackray-dear-miles-a-love-lett
 LOCATION:EartH\, 11 Stoke Newington Road\, N16 8BH
 END:VEVENT
 BEGIN:VEVENT
+UID:after-john-cosmic-music-of-alice-coltrane-efg-london-jazz-fe-c270c8d9@
+ london-events
+DTSTAMP:20261113T194500Z
+DTSTART:20261113T194500Z
+DTEND:20261113T223000Z
+SUMMARY:After John — Cosmic Music of Alice Coltrane (EFG London Jazz Fes
+ tival)
+DESCRIPTION:Festival opening night at the 100-cap Vortex: a tribute to the
+  cosmic\, devotional music of Alice Coltrane.\nPrice: £20 (£16 students
+ )\nhttps://www.vortexjazz.co.uk/events/2026-11-13/
+URL:https://www.vortexjazz.co.uk/events/2026-11-13/
+LOCATION:Vortex Jazz Club\, 11 Gillett Square\, Dalston\, N16 8AZ
+END:VEVENT
+BEGIN:VEVENT
 UID:ceroc-london-50-50-6-hour-saturday-freestyle-november-d2c7efbb@london-
  events
 DTSTAMP:20261114T140000Z
@@ -5301,6 +5329,103 @@ DESCRIPTION:November edition of the Saturday-afternoon six-hour freestyle
  0
 URL:https://www.ceroc.com/30/13687/5050
 LOCATION:Ceroc St Pancras\, St Pancras\, NW1 1RW
+END:VEVENT
+BEGIN:VEVENT
+UID:ari-hoenig-trio-feat-tom-ollendorff-viktor-nyberg-efg-ljf-e8b95f22@lon
+ don-events
+DTSTAMP:20261114T183000Z
+DTSTART:20261114T183000Z
+DTEND:20261114T220000Z
+SUMMARY:Ari Hoenig Trio feat. Tom Ollendorff & Viktor Nyberg (EFG LJF)
+DESCRIPTION:NYC drum virtuoso Ari Hoenig — famous for playing melodies o
+ n the kit — squeezes into the Vortex for two Saturday sets. World-class
+  player\, tiny room\; 18:30 is doors/first set.\nPrice: £23 (£19 studen
+ ts)\nhttps://www.vortexjazz.co.uk/events/2026-11-14/
+URL:https://www.vortexjazz.co.uk/events/2026-11-14/
+LOCATION:Vortex Jazz Club\, 11 Gillett Square\, Dalston\, N16 8AZ
+END:VEVENT
+BEGIN:VEVENT
+UID:joyce-moreno-at-earth-ca6c7995@london-events
+DTSTAMP:20261115T193000Z
+DTSTART:20261115T193000Z
+DTEND:20261115T230000Z
+SUMMARY:Joyce Moreno at EartH
+DESCRIPTION:Legendary Brazilian MPB/jazz singer-guitarist Joyce Moreno ('F
+ eminina') plays a rare London show during the jazz-festival window.\nPric
+ e: from £35.54\nhttps://dice.fm/event/eomnwo-joyce-moreno-15th-nov-earth
+ -london-tickets
+URL:https://dice.fm/event/eomnwo-joyce-moreno-15th-nov-earth-london-ticket
+ s
+LOCATION:EartH\, 11-17 Stoke Newington Road\, Dalston\, N16 8BH
+END:VEVENT
+BEGIN:VEVENT
+UID:elephant-stone-at-moth-club-d7a3328c@london-events
+DTSTAMP:20261116T193000Z
+DTSTART:20261116T193000Z
+DTEND:20261116T230000Z
+SUMMARY:Elephant Stone at MOTH Club
+DESCRIPTION:Montreal psych-rock/sitar-pop veterans in MOTH's glitter ballr
+ oom. Same night as Crow Culture at the Vortex — pick one.\nPrice: £20.
+ 40\nhttps://dice.fm/event/923bm6-elephant-stone-16th-nov-moth-club-london
+ -tickets
+URL:https://dice.fm/event/923bm6-elephant-stone-16th-nov-moth-club-london-
+ tickets
+LOCATION:MOTH Club\, Old Trades Hall\, Valette Street\, E9 6NU
+END:VEVENT
+BEGIN:VEVENT
+UID:crow-culture-at-vortex-efg-ljf-cheap-monday-d4050b45@london-events
+DTSTAMP:20261116T194500Z
+DTSTART:20261116T194500Z
+DTEND:20261116T223000Z
+SUMMARY:Crow Culture at Vortex (EFG LJF — cheap Monday)
+DESCRIPTION:Young London guitar/vocals/drums trio at the Vortex — good l
+ ow-commitment weeknight festival option. Same night as Elephant Stone at 
+ MOTH.\nPrice: £15 (£6.25 students)\nhttps://www.vortexjazz.co.uk/events
+ /2026-11-16/
+URL:https://www.vortexjazz.co.uk/events/2026-11-16/
+LOCATION:Vortex Jazz Club\, 11 Gillett Square\, Dalston\, N16 8AZ
+END:VEVENT
+BEGIN:VEVENT
+UID:sam-gendel-sam-wilkes-at-union-chapel-efg-ljf-f84d26e2@london-events
+DTSTAMP:20261117T193000Z
+DTSTART:20261117T193000Z
+DTEND:20261117T213000Z
+SUMMARY:Sam Gendel & Sam Wilkes at Union Chapel (EFG LJF)
+DESCRIPTION:Cult LA duo — Gendel's warped saxophone and Wilkes's bass 
+ — bring their understated\, exploratory music to the candlelit chapel. 
+ One of the festival's coolest bookings\; clashes with Keg at MOTH.\nPrice
+ : £34\nhttps://efglondonjazzfestival.org.uk/events/sam-gendel-sam-wilkes
+URL:https://efglondonjazzfestival.org.uk/events/sam-gendel-sam-wilkes
+LOCATION:Union Chapel\, Compton Terrace\, Islington\, N1 2UN
+END:VEVENT
+BEGIN:VEVENT
+UID:keg-relaxing-near-the-hospital-album-tour-at-moth-club-e647a5b7@london
+ -events
+DTSTAMP:20261117T193000Z
+DTSTART:20261117T193000Z
+DTEND:20261117T230000Z
+SUMMARY:Keg — 'Relaxing Near the Hospital' album tour at MOTH Club
+DESCRIPTION:Brighton seven-piece Keg play chaotic\, brassy art-punk — on
+ e of the most fun live bands on the UK circuit — launching their new al
+ bum. Clashes with Sam Gendel at Union Chapel.\nPrice: £15.87\nhttps://di
+ ce.fm/event/6d8nmq-keg-relaxing-near-the-hospital-album-tour-17th-nov-mot
+ h-club-london-tickets
+URL:https://dice.fm/event/6d8nmq-keg-relaxing-near-the-hospital-album-tour
+ -17th-nov-moth-club-london-tickets
+LOCATION:MOTH Club\, Old Trades Hall\, Valette Street\, E9 6NU
+END:VEVENT
+BEGIN:VEVENT
+UID:gigi-masin-at-earth-249d14e2@london-events
+DTSTAMP:20261118T190000Z
+DTSTART:20261118T190000Z
+DTEND:20261118T230000Z
+SUMMARY:Gigi Masin at EartH
+DESCRIPTION:Venetian ambient legend Gigi Masin (Gaussian Curve) plays a ra
+ re live set — seated\, immersive and lovely. Busy night: Ayanna Witter-
+ Johnson and the PDV jazz-festival gig clash.\nPrice: £29.87\nhttps://dic
+ e.fm/event/av5x8x-gigi-masin-18th-nov-earth-london-tickets
+URL:https://dice.fm/event/av5x8x-gigi-masin-18th-nov-earth-london-tickets
+LOCATION:EartH\, 11-17 Stoke Newington Road\, Dalston\, N16 8BH
 END:VEVENT
 BEGIN:VEVENT
 UID:deeper-cuts-nan-rizinni-at-paper-dress-vintage-efg-london-ja-f55cb2e8@
@@ -5315,5 +5440,87 @@ DESCRIPTION:Brazilian artist Naná Rizinni plays an intimate EFG London Ja
  tps://dice.fm/event/6a7f37a7dc0034000120b544
 URL:https://dice.fm/event/6a7f37a7dc0034000120b544
 LOCATION:Paper Dress Vintage\, 352a Mare Street\, E8 1HR
+END:VEVENT
+BEGIN:VEVENT
+UID:ayanna-witter-johnson-at-93-feet-east-efg-ljf-9e0ce351@london-events
+DTSTAMP:20261118T200000Z
+DTSTART:20261118T200000Z
+DTEND:20261118T220000Z
+SUMMARY:Ayanna Witter-Johnson at 93 Feet East (EFG LJF)
+DESCRIPTION:MOBO-nominated singer and cellist blending soul\, jazz and fol
+ k — an LJF show seven minutes away on Brick Lane\, with £9 entry-level
+  tickets.\nPrice: £9-£31\nhttps://efglondonjazzfestival.org.uk/events/a
+ yanna-witter-johnson-4
+URL:https://efglondonjazzfestival.org.uk/events/ayanna-witter-johnson-4
+LOCATION:93 Feet East\, 150 Brick Lane\, E1 6QL
+END:VEVENT
+BEGIN:VEVENT
+UID:sarah-julia-at-moth-club-e508f64a@london-events
+DTSTAMP:20261119T193000Z
+DTSTART:20261119T193000Z
+DTEND:20261119T230000Z
+SUMMARY:Sarah Julia at MOTH Club
+DESCRIPTION:Amsterdam indie/folk-rock singer-songwriter headlines MOTH —
+  alternative to Córas Trio at the Vortex the same Thursday.\nPrice: £20
+ .40\nhttps://dice.fm/event/eoy8po-sarah-julia-19th-nov-moth-club-london-t
+ ickets
+URL:https://dice.fm/event/eoy8po-sarah-julia-19th-nov-moth-club-london-tic
+ kets
+LOCATION:MOTH Club\, Old Trades Hall\, Valette Street\, E9 6NU
+END:VEVENT
+BEGIN:VEVENT
+UID:c-ras-trio-at-vortex-jazz-club-efg-ljf-49e64c5e@london-events
+DTSTAMP:20261119T194500Z
+DTSTART:20261119T194500Z
+DTEND:20261119T223000Z
+SUMMARY:Córas Trio at Vortex Jazz Club (EFG LJF)
+DESCRIPTION:Belfast trio deconstructing Irish traditional melodies with fi
+ ddle\, guitar and transcendental electronics — the folk/jazz crossover 
+ sweet spot in a 100-cap room.\nPrice: £17.50\nhttps://efglondonjazzfesti
+ val.org.uk/events/coras-trio
+URL:https://efglondonjazzfestival.org.uk/events/coras-trio
+LOCATION:Vortex Jazz Club\, 11 Gillett Square\, Dalston\, N16 8AZ
+END:VEVENT
+BEGIN:VEVENT
+UID:jimi-tenor-band-two-day-residency-at-cafe-oto-860397aa@london-events
+DTSTAMP:20261120T193000Z
+DTSTART:20261120T193000Z
+DTEND:20261120T213000Z
+SUMMARY:Jimi Tenor Band — two-day residency at Cafe OTO
+DESCRIPTION:Finnish afro-jazz maverick Jimi Tenor with full band over Fri 
+ 20 + Sat 21 Nov\, playing 'Selenites\, Selenites!' — OTO's take on jazz
+ -festival weekend.\nPrice: £20/night (£36 both)\nhttps://www.cafeoto.co
+ .uk/events/jimi-tenor-band-two-day-residency/
+URL:https://www.cafeoto.co.uk/events/jimi-tenor-band-two-day-residency/
+LOCATION:Cafe OTO\, 18-22 Ashwin Street\, Dalston\, E8 3DL
+END:VEVENT
+BEGIN:VEVENT
+UID:silver-birch-wareham-goller-betamax-sharkey-at-moth-club-50fdf38d@lond
+ on-events
+DTSTAMP:20261121T193000Z
+DTSTART:20261121T193000Z
+DTEND:20261121T223000Z
+SUMMARY:Silver Birch — Wareham/Goller/Betamax/Sharkey at MOTH Club
+DESCRIPTION:New supergroup from the Acoustic Ladyland/Melt Yourself Down o
+ rbit — heavy leftfield jazz on the festival's final Saturday.\nPrice: 
+ £20\nhttps://dice.fm/event/v3d8v7-silver-birch-pete-wareham-ruth-goller-
+ betamax-chris-sharkey-21st-nov-moth-club-london-tickets
+URL:https://dice.fm/event/v3d8v7-silver-birch-pete-wareham-ruth-goller-bet
+ amax-chris-sharkey-21st-nov-moth-club-london-tickets
+LOCATION:MOTH Club\, Old Trades Hall\, Valette Street\, E9 6NU
+END:VEVENT
+BEGIN:VEVENT
+UID:pearl-the-oysters-at-moth-club-979d44d8@london-events
+DTSTAMP:20261122T190000Z
+DTSTART:20261122T190000Z
+DTEND:20261122T220000Z
+SUMMARY:Pearl & The Oysters at MOTH Club
+DESCRIPTION:French-American duo making sunny space-age tropical pop (Stone
+ s Throw) — an easy\, charming Sunday-evening closer.\nPrice: £18.13\nh
+ ttps://dice.fm/event/l8k8xr-pearl-and-the-oysters-22nd-nov-moth-club-lond
+ on-tickets
+URL:https://dice.fm/event/l8k8xr-pearl-and-the-oysters-22nd-nov-moth-club-
+ london-tickets
+LOCATION:MOTH Club\, Old Trades Hall\, Valette Street\, E9 6NU
 END:VEVENT
 END:VCALENDAR
