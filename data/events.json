@@ -3867,6 +3867,24 @@
     "added": "2026-08-01"
   },
   {
+    "id": "thursday-30-singles-night-soho-ec24a1d5",
+    "title": "Thursday: 30+ Singles Night — Soho",
+    "start": "2026-09-16T19:00:00+01:00",
+    "end": "2026-09-16T23:00:00+01:00",
+    "venue": "The Little Violet Door",
+    "address": "9 Kingly St, Carnaby, W1B 5PH",
+    "url": "https://www.thursday.com/events/london/ccd0f467-511a-4952-bb66-9cd34bc9608f",
+    "source": "listing:thursday-dating",
+    "tags": [
+      "community"
+    ],
+    "price": "£12 early bird / £18",
+    "description": "Mixed singles night for 30+ at a cosy Carnaby bar.",
+    "neighbourhood": "Soho",
+    "added": "2026-08-22",
+    "cycle_minutes": 30
+  },
+  {
     "title": "Laura Veirs at EartH",
     "start": "2026-09-16T19:30:00+01:00",
     "end": "2026-09-16T23:00:00+01:00",
@@ -3994,6 +4012,24 @@
     "neighbourhood": "Homerton",
     "cycle_minutes": 12,
     "added": "2026-08-14"
+  },
+  {
+    "id": "thursday-28-singles-rooftop-kings-cross-17-sep-65678ff3",
+    "title": "Thursday: 28+ Singles Rooftop — Kings Cross (17 Sep)",
+    "start": "2026-09-17T19:00:00+01:00",
+    "end": "2026-09-17T22:00:00+01:00",
+    "venue": "RIVVIA — Regent's Rooftop",
+    "address": "31 Euston Rd, NW1 2SD",
+    "url": "https://www.thursday.com/events/london/15815f26-6e1a-447e-90ab-60410ebf41ea",
+    "source": "listing:thursday-dating",
+    "tags": [
+      "community"
+    ],
+    "price": "£12 early bird / £18",
+    "description": "Mixed 28+ singles rooftop night — same venue as the 3 Sep edition, different date and bracket.",
+    "neighbourhood": "King's Cross",
+    "added": "2026-08-22",
+    "cycle_minutes": 28
   },
   {
     "id": "open-house-bishopsgate-goodsyard-behind-the-hoarding-at-the--2f7700ca",
@@ -6723,6 +6759,25 @@
     "added": "2026-08-11"
   },
   {
+    "id": "campaign-lab-hack-night-2-nov-edition-fd092e49",
+    "title": "Campaign Lab Hack Night (2 Nov edition)",
+    "start": "2026-11-02T19:00:00+00:00",
+    "end": "2026-11-02T22:00:00+00:00",
+    "venue": "Newspeak House",
+    "address": "133-135 Bethnal Green Road, E2 7DG",
+    "url": "https://luma.com/tb3nv9mj",
+    "source": "venue:newspeak-house",
+    "tags": [
+      "tech",
+      "community"
+    ],
+    "price": "Free",
+    "description": "Bi-weekly hack night for progressive data scientists and activists working on election tech.",
+    "neighbourhood": "Bethnal Green",
+    "added": "2026-08-22",
+    "cycle_minutes": 3
+  },
+  {
     "id": "horse-jumper-of-love-jawdropped-hammok-at-moth-club-8dd9092f",
     "title": "Horse Jumper of Love + Jawdropped + Hammok at MOTH Club",
     "start": "2026-11-02T19:30:00+00:00",
@@ -6921,6 +6976,24 @@
     "added": "2026-08-16"
   },
   {
+    "id": "fergus-mccreadie-flight-pass-world-premiere-at-kings-place-e-8e1f6e9d",
+    "title": "Fergus McCreadie: Flight Pass world premiere at Kings Place (EFG LJF)",
+    "start": "2026-11-13T19:30:00+00:00",
+    "end": null,
+    "venue": "Kings Place",
+    "address": "90 York Way, London N1 9AG",
+    "url": "https://efglondonjazzfestival.org.uk/events/fergus-mccreadie-3",
+    "source": "festival:efg-ljf",
+    "tags": [
+      "music"
+    ],
+    "price": "£17-£32",
+    "description": "World premiere of Flight Pass, a new piano-trio commission from Mercury-shortlisted Fergus McCreadie, blending jazz and Scottish folk. Doors 7pm.",
+    "neighbourhood": "King's Cross",
+    "added": "2026-08-22",
+    "cycle_minutes": 30
+  },
+  {
     "id": "after-john-cosmic-music-of-alice-coltrane-efg-london-jazz-fe-c270c8d9",
     "title": "After John — Cosmic Music of Alice Coltrane (EFG London Jazz Festival)",
     "start": "2026-11-13T19:45:00+00:00",
@@ -6991,6 +7064,25 @@
     "neighbourhood": "Dalston",
     "cycle_minutes": 14,
     "added": "2026-08-21"
+  },
+  {
+    "id": "campaign-lab-hack-night-16-nov-edition-71c3ffaf",
+    "title": "Campaign Lab Hack Night (16 Nov edition)",
+    "start": "2026-11-16T19:00:00+00:00",
+    "end": "2026-11-16T22:00:00+00:00",
+    "venue": "Newspeak House",
+    "address": "133-135 Bethnal Green Road, E2 7DG",
+    "url": "https://luma.com/4k86xhn4",
+    "source": "venue:newspeak-house",
+    "tags": [
+      "tech",
+      "community"
+    ],
+    "price": "Free",
+    "description": "Bi-weekly hack night at Newspeak House.",
+    "neighbourhood": "Bethnal Green",
+    "added": "2026-08-22",
+    "cycle_minutes": 3
   },
   {
     "id": "elephant-stone-at-moth-club-d7a3328c",
@@ -7173,6 +7265,76 @@
     "added": "2026-08-21"
   },
   {
+    "id": "hidden-jazz-club-at-hoxton-hall-november-edition-f1f84273",
+    "title": "Hidden Jazz Club at Hoxton Hall (November edition)",
+    "start": "2026-11-20T20:00:00+00:00",
+    "end": null,
+    "venue": "Hoxton Hall",
+    "address": "130 Hoxton Street, N1 6SH",
+    "url": "https://hoxtonhall.ticketsolve.com/shows/1173649756/events/428839956",
+    "source": "venue:hoxton-hall",
+    "tags": [
+      "music"
+    ],
+    "price": "£22.50",
+    "description": "November edition of the intimate jazz night in the 1860s music hall — only ~20 tickets remained at check; book fast.",
+    "neighbourhood": "Hoxton",
+    "added": "2026-08-22",
+    "cycle_minutes": 8
+  },
+  {
+    "id": "ceroc-champs-london-friday-night-warm-up-party-af73a6c5",
+    "title": "Ceroc Champs London: Friday Night Warm-Up Party",
+    "start": "2026-11-20T20:00:00+00:00",
+    "end": "2026-11-21T00:00:00+00:00",
+    "venue": "JFS School",
+    "address": "The Mall, Harrow HA3 9TE",
+    "url": "https://www.ceroc.com/30/15542/ceroc-champs-friday-night-warm-up-party",
+    "source": "venue:ceroc",
+    "tags": [
+      "dance"
+    ],
+    "price": "£14",
+    "description": "Mixed-genre freestyle the night before the Ceroc Champs — competitors and social dancers alike. Harrow: Jubilee line to Kingsbury + 10 min walk (~1h door to door) — distance exception for a dance priority.",
+    "neighbourhood": "Harrow (Kingsbury tube)",
+    "added": "2026-08-22"
+  },
+  {
+    "id": "memotone-shell-company-at-kings-place-efg-ljf-matinee-13474d39",
+    "title": "Memotone & Shell Company at Kings Place (EFG LJF matinee)",
+    "start": "2026-11-21T13:30:00+00:00",
+    "end": null,
+    "venue": "Kings Place",
+    "address": "90 York Way, London N1 9AG",
+    "url": "https://efglondonjazzfestival.org.uk/events/memotone-and-shell-company",
+    "source": "festival:efg-ljf",
+    "tags": [
+      "music"
+    ],
+    "price": "£20.50",
+    "description": "Saturday-afternoon double bill of contemplative UK ambient-jazz: Memotone's soundscapes and Shell Company's slow-build psychedelic jazz.",
+    "neighbourhood": "King's Cross",
+    "added": "2026-08-22",
+    "cycle_minutes": 30
+  },
+  {
+    "id": "ceroc-champs-london-saturday-finals-freestyle-party-f685bfec",
+    "title": "Ceroc Champs London: Saturday Finals & Freestyle Party",
+    "start": "2026-11-21T19:00:00+00:00",
+    "end": "2026-11-21T23:00:00+00:00",
+    "venue": "JFS School",
+    "address": "The Mall, Harrow HA3 9TE",
+    "url": "https://www.ceroc.com/30/15544/ceroc-champs-saturday-finals-freestyle-party",
+    "source": "venue:ceroc",
+    "tags": [
+      "dance"
+    ],
+    "price": "£14 evening (full day £36)",
+    "description": "Watch the Ceroc Champs finals then freestyle from 7pm; the full competition day (£36) runs 10am-midnight. Harrow — tube to Kingsbury.",
+    "neighbourhood": "Harrow (Kingsbury tube)",
+    "added": "2026-08-22"
+  },
+  {
     "id": "silver-birch-wareham-goller-betamax-sharkey-at-moth-club-50fdf38d",
     "title": "Silver Birch — Wareham/Goller/Betamax/Sharkey at MOTH Club",
     "start": "2026-11-21T19:30:00+00:00",
@@ -7207,5 +7369,225 @@
     "neighbourhood": "Hackney Central",
     "cycle_minutes": 12,
     "added": "2026-08-21"
+  },
+  {
+    "id": "vital-spark-dave-holland-norma-winstone-london-vocal-project-ed8348d4",
+    "title": "Vital Spark: Dave Holland, Norma Winstone & London Vocal Project (EFG LJF)",
+    "start": "2026-11-22T19:30:00+00:00",
+    "end": null,
+    "venue": "Kings Place",
+    "address": "90 York Way, London N1 9AG",
+    "url": "https://efglondonjazzfestival.org.uk/events/vital-spark-music-of-kenny-wheeler-dave-holland-norma-winstone-london-vocal-project",
+    "source": "festival:efg-ljf",
+    "tags": [
+      "music"
+    ],
+    "price": "from £28",
+    "description": "Jazz legends Dave Holland and Norma Winstone with the London Vocal Project perform Kenny Wheeler's final compositions.",
+    "neighbourhood": "King's Cross",
+    "added": "2026-08-22",
+    "cycle_minutes": 30
+  },
+  {
+    "id": "feeble-little-horse-at-earth-b9fe42f4",
+    "title": "feeble little horse at EartH",
+    "start": "2026-11-23T18:30:00+00:00",
+    "end": "2026-11-23T22:00:00+00:00",
+    "venue": "EartH",
+    "address": "11 Stoke Newington Rd, N16 8BH",
+    "url": "https://dice.fm/event/xedlpl-feeble-little-horse-23rd-nov-earth-london-tickets",
+    "source": "venue:dice-earth",
+    "tags": [
+      "music"
+    ],
+    "price": "from £24.21",
+    "description": "Pittsburgh noise-pop/shoegaze cult favourites play EartH Hall. Doors 6:30pm.",
+    "neighbourhood": "Dalston",
+    "added": "2026-08-22",
+    "cycle_minutes": 14
+  },
+  {
+    "id": "the-marriage-of-figaro-at-wilton-s-music-hall-23-25-nov-89784450",
+    "title": "The Marriage of Figaro at Wilton's Music Hall (23-25 Nov)",
+    "start": "2026-11-23T19:00:00+00:00",
+    "end": null,
+    "venue": "Wilton's Music Hall",
+    "address": "1 Graces Alley, E1 8JB",
+    "url": "https://wiltons.org.uk/whats-on/the-marriage-of-figaro/",
+    "source": "venue:wiltons",
+    "tags": [
+      "music",
+      "theatre"
+    ],
+    "price": "£13.50-£28",
+    "description": "Mozart's Marriage of Figaro staged in the world's oldest surviving grand music hall; runs Mon 23 - Wed 25 Nov at 7pm.",
+    "neighbourhood": "Whitechapel",
+    "added": "2026-08-22",
+    "cycle_minutes": 10
+  },
+  {
+    "id": "cancamusa-at-servant-jazz-quarters-886c0a24",
+    "title": "Cancamusa at Servant Jazz Quarters",
+    "start": "2026-11-24T19:30:00+00:00",
+    "end": null,
+    "venue": "Servant Jazz Quarters",
+    "address": "10A Bradbury Street, N16 8JN",
+    "url": "https://dice.fm/event/53mo3w-cancamusa-24th-nov-sjq-london-tickets",
+    "source": "venue:dice-sjq",
+    "tags": [
+      "music"
+    ],
+    "price": "£22.60",
+    "description": "Chilean singer-producer-drummer Cancamusa brings her dreamy Latin alt-pop to the tiny basement.",
+    "neighbourhood": "Dalston",
+    "added": "2026-08-22",
+    "cycle_minutes": 15
+  },
+  {
+    "id": "little-quirks-at-the-victoria-c60adcb8",
+    "title": "Little Quirks at The Victoria",
+    "start": "2026-11-25T19:30:00+00:00",
+    "end": null,
+    "venue": "The Victoria",
+    "address": "451 Queensbridge Road, E8 3AS",
+    "url": "https://dice.fm/event/xe36ok-little-quirks-25th-nov-the-victoria-london-tickets",
+    "source": "venue:dice-the-victoria",
+    "tags": [
+      "music"
+    ],
+    "price": "£17.50",
+    "description": "Australian sibling trio play stomping indie-folk with big harmonies in the back room of a Dalston pub.",
+    "neighbourhood": "Dalston",
+    "added": "2026-08-22",
+    "cycle_minutes": 12
+  },
+  {
+    "id": "milkweed-at-earth-3badf35f",
+    "title": "Milkweed at EartH",
+    "start": "2026-11-26T18:30:00+00:00",
+    "end": null,
+    "venue": "EartH",
+    "address": "11 Stoke Newington Rd, N16 8BH",
+    "url": "https://dice.fm/event/dkp686-milkweed-26th-nov-earth-london-tickets",
+    "source": "venue:dice-earth",
+    "tags": [
+      "music"
+    ],
+    "price": "£16.28",
+    "description": "Welsh experimental folk duo Milkweed, purveyors of strange and beautiful traditional-adjacent song. Doors 6:30pm.",
+    "neighbourhood": "Dalston",
+    "added": "2026-08-22",
+    "cycle_minutes": 14
+  },
+  {
+    "id": "ella-raphael-at-moth-club-353275eb",
+    "title": "Ella Raphael at MOTH Club",
+    "start": "2026-11-26T19:30:00+00:00",
+    "end": null,
+    "venue": "MOTH Club",
+    "address": "Old Trades Hall, Valette Street, E9 6NU",
+    "url": "https://dice.fm/event/aveqp7-ella-raphael-26th-nov-moth-club-london-tickets",
+    "source": "venue:dice-moth-club",
+    "tags": [
+      "music"
+    ],
+    "price": "£6.18",
+    "description": "Rising London singer-songwriter with a smoky folk-soul voice headlines MOTH for well under a tenner. Busy night: Milkweed and Man & The Echo clash.",
+    "neighbourhood": "Hackney Central",
+    "added": "2026-08-22",
+    "cycle_minutes": 12
+  },
+  {
+    "id": "man-the-echo-10-year-celebration-at-paper-dress-vintage-0cab0a82",
+    "title": "Man & The Echo 10 Year Celebration at Paper Dress Vintage",
+    "start": "2026-11-26T19:30:00+00:00",
+    "end": null,
+    "venue": "Paper Dress Vintage",
+    "address": "352a Mare Street, E8 1HR",
+    "url": "https://dice.fm/event/avwpvv-man-the-echo-10-year-celebration-at-paper-dress-26th-nov-paper-dress-vintage-london-tickets",
+    "source": "venue:dice-paper-dress-vintage",
+    "tags": [
+      "music"
+    ],
+    "price": "£21.83",
+    "description": "Warrington art-pop/indie band mark ten years with a celebration show upstairs.",
+    "neighbourhood": "Hackney Central",
+    "added": "2026-08-22",
+    "cycle_minutes": 12
+  },
+  {
+    "id": "pyncher-at-the-shacklewell-arms-4dd7a2d1",
+    "title": "pyncher at The Shacklewell Arms",
+    "start": "2026-11-27T19:00:00+00:00",
+    "end": null,
+    "venue": "The Shacklewell Arms",
+    "address": "71 Shacklewell Lane, E8 2EB",
+    "url": "https://dice.fm/event/k6gk9l-pyncher-27th-nov-the-shacklewell-arms-london-tickets",
+    "source": "venue:dice-shacklewell-arms",
+    "tags": [
+      "music"
+    ],
+    "price": "£13.60",
+    "description": "Manchester post-punk/garage four-piece headline the Shacklewell back room.",
+    "neighbourhood": "Dalston",
+    "added": "2026-08-22",
+    "cycle_minutes": 13
+  },
+  {
+    "id": "dead-poets-live-at-wilton-s-music-hall-f2710af5",
+    "title": "Dead Poets Live at Wilton's Music Hall",
+    "start": "2026-11-28T19:00:00+00:00",
+    "end": null,
+    "venue": "Wilton's Music Hall",
+    "address": "1 Graces Alley, E1 8JB",
+    "url": "https://wiltons.org.uk/whats-on/dead-poets-live/",
+    "source": "venue:wiltons",
+    "tags": [
+      "talk",
+      "theatre"
+    ],
+    "price": "£12.50-£27",
+    "description": "Acclaimed actors bring dead poets' work and letters to life on stage — a literary night in the atmospheric old music hall.",
+    "neighbourhood": "Whitechapel",
+    "added": "2026-08-22",
+    "cycle_minutes": 10
+  },
+  {
+    "id": "la-plan-te-sauvage-screening-with-live-score-by-haha-sounds--55829911",
+    "title": "La Planète Sauvage — screening with live score by HaHa Sounds Collective",
+    "start": "2026-11-29T19:00:00+00:00",
+    "end": null,
+    "venue": "EartH",
+    "address": "11 Stoke Newington Rd, N16 8BH",
+    "url": "https://dice.fm/event/ryr66v-la-plante-sauvage-screening-with-live-score-by-haha-sounds-collective-29th-nov-earth-london-tickets",
+    "source": "venue:dice-earth",
+    "tags": [
+      "film",
+      "music"
+    ],
+    "price": "£28.18",
+    "description": "The 1973 psychedelic sci-fi animation Fantastic Planet screened with a live re-score — a good Sunday-night one-off.",
+    "neighbourhood": "Dalston",
+    "added": "2026-08-22",
+    "cycle_minutes": 14
+  },
+  {
+    "id": "campaign-lab-hack-night-30-nov-edition-cd557183",
+    "title": "Campaign Lab Hack Night (30 Nov edition)",
+    "start": "2026-11-30T19:00:00+00:00",
+    "end": "2026-11-30T22:00:00+00:00",
+    "venue": "Newspeak House",
+    "address": "133-135 Bethnal Green Road, E2 7DG",
+    "url": "https://luma.com/pn8du6nq",
+    "source": "venue:newspeak-house",
+    "tags": [
+      "tech",
+      "community"
+    ],
+    "price": "Free",
+    "description": "Bi-weekly hack night at Newspeak House — fills the otherwise-empty 30 Nov.",
+    "neighbourhood": "Bethnal Green",
+    "added": "2026-08-22",
+    "cycle_minutes": 3
   }
 ]

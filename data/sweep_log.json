@@ -1,5 +1,11 @@
 [
   {
+    "ran_at": "2026-08-22T07:55:00+01:00",
+    "added": 21,
+    "considered": 245,
+    "notes": "Late-November fill + verifications — all 10 pending leads landed. Added 21: Kings Place LJF trio (Fergus McCreadie premiere 13 Nov £17+, Memotone ambient matinee 21 Nov, Dave Holland/Norma Winstone Vital Spark 22 Nov from £28); Hidden Jazz Club Hoxton Hall 20 Nov (~20 tickets left — book fast); CEROC CHAMPS both parties 20-21 Nov (£14 each, JFS Harrow — Kingsbury tube, distance exception; full day £36); 23-30 Nov now covered every day: feeble little horse 23, Marriage of Figaro at Wilton's 23-25, Cancamusa SJQ 24, Little Quirks Victoria 25, Milkweed EartH + Ella Raphael MOTH (£6.18!) + Man & The Echo PDV all 26 (clash-noted), pyncher 27, Dead Poets Live Wilton's 28, Fantastic Planet live-score EartH 29, Campaign Lab 30 (plus 2 + 16 Nov editions via Luma); Thursday x2 mid-Sep (30+ Soho 16th, 28+ rooftop KX 17th). SKIPPED: 'Parviz' MOTH 28 Nov (unidentifiable act from feed — real listing, check later). Union Chapel whats-on rendered EMPTY today (JS shell, 'ON SALE SOON') — late-Nov UC unswept, retry. Auld Shillelagh Sept rota + ACX fall list STILL not live (only College EA organizers call). Dandelion: nothing new. Late-Nov spares: Vondré OBL 25, Minimum Wage OBL 28, Doggy Heaven Victoria 26, Love Buzz Sebright 26 £7.70, Sebright quiz 23 £2, Jazz Noël Wilton's 27, Flat and the Curves 26."
+  },
+  {
     "ran_at": "2026-08-21T07:55:00+01:00",
     "added": 15,
     "considered": 98,
@@ -172,11 +178,5 @@
     "added": 5,
     "considered": 43,
     "notes": "Daily sweep, September fill. ICS: Mia Hopman CLR talk suppressed (weekday 16:00, part 1). Added: free War Child indie showcase at Shacklewell (4 Aug), Dancing Awareness 20 Aug session, Campaign Lab bank-holiday hack night (31 Aug), True Dating singles party (5 Sep, 30-50) and September Shoreditch speed dating (10 Sep, £10 early bird). September gig hunt blocked (MOTH/Sebright 503, DICE 403) — retry. Flags: Surrendered Singing + Sauna (Maze Hill, ~5 Sep) has contradictory dates on its page — manual check needed if interested; Simply Being 5Rhythms resumes 25 Sep; Campaign Lab autumn hack night 14 Sep — future anchors."
-  },
-  {
-    "ran_at": "2026-07-25T07:50:00+01:00",
-    "added": 5,
-    "considered": 36,
-    "notes": "Daily sweep, Thursday-API recheck. ICS: 0 new; 5 pruned (part 1). Late-Aug dating gap partly closed: Thursday 30+ dinner at Jamie Oliver's (12 Aug) and mixed-singles book club at Bàrd Books on Roman Road (20 Aug, 8 min). Also: Heart & Cacao ceremony (9 Aug), SC/SH small-band weekender at Old Blue Last (28 Aug), full-day bookbinding at LCBA (29 Aug). MVMNT @ &Soul still unannounced; no LessWrong/ACX September events posted yet — ACX Meetups Everywhere post expected late Aug, recheck then. Old Blue Last Day 2 + Sunday Jazz available as backfill if 29-30 Aug need more."
   }
 ]

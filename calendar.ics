@@ -2919,6 +2919,19 @@ URL:https://dice.fm/event/7dw276-k2b-comedy-night-16th-sep-moth-club-londo
 LOCATION:MOTH Club\, Old Trades Hall\, Valette Street\, E9 6NU
 END:VEVENT
 BEGIN:VEVENT
+UID:thursday-30-singles-night-soho-ec24a1d5@london-events
+DTSTAMP:20260916T180000Z
+DTSTART:20260916T180000Z
+DTEND:20260916T220000Z
+SUMMARY:Thursday: 30+ Singles Night — Soho
+DESCRIPTION:Mixed singles night for 30+ at a cosy Carnaby bar.\nPrice: £1
+ 2 early bird / £18\nhttps://www.thursday.com/events/london/ccd0f467-511a
+ -4952-bb66-9cd34bc9608f
+URL:https://www.thursday.com/events/london/ccd0f467-511a-4952-bb66-9cd34bc
+ 9608f
+LOCATION:The Little Violet Door\, 9 Kingly St\, Carnaby\, W1B 5PH
+END:VEVENT
+BEGIN:VEVENT
 UID:laura-veirs-at-earth-3b9dba85@london-events
 DTSTAMP:20260916T183000Z
 DTSTART:20260916T183000Z
@@ -3011,6 +3024,19 @@ DESCRIPTION:Award-nominated folk/global fusion band Mishra (banjo\, tabla\
 URL:https://dice.fm/event/bb8g2x-the-hackney-folk-club-mishra-17th-sep-cha
  ts-palace-london-tickets
 LOCATION:Chats Palace\, 42-44 Brooksby's Walk\, Homerton\, E9 6DF
+END:VEVENT
+BEGIN:VEVENT
+UID:thursday-28-singles-rooftop-kings-cross-17-sep-65678ff3@london-events
+DTSTAMP:20260917T180000Z
+DTSTART:20260917T180000Z
+DTEND:20260917T210000Z
+SUMMARY:Thursday: 28+ Singles Rooftop — Kings Cross (17 Sep)
+DESCRIPTION:Mixed 28+ singles rooftop night — same venue as the 3 Sep ed
+ ition\, different date and bracket.\nPrice: £12 early bird / £18\nhttps
+ ://www.thursday.com/events/london/15815f26-6e1a-447e-90ab-60410ebf41ea
+URL:https://www.thursday.com/events/london/15815f26-6e1a-447e-90ab-60410eb
+ f41ea
+LOCATION:RIVVIA — Regent's Rooftop\, 31 Euston Rd\, NW1 2SD
 END:VEVENT
 BEGIN:VEVENT
 UID:open-house-bishopsgate-goodsyard-behind-the-hoarding-at-the--2f7700ca@
@@ -5034,6 +5060,17 @@ URL:https://www.efdss.org/whats-on
 LOCATION:Cecil Sharp House\, 2 Regent's Park Road\, NW1 7AY
 END:VEVENT
 BEGIN:VEVENT
+UID:campaign-lab-hack-night-2-nov-edition-fd092e49@london-events
+DTSTAMP:20261102T190000Z
+DTSTART:20261102T190000Z
+DTEND:20261102T220000Z
+SUMMARY:Campaign Lab Hack Night (2 Nov edition)
+DESCRIPTION:Bi-weekly hack night for progressive data scientists and activ
+ ists working on election tech.\nPrice: Free\nhttps://luma.com/tb3nv9mj
+URL:https://luma.com/tb3nv9mj
+LOCATION:Newspeak House\, 133-135 Bethnal Green Road\, E2 7DG
+END:VEVENT
+BEGIN:VEVENT
 UID:horse-jumper-of-love-jawdropped-hammok-at-moth-club-8dd9092f@london-ev
  ents
 DTSTAMP:20261102T193000Z
@@ -5190,6 +5227,21 @@ URL:https://dice.fm/event/eoyqwy-emma-jean-thackray-dear-miles-a-love-lett
 LOCATION:EartH\, 11 Stoke Newington Road\, N16 8BH
 END:VEVENT
 BEGIN:VEVENT
+UID:fergus-mccreadie-flight-pass-world-premiere-at-kings-place-e-8e1f6e9d@
+ london-events
+DTSTAMP:20261113T193000Z
+DTSTART:20261113T193000Z
+DTEND:20261113T213000Z
+SUMMARY:Fergus McCreadie: Flight Pass world premiere at Kings Place (EFG L
+ JF)
+DESCRIPTION:World premiere of Flight Pass\, a new piano-trio commission fr
+ om Mercury-shortlisted Fergus McCreadie\, blending jazz and Scottish folk
+ . Doors 7pm.\nPrice: £17-£32\nhttps://efglondonjazzfestival.org.uk/even
+ ts/fergus-mccreadie-3
+URL:https://efglondonjazzfestival.org.uk/events/fergus-mccreadie-3
+LOCATION:Kings Place\, 90 York Way\, London N1 9AG
+END:VEVENT
+BEGIN:VEVENT
 UID:after-john-cosmic-music-of-alice-coltrane-efg-london-jazz-fe-c270c8d9@
  london-events
 DTSTAMP:20261113T194500Z
@@ -5243,6 +5295,17 @@ DESCRIPTION:Legendary Brazilian MPB/jazz singer-guitarist Joyce Moreno ('F
 URL:https://dice.fm/event/eomnwo-joyce-moreno-15th-nov-earth-london-ticket
  s
 LOCATION:EartH\, 11-17 Stoke Newington Road\, Dalston\, N16 8BH
+END:VEVENT
+BEGIN:VEVENT
+UID:campaign-lab-hack-night-16-nov-edition-71c3ffaf@london-events
+DTSTAMP:20261116T190000Z
+DTSTART:20261116T190000Z
+DTEND:20261116T220000Z
+SUMMARY:Campaign Lab Hack Night (16 Nov edition)
+DESCRIPTION:Bi-weekly hack night at Newspeak House.\nPrice: Free\nhttps://
+ luma.com/4k86xhn4
+URL:https://luma.com/4k86xhn4
+LOCATION:Newspeak House\, 133-135 Bethnal Green Road\, E2 7DG
 END:VEVENT
 BEGIN:VEVENT
 UID:elephant-stone-at-moth-club-d7a3328c@london-events
@@ -5381,6 +5444,62 @@ URL:https://www.cafeoto.co.uk/events/jimi-tenor-band-two-day-residency/
 LOCATION:Cafe OTO\, 18-22 Ashwin Street\, Dalston\, E8 3DL
 END:VEVENT
 BEGIN:VEVENT
+UID:hidden-jazz-club-at-hoxton-hall-november-edition-f1f84273@london-event
+ s
+DTSTAMP:20261120T200000Z
+DTSTART:20261120T200000Z
+DTEND:20261120T220000Z
+SUMMARY:Hidden Jazz Club at Hoxton Hall (November edition)
+DESCRIPTION:November edition of the intimate jazz night in the 1860s music
+  hall — only ~20 tickets remained at check\; book fast.\nPrice: £22.50
+ \nhttps://hoxtonhall.ticketsolve.com/shows/1173649756/events/428839956
+URL:https://hoxtonhall.ticketsolve.com/shows/1173649756/events/428839956
+LOCATION:Hoxton Hall\, 130 Hoxton Street\, N1 6SH
+END:VEVENT
+BEGIN:VEVENT
+UID:ceroc-champs-london-friday-night-warm-up-party-af73a6c5@london-events
+DTSTAMP:20261120T200000Z
+DTSTART:20261120T200000Z
+DTEND:20261121T000000Z
+SUMMARY:Ceroc Champs London: Friday Night Warm-Up Party
+DESCRIPTION:Mixed-genre freestyle the night before the Ceroc Champs — co
+ mpetitors and social dancers alike. Harrow: Jubilee line to Kingsbury + 1
+ 0 min walk (~1h door to door) — distance exception for a dance priority
+ .\nPrice: £14\nhttps://www.ceroc.com/30/15542/ceroc-champs-friday-night-
+ warm-up-party
+URL:https://www.ceroc.com/30/15542/ceroc-champs-friday-night-warm-up-party
+LOCATION:JFS School\, The Mall\, Harrow HA3 9TE
+END:VEVENT
+BEGIN:VEVENT
+UID:memotone-shell-company-at-kings-place-efg-ljf-matinee-13474d39@london-
+ events
+DTSTAMP:20261121T133000Z
+DTSTART:20261121T133000Z
+DTEND:20261121T153000Z
+SUMMARY:Memotone & Shell Company at Kings Place (EFG LJF matinee)
+DESCRIPTION:Saturday-afternoon double bill of contemplative UK ambient-jaz
+ z: Memotone's soundscapes and Shell Company's slow-build psychedelic jazz
+ .\nPrice: £20.50\nhttps://efglondonjazzfestival.org.uk/events/memotone-a
+ nd-shell-company
+URL:https://efglondonjazzfestival.org.uk/events/memotone-and-shell-company
+LOCATION:Kings Place\, 90 York Way\, London N1 9AG
+END:VEVENT
+BEGIN:VEVENT
+UID:ceroc-champs-london-saturday-finals-freestyle-party-f685bfec@london-ev
+ ents
+DTSTAMP:20261121T190000Z
+DTSTART:20261121T190000Z
+DTEND:20261121T230000Z
+SUMMARY:Ceroc Champs London: Saturday Finals & Freestyle Party
+DESCRIPTION:Watch the Ceroc Champs finals then freestyle from 7pm\; the fu
+ ll competition day (£36) runs 10am-midnight. Harrow — tube to Kingsbur
+ y.\nPrice: £14 evening (full day £36)\nhttps://www.ceroc.com/30/15544/c
+ eroc-champs-saturday-finals-freestyle-party
+URL:https://www.ceroc.com/30/15544/ceroc-champs-saturday-finals-freestyle-
+ party
+LOCATION:JFS School\, The Mall\, Harrow HA3 9TE
+END:VEVENT
+BEGIN:VEVENT
 UID:silver-birch-wareham-goller-betamax-sharkey-at-moth-club-50fdf38d@lond
  on-events
 DTSTAMP:20261121T193000Z
@@ -5408,5 +5527,165 @@ DESCRIPTION:French-American duo making sunny space-age tropical pop (Stone
 URL:https://dice.fm/event/l8k8xr-pearl-and-the-oysters-22nd-nov-moth-club-
  london-tickets
 LOCATION:MOTH Club\, Old Trades Hall\, Valette Street\, E9 6NU
+END:VEVENT
+BEGIN:VEVENT
+UID:vital-spark-dave-holland-norma-winstone-london-vocal-project-ed8348d4@
+ london-events
+DTSTAMP:20261122T193000Z
+DTSTART:20261122T193000Z
+DTEND:20261122T213000Z
+SUMMARY:Vital Spark: Dave Holland\, Norma Winstone & London Vocal Project 
+ (EFG LJF)
+DESCRIPTION:Jazz legends Dave Holland and Norma Winstone with the London V
+ ocal Project perform Kenny Wheeler's final compositions.\nPrice: from £2
+ 8\nhttps://efglondonjazzfestival.org.uk/events/vital-spark-music-of-kenny
+ -wheeler-dave-holland-norma-winstone-london-vocal-project
+URL:https://efglondonjazzfestival.org.uk/events/vital-spark-music-of-kenny
+ -wheeler-dave-holland-norma-winstone-london-vocal-project
+LOCATION:Kings Place\, 90 York Way\, London N1 9AG
+END:VEVENT
+BEGIN:VEVENT
+UID:feeble-little-horse-at-earth-b9fe42f4@london-events
+DTSTAMP:20261123T183000Z
+DTSTART:20261123T183000Z
+DTEND:20261123T220000Z
+SUMMARY:feeble little horse at EartH
+DESCRIPTION:Pittsburgh noise-pop/shoegaze cult favourites play EartH Hall.
+  Doors 6:30pm.\nPrice: from £24.21\nhttps://dice.fm/event/xedlpl-feeble-
+ little-horse-23rd-nov-earth-london-tickets
+URL:https://dice.fm/event/xedlpl-feeble-little-horse-23rd-nov-earth-london
+ -tickets
+LOCATION:EartH\, 11 Stoke Newington Rd\, N16 8BH
+END:VEVENT
+BEGIN:VEVENT
+UID:the-marriage-of-figaro-at-wilton-s-music-hall-23-25-nov-89784450@londo
+ n-events
+DTSTAMP:20261123T190000Z
+DTSTART:20261123T190000Z
+DTEND:20261123T210000Z
+SUMMARY:The Marriage of Figaro at Wilton's Music Hall (23-25 Nov)
+DESCRIPTION:Mozart's Marriage of Figaro staged in the world's oldest survi
+ ving grand music hall\; runs Mon 23 - Wed 25 Nov at 7pm.\nPrice: £13.50-
+ £28\nhttps://wiltons.org.uk/whats-on/the-marriage-of-figaro/
+URL:https://wiltons.org.uk/whats-on/the-marriage-of-figaro/
+LOCATION:Wilton's Music Hall\, 1 Graces Alley\, E1 8JB
+END:VEVENT
+BEGIN:VEVENT
+UID:cancamusa-at-servant-jazz-quarters-886c0a24@london-events
+DTSTAMP:20261124T193000Z
+DTSTART:20261124T193000Z
+DTEND:20261124T213000Z
+SUMMARY:Cancamusa at Servant Jazz Quarters
+DESCRIPTION:Chilean singer-producer-drummer Cancamusa brings her dreamy La
+ tin alt-pop to the tiny basement.\nPrice: £22.60\nhttps://dice.fm/event/
+ 53mo3w-cancamusa-24th-nov-sjq-london-tickets
+URL:https://dice.fm/event/53mo3w-cancamusa-24th-nov-sjq-london-tickets
+LOCATION:Servant Jazz Quarters\, 10A Bradbury Street\, N16 8JN
+END:VEVENT
+BEGIN:VEVENT
+UID:little-quirks-at-the-victoria-c60adcb8@london-events
+DTSTAMP:20261125T193000Z
+DTSTART:20261125T193000Z
+DTEND:20261125T213000Z
+SUMMARY:Little Quirks at The Victoria
+DESCRIPTION:Australian sibling trio play stomping indie-folk with big harm
+ onies in the back room of a Dalston pub.\nPrice: £17.50\nhttps://dice.fm
+ /event/xe36ok-little-quirks-25th-nov-the-victoria-london-tickets
+URL:https://dice.fm/event/xe36ok-little-quirks-25th-nov-the-victoria-londo
+ n-tickets
+LOCATION:The Victoria\, 451 Queensbridge Road\, E8 3AS
+END:VEVENT
+BEGIN:VEVENT
+UID:milkweed-at-earth-3badf35f@london-events
+DTSTAMP:20261126T183000Z
+DTSTART:20261126T183000Z
+DTEND:20261126T203000Z
+SUMMARY:Milkweed at EartH
+DESCRIPTION:Welsh experimental folk duo Milkweed\, purveyors of strange an
+ d beautiful traditional-adjacent song. Doors 6:30pm.\nPrice: £16.28\nhtt
+ ps://dice.fm/event/dkp686-milkweed-26th-nov-earth-london-tickets
+URL:https://dice.fm/event/dkp686-milkweed-26th-nov-earth-london-tickets
+LOCATION:EartH\, 11 Stoke Newington Rd\, N16 8BH
+END:VEVENT
+BEGIN:VEVENT
+UID:ella-raphael-at-moth-club-353275eb@london-events
+DTSTAMP:20261126T193000Z
+DTSTART:20261126T193000Z
+DTEND:20261126T213000Z
+SUMMARY:Ella Raphael at MOTH Club
+DESCRIPTION:Rising London singer-songwriter with a smoky folk-soul voice h
+ eadlines MOTH for well under a tenner. Busy night: Milkweed and Man & The
+  Echo clash.\nPrice: £6.18\nhttps://dice.fm/event/aveqp7-ella-raphael-26
+ th-nov-moth-club-london-tickets
+URL:https://dice.fm/event/aveqp7-ella-raphael-26th-nov-moth-club-london-ti
+ ckets
+LOCATION:MOTH Club\, Old Trades Hall\, Valette Street\, E9 6NU
+END:VEVENT
+BEGIN:VEVENT
+UID:man-the-echo-10-year-celebration-at-paper-dress-vintage-0cab0a82@londo
+ n-events
+DTSTAMP:20261126T193000Z
+DTSTART:20261126T193000Z
+DTEND:20261126T213000Z
+SUMMARY:Man & The Echo 10 Year Celebration at Paper Dress Vintage
+DESCRIPTION:Warrington art-pop/indie band mark ten years with a celebratio
+ n show upstairs.\nPrice: £21.83\nhttps://dice.fm/event/avwpvv-man-the-ec
+ ho-10-year-celebration-at-paper-dress-26th-nov-paper-dress-vintage-london
+ -tickets
+URL:https://dice.fm/event/avwpvv-man-the-echo-10-year-celebration-at-paper
+ -dress-26th-nov-paper-dress-vintage-london-tickets
+LOCATION:Paper Dress Vintage\, 352a Mare Street\, E8 1HR
+END:VEVENT
+BEGIN:VEVENT
+UID:pyncher-at-the-shacklewell-arms-4dd7a2d1@london-events
+DTSTAMP:20261127T190000Z
+DTSTART:20261127T190000Z
+DTEND:20261127T210000Z
+SUMMARY:pyncher at The Shacklewell Arms
+DESCRIPTION:Manchester post-punk/garage four-piece headline the Shacklewel
+ l back room.\nPrice: £13.60\nhttps://dice.fm/event/k6gk9l-pyncher-27th-n
+ ov-the-shacklewell-arms-london-tickets
+URL:https://dice.fm/event/k6gk9l-pyncher-27th-nov-the-shacklewell-arms-lon
+ don-tickets
+LOCATION:The Shacklewell Arms\, 71 Shacklewell Lane\, E8 2EB
+END:VEVENT
+BEGIN:VEVENT
+UID:dead-poets-live-at-wilton-s-music-hall-f2710af5@london-events
+DTSTAMP:20261128T190000Z
+DTSTART:20261128T190000Z
+DTEND:20261128T210000Z
+SUMMARY:Dead Poets Live at Wilton's Music Hall
+DESCRIPTION:Acclaimed actors bring dead poets' work and letters to life on
+  stage — a literary night in the atmospheric old music hall.\nPrice: £
+ 12.50-£27\nhttps://wiltons.org.uk/whats-on/dead-poets-live/
+URL:https://wiltons.org.uk/whats-on/dead-poets-live/
+LOCATION:Wilton's Music Hall\, 1 Graces Alley\, E1 8JB
+END:VEVENT
+BEGIN:VEVENT
+UID:la-plan-te-sauvage-screening-with-live-score-by-haha-sounds--55829911@
+ london-events
+DTSTAMP:20261129T190000Z
+DTSTART:20261129T190000Z
+DTEND:20261129T210000Z
+SUMMARY:La Planète Sauvage — screening with live score by HaHa Sounds C
+ ollective
+DESCRIPTION:The 1973 psychedelic sci-fi animation Fantastic Planet screene
+ d with a live re-score — a good Sunday-night one-off.\nPrice: £28.18\n
+ https://dice.fm/event/ryr66v-la-plante-sauvage-screening-with-live-score-
+ by-haha-sounds-collective-29th-nov-earth-london-tickets
+URL:https://dice.fm/event/ryr66v-la-plante-sauvage-screening-with-live-sco
+ re-by-haha-sounds-collective-29th-nov-earth-london-tickets
+LOCATION:EartH\, 11 Stoke Newington Rd\, N16 8BH
+END:VEVENT
+BEGIN:VEVENT
+UID:campaign-lab-hack-night-30-nov-edition-cd557183@london-events
+DTSTAMP:20261130T190000Z
+DTSTART:20261130T190000Z
+DTEND:20261130T220000Z
+SUMMARY:Campaign Lab Hack Night (30 Nov edition)
+DESCRIPTION:Bi-weekly hack night at Newspeak House — fills the otherwise
+ -empty 30 Nov.\nPrice: Free\nhttps://luma.com/pn8du6nq
+URL:https://luma.com/pn8du6nq
+LOCATION:Newspeak House\, 133-135 Bethnal Green Road\, E2 7DG
 END:VEVENT
 END:VCALENDAR
