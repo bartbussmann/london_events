@@ -710,6 +710,24 @@
     "added": "2026-08-02"
   },
   {
+    "id": "ecstatic-dance-uk-the-evening-sessions-26-aug-0adc9c07",
+    "title": "Ecstatic Dance UK — The Evening Sessions (26 Aug)",
+    "start": "2026-08-26T18:40:00+01:00",
+    "end": "2026-08-26T21:30:00+01:00",
+    "venue": "The Baths",
+    "address": "80 Eastway, Hackney Wick, E9 5JH",
+    "url": "https://www.eventbrite.co.uk/e/ecstatic-dance-uk-the-evening-sessions-tickets-1990952408248",
+    "source": "aggregator:eventbrite",
+    "tags": [
+      "dance"
+    ],
+    "price": "£15.92-£23.59",
+    "description": "Midweek barefoot ecstatic dance journey at the Hackney Wick baths.",
+    "neighbourhood": "Hackney Wick",
+    "cycle_minutes": 15,
+    "added": "2026-08-23"
+  },
+  {
     "id": "psysoc-social-speed-friending-psychedelic-storytelling-8214ede7",
     "title": "PsySoc Social: Speed-Friending & Psychedelic Storytelling",
     "start": "2026-08-26T18:45:00+01:00",
@@ -1995,6 +2013,25 @@
     "added": "2026-08-18"
   },
   {
+    "id": "circling-drop-in-evening-4-sep-elephant-castle-a29ccce2",
+    "title": "Circling Drop-in Evening (4 Sep, Elephant & Castle)",
+    "start": "2026-09-04T19:00:00+01:00",
+    "end": "2026-09-04T21:00:00+01:00",
+    "venue": "Elephant & Castle (address on booking)",
+    "address": "Elephant and Castle, SE1",
+    "url": "https://www.eventbrite.co.uk/e/circling-drop-in-evening-tickets-1998632098408",
+    "source": "aggregator:eventbrite",
+    "tags": [
+      "workshop",
+      "community"
+    ],
+    "price": "Free / donation",
+    "description": "September edition of the drop-in circling practice evening — relational meditation in small groups.",
+    "neighbourhood": "Elephant & Castle",
+    "cycle_minutes": 30,
+    "added": "2026-08-23"
+  },
+  {
     "id": "marisa-anderson-luce-mawdsley-at-chats-palace-ae335ff6",
     "title": "Marisa Anderson + Luce Mawdsley at Chats Palace",
     "start": "2026-09-04T19:30:00+01:00",
@@ -2811,6 +2848,24 @@
     "cycle_minutes": 42,
     "id": "systemic-family-constellations-evening-workshop-0d80d145",
     "added": "2026-08-01"
+  },
+  {
+    "id": "ecstatica-ecstatic-dance-cacao-september-edition-d0221acd",
+    "title": "ECSTATICA: Ecstatic Dance & Cacao (September edition)",
+    "start": "2026-09-10T18:30:00+01:00",
+    "end": "2026-09-10T22:00:00+01:00",
+    "venue": "Chestnuts Community Centre",
+    "address": "280 Saint Ann's Road, N15 5BN",
+    "url": "https://www.eventbrite.co.uk/e/ecstatica-ecstatic-dance-cacao-tickets-1998589345533",
+    "source": "aggregator:eventbrite",
+    "tags": [
+      "dance"
+    ],
+    "price": "£16.96-£20.21",
+    "description": "Thursday-evening ecstatic dance with cacao ceremony in Tottenham — barefoot, substance-free, beginner-friendly.",
+    "neighbourhood": "South Tottenham",
+    "cycle_minutes": 30,
+    "added": "2026-08-23"
   },
   {
     "id": "yugantar-film-collective-screening-discussion-free-64d59e7d",
@@ -6645,6 +6700,24 @@
     "added": "2026-08-16"
   },
   {
+    "id": "joan-as-police-woman-20-years-of-real-life-night-one-a24c96d2",
+    "title": "Joan As Police Woman — 20 Years of 'Real Life' (night one)",
+    "start": "2026-11-05T19:00:00+00:00",
+    "end": null,
+    "venue": "Union Chapel",
+    "address": "Compton Terrace, Islington, N1 2UN",
+    "url": "https://unionchapel.org.uk/whats-on/joan-as-police-woman-20-years-of-real-life-tour-5-nov",
+    "source": "venue:union-chapel",
+    "tags": [
+      "music"
+    ],
+    "price": null,
+    "description": "Joan Wasser marks 20 years of her debut Real Life with a full-album show in the pews. Doors 7pm; second night 6 Nov.",
+    "neighbourhood": "Islington",
+    "cycle_minutes": 20,
+    "added": "2026-08-23"
+  },
+  {
     "id": "colin-miller-told-slant-h-pruz-elijah-wolf-at-moth-club-d0896892",
     "title": "Colin Miller + Told Slant + h pruz + Elijah Wolf at MOTH Club",
     "start": "2026-11-05T19:30:00+00:00",
@@ -6715,6 +6788,24 @@
     "neighbourhood": "Hackney Central",
     "cycle_minutes": 12,
     "added": "2026-08-16"
+  },
+  {
+    "id": "the-slow-show-white-water-anniversary-tour-at-union-chapel-0824d3a5",
+    "title": "The Slow Show — White Water anniversary tour at Union Chapel",
+    "start": "2026-11-10T19:00:00+00:00",
+    "end": null,
+    "venue": "Union Chapel",
+    "address": "Compton Terrace, Islington, N1 2UN",
+    "url": "https://unionchapel.org.uk/whats-on/the-slow-show-white-water-anniversary-live-tour",
+    "source": "venue:union-chapel",
+    "tags": [
+      "music"
+    ],
+    "price": null,
+    "description": "Manchester's baritone-led slow-burn indie band play White Water in full — a natural fit for the chapel's acoustics.",
+    "neighbourhood": "Islington",
+    "cycle_minutes": 20,
+    "added": "2026-08-23"
   },
   {
     "id": "aayushi-ray-vincent-mills-hannah-lou-clark-at-paper-dress-vi-bcdfa5ed",
@@ -7311,6 +7402,42 @@
     "cycle_minutes": 13
   },
   {
+    "id": "an-evening-with-lambchop-night-one-at-union-chapel-e3cfbc17",
+    "title": "An Evening with Lambchop: night one at Union Chapel",
+    "start": "2026-11-27T19:00:00+00:00",
+    "end": null,
+    "venue": "Union Chapel",
+    "address": "Compton Terrace, Islington, N1 2UN",
+    "url": "https://unionchapel.org.uk/whats-on/an-evening-with-lambchop-night-one",
+    "source": "venue:union-chapel",
+    "tags": [
+      "music"
+    ],
+    "price": null,
+    "description": "Kurt Wagner's Nashville alt-country institution plays the first of two chapel nights (night two 28 Nov).",
+    "neighbourhood": "Islington",
+    "cycle_minutes": 20,
+    "added": "2026-08-23"
+  },
+  {
+    "id": "jazz-no-l-at-wilton-s-music-hall-521ed350",
+    "title": "Jazz Noël at Wilton's Music Hall",
+    "start": "2026-11-27T19:00:00+00:00",
+    "end": null,
+    "venue": "Wilton's Music Hall",
+    "address": "1 Graces Alley, E1 8JB",
+    "url": "https://wiltons.org.uk/whats-on/jazz-noel/",
+    "source": "venue:wiltons",
+    "tags": [
+      "music"
+    ],
+    "price": "from ~£10",
+    "description": "Festive jazz evening in the world's oldest surviving music hall. Same night as Lambchop — pick one.",
+    "neighbourhood": "Whitechapel",
+    "cycle_minutes": 10,
+    "added": "2026-08-23"
+  },
+  {
     "id": "dead-poets-live-at-wilton-s-music-hall-f2710af5",
     "title": "Dead Poets Live at Wilton's Music Hall",
     "start": "2026-11-28T19:00:00+00:00",
@@ -7366,5 +7493,186 @@
     "neighbourhood": "Bethnal Green",
     "added": "2026-08-22",
     "cycle_minutes": 3
+  },
+  {
+    "id": "elanor-moss-at-cecil-sharp-house-48a624ae",
+    "title": "Elanor Moss at Cecil Sharp House",
+    "start": "2026-12-03T19:30:00+00:00",
+    "end": "2026-12-03T21:30:00+00:00",
+    "venue": "Cecil Sharp House",
+    "address": "2 Regent's Park Road, NW1 7AY",
+    "url": "https://www.efdss.org/whats-on/26-gigs/16024-elanor-moss-2026",
+    "source": "venue:cecil-sharp-house",
+    "tags": [
+      "music"
+    ],
+    "price": "£12.50-£18.50",
+    "description": "Rising York folk singer-songwriter (tour-mate of Katherine Priddy) plays an intimate evening at the home of English folk.",
+    "neighbourhood": "Primrose Hill",
+    "cycle_minutes": 32,
+    "added": "2026-08-23"
+  },
+  {
+    "id": "brian-bilston-how-to-lay-an-egg-with-a-horse-inside-e436c711",
+    "title": "Brian Bilston — 'How To Lay An Egg with a Horse Inside'",
+    "start": "2026-12-04T18:30:00+00:00",
+    "end": null,
+    "venue": "Union Chapel",
+    "address": "Compton Terrace, Islington, N1 2UN",
+    "url": "https://unionchapel.org.uk/whats-on/brian-bilston--how-to-lay-an-egg-with-a-horse-inside",
+    "source": "venue:union-chapel",
+    "tags": [
+      "talk",
+      "comedy"
+    ],
+    "price": null,
+    "description": "Twitter's unofficial poet laureate reads wry, wordplay-heavy verse from his new collection in the chapel. Doors 6.30pm.",
+    "neighbourhood": "Islington",
+    "cycle_minutes": 20,
+    "added": "2026-08-23"
+  },
+  {
+    "id": "makthaverskan-at-moth-club-d6cd4c61",
+    "title": "Makthaverskan at MOTH Club",
+    "start": "2026-12-04T19:30:00+00:00",
+    "end": "2026-12-04T23:00:00+00:00",
+    "venue": "MOTH Club",
+    "address": "Old Trades Hall, Valette Street, E9 6NU",
+    "url": "https://dice.fm/event/699598b127b6e000016dd702",
+    "source": "venue:dice-moth-club",
+    "tags": [
+      "music"
+    ],
+    "price": "£19.84",
+    "description": "Gothenburg's dreamy post-punk five-piece bring soaring Swedish jangle to the glitter-ceilinged working men's club.",
+    "neighbourhood": "Hackney Central",
+    "cycle_minutes": 12,
+    "added": "2026-08-23"
+  },
+  {
+    "id": "pictish-trail-at-moth-club-bf1d21b0",
+    "title": "Pictish Trail at MOTH Club",
+    "start": "2026-12-05T19:00:00+00:00",
+    "end": null,
+    "venue": "MOTH Club",
+    "address": "Old Trades Hall, Valette Street, E9 6NU",
+    "url": "https://dice.fm/event/6a396f05eb360100011f61f3",
+    "source": "venue:dice-moth-club",
+    "tags": [
+      "music"
+    ],
+    "price": "£22.66",
+    "description": "Isle of Eigg psych-folk hero and Lost Map label boss Johnny Lynch — warm, weird and very funny live.",
+    "neighbourhood": "Hackney Central",
+    "cycle_minutes": 12,
+    "added": "2026-08-23"
+  },
+  {
+    "id": "salt-house-at-cecil-sharp-house-af972287",
+    "title": "Salt House at Cecil Sharp House",
+    "start": "2026-12-09T19:30:00+00:00",
+    "end": "2026-12-09T21:30:00+00:00",
+    "venue": "Cecil Sharp House",
+    "address": "2 Regent's Park Road, NW1 7AY",
+    "url": "https://www.efdss.org/whats-on/26-gigs/16016-salt-house-dec-2026",
+    "source": "venue:cecil-sharp-house",
+    "tags": [
+      "music"
+    ],
+    "price": "£10.50-£17.50",
+    "description": "Scottish chamber-folk trio — hushed harmonies and fiddle, ideal winter listening.",
+    "neighbourhood": "Primrose Hill",
+    "cycle_minutes": 32,
+    "added": "2026-08-23"
+  },
+  {
+    "id": "nev-clay-mathias-kom-the-burning-hell-at-the-victoria-f89491d5",
+    "title": "Nev Clay + Mathias Kom (The Burning Hell) at The Victoria",
+    "start": "2026-12-10T19:30:00+00:00",
+    "end": null,
+    "venue": "The Victoria",
+    "address": "451 Queensbridge Road, E8 3AS",
+    "url": "https://dice.fm/event/6a7c5f912961660001cd04ba",
+    "source": "venue:dice-the-victoria",
+    "tags": [
+      "music"
+    ],
+    "price": "£21.83",
+    "description": "Double bill of wry storytelling songwriters in the Victoria's back room.",
+    "neighbourhood": "Dalston",
+    "cycle_minutes": 12,
+    "added": "2026-08-23"
+  },
+  {
+    "id": "cervatana-free-show-at-the-shacklewell-arms-c0b1e798",
+    "title": "CERVATANA — free show at The Shacklewell Arms",
+    "start": "2026-12-11T19:30:00+00:00",
+    "end": null,
+    "venue": "The Shacklewell Arms",
+    "address": "71 Shacklewell Lane, E8 2EB",
+    "url": "https://dice.fm/event/6a341aaf06a7bb0001f3e497",
+    "source": "venue:dice-shacklewell-arms",
+    "tags": [
+      "music"
+    ],
+    "price": "Free",
+    "description": "Free Friday-night live show in the Shacklewell's back room — £0 DICE ticket, grab one and turn up early.",
+    "neighbourhood": "Dalston",
+    "cycle_minutes": 13,
+    "added": "2026-08-23"
+  },
+  {
+    "id": "cara-dillon-upon-a-winter-s-night-at-union-chapel-f8de19b4",
+    "title": "Cara Dillon — 'Upon A Winter's Night' at Union Chapel",
+    "start": "2026-12-18T18:30:00+00:00",
+    "end": null,
+    "venue": "Union Chapel",
+    "address": "Compton Terrace, Islington, N1 2UN",
+    "url": "https://unionchapel.org.uk/whats-on/cara-dillon-upon-a-winters-night-2026",
+    "source": "venue:union-chapel",
+    "tags": [
+      "music"
+    ],
+    "price": null,
+    "description": "The Irish folk singer's much-loved candlelit winter show — carols and seasonal folk songs with her full band.",
+    "neighbourhood": "Islington",
+    "cycle_minutes": 20,
+    "added": "2026-08-23"
+  },
+  {
+    "id": "knees-up-cecil-sharp-ceilidh-christmas-edition-151d7292",
+    "title": "Knees Up Cecil Sharp Ceilidh — Christmas edition",
+    "start": "2026-12-18T20:00:00+00:00",
+    "end": "2026-12-18T23:00:00+00:00",
+    "venue": "Cecil Sharp House",
+    "address": "2 Regent's Park Road, NW1 7AY",
+    "url": "https://www.efdss.org/whats-on/27-dances/15766-knees-up-cecil-sharp-ceilidh-2026",
+    "source": "venue:cecil-sharp-house",
+    "tags": [
+      "dance"
+    ],
+    "price": "£5-£15",
+    "description": "Festive edition of the beginner-friendly monthly ceilidh with live band and caller — all dances walked through, no partner needed. Same night as Cara Dillon.",
+    "neighbourhood": "Primrose Hill",
+    "cycle_minutes": 32,
+    "added": "2026-08-23"
+  },
+  {
+    "id": "the-unthanks-in-winter-evening-show-at-union-chapel-4920a016",
+    "title": "The Unthanks in Winter — evening show at Union Chapel",
+    "start": "2026-12-19T19:15:00+00:00",
+    "end": null,
+    "venue": "Union Chapel",
+    "address": "Compton Terrace, Islington, N1 2UN",
+    "url": "https://unionchapel.org.uk/whats-on/the-unthanks-in-winter-evening",
+    "source": "venue:union-chapel",
+    "tags": [
+      "music"
+    ],
+    "price": null,
+    "description": "The Northumbrian sisters' wintry folk harmonies in the chapel — one of London's loveliest Christmas gigs. A matinee runs the same day.",
+    "neighbourhood": "Islington",
+    "cycle_minutes": 20,
+    "added": "2026-08-23"
   }
 ]

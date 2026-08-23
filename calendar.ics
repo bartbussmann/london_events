@@ -528,6 +528,19 @@ LOCATION:Bush House Auditorium\, King's College London\, 30 Aldwych\, WC2B
   4BG
 END:VEVENT
 BEGIN:VEVENT
+UID:ecstatic-dance-uk-the-evening-sessions-26-aug-0adc9c07@london-events
+DTSTAMP:20260826T174000Z
+DTSTART:20260826T174000Z
+DTEND:20260826T203000Z
+SUMMARY:Ecstatic Dance UK — The Evening Sessions (26 Aug)
+DESCRIPTION:Midweek barefoot ecstatic dance journey at the Hackney Wick ba
+ ths.\nPrice: £15.92-£23.59\nhttps://www.eventbrite.co.uk/e/ecstatic-dan
+ ce-uk-the-evening-sessions-tickets-1990952408248
+URL:https://www.eventbrite.co.uk/e/ecstatic-dance-uk-the-evening-sessions-
+ tickets-1990952408248
+LOCATION:The Baths\, 80 Eastway\, Hackney Wick\, E9 5JH
+END:VEVENT
+BEGIN:VEVENT
 UID:psysoc-social-speed-friending-psychedelic-storytelling-8214ede7@london
  -events
 DTSTAMP:20260826T174500Z
@@ -1513,6 +1526,20 @@ URL:https://www.bishopsgate.org.uk/whats-on/activity/260410-swing-den-2
 LOCATION:Bishopsgate Institute\, 230 Bishopsgate\, London EC2M 4QH
 END:VEVENT
 BEGIN:VEVENT
+UID:circling-drop-in-evening-4-sep-elephant-castle-a29ccce2@london-events
+DTSTAMP:20260904T180000Z
+DTSTART:20260904T180000Z
+DTEND:20260904T200000Z
+SUMMARY:Circling Drop-in Evening (4 Sep\, Elephant & Castle)
+DESCRIPTION:September edition of the drop-in circling practice evening —
+  relational meditation in small groups.\nPrice: Free / donation\nhttps://
+ www.eventbrite.co.uk/e/circling-drop-in-evening-tickets-1998632098408
+URL:https://www.eventbrite.co.uk/e/circling-drop-in-evening-tickets-199863
+ 2098408
+LOCATION:Elephant & Castle (address on booking)\, Elephant and Castle\, SE
+ 1
+END:VEVENT
+BEGIN:VEVENT
 UID:marisa-anderson-luce-mawdsley-at-chats-palace-ae335ff6@london-events
 DTSTAMP:20260904T183000Z
 DTSTART:20260904T183000Z
@@ -2123,6 +2150,21 @@ DESCRIPTION:In-person Systemic Constellations evening exploring personal a
  epresentative)\nhttps://dandelion.events/e/n6yxh
 URL:https://dandelion.events/e/n6yxh
 LOCATION:9 Broadhurst Mansions\, 97 Broadhurst Gardens\, NW6 3QP
+END:VEVENT
+BEGIN:VEVENT
+UID:ecstatica-ecstatic-dance-cacao-september-edition-d0221acd@london-event
+ s
+DTSTAMP:20260910T173000Z
+DTSTART:20260910T173000Z
+DTEND:20260910T210000Z
+SUMMARY:ECSTATICA: Ecstatic Dance & Cacao (September edition)
+DESCRIPTION:Thursday-evening ecstatic dance with cacao ceremony in Tottenh
+ am — barefoot\, substance-free\, beginner-friendly.\nPrice: £16.96-£2
+ 0.21\nhttps://www.eventbrite.co.uk/e/ecstatica-ecstatic-dance-cacao-ticke
+ ts-1998589345533
+URL:https://www.eventbrite.co.uk/e/ecstatica-ecstatic-dance-cacao-tickets-
+ 1998589345533
+LOCATION:Chestnuts Community Centre\, 280 Saint Ann's Road\, N15 5BN
 END:VEVENT
 BEGIN:VEVENT
 UID:yugantar-film-collective-screening-discussion-free-64d59e7d@london-eve
@@ -4980,6 +5022,20 @@ URL:https://dice.fm/event/923kp9-the-vernon-spring-a-plane-over-woods-5-ye
 LOCATION:Servant Jazz Quarters\, 10A Bradbury Street\, Dalston\, N16 8JN
 END:VEVENT
 BEGIN:VEVENT
+UID:joan-as-police-woman-20-years-of-real-life-night-one-a24c96d2@london-e
+ vents
+DTSTAMP:20261105T190000Z
+DTSTART:20261105T190000Z
+DTEND:20261105T210000Z
+SUMMARY:Joan As Police Woman — 20 Years of 'Real Life' (night one)
+DESCRIPTION:Joan Wasser marks 20 years of her debut Real Life with a full-
+ album show in the pews. Doors 7pm\; second night 6 Nov.\nhttps://unioncha
+ pel.org.uk/whats-on/joan-as-police-woman-20-years-of-real-life-tour-5-nov
+URL:https://unionchapel.org.uk/whats-on/joan-as-police-woman-20-years-of-r
+ eal-life-tour-5-nov
+LOCATION:Union Chapel\, Compton Terrace\, Islington\, N1 2UN
+END:VEVENT
+BEGIN:VEVENT
 UID:colin-miller-told-slant-h-pruz-elijah-wolf-at-moth-club-d0896892@londo
  n-events
 DTSTAMP:20261105T193000Z
@@ -5032,6 +5088,20 @@ DESCRIPTION:Toronto jangle-pop wits Kiwi Jr headline a Friday three-band b
 URL:https://dice.fm/event/l8do3l-kiwi-jr-alien-boy-bleary-eyed-6th-nov-mot
  h-club-london-tickets
 LOCATION:MOTH Club\, Old Trades Hall\, Valette Street\, E9 6NU
+END:VEVENT
+BEGIN:VEVENT
+UID:the-slow-show-white-water-anniversary-tour-at-union-chapel-0824d3a5@lo
+ ndon-events
+DTSTAMP:20261110T190000Z
+DTSTART:20261110T190000Z
+DTEND:20261110T210000Z
+SUMMARY:The Slow Show — White Water anniversary tour at Union Chapel
+DESCRIPTION:Manchester's baritone-led slow-burn indie band play White Wate
+ r in full — a natural fit for the chapel's acoustics.\nhttps://unioncha
+ pel.org.uk/whats-on/the-slow-show-white-water-anniversary-live-tour
+URL:https://unionchapel.org.uk/whats-on/the-slow-show-white-water-annivers
+ ary-live-tour
+LOCATION:Union Chapel\, Compton Terrace\, Islington\, N1 2UN
 END:VEVENT
 BEGIN:VEVENT
 UID:aayushi-ray-vincent-mills-hannah-lou-clark-at-paper-dress-vi-bcdfa5ed@
@@ -5487,6 +5557,31 @@ URL:https://dice.fm/event/k6gk9l-pyncher-27th-nov-the-shacklewell-arms-lon
 LOCATION:The Shacklewell Arms\, 71 Shacklewell Lane\, E8 2EB
 END:VEVENT
 BEGIN:VEVENT
+UID:an-evening-with-lambchop-night-one-at-union-chapel-e3cfbc17@london-eve
+ nts
+DTSTAMP:20261127T190000Z
+DTSTART:20261127T190000Z
+DTEND:20261127T210000Z
+SUMMARY:An Evening with Lambchop: night one at Union Chapel
+DESCRIPTION:Kurt Wagner's Nashville alt-country institution plays the firs
+ t of two chapel nights (night two 28 Nov).\nhttps://unionchapel.org.uk/wh
+ ats-on/an-evening-with-lambchop-night-one
+URL:https://unionchapel.org.uk/whats-on/an-evening-with-lambchop-night-one
+LOCATION:Union Chapel\, Compton Terrace\, Islington\, N1 2UN
+END:VEVENT
+BEGIN:VEVENT
+UID:jazz-no-l-at-wilton-s-music-hall-521ed350@london-events
+DTSTAMP:20261127T190000Z
+DTSTART:20261127T190000Z
+DTEND:20261127T210000Z
+SUMMARY:Jazz Noël at Wilton's Music Hall
+DESCRIPTION:Festive jazz evening in the world's oldest surviving music hal
+ l. Same night as Lambchop — pick one.\nPrice: from ~£10\nhttps://wilto
+ ns.org.uk/whats-on/jazz-noel/
+URL:https://wiltons.org.uk/whats-on/jazz-noel/
+LOCATION:Wilton's Music Hall\, 1 Graces Alley\, E1 8JB
+END:VEVENT
+BEGIN:VEVENT
 UID:dead-poets-live-at-wilton-s-music-hall-f2710af5@london-events
 DTSTAMP:20261128T190000Z
 DTSTART:20261128T190000Z
@@ -5524,5 +5619,134 @@ DESCRIPTION:Bi-weekly hack night at Newspeak House — fills the otherwise
  -empty 30 Nov.\nPrice: Free\nhttps://luma.com/pn8du6nq
 URL:https://luma.com/pn8du6nq
 LOCATION:Newspeak House\, 133-135 Bethnal Green Road\, E2 7DG
+END:VEVENT
+BEGIN:VEVENT
+UID:elanor-moss-at-cecil-sharp-house-48a624ae@london-events
+DTSTAMP:20261203T193000Z
+DTSTART:20261203T193000Z
+DTEND:20261203T213000Z
+SUMMARY:Elanor Moss at Cecil Sharp House
+DESCRIPTION:Rising York folk singer-songwriter (tour-mate of Katherine Pri
+ ddy) plays an intimate evening at the home of English folk.\nPrice: £12.
+ 50-£18.50\nhttps://www.efdss.org/whats-on/26-gigs/16024-elanor-moss-2026
+URL:https://www.efdss.org/whats-on/26-gigs/16024-elanor-moss-2026
+LOCATION:Cecil Sharp House\, 2 Regent's Park Road\, NW1 7AY
+END:VEVENT
+BEGIN:VEVENT
+UID:brian-bilston-how-to-lay-an-egg-with-a-horse-inside-e436c711@london-ev
+ ents
+DTSTAMP:20261204T183000Z
+DTSTART:20261204T183000Z
+DTEND:20261204T203000Z
+SUMMARY:Brian Bilston — 'How To Lay An Egg with a Horse Inside'
+DESCRIPTION:Twitter's unofficial poet laureate reads wry\, wordplay-heavy 
+ verse from his new collection in the chapel. Doors 6.30pm.\nhttps://union
+ chapel.org.uk/whats-on/brian-bilston--how-to-lay-an-egg-with-a-horse-insi
+ de
+URL:https://unionchapel.org.uk/whats-on/brian-bilston--how-to-lay-an-egg-w
+ ith-a-horse-inside
+LOCATION:Union Chapel\, Compton Terrace\, Islington\, N1 2UN
+END:VEVENT
+BEGIN:VEVENT
+UID:makthaverskan-at-moth-club-d6cd4c61@london-events
+DTSTAMP:20261204T193000Z
+DTSTART:20261204T193000Z
+DTEND:20261204T230000Z
+SUMMARY:Makthaverskan at MOTH Club
+DESCRIPTION:Gothenburg's dreamy post-punk five-piece bring soaring Swedish
+  jangle to the glitter-ceilinged working men's club.\nPrice: £19.84\nhtt
+ ps://dice.fm/event/699598b127b6e000016dd702
+URL:https://dice.fm/event/699598b127b6e000016dd702
+LOCATION:MOTH Club\, Old Trades Hall\, Valette Street\, E9 6NU
+END:VEVENT
+BEGIN:VEVENT
+UID:pictish-trail-at-moth-club-bf1d21b0@london-events
+DTSTAMP:20261205T190000Z
+DTSTART:20261205T190000Z
+DTEND:20261205T210000Z
+SUMMARY:Pictish Trail at MOTH Club
+DESCRIPTION:Isle of Eigg psych-folk hero and Lost Map label boss Johnny Ly
+ nch — warm\, weird and very funny live.\nPrice: £22.66\nhttps://dice.f
+ m/event/6a396f05eb360100011f61f3
+URL:https://dice.fm/event/6a396f05eb360100011f61f3
+LOCATION:MOTH Club\, Old Trades Hall\, Valette Street\, E9 6NU
+END:VEVENT
+BEGIN:VEVENT
+UID:salt-house-at-cecil-sharp-house-af972287@london-events
+DTSTAMP:20261209T193000Z
+DTSTART:20261209T193000Z
+DTEND:20261209T213000Z
+SUMMARY:Salt House at Cecil Sharp House
+DESCRIPTION:Scottish chamber-folk trio — hushed harmonies and fiddle\, i
+ deal winter listening.\nPrice: £10.50-£17.50\nhttps://www.efdss.org/wha
+ ts-on/26-gigs/16016-salt-house-dec-2026
+URL:https://www.efdss.org/whats-on/26-gigs/16016-salt-house-dec-2026
+LOCATION:Cecil Sharp House\, 2 Regent's Park Road\, NW1 7AY
+END:VEVENT
+BEGIN:VEVENT
+UID:nev-clay-mathias-kom-the-burning-hell-at-the-victoria-f89491d5@london-
+ events
+DTSTAMP:20261210T193000Z
+DTSTART:20261210T193000Z
+DTEND:20261210T213000Z
+SUMMARY:Nev Clay + Mathias Kom (The Burning Hell) at The Victoria
+DESCRIPTION:Double bill of wry storytelling songwriters in the Victoria's 
+ back room.\nPrice: £21.83\nhttps://dice.fm/event/6a7c5f912961660001cd04b
+ a
+URL:https://dice.fm/event/6a7c5f912961660001cd04ba
+LOCATION:The Victoria\, 451 Queensbridge Road\, E8 3AS
+END:VEVENT
+BEGIN:VEVENT
+UID:cervatana-free-show-at-the-shacklewell-arms-c0b1e798@london-events
+DTSTAMP:20261211T193000Z
+DTSTART:20261211T193000Z
+DTEND:20261211T213000Z
+SUMMARY:CERVATANA — free show at The Shacklewell Arms
+DESCRIPTION:Free Friday-night live show in the Shacklewell's back room —
+  £0 DICE ticket\, grab one and turn up early.\nPrice: Free\nhttps://dice
+ .fm/event/6a341aaf06a7bb0001f3e497
+URL:https://dice.fm/event/6a341aaf06a7bb0001f3e497
+LOCATION:The Shacklewell Arms\, 71 Shacklewell Lane\, E8 2EB
+END:VEVENT
+BEGIN:VEVENT
+UID:cara-dillon-upon-a-winter-s-night-at-union-chapel-f8de19b4@london-even
+ ts
+DTSTAMP:20261218T183000Z
+DTSTART:20261218T183000Z
+DTEND:20261218T203000Z
+SUMMARY:Cara Dillon — 'Upon A Winter's Night' at Union Chapel
+DESCRIPTION:The Irish folk singer's much-loved candlelit winter show — c
+ arols and seasonal folk songs with her full band.\nhttps://unionchapel.or
+ g.uk/whats-on/cara-dillon-upon-a-winters-night-2026
+URL:https://unionchapel.org.uk/whats-on/cara-dillon-upon-a-winters-night-2
+ 026
+LOCATION:Union Chapel\, Compton Terrace\, Islington\, N1 2UN
+END:VEVENT
+BEGIN:VEVENT
+UID:knees-up-cecil-sharp-ceilidh-christmas-edition-151d7292@london-events
+DTSTAMP:20261218T200000Z
+DTSTART:20261218T200000Z
+DTEND:20261218T230000Z
+SUMMARY:Knees Up Cecil Sharp Ceilidh — Christmas edition
+DESCRIPTION:Festive edition of the beginner-friendly monthly ceilidh with 
+ live band and caller — all dances walked through\, no partner needed. S
+ ame night as Cara Dillon.\nPrice: £5-£15\nhttps://www.efdss.org/whats-o
+ n/27-dances/15766-knees-up-cecil-sharp-ceilidh-2026
+URL:https://www.efdss.org/whats-on/27-dances/15766-knees-up-cecil-sharp-ce
+ ilidh-2026
+LOCATION:Cecil Sharp House\, 2 Regent's Park Road\, NW1 7AY
+END:VEVENT
+BEGIN:VEVENT
+UID:the-unthanks-in-winter-evening-show-at-union-chapel-4920a016@london-ev
+ ents
+DTSTAMP:20261219T191500Z
+DTSTART:20261219T191500Z
+DTEND:20261219T211500Z
+SUMMARY:The Unthanks in Winter — evening show at Union Chapel
+DESCRIPTION:The Northumbrian sisters' wintry folk harmonies in the chapel 
+ — one of London's loveliest Christmas gigs. A matinee runs the same day
+ .\nhttps://unionchapel.org.uk/whats-on/the-unthanks-in-winter-evening
+URL:https://unionchapel.org.uk/whats-on/the-unthanks-in-winter-evening
+LOCATION:Union Chapel\, Compton Terrace\, Islington\, N1 2UN
 END:VEVENT
 END:VCALENDAR

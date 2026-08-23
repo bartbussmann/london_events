@@ -1,5 +1,11 @@
 [
   {
+    "ran_at": "2026-08-23T07:55:00+01:00",
+    "added": 17,
+    "considered": 160,
+    "notes": "Union Chapel BACK (plain fetch works again — full Nov/Dec captured) + December opener + weekly refreshes. Added 17: UC winter run — Joan As Police Woman night one 5 Nov (night two 6th), Slow Show 10 Nov, LAMBCHOP two nights from 27 Nov, Brian Bilston poetry 4 Dec, Cara Dillon candlelit 18 Dec, Unthanks in Winter 19 Dec; December layer — Elanor Moss 3 Dec + Salt House 9 Dec at CSH, Makthaverskan 4 Dec + Pictish Trail 5 Dec at MOTH, Nev Clay/Mathias Kom Victoria 10 Dec, free CERVATANA Shacklewell 11 Dec, Christmas ceilidh 18 Dec, Jazz Noël Wilton's 27 Nov; embodiment Septembers — circling drop-in 4 Sep (free), ECSTATICA 10 Sep, EDUK Evening Sessions 26 Aug. WATCHLIST: ACX fall list STILL not live in its expected week (only College EA call) — keep daily checks; Auld Shillelagh Sept rota still unposted; no Moth StorySLAM. UC spares: JAPW night two 6 Nov, Lambchop 28 Nov, Camille O'Sullivan 20 Nov, Ben Watt/Tracey Thorn UC 29-30 Nov (their MOTH runs sold out), Kate Rusby 22 Dec, Toyah Xmas 12 Dec. MOTH Dec spares: David J 1 Dec, Downtown Boys 7 Dec. CSH Dec spares: Trad Night 2 Dec, Winter Union 16 Dec, Young'uns 20 Dec. Sept 1-10 density: all days 5+, no fill needed. Kings Place Dec unchecked (Cloudflare)."
+  },
+  {
     "ran_at": "2026-08-22T07:55:00+01:00",
     "added": 21,
     "considered": 245,
@@ -172,11 +178,5 @@
     "added": 4,
     "considered": 85,
     "notes": "Daily sweep, September gig-circuit retry — SUCCESS via DICE canonical slugs (recorded in sources.yaml). ICS: 0 new; 6 pruned (part 1). Added: Carson McHone alt-country at Shacklewell (25 Aug), Sean McVerry at Old Blue Last + WARBY at SJQ (both 2 Sep), Automatic at MOTH (3 Sep). Caught Hovvdy duplicate (note: its price rose £11 -> £25, early tiers selling). MOTION 5Rhythms 24 Aug still fails verified-date rule (recurring-Mondays page, no dated listing). Kirtan (11-13 Sep) and Simply Being 5Rhythms (25 Sep) queued for when window reaches them."
-  },
-  {
-    "ran_at": "2026-07-26T07:55:00+01:00",
-    "added": 5,
-    "considered": 43,
-    "notes": "Daily sweep, September fill. ICS: Mia Hopman CLR talk suppressed (weekday 16:00, part 1). Added: free War Child indie showcase at Shacklewell (4 Aug), Dancing Awareness 20 Aug session, Campaign Lab bank-holiday hack night (31 Aug), True Dating singles party (5 Sep, 30-50) and September Shoreditch speed dating (10 Sep, £10 early bird). September gig hunt blocked (MOTH/Sebright 503, DICE 403) — retry. Flags: Surrendered Singing + Sauna (Maze Hill, ~5 Sep) has contradictory dates on its page — manual check needed if interested; Simply Being 5Rhythms resumes 25 Sep; Campaign Lab autumn hack night 14 Sep — future anchors."
   }
 ]
