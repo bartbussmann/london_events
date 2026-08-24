@@ -2034,6 +2034,24 @@
     "added": "2026-07-24"
   },
   {
+    "id": "s-t-ntang-b-la-tarr-1994-at-close-up-first-sunday-6fa1d1ae",
+    "title": "Sátántangó (Béla Tarr, 1994) at Close-Up — first Sunday",
+    "start": "2026-09-06T13:00:00+01:00",
+    "end": "2026-09-06T21:00:00+01:00",
+    "venue": "Close-Up Film Centre",
+    "address": "97 Sclater Street, E1 6HR",
+    "url": "https://www.closeupfilmcentre.com/film_programmes/2026/bela-tarr/satantango/",
+    "source": "venue:close-up",
+    "tags": [
+      "film"
+    ],
+    "price": null,
+    "description": "Béla Tarr's legendary 7.5-hour black-and-white epic, screened in one Sunday sitting (with breaks) five minutes from home — a genuine cinephile rite of passage. Also runs Sun 13 Sep.",
+    "neighbourhood": "Shoreditch",
+    "cycle_minutes": 6,
+    "added": "2026-08-24"
+  },
+  {
     "id": "song-circle-plot-9-5eeed78f",
     "title": "Song Circle @ Plot 9",
     "start": "2026-09-06T15:00:00+01:00",
@@ -2089,6 +2107,24 @@
     "neighbourhood": "Hackney Central",
     "cycle_minutes": 12,
     "added": "2026-08-15"
+  },
+  {
+    "id": "domestic-partners-jawharp-rampressure-dig-deep-free-9dea4a24",
+    "title": "Domestic Partners + Jawharp + Rampressure + Dig Deep (free)",
+    "start": "2026-09-06T19:30:00+01:00",
+    "end": null,
+    "venue": "The Shacklewell Arms",
+    "address": "71 Shacklewell Lane, E8 2EB",
+    "url": "https://dice.fm/event/6a830a207f9df200017859ec",
+    "source": "venue:dice-shacklewell-arms",
+    "tags": [
+      "music"
+    ],
+    "price": "Free",
+    "description": "Free Sunday four-band bill in the Shacklewell back room — classic no-risk new-band night.",
+    "neighbourhood": "Dalston",
+    "cycle_minutes": 13,
+    "added": "2026-08-24"
   },
   {
     "title": "Monday Contact Improv: Class + Jam — autumn season opener",
@@ -2960,6 +2996,25 @@
     "added": "2026-08-13"
   },
   {
+    "id": "thursday-badminton-x-singles-haggerston-437ff8d5",
+    "title": "Thursday: Badminton x Singles — Haggerston",
+    "start": "2026-09-12T16:00:00+01:00",
+    "end": "2026-09-12T17:00:00+01:00",
+    "venue": "Haggerston School (sports hall)",
+    "address": "Weymouth Terrace, E2 8LS",
+    "url": "https://www.thursday.com/events/london/saturday-badminton-x-singles-shoreditch",
+    "source": "listing:thursday-dating",
+    "tags": [
+      "community",
+      "sport"
+    ],
+    "price": "Ticketed via Thursday",
+    "description": "Singles badminton tournament — friendly matches plus mingling, all levels, 28 spots. Billed 'Shoreditch' but actually at Haggerston School, five minutes away.",
+    "neighbourhood": "Haggerston",
+    "cycle_minutes": 4,
+    "added": "2026-08-24"
+  },
+  {
     "id": "doc-n-roll-more-punk-than-punk-after-eight-q-a-at-rio-cinema-aefb42ae",
     "title": "Doc'n Roll: More Punk Than Punk + After Eight (+ Q&A) at Rio Cinema",
     "start": "2026-09-12T18:00:00+01:00",
@@ -3051,6 +3106,24 @@
     "added": "2026-08-04"
   },
   {
+    "id": "garageland-sick-on-the-bus-kitchen-lover-the-clubheads-free-70d1b623",
+    "title": "Garageland: Sick On the Bus + Kitchen Lover + The Clubheads (free)",
+    "start": "2026-09-12T19:30:00+01:00",
+    "end": null,
+    "venue": "The Shacklewell Arms",
+    "address": "71 Shacklewell Lane, E8 2EB",
+    "url": "https://dice.fm/event/6a832029ac9bb90001b1fa44",
+    "source": "venue:dice-shacklewell-arms",
+    "tags": [
+      "music"
+    ],
+    "price": "Free",
+    "description": "Free Saturday garage-punk night from the Garageland crew with three bands.",
+    "neighbourhood": "Dalston",
+    "cycle_minutes": 13,
+    "added": "2026-08-24"
+  },
+  {
     "id": "the-london-barndance-company-live-band-barn-dance-6314f5a7",
     "title": "The London Barndance Company — live band barn dance",
     "start": "2026-09-12T20:00:00+01:00",
@@ -3126,6 +3199,43 @@
     "neighbourhood": "Barbican",
     "cycle_minutes": 15,
     "added": "2026-08-19"
+  },
+  {
+    "id": "s-t-ntang-b-la-tarr-1994-at-close-up-second-sunday-46a1cd49",
+    "title": "Sátántangó (Béla Tarr, 1994) at Close-Up — second Sunday",
+    "start": "2026-09-13T13:00:00+01:00",
+    "end": "2026-09-13T21:00:00+01:00",
+    "venue": "Close-Up Film Centre",
+    "address": "97 Sclater Street, E1 6HR",
+    "url": "https://www.closeupfilmcentre.com/film_programmes/2026/bela-tarr/satantango/",
+    "source": "venue:close-up",
+    "tags": [
+      "film"
+    ],
+    "price": null,
+    "description": "Second chance at Béla Tarr's 7.5-hour epic — 1pm Sunday sitting at the Sclater Street cinema. Clashes with Open House Sunday if you booked tours.",
+    "neighbourhood": "Shoreditch",
+    "cycle_minutes": 6,
+    "added": "2026-08-24"
+  },
+  {
+    "id": "thursday-singles-guided-tour-at-the-v-a-e8b00b3a",
+    "title": "Thursday: Singles Guided Tour at the V&A",
+    "start": "2026-09-13T13:30:00+01:00",
+    "end": "2026-09-13T17:30:00+01:00",
+    "venue": "Victoria and Albert Museum",
+    "address": "Cromwell Rd, SW7 2RL",
+    "url": "https://www.thursday.com/events/london/sunday-singles-museum-walk-and-lunch-v-a-5",
+    "source": "listing:thursday-dating",
+    "tags": [
+      "community",
+      "art"
+    ],
+    "price": "Ticketed via Thursday",
+    "description": "Singles-only guided tour of the V&A in groups of max 20, with mingling breaks and lunch after. Tube beats bike out west.",
+    "neighbourhood": "South Kensington",
+    "cycle_minutes": 50,
+    "added": "2026-08-24"
   },
   {
     "id": "open-house-brutalism-high-tech-walking-tour-barbican-to-lloy-d1cb9371",
@@ -3292,6 +3402,24 @@
     "neighbourhood": "Barbican",
     "cycle_minutes": 15,
     "added": "2026-08-17"
+  },
+  {
+    "id": "thursday-singles-pub-quiz-night-at-21soho-14-sep-518646dd",
+    "title": "Thursday: Singles Pub Quiz Night at 21Soho (14 Sep)",
+    "start": "2026-09-14T19:00:00+01:00",
+    "end": "2026-09-14T22:00:00+01:00",
+    "venue": "21Soho",
+    "address": "3-5 Sutton Row, W1D 4NR",
+    "url": "https://www.thursday.com/events/london/monday-pub-quiz-night-soho-copy",
+    "source": "listing:thursday-dating",
+    "tags": [
+      "community"
+    ],
+    "price": "Ticketed via Thursday",
+    "description": "Singles pub quiz takeover — come solo and get placed on a mixed team.",
+    "neighbourhood": "Soho",
+    "cycle_minutes": 30,
+    "added": "2026-08-24"
   },
   {
     "title": "Neumatic Parlo + Houndshark at Sebright Arms",
@@ -3622,6 +3750,24 @@
     "cycle_minutes": 28
   },
   {
+    "id": "thursday-let-us-match-you-25-35-singles-matchbox-night-cf2cad76",
+    "title": "Thursday: Let Us Match You — 25-35 Singles (Matchbox night)",
+    "start": "2026-09-17T19:00:00+01:00",
+    "end": "2026-09-17T23:00:00+01:00",
+    "venue": "The Escapologist",
+    "address": "35 Earlham St, Seven Dials, WC2H 9LD",
+    "url": "https://www.thursday.com/events/london/thursday-bank-holiday-kick-off-bubba-oasis-rooftop-copy",
+    "source": "listing:thursday-dating",
+    "tags": [
+      "community"
+    ],
+    "price": "Ticketed via Thursday",
+    "description": "25-35 singles night where the Matchbox algorithm pairs you with your most compatible match in the room. Third option that night alongside the Roman Road book club and KX rooftop.",
+    "neighbourhood": "Covent Garden",
+    "cycle_minutes": 25,
+    "added": "2026-08-24"
+  },
+  {
     "id": "open-house-bishopsgate-goodsyard-behind-the-hoarding-at-the--2f7700ca",
     "title": "Open House: Bishopsgate Goodsyard — behind the hoarding at the Braithwaite Arches",
     "start": "2026-09-18T11:00:00+01:00",
@@ -3658,6 +3804,24 @@
     "neighbourhood": "London Fields",
     "cycle_minutes": 10,
     "added": "2026-08-13"
+  },
+  {
+    "id": "thursday-singles-hide-and-seek-chicken-rush-a70288c4",
+    "title": "Thursday: SINGLES Hide and Seek (Chicken Rush)",
+    "start": "2026-09-18T18:00:00+01:00",
+    "end": "2026-09-18T23:30:00+01:00",
+    "venue": "Bat & Ball Covent Garden (start point)",
+    "address": "50 Earlham St, WC2H 9LJ",
+    "url": "https://www.thursday.com/events/london/friday-singles-chicken-rush-london-copy",
+    "source": "listing:thursday-dating",
+    "tags": [
+      "community"
+    ],
+    "price": "Ticketed via Thursday",
+    "description": "Mixed teams of singles race around central London pubs hunting a person dressed as a giant chicken — part game, part pub crawl; round 2 after a sold-out first edition.",
+    "neighbourhood": "Covent Garden",
+    "cycle_minutes": 25,
+    "added": "2026-08-24"
   },
   {
     "id": "luke-haines-the-auteurs-the-lighthouse-at-the-lexington-b9027b84",
@@ -4669,6 +4833,24 @@
     "added": "2026-08-19"
   },
   {
+    "id": "sunday-service-matinee-kaspar-hauser-elephant-at-the-victori-434c1470",
+    "title": "Sunday Service matinee: Kaspar Hauser + Elephant at The Victoria",
+    "start": "2026-09-27T14:00:00+01:00",
+    "end": null,
+    "venue": "The Victoria",
+    "address": "451 Queensbridge Road, E8 3AS",
+    "url": "https://dice.fm/event/6a57416cd82d630001121e17",
+    "source": "venue:dice-the-victoria",
+    "tags": [
+      "music"
+    ],
+    "price": "£9.69",
+    "description": "Sunday-afternoon matinee show in the Victoria's small back room.",
+    "neighbourhood": "Dalston",
+    "cycle_minutes": 12,
+    "added": "2026-08-24"
+  },
+  {
     "id": "reset-the-nervous-system-with-tre-5cc5dc14",
     "title": "Reset The Nervous System with TRE",
     "start": "2026-09-27T15:30:00+01:00",
@@ -4742,6 +4924,24 @@
     "added": "2026-08-09"
   },
   {
+    "id": "obl-presents-lelia-love-tutorial-taylor-rae-grande-c34e9b71",
+    "title": "OBL Presents: LELIA / Love Tutorial / Taylor Rae Grande",
+    "start": "2026-09-28T19:30:00+01:00",
+    "end": null,
+    "venue": "The Old Blue Last",
+    "address": "38 Great Eastern Street, EC2A 3ES",
+    "url": "https://dice.fm/event/6a84862c38ea1e0001651102",
+    "source": "venue:dice-the-old-blue-last",
+    "tags": [
+      "music"
+    ],
+    "price": "£5",
+    "description": "Fiver Monday-night new-band triple bill upstairs at the Old Blue Last.",
+    "neighbourhood": "Shoreditch",
+    "cycle_minutes": 7,
+    "added": "2026-08-24"
+  },
+  {
     "id": "tim-key-loganberry-at-wilton-s-music-hall-28-sep-3-oct-b9614634",
     "title": "Tim Key: Loganberry at Wilton's Music Hall (28 Sep - 3 Oct)",
     "start": "2026-09-28T19:45:00+01:00",
@@ -4777,6 +4977,24 @@
     "neighbourhood": "Hackney Central",
     "cycle_minutes": 12,
     "added": "2026-08-09"
+  },
+  {
+    "id": "doom-club-meaner-loy-free-at-the-old-blue-last-e866ea8a",
+    "title": "Doom Club + Meaner Loy (free) at The Old Blue Last",
+    "start": "2026-09-29T20:00:00+01:00",
+    "end": null,
+    "venue": "The Old Blue Last",
+    "address": "38 Great Eastern Street, EC2A 3ES",
+    "url": "https://dice.fm/event/6a882c599dda5c000186ff82",
+    "source": "venue:dice-the-old-blue-last",
+    "tags": [
+      "music"
+    ],
+    "price": "Free",
+    "description": "Free Tuesday-night live double bill — £0 ticket via DICE.",
+    "neighbourhood": "Shoreditch",
+    "cycle_minutes": 7,
+    "added": "2026-08-24"
   },
   {
     "id": "movement-lab-taster-london-fields-ee7d8f93",
@@ -6073,6 +6291,24 @@
     "neighbourhood": "Angel",
     "cycle_minutes": 20,
     "added": "2026-08-17"
+  },
+  {
+    "id": "drum-tower-gloop-unit-dogs-of-at-the-shacklewell-arms-e1722b06",
+    "title": "Drum Tower + Gloop Unit + Dogs Of... at The Shacklewell Arms",
+    "start": "2026-10-23T20:00:00+01:00",
+    "end": null,
+    "venue": "The Shacklewell Arms",
+    "address": "71 Shacklewell Lane, E8 2EB",
+    "url": "https://dice.fm/event/6a7b17a4e7539900015e122c",
+    "source": "venue:dice-shacklewell-arms",
+    "tags": [
+      "music"
+    ],
+    "price": "£8",
+    "description": "Friday-night three-band bill at the Shacklewell for £8.",
+    "neighbourhood": "Dalston",
+    "cycle_minutes": 13,
+    "added": "2026-08-24"
   },
   {
     "id": "sex-psychedelics-talks-performance-social-d38a3371",

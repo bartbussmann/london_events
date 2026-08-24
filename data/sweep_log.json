@@ -1,5 +1,11 @@
 [
   {
+    "ran_at": "2026-08-24T07:55:00+01:00",
+    "added": 13,
+    "considered": 255,
+    "notes": "ACX-day sweep — list NOT published yet (Open Thread 448 up, only College EA call; LessWrong GraphQL shows no London event either; keep daily checks). SÁTÁNTANGÓ CRACKED: Close-Up confirmed Sun 6 + Sun 13 Sep, both 1pm — both Sundays added (7.5h sittings; 13 Sep clashes with Open House). Added 13: Thursday x5 (badminton at Haggerston School E2 12 Sep, V&A guided tour 13 Sep, pub quiz 14 Sep, 25-35 Matchbox night 17 Sep, singles Hide-and-Seek chicken chase 18 Sep — round 2 after sellout); DICE x6 (free Shacklewell bills 6 + 12 Sep, Victoria Sunday matinee 27 Sep £9.69, £5 OBL 28 Sep, free OBL 29 Sep, Drum Tower Shacklewell 23 Oct £8). JUDGE REJECTED 5 scout candidates as duplicates under variant titles/URLs: Timmermann talk 16 Sep, Art of Play 19 Sep, Luminous full-moon 26 Sep, Movement Lab 30 Sep, EmboDAYfest 17 Oct — all already on calendar. Watchlist: Auld Shillelagh Sept rota STILL unposted; no Moth StorySLAM; EDL October Saturdays unpublished (feed ends 1 Oct); Earl Sweatshirt & MIKE at EartH 31 Aug £44 noted-not-added. DICE spares: J.Zunz OBL 11 Nov, System Olympia 23 Sep, Air.wav PDV 14 Oct, moonlight. Sebright 23 Oct, Mantaraybryn Halloween Ball 30 Oct."
+  },
+  {
     "ran_at": "2026-08-23T07:55:00+01:00",
     "added": 17,
     "considered": 160,
@@ -172,11 +178,5 @@
     "added": 6,
     "considered": 31,
     "notes": "Daily sweep. ICS: 0 new; 6 pruned (part 1). Added: T.W.C 5Rhythms this Thursday (re-added, weekly), Tuesday life drawing at Hackney Picturehouse (11 Aug, 10 min), Møtrik krautrock + lina sounds EP launch at Paper Dress (19 Aug / 3 Sep), Surrendered Singing + Sauna (4 Sep — page timezone bug decoded: really 6-9:30pm, confirm before booking), Uyen Luu September opener (4 Sep). Sebright has no 1-4 Sep gigs (next 14-15 Sep); T.W.C September dates and Ration Club September not posted yet."
-  },
-  {
-    "ran_at": "2026-07-27T07:50:00+01:00",
-    "added": 4,
-    "considered": 85,
-    "notes": "Daily sweep, September gig-circuit retry — SUCCESS via DICE canonical slugs (recorded in sources.yaml). ICS: 0 new; 6 pruned (part 1). Added: Carson McHone alt-country at Shacklewell (25 Aug), Sean McVerry at Old Blue Last + WARBY at SJQ (both 2 Sep), Automatic at MOTH (3 Sep). Caught Hovvdy duplicate (note: its price rose £11 -> £25, early tiers selling). MOTION 5Rhythms 24 Aug still fails verified-date rule (recurring-Mondays page, no dated listing). Kirtan (11-13 Sep) and Simply Being 5Rhythms (25 Sep) queued for when window reaches them."
   }
 ]
