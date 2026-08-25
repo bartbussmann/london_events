@@ -5,166 +5,6 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:London Events
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
-UID:forage-and-meditate-on-london-canals-august-edition-ef329a80@london-ev
- ents
-DTSTAMP:20260822T090000Z
-DTSTART:20260822T090000Z
-DTEND:20260822T120000Z
-SUMMARY:Forage and Meditate on London Canals (August edition)
-DESCRIPTION:Guided mindful foraging walk with the Barefoot Forager along t
- he canal towards Hackney Marshes — late-summer wild plants and mushroom
- s\, seasonal tastings\, closing meditation.\nPrice: £20-30 tiered\nhttps
- ://dandelion.events/e/n4h43
-URL:https://dandelion.events/e/n4h43
-LOCATION:Hackney Wick canalside (meet near station)\, Hackney Wick
-END:VEVENT
-BEGIN:VEVENT
-UID:m-c-escher-the-exhibition-final-fortnight-until-6-sep-fd96676a@london-
- events
-DTSTAMP:20260822T090000Z
-DTSTART:20260822T090000Z
-DTEND:20260822T110000Z
-SUMMARY:M.C. Escher. The Exhibition — final fortnight (until 6 Sep)
-DESCRIPTION:150+ works of impossible geometry and metamorphosis — closes
-  6 Sep\, open daily 10am-8pm\; a weekday evening slot dodges the weekend 
- queues. Listed here on a suggested Saturday\; any date before 6 Sep works
- .\nPrice: from £16.50\nhttps://www.somersethouse.org.uk/whats-on/mc-esch
- er-the-exhibition
-URL:https://www.somersethouse.org.uk/whats-on/mc-escher-the-exhibition
-LOCATION:Embankment Galleries\, Somerset House\, Strand\, WC2R 1LA
-END:VEVENT
-BEGIN:VEVENT
-UID:ics-2c37cdfad8e8@london-events
-DTSTAMP:20260822T110000Z
-DTSTART:20260822T110000Z
-DTEND:20260822T143000Z
-SUMMARY:AI Safety Careers Fair
-DESCRIPTION:AI safety careers fair hosted by LISA — Saturday daytime\, e
- xact venue on the Luma page.\nhttps://luma.com/7lwe2iqk
-URL:https://luma.com/7lwe2iqk
-LOCATION:LISA (venue details on event page)
-END:VEVENT
-BEGIN:VEVENT
-UID:council-data-hack-day-campaign-lab-eb0a8ba6@london-events
-DTSTAMP:20260822T100000Z
-DTSTART:20260822T100000Z
-DTEND:20260822T200000Z
-SUMMARY:Council Data Hack Day (Campaign Lab)
-DESCRIPTION:Campaign Lab hackathon building prototypes on a new UK council
-  data scraper — transparency tools\, AI-powered search and dashboards f
- or local democracy\; coders\, designers\, researchers and idea-people all
-  welcome.\nhttps://luma.com/campaign-g74e
-URL:https://luma.com/campaign-g74e
-LOCATION:Newspeak House\, 133 Bethnal Green Road\, E2 7DG
-END:VEVENT
-BEGIN:VEVENT
-UID:thursday-singles-beach-volleyball-london-bridge-03c21e43@london-events
-DTSTAMP:20260822T110000Z
-DTSTART:20260822T110000Z
-DTEND:20260822T130000Z
-SUMMARY:Thursday: Singles Beach Volleyball — London Bridge
-DESCRIPTION:Mixed-singles beach volleyball — teams of 6 playing to 15 po
- ints\, followed by socialising. Saturday daytime\, active and outdoors.\n
- https://www.thursday.com/events/london/saturday-singles-beach-volleyball-
- london-bridge
-URL:https://www.thursday.com/events/london/saturday-singles-beach-volleyba
- ll-london-bridge
-LOCATION:Beach volleyball courts\, London Bridge (venue on booking)
-END:VEVENT
-BEGIN:VEVENT
-UID:reading-and-leeds-but-better-free-all-dayer-at-sebright-arms-d975e49e@
- london-events
-DTSTAMP:20260822T140000Z
-DTSTART:20260822T140000Z
-DTEND:20260822T160000Z
-SUMMARY:Reading and Leeds (but better) — free all-dayer at Sebright Arms
-DESCRIPTION:Free Saturday all-dayer in the Sebright basement\, cheekily pr
- ogrammed against Reading & Leeds weekend — a few streets from home.\nPr
- ice: Free\nhttps://dice.fm/event/6a709721e63a460001713b90
-URL:https://dice.fm/event/6a709721e63a460001713b90
-LOCATION:Sebright Arms\, 31-35 Coate Street\, Bethnal Green\, E2 9AG
-END:VEVENT
-BEGIN:VEVENT
-UID:wheel-throwing-taster-at-cone8-ceramics-e6e32340@london-events
-DTSTAMP:20260822T150000Z
-DTSTART:20260822T150000Z
-DTEND:20260822T173000Z
-SUMMARY:Wheel-throwing taster at Cone8 Ceramics
-DESCRIPTION:2.5-hour small-group wheel-throwing class for beginners — lo
- nger than most tasters at the same price. Also Sat 9:30am and Sun 1pm slo
- ts on 15/16\, 22/23 and 29 Aug.\nPrice: £60\nhttps://coneeight.co.uk/pro
- ducts/pottery-class-throwing
-URL:https://coneeight.co.uk/products/pottery-class-throwing
-LOCATION:Cone8 Ceramics\, Hackney Wick (address sent on booking)
-END:VEVENT
-BEGIN:VEVENT
-UID:luminous-conscious-dance-full-moon-edition-85a5b701@london-events
-DTSTAMP:20260822T170000Z
-DTSTART:20260822T170000Z
-DTEND:20260822T200000Z
-SUMMARY:Luminous Conscious Dance — Full Moon Edition
-DESCRIPTION:Full-moon ecstatic/conscious dance journey in a north London c
- hurch hall — barefoot\, sober\, mixed crowd.\nhttps://dandelion.events/
- e/c2u9b
-URL:https://dandelion.events/e/c2u9b
-LOCATION:St Mary's Hornsey Rise\, Ashley Rd\, N19 3AF
-END:VEVENT
-BEGIN:VEVENT
-UID:jahnavi-harrison-an-evening-of-kirtan-and-song-cb25ebff@london-events
-DTSTAMP:20260822T173000Z
-DTSTART:20260822T173000Z
-DTEND:20260822T193000Z
-SUMMARY:Jahnavi Harrison — An Evening of Kirtan and Song
-DESCRIPTION:GRAMMY-nominated devotional artist Jahnavi Harrison leads an e
- vening of soulful kirtan and mantra song in the candlelit Union Chapel\; 
- optional pre-show supper from 6pm.\nhttps://unionchapel.org.uk/whats-on/j
- ahnavi-harrison
-URL:https://unionchapel.org.uk/whats-on/jahnavi-harrison
-LOCATION:Union Chapel\, Compton Terrace\, N1 2UN
-END:VEVENT
-BEGIN:VEVENT
-UID:angel-comedy-saturdays-at-the-bill-murray-ae2d7a8f@london-events
-DTSTAMP:20260822T180000Z
-DTSTART:20260822T180000Z
-DTEND:20260822T200000Z
-SUMMARY:Angel Comedy Saturdays at The Bill Murray
-DESCRIPTION:Saturday 7pm stand-up showcase at Angel Comedy's dedicated clu
- b — strong mixed bills in an intimate room\, with a 9pm show after if y
- ou want to double up.\nPrice: £11-£14\nhttps://www.angelcomedy.co.uk/ev
- ent-detail/angel-comedy-saturdays-7pm-sat-22nd-aug-the-bill-murray-london
- -tickets-202608221900/
-URL:https://www.angelcomedy.co.uk/event-detail/angel-comedy-saturdays-7pm-
- sat-22nd-aug-the-bill-murray-london-tickets-202608221900/
-LOCATION:The Bill Murray\, 39 Queen's Head St\, N1 8NQ
-END:VEVENT
-BEGIN:VEVENT
-UID:angel-comedy-saturdays-camden-head-free-22-aug-5d2ecd93@london-events
-DTSTAMP:20260822T190000Z
-DTSTART:20260822T190000Z
-DTEND:20260822T210000Z
-SUMMARY:Angel Comedy Saturdays @ Camden Head (Free) — 22 Aug
-DESCRIPTION:Free Saturday mixed-bill showcase at 8pm.\nPrice: Free\nhttps:
- //www.angelcomedy.co.uk/event-detail/angel-comedy-saturdays-camden-head-f
- ree-8pm-sat-22nd-aug-the-camden-head-london-tickets-202608222000
-URL:https://www.angelcomedy.co.uk/event-detail/angel-comedy-saturdays-camd
- en-head-free-8pm-sat-22nd-aug-the-camden-head-london-tickets-202608222000
-LOCATION:The Camden Head\, 2 Camden Walk\, Islington\, N1 8DY
-END:VEVENT
-BEGIN:VEVENT
-UID:stolen-moments-granfergo-at-servant-jazz-quarters-cedd8a68@london-even
- ts
-DTSTAMP:20260822T190000Z
-DTSTART:20260822T190000Z
-DTEND:20260822T210000Z
-SUMMARY:Stolen Moments: Granfergo at Servant Jazz Quarters
-DESCRIPTION:Stolen Moments jazz night in SJQ's tiny basement this Saturday
- \, headlined by Granfergo.\nPrice: £16.69\nhttps://dice.fm/event/wwmvnn-
- stolen-moments-granfergo-22nd-aug-sjq-london-tickets
-URL:https://dice.fm/event/wwmvnn-stolen-moments-granfergo-22nd-aug-sjq-lon
- don-tickets
-LOCATION:Servant Jazz Quarters\, 10a Bradbury Street\, Dalston\, N16 8JN
-END:VEVENT
-BEGIN:VEVENT
 UID:rorshokito-london-2036-structured-small-group-discussion-aft-070fdc2a@
  london-events
 DTSTAMP:20260823T130000Z
@@ -403,6 +243,18 @@ DESCRIPTION:Cheap Wednesday headline show in the Sebright basement.\nPrice
 URL:https://dice.fm/event/g53vvb-scarsdale-fats-summer-headline-26th-aug-s
  ebright-arms-london-tickets
 LOCATION:Sebright Arms\, 31-35 Coate Street\, Bethnal Green\, E2 9AG
+END:VEVENT
+BEGIN:VEVENT
+UID:ics-d3934b883d9c@london-events
+DTSTAMP:20260827T170000Z
+DTSTART:20260827T170000Z
+DTEND:20260827T230000Z
+SUMMARY:MATS X LISA Summer Happy Hour
+DESCRIPTION:Summer happy hour with the MATS (ML Alignment Theory Scholars)
+  crowd at LISA — easy AI-safety social. 18:00 London start.\nhttps://lu
+ ma.com/tca2tx17
+URL:https://luma.com/tca2tx17
+LOCATION:LISA\, 25 Holywell Row\, 25 Holywell Row\, EC2A 4XE
 END:VEVENT
 BEGIN:VEVENT
 UID:imagine-the-future-of-east-london-creative-workshop-e9702b49@london-ev

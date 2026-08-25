@@ -1,229 +1,5 @@
 [
   {
-    "title": "Forage and Meditate on London Canals (August edition)",
-    "start": "2026-08-22T10:00:00+01:00",
-    "end": "2026-08-22T13:00:00+01:00",
-    "venue": "Hackney Wick canalside (meet near station)",
-    "address": "Hackney Wick",
-    "url": "https://dandelion.events/e/n4h43",
-    "source": "listing:dandelion",
-    "tags": [
-      "outdoors",
-      "workshop"
-    ],
-    "price": "£20-30 tiered",
-    "description": "Guided mindful foraging walk with the Barefoot Forager along the canal towards Hackney Marshes — late-summer wild plants and mushrooms, seasonal tastings, closing meditation.",
-    "neighbourhood": "Hackney Wick",
-    "cycle_minutes": 14,
-    "id": "forage-and-meditate-on-london-canals-august-edition-ef329a80",
-    "added": "2026-07-18"
-  },
-  {
-    "id": "m-c-escher-the-exhibition-final-fortnight-until-6-sep-fd96676a",
-    "title": "M.C. Escher. The Exhibition — final fortnight (until 6 Sep)",
-    "start": "2026-08-22T10:00:00+01:00",
-    "end": null,
-    "venue": "Embankment Galleries, Somerset House",
-    "address": "Strand, WC2R 1LA",
-    "url": "https://www.somersethouse.org.uk/whats-on/mc-escher-the-exhibition",
-    "source": "venue:somerset-house",
-    "tags": [
-      "art"
-    ],
-    "price": "from £16.50",
-    "description": "150+ works of impossible geometry and metamorphosis — closes 6 Sep, open daily 10am-8pm; a weekday evening slot dodges the weekend queues. Listed here on a suggested Saturday; any date before 6 Sep works.",
-    "neighbourhood": "Strand",
-    "cycle_minutes": 25,
-    "added": "2026-08-12"
-  },
-  {
-    "id": "ics-2c37cdfad8e8",
-    "title": "AI Safety Careers Fair",
-    "start": "2026-08-22T11:00:00+00:00",
-    "end": "2026-08-22T14:30:00+00:00",
-    "venue": "LISA (venue details on event page)",
-    "address": null,
-    "url": "https://luma.com/7lwe2iqk",
-    "source": "ics:LISA (London Initiative for Safe AI)",
-    "tags": [
-      "tech",
-      "talk"
-    ],
-    "price": null,
-    "description": "AI safety careers fair hosted by LISA — Saturday daytime, exact venue on the Luma page.",
-    "added": "2026-08-18",
-    "neighbourhood": "Shoreditch",
-    "cycle_minutes": 8
-  },
-  {
-    "title": "Council Data Hack Day (Campaign Lab)",
-    "start": "2026-08-22T11:00:00+01:00",
-    "end": "2026-08-22T21:00:00+01:00",
-    "venue": "Newspeak House",
-    "address": "133 Bethnal Green Road, E2 7DG",
-    "url": "https://luma.com/campaign-g74e",
-    "source": "venue:newspeak-house",
-    "tags": [
-      "tech",
-      "workshop",
-      "community"
-    ],
-    "price": null,
-    "description": "Campaign Lab hackathon building prototypes on a new UK council data scraper — transparency tools, AI-powered search and dashboards for local democracy; coders, designers, researchers and idea-people all welcome.",
-    "neighbourhood": "Bethnal Green",
-    "cycle_minutes": 4,
-    "id": "council-data-hack-day-campaign-lab-eb0a8ba6",
-    "added": "2026-07-18"
-  },
-  {
-    "title": "Thursday: Singles Beach Volleyball — London Bridge",
-    "start": "2026-08-22T12:00:00+01:00",
-    "end": "2026-08-22T14:00:00+01:00",
-    "venue": "Beach volleyball courts, London Bridge (venue on booking)",
-    "address": null,
-    "url": "https://www.thursday.com/events/london/saturday-singles-beach-volleyball-london-bridge",
-    "source": "listing:thursday-dating",
-    "tags": [
-      "community",
-      "outdoors"
-    ],
-    "price": null,
-    "description": "Mixed-singles beach volleyball — teams of 6 playing to 15 points, followed by socialising. Saturday daytime, active and outdoors.",
-    "neighbourhood": "London Bridge",
-    "cycle_minutes": 20,
-    "id": "thursday-singles-beach-volleyball-london-bridge-03c21e43",
-    "added": "2026-08-01"
-  },
-  {
-    "id": "reading-and-leeds-but-better-free-all-dayer-at-sebright-arms-d975e49e",
-    "title": "Reading and Leeds (but better) — free all-dayer at Sebright Arms",
-    "start": "2026-08-22T15:00:00+01:00",
-    "end": null,
-    "venue": "Sebright Arms",
-    "address": "31-35 Coate Street, Bethnal Green, E2 9AG",
-    "url": "https://dice.fm/event/6a709721e63a460001713b90",
-    "source": "venue:dice-sebright-arms",
-    "tags": [
-      "music",
-      "festival"
-    ],
-    "price": "Free",
-    "description": "Free Saturday all-dayer in the Sebright basement, cheekily programmed against Reading & Leeds weekend — a few streets from home.",
-    "neighbourhood": "Bethnal Green",
-    "cycle_minutes": 4,
-    "added": "2026-08-11"
-  },
-  {
-    "id": "wheel-throwing-taster-at-cone8-ceramics-e6e32340",
-    "title": "Wheel-throwing taster at Cone8 Ceramics",
-    "start": "2026-08-22T16:00:00+01:00",
-    "end": "2026-08-22T18:30:00+01:00",
-    "venue": "Cone8 Ceramics",
-    "address": "Hackney Wick (address sent on booking)",
-    "url": "https://coneeight.co.uk/products/pottery-class-throwing",
-    "source": "venue:cone8-studios",
-    "tags": [
-      "class"
-    ],
-    "price": "£60",
-    "description": "2.5-hour small-group wheel-throwing class for beginners — longer than most tasters at the same price. Also Sat 9:30am and Sun 1pm slots on 15/16, 22/23 and 29 Aug.",
-    "neighbourhood": "Hackney Wick",
-    "cycle_minutes": 15,
-    "added": "2026-08-13"
-  },
-  {
-    "title": "Luminous Conscious Dance — Full Moon Edition",
-    "start": "2026-08-22T18:00:00+01:00",
-    "end": "2026-08-22T21:00:00+01:00",
-    "venue": "St Mary's Hornsey Rise",
-    "address": "Ashley Rd, N19 3AF",
-    "url": "https://dandelion.events/e/c2u9b",
-    "source": "listing:dandelion",
-    "tags": [
-      "dance",
-      "community"
-    ],
-    "price": null,
-    "description": "Full-moon ecstatic/conscious dance journey in a north London church hall — barefoot, sober, mixed crowd.",
-    "neighbourhood": "Hornsey Rise",
-    "cycle_minutes": 35,
-    "id": "luminous-conscious-dance-full-moon-edition-85a5b701",
-    "added": "2026-07-30"
-  },
-  {
-    "title": "Jahnavi Harrison — An Evening of Kirtan and Song",
-    "start": "2026-08-22T18:30:00+01:00",
-    "end": null,
-    "venue": "Union Chapel",
-    "address": "Compton Terrace, N1 2UN",
-    "url": "https://unionchapel.org.uk/whats-on/jahnavi-harrison",
-    "source": "keyword-search",
-    "tags": [
-      "music",
-      "community"
-    ],
-    "price": null,
-    "description": "GRAMMY-nominated devotional artist Jahnavi Harrison leads an evening of soulful kirtan and mantra song in the candlelit Union Chapel; optional pre-show supper from 6pm.",
-    "neighbourhood": "Islington",
-    "cycle_minutes": 20,
-    "id": "jahnavi-harrison-an-evening-of-kirtan-and-song-cb25ebff",
-    "added": "2026-07-15"
-  },
-  {
-    "title": "Angel Comedy Saturdays at The Bill Murray",
-    "start": "2026-08-22T19:00:00+01:00",
-    "end": null,
-    "venue": "The Bill Murray",
-    "address": "39 Queen's Head St, N1 8NQ",
-    "url": "https://www.angelcomedy.co.uk/event-detail/angel-comedy-saturdays-7pm-sat-22nd-aug-the-bill-murray-london-tickets-202608221900/",
-    "source": "keyword-search",
-    "tags": [
-      "comedy"
-    ],
-    "price": "£11-£14",
-    "description": "Saturday 7pm stand-up showcase at Angel Comedy's dedicated club — strong mixed bills in an intimate room, with a 9pm show after if you want to double up.",
-    "neighbourhood": "Angel",
-    "cycle_minutes": 18,
-    "id": "angel-comedy-saturdays-at-the-bill-murray-ae2d7a8f",
-    "added": "2026-07-30"
-  },
-  {
-    "id": "angel-comedy-saturdays-camden-head-free-22-aug-5d2ecd93",
-    "title": "Angel Comedy Saturdays @ Camden Head (Free) — 22 Aug",
-    "start": "2026-08-22T20:00:00+01:00",
-    "end": null,
-    "venue": "The Camden Head",
-    "address": "2 Camden Walk, Islington, N1 8DY",
-    "url": "https://www.angelcomedy.co.uk/event-detail/angel-comedy-saturdays-camden-head-free-8pm-sat-22nd-aug-the-camden-head-london-tickets-202608222000",
-    "source": "venue:angel-comedy",
-    "tags": [
-      "comedy"
-    ],
-    "price": "Free",
-    "description": "Free Saturday mixed-bill showcase at 8pm.",
-    "neighbourhood": "Angel",
-    "cycle_minutes": 18,
-    "added": "2026-08-13"
-  },
-  {
-    "id": "stolen-moments-granfergo-at-servant-jazz-quarters-cedd8a68",
-    "title": "Stolen Moments: Granfergo at Servant Jazz Quarters",
-    "start": "2026-08-22T20:00:00+01:00",
-    "end": null,
-    "venue": "Servant Jazz Quarters",
-    "address": "10a Bradbury Street, Dalston, N16 8JN",
-    "url": "https://dice.fm/event/wwmvnn-stolen-moments-granfergo-22nd-aug-sjq-london-tickets",
-    "source": "venue:dice-sjq",
-    "tags": [
-      "music"
-    ],
-    "price": "£16.69",
-    "description": "Stolen Moments jazz night in SJQ's tiny basement this Saturday, headlined by Granfergo.",
-    "neighbourhood": "Dalston",
-    "cycle_minutes": 15,
-    "added": "2026-08-21"
-  },
-  {
     "id": "rorshokito-london-2036-structured-small-group-discussion-aft-070fdc2a",
     "title": "Rorshokito: London 2036 — structured small-group discussion afternoon",
     "start": "2026-08-23T14:00:00+01:00",
@@ -538,6 +314,25 @@
     "neighbourhood": "Bethnal Green",
     "cycle_minutes": 4,
     "added": "2026-08-04"
+  },
+  {
+    "id": "ics-d3934b883d9c",
+    "title": "MATS X LISA Summer Happy Hour",
+    "start": "2026-08-27T17:00:00+00:00",
+    "end": "2026-08-27T23:00:00+00:00",
+    "venue": "LISA, 25 Holywell Row",
+    "address": "25 Holywell Row, EC2A 4XE",
+    "url": "https://luma.com/tca2tx17",
+    "source": "ics:LISA (London Initiative for Safe AI)",
+    "tags": [
+      "tech",
+      "community"
+    ],
+    "price": null,
+    "description": "Summer happy hour with the MATS (ML Alignment Theory Scholars) crowd at LISA — easy AI-safety social. 18:00 London start.",
+    "added": "2026-08-25",
+    "neighbourhood": "Shoreditch",
+    "cycle_minutes": 8
   },
   {
     "title": "Imagine the Future of East London — creative workshop",
