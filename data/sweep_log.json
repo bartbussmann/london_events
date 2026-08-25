@@ -1,5 +1,11 @@
 [
   {
+    "ran_at": "2026-08-25T07:55:00+01:00",
+    "added": 17,
+    "considered": 95,
+    "notes": "Comedy pipeline + fringe second pass + classes. Added 17: Angel Comedy free Sept x4 (5/9/18/26 — RAW runs every weeknight if more wanted); BACKYARD COMEDY CLUB discovered as walking-distance venue — free Comedy Hump Wednesdays (2 Sep entry) + Saturday showcase 12 Sep £16-24 (£3-5 Tuesday Knockout too); Ha Ha Hackney fundraiser EartH 27 Sep; SHOREDITCH TOWN HALL first sweep (SiteGround captcha — headless): ThisEgg 'unfortunately' 22-26 Sep PWYC, 16 Acts 160th-birthday night 9 Oct £16, Ceilidh The Musical 23 Oct-13 Nov; Arcola autumn: Hannah Arendt play 8 Oct-7 Nov + Master Builder Ibsen 16 Oct-21 Nov; Hoxton Hall: Jazz Sabbath 10 Oct + Hayden Thorpe (Wild Beasts) 18 Nov; Crown Works Sept mug taster 18 Sep £60; Ecuadorian Migrateful 30 Sep £60; Halley life drawing 2 Sep. SKIPPED: Yard Live Drafts 25 Sep + 9 Oct (17:00 Friday starts — weekday rule); MOTH/EartH show no Knock2bag October (knock2bag.co.uk domain now unrelated). ICS: MATS x LISA happy hour 27 Aug kept. DEAD/BLOCKED: BAC 502s; Migrateful Oct + life-drawing Oct unpublished (~2 wks); Auld Shillelagh Sept rota + ACX STILL unposted. Yard LEAR ~16 Nov placeholder time — verify later. Hoxton spares: Buckingham Nicks 3 Sep, Howling Bells 6 Nov, NIA SMITH 8 Oct."
+  },
+  {
     "ran_at": "2026-08-24T07:55:00+01:00",
     "added": 13,
     "considered": 255,
@@ -172,11 +178,5 @@
     "added": 5,
     "considered": 38,
     "notes": "Daily sweep. ICS: 0 new; 3 pruned (part 1). Added: Lammas Games community play day (Sat 1 Aug), Emotional Freedom Inquiry August edition, In The Neighbourhood free festival at Victoria Park (24-27 Aug, 8 min — daytime-rule exception justified: free drop-in on the doorstep with evening programming), Stella Prince folk bill at Green Note (1 Sep), September PsySoc Heath walk. Still unfindable: MVMNT dates, Ceroc Party of the Year 2026, in-window AI safety talks (Iliad 7 Sep + MATS 28 Sep are fellowships/conferences), verifiable pottery-wheel dates (booking widgets opaque)."
-  },
-  {
-    "ran_at": "2026-07-28T07:55:00+01:00",
-    "added": 6,
-    "considered": 31,
-    "notes": "Daily sweep. ICS: 0 new; 6 pruned (part 1). Added: T.W.C 5Rhythms this Thursday (re-added, weekly), Tuesday life drawing at Hackney Picturehouse (11 Aug, 10 min), Møtrik krautrock + lina sounds EP launch at Paper Dress (19 Aug / 3 Sep), Surrendered Singing + Sauna (4 Sep — page timezone bug decoded: really 6-9:30pm, confirm before booking), Uyen Luu September opener (4 Sep). Sebright has no 1-4 Sep gigs (next 14-15 Sep); T.W.C September dates and Ration Club September not posted yet."
   }
 ]

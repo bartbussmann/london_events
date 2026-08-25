@@ -883,6 +883,20 @@ URL:https://dandelion.events/e/h9piz
 LOCATION:The Sanctuary &Soul\, 114 Cheshire Street\, E2 6EJ
 END:VEVENT
 BEGIN:VEVENT
+UID:life-drawing-at-the-halley-with-hannah-9ae3ecbe@london-events
+DTSTAMP:20260902T173000Z
+DTSTART:20260902T173000Z
+DTEND:20260902T193000Z
+SUMMARY:Life Drawing at The Halley with Hannah
+DESCRIPTION:Relaxed pub life-drawing from the attic-nights organisers\, at
+  The Halley in De Beauvoir — materials provided.\nPrice: from ~£15\nht
+ tps://www.eventbrite.co.uk/e/life-drawing-at-the-halley-with-hannah-ticke
+ ts-1998692322540
+URL:https://www.eventbrite.co.uk/e/life-drawing-at-the-halley-with-hannah-
+ tickets-1998692322540
+LOCATION:The Halley\, 2-10 Hertford Road\, De Beauvoir\, N1 5ET
+END:VEVENT
+BEGIN:VEVENT
 UID:thursday-30-new-venue-singles-night-at-oche-the-strand-4f0c859b@london
  -events
 DTSTAMP:20260902T180000Z
@@ -939,6 +953,22 @@ DESCRIPTION:Ntozake Shange's landmark choreopoem — poetry\, movement and
 URL:https://www.theyardtheatre.co.uk/events/for-colored-girls
 LOCATION:The Yard Theatre\, Queen's Yard\, White Post Lane\, Hackney Wick\
  , E9 5EN
+END:VEVENT
+BEGIN:VEVENT
+UID:the-comedy-hump-free-night-at-backyard-comedy-club-3406e540@london-eve
+ nts
+DTSTAMP:20260902T190000Z
+DTSTART:20260902T190000Z
+DTEND:20260902T210000Z
+SUMMARY:The Comedy Hump — free night at Backyard Comedy Club
+DESCRIPTION:Free Wednesday night at London's purpose-built East End comedy
+  club — big-name drop-ins alongside rising acts\, walking distance from
+  home. Runs most Wednesdays.\nPrice: Free\nhttps://backyardcomedyclub.co.
+ uk/event/link/?ceId=8989a3c3-55aa-4123-a548-48276821be6a
+URL:https://backyardcomedyclub.co.uk/event/link/?ceId=8989a3c3-55aa-4123-a
+ 548-48276821be6a
+LOCATION:Backyard Comedy Club\, 231 Cambridge Heath Rd\, Bethnal Green\, E
+ 2 0EL
 END:VEVENT
 BEGIN:VEVENT
 UID:jacqui-mcshee-s-pentangle-junior-brother-at-earth-9e81b40a@london-even
@@ -1364,6 +1394,18 @@ URL:https://howtoacademy.com/events/james-marriott-the-new-dark-ages/
 LOCATION:Conway Hall\, 25 Red Lion Square\, WC1R 4RL
 END:VEVENT
 BEGIN:VEVENT
+UID:angel-comedy-saturdays-camden-head-free-5-sep-2776741a@london-events
+DTSTAMP:20260905T183000Z
+DTSTART:20260905T183000Z
+DTEND:20260905T203000Z
+SUMMARY:Angel Comedy Saturdays @ Camden Head (Free) — 5 Sep
+DESCRIPTION:Free Saturday showcase mixing circuit pros and rising acts. Ar
+ rive early\; a 9:30pm second show runs if the first fills.\nPrice: Free\n
+ https://www.angelcomedy.co.uk/whats-on/
+URL:https://www.angelcomedy.co.uk/whats-on/
+LOCATION:The Camden Head\, 2 Camden Walk\, Islington\, N1 8DY
+END:VEVENT
+BEGIN:VEVENT
 UID:the-wellness-social-reformer-pilates-sauna-brunch-at-soul-f6d5877e@lon
  don-events
 DTSTAMP:20260906T090000Z
@@ -1783,6 +1825,18 @@ DESCRIPTION:Two strangers meet at a memorial on their estate and end up jo
  e/
 URL:https://www.arcolatheatre.com/event/fire-fire/
 LOCATION:Arcola Theatre\, Studio 2\, 24 Ashwin Street\, Dalston\, E8 3DL
+END:VEVENT
+BEGIN:VEVENT
+UID:angel-comedy-raw-wednesdays-free-9-sep-0b04e001@london-events
+DTSTAMP:20260909T183000Z
+DTSTART:20260909T183000Z
+DTEND:20260909T203000Z
+SUMMARY:Angel Comedy RAW Wednesdays (Free) — 9 Sep
+DESCRIPTION:Midweek RAW new-material night — established comics testing 
+ fresh stuff. Free entry\, bucket donation.\nPrice: Free\nhttps://www.ange
+ lcomedy.co.uk/whats-on/
+URL:https://www.angelcomedy.co.uk/whats-on/
+LOCATION:The Camden Head\, 2 Camden Walk\, Islington\, N1 8DY
 END:VEVENT
 BEGIN:VEVENT
 UID:the-moth-mainstage-tightrope-6f8134e9@london-events
@@ -2226,6 +2280,21 @@ DESCRIPTION:Zesty live music and high-energy dancing — English tradition
 URL:https://www.cecilsharphouse.org/whats-on/27-dances/15735-the-london-ba
  rndance-company-2026
 LOCATION:Cecil Sharp House\, 2 Regent's Park Road\, NW1 7AY
+END:VEVENT
+BEGIN:VEVENT
+UID:saturdays-at-backyard-weekend-showcase-ff23c192@london-events
+DTSTAMP:20260912T190000Z
+DTSTART:20260912T190000Z
+DTEND:20260912T210000Z
+SUMMARY:Saturdays at Backyard — weekend showcase
+DESCRIPTION:Flagship Saturday bill — four pro circuit acts\, 'West End s
+ hows at East End prices'\, on your doorstep.\nPrice: £16-£24\nhttps://b
+ ackyardcomedyclub.co.uk/event/link/?ceId=9f30a2b8-1d56-4ff6-9e93-6a0cb54e
+ da36
+URL:https://backyardcomedyclub.co.uk/event/link/?ceId=9f30a2b8-1d56-4ff6-9
+ e93-6a0cb54eda36
+LOCATION:Backyard Comedy Club\, 231 Cambridge Heath Rd\, Bethnal Green\, E
+ 2 0EL
 END:VEVENT
 BEGIN:VEVENT
 UID:open-house-trellick-tower-flat-tour-goldfinger-1972-2758100a@london-ev
@@ -2749,6 +2818,21 @@ URL:https://www.thursday.com/events/london/friday-singles-chicken-rush-lon
 LOCATION:Bat & Ball Covent Garden (start point)\, 50 Earlham St\, WC2H 9LJ
 END:VEVENT
 BEGIN:VEVENT
+UID:mug-handbuilding-taster-at-crown-works-pottery-september-a7bf8ab3@lond
+ on-events
+DTSTAMP:20260918T173000Z
+DTSTART:20260918T173000Z
+DTEND:20260918T193000Z
+SUMMARY:Mug Handbuilding Taster at Crown Works Pottery (September)
+DESCRIPTION:Two-hour beginners' handbuilding session making your own mug\,
+  five minutes from home. Wheel tasters also run most Fri-Sun at £70.\nPr
+ ice: £60\nhttps://www.crownworkspottery.com/taster-sessions/tastersessio
+ nsmarchapril-lya2l-l244p-na4cn-gwd8g-f59ag-7dm5l
+URL:https://www.crownworkspottery.com/taster-sessions/tastersessionsmarcha
+ pril-lya2l-l244p-na4cn-gwd8g-f59ag-7dm5l
+LOCATION:Crown Works Pottery\, Temple Street\, Bethnal Green\, E2
+END:VEVENT
+BEGIN:VEVENT
 UID:luke-haines-the-auteurs-the-lighthouse-at-the-lexington-b9027b84@londo
  n-events
 DTSTAMP:20260918T180000Z
@@ -2788,6 +2872,17 @@ DESCRIPTION:The UK's leading political comic brings his passionate\, progr
 URL:https://www.hackneyempire.co.uk/events/nish-kumar-angry-humour-from-a-
  really-nice-guy
 LOCATION:Hackney Empire\, 291 Mare Street\, E8 1EJ
+END:VEVENT
+BEGIN:VEVENT
+UID:angel-comedy-fridays-camden-head-free-18-sep-d17bf21d@london-events
+DTSTAMP:20260918T183000Z
+DTSTART:20260918T183000Z
+DTEND:20260918T203000Z
+SUMMARY:Angel Comedy Fridays @ Camden Head (Free) — 18 Sep
+DESCRIPTION:Free Friday showcase\; second 9:30pm show runs the same night.
+ \nPrice: Free\nhttps://www.angelcomedy.co.uk/whats-on/
+URL:https://www.angelcomedy.co.uk/whats-on/
+LOCATION:The Camden Head\, 2 Camden Walk\, Islington\, N1 8DY
 END:VEVENT
 BEGIN:VEVENT
 UID:knees-up-cecil-sharp-ceilidh-autumn-opener-4fe28dea@london-events
@@ -3101,6 +3196,20 @@ DESCRIPTION:Sheffield folk guitarist Jim Ghedi — heavy\, drone-inflected
 URL:https://dice.fm/event/av53g7-jim-ghedi-22nd-sep-moth-club-london-ticke
  ts
 LOCATION:MOTH Club\, Old Trades Hall\, Valette Street\, E9 6NU
+END:VEVENT
+BEGIN:VEVENT
+UID:unfortunately-thisegg-at-shoreditch-town-hall-22-26-sep-f7d9f3e7@londo
+ n-events
+DTSTAMP:20260922T183000Z
+DTSTART:20260922T183000Z
+DTEND:20260922T203000Z
+SUMMARY:unfortunately — ThisEgg at Shoreditch Town Hall (22-26 Sep)
+DESCRIPTION:Award-winning company ThisEgg with a new 90-minute show about 
+ money and why we don't talk about it. Pay-what-you-can pricing tiers.\nPr
+ ice: £20 / £10 subsidised\nhttps://shoreditchtownhall.com/whats-on/unfo
+ rtunately
+URL:https://shoreditchtownhall.com/whats-on/unfortunately
+LOCATION:Shoreditch Town Hall (Assembly Hall)\, 380 Old Street\, EC1V 9LT
 END:VEVENT
 BEGIN:VEVENT
 UID:words-from-the-other-side-poetry-for-altered-states-septembe-4ff5cf1c@
@@ -3457,6 +3566,17 @@ URL:https://dice.fm/event/7dxar6-tellison-26th-sep-moth-club-london-ticket
 LOCATION:MOTH Club\, Old Trades Hall\, Valette Street\, E9 6NU
 END:VEVENT
 BEGIN:VEVENT
+UID:angel-comedy-saturdays-camden-head-free-26-sep-f13b7405@london-events
+DTSTAMP:20260926T183000Z
+DTSTART:20260926T183000Z
+DTEND:20260926T203000Z
+SUMMARY:Angel Comedy Saturdays @ Camden Head (Free) — 26 Sep
+DESCRIPTION:Month-end free Saturday showcase.\nPrice: Free\nhttps://www.an
+ gelcomedy.co.uk/whats-on/
+URL:https://www.angelcomedy.co.uk/whats-on/
+LOCATION:The Camden Head\, 2 Camden Walk\, Islington\, N1 8DY
+END:VEVENT
+BEGIN:VEVENT
 UID:vocal-playground-collaborative-vocal-improv-day-cd91b53f@london-events
 DTSTAMP:20260927T120000Z
 DTSTART:20260927T120000Z
@@ -3550,6 +3670,18 @@ URL:https://dice.fm/event/7dgglp-portals-presents-a-tota-so-poptones-salan
 LOCATION:The Old Blue Last\, 38 Great Eastern St\, EC2A 3ES
 END:VEVENT
 BEGIN:VEVENT
+UID:ha-ha-hackney-comedy-fundraiser-at-earth-f098bae8@london-events
+DTSTAMP:20260927T180000Z
+DTSTART:20260927T180000Z
+DTEND:20260927T220000Z
+SUMMARY:Ha Ha Hackney — comedy fundraiser at EartH
+DESCRIPTION:One-off comedy fundraiser for the Sedulo Foundation with a mul
+ ti-act bill in EartH Theatre.\nPrice: £25\nhttps://link.dice.fm/id866df2
+ bb2a
+URL:https://link.dice.fm/id866df2bb2a
+LOCATION:EartH Theatre\, 387 Stoke Newington Rd\, Dalston\, N16 8BJ
+END:VEVENT
+BEGIN:VEVENT
 UID:samba-tour-songlines-encounters-at-kings-place-74afef60@london-events
 DTSTAMP:20260927T190000Z
 DTSTART:20260927T190000Z
@@ -3625,6 +3757,20 @@ DESCRIPTION:Free Tuesday-night live double bill — £0 ticket via DICE.\n
  Price: Free\nhttps://dice.fm/event/6a882c599dda5c000186ff82
 URL:https://dice.fm/event/6a882c599dda5c000186ff82
 LOCATION:The Old Blue Last\, 38 Great Eastern Street\, EC2A 3ES
+END:VEVENT
+BEGIN:VEVENT
+UID:ecuadorian-cookery-class-with-judith-migrateful-f5d724d8@london-events
+DTSTAMP:20260930T171500Z
+DTSTART:20260930T171500Z
+DTEND:20260930T191500Z
+SUMMARY:Ecuadorian Cookery Class with Judith (Migrateful)
+DESCRIPTION:Hands-on Ecuadorian cookery class led by chef Judith — a gen
+ uinely rare cuisine for London classes.\nPrice: £60\nhttps://www.migrate
+ ful.org/event/ecuadorian-cookery-class-with-judith-veg-friendly-londoncoo
+ kery-school-8/
+URL:https://www.migrateful.org/event/ecuadorian-cookery-class-with-judith-
+ veg-friendly-londoncookery-school-8/
+LOCATION:Appleby Blue Almshouse\, Bermondsey\, SE1
 END:VEVENT
 BEGIN:VEVENT
 UID:movement-lab-taster-london-fields-ee7d8f93@london-events
@@ -3935,6 +4081,20 @@ URL:https://wiltons.org.uk/whats-on/incendiary-samuel-pepys-in-words-and-m
 LOCATION:Wilton's Music Hall\, 1 Graces Alley\, E1 8JB
 END:VEVENT
 BEGIN:VEVENT
+UID:the-banality-of-evil-hannah-arendt-france-1940-arcola-6bdc6195@london-
+ events
+DTSTAMP:20261008T180000Z
+DTSTART:20261008T180000Z
+DTEND:20261008T200000Z
+SUMMARY:The Banality of Evil: Hannah Arendt\, France 1940 — Arcola
+DESCRIPTION:New play about Hannah Arendt in wartime France — philosophy-
+ heavy fringe theatre next to the calendar's rationality strand.\nPrice: 
+ £15-£29 (runs to 7 Nov)\nhttps://www.arcolatheatre.com/event/the-banali
+ ty-of-evil/
+URL:https://www.arcolatheatre.com/event/the-banality-of-evil/
+LOCATION:Arcola Theatre\, 24 Ashwin Street\, Dalston\, E8 3DL
+END:VEVENT
+BEGIN:VEVENT
 UID:hajda-banda-at-kings-place-decb93ed@london-events
 DTSTAMP:20261008T190000Z
 DTSTART:20261008T190000Z
@@ -3985,6 +4145,19 @@ DESCRIPTION:Simon Amstell's new stand-up show on love\, shame and being al
  www.hackneyempire.co.uk/events/simon-amstell-i-love-it-here
 URL:https://www.hackneyempire.co.uk/events/simon-amstell-i-love-it-here
 LOCATION:Hackney Empire\, 291 Mare Street\, E8 1EJ
+END:VEVENT
+BEGIN:VEVENT
+UID:16-acts-160-years-of-shoreditch-town-hall-728cbf6c@london-events
+DTSTAMP:20261009T183000Z
+DTSTART:20261009T183000Z
+DTEND:20261009T203000Z
+SUMMARY:16 Acts — 160 Years of Shoreditch Town Hall
+DESCRIPTION:One-night 160th-birthday spectacular: 16 of the venue's most m
+ emorable artists on one bill\, 3 hours with two intervals — a proper lo
+ cal landmark night.\nPrice: £16 launch special / £22\nhttps://shoreditc
+ htownhall.com/whats-on/16-acts
+URL:https://shoreditchtownhall.com/whats-on/16-acts
+LOCATION:Shoreditch Town Hall (Assembly Hall)\, 380 Old Street\, EC1V 9LT
 END:VEVENT
 BEGIN:VEVENT
 UID:new-scientist-live-2026-public-weekend-at-excel-59a46163@london-events
@@ -4083,6 +4256,18 @@ DESCRIPTION:October edition of the live-band barn dance — same series as
 URL:https://www.cecilsharphouse.org/whats-on/27-dances/15735-the-london-ba
  rndance-company-2026
 LOCATION:Cecil Sharp House\, 2 Regent's Park Road\, London NW1 7AY
+END:VEVENT
+BEGIN:VEVENT
+UID:jazz-sabbath-at-hoxton-hall-02950705@london-events
+DTSTAMP:20261010T190000Z
+DTSTART:20261010T190000Z
+DTEND:20261010T210000Z
+SUMMARY:Jazz Sabbath at Hoxton Hall
+DESCRIPTION:Black Sabbath reimagined as 1960s piano-trio jazz\, played dea
+ dpan in a gorgeous Victorian music hall.\nPrice: see booking page\nhttps:
+ //hoxtonhall.ticketsolve.com/shows/1173650597/events
+URL:https://hoxtonhall.ticketsolve.com/shows/1173650597/events
+LOCATION:Hoxton Hall\, 130 Hoxton Street\, N1 6SH
 END:VEVENT
 BEGIN:VEVENT
 UID:alexander-technique-day-workshop-at-city-lit-6157be6e@london-events
@@ -4309,6 +4494,19 @@ DESCRIPTION:Bristol dream-punk three-piece — raw-energy post-punk/indie-
  /dice.fm/event/k6d2eq-mx-15th-oct-sebright-arms-london-tickets
 URL:https://dice.fm/event/k6d2eq-mx-15th-oct-sebright-arms-london-tickets
 LOCATION:Sebright Arms\, 31-35 Coate Street\, Bethnal Green\, E2 9AG
+END:VEVENT
+BEGIN:VEVENT
+UID:the-master-builder-ibsen-at-arcola-theatre-from-16-oct-e66b093b@london
+ -events
+DTSTAMP:20261016T180000Z
+DTSTART:20261016T180000Z
+DTEND:20261016T200000Z
+SUMMARY:The Master Builder — Ibsen at Arcola Theatre (from 16 Oct)
+DESCRIPTION:Arcola's big autumn Ibsen revival — ambition\, guilt and a f
+ atal tower\, ten minutes from home.\nPrice: £12-£39 (runs to 21 Nov)\nh
+ ttps://www.arcolatheatre.com/event/the-master-builder/
+URL:https://www.arcolatheatre.com/event/the-master-builder/
+LOCATION:Arcola Theatre\, 24 Ashwin Street\, Dalston\, E8 3DL
 END:VEVENT
 BEGIN:VEVENT
 UID:ri-discourse-cern-the-past-present-and-future-e62898d4@london-events
@@ -4585,6 +4783,20 @@ DESCRIPTION:Friday-night three-band bill at the Shacklewell for £8.\nPric
  e: £8\nhttps://dice.fm/event/6a7b17a4e7539900015e122c
 URL:https://dice.fm/event/6a7b17a4e7539900015e122c
 LOCATION:The Shacklewell Arms\, 71 Shacklewell Lane\, E8 2EB
+END:VEVENT
+BEGIN:VEVENT
+UID:ceilidh-the-musical-at-shoreditch-town-hall-from-23-oct-a57a7e44@londo
+ n-events
+DTSTAMP:20261023T190000Z
+DTSTART:20261023T190000Z
+DTEND:20261023T210000Z
+SUMMARY:Ceilidh The Musical at Shoreditch Town Hall (from 23 Oct)
+DESCRIPTION:New musical built around a live ceilidh\, taking over the Asse
+ mbly Hall 23 Oct - 13 Nov — fits the folk/barn-dance streak.\nPrice: fr
+ om £25 balcony\nhttps://shoreditchtownhall.com/whats-on/ceilidh-the-musi
+ cal
+URL:https://shoreditchtownhall.com/whats-on/ceilidh-the-musical
+LOCATION:Shoreditch Town Hall (Assembly Hall)\, 380 Old Street\, EC1V 9LT
 END:VEVENT
 BEGIN:VEVENT
 UID:sex-psychedelics-talks-performance-social-d38a3371@london-events
@@ -5129,6 +5341,20 @@ DESCRIPTION:Venetian ambient legend Gigi Masin (Gaussian Curve) plays a ra
  e.fm/event/av5x8x-gigi-masin-18th-nov-earth-london-tickets
 URL:https://dice.fm/event/av5x8x-gigi-masin-18th-nov-earth-london-tickets
 LOCATION:EartH\, 11-17 Stoke Newington Road\, Dalston\, N16 8BH
+END:VEVENT
+BEGIN:VEVENT
+UID:hayden-thorpe-performs-the-songs-of-wild-beasts-hoxton-hall-3b67b380@l
+ ondon-events
+DTSTAMP:20261118T190000Z
+DTSTART:20261118T190000Z
+DTEND:20261118T210000Z
+SUMMARY:Hayden Thorpe performs the songs of Wild Beasts — Hoxton Hall
+DESCRIPTION:Wild Beasts' frontman revisits the band's catalogue in a tiny 
+ 19th-century music hall\; second night 19 Nov. Adds to a stacked 18 Nov.\
+ nPrice: see booking page\nhttps://hoxtonhall.ticketsolve.com/shows/117367
+ 8614/events
+URL:https://hoxtonhall.ticketsolve.com/shows/1173678614/events
+LOCATION:Hoxton Hall\, 130 Hoxton Street\, N1 6SH
 END:VEVENT
 BEGIN:VEVENT
 UID:deeper-cuts-nan-rizinni-at-paper-dress-vintage-efg-london-ja-f55cb2e8@

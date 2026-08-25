@@ -1161,6 +1161,25 @@
     "added": "2026-08-04"
   },
   {
+    "id": "life-drawing-at-the-halley-with-hannah-9ae3ecbe",
+    "title": "Life Drawing at The Halley with Hannah",
+    "start": "2026-09-02T18:30:00+01:00",
+    "end": null,
+    "venue": "The Halley",
+    "address": "2-10 Hertford Road, De Beauvoir, N1 5ET",
+    "url": "https://www.eventbrite.co.uk/e/life-drawing-at-the-halley-with-hannah-tickets-1998692322540",
+    "source": "aggregator:eventbrite",
+    "tags": [
+      "art",
+      "class"
+    ],
+    "price": "from ~£15",
+    "description": "Relaxed pub life-drawing from the attic-nights organisers, at The Halley in De Beauvoir — materials provided.",
+    "neighbourhood": "De Beauvoir",
+    "cycle_minutes": 9,
+    "added": "2026-08-25"
+  },
+  {
     "id": "thursday-30-new-venue-singles-night-at-oche-the-strand-4f0c859b",
     "title": "Thursday: 30+ New Venue Singles Night at Oche, The Strand",
     "start": "2026-09-02T19:00:00+01:00",
@@ -1231,6 +1250,24 @@
     "neighbourhood": "Hackney Wick",
     "cycle_minutes": 15,
     "added": "2026-08-07"
+  },
+  {
+    "id": "the-comedy-hump-free-night-at-backyard-comedy-club-3406e540",
+    "title": "The Comedy Hump — free night at Backyard Comedy Club",
+    "start": "2026-09-02T20:00:00+01:00",
+    "end": null,
+    "venue": "Backyard Comedy Club",
+    "address": "231 Cambridge Heath Rd, Bethnal Green, E2 0EL",
+    "url": "https://backyardcomedyclub.co.uk/event/link/?ceId=8989a3c3-55aa-4123-a548-48276821be6a",
+    "source": "venue:backyard-comedy",
+    "tags": [
+      "comedy"
+    ],
+    "price": "Free",
+    "description": "Free Wednesday night at London's purpose-built East End comedy club — big-name drop-ins alongside rising acts, walking distance from home. Runs most Wednesdays.",
+    "neighbourhood": "Bethnal Green",
+    "cycle_minutes": 3,
+    "added": "2026-08-25"
   },
   {
     "title": "Jacqui McShee's Pentangle + Junior Brother at EartH",
@@ -1791,6 +1828,24 @@
     "added": "2026-08-04"
   },
   {
+    "id": "angel-comedy-saturdays-camden-head-free-5-sep-2776741a",
+    "title": "Angel Comedy Saturdays @ Camden Head (Free) — 5 Sep",
+    "start": "2026-09-05T19:30:00+01:00",
+    "end": null,
+    "venue": "The Camden Head",
+    "address": "2 Camden Walk, Islington, N1 8DY",
+    "url": "https://www.angelcomedy.co.uk/whats-on/",
+    "source": "venue:angel-comedy",
+    "tags": [
+      "comedy"
+    ],
+    "price": "Free",
+    "description": "Free Saturday showcase mixing circuit pros and rising acts. Arrive early; a 9:30pm second show runs if the first fills.",
+    "neighbourhood": "Angel",
+    "cycle_minutes": 18,
+    "added": "2026-08-25"
+  },
+  {
     "id": "the-wellness-social-reformer-pilates-sauna-brunch-at-soul-f6d5877e",
     "title": "The Wellness Social: Reformer Pilates, Sauna & Brunch at &Soul",
     "start": "2026-09-06T10:00:00+01:00",
@@ -2345,6 +2400,24 @@
     "cycle_minutes": 14,
     "id": "fire-fire-new-play-at-arcola-opening-night-7faaf5bf",
     "added": "2026-08-02"
+  },
+  {
+    "id": "angel-comedy-raw-wednesdays-free-9-sep-0b04e001",
+    "title": "Angel Comedy RAW Wednesdays (Free) — 9 Sep",
+    "start": "2026-09-09T19:30:00+01:00",
+    "end": null,
+    "venue": "The Camden Head",
+    "address": "2 Camden Walk, Islington, N1 8DY",
+    "url": "https://www.angelcomedy.co.uk/whats-on/",
+    "source": "venue:angel-comedy",
+    "tags": [
+      "comedy"
+    ],
+    "price": "Free",
+    "description": "Midweek RAW new-material night — established comics testing fresh stuff. Free entry, bucket donation.",
+    "neighbourhood": "Angel",
+    "cycle_minutes": 18,
+    "added": "2026-08-25"
   },
   {
     "id": "the-moth-mainstage-tightrope-6f8134e9",
@@ -2937,6 +3010,24 @@
     "neighbourhood": "Primrose Hill",
     "added": "2026-08-05",
     "cycle_minutes": 32
+  },
+  {
+    "id": "saturdays-at-backyard-weekend-showcase-ff23c192",
+    "title": "Saturdays at Backyard — weekend showcase",
+    "start": "2026-09-12T20:00:00+01:00",
+    "end": null,
+    "venue": "Backyard Comedy Club",
+    "address": "231 Cambridge Heath Rd, Bethnal Green, E2 0EL",
+    "url": "https://backyardcomedyclub.co.uk/event/link/?ceId=9f30a2b8-1d56-4ff6-9e93-6a0cb54eda36",
+    "source": "venue:backyard-comedy",
+    "tags": [
+      "comedy"
+    ],
+    "price": "£16-£24",
+    "description": "Flagship Saturday bill — four pro circuit acts, 'West End shows at East End prices', on your doorstep.",
+    "neighbourhood": "Bethnal Green",
+    "cycle_minutes": 3,
+    "added": "2026-08-25"
   },
   {
     "id": "open-house-trellick-tower-flat-tour-goldfinger-1972-2758100a",
@@ -3619,6 +3710,24 @@
     "added": "2026-08-24"
   },
   {
+    "id": "mug-handbuilding-taster-at-crown-works-pottery-september-a7bf8ab3",
+    "title": "Mug Handbuilding Taster at Crown Works Pottery (September)",
+    "start": "2026-09-18T18:30:00+01:00",
+    "end": "2026-09-18T20:30:00+01:00",
+    "venue": "Crown Works Pottery",
+    "address": "Temple Street, Bethnal Green, E2",
+    "url": "https://www.crownworkspottery.com/taster-sessions/tastersessionsmarchapril-lya2l-l244p-na4cn-gwd8g-f59ag-7dm5l",
+    "source": "venue:crown-works",
+    "tags": [
+      "class"
+    ],
+    "price": "£60",
+    "description": "Two-hour beginners' handbuilding session making your own mug, five minutes from home. Wheel tasters also run most Fri-Sun at £70.",
+    "neighbourhood": "Bethnal Green",
+    "cycle_minutes": 5,
+    "added": "2026-08-25"
+  },
+  {
     "id": "luke-haines-the-auteurs-the-lighthouse-at-the-lexington-b9027b84",
     "title": "Luke Haines (The Auteurs) + The Lighthouse at The Lexington",
     "start": "2026-09-18T19:00:00+01:00",
@@ -3672,6 +3781,24 @@
     "cycle_minutes": 12,
     "id": "nish-kumar-at-hackney-empire-e1ee85be",
     "added": "2026-08-02"
+  },
+  {
+    "id": "angel-comedy-fridays-camden-head-free-18-sep-d17bf21d",
+    "title": "Angel Comedy Fridays @ Camden Head (Free) — 18 Sep",
+    "start": "2026-09-18T19:30:00+01:00",
+    "end": null,
+    "venue": "The Camden Head",
+    "address": "2 Camden Walk, Islington, N1 8DY",
+    "url": "https://www.angelcomedy.co.uk/whats-on/",
+    "source": "venue:angel-comedy",
+    "tags": [
+      "comedy"
+    ],
+    "price": "Free",
+    "description": "Free Friday showcase; second 9:30pm show runs the same night.",
+    "neighbourhood": "Angel",
+    "cycle_minutes": 18,
+    "added": "2026-08-25"
   },
   {
     "title": "Knees Up Cecil Sharp Ceilidh (autumn opener)",
@@ -4087,6 +4214,24 @@
     "neighbourhood": "Hackney Central",
     "cycle_minutes": 12,
     "added": "2026-08-09"
+  },
+  {
+    "id": "unfortunately-thisegg-at-shoreditch-town-hall-22-26-sep-f7d9f3e7",
+    "title": "unfortunately — ThisEgg at Shoreditch Town Hall (22-26 Sep)",
+    "start": "2026-09-22T19:30:00+01:00",
+    "end": null,
+    "venue": "Shoreditch Town Hall (Assembly Hall)",
+    "address": "380 Old Street, EC1V 9LT",
+    "url": "https://shoreditchtownhall.com/whats-on/unfortunately",
+    "source": "venue:shoreditch-town-hall",
+    "tags": [
+      "theatre"
+    ],
+    "price": "£20 / £10 subsidised",
+    "description": "Award-winning company ThisEgg with a new 90-minute show about money and why we don't talk about it. Pay-what-you-can pricing tiers.",
+    "neighbourhood": "Shoreditch",
+    "cycle_minutes": 8,
+    "added": "2026-08-25"
   },
   {
     "id": "words-from-the-other-side-poetry-for-altered-states-septembe-4ff5cf1c",
@@ -4551,6 +4696,24 @@
     "added": "2026-08-09"
   },
   {
+    "id": "angel-comedy-saturdays-camden-head-free-26-sep-f13b7405",
+    "title": "Angel Comedy Saturdays @ Camden Head (Free) — 26 Sep",
+    "start": "2026-09-26T19:30:00+01:00",
+    "end": null,
+    "venue": "The Camden Head",
+    "address": "2 Camden Walk, Islington, N1 8DY",
+    "url": "https://www.angelcomedy.co.uk/whats-on/",
+    "source": "venue:angel-comedy",
+    "tags": [
+      "comedy"
+    ],
+    "price": "Free",
+    "description": "Month-end free Saturday showcase.",
+    "neighbourhood": "Angel",
+    "cycle_minutes": 18,
+    "added": "2026-08-25"
+  },
+  {
     "id": "vocal-playground-collaborative-vocal-improv-day-cd91b53f",
     "title": "Vocal Playground — collaborative vocal improv day",
     "start": "2026-09-27T13:00:00+01:00",
@@ -4682,6 +4845,24 @@
     "added": "2026-08-09"
   },
   {
+    "id": "ha-ha-hackney-comedy-fundraiser-at-earth-f098bae8",
+    "title": "Ha Ha Hackney — comedy fundraiser at EartH",
+    "start": "2026-09-27T19:00:00+01:00",
+    "end": "2026-09-27T23:00:00+01:00",
+    "venue": "EartH Theatre",
+    "address": "387 Stoke Newington Rd, Dalston, N16 8BJ",
+    "url": "https://link.dice.fm/id866df2bb2a",
+    "source": "venue:dice-earth",
+    "tags": [
+      "comedy"
+    ],
+    "price": "£25",
+    "description": "One-off comedy fundraiser for the Sedulo Foundation with a multi-act bill in EartH Theatre.",
+    "neighbourhood": "Dalston",
+    "cycle_minutes": 14,
+    "added": "2026-08-25"
+  },
+  {
     "id": "samba-tour-songlines-encounters-at-kings-place-74afef60",
     "title": "Samba Touré — Songlines Encounters at Kings Place",
     "start": "2026-09-27T20:00:00+01:00",
@@ -4790,6 +4971,25 @@
     "neighbourhood": "Shoreditch",
     "cycle_minutes": 7,
     "added": "2026-08-24"
+  },
+  {
+    "id": "ecuadorian-cookery-class-with-judith-migrateful-f5d724d8",
+    "title": "Ecuadorian Cookery Class with Judith (Migrateful)",
+    "start": "2026-09-30T18:15:00+01:00",
+    "end": null,
+    "venue": "Appleby Blue Almshouse",
+    "address": "Bermondsey, SE1",
+    "url": "https://www.migrateful.org/event/ecuadorian-cookery-class-with-judith-veg-friendly-londoncookery-school-8/",
+    "source": "venue:migrateful",
+    "tags": [
+      "food",
+      "class"
+    ],
+    "price": "£60",
+    "description": "Hands-on Ecuadorian cookery class led by chef Judith — a genuinely rare cuisine for London classes.",
+    "neighbourhood": "Bermondsey",
+    "cycle_minutes": 25,
+    "added": "2026-08-25"
   },
   {
     "id": "movement-lab-taster-london-fields-ee7d8f93",
@@ -5219,6 +5419,25 @@
     "added": "2026-08-15"
   },
   {
+    "id": "the-banality-of-evil-hannah-arendt-france-1940-arcola-6bdc6195",
+    "title": "The Banality of Evil: Hannah Arendt, France 1940 — Arcola",
+    "start": "2026-10-08T19:00:00+01:00",
+    "end": null,
+    "venue": "Arcola Theatre",
+    "address": "24 Ashwin Street, Dalston, E8 3DL",
+    "url": "https://www.arcolatheatre.com/event/the-banality-of-evil/",
+    "source": "venue:arcola",
+    "tags": [
+      "theatre",
+      "talk"
+    ],
+    "price": "£15-£29 (runs to 7 Nov)",
+    "description": "New play about Hannah Arendt in wartime France — philosophy-heavy fringe theatre next to the calendar's rationality strand.",
+    "neighbourhood": "Dalston",
+    "cycle_minutes": 14,
+    "added": "2026-08-25"
+  },
+  {
     "id": "hajda-banda-at-kings-place-decb93ed",
     "title": "Hajda Banda at Kings Place",
     "start": "2026-10-08T20:00:00+01:00",
@@ -5292,6 +5511,25 @@
     "neighbourhood": "Hackney Central",
     "cycle_minutes": 12,
     "added": "2026-08-11"
+  },
+  {
+    "id": "16-acts-160-years-of-shoreditch-town-hall-728cbf6c",
+    "title": "16 Acts — 160 Years of Shoreditch Town Hall",
+    "start": "2026-10-09T19:30:00+01:00",
+    "end": null,
+    "venue": "Shoreditch Town Hall (Assembly Hall)",
+    "address": "380 Old Street, EC1V 9LT",
+    "url": "https://shoreditchtownhall.com/whats-on/16-acts",
+    "source": "venue:shoreditch-town-hall",
+    "tags": [
+      "theatre",
+      "community"
+    ],
+    "price": "£16 launch special / £22",
+    "description": "One-night 160th-birthday spectacular: 16 of the venue's most memorable artists on one bill, 3 hours with two intervals — a proper local landmark night.",
+    "neighbourhood": "Shoreditch",
+    "cycle_minutes": 8,
+    "added": "2026-08-25"
   },
   {
     "id": "new-scientist-live-2026-public-weekend-at-excel-59a46163",
@@ -5422,6 +5660,24 @@
     "neighbourhood": "Primrose Hill",
     "cycle_minutes": 32,
     "added": "2026-08-09"
+  },
+  {
+    "id": "jazz-sabbath-at-hoxton-hall-02950705",
+    "title": "Jazz Sabbath at Hoxton Hall",
+    "start": "2026-10-10T20:00:00+01:00",
+    "end": null,
+    "venue": "Hoxton Hall",
+    "address": "130 Hoxton Street, N1 6SH",
+    "url": "https://hoxtonhall.ticketsolve.com/shows/1173650597/events",
+    "source": "venue:hoxton-hall",
+    "tags": [
+      "music"
+    ],
+    "price": "see booking page",
+    "description": "Black Sabbath reimagined as 1960s piano-trio jazz, played deadpan in a gorgeous Victorian music hall.",
+    "neighbourhood": "Hoxton",
+    "cycle_minutes": 8,
+    "added": "2026-08-25"
   },
   {
     "id": "alexander-technique-day-workshop-at-city-lit-6157be6e",
@@ -5717,6 +5973,24 @@
     "neighbourhood": "Bethnal Green",
     "cycle_minutes": 4,
     "added": "2026-08-15"
+  },
+  {
+    "id": "the-master-builder-ibsen-at-arcola-theatre-from-16-oct-e66b093b",
+    "title": "The Master Builder — Ibsen at Arcola Theatre (from 16 Oct)",
+    "start": "2026-10-16T19:00:00+01:00",
+    "end": null,
+    "venue": "Arcola Theatre",
+    "address": "24 Ashwin Street, Dalston, E8 3DL",
+    "url": "https://www.arcolatheatre.com/event/the-master-builder/",
+    "source": "venue:arcola",
+    "tags": [
+      "theatre"
+    ],
+    "price": "£12-£39 (runs to 21 Nov)",
+    "description": "Arcola's big autumn Ibsen revival — ambition, guilt and a fatal tower, ten minutes from home.",
+    "neighbourhood": "Dalston",
+    "cycle_minutes": 14,
+    "added": "2026-08-25"
   },
   {
     "id": "ri-discourse-cern-the-past-present-and-future-e62898d4",
@@ -6104,6 +6378,25 @@
     "neighbourhood": "Dalston",
     "cycle_minutes": 13,
     "added": "2026-08-24"
+  },
+  {
+    "id": "ceilidh-the-musical-at-shoreditch-town-hall-from-23-oct-a57a7e44",
+    "title": "Ceilidh The Musical at Shoreditch Town Hall (from 23 Oct)",
+    "start": "2026-10-23T20:00:00+01:00",
+    "end": null,
+    "venue": "Shoreditch Town Hall (Assembly Hall)",
+    "address": "380 Old Street, EC1V 9LT",
+    "url": "https://shoreditchtownhall.com/whats-on/ceilidh-the-musical",
+    "source": "venue:shoreditch-town-hall",
+    "tags": [
+      "theatre",
+      "music"
+    ],
+    "price": "from £25 balcony",
+    "description": "New musical built around a live ceilidh, taking over the Assembly Hall 23 Oct - 13 Nov — fits the folk/barn-dance streak.",
+    "neighbourhood": "Shoreditch",
+    "cycle_minutes": 8,
+    "added": "2026-08-25"
   },
   {
     "id": "sex-psychedelics-talks-performance-social-d38a3371",
@@ -6830,6 +7123,24 @@
     "neighbourhood": "Dalston",
     "cycle_minutes": 14,
     "added": "2026-08-21"
+  },
+  {
+    "id": "hayden-thorpe-performs-the-songs-of-wild-beasts-hoxton-hall-3b67b380",
+    "title": "Hayden Thorpe performs the songs of Wild Beasts — Hoxton Hall",
+    "start": "2026-11-18T19:00:00+00:00",
+    "end": null,
+    "venue": "Hoxton Hall",
+    "address": "130 Hoxton Street, N1 6SH",
+    "url": "https://hoxtonhall.ticketsolve.com/shows/1173678614/events",
+    "source": "venue:hoxton-hall",
+    "tags": [
+      "music"
+    ],
+    "price": "see booking page",
+    "description": "Wild Beasts' frontman revisits the band's catalogue in a tiny 19th-century music hall; second night 19 Nov. Adds to a stacked 18 Nov.",
+    "neighbourhood": "Hoxton",
+    "cycle_minutes": 8,
+    "added": "2026-08-25"
   },
   {
     "id": "deeper-cuts-nan-rizinni-at-paper-dress-vintage-efg-london-ja-f55cb2e8",
