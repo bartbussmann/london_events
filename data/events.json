@@ -1643,6 +1643,25 @@
     "added": "2026-08-02"
   },
   {
+    "id": "aftertide-live-performance-at-hermitage-moorings-totally-tha-770d14fb",
+    "title": "AFTERTIDE — live performance at Hermitage Moorings (Totally Thames)",
+    "start": "2026-09-05T16:00:00+01:00",
+    "end": "2026-09-05T17:30:00+01:00",
+    "venue": "The Pierhouse, Hermitage Community Moorings",
+    "address": "Wapping High Street, E1W",
+    "url": "https://thamesfestivaltrust.org/whats-on/aftertide-live-at-hermitage-moorings-26969/",
+    "source": "festival:totally-thames",
+    "tags": [
+      "music",
+      "theatre"
+    ],
+    "price": "£12 (£9 concession)",
+    "description": "Immersive performance blending music and documentary testimony from intensive-care patients, staged on the river. Two sittings: 16:00 and 19:00.",
+    "neighbourhood": "Wapping",
+    "cycle_minutes": 15,
+    "added": "2026-08-26"
+  },
+  {
     "title": "Saturday Night Singles Party (ages 30-50) — True Dating",
     "start": "2026-09-05T18:30:00+01:00",
     "end": null,
@@ -1732,6 +1751,24 @@
     "neighbourhood": "Angel",
     "cycle_minutes": 18,
     "added": "2026-08-25"
+  },
+  {
+    "id": "bedouine-at-milton-court-concert-hall-a468852d",
+    "title": "Bedouine at Milton Court Concert Hall",
+    "start": "2026-09-05T19:30:00+01:00",
+    "end": null,
+    "venue": "Milton Court Concert Hall",
+    "address": "Milton Court, Silk Street, EC2Y 9BH",
+    "url": "https://www.barbican.org.uk/whats-on/2026/event/bedouine",
+    "source": "venue:barbican",
+    "tags": [
+      "music"
+    ],
+    "price": "£15-£19",
+    "description": "Luminous 60s folk-pop meets 70s country-funk: Bedouine performs from her new album in the intimate Milton Court hall.",
+    "neighbourhood": "Barbican",
+    "cycle_minutes": 15,
+    "added": "2026-08-26"
   },
   {
     "id": "the-wellness-social-reformer-pilates-sauna-brunch-at-soul-f6d5877e",
@@ -2010,6 +2047,24 @@
     "neighbourhood": "Battersea",
     "cycle_minutes": 50,
     "added": "2026-08-16"
+  },
+  {
+    "id": "shakespeare-s-the-tempest-aboard-the-golden-hinde-from-8-sep-17703597",
+    "title": "Shakespeare's The Tempest aboard the Golden Hinde (from 8 Sep)",
+    "start": "2026-09-08T18:30:00+01:00",
+    "end": null,
+    "venue": "The Golden Hinde",
+    "address": "St Mary Overie Dock, Cathedral Street, SE1 9DE",
+    "url": "https://thamesfestivaltrust.org/whats-on/shakespeares-the-tempest-aboard-the-golden-hinde-26513/",
+    "source": "festival:totally-thames",
+    "tags": [
+      "theatre"
+    ],
+    "price": "£15",
+    "description": "Intimate 60-minute Tempest performed aboard the Golden Hinde galleon replica at Bankside. Multiple evenings 8-22 Sep at 6:30pm — dates on the booking page.",
+    "neighbourhood": "Bankside",
+    "cycle_minutes": 20,
+    "added": "2026-08-26"
   },
   {
     "id": "sounds-impossible-casefile-13-magic-music-play-at-hoxton-hal-693f13fd",
@@ -2492,6 +2547,25 @@
     "added": "2026-08-16"
   },
   {
+    "id": "knife-the-attempted-murder-of-salman-rushdie-screentalk-5bf5d22a",
+    "title": "Knife: The Attempted Murder of Salman Rushdie + ScreenTalk",
+    "start": "2026-09-10T19:00:00+01:00",
+    "end": null,
+    "venue": "Cinema 1, Barbican Centre",
+    "address": "Silk Street, EC2Y 8DS",
+    "url": "https://www.barbican.org.uk/whats-on/2026/event/knife-the-attempted-murder-of-salman-rushdie-screentalk",
+    "source": "venue:barbican",
+    "tags": [
+      "film",
+      "talk"
+    ],
+    "price": "£11-£15.50",
+    "description": "Deeply personal documentary in which Rushdie looks back at his life while recovering from the 2022 attack, followed by a ScreenTalk discussion.",
+    "neighbourhood": "Barbican",
+    "cycle_minutes": 15,
+    "added": "2026-08-26"
+  },
+  {
     "id": "gia-margaret-at-earth-01789289",
     "title": "Gia Margaret at EartH",
     "start": "2026-09-10T19:30:00+01:00",
@@ -2712,6 +2786,25 @@
     "cycle_minutes": 26,
     "id": "nvc-understanding-power-day-workshop-54f81ac3",
     "added": "2026-08-01"
+  },
+  {
+    "id": "st-katharine-docks-classic-boat-festival-12-13-sep-free-2e692d73",
+    "title": "St Katharine Docks Classic Boat Festival (12-13 Sep, free)",
+    "start": "2026-09-12T10:30:00+01:00",
+    "end": "2026-09-12T17:00:00+01:00",
+    "venue": "St Katharine Docks",
+    "address": "St Katharine Docks, E1W 1LA",
+    "url": "https://thamesfestivaltrust.org/whats-on/st-katharine-docks-classic-boat-festival-27012/",
+    "source": "festival:totally-thames",
+    "tags": [
+      "festival",
+      "outdoors"
+    ],
+    "price": "Free",
+    "description": "17th annual classic boat festival: 50+ vintage vessels in the historic marina basins. Also Sun 13 Sep.",
+    "neighbourhood": "St Katharine Docks",
+    "cycle_minutes": 12,
+    "added": "2026-08-26"
   },
   {
     "title": "Ceroc London 50:50 — 6-hour Saturday Freestyle (September)",
@@ -3196,6 +3289,25 @@
     "added": "2026-08-24"
   },
   {
+    "id": "songs-on-the-water-free-folk-singaround-aboard-theatreship-43e1dd1e",
+    "title": "Songs on the Water — free folk singaround aboard Theatreship",
+    "start": "2026-09-14T19:00:00+01:00",
+    "end": "2026-09-14T22:00:00+01:00",
+    "venue": "Theatreship",
+    "address": "South Dock, Canary Wharf, E14",
+    "url": "https://thamesfestivaltrust.org/whats-on/songs-on-the-water-at-theatreship-26995/",
+    "source": "festival:totally-thames",
+    "tags": [
+      "music",
+      "community"
+    ],
+    "price": "Free (ticketed)",
+    "description": "Open singaround of traditional folk songs, shanties and ballads aboard a cargo-ship venue — join in or just listen. Second date Mon 28 Sep.",
+    "neighbourhood": "Canary Wharf",
+    "cycle_minutes": 25,
+    "added": "2026-08-26"
+  },
+  {
     "title": "Neumatic Parlo + Houndshark at Sebright Arms",
     "start": "2026-09-14T19:30:00+01:00",
     "end": null,
@@ -3429,6 +3541,25 @@
     "neighbourhood": "Primrose Hill",
     "cycle_minutes": 32,
     "added": "2026-08-14"
+  },
+  {
+    "id": "kino-bloc-becoming-screentalk-with-director-zhannat-alshanov-e1895c7c",
+    "title": "Kino Bloc: Becoming + ScreenTalk with director Zhannat Alshanova",
+    "start": "2026-09-17T18:10:00+01:00",
+    "end": null,
+    "venue": "Barbican Cinema",
+    "address": "Silk Street, EC2Y 8DS",
+    "url": "https://www.barbican.org.uk/whats-on/2026/event/kino-bloc-becoming-screentalk-with-zhannat-alshano",
+    "source": "venue:barbican",
+    "tags": [
+      "film",
+      "talk"
+    ],
+    "price": "£11-£15.50",
+    "description": "Kazakh coming-of-age drama about a 17-year-old open-water swimmer, screened with a director Q&A.",
+    "neighbourhood": "Barbican",
+    "cycle_minutes": 15,
+    "added": "2026-08-26"
   },
   {
     "title": "Tarot for Beginners: Numerology & the Fool's Journey",
@@ -3784,6 +3915,24 @@
     "added": "2026-08-03"
   },
   {
+    "id": "guided-mudlarking-tour-with-thames-explorer-trust-7540810f",
+    "title": "Guided Mudlarking Tour with Thames Explorer Trust",
+    "start": "2026-09-19T11:30:00+01:00",
+    "end": "2026-09-19T13:30:00+01:00",
+    "venue": "Thames foreshore, Millennium Bridge (north bank)",
+    "address": "Meet at the glass obelisk under Millennium Bridge, EC4",
+    "url": "https://thamesfestivaltrust.org/whats-on/guided-mudlarking-tour-26806/",
+    "source": "festival:totally-thames",
+    "tags": [
+      "outdoors"
+    ],
+    "price": "£30",
+    "description": "Guided mudlarking on the foreshore — clay pipes, pottery sherds and artefacts revealed by the tide. Mudlarking is otherwise permit-locked, so this is a rare legit chance.",
+    "neighbourhood": "City of London",
+    "cycle_minutes": 18,
+    "added": "2026-08-26"
+  },
+  {
     "id": "quartet-a-weekend-of-improvisation-collective-performance-bc363573",
     "title": "QUARTET — a weekend of improvisation & collective performance",
     "start": "2026-09-19T14:00:00+01:00",
@@ -4120,6 +4269,24 @@
     "neighbourhood": "Shoreditch",
     "cycle_minutes": 8,
     "added": "2026-08-25"
+  },
+  {
+    "id": "roomful-of-teeth-with-gabriel-kahane-lso-st-luke-s-d8fd0da1",
+    "title": "Roomful of Teeth with Gabriel Kahane — LSO St Luke's",
+    "start": "2026-09-22T19:30:00+01:00",
+    "end": null,
+    "venue": "LSO St Luke's",
+    "address": "161 Old Street, EC1V 9NG",
+    "url": "https://www.barbican.org.uk/whats-on/2026/event/roomful-of-teeth-with-special-guest-gabriel-kahane",
+    "source": "venue:barbican",
+    "tags": [
+      "music"
+    ],
+    "price": "£25-£29",
+    "description": "Multi-Grammy-winning experimental vocal ensemble perform Elevator Songs with songwriter Gabriel Kahane in the converted church on Old Street.",
+    "neighbourhood": "Old Street",
+    "cycle_minutes": 10,
+    "added": "2026-08-26"
   },
   {
     "id": "words-from-the-other-side-poetry-for-altered-states-septembe-4ff5cf1c",
@@ -4472,6 +4639,25 @@
     "added": "2026-08-09"
   },
   {
+    "id": "docklands-warehouse-and-walking-tour-61c8597d",
+    "title": "Docklands Warehouse and Walking Tour",
+    "start": "2026-09-26T11:00:00+01:00",
+    "end": "2026-09-26T12:00:00+01:00",
+    "venue": "London Museum Docklands",
+    "address": "No.1 Warehouse, West India Quay, E14 4AL",
+    "url": "https://thamesfestivaltrust.org/whats-on/docklands-warehouse-and-walking-tour-26804/",
+    "source": "festival:totally-thames",
+    "tags": [
+      "outdoors",
+      "talk"
+    ],
+    "price": "£9",
+    "description": "Tour of the 1802 West India Docks warehouse including areas not usually open to the public, plus the surrounding quayside.",
+    "neighbourhood": "West India Quay",
+    "cycle_minutes": 20,
+    "added": "2026-08-26"
+  },
+  {
     "id": "autumn-equinox-apple-pressing-conker-tournament-5c538a2a",
     "title": "Autumn Equinox Apple Pressing & Conker Tournament",
     "start": "2026-09-26T12:00:00+01:00",
@@ -4620,6 +4806,25 @@
     "neighbourhood": "Barnsbury",
     "cycle_minutes": 22,
     "added": "2026-08-11"
+  },
+  {
+    "id": "shadwell-sailortown-seamen-pirates-slaves-and-local-girls-gu-0dcc150b",
+    "title": "Shadwell Sailortown: Seamen, Pirates, Slaves and Local Girls — guided walk",
+    "start": "2026-09-27T13:00:00+01:00",
+    "end": "2026-09-27T15:30:00+01:00",
+    "venue": "Shadwell (meeting point on booking)",
+    "address": "Shadwell, E1",
+    "url": "https://thamesfestivaltrust.org/whats-on/shadwell-sailortown-seamen-pirates-slaves-and-local-girls-26557/",
+    "source": "festival:totally-thames",
+    "tags": [
+      "outdoors",
+      "talk"
+    ],
+    "price": "£20 (£17.50 concession)",
+    "description": "Walking tour of Shadwell's 17th-century sailortown — pirates, lascars and the multicultural maritime district on your doorstep.",
+    "neighbourhood": "Shadwell",
+    "cycle_minutes": 8,
+    "added": "2026-08-26"
   },
   {
     "id": "fun-consent-connection-session-september-edition-27669a61",
@@ -4937,6 +5142,24 @@
     "added": "2026-08-08"
   },
   {
+    "id": "gresham-college-shakespearean-england-and-views-of-the-irish-d582b93b",
+    "title": "Gresham College: Shakespearean England and Views of the Irish Language (free)",
+    "start": "2026-10-01T18:00:00+01:00",
+    "end": "2026-10-01T19:00:00+01:00",
+    "venue": "Barnard's Inn Hall",
+    "address": "Holborn, EC1N 2HH",
+    "url": "https://www.gresham.ac.uk/whats-on/shakespeare-irish",
+    "source": "venue:gresham-college",
+    "tags": [
+      "talk"
+    ],
+    "price": "Free (register)",
+    "description": "How debates over the Irish language in Northern Ireland identity politics trace back to attitudes in Shakespearean England.",
+    "neighbourhood": "Holborn",
+    "cycle_minutes": 18,
+    "added": "2026-08-26"
+  },
+  {
     "id": "john-myrtle-at-servant-jazz-quarters-13e52a7b",
     "title": "John Myrtle at Servant Jazz Quarters",
     "start": "2026-10-01T19:00:00+01:00",
@@ -5178,6 +5401,24 @@
     "added": "2026-08-11"
   },
   {
+    "id": "gresham-college-our-sovereign-soil-free-aae7d22f",
+    "title": "Gresham College: Our Sovereign Soil (free)",
+    "start": "2026-10-06T18:00:00+01:00",
+    "end": "2026-10-06T19:00:00+01:00",
+    "venue": "Barnard's Inn Hall",
+    "address": "Holborn, EC1N 2HH",
+    "url": "https://www.gresham.ac.uk/whats-on/sovereign-soil",
+    "source": "venue:gresham-college",
+    "tags": [
+      "talk"
+    ],
+    "price": "Free (register)",
+    "description": "On the friction between aggressive urban planning and public health — how 'Suitable for Use' lets developers bypass genuine soil restoration.",
+    "neighbourhood": "Holborn",
+    "cycle_minutes": 18,
+    "added": "2026-08-26"
+  },
+  {
     "id": "the-life-scientific-live-jim-al-khalili-interviews-chris-pac-44a40d17",
     "title": "The Life Scientific live: Jim Al-Khalili interviews Chris Packham",
     "start": "2026-10-06T19:00:00+01:00",
@@ -5213,6 +5454,24 @@
     "neighbourhood": "Whitechapel",
     "cycle_minutes": 10,
     "added": "2026-08-12"
+  },
+  {
+    "id": "gresham-college-what-do-you-need-a-mathematician-for-free-7b02e911",
+    "title": "Gresham College: What Do You Need a Mathematician For? (free)",
+    "start": "2026-10-07T18:00:00+01:00",
+    "end": "2026-10-07T19:00:00+01:00",
+    "venue": "Barnard's Inn Hall",
+    "address": "Holborn, EC1N 2HH",
+    "url": "https://www.gresham.ac.uk/whats-on/what-mathematician",
+    "source": "venue:gresham-college",
+    "tags": [
+      "talk"
+    ],
+    "price": "Free (register)",
+    "description": "What early-modern Europe thought mathematicians were for, from navigation to statecraft.",
+    "neighbourhood": "Holborn",
+    "cycle_minutes": 18,
+    "added": "2026-08-26"
   },
   {
     "id": "ga-a-at-servant-jazz-quarters-4785282d",
@@ -5680,6 +5939,24 @@
     "added": "2026-08-15"
   },
   {
+    "id": "gresham-college-the-science-of-puppetry-how-real-can-they-be-4bc6a419",
+    "title": "Gresham College: The Science of Puppetry — How Real Can They Be? (free)",
+    "start": "2026-10-13T18:00:00+01:00",
+    "end": "2026-10-13T19:00:00+01:00",
+    "venue": "Barnard's Inn Hall",
+    "address": "Holborn, EC1N 2HH",
+    "url": "https://www.gresham.ac.uk/whats-on/science-puppetry",
+    "source": "venue:gresham-college",
+    "tags": [
+      "talk"
+    ],
+    "price": "Free (register)",
+    "description": "Joint lecture with puppet creator Steve Allen (Labyrinth, The Muppets) on the science of bringing puppets to life and why we respond to them.",
+    "neighbourhood": "Holborn",
+    "cycle_minutes": 18,
+    "added": "2026-08-26"
+  },
+  {
     "id": "casper-walsh-hustler-boogie-tour-at-moth-club-0ddee856",
     "title": "Casper Walsh: Hustler Boogie Tour at MOTH Club",
     "start": "2026-10-13T19:00:00+01:00",
@@ -5732,6 +6009,24 @@
     "neighbourhood": "Shoreditch",
     "cycle_minutes": 7,
     "added": "2026-08-15"
+  },
+  {
+    "id": "gresham-college-rather-trivial-things-an-alternative-museum--e1ba97c1",
+    "title": "Gresham College: Rather Trivial Things? An Alternative Museum History (free)",
+    "start": "2026-10-14T18:00:00+01:00",
+    "end": "2026-10-14T19:00:00+01:00",
+    "venue": "Barnard's Inn Hall",
+    "address": "Holborn, EC1N 2HH",
+    "url": "https://www.gresham.ac.uk/whats-on/trivial-precious",
+    "source": "venue:gresham-college",
+    "tags": [
+      "talk"
+    ],
+    "price": "Free (register)",
+    "description": "Two centuries of what societies choose to keep in museums, who puts it there and why.",
+    "neighbourhood": "Holborn",
+    "cycle_minutes": 18,
+    "added": "2026-08-26"
   },
   {
     "id": "contact-improv-wednesday-open-class-jam-with-rick-nodine-14--92dc9dd5",
@@ -5897,6 +6192,24 @@
     "neighbourhood": "Mayfair",
     "cycle_minutes": 35,
     "added": "2026-08-10"
+  },
+  {
+    "id": "ed-o-brien-radiohead-barbican-hall-780184f2",
+    "title": "Ed O'Brien (Radiohead) — Barbican Hall",
+    "start": "2026-10-16T19:30:00+01:00",
+    "end": null,
+    "venue": "Barbican Hall",
+    "address": "Silk Street, EC2Y 8DS",
+    "url": "https://www.barbican.org.uk/whats-on/2026/event/ed-obrien",
+    "source": "venue:barbican",
+    "tags": [
+      "music"
+    ],
+    "price": "£18-£29",
+    "description": "Radiohead guitarist Ed O'Brien unveils his new record live with a collective of musicians.",
+    "neighbourhood": "Barbican",
+    "cycle_minutes": 15,
+    "added": "2026-08-26"
   },
   {
     "id": "knees-up-cecil-sharp-ceilidh-october-edition-55ed3d8a",
@@ -6121,6 +6434,24 @@
     "neighbourhood": "Bethnal Green",
     "cycle_minutes": 3,
     "added": "2026-08-16"
+  },
+  {
+    "id": "improvisers-ensemble-featuring-cleveland-watkiss-mbe-eb59e1ab",
+    "title": "Improvisers' Ensemble featuring Cleveland Watkiss MBE",
+    "start": "2026-10-20T19:00:00+01:00",
+    "end": null,
+    "venue": "Milton Court",
+    "address": "Milton Court, Silk Street, EC2Y 9BH",
+    "url": "https://www.barbican.org.uk/whats-on/2026/event/improvisers-ensemble-featuring-cleveland-watkiss-mbe",
+    "source": "venue:barbican",
+    "tags": [
+      "music"
+    ],
+    "price": "£6-£15",
+    "description": "Renowned vocalist Cleveland Watkiss MBE in an electric improvised performance with Guildhall's Improvisers' Ensemble — cheap ticket, high calibre.",
+    "neighbourhood": "Barbican",
+    "cycle_minutes": 15,
+    "added": "2026-08-26"
   },
   {
     "id": "twawsi-the-world-as-we-see-it-ace-dance-double-bill-41243c06",
@@ -6395,6 +6726,25 @@
     "neighbourhood": "Mayfair",
     "cycle_minutes": 35,
     "added": "2026-08-11"
+  },
+  {
+    "id": "the-blindboy-podcast-live-barbican-hall-4ea9ff3e",
+    "title": "The Blindboy Podcast LIVE — Barbican Hall",
+    "start": "2026-10-26T19:30:00+00:00",
+    "end": null,
+    "venue": "Barbican Hall",
+    "address": "Silk Street, EC2Y 8DS",
+    "url": "https://www.barbican.org.uk/whats-on/2026/event/blindboy-the-blindboy-podcast-live",
+    "source": "venue:barbican",
+    "tags": [
+      "talk",
+      "comedy"
+    ],
+    "price": "see booking page",
+    "description": "Irish polymath Blindboy Boatclub brings his hit podcast's biggest UK tour to the Barbican — funny, erudite long-form talk.",
+    "neighbourhood": "Barbican",
+    "cycle_minutes": 15,
+    "added": "2026-08-26"
   },
   {
     "id": "marina-herlop-at-earth-615d4ff8",

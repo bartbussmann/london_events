@@ -1258,6 +1258,23 @@ URL:https://www.eventbrite.co.uk/e/chisenhale-arts-and-community-street-pa
 LOCATION:Chisenhale Road (street)\, Chisenhale Road\, Bow\, E3
 END:VEVENT
 BEGIN:VEVENT
+UID:aftertide-live-performance-at-hermitage-moorings-totally-tha-770d14fb@
+ london-events
+DTSTAMP:20260905T150000Z
+DTSTART:20260905T150000Z
+DTEND:20260905T163000Z
+SUMMARY:AFTERTIDE — live performance at Hermitage Moorings (Totally Tham
+ es)
+DESCRIPTION:Immersive performance blending music and documentary testimony
+  from intensive-care patients\, staged on the river. Two sittings: 16:00 
+ and 19:00.\nPrice: £12 (£9 concession)\nhttps://thamesfestivaltrust.org
+ /whats-on/aftertide-live-at-hermitage-moorings-26969/
+URL:https://thamesfestivaltrust.org/whats-on/aftertide-live-at-hermitage-m
+ oorings-26969/
+LOCATION:The Pierhouse\, Hermitage Community Moorings\, Wapping High Stree
+ t\, E1W
+END:VEVENT
+BEGIN:VEVENT
 UID:saturday-night-singles-party-ages-30-50-true-dating-2b255eba@london-ev
  ents
 DTSTAMP:20260905T173000Z
@@ -1320,6 +1337,18 @@ DESCRIPTION:Free Saturday showcase mixing circuit pros and rising acts. Ar
  https://www.angelcomedy.co.uk/whats-on/
 URL:https://www.angelcomedy.co.uk/whats-on/
 LOCATION:The Camden Head\, 2 Camden Walk\, Islington\, N1 8DY
+END:VEVENT
+BEGIN:VEVENT
+UID:bedouine-at-milton-court-concert-hall-a468852d@london-events
+DTSTAMP:20260905T183000Z
+DTSTART:20260905T183000Z
+DTEND:20260905T203000Z
+SUMMARY:Bedouine at Milton Court Concert Hall
+DESCRIPTION:Luminous 60s folk-pop meets 70s country-funk: Bedouine perform
+ s from her new album in the intimate Milton Court hall.\nPrice: £15-£19
+ \nhttps://www.barbican.org.uk/whats-on/2026/event/bedouine
+URL:https://www.barbican.org.uk/whats-on/2026/event/bedouine
+LOCATION:Milton Court Concert Hall\, Milton Court\, Silk Street\, EC2Y 9BH
 END:VEVENT
 BEGIN:VEVENT
 UID:the-wellness-social-reformer-pilates-sauna-brunch-at-soul-f6d5877e@lon
@@ -1531,6 +1560,22 @@ DESCRIPTION:Round two of the sold-out pottery-painting singles night — h
 URL:https://www.thursday.com/events/london/3c2fb2cd-4987-40f3-b2a1-aaaceae
  71477
 LOCATION:Pottery Café\, 153 Northcote Road\, Battersea\, SW11 6QB
+END:VEVENT
+BEGIN:VEVENT
+UID:shakespeare-s-the-tempest-aboard-the-golden-hinde-from-8-sep-17703597@
+ london-events
+DTSTAMP:20260908T173000Z
+DTSTART:20260908T173000Z
+DTEND:20260908T193000Z
+SUMMARY:Shakespeare's The Tempest aboard the Golden Hinde (from 8 Sep)
+DESCRIPTION:Intimate 60-minute Tempest performed aboard the Golden Hinde g
+ alleon replica at Bankside. Multiple evenings 8-22 Sep at 6:30pm — date
+ s on the booking page.\nPrice: £15\nhttps://thamesfestivaltrust.org/what
+ s-on/shakespeares-the-tempest-aboard-the-golden-hinde-26513/
+URL:https://thamesfestivaltrust.org/whats-on/shakespeares-the-tempest-aboa
+ rd-the-golden-hinde-26513/
+LOCATION:The Golden Hinde\, St Mary Overie Dock\, Cathedral Street\, SE1 9
+ DE
 END:VEVENT
 BEGIN:VEVENT
 UID:sounds-impossible-casefile-13-magic-music-play-at-hoxton-hal-693f13fd@
@@ -1897,6 +1942,21 @@ URL:https://www.thursday.com/events/london/88744405-7d8a-452c-b9d6-578ad9a
 LOCATION:The Cocktail Club\, Shoreditch\, 29 Sclater Street\, E1 6HT
 END:VEVENT
 BEGIN:VEVENT
+UID:knife-the-attempted-murder-of-salman-rushdie-screentalk-5bf5d22a@londo
+ n-events
+DTSTAMP:20260910T180000Z
+DTSTART:20260910T180000Z
+DTEND:20260910T200000Z
+SUMMARY:Knife: The Attempted Murder of Salman Rushdie + ScreenTalk
+DESCRIPTION:Deeply personal documentary in which Rushdie looks back at his
+  life while recovering from the 2022 attack\, followed by a ScreenTalk di
+ scussion.\nPrice: £11-£15.50\nhttps://www.barbican.org.uk/whats-on/2026
+ /event/knife-the-attempted-murder-of-salman-rushdie-screentalk
+URL:https://www.barbican.org.uk/whats-on/2026/event/knife-the-attempted-mu
+ rder-of-salman-rushdie-screentalk
+LOCATION:Cinema 1\, Barbican Centre\, Silk Street\, EC2Y 8DS
+END:VEVENT
+BEGIN:VEVENT
 UID:gia-margaret-at-earth-01789289@london-events
 DTSTAMP:20260910T183000Z
 DTSTART:20260910T183000Z
@@ -2058,6 +2118,20 @@ DESCRIPTION:Full-day Nonviolent Communication workshop on navigating power
  ndelion.events/e/g3olu
 URL:https://dandelion.events/e/g3olu
 LOCATION:The Bridge\, Southwark Bridge Road\, SE1
+END:VEVENT
+BEGIN:VEVENT
+UID:st-katharine-docks-classic-boat-festival-12-13-sep-free-2e692d73@londo
+ n-events
+DTSTAMP:20260912T093000Z
+DTSTART:20260912T093000Z
+DTEND:20260912T160000Z
+SUMMARY:St Katharine Docks Classic Boat Festival (12-13 Sep\, free)
+DESCRIPTION:17th annual classic boat festival: 50+ vintage vessels in the 
+ historic marina basins. Also Sun 13 Sep.\nPrice: Free\nhttps://thamesfest
+ ivaltrust.org/whats-on/st-katharine-docks-classic-boat-festival-27012/
+URL:https://thamesfestivaltrust.org/whats-on/st-katharine-docks-classic-bo
+ at-festival-27012/
+LOCATION:St Katharine Docks\, St Katharine Docks\, E1W 1LA
 END:VEVENT
 BEGIN:VEVENT
 UID:ceroc-london-50-50-6-hour-saturday-freestyle-september-237c56bc@london
@@ -2428,6 +2502,21 @@ URL:https://www.thursday.com/events/london/monday-pub-quiz-night-soho-copy
 LOCATION:21Soho\, 3-5 Sutton Row\, W1D 4NR
 END:VEVENT
 BEGIN:VEVENT
+UID:songs-on-the-water-free-folk-singaround-aboard-theatreship-43e1dd1e@lo
+ ndon-events
+DTSTAMP:20260914T180000Z
+DTSTART:20260914T180000Z
+DTEND:20260914T210000Z
+SUMMARY:Songs on the Water — free folk singaround aboard Theatreship
+DESCRIPTION:Open singaround of traditional folk songs\, shanties and balla
+ ds aboard a cargo-ship venue — join in or just listen. Second date Mon 
+ 28 Sep.\nPrice: Free (ticketed)\nhttps://thamesfestivaltrust.org/whats-on
+ /songs-on-the-water-at-theatreship-26995/
+URL:https://thamesfestivaltrust.org/whats-on/songs-on-the-water-at-theatre
+ ship-26995/
+LOCATION:Theatreship\, South Dock\, Canary Wharf\, E14
+END:VEVENT
+BEGIN:VEVENT
 UID:neumatic-parlo-houndshark-at-sebright-arms-b594b411@london-events
 DTSTAMP:20260914T183000Z
 DTSTART:20260914T183000Z
@@ -2604,6 +2693,21 @@ DESCRIPTION:BBC Folk Award winner Sam Carter performs the music of Nic Jon
  h folk.\nhttps://www.efdss.org/whats-on
 URL:https://www.efdss.org/whats-on
 LOCATION:Cecil Sharp House\, 2 Regent's Park Road\, NW1 7AY
+END:VEVENT
+BEGIN:VEVENT
+UID:kino-bloc-becoming-screentalk-with-director-zhannat-alshanov-e1895c7c@
+ london-events
+DTSTAMP:20260917T171000Z
+DTSTART:20260917T171000Z
+DTEND:20260917T191000Z
+SUMMARY:Kino Bloc: Becoming + ScreenTalk with director Zhannat Alshanova
+DESCRIPTION:Kazakh coming-of-age drama about a 17-year-old open-water swim
+ mer\, screened with a director Q&A.\nPrice: £11-£15.50\nhttps://www.bar
+ bican.org.uk/whats-on/2026/event/kino-bloc-becoming-screentalk-with-zhann
+ at-alshano
+URL:https://www.barbican.org.uk/whats-on/2026/event/kino-bloc-becoming-scr
+ eentalk-with-zhannat-alshano
+LOCATION:Barbican Cinema\, Silk Street\, EC2Y 8DS
 END:VEVENT
 BEGIN:VEVENT
 UID:tarot-for-beginners-numerology-the-fool-s-journey-b8deeebd@london-even
@@ -2869,6 +2973,21 @@ URL:https://dandelion.events/e/e5vdk
 LOCATION:Hackney E5 (venue on booking)
 END:VEVENT
 BEGIN:VEVENT
+UID:guided-mudlarking-tour-with-thames-explorer-trust-7540810f@london-even
+ ts
+DTSTAMP:20260919T103000Z
+DTSTART:20260919T103000Z
+DTEND:20260919T123000Z
+SUMMARY:Guided Mudlarking Tour with Thames Explorer Trust
+DESCRIPTION:Guided mudlarking on the foreshore — clay pipes\, pottery sh
+ erds and artefacts revealed by the tide. Mudlarking is otherwise permit-l
+ ocked\, so this is a rare legit chance.\nPrice: £30\nhttps://thamesfesti
+ valtrust.org/whats-on/guided-mudlarking-tour-26806/
+URL:https://thamesfestivaltrust.org/whats-on/guided-mudlarking-tour-26806/
+LOCATION:Thames foreshore\, Millennium Bridge (north bank)\, Meet at the g
+ lass obelisk under Millennium Bridge\, EC4
+END:VEVENT
+BEGIN:VEVENT
 UID:quartet-a-weekend-of-improvisation-collective-performance-bc363573@lon
  don-events
 DTSTAMP:20260919T130000Z
@@ -3126,6 +3245,21 @@ DESCRIPTION:Award-winning company ThisEgg with a new 90-minute show about
  rtunately
 URL:https://shoreditchtownhall.com/whats-on/unfortunately
 LOCATION:Shoreditch Town Hall (Assembly Hall)\, 380 Old Street\, EC1V 9LT
+END:VEVENT
+BEGIN:VEVENT
+UID:roomful-of-teeth-with-gabriel-kahane-lso-st-luke-s-d8fd0da1@london-eve
+ nts
+DTSTAMP:20260922T183000Z
+DTSTART:20260922T183000Z
+DTEND:20260922T203000Z
+SUMMARY:Roomful of Teeth with Gabriel Kahane — LSO St Luke's
+DESCRIPTION:Multi-Grammy-winning experimental vocal ensemble perform Eleva
+ tor Songs with songwriter Gabriel Kahane in the converted church on Old S
+ treet.\nPrice: £25-£29\nhttps://www.barbican.org.uk/whats-on/2026/event
+ /roomful-of-teeth-with-special-guest-gabriel-kahane
+URL:https://www.barbican.org.uk/whats-on/2026/event/roomful-of-teeth-with-
+ special-guest-gabriel-kahane
+LOCATION:LSO St Luke's\, 161 Old Street\, EC1V 9NG
 END:VEVENT
 BEGIN:VEVENT
 UID:words-from-the-other-side-poetry-for-altered-states-septembe-4ff5cf1c@
@@ -3399,6 +3533,21 @@ URL:https://www.eventbrite.co.uk/e/clay-culture-making-ancient-history-han
 LOCATION:Prideaux House\, 10 Church Crescent\, London E9 7DL
 END:VEVENT
 BEGIN:VEVENT
+UID:docklands-warehouse-and-walking-tour-61c8597d@london-events
+DTSTAMP:20260926T100000Z
+DTSTART:20260926T100000Z
+DTEND:20260926T110000Z
+SUMMARY:Docklands Warehouse and Walking Tour
+DESCRIPTION:Tour of the 1802 West India Docks warehouse including areas no
+ t usually open to the public\, plus the surrounding quayside.\nPrice: £9
+ \nhttps://thamesfestivaltrust.org/whats-on/docklands-warehouse-and-walkin
+ g-tour-26804/
+URL:https://thamesfestivaltrust.org/whats-on/docklands-warehouse-and-walki
+ ng-tour-26804/
+LOCATION:London Museum Docklands\, No.1 Warehouse\, West India Quay\, E14 
+ 4AL
+END:VEVENT
+BEGIN:VEVENT
 UID:autumn-equinox-apple-pressing-conker-tournament-5c538a2a@london-events
 DTSTAMP:20260926T110000Z
 DTSTART:20260926T110000Z
@@ -3503,6 +3652,22 @@ DESCRIPTION:Sunday afternoon of collaborative vocal improvisation and grou
  ttps://dandelion.events/e/l6p4r
 URL:https://dandelion.events/e/l6p4r
 LOCATION:Music Tree\, Barnsbury Street\, Islington\, N1
+END:VEVENT
+BEGIN:VEVENT
+UID:shadwell-sailortown-seamen-pirates-slaves-and-local-girls-gu-0dcc150b@
+ london-events
+DTSTAMP:20260927T120000Z
+DTSTART:20260927T120000Z
+DTEND:20260927T143000Z
+SUMMARY:Shadwell Sailortown: Seamen\, Pirates\, Slaves and Local Girls —
+  guided walk
+DESCRIPTION:Walking tour of Shadwell's 17th-century sailortown — pirates
+ \, lascars and the multicultural maritime district on your doorstep.\nPri
+ ce: £20 (£17.50 concession)\nhttps://thamesfestivaltrust.org/whats-on/s
+ hadwell-sailortown-seamen-pirates-slaves-and-local-girls-26557/
+URL:https://thamesfestivaltrust.org/whats-on/shadwell-sailortown-seamen-pi
+ rates-slaves-and-local-girls-26557/
+LOCATION:Shadwell (meeting point on booking)\, Shadwell\, E1
 END:VEVENT
 BEGIN:VEVENT
 UID:fun-consent-connection-session-september-edition-27669a61@london-event
@@ -3730,6 +3895,20 @@ URL:https://dandelion.events/e/k5fhk
 LOCATION:Music Tree\, Barnsbury Street\, Islington\, N1
 END:VEVENT
 BEGIN:VEVENT
+UID:gresham-college-shakespearean-england-and-views-of-the-irish-d582b93b@
+ london-events
+DTSTAMP:20261001T170000Z
+DTSTART:20261001T170000Z
+DTEND:20261001T180000Z
+SUMMARY:Gresham College: Shakespearean England and Views of the Irish Lang
+ uage (free)
+DESCRIPTION:How debates over the Irish language in Northern Ireland identi
+ ty politics trace back to attitudes in Shakespearean England.\nPrice: Fre
+ e (register)\nhttps://www.gresham.ac.uk/whats-on/shakespeare-irish
+URL:https://www.gresham.ac.uk/whats-on/shakespeare-irish
+LOCATION:Barnard's Inn Hall\, Holborn\, EC1N 2HH
+END:VEVENT
+BEGIN:VEVENT
 UID:john-myrtle-at-servant-jazz-quarters-13e52a7b@london-events
 DTSTAMP:20261001T180000Z
 DTSTART:20261001T180000Z
@@ -3903,6 +4082,19 @@ URL:https://www.rigb.org/whats-on/art-cure-science-how-arts-transform-our-
 LOCATION:Royal Institution\, 21 Albemarle Street\, Mayfair\, W1S 4BS
 END:VEVENT
 BEGIN:VEVENT
+UID:gresham-college-our-sovereign-soil-free-aae7d22f@london-events
+DTSTAMP:20261006T170000Z
+DTSTART:20261006T170000Z
+DTEND:20261006T180000Z
+SUMMARY:Gresham College: Our Sovereign Soil (free)
+DESCRIPTION:On the friction between aggressive urban planning and public h
+ ealth — how 'Suitable for Use' lets developers bypass genuine soil rest
+ oration.\nPrice: Free (register)\nhttps://www.gresham.ac.uk/whats-on/sove
+ reign-soil
+URL:https://www.gresham.ac.uk/whats-on/sovereign-soil
+LOCATION:Barnard's Inn Hall\, Holborn\, EC1N 2HH
+END:VEVENT
+BEGIN:VEVENT
 UID:the-life-scientific-live-jim-al-khalili-interviews-chris-pac-44a40d17@
  london-events
 DTSTAMP:20261006T180000Z
@@ -3927,6 +4119,19 @@ DESCRIPTION:The silent German-expressionist horror classic screened with a
  bility.\nhttps://wiltons.org.uk/whats-on/
 URL:https://wiltons.org.uk/whats-on/
 LOCATION:Wilton's Music Hall\, 1 Graces Alley\, E1 8JB
+END:VEVENT
+BEGIN:VEVENT
+UID:gresham-college-what-do-you-need-a-mathematician-for-free-7b02e911@lon
+ don-events
+DTSTAMP:20261007T170000Z
+DTSTART:20261007T170000Z
+DTEND:20261007T180000Z
+SUMMARY:Gresham College: What Do You Need a Mathematician For? (free)
+DESCRIPTION:What early-modern Europe thought mathematicians were for\, fro
+ m navigation to statecraft.\nPrice: Free (register)\nhttps://www.gresham.
+ ac.uk/whats-on/what-mathematician
+URL:https://www.gresham.ac.uk/whats-on/what-mathematician
+LOCATION:Barnard's Inn Hall\, Holborn\, EC1N 2HH
 END:VEVENT
 BEGIN:VEVENT
 UID:ga-a-at-servant-jazz-quarters-4785282d@london-events
@@ -4274,6 +4479,21 @@ URL:https://wiltons.org.uk/whats-on/a-brief-case-of-crazy/
 LOCATION:Wilton's Music Hall\, 1 Graces Alley\, E1 8JB
 END:VEVENT
 BEGIN:VEVENT
+UID:gresham-college-the-science-of-puppetry-how-real-can-they-be-4bc6a419@
+ london-events
+DTSTAMP:20261013T170000Z
+DTSTART:20261013T170000Z
+DTEND:20261013T180000Z
+SUMMARY:Gresham College: The Science of Puppetry — How Real Can They Be?
+  (free)
+DESCRIPTION:Joint lecture with puppet creator Steve Allen (Labyrinth\, The
+  Muppets) on the science of bringing puppets to life and why we respond t
+ o them.\nPrice: Free (register)\nhttps://www.gresham.ac.uk/whats-on/scien
+ ce-puppetry
+URL:https://www.gresham.ac.uk/whats-on/science-puppetry
+LOCATION:Barnard's Inn Hall\, Holborn\, EC1N 2HH
+END:VEVENT
+BEGIN:VEVENT
 UID:casper-walsh-hustler-boogie-tour-at-moth-club-0ddee856@london-events
 DTSTAMP:20261013T180000Z
 DTSTART:20261013T180000Z
@@ -4312,6 +4532,20 @@ DESCRIPTION:London trio's surreal noise/garage-punk with Bristol art-rocke
 URL:https://dice.fm/event/2wqbvo-pedestrian-band-the-scuttlers-live-13th-o
  ct-the-old-blue-last-london-tickets
 LOCATION:The Old Blue Last\, 38 Great Eastern Street\, EC2A 3ES
+END:VEVENT
+BEGIN:VEVENT
+UID:gresham-college-rather-trivial-things-an-alternative-museum--e1ba97c1@
+ london-events
+DTSTAMP:20261014T170000Z
+DTSTART:20261014T170000Z
+DTEND:20261014T180000Z
+SUMMARY:Gresham College: Rather Trivial Things? An Alternative Museum Hist
+ ory (free)
+DESCRIPTION:Two centuries of what societies choose to keep in museums\, wh
+ o puts it there and why.\nPrice: Free (register)\nhttps://www.gresham.ac.
+ uk/whats-on/trivial-precious
+URL:https://www.gresham.ac.uk/whats-on/trivial-precious
+LOCATION:Barnard's Inn Hall\, Holborn\, EC1N 2HH
 END:VEVENT
 BEGIN:VEVENT
 UID:contact-improv-wednesday-open-class-jam-with-rick-nodine-14--92dc9dd5@
@@ -4435,6 +4669,18 @@ DESCRIPTION:Mark Thomson\, Director-General of CERN\, on where particle ph
  gb.org/whats-on/discourse-cern-past-present-and-future
 URL:https://www.rigb.org/whats-on/discourse-cern-past-present-and-future
 LOCATION:Royal Institution\, 21 Albemarle Street\, Mayfair W1S 4BS
+END:VEVENT
+BEGIN:VEVENT
+UID:ed-o-brien-radiohead-barbican-hall-780184f2@london-events
+DTSTAMP:20261016T183000Z
+DTSTART:20261016T183000Z
+DTEND:20261016T203000Z
+SUMMARY:Ed O'Brien (Radiohead) — Barbican Hall
+DESCRIPTION:Radiohead guitarist Ed O'Brien unveils his new record live wit
+ h a collective of musicians.\nPrice: £18-£29\nhttps://www.barbican.org.
+ uk/whats-on/2026/event/ed-obrien
+URL:https://www.barbican.org.uk/whats-on/2026/event/ed-obrien
+LOCATION:Barbican Hall\, Silk Street\, EC2Y 8DS
 END:VEVENT
 BEGIN:VEVENT
 UID:knees-up-cecil-sharp-ceilidh-october-edition-55ed3d8a@london-events
@@ -4592,6 +4838,21 @@ DESCRIPTION:Bi-weekly civic-tech hack night in the Drawing Room — furthe
  newspeak.house/#events
 URL:https://newspeak.house/#events
 LOCATION:Newspeak House\, 133 Bethnal Green Road\, E2 7DG
+END:VEVENT
+BEGIN:VEVENT
+UID:improvisers-ensemble-featuring-cleveland-watkiss-mbe-eb59e1ab@london-e
+ vents
+DTSTAMP:20261020T180000Z
+DTSTART:20261020T180000Z
+DTEND:20261020T200000Z
+SUMMARY:Improvisers' Ensemble featuring Cleveland Watkiss MBE
+DESCRIPTION:Renowned vocalist Cleveland Watkiss MBE in an electric improvi
+ sed performance with Guildhall's Improvisers' Ensemble — cheap ticket\,
+  high calibre.\nPrice: £6-£15\nhttps://www.barbican.org.uk/whats-on/202
+ 6/event/improvisers-ensemble-featuring-cleveland-watkiss-mbe
+URL:https://www.barbican.org.uk/whats-on/2026/event/improvisers-ensemble-f
+ eaturing-cleveland-watkiss-mbe
+LOCATION:Milton Court\, Milton Court\, Silk Street\, EC2Y 9BH
 END:VEVENT
 BEGIN:VEVENT
 UID:twawsi-the-world-as-we-see-it-ace-dance-double-bill-41243c06@london-ev
@@ -4790,6 +5051,20 @@ DESCRIPTION:Monday Ri talk surveying the worldwide race to commercial fusi
  global-fusion-developments-race-power
 URL:https://www.rigb.org/whats-on/global-fusion-developments-race-power
 LOCATION:Royal Institution\, 21 Albemarle Street\, Mayfair\, W1S 4BS
+END:VEVENT
+BEGIN:VEVENT
+UID:the-blindboy-podcast-live-barbican-hall-4ea9ff3e@london-events
+DTSTAMP:20261026T193000Z
+DTSTART:20261026T193000Z
+DTEND:20261026T213000Z
+SUMMARY:The Blindboy Podcast LIVE — Barbican Hall
+DESCRIPTION:Irish polymath Blindboy Boatclub brings his hit podcast's bigg
+ est UK tour to the Barbican — funny\, erudite long-form talk.\nPrice: s
+ ee booking page\nhttps://www.barbican.org.uk/whats-on/2026/event/blindboy
+ -the-blindboy-podcast-live
+URL:https://www.barbican.org.uk/whats-on/2026/event/blindboy-the-blindboy-
+ podcast-live
+LOCATION:Barbican Hall\, Silk Street\, EC2Y 8DS
 END:VEVENT
 BEGIN:VEVENT
 UID:marina-herlop-at-earth-615d4ff8@london-events
