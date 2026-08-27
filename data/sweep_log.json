@@ -1,5 +1,11 @@
 [
   {
+    "ran_at": "2026-08-27T07:55:00+01:00",
+    "added": 18,
+    "considered": 230,
+    "notes": "Weekly refresh circuit. AULD SHILLELAGH SEPT ROTA LIVE — first four seisiúns added (Seán Finch 4th, Kevin Olohan 5th, Eoin Griffin trad 10th, Christy O'Donnell 11th; remainder on rota: Heron Red 12, Eoin 17+26, Siamsa 18, Briars 19, Dan Elliot 25 — all free 9-11pm). DICE diff: £2 Victoria Weds 2 Sep, £5 OBL 11 Sep, Linus Fenton SJQ 15 Sep, KNOCK2BAG IS BACK at MOTH — Josie Long 23 Sep + HARRY HILL 30 Sep (£17.10; Harry Hill WIPs 23-25 Nov too), Spook School reunion OBL 3 Oct, dodie EartH 26 Oct (£52.53 flagged) vs free Divebar Youth Shacklewell same night. EDL: October still unpublished; added MEDICINA park gathering 5 Sep + September Sunset Sessions run (Fri/Sat through 19 Sep). Dandelion new: woods dance HW 3 Sep, circling immersion Tooting 20 Sep (distance-flagged), Bohm Dialogue September edition 21 Sep, men's circle 23 Sep. STILL WAITING: ACX list (very late now), Moth StorySLAM, Rich Mix (bot-challenge — consider Spektrix API or dropping). Retitle flag: Dandelion 'ECSTATIC RAVE' 26 Sep = existing Ecstatic Saturdays entry, not re-added. DICE spares: Brutallixmas Victoria 12 Dec £8, Bone Folder x Matthew Bourne SJQ 29 Oct, The Gnomes Shacklewell 11 Nov, Mikoudi Victoria 16 Sep."
+  },
+  {
     "ran_at": "2026-08-26T07:55:00+01:00",
     "added": 19,
     "considered": 206,
@@ -172,11 +178,5 @@
     "added": 16,
     "considered": 82,
     "notes": "BONUS breadth sweep after Bart lowered the curation bar (8-15/day target now). Backfilled: 4 free Sunday Jazz dates + SC/SH Day 2 at Old Blue Last, 3 free Garden Gigs Sundays at The Victoria, Friko at MOTH, 2 Angel Comedy nights (note: Bill Murray shows are ticketed ~£11-14, free shows are at their Camden venue), sound bath, breathwork+cacao session, Luminous full-moon dance + Luminous x &Soul sauna dance (4 min), September Heart Circle. Dead leads confirmed: CLAMM/Stanford Family Band/East London Block Party all past with no future dates; Shroomshop PRO has no 2026 date."
-  },
-  {
-    "ran_at": "2026-07-30T07:55:00+01:00",
-    "added": 6,
-    "considered": 18,
-    "notes": "Daily sweep, second-week-of-September frontier. ICS: 0 new; 1 pruned (part 1). Added: Campaign Lab 7 Sep hack night (corrected lead — no 14 Sep edition; autumn series starts 21 Sep), September Shroomshop workshop (3 min), St Ethelburga's kirtan (11 Sep, 9 min), London Mellows 10th-anniversary kirtan weekend (12-13 Sep, venue TBC), two Sebright Arms gigs (14-15 Sep incl. folk singer Roxanne de Bastion). Caught 1 duplicate (10 Sep speed dating). Turning Earth still has no published open-evening dates; no new September supper clubs announced yet."
   }
 ]

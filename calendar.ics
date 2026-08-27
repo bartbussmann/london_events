@@ -815,6 +815,21 @@ LOCATION:The Yard Theatre\, Queen's Yard\, White Post Lane\, Hackney Wick\
  , E9 5EN
 END:VEVENT
 BEGIN:VEVENT
+UID:2-weds-alex-leave-winnipeg-mn-jack-lawther-at-the-victoria-26530918@lo
+ ndon-events
+DTSTAMP:20260902T183000Z
+DTSTART:20260902T183000Z
+DTEND:20260902T220000Z
+SUMMARY:£2 WEDS: Alex\, Leave! / Winnipeg\, MN / Jack Lawther at The Vict
+ oria
+DESCRIPTION:The Victoria's £2 Wednesday new-band night returns with a thr
+ ee-band indie bill.\nPrice: £2\nhttps://dice.fm/event/2wawv7-2-weds-alex
+ -leave-winnipeg-mn-jack-lawther-2nd-sep-the-victoria-london-tickets
+URL:https://dice.fm/event/2wawv7-2-weds-alex-leave-winnipeg-mn-jack-lawthe
+ r-2nd-sep-the-victoria-london-tickets
+LOCATION:The Victoria\, 451 Queensbridge Road\, E8 3AS
+END:VEVENT
+BEGIN:VEVENT
 UID:the-comedy-hump-free-night-at-backyard-comedy-club-3406e540@london-eve
  nts
 DTSTAMP:20260902T190000Z
@@ -966,6 +981,18 @@ URL:https://www.kingsplace.co.uk/whats-on/podcast/the-guardian-science-wee
 LOCATION:Kings Place\, 90 York Way\, London N1 9AG
 END:VEVENT
 BEGIN:VEVENT
+UID:dancing-freedom-in-the-woods-c77ca258@london-events
+DTSTAMP:20260903T180000Z
+DTSTART:20260903T180000Z
+DTEND:20260903T200000Z
+SUMMARY:Dancing Freedom in the woods
+DESCRIPTION:Barefoot-optional conscious dance journey in the Hackney Wick 
+ woods\, Thursday evening.\nPrice: £8-£20\nhttps://dandelion.events/e/t4
+ dn1
+URL:https://dandelion.events/e/t4dn1
+LOCATION:Hackney Wick woodland\, Hackney Wick (exact spot on booking)
+END:VEVENT
+BEGIN:VEVENT
 UID:automatic-at-moth-club-82a8d6a0@london-events
 DTSTAMP:20260903T183000Z
 DTSTART:20260903T183000Z
@@ -1046,6 +1073,21 @@ DESCRIPTION:Emergent group singing with no songs and no experience needed\
  5 sauna\nhttps://dandelion.events/e/u5eq7
 URL:https://dandelion.events/e/u5eq7
 LOCATION:Plot 9 area\, Maze Hill\, Maze Hill\, Greenwich
+END:VEVENT
+BEGIN:VEVENT
+UID:the-sunset-sessions-open-air-ecstatic-dance-september-opener-e753c56d@
+ london-events
+DTSTAMP:20260904T170000Z
+DTSTART:20260904T170000Z
+DTEND:20260904T193000Z
+SUMMARY:The Sunset Sessions — open-air ecstatic dance (September opener)
+DESCRIPTION:EDL's open-air sunset dance with cacao continues into Septembe
+ r — Fridays and Saturdays through 19 Sep.\nPrice: Ticketed via Eventbri
+ te\nhttps://ecstaticdancelondon.com/event/the-sunset-sessions-outdoor-dan
+ ces-with-ecstatic-dance-london-open-air/2026-09-04/
+URL:https://ecstaticdancelondon.com/event/the-sunset-sessions-outdoor-danc
+ es-with-ecstatic-dance-london-open-air/2026-09-04/
+LOCATION:Outdoor location near Baker Street (revealed on booking)
 END:VEVENT
 BEGIN:VEVENT
 UID:uyen-luu-s-vietnamese-supper-club-september-opener-6893ca87@london-eve
@@ -1143,6 +1185,19 @@ URL:https://www.thebetsey.com/music-events
 LOCATION:The Betsey Trotwood\, 56 Farringdon Road\, Clerkenwell\, EC1R 3BL
 END:VEVENT
 BEGIN:VEVENT
+UID:auld-shillelagh-seisi-n-se-n-finch-47b8fb54@london-events
+DTSTAMP:20260904T200000Z
+DTSTART:20260904T200000Z
+DTEND:20260904T220000Z
+SUMMARY:Auld Shillelagh Seisiún: Seán Finch
+DESCRIPTION:First of the September Irish seisiúns — Seán Finch live in
+  the narrow Stokey pub from 9pm.\nPrice: Free\nhttps://theauldshillelagh.
+ co.uk/events-2/2026/8/26/music-september-2026
+URL:https://theauldshillelagh.co.uk/events-2/2026/8/26/music-september-202
+ 6
+LOCATION:The Auld Shillelagh\, 105 Stoke Newington Church Street\, N16 0UD
+END:VEVENT
+BEGIN:VEVENT
 UID:mudlarks-of-the-thames-foreshore-free-weekend-symposium-4f75d68f@londo
  n-events
 DTSTAMP:20260905T090000Z
@@ -1200,6 +1255,21 @@ DESCRIPTION:Annual street party by Chisenhale Art Place and local resident
 URL:https://www.eventbrite.co.uk/e/chisenhale-arts-and-community-street-pa
  rty-tickets-1992998742890
 LOCATION:Chisenhale Road (street)\, Chisenhale Road\, Bow\, E3
+END:VEVENT
+BEGIN:VEVENT
+UID:medicina-ecstatic-dance-community-gathering-in-nature-3bd6132b@london-
+ events
+DTSTAMP:20260905T133000Z
+DTSTART:20260905T133000Z
+DTEND:20260905T193000Z
+SUMMARY:MEDICINA: Ecstatic Dance Community Gathering in Nature
+DESCRIPTION:All-afternoon outdoor community gathering — dance\, cacao an
+ d closing circle in a secret central London park.\nPrice: Ticketed via Ev
+ entbrite\nhttps://ecstaticdancelondon.com/event/medicina-ecstatic-dance-c
+ ommunity-gathering-in-nature/
+URL:https://ecstaticdancelondon.com/event/medicina-ecstatic-dance-communit
+ y-gathering-in-nature/
+LOCATION:Secret central London park (revealed on booking)
 END:VEVENT
 BEGIN:VEVENT
 UID:aftertide-live-performance-at-hermitage-moorings-totally-tha-770d14fb@
@@ -1293,6 +1363,19 @@ DESCRIPTION:Luminous 60s folk-pop meets 70s country-funk: Bedouine perform
  \nhttps://www.barbican.org.uk/whats-on/2026/event/bedouine
 URL:https://www.barbican.org.uk/whats-on/2026/event/bedouine
 LOCATION:Milton Court Concert Hall\, Milton Court\, Silk Street\, EC2Y 9BH
+END:VEVENT
+BEGIN:VEVENT
+UID:auld-shillelagh-seisi-n-kevin-olohan-5fa3df9d@london-events
+DTSTAMP:20260905T200000Z
+DTSTART:20260905T200000Z
+DTEND:20260905T220000Z
+SUMMARY:Auld Shillelagh Seisiún: Kevin Olohan
+DESCRIPTION:Saturday-night live Irish music\, 9-11pm\, in the back of one 
+ of London's best Guinness pubs.\nPrice: Free\nhttps://theauldshillelagh.c
+ o.uk/events-2/2026/8/26/music-september-2026
+URL:https://theauldshillelagh.co.uk/events-2/2026/8/26/music-september-202
+ 6
+LOCATION:The Auld Shillelagh\, 105 Stoke Newington Church Street\, N16 0UD
 END:VEVENT
 BEGIN:VEVENT
 UID:the-wellness-social-reformer-pilates-sauna-brunch-at-soul-f6d5877e@lon
@@ -1956,6 +2039,21 @@ URL:https://www.genesiscinema.co.uk/event/109788
 LOCATION:Genesis Cinema\, 93-95 Mile End Road\, London E1 4UJ
 END:VEVENT
 BEGIN:VEVENT
+UID:auld-shillelagh-trad-seisi-n-eoin-griffin-friends-d95ad6e3@london-even
+ ts
+DTSTAMP:20260910T200000Z
+DTSTART:20260910T200000Z
+DTEND:20260910T220000Z
+SUMMARY:Auld Shillelagh Trad Seisiún: Eoin Griffin & friends
+DESCRIPTION:Proper trad session from 9pm — Eoin Griffin also plays 17 an
+ d 26 Sep\; more September dates on the rota (Heron Red 12th\, Siamsa 18th
+ \, Briars 19th\, Dan Elliot 25th).\nPrice: Free\nhttps://theauldshillelag
+ h.co.uk/events-2/2026/8/26/music-september-2026
+URL:https://theauldshillelagh.co.uk/events-2/2026/8/26/music-september-202
+ 6
+LOCATION:The Auld Shillelagh\, 105 Stoke Newington Church Street\, N16 0UD
+END:VEVENT
+BEGIN:VEVENT
 UID:chant-for-love-and-peace-kirtan-at-st-ethelburga-s-a0d3af86@london-eve
  nts
 DTSTAMP:20260911T180000Z
@@ -1996,6 +2094,19 @@ URL:https://www.arcolatheatre.com/event/the-turn-of-the-screw/
 LOCATION:Arcola Theatre (Studio 1)\, 24 Ashwin Street\, Dalston\, E8 3DL
 END:VEVENT
 BEGIN:VEVENT
+UID:obl-presents-naked-brunch-lindow-man-cherry-i-248ec4ae@london-events
+DTSTAMP:20260911T183000Z
+DTSTART:20260911T183000Z
+DTEND:20260911T203000Z
+SUMMARY:OBL Presents: Naked Brunch / Lindow Man / Cherry i
+DESCRIPTION:New-band triple bill upstairs at the Old Blue Last.\nPrice: £
+ 5\nhttps://dice.fm/event/eonooy-obl-presents-naked-brunch-lindow-man-cher
+ ry-i-acoustic-set-11th-sep-the-old-blue-last-london-tickets
+URL:https://dice.fm/event/eonooy-obl-presents-naked-brunch-lindow-man-cher
+ ry-i-acoustic-set-11th-sep-the-old-blue-last-london-tickets
+LOCATION:The Old Blue Last\, 38 Great Eastern Street\, EC2A 3ES
+END:VEVENT
+BEGIN:VEVENT
 UID:hidden-jazz-club-at-hoxton-hall-28583764@london-events
 DTSTAMP:20260911T190000Z
 DTSTART:20260911T190000Z
@@ -2007,6 +2118,18 @@ DESCRIPTION:Artist-run underground jazz night in a Grade II listed 1860s m
  /ticketbooth/shows/1173649756
 URL:https://hoxtonhall.ticketsolve.com/ticketbooth/shows/1173649756
 LOCATION:Hoxton Hall\, 130 Hoxton Street\, London N1 6SH
+END:VEVENT
+BEGIN:VEVENT
+UID:auld-shillelagh-seisi-n-christy-o-donnell-6a971c24@london-events
+DTSTAMP:20260911T200000Z
+DTSTART:20260911T200000Z
+DTEND:20260911T220000Z
+SUMMARY:Auld Shillelagh Seisiún: Christy O'Donnell
+DESCRIPTION:Friday-night live Irish music\, 9-11pm.\nPrice: Free\nhttps://
+ theauldshillelagh.co.uk/events-2/2026/8/26/music-september-2026
+URL:https://theauldshillelagh.co.uk/events-2/2026/8/26/music-september-202
+ 6
+LOCATION:The Auld Shillelagh\, 105 Stoke Newington Church Street\, N16 0UD
 END:VEVENT
 BEGIN:VEVENT
 UID:open-house-festival-2026-london-s-buildings-unlocked-8854e85b@london-e
@@ -2527,6 +2650,20 @@ DESCRIPTION:Nashville guitarist William Tyler (ex-Lambchop) plays cosmic-A
 URL:https://earthackney.co.uk/events/william-tyler-15th-sep-earth-london-t
  ickets-7dmwmp
 LOCATION:EartH\, 11-17 Stoke Newington Road\, Dalston\, N16 8BP
+END:VEVENT
+BEGIN:VEVENT
+UID:linus-fenton-sir-ramble-at-servant-jazz-quarters-affbb902@london-event
+ s
+DTSTAMP:20260915T183000Z
+DTSTART:20260915T183000Z
+DTEND:20260915T203000Z
+SUMMARY:Linus Fenton + Sir Ramble at Servant Jazz Quarters
+DESCRIPTION:Double bill of singer-songwriters in SJQ's tiny Dalston baseme
+ nt.\nPrice: £12.50\nhttps://dice.fm/event/v3xdxd-linus-fenton-sir-ramble
+ -15th-sep-sjq-london-tickets
+URL:https://dice.fm/event/v3xdxd-linus-fenton-sir-ramble-15th-sep-sjq-lond
+ on-tickets
+LOCATION:Servant Jazz Quarters\, 10A Bradbury Street\, N16 8JN
 END:VEVENT
 BEGIN:VEVENT
 UID:reviving-craft-reflection-of-the-mind-free-exhibition-16-27--80e5768e@
@@ -3050,6 +3187,20 @@ URL:https://www.eventbrite.co.uk/e/ecstatic-dance-uk-sunday-tickets-199095
 LOCATION:The Baths\, 80 Eastway\, Hackney Wick\, London E9 5JH
 END:VEVENT
 BEGIN:VEVENT
+UID:surrender-to-freedom-half-day-inquiry-circling-immersion-39644a17@lond
+ on-events
+DTSTAMP:20260920T093000Z
+DTSTART:20260920T093000Z
+DTEND:20260920T150000Z
+SUMMARY:Surrender to Freedom — half-day inquiry & circling immersion
+DESCRIPTION:Half-day circling and self-inquiry immersion on a Sunday — a
+  rare full-length circling event. Tooting is a trek: tube beats the ~50 m
+ in ride.\nPrice: £35-£75\nhttps://dandelion.events/e/y5wgz
+URL:https://dandelion.events/e/y5wgz
+LOCATION:Near Tooting Broadway Station (address on booking)\, Tooting Broa
+ dway\, SW17
+END:VEVENT
+BEGIN:VEVENT
 UID:open-house-leadenhall-market-tour-with-roman-ruins-access-6deda44f@lon
  don-events
 DTSTAMP:20260920T100000Z
@@ -3120,6 +3271,20 @@ DESCRIPTION:Weekly Monday CI jam with facilitated warm-up by Marie Chabert
  nes intro).\nhttps://cicalendar.uk/london
 URL:https://cicalendar.uk/london
 LOCATION:Rose Lipman Building\, 43 De Beauvoir Road\, N1 5SQ
+END:VEVENT
+BEGIN:VEVENT
+UID:an-introduction-to-bohm-dialogue-september-edition-8df263b4@london-eve
+ nts
+DTSTAMP:20260921T174500Z
+DTSTART:20260921T174500Z
+DTEND:20260921T200000Z
+SUMMARY:An Introduction to Bohm Dialogue (September edition)
+DESCRIPTION:Facilitated evening introduction to Bohm Dialogue — group li
+ stening/awareness practice adjacent to circling\, ten minutes away.\nPric
+ e: £4-£12\nhttps://dandelion.events/e/k9s6t
+URL:https://dandelion.events/e/k9s6t
+LOCATION:Bunhill Fields Quaker Meeting House\, Quaker Court\, Banner Stree
+ t\, EC1Y 8QQ
 END:VEVENT
 BEGIN:VEVENT
 UID:campaign-lab-hack-night-21-sep-edition-524ba4dc@london-events
@@ -3218,6 +3383,32 @@ DESCRIPTION:Workshop using poetry as a practice for exploring altered stat
   £10-£25 sliding scale\nhttps://dandelion.events/e/l4lk7
 URL:https://dandelion.events/e/l4lk7
 LOCATION:Hackney Wick (address on booking)
+END:VEVENT
+BEGIN:VEVENT
+UID:men-s-circle-killing-the-dragon-7a499f58@london-events
+DTSTAMP:20260923T174500Z
+DTSTART:20260923T174500Z
+DTEND:20260923T203000Z
+SUMMARY:Men's Circle: Killing The Dragon
+DESCRIPTION:Facilitated men's circle evening working with anger and shadow
+  — relational-practice fit on a Wednesday night.\nPrice: £12-£22\nhtt
+ ps://dandelion.events/e/u1emp
+URL:https://dandelion.events/e/u1emp
+LOCATION:Studio 1\, OMUK\, 22 Pakenham Street\, WC1X 0LB
+END:VEVENT
+BEGIN:VEVENT
+UID:knock2bag-comedy-night-with-josie-long-at-moth-club-5ae7c178@london-ev
+ ents
+DTSTAMP:20260923T180000Z
+DTSTART:20260923T180000Z
+DTEND:20260923T200000Z
+SUMMARY:Knock2Bag Comedy Night with Josie Long at MOTH Club
+DESCRIPTION:Knock2Bag's autumn run just went on sale — this edition head
+ lined by Josie Long.\nPrice: £17.10\nhttps://dice.fm/event/bb9gmm-knock2
+ bag-comedy-night-with-josie-long-23rd-sep-moth-club-london-tickets
+URL:https://dice.fm/event/bb9gmm-knock2bag-comedy-night-with-josie-long-23
+ rd-sep-moth-club-london-tickets
+LOCATION:MOTH Club\, Old Trades Hall\, Valette Street\, E9 6NU
 END:VEVENT
 BEGIN:VEVENT
 UID:nagasaki-swim-starter-car-symbol-soup-at-the-victoria-fe823f6f@london-
@@ -3839,6 +4030,21 @@ URL:https://dandelion.events/e/k5fhk
 LOCATION:Music Tree\, Barnsbury Street\, Islington\, N1
 END:VEVENT
 BEGIN:VEVENT
+UID:knock2bag-comedy-night-with-harry-hill-at-moth-club-d6b296ea@london-ev
+ ents
+DTSTAMP:20260930T180000Z
+DTSTART:20260930T180000Z
+DTEND:20260930T200000Z
+SUMMARY:Knock2Bag Comedy Night with Harry Hill at MOTH Club
+DESCRIPTION:Harry Hill headlines Knock2Bag under the glitter ceiling\; he 
+ also has WIP nights there 23-25 Nov.\nPrice: £17.10\nhttps://dice.fm/eve
+ nt/l87mer-knock2bag-comedy-night-with-harry-hill-30th-sep-moth-club-londo
+ n-tickets
+URL:https://dice.fm/event/l87mer-knock2bag-comedy-night-with-harry-hill-30
+ th-sep-moth-club-london-tickets
+LOCATION:MOTH Club\, Old Trades Hall\, Valette Street\, E9 6NU
+END:VEVENT
+BEGIN:VEVENT
 UID:gresham-college-shakespearean-england-and-views-of-the-irish-d582b93b@
  london-events
 DTSTAMP:20261001T170000Z
@@ -3972,6 +4178,21 @@ DESCRIPTION:Ri talk on next-generation battery and energy-storage material
  rged-future-energy-materials
 URL:https://www.rigb.org/whats-on/supercharged-future-energy-materials
 LOCATION:Royal Institution\, 21 Albemarle Street\, Mayfair\, W1S 4BS
+END:VEVENT
+BEGIN:VEVENT
+UID:the-spook-school-happy-accidents-at-the-old-blue-last-08541dba@london-
+ events
+DTSTAMP:20261003T183000Z
+DTSTART:20261003T183000Z
+DTEND:20261003T203000Z
+SUMMARY:The Spook School + Happy Accidents at The Old Blue Last
+DESCRIPTION:Beloved Glasgow indie-pop band The Spook School play a reunion
+ -era show in the 150-cap upstairs room.\nPrice: from £13.30\nhttps://dic
+ e.fm/event/xe3gx3-the-spook-school-happy-accidents-3rd-oct-the-old-blue-l
+ ast-london-tickets
+URL:https://dice.fm/event/xe3gx3-the-spook-school-happy-accidents-3rd-oct-
+ the-old-blue-last-london-tickets
+LOCATION:The Old Blue Last\, 38 Great Eastern Street\, EC2A 3ES
 END:VEVENT
 BEGIN:VEVENT
 UID:alela-diane-at-earth-a93f5e7f@london-events
@@ -4997,6 +5218,20 @@ URL:https://www.rigb.org/whats-on/global-fusion-developments-race-power
 LOCATION:Royal Institution\, 21 Albemarle Street\, Mayfair\, W1S 4BS
 END:VEVENT
 BEGIN:VEVENT
+UID:divebar-youth-at-the-shacklewell-arms-free-206d04be@london-events
+DTSTAMP:20261026T190000Z
+DTSTART:20261026T190000Z
+DTEND:20261026T210000Z
+SUMMARY:Divebar Youth at The Shacklewell Arms (free)
+DESCRIPTION:Free Monday-night show from rising indie act Divebar Youth —
+  the free alternative to dodie the same night.\nPrice: Free\nhttps://dice
+ .fm/event/yo5yor-divebar-youth-26th-oct-the-shacklewell-arms-london-ticke
+ ts
+URL:https://dice.fm/event/yo5yor-divebar-youth-26th-oct-the-shacklewell-ar
+ ms-london-tickets
+LOCATION:The Shacklewell Arms\, 71 Shacklewell Lane\, E8 2EB
+END:VEVENT
+BEGIN:VEVENT
 UID:the-blindboy-podcast-live-barbican-hall-4ea9ff3e@london-events
 DTSTAMP:20261026T193000Z
 DTSTART:20261026T193000Z
@@ -5009,6 +5244,19 @@ DESCRIPTION:Irish polymath Blindboy Boatclub brings his hit podcast's bigg
 URL:https://www.barbican.org.uk/whats-on/2026/event/blindboy-the-blindboy-
  podcast-live
 LOCATION:Barbican Hall\, Silk Street\, EC2Y 8DS
+END:VEVENT
+BEGIN:VEVENT
+UID:dodie-at-earth-853772f7@london-events
+DTSTAMP:20261026T193000Z
+DTSTART:20261026T193000Z
+DTEND:20261026T213000Z
+SUMMARY:dodie at EartH
+DESCRIPTION:Newly announced intimate EartH show from bedroom-pop songwrite
+ r dodie — pricey for the room but a rare small-venue date for a big act
+ .\nPrice: from £52.53 (high but under cap — rare small-venue date)\nht
+ tps://dice.fm/event/ww9kyr-dodie-26th-oct-earth-london-tickets
+URL:https://dice.fm/event/ww9kyr-dodie-26th-oct-earth-london-tickets
+LOCATION:EartH\, 11 Stoke Newington Road\, N16 8BH
 END:VEVENT
 BEGIN:VEVENT
 UID:marina-herlop-at-earth-615d4ff8@london-events

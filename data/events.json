@@ -1064,6 +1064,24 @@
     "added": "2026-08-07"
   },
   {
+    "id": "2-weds-alex-leave-winnipeg-mn-jack-lawther-at-the-victoria-26530918",
+    "title": "£2 WEDS: Alex, Leave! / Winnipeg, MN / Jack Lawther at The Victoria",
+    "start": "2026-09-02T19:30:00+01:00",
+    "end": "2026-09-02T23:00:00+01:00",
+    "venue": "The Victoria",
+    "address": "451 Queensbridge Road, E8 3AS",
+    "url": "https://dice.fm/event/2wawv7-2-weds-alex-leave-winnipeg-mn-jack-lawther-2nd-sep-the-victoria-london-tickets",
+    "source": "venue:dice-the-victoria",
+    "tags": [
+      "music"
+    ],
+    "price": "£2",
+    "description": "The Victoria's £2 Wednesday new-band night returns with a three-band indie bill.",
+    "neighbourhood": "Dalston",
+    "cycle_minutes": 12,
+    "added": "2026-08-27"
+  },
+  {
     "id": "the-comedy-hump-free-night-at-backyard-comedy-club-3406e540",
     "title": "The Comedy Hump — free night at Backyard Comedy Club",
     "start": "2026-09-02T20:00:00+01:00",
@@ -1248,6 +1266,25 @@
     "added": "2026-08-18"
   },
   {
+    "id": "dancing-freedom-in-the-woods-c77ca258",
+    "title": "Dancing Freedom in the woods",
+    "start": "2026-09-03T19:00:00+01:00",
+    "end": "2026-09-03T21:00:00+01:00",
+    "venue": "Hackney Wick woodland",
+    "address": "Hackney Wick (exact spot on booking)",
+    "url": "https://dandelion.events/e/t4dn1",
+    "source": "aggregator:dandelion",
+    "tags": [
+      "dance",
+      "outdoors"
+    ],
+    "price": "£8-£20",
+    "description": "Barefoot-optional conscious dance journey in the Hackney Wick woods, Thursday evening.",
+    "neighbourhood": "Hackney Wick",
+    "cycle_minutes": 15,
+    "added": "2026-08-27"
+  },
+  {
     "title": "Automatic at MOTH Club",
     "start": "2026-09-03T19:30:00+01:00",
     "end": "2026-09-03T22:30:00+01:00",
@@ -1357,6 +1394,25 @@
     "cycle_minutes": 30,
     "id": "surrendered-singing-sauna-3e56d527",
     "added": "2026-07-28"
+  },
+  {
+    "id": "the-sunset-sessions-open-air-ecstatic-dance-september-opener-e753c56d",
+    "title": "The Sunset Sessions — open-air ecstatic dance (September opener)",
+    "start": "2026-09-04T18:00:00+01:00",
+    "end": "2026-09-04T20:30:00+01:00",
+    "venue": "Outdoor location near Baker Street (revealed on booking)",
+    "address": null,
+    "url": "https://ecstaticdancelondon.com/event/the-sunset-sessions-outdoor-dances-with-ecstatic-dance-london-open-air/2026-09-04/",
+    "source": "venue:ecstatic-dance-london",
+    "tags": [
+      "dance",
+      "outdoors"
+    ],
+    "price": "Ticketed via Eventbrite",
+    "description": "EDL's open-air sunset dance with cacao continues into September — Fridays and Saturdays through 19 Sep.",
+    "neighbourhood": "Regent's Park",
+    "cycle_minutes": 35,
+    "added": "2026-08-27"
   },
   {
     "title": "Uyen Luu's Vietnamese Supper Club — September opener",
@@ -1489,6 +1545,25 @@
     "added": "2026-08-14"
   },
   {
+    "id": "auld-shillelagh-seisi-n-se-n-finch-47b8fb54",
+    "title": "Auld Shillelagh Seisiún: Seán Finch",
+    "start": "2026-09-04T21:00:00+01:00",
+    "end": "2026-09-04T23:00:00+01:00",
+    "venue": "The Auld Shillelagh",
+    "address": "105 Stoke Newington Church Street, N16 0UD",
+    "url": "https://theauldshillelagh.co.uk/events-2/2026/8/26/music-september-2026",
+    "source": "venue:auld-shillelagh",
+    "tags": [
+      "music",
+      "community"
+    ],
+    "price": "Free",
+    "description": "First of the September Irish seisiúns — Seán Finch live in the narrow Stokey pub from 9pm.",
+    "neighbourhood": "Stoke Newington",
+    "cycle_minutes": 18,
+    "added": "2026-08-27"
+  },
+  {
     "id": "mudlarks-of-the-thames-foreshore-free-weekend-symposium-4f75d68f",
     "title": "Mudlarks of the Thames Foreshore — free weekend symposium",
     "start": "2026-09-05T10:00:00+01:00",
@@ -1565,6 +1640,25 @@
     "cycle_minutes": 9,
     "id": "chisenhale-arts-and-community-street-party-b59e9f2e",
     "added": "2026-08-02"
+  },
+  {
+    "id": "medicina-ecstatic-dance-community-gathering-in-nature-3bd6132b",
+    "title": "MEDICINA: Ecstatic Dance Community Gathering in Nature",
+    "start": "2026-09-05T14:30:00+01:00",
+    "end": "2026-09-05T20:30:00+01:00",
+    "venue": "Secret central London park (revealed on booking)",
+    "address": null,
+    "url": "https://ecstaticdancelondon.com/event/medicina-ecstatic-dance-community-gathering-in-nature/",
+    "source": "venue:ecstatic-dance-london",
+    "tags": [
+      "dance",
+      "outdoors"
+    ],
+    "price": "Ticketed via Eventbrite",
+    "description": "All-afternoon outdoor community gathering — dance, cacao and closing circle in a secret central London park.",
+    "neighbourhood": "Central London",
+    "cycle_minutes": 30,
+    "added": "2026-08-27"
   },
   {
     "id": "aftertide-live-performance-at-hermitage-moorings-totally-tha-770d14fb",
@@ -1693,6 +1787,25 @@
     "neighbourhood": "Barbican",
     "cycle_minutes": 15,
     "added": "2026-08-26"
+  },
+  {
+    "id": "auld-shillelagh-seisi-n-kevin-olohan-5fa3df9d",
+    "title": "Auld Shillelagh Seisiún: Kevin Olohan",
+    "start": "2026-09-05T21:00:00+01:00",
+    "end": "2026-09-05T23:00:00+01:00",
+    "venue": "The Auld Shillelagh",
+    "address": "105 Stoke Newington Church Street, N16 0UD",
+    "url": "https://theauldshillelagh.co.uk/events-2/2026/8/26/music-september-2026",
+    "source": "venue:auld-shillelagh",
+    "tags": [
+      "music",
+      "community"
+    ],
+    "price": "Free",
+    "description": "Saturday-night live Irish music, 9-11pm, in the back of one of London's best Guinness pubs.",
+    "neighbourhood": "Stoke Newington",
+    "cycle_minutes": 18,
+    "added": "2026-08-27"
   },
   {
     "id": "the-wellness-social-reformer-pilates-sauna-brunch-at-soul-f6d5877e",
@@ -2563,6 +2676,25 @@
     "added": "2026-08-18"
   },
   {
+    "id": "auld-shillelagh-trad-seisi-n-eoin-griffin-friends-d95ad6e3",
+    "title": "Auld Shillelagh Trad Seisiún: Eoin Griffin & friends",
+    "start": "2026-09-10T21:00:00+01:00",
+    "end": "2026-09-10T23:00:00+01:00",
+    "venue": "The Auld Shillelagh",
+    "address": "105 Stoke Newington Church Street, N16 0UD",
+    "url": "https://theauldshillelagh.co.uk/events-2/2026/8/26/music-september-2026",
+    "source": "venue:auld-shillelagh",
+    "tags": [
+      "music",
+      "community"
+    ],
+    "price": "Free",
+    "description": "Proper trad session from 9pm — Eoin Griffin also plays 17 and 26 Sep; more September dates on the rota (Heron Red 12th, Siamsa 18th, Briars 19th, Dan Elliot 25th).",
+    "neighbourhood": "Stoke Newington",
+    "cycle_minutes": 18,
+    "added": "2026-08-27"
+  },
+  {
     "title": "Chant for Love and Peace — kirtan at St Ethelburga's",
     "start": "2026-09-11T19:00:00+01:00",
     "end": "2026-09-11T21:30:00+01:00",
@@ -2618,6 +2750,24 @@
     "added": "2026-08-07"
   },
   {
+    "id": "obl-presents-naked-brunch-lindow-man-cherry-i-248ec4ae",
+    "title": "OBL Presents: Naked Brunch / Lindow Man / Cherry i",
+    "start": "2026-09-11T19:30:00+01:00",
+    "end": null,
+    "venue": "The Old Blue Last",
+    "address": "38 Great Eastern Street, EC2A 3ES",
+    "url": "https://dice.fm/event/eonooy-obl-presents-naked-brunch-lindow-man-cherry-i-acoustic-set-11th-sep-the-old-blue-last-london-tickets",
+    "source": "venue:dice-the-old-blue-last",
+    "tags": [
+      "music"
+    ],
+    "price": "£5",
+    "description": "New-band triple bill upstairs at the Old Blue Last.",
+    "neighbourhood": "Shoreditch",
+    "cycle_minutes": 7,
+    "added": "2026-08-27"
+  },
+  {
     "id": "hidden-jazz-club-at-hoxton-hall-28583764",
     "title": "Hidden Jazz Club at Hoxton Hall",
     "start": "2026-09-11T20:00:00+01:00",
@@ -2634,6 +2784,25 @@
     "neighbourhood": "Hoxton",
     "cycle_minutes": 8,
     "added": "2026-08-18"
+  },
+  {
+    "id": "auld-shillelagh-seisi-n-christy-o-donnell-6a971c24",
+    "title": "Auld Shillelagh Seisiún: Christy O'Donnell",
+    "start": "2026-09-11T21:00:00+01:00",
+    "end": "2026-09-11T23:00:00+01:00",
+    "venue": "The Auld Shillelagh",
+    "address": "105 Stoke Newington Church Street, N16 0UD",
+    "url": "https://theauldshillelagh.co.uk/events-2/2026/8/26/music-september-2026",
+    "source": "venue:auld-shillelagh",
+    "tags": [
+      "music",
+      "community"
+    ],
+    "price": "Free",
+    "description": "Friday-night live Irish music, 9-11pm.",
+    "neighbourhood": "Stoke Newington",
+    "cycle_minutes": 18,
+    "added": "2026-08-27"
   },
   {
     "id": "open-house-festival-2026-london-s-buildings-unlocked-8854e85b",
@@ -3320,6 +3489,24 @@
     "neighbourhood": "Dalston",
     "cycle_minutes": 14,
     "added": "2026-08-07"
+  },
+  {
+    "id": "linus-fenton-sir-ramble-at-servant-jazz-quarters-affbb902",
+    "title": "Linus Fenton + Sir Ramble at Servant Jazz Quarters",
+    "start": "2026-09-15T19:30:00+01:00",
+    "end": null,
+    "venue": "Servant Jazz Quarters",
+    "address": "10A Bradbury Street, N16 8JN",
+    "url": "https://dice.fm/event/v3xdxd-linus-fenton-sir-ramble-15th-sep-sjq-london-tickets",
+    "source": "venue:dice-sjq",
+    "tags": [
+      "music"
+    ],
+    "price": "£12.50",
+    "description": "Double bill of singer-songwriters in SJQ's tiny Dalston basement.",
+    "neighbourhood": "Dalston",
+    "cycle_minutes": 15,
+    "added": "2026-08-27"
   },
   {
     "id": "reviving-craft-reflection-of-the-mind-free-exhibition-16-27--80e5768e",
@@ -4010,6 +4197,25 @@
     "added": "2026-08-09"
   },
   {
+    "id": "surrender-to-freedom-half-day-inquiry-circling-immersion-39644a17",
+    "title": "Surrender to Freedom — half-day inquiry & circling immersion",
+    "start": "2026-09-20T10:30:00+01:00",
+    "end": "2026-09-20T16:00:00+01:00",
+    "venue": "Near Tooting Broadway Station (address on booking)",
+    "address": "Tooting Broadway, SW17",
+    "url": "https://dandelion.events/e/y5wgz",
+    "source": "aggregator:dandelion",
+    "tags": [
+      "workshop",
+      "community"
+    ],
+    "price": "£35-£75",
+    "description": "Half-day circling and self-inquiry immersion on a Sunday — a rare full-length circling event. Tooting is a trek: tube beats the ~50 min ride.",
+    "neighbourhood": "Tooting",
+    "cycle_minutes": 50,
+    "added": "2026-08-27"
+  },
+  {
     "id": "open-house-leadenhall-market-tour-with-roman-ruins-access-6deda44f",
     "title": "Open House: Leadenhall Market tour with Roman ruins access",
     "start": "2026-09-20T11:00:00+01:00",
@@ -4101,6 +4307,25 @@
     "neighbourhood": "De Beauvoir",
     "cycle_minutes": 10,
     "added": "2026-08-10"
+  },
+  {
+    "id": "an-introduction-to-bohm-dialogue-september-edition-8df263b4",
+    "title": "An Introduction to Bohm Dialogue (September edition)",
+    "start": "2026-09-21T18:45:00+01:00",
+    "end": "2026-09-21T21:00:00+01:00",
+    "venue": "Bunhill Fields Quaker Meeting House",
+    "address": "Quaker Court, Banner Street, EC1Y 8QQ",
+    "url": "https://dandelion.events/e/k9s6t",
+    "source": "aggregator:dandelion",
+    "tags": [
+      "talk",
+      "community"
+    ],
+    "price": "£4-£12",
+    "description": "Facilitated evening introduction to Bohm Dialogue — group listening/awareness practice adjacent to circling, ten minutes away.",
+    "neighbourhood": "Old Street",
+    "cycle_minutes": 8,
+    "added": "2026-08-27"
   },
   {
     "id": "campaign-lab-hack-night-21-sep-edition-524ba4dc",
@@ -4230,6 +4455,43 @@
     "neighbourhood": "Hackney Wick",
     "cycle_minutes": 15,
     "added": "2026-08-09"
+  },
+  {
+    "id": "men-s-circle-killing-the-dragon-7a499f58",
+    "title": "Men's Circle: Killing The Dragon",
+    "start": "2026-09-23T18:45:00+01:00",
+    "end": "2026-09-23T21:30:00+01:00",
+    "venue": "Studio 1, OMUK",
+    "address": "22 Pakenham Street, WC1X 0LB",
+    "url": "https://dandelion.events/e/u1emp",
+    "source": "aggregator:dandelion",
+    "tags": [
+      "workshop",
+      "community"
+    ],
+    "price": "£12-£22",
+    "description": "Facilitated men's circle evening working with anger and shadow — relational-practice fit on a Wednesday night.",
+    "neighbourhood": "Clerkenwell",
+    "cycle_minutes": 20,
+    "added": "2026-08-27"
+  },
+  {
+    "id": "knock2bag-comedy-night-with-josie-long-at-moth-club-5ae7c178",
+    "title": "Knock2Bag Comedy Night with Josie Long at MOTH Club",
+    "start": "2026-09-23T19:00:00+01:00",
+    "end": null,
+    "venue": "MOTH Club",
+    "address": "Old Trades Hall, Valette Street, E9 6NU",
+    "url": "https://dice.fm/event/bb9gmm-knock2bag-comedy-night-with-josie-long-23rd-sep-moth-club-london-tickets",
+    "source": "venue:dice-moth-club",
+    "tags": [
+      "comedy"
+    ],
+    "price": "£17.10",
+    "description": "Knock2Bag's autumn run just went on sale — this edition headlined by Josie Long.",
+    "neighbourhood": "Hackney Central",
+    "cycle_minutes": 12,
+    "added": "2026-08-27"
   },
   {
     "id": "nagasaki-swim-starter-car-symbol-soup-at-the-victoria-fe823f6f",
@@ -5066,6 +5328,24 @@
     "added": "2026-08-08"
   },
   {
+    "id": "knock2bag-comedy-night-with-harry-hill-at-moth-club-d6b296ea",
+    "title": "Knock2Bag Comedy Night with Harry Hill at MOTH Club",
+    "start": "2026-09-30T19:00:00+01:00",
+    "end": null,
+    "venue": "MOTH Club",
+    "address": "Old Trades Hall, Valette Street, E9 6NU",
+    "url": "https://dice.fm/event/l87mer-knock2bag-comedy-night-with-harry-hill-30th-sep-moth-club-london-tickets",
+    "source": "venue:dice-moth-club",
+    "tags": [
+      "comedy"
+    ],
+    "price": "£17.10",
+    "description": "Harry Hill headlines Knock2Bag under the glitter ceiling; he also has WIP nights there 23-25 Nov.",
+    "neighbourhood": "Hackney Central",
+    "cycle_minutes": 12,
+    "added": "2026-08-27"
+  },
+  {
     "id": "gresham-college-shakespearean-england-and-views-of-the-irish-d582b93b",
     "title": "Gresham College: Shakespearean England and Views of the Irish Language (free)",
     "start": "2026-10-01T18:00:00+01:00",
@@ -5248,6 +5528,24 @@
     "neighbourhood": "Mayfair",
     "cycle_minutes": 35,
     "added": "2026-08-11"
+  },
+  {
+    "id": "the-spook-school-happy-accidents-at-the-old-blue-last-08541dba",
+    "title": "The Spook School + Happy Accidents at The Old Blue Last",
+    "start": "2026-10-03T19:30:00+01:00",
+    "end": null,
+    "venue": "The Old Blue Last",
+    "address": "38 Great Eastern Street, EC2A 3ES",
+    "url": "https://dice.fm/event/xe3gx3-the-spook-school-happy-accidents-3rd-oct-the-old-blue-last-london-tickets",
+    "source": "venue:dice-the-old-blue-last",
+    "tags": [
+      "music"
+    ],
+    "price": "from £13.30",
+    "description": "Beloved Glasgow indie-pop band The Spook School play a reunion-era show in the 150-cap upstairs room.",
+    "neighbourhood": "Shoreditch",
+    "cycle_minutes": 7,
+    "added": "2026-08-27"
   },
   {
     "id": "alela-diane-at-earth-a93f5e7f",
@@ -6652,6 +6950,24 @@
     "added": "2026-08-11"
   },
   {
+    "id": "divebar-youth-at-the-shacklewell-arms-free-206d04be",
+    "title": "Divebar Youth at The Shacklewell Arms (free)",
+    "start": "2026-10-26T19:00:00+00:00",
+    "end": null,
+    "venue": "The Shacklewell Arms",
+    "address": "71 Shacklewell Lane, E8 2EB",
+    "url": "https://dice.fm/event/yo5yor-divebar-youth-26th-oct-the-shacklewell-arms-london-tickets",
+    "source": "venue:dice-shacklewell-arms",
+    "tags": [
+      "music"
+    ],
+    "price": "Free",
+    "description": "Free Monday-night show from rising indie act Divebar Youth — the free alternative to dodie the same night.",
+    "neighbourhood": "Dalston",
+    "cycle_minutes": 13,
+    "added": "2026-08-27"
+  },
+  {
     "id": "the-blindboy-podcast-live-barbican-hall-4ea9ff3e",
     "title": "The Blindboy Podcast LIVE — Barbican Hall",
     "start": "2026-10-26T19:30:00+00:00",
@@ -6669,6 +6985,24 @@
     "neighbourhood": "Barbican",
     "cycle_minutes": 15,
     "added": "2026-08-26"
+  },
+  {
+    "id": "dodie-at-earth-853772f7",
+    "title": "dodie at EartH",
+    "start": "2026-10-26T19:30:00+00:00",
+    "end": null,
+    "venue": "EartH",
+    "address": "11 Stoke Newington Road, N16 8BH",
+    "url": "https://dice.fm/event/ww9kyr-dodie-26th-oct-earth-london-tickets",
+    "source": "venue:dice-earth",
+    "tags": [
+      "music"
+    ],
+    "price": "from £52.53 (high but under cap — rare small-venue date)",
+    "description": "Newly announced intimate EartH show from bedroom-pop songwriter dodie — pricey for the room but a rare small-venue date for a big act.",
+    "neighbourhood": "Dalston",
+    "cycle_minutes": 14,
+    "added": "2026-08-27"
   },
   {
     "id": "marina-herlop-at-earth-615d4ff8",
