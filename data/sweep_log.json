@@ -1,5 +1,11 @@
 [
   {
+    "ran_at": "2026-08-28T07:55:00+01:00",
+    "added": 16,
+    "considered": 118,
+    "notes": "Intimate-jazz autumn + RICH MIX BREAKTHROUGH. Rich Mix's public Spektrix API works (system.spektrix.com/richmix/api/v3/events — 200 with plain curl; site itself still Cloudflare-walled): first 4 Rich Mix entries ever (film premiere 9 Sep, Film Stories Live 17 Sep, Anarchist Book Fair warm-up gig 25 Sep + afterparty 26th, Dance Umbrella takeover 24 Oct) — only 8 future events on sale so far, RE-POLL the API in future sweeps as autumn loads in. Vortex regular season x7: Sultan Stevenson 4 Sep, Laura Jurd MILES 100 5 Sep (list page wrongly showed 4th too — event page says 5th only), £6 Sunday jam (weekly — 6 Sep instance), Gard Nilssen 10 Sep, Trish Clowes trio 19 Sep, Xhosa Cole FreeMonk residency 29-30 Sep £13, Julian Siegel 3 Oct. OTO accessible picks x5: Infinity Knives & Brian Ennals 19 Sep, La Tène drone-folk 26 Sep, Simon Finn acid-folk 18 Oct, Bitchin Bajas 22 Oct, The Handover 28 Oct. SCIENCE GALLERY LONDON PERMANENTLY CLOSED (2014-2026 programme concluded) — REMOVED from watchlist. ACX STILL unposted (genuinely late); Moth StorySLAM nothing. Carnival-weekend pass: only skip-rule promo parties. Spares: Evan Parker OTO Sunday matinees 13 Sep/11 Oct, Craig Taborn/Peter Evans Vortex 28 Oct, Randy Crawford Project 20 Oct."
+  },
+  {
     "ran_at": "2026-08-27T07:55:00+01:00",
     "added": 18,
     "considered": 230,
@@ -172,11 +178,5 @@
     "added": 15,
     "considered": 211,
     "notes": "Daily breadth sweep — new-venue pass (EartH, Lexington, Waiting Room, Colours Hoxton, George Tavern, Village Underground all now covered). Added 15: Black Axe Mangal BBQ, weekly Boxpark quiz, board games night, Sunset Sessions 7 Aug, Waiting Room indie bill, Daisy Rickman playing Nick Drake's guitar, Lexington country-punk, Heath walk+sound bath, Jason Molina tribute, Pentangle folk night, Rostam, free Iceland Airwaves showcase, Knock2bag comedy, Laura Veirs, Chris Timmermann DMT talk (4 min). Cut for cap: 8 Aug Sunset edition, shamanic breathwork 21 Aug (clash), family constellations 10 Sep, second Knock2bag 16 Sep. Sold out (excluded): The Bats at Lexington, Elliott Smith homage at George Tavern. EartH is back verifiable via DICE — add to regular rotation."
-  },
-  {
-    "ran_at": "2026-07-30T11:15:00+01:00",
-    "added": 16,
-    "considered": 82,
-    "notes": "BONUS breadth sweep after Bart lowered the curation bar (8-15/day target now). Backfilled: 4 free Sunday Jazz dates + SC/SH Day 2 at Old Blue Last, 3 free Garden Gigs Sundays at The Victoria, Friko at MOTH, 2 Angel Comedy nights (note: Bill Murray shows are ticketed ~£11-14, free shows are at their Camden venue), sound bath, breathwork+cacao session, Luminous full-moon dance + Luminous x &Soul sauna dance (4 min), September Heart Circle. Dead leads confirmed: CLAMM/Stanford Family Band/East London Block Party all past with no future dates; Shroomshop PRO has no 2026 date."
   }
 ]

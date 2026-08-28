@@ -1142,6 +1142,19 @@ URL:https://dice.fm/event/6a835d3d91dc540001919cef
 LOCATION:Paper Dress Vintage\, 352a Mare Street\, E8 1HR
 END:VEVENT
 BEGIN:VEVENT
+UID:sultan-stevenson-two-shows-at-vortex-jazz-club-6eb80fb2@london-events
+DTSTAMP:20260904T183000Z
+DTSTART:20260904T183000Z
+DTEND:20260904T203000Z
+SUMMARY:Sultan Stevenson (two shows) at Vortex Jazz Club
+DESCRIPTION:Rising British jazz pianist plays two intimate sets in the 100
+ -cap Gillett Square room\; early show 7:30pm\, late show 9:30pm.\nPrice: 
+ £18 (£14 concessions)\nhttps://www.vortexjazz.co.uk/event/sultan-steven
+ son-two-shows/
+URL:https://www.vortexjazz.co.uk/event/sultan-stevenson-two-shows/
+LOCATION:Vortex Jazz Club\, 11 Gillett Square\, Dalston\, N16 8AZ
+END:VEVENT
+BEGIN:VEVENT
 UID:the-lantern-society-folk-club-night-at-the-betsey-trotwood-527b8d82@lo
  ndon-events
 DTSTAMP:20260904T190000Z
@@ -1335,6 +1348,19 @@ URL:https://www.barbican.org.uk/whats-on/2026/event/bedouine
 LOCATION:Milton Court Concert Hall\, Milton Court\, Silk Street\, EC2Y 9BH
 END:VEVENT
 BEGIN:VEVENT
+UID:laura-jurd-miles-100-at-vortex-jazz-club-47ae2373@london-events
+DTSTAMP:20260905T190000Z
+DTSTART:20260905T190000Z
+DTEND:20260905T210000Z
+SUMMARY:Laura Jurd — MILES 100 at Vortex Jazz Club
+DESCRIPTION:Trumpeter Laura Jurd marks the Miles Davis centenary with a tw
+ o-set night of Miles-inspired music\; a Vortex Lates show follows.\nPrice
+ : £20 (£16 concessions)\nhttps://www.vortexjazz.co.uk/event/laura-jurd-
+ miles-100/
+URL:https://www.vortexjazz.co.uk/event/laura-jurd-miles-100/
+LOCATION:Vortex Jazz Club\, 11 Gillett Square\, Dalston\, N16 8AZ
+END:VEVENT
+BEGIN:VEVENT
 UID:auld-shillelagh-seisi-n-kevin-olohan-5fa3df9d@london-events
 DTSTAMP:20260905T200000Z
 DTSTART:20260905T200000Z
@@ -1443,6 +1469,21 @@ DESCRIPTION:Free Sunday four-band bill in the Shacklewell back room — cl
  07f9df200017859ec
 URL:https://dice.fm/event/6a830a207f9df200017859ec
 LOCATION:The Shacklewell Arms\, 71 Shacklewell Lane\, E8 2EB
+END:VEVENT
+BEGIN:VEVENT
+UID:vortex-jam-session-6-sunday-jam-6-sep-instance-519c28b8@london-events
+DTSTAMP:20260906T191500Z
+DTSTART:20260906T191500Z
+DTEND:20260906T211500Z
+SUMMARY:Vortex Jam Session — £6 Sunday jam (6 Sep instance)
+DESCRIPTION:The Vortex's weekly Sunday-night house jam — cheap\, sociabl
+ e\, standing-friendly. Runs every Sunday.\nPrice: £6 (free for participa
+ nts)\nhttps://www.vortexjazz.co.uk/event/vortex-jam-session-10-2026-09-06
+ /2026-09-06/
+URL:https://www.vortexjazz.co.uk/event/vortex-jam-session-10-2026-09-06/20
+ 26-09-06/
+LOCATION:Vortex Jazz Club (Downstairs)\, 11 Gillett Square\, Dalston\, N16
+  8AZ
 END:VEVENT
 BEGIN:VEVENT
 UID:monday-contact-improv-class-jam-autumn-season-opener-65e37bfe@london-e
@@ -1771,6 +1812,18 @@ LOCATION:Jamie Oliver Catherine St (Pavilion Room)\, 6 Catherine Street\,
  WC2B 5JY
 END:VEVENT
 BEGIN:VEVENT
+UID:premiere-we-set-the-house-on-fire-at-rich-mix-4aca42f0@london-events
+DTSTAMP:20260909T180000Z
+DTSTART:20260909T180000Z
+DTEND:20260909T200000Z
+SUMMARY:Premiere: We Set the House on Fire at Rich Mix
+DESCRIPTION:Film premiere screening at Rich Mix\, five minutes from home. 
+ Verified via the venue's ticketing API\; browse richmix.org.uk (works in 
+ a normal browser) to book.\nhttps://richmix.org.uk/whats-on/
+URL:https://richmix.org.uk/whats-on/
+LOCATION:Rich Mix\, 35-47 Bethnal Green Road\, E1 6LA
+END:VEVENT
+BEGIN:VEVENT
 UID:fire-fire-new-play-at-arcola-opening-night-7faaf5bf@london-events
 DTSTAMP:20260909T183000Z
 DTSTART:20260909T183000Z
@@ -1994,6 +2047,18 @@ DESCRIPTION:Evening of free movement into sound healing and gong bath at a
 URL:https://www.eventbrite.com/e/dance-sound-healing-gong-bath-tickets-199
  3020446807
 LOCATION:Liquid Movement\, 455 Wick Lane\, Unit 12b\, London E3 2TB
+END:VEVENT
+BEGIN:VEVENT
+UID:gard-nilssen-acoustic-unity-at-vortex-jazz-club-5fb709e0@london-events
+DTSTAMP:20260910T193000Z
+DTSTART:20260910T193000Z
+DTEND:20260910T213000Z
+SUMMARY:Gard Nilssen Acoustic Unity at Vortex Jazz Club
+DESCRIPTION:Norwegian drummer Gard Nilssen's acclaimed trio — melodic\, 
+ high-energy Scandinavian free-bop\, two sets.\nPrice: £18 (£14 concessi
+ ons)\nhttps://www.vortexjazz.co.uk/event/gard-nilssen-acoustic-unity/
+URL:https://www.vortexjazz.co.uk/event/gard-nilssen-acoustic-unity/
+LOCATION:Vortex Jazz Club\, 11 Gillett Square\, Dalston\, N16 8AZ
 END:VEVENT
 BEGIN:VEVENT
 UID:alien-1979-with-intro-bloody-mary-film-club-at-genesis-96b5809c@london
@@ -2844,6 +2909,17 @@ URL:https://www.thursday.com/events/london/thursday-bank-holiday-kick-off-
 LOCATION:The Escapologist\, 35 Earlham St\, Seven Dials\, WC2H 9LD
 END:VEVENT
 BEGIN:VEVENT
+UID:film-stories-live-with-simon-brew-at-rich-mix-7f66659d@london-events
+DTSTAMP:20260917T180000Z
+DTSTART:20260917T180000Z
+DTEND:20260917T200000Z
+SUMMARY:Film Stories Live with Simon Brew at Rich Mix
+DESCRIPTION:Live edition of the Film Stories magazine/podcast — film cha
+ t and stories\, 90 minutes.\nhttps://richmix.org.uk/whats-on/
+URL:https://richmix.org.uk/whats-on/
+LOCATION:Rich Mix\, 35-47 Bethnal Green Road\, E1 6LA
+END:VEVENT
+BEGIN:VEVENT
 UID:open-house-bishopsgate-goodsyard-behind-the-hoarding-at-the--2f7700ca@
  london-events
 DTSTAMP:20260918T100000Z
@@ -3141,6 +3217,33 @@ DESCRIPTION:Saturday-evening Ri talk on the missing and hidden data that q
 URL:https://www.rigb.org/whats-on/you-dont-know-what-youre-m-ss-ng-hidden-
  data-shaping-our-behaviour
 LOCATION:Royal Institution\, 21 Albemarle Street\, Mayfair W1S 4BS
+END:VEVENT
+BEGIN:VEVENT
+UID:infinity-knives-brian-ennals-at-cafe-oto-8852a141@london-events
+DTSTAMP:20260919T183000Z
+DTSTART:20260919T183000Z
+DTEND:20260919T203000Z
+SUMMARY:Infinity Knives & Brian Ennals at Cafe OTO
+DESCRIPTION:Baltimore duo — fierce\, funny\, politically charged experim
+ ental hip-hop\, far more accessible than the OTO norm.\nhttps://www.cafeo
+ to.co.uk/events/infinity-knives-brian-ennals-2026/
+URL:https://www.cafeoto.co.uk/events/infinity-knives-brian-ennals-2026/
+LOCATION:Cafe OTO\, 18-22 Ashwin Street\, Dalston\, E8 3DL
+END:VEVENT
+BEGIN:VEVENT
+UID:trish-clowes-adriano-adewale-ross-stanley-at-vortex-9416bfe8@london-ev
+ ents
+DTSTAMP:20260919T193000Z
+DTSTART:20260919T193000Z
+DTEND:20260919T213000Z
+SUMMARY:Trish Clowes / Adriano Adewale / Ross Stanley at Vortex
+DESCRIPTION:Saxophonist Trish Clowes in a lyrical trio with Brazilian perc
+ ussionist Adriano Adewale and organist Ross Stanley — warm and accessib
+ le.\nPrice: £18 (£14 concessions)\nhttps://www.vortexjazz.co.uk/event/t
+ rish-clowesadriano-adewaleross-stanley/
+URL:https://www.vortexjazz.co.uk/event/trish-clowesadriano-adewaleross-sta
+ nley/
+LOCATION:Vortex Jazz Club\, 11 Gillett Square\, Dalston\, N16 8AZ
 END:VEVENT
 BEGIN:VEVENT
 UID:ecstatic-dance-uk-sun-day-morning-dance-ca002029@london-events
@@ -3583,6 +3686,18 @@ URL:https://www.kingsplace.co.uk/whats-on/folk/martin-simpson-6/
 LOCATION:Kings Place (Hall One)\, 90 York Way\, N1 9AG
 END:VEVENT
 BEGIN:VEVENT
+UID:anarchist-book-fair-warm-up-gig-at-rich-mix-448497c1@london-events
+DTSTAMP:20260925T183000Z
+DTSTART:20260925T183000Z
+DTEND:20260925T203000Z
+SUMMARY:Anarchist Book Fair: warm-up gig at Rich Mix
+DESCRIPTION:Live music night warming up the London Anarchist Book Fair wee
+ kend\; an afterparty follows Sat 26 Sep 7:30pm.\nhttps://richmix.org.uk/w
+ hats-on/
+URL:https://richmix.org.uk/whats-on/
+LOCATION:Rich Mix\, 35-47 Bethnal Green Road\, E1 6LA
+END:VEVENT
+BEGIN:VEVENT
 UID:cacao-dance-tribe-friday-night-dance-cacao-354d394a@london-events
 DTSTAMP:20260925T184500Z
 DTSTART:20260925T184500Z
@@ -3745,6 +3860,19 @@ DESCRIPTION:Month-end free Saturday showcase.\nPrice: Free\nhttps://www.an
  gelcomedy.co.uk/whats-on/
 URL:https://www.angelcomedy.co.uk/whats-on/
 LOCATION:The Camden Head\, 2 Camden Walk\, Islington\, N1 8DY
+END:VEVENT
+BEGIN:VEVENT
+UID:la-t-ne-sourdure-at-cafe-oto-37477922@london-events
+DTSTAMP:20260926T183000Z
+DTSTART:20260926T183000Z
+DTEND:20260926T203000Z
+SUMMARY:La Tène + Sourdure at Cafe OTO
+DESCRIPTION:Franco-Swiss trio building hypnotic drone-folk from hurdy-gurd
+ y and harmonium\, with Auvergne folk deconstructor Sourdure — trance-in
+ ducing rather than harsh.\nhttps://www.cafeoto.co.uk/events/byh-la-tene-s
+ ourdure/
+URL:https://www.cafeoto.co.uk/events/byh-la-tene-sourdure/
+LOCATION:Cafe OTO\, 18-22 Ashwin Street\, Dalston\, E8 3DL
 END:VEVENT
 BEGIN:VEVENT
 UID:vocal-playground-collaborative-vocal-improv-day-cd91b53f@london-events
@@ -3943,6 +4071,21 @@ DESCRIPTION:Free Tuesday-night live double bill — £0 ticket via DICE.\n
  Price: Free\nhttps://dice.fm/event/6a882c599dda5c000186ff82
 URL:https://dice.fm/event/6a882c599dda5c000186ff82
 LOCATION:The Old Blue Last\, 38 Great Eastern Street\, EC2A 3ES
+END:VEVENT
+BEGIN:VEVENT
+UID:xhosa-cole-presents-freemonk-residency-night-one-at-vortex-daf1cf25@lo
+ ndon-events
+DTSTAMP:20260929T193000Z
+DTSTART:20260929T193000Z
+DTEND:20260929T213000Z
+SUMMARY:Xhosa Cole presents FreeMonk — residency night one at Vortex
+DESCRIPTION:Award-winning saxophonist Xhosa Cole opens a two-night residen
+ cy reimagining Thelonious Monk — cheap for the calibre\; night two 30 S
+ ep.\nPrice: £13 (£8 concessions\; both nights £20)\nhttps://www.vortex
+ jazz.co.uk/event/xhosa-cole-presents-freemonk-residency-day-1/
+URL:https://www.vortexjazz.co.uk/event/xhosa-cole-presents-freemonk-reside
+ ncy-day-1/
+LOCATION:Vortex Jazz Club\, 11 Gillett Square\, Dalston\, N16 8AZ
 END:VEVENT
 BEGIN:VEVENT
 UID:ecuadorian-cookery-class-with-judith-migrateful-f5d724d8@london-events
@@ -4163,6 +4306,18 @@ DESCRIPTION:Beloved Glasgow indie-pop band The Spook School play a reunion
 URL:https://dice.fm/event/xe3gx3-the-spook-school-happy-accidents-3rd-oct-
  the-old-blue-last-london-tickets
 LOCATION:The Old Blue Last\, 38 Great Eastern Street\, EC2A 3ES
+END:VEVENT
+BEGIN:VEVENT
+UID:julian-siegel-quartet-at-vortex-jazz-club-133cc6a0@london-events
+DTSTAMP:20261003T193000Z
+DTSTART:20261003T193000Z
+DTEND:20261003T213000Z
+SUMMARY:Julian Siegel Quartet at Vortex Jazz Club
+DESCRIPTION:UK saxophone stalwart Julian Siegel brings his long-running qu
+ artet for a Saturday night of two sets.\nPrice: £20 (£16 concessions)\n
+ https://www.vortexjazz.co.uk/event/julian-siegel-quartet-17/
+URL:https://www.vortexjazz.co.uk/event/julian-siegel-quartet-17/
+LOCATION:Vortex Jazz Club\, 11 Gillett Square\, Dalston\, N16 8AZ
 END:VEVENT
 BEGIN:VEVENT
 UID:alela-diane-at-earth-a93f5e7f@london-events
@@ -4912,6 +5067,19 @@ URL:https://dandelion.events/e/g6f2y
 LOCATION:Self-Retreat Studio\, 49 Kentish Town Road\, NW1 8NX
 END:VEVENT
 BEGIN:VEVENT
+UID:simon-finn-the-owl-service-at-cafe-oto-97859460@london-events
+DTSTAMP:20261018T183000Z
+DTSTART:20261018T183000Z
+DTEND:20261018T203000Z
+SUMMARY:Simon Finn + The Owl Service at Cafe OTO
+DESCRIPTION:Cult acid-folk singer Simon Finn ('Pass the Distance'\, 1970) 
+ with English folk-rock revivalists The Owl Service — a proper folk nigh
+ t at OTO.\nhttps://www.cafeoto.co.uk/events/byh-simon-finn-tony-caro-and-
+ john/
+URL:https://www.cafeoto.co.uk/events/byh-simon-finn-tony-caro-and-john/
+LOCATION:Cafe OTO\, 18-22 Ashwin Street\, Dalston\, E8 3DL
+END:VEVENT
+BEGIN:VEVENT
 UID:shaemless-at-the-old-blue-last-free-931ab1cc@london-events
 DTSTAMP:20261018T190000Z
 DTSTART:20261018T190000Z
@@ -5042,6 +5210,18 @@ URL:https://dice.fm/event/l85r6b-brown-horse-22nd-oct-moth-club-london-tic
 LOCATION:MOTH Club\, Old Trades Hall\, Valette Street\, E9 6NU
 END:VEVENT
 BEGIN:VEVENT
+UID:bitchin-bajas-at-cafe-oto-fb015bcc@london-events
+DTSTAMP:20261022T183000Z
+DTSTART:20261022T183000Z
+DTEND:20261022T203000Z
+SUMMARY:Bitchin Bajas at Cafe OTO
+DESCRIPTION:Chicago synth trio play blissed-out kosmische minimalism — o
+ rgans\, flutes and tape loops in gentle motorik grooves.\nhttps://www.caf
+ eoto.co.uk/events/bitchin-bajas-2026/
+URL:https://www.cafeoto.co.uk/events/bitchin-bajas-2026/
+LOCATION:Cafe OTO\, 18-22 Ashwin Street\, Dalston\, E8 3DL
+END:VEVENT
+BEGIN:VEVENT
 UID:hackney-comedy-experience-with-jen-brister-at-earth-65e1c479@london-ev
  ents
 DTSTAMP:20261023T180000Z
@@ -5123,6 +5303,18 @@ DESCRIPTION:Day of talks and performance on psychedelics and intimacy endi
  .events/e/l6r0o
 URL:https://dandelion.events/e/l6r0o
 LOCATION:Om Being\, Amhurst Terrace\, London E8
+END:VEVENT
+BEGIN:VEVENT
+UID:dance-umbrella-memory-in-motion-at-rich-mix-2675d0e6@london-events
+DTSTAMP:20261024T170000Z
+DTSTART:20261024T170000Z
+DTEND:20261024T190000Z
+SUMMARY:Dance Umbrella: Memory in Motion at Rich Mix
+DESCRIPTION:Evening performance in Dance Umbrella's Rich Mix takeover day 
+ (also Touch the Floor 1pm and an artist conversation 3:30pm that Saturday
+ ).\nhttps://richmix.org.uk/whats-on/
+URL:https://richmix.org.uk/whats-on/
+LOCATION:Rich Mix\, 35-47 Bethnal Green Road\, E1 6LA
 END:VEVENT
 BEGIN:VEVENT
 UID:an-evening-of-unnecessary-detail-festival-of-the-spoken-nerd-162bf026@
@@ -5279,6 +5471,20 @@ DESCRIPTION:Woozy soul/psych songwriter Nick Hakim's London show on his UK
 URL:https://dice.fm/event/wwpmpv-nick-hakim-28th-oct-village-underground-l
  ondon-tickets
 LOCATION:Village Underground\, 54 Holywell Lane\, EC2A 3PQ
+END:VEVENT
+BEGIN:VEVENT
+UID:the-handover-aly-eissa-ayman-asfour-jonas-cambien-at-cafe-ot-a263dc2e@
+ london-events
+DTSTAMP:20261028T193000Z
+DTSTART:20261028T193000Z
+DTEND:20261028T213000Z
+SUMMARY:The Handover (Aly Eissa / Ayman Asfour / Jonas Cambien) at Cafe OT
+ O
+DESCRIPTION:Egyptian-Belgian trio blending oud\, violin and keys — Arabi
+ c maqam melodies over slow-building minimalist grooves.\nhttps://www.cafe
+ oto.co.uk/events/the-handover/
+URL:https://www.cafeoto.co.uk/events/the-handover/
+LOCATION:Cafe OTO\, 18-22 Ashwin Street\, Dalston\, E8 3DL
 END:VEVENT
 BEGIN:VEVENT
 UID:training-ground-4-day-contact-improvisation-intensive-rick-n-bd8ce8ed@

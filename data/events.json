@@ -1489,6 +1489,24 @@
     "added": "2026-08-20"
   },
   {
+    "id": "sultan-stevenson-two-shows-at-vortex-jazz-club-6eb80fb2",
+    "title": "Sultan Stevenson (two shows) at Vortex Jazz Club",
+    "start": "2026-09-04T19:30:00+01:00",
+    "end": null,
+    "venue": "Vortex Jazz Club",
+    "address": "11 Gillett Square, Dalston, N16 8AZ",
+    "url": "https://www.vortexjazz.co.uk/event/sultan-stevenson-two-shows/",
+    "source": "venue:vortex",
+    "tags": [
+      "music"
+    ],
+    "price": "£18 (£14 concessions)",
+    "description": "Rising British jazz pianist plays two intimate sets in the 100-cap Gillett Square room; early show 7:30pm, late show 9:30pm.",
+    "neighbourhood": "Dalston",
+    "cycle_minutes": 14,
+    "added": "2026-08-28"
+  },
+  {
     "id": "the-lantern-society-folk-club-night-at-the-betsey-trotwood-527b8d82",
     "title": "The Lantern Society — folk club night at The Betsey Trotwood",
     "start": "2026-09-04T20:00:00+01:00",
@@ -1752,6 +1770,24 @@
     "added": "2026-08-26"
   },
   {
+    "id": "laura-jurd-miles-100-at-vortex-jazz-club-47ae2373",
+    "title": "Laura Jurd — MILES 100 at Vortex Jazz Club",
+    "start": "2026-09-05T20:00:00+01:00",
+    "end": null,
+    "venue": "Vortex Jazz Club",
+    "address": "11 Gillett Square, Dalston, N16 8AZ",
+    "url": "https://www.vortexjazz.co.uk/event/laura-jurd-miles-100/",
+    "source": "venue:vortex",
+    "tags": [
+      "music"
+    ],
+    "price": "£20 (£16 concessions)",
+    "description": "Trumpeter Laura Jurd marks the Miles Davis centenary with a two-set night of Miles-inspired music; a Vortex Lates show follows.",
+    "neighbourhood": "Dalston",
+    "cycle_minutes": 14,
+    "added": "2026-08-28"
+  },
+  {
     "id": "auld-shillelagh-seisi-n-kevin-olohan-5fa3df9d",
     "title": "Auld Shillelagh Seisiún: Kevin Olohan",
     "start": "2026-09-05T21:00:00+01:00",
@@ -1900,6 +1936,25 @@
     "neighbourhood": "Dalston",
     "cycle_minutes": 13,
     "added": "2026-08-24"
+  },
+  {
+    "id": "vortex-jam-session-6-sunday-jam-6-sep-instance-519c28b8",
+    "title": "Vortex Jam Session — £6 Sunday jam (6 Sep instance)",
+    "start": "2026-09-06T20:15:00+01:00",
+    "end": null,
+    "venue": "Vortex Jazz Club (Downstairs)",
+    "address": "11 Gillett Square, Dalston, N16 8AZ",
+    "url": "https://www.vortexjazz.co.uk/event/vortex-jam-session-10-2026-09-06/2026-09-06/",
+    "source": "venue:vortex",
+    "tags": [
+      "music",
+      "community"
+    ],
+    "price": "£6 (free for participants)",
+    "description": "The Vortex's weekly Sunday-night house jam — cheap, sociable, standing-friendly. Runs every Sunday.",
+    "neighbourhood": "Dalston",
+    "cycle_minutes": 14,
+    "added": "2026-08-28"
   },
   {
     "title": "Monday Contact Improv: Class + Jam — autumn season opener",
@@ -2327,6 +2382,24 @@
     "added": "2026-08-16"
   },
   {
+    "id": "premiere-we-set-the-house-on-fire-at-rich-mix-4aca42f0",
+    "title": "Premiere: We Set the House on Fire at Rich Mix",
+    "start": "2026-09-09T19:00:00+01:00",
+    "end": null,
+    "venue": "Rich Mix",
+    "address": "35-47 Bethnal Green Road, E1 6LA",
+    "url": "https://richmix.org.uk/whats-on/",
+    "source": "venue:rich-mix",
+    "tags": [
+      "film"
+    ],
+    "price": null,
+    "description": "Film premiere screening at Rich Mix, five minutes from home. Verified via the venue's ticketing API; browse richmix.org.uk (works in a normal browser) to book.",
+    "neighbourhood": "Shoreditch",
+    "cycle_minutes": 3,
+    "added": "2026-08-28"
+  },
+  {
     "title": "Fire Fire — new play at Arcola (opening night)",
     "start": "2026-09-09T19:30:00+01:00",
     "end": "2026-09-09T20:50:00+01:00",
@@ -2619,6 +2692,24 @@
     "neighbourhood": "Fish Island",
     "cycle_minutes": 12,
     "added": "2026-08-17"
+  },
+  {
+    "id": "gard-nilssen-acoustic-unity-at-vortex-jazz-club-5fb709e0",
+    "title": "Gard Nilssen Acoustic Unity at Vortex Jazz Club",
+    "start": "2026-09-10T20:30:00+01:00",
+    "end": null,
+    "venue": "Vortex Jazz Club",
+    "address": "11 Gillett Square, Dalston, N16 8AZ",
+    "url": "https://www.vortexjazz.co.uk/event/gard-nilssen-acoustic-unity/",
+    "source": "venue:vortex",
+    "tags": [
+      "music"
+    ],
+    "price": "£18 (£14 concessions)",
+    "description": "Norwegian drummer Gard Nilssen's acclaimed trio — melodic, high-energy Scandinavian free-bop, two sets.",
+    "neighbourhood": "Dalston",
+    "cycle_minutes": 14,
+    "added": "2026-08-28"
   },
   {
     "id": "alien-1979-with-intro-bloody-mary-film-club-at-genesis-96b5809c",
@@ -3747,6 +3838,25 @@
     "added": "2026-08-24"
   },
   {
+    "id": "film-stories-live-with-simon-brew-at-rich-mix-7f66659d",
+    "title": "Film Stories Live with Simon Brew at Rich Mix",
+    "start": "2026-09-17T19:00:00+01:00",
+    "end": null,
+    "venue": "Rich Mix",
+    "address": "35-47 Bethnal Green Road, E1 6LA",
+    "url": "https://richmix.org.uk/whats-on/",
+    "source": "venue:rich-mix",
+    "tags": [
+      "film",
+      "talk"
+    ],
+    "price": null,
+    "description": "Live edition of the Film Stories magazine/podcast — film chat and stories, 90 minutes.",
+    "neighbourhood": "Shoreditch",
+    "cycle_minutes": 3,
+    "added": "2026-08-28"
+  },
+  {
     "id": "open-house-bishopsgate-goodsyard-behind-the-hoarding-at-the--2f7700ca",
     "title": "Open House: Bishopsgate Goodsyard — behind the hoarding at the Braithwaite Arches",
     "start": "2026-09-18T11:00:00+01:00",
@@ -4140,6 +4250,42 @@
     "neighbourhood": "Mayfair",
     "cycle_minutes": 35,
     "added": "2026-08-10"
+  },
+  {
+    "id": "infinity-knives-brian-ennals-at-cafe-oto-8852a141",
+    "title": "Infinity Knives & Brian Ennals at Cafe OTO",
+    "start": "2026-09-19T19:30:00+01:00",
+    "end": null,
+    "venue": "Cafe OTO",
+    "address": "18-22 Ashwin Street, Dalston, E8 3DL",
+    "url": "https://www.cafeoto.co.uk/events/infinity-knives-brian-ennals-2026/",
+    "source": "venue:cafe-oto",
+    "tags": [
+      "music"
+    ],
+    "price": null,
+    "description": "Baltimore duo — fierce, funny, politically charged experimental hip-hop, far more accessible than the OTO norm.",
+    "neighbourhood": "Dalston",
+    "cycle_minutes": 14,
+    "added": "2026-08-28"
+  },
+  {
+    "id": "trish-clowes-adriano-adewale-ross-stanley-at-vortex-9416bfe8",
+    "title": "Trish Clowes / Adriano Adewale / Ross Stanley at Vortex",
+    "start": "2026-09-19T20:30:00+01:00",
+    "end": null,
+    "venue": "Vortex Jazz Club",
+    "address": "11 Gillett Square, Dalston, N16 8AZ",
+    "url": "https://www.vortexjazz.co.uk/event/trish-clowesadriano-adewaleross-stanley/",
+    "source": "venue:vortex",
+    "tags": [
+      "music"
+    ],
+    "price": "£18 (£14 concessions)",
+    "description": "Saxophonist Trish Clowes in a lyrical trio with Brazilian percussionist Adriano Adewale and organist Ross Stanley — warm and accessible.",
+    "neighbourhood": "Dalston",
+    "cycle_minutes": 14,
+    "added": "2026-08-28"
   },
   {
     "id": "ecstatic-dance-uk-sun-day-morning-dance-ca002029",
@@ -4715,6 +4861,24 @@
     "added": "2026-08-19"
   },
   {
+    "id": "anarchist-book-fair-warm-up-gig-at-rich-mix-448497c1",
+    "title": "Anarchist Book Fair: warm-up gig at Rich Mix",
+    "start": "2026-09-25T19:30:00+01:00",
+    "end": null,
+    "venue": "Rich Mix",
+    "address": "35-47 Bethnal Green Road, E1 6LA",
+    "url": "https://richmix.org.uk/whats-on/",
+    "source": "venue:rich-mix",
+    "tags": [
+      "music"
+    ],
+    "price": null,
+    "description": "Live music night warming up the London Anarchist Book Fair weekend; an afterparty follows Sat 26 Sep 7:30pm.",
+    "neighbourhood": "Shoreditch",
+    "cycle_minutes": 3,
+    "added": "2026-08-28"
+  },
+  {
     "id": "cacao-dance-tribe-friday-night-dance-cacao-354d394a",
     "title": "Cacao Dance Tribe: Friday Night Dance & Cacao",
     "start": "2026-09-25T19:45:00+01:00",
@@ -4935,6 +5099,24 @@
     "neighbourhood": "Angel",
     "cycle_minutes": 18,
     "added": "2026-08-25"
+  },
+  {
+    "id": "la-t-ne-sourdure-at-cafe-oto-37477922",
+    "title": "La Tène + Sourdure at Cafe OTO",
+    "start": "2026-09-26T19:30:00+01:00",
+    "end": null,
+    "venue": "Cafe OTO",
+    "address": "18-22 Ashwin Street, Dalston, E8 3DL",
+    "url": "https://www.cafeoto.co.uk/events/byh-la-tene-sourdure/",
+    "source": "venue:cafe-oto",
+    "tags": [
+      "music"
+    ],
+    "price": null,
+    "description": "Franco-Swiss trio building hypnotic drone-folk from hurdy-gurdy and harmonium, with Auvergne folk deconstructor Sourdure — trance-inducing rather than harsh.",
+    "neighbourhood": "Dalston",
+    "cycle_minutes": 14,
+    "added": "2026-08-28"
   },
   {
     "id": "vocal-playground-collaborative-vocal-improv-day-cd91b53f",
@@ -5213,6 +5395,24 @@
     "neighbourhood": "Shoreditch",
     "cycle_minutes": 7,
     "added": "2026-08-24"
+  },
+  {
+    "id": "xhosa-cole-presents-freemonk-residency-night-one-at-vortex-daf1cf25",
+    "title": "Xhosa Cole presents FreeMonk — residency night one at Vortex",
+    "start": "2026-09-29T20:30:00+01:00",
+    "end": null,
+    "venue": "Vortex Jazz Club",
+    "address": "11 Gillett Square, Dalston, N16 8AZ",
+    "url": "https://www.vortexjazz.co.uk/event/xhosa-cole-presents-freemonk-residency-day-1/",
+    "source": "venue:vortex",
+    "tags": [
+      "music"
+    ],
+    "price": "£13 (£8 concessions; both nights £20)",
+    "description": "Award-winning saxophonist Xhosa Cole opens a two-night residency reimagining Thelonious Monk — cheap for the calibre; night two 30 Sep.",
+    "neighbourhood": "Dalston",
+    "cycle_minutes": 14,
+    "added": "2026-08-28"
   },
   {
     "id": "ecuadorian-cookery-class-with-judith-migrateful-f5d724d8",
@@ -5509,6 +5709,24 @@
     "neighbourhood": "Shoreditch",
     "cycle_minutes": 7,
     "added": "2026-08-27"
+  },
+  {
+    "id": "julian-siegel-quartet-at-vortex-jazz-club-133cc6a0",
+    "title": "Julian Siegel Quartet at Vortex Jazz Club",
+    "start": "2026-10-03T20:30:00+01:00",
+    "end": null,
+    "venue": "Vortex Jazz Club",
+    "address": "11 Gillett Square, Dalston, N16 8AZ",
+    "url": "https://www.vortexjazz.co.uk/event/julian-siegel-quartet-17/",
+    "source": "venue:vortex",
+    "tags": [
+      "music"
+    ],
+    "price": "£20 (£16 concessions)",
+    "description": "UK saxophone stalwart Julian Siegel brings his long-running quartet for a Saturday night of two sets.",
+    "neighbourhood": "Dalston",
+    "cycle_minutes": 14,
+    "added": "2026-08-28"
   },
   {
     "id": "alela-diane-at-earth-a93f5e7f",
@@ -6527,6 +6745,24 @@
     "added": "2026-08-15"
   },
   {
+    "id": "simon-finn-the-owl-service-at-cafe-oto-97859460",
+    "title": "Simon Finn + The Owl Service at Cafe OTO",
+    "start": "2026-10-18T19:30:00+01:00",
+    "end": null,
+    "venue": "Cafe OTO",
+    "address": "18-22 Ashwin Street, Dalston, E8 3DL",
+    "url": "https://www.cafeoto.co.uk/events/byh-simon-finn-tony-caro-and-john/",
+    "source": "venue:cafe-oto",
+    "tags": [
+      "music"
+    ],
+    "price": null,
+    "description": "Cult acid-folk singer Simon Finn ('Pass the Distance', 1970) with English folk-rock revivalists The Owl Service — a proper folk night at OTO.",
+    "neighbourhood": "Dalston",
+    "cycle_minutes": 14,
+    "added": "2026-08-28"
+  },
+  {
     "id": "shaemless-at-the-old-blue-last-free-931ab1cc",
     "title": "Shaemless at The Old Blue Last (free)",
     "start": "2026-10-18T20:00:00+01:00",
@@ -6712,6 +6948,24 @@
     "added": "2026-08-09"
   },
   {
+    "id": "bitchin-bajas-at-cafe-oto-fb015bcc",
+    "title": "Bitchin Bajas at Cafe OTO",
+    "start": "2026-10-22T19:30:00+01:00",
+    "end": null,
+    "venue": "Cafe OTO",
+    "address": "18-22 Ashwin Street, Dalston, E8 3DL",
+    "url": "https://www.cafeoto.co.uk/events/bitchin-bajas-2026/",
+    "source": "venue:cafe-oto",
+    "tags": [
+      "music"
+    ],
+    "price": null,
+    "description": "Chicago synth trio play blissed-out kosmische minimalism — organs, flutes and tape loops in gentle motorik grooves.",
+    "neighbourhood": "Dalston",
+    "cycle_minutes": 14,
+    "added": "2026-08-28"
+  },
+  {
     "id": "hackney-comedy-experience-with-jen-brister-at-earth-65e1c479",
     "title": "Hackney Comedy Experience with Jen Brister at EartH",
     "start": "2026-10-23T19:00:00+01:00",
@@ -6820,6 +7074,25 @@
     "neighbourhood": "Hackney Downs",
     "cycle_minutes": 12,
     "added": "2026-08-09"
+  },
+  {
+    "id": "dance-umbrella-memory-in-motion-at-rich-mix-2675d0e6",
+    "title": "Dance Umbrella: Memory in Motion at Rich Mix",
+    "start": "2026-10-24T18:00:00+01:00",
+    "end": null,
+    "venue": "Rich Mix",
+    "address": "35-47 Bethnal Green Road, E1 6LA",
+    "url": "https://richmix.org.uk/whats-on/",
+    "source": "venue:rich-mix",
+    "tags": [
+      "dance",
+      "theatre"
+    ],
+    "price": null,
+    "description": "Evening performance in Dance Umbrella's Rich Mix takeover day (also Touch the Floor 1pm and an artist conversation 3:30pm that Saturday).",
+    "neighbourhood": "Shoreditch",
+    "cycle_minutes": 3,
+    "added": "2026-08-28"
   },
   {
     "id": "an-evening-of-unnecessary-detail-festival-of-the-spoken-nerd-162bf026",
@@ -7039,6 +7312,24 @@
     "neighbourhood": "Shoreditch",
     "cycle_minutes": 7,
     "added": "2026-08-15"
+  },
+  {
+    "id": "the-handover-aly-eissa-ayman-asfour-jonas-cambien-at-cafe-ot-a263dc2e",
+    "title": "The Handover (Aly Eissa / Ayman Asfour / Jonas Cambien) at Cafe OTO",
+    "start": "2026-10-28T19:30:00+00:00",
+    "end": null,
+    "venue": "Cafe OTO",
+    "address": "18-22 Ashwin Street, Dalston, E8 3DL",
+    "url": "https://www.cafeoto.co.uk/events/the-handover/",
+    "source": "venue:cafe-oto",
+    "tags": [
+      "music"
+    ],
+    "price": null,
+    "description": "Egyptian-Belgian trio blending oud, violin and keys — Arabic maqam melodies over slow-building minimalist grooves.",
+    "neighbourhood": "Dalston",
+    "cycle_minutes": 14,
+    "added": "2026-08-28"
   },
   {
     "id": "training-ground-4-day-contact-improvisation-intensive-rick-n-bd8ce8ed",
