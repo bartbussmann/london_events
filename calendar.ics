@@ -5,36 +5,6 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:London Events
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
-UID:speed-dating-speed-karaoke-at-moth-club-25-aug-edition-9bd6fb05@london
- -events
-DTSTAMP:20260825T180000Z
-DTSTART:20260825T180000Z
-DTEND:20260825T200000Z
-SUMMARY:Speed Dating + Speed Karaoke at MOTH Club (25 Aug edition)
-DESCRIPTION:New date for the mixed 20s/30s speed dating + speed karaoke ni
- ght under MOTH Club's glitter ceiling — the 5 Aug edition is also on th
- e calendar.\nPrice: £9.50\nhttps://dice.fm/event/bb7yxo-speed-dating-spe
- ed-karaoke-25th-aug-moth-club-london-tickets
-URL:https://dice.fm/event/bb7yxo-speed-dating-speed-karaoke-25th-aug-moth-
- club-london-tickets
-LOCATION:MOTH Club\, Old Trades Hall\, Valette Street\, E9 6NU
-END:VEVENT
-BEGIN:VEVENT
-UID:carson-mchone-birds-flying-backwards-at-the-shacklewell-arms-ef41f4c7@
- london-events
-DTSTAMP:20260825T183000Z
-DTSTART:20260825T183000Z
-DTEND:20260825T220000Z
-SUMMARY:Carson McHone + Birds Flying Backwards at The Shacklewell Arms
-DESCRIPTION:Austin-raised alt-country/folk songwriter Carson McHone (Loose
-  Music) plays an intimate 200-cap back-room show with support from Birds 
- Flying Backwards.\nPrice: £15.90\nhttps://dice.fm/event/92ke3o-carson-mc
- hone-birds-flying-backwards-25th-aug-the-shacklewell-arms-london-tickets
-URL:https://dice.fm/event/92ke3o-carson-mchone-birds-flying-backwards-25th
- -aug-the-shacklewell-arms-london-tickets
-LOCATION:The Shacklewell Arms\, 71 Shacklewell Lane\, E8 2EB
-END:VEVENT
-BEGIN:VEVENT
 UID:masterclass-a-conversation-with-stanley-kwan-0e409eda@london-events
 DTSTAMP:20260826T170000Z
 DTSTART:20260826T170000Z

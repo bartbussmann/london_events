@@ -1,42 +1,5 @@
 [
   {
-    "id": "speed-dating-speed-karaoke-at-moth-club-25-aug-edition-9bd6fb05",
-    "title": "Speed Dating + Speed Karaoke at MOTH Club (25 Aug edition)",
-    "start": "2026-08-25T19:00:00+01:00",
-    "end": null,
-    "venue": "MOTH Club",
-    "address": "Old Trades Hall, Valette Street, E9 6NU",
-    "url": "https://dice.fm/event/bb7yxo-speed-dating-speed-karaoke-25th-aug-moth-club-london-tickets",
-    "source": "venue:dice-moth-club",
-    "tags": [
-      "community",
-      "music"
-    ],
-    "price": "£9.50",
-    "description": "New date for the mixed 20s/30s speed dating + speed karaoke night under MOTH Club's glitter ceiling — the 5 Aug edition is also on the calendar.",
-    "neighbourhood": "Hackney Central",
-    "cycle_minutes": 12,
-    "added": "2026-08-04"
-  },
-  {
-    "title": "Carson McHone + Birds Flying Backwards at The Shacklewell Arms",
-    "start": "2026-08-25T19:30:00+01:00",
-    "end": "2026-08-25T23:00:00+01:00",
-    "venue": "The Shacklewell Arms",
-    "address": "71 Shacklewell Lane, E8 2EB",
-    "url": "https://dice.fm/event/92ke3o-carson-mchone-birds-flying-backwards-25th-aug-the-shacklewell-arms-london-tickets",
-    "source": "keyword-search",
-    "tags": [
-      "music"
-    ],
-    "price": "£15.90",
-    "description": "Austin-raised alt-country/folk songwriter Carson McHone (Loose Music) plays an intimate 200-cap back-room show with support from Birds Flying Backwards.",
-    "neighbourhood": "Dalston",
-    "cycle_minutes": 13,
-    "id": "carson-mchone-birds-flying-backwards-at-the-shacklewell-arms-ef41f4c7",
-    "added": "2026-07-27"
-  },
-  {
     "title": "Masterclass: A Conversation with Stanley Kwan",
     "start": "2026-08-26T18:00:00+01:00",
     "end": "2026-08-26T20:00:00+01:00",
