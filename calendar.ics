@@ -657,6 +657,18 @@ URL:https://www.eventbrite.co.uk/e/life-drawing-at-the-halley-with-hannah-
 LOCATION:The Halley\, 2-10 Hertford Road\, De Beauvoir\, N1 5ET
 END:VEVENT
 BEGIN:VEVENT
+UID:ai-assisted-math-research-paper-club-free-d4392bcb@london-events
+DTSTAMP:20260902T173000Z
+DTSTART:20260902T173000Z
+DTEND:20260902T190000Z
+SUMMARY:AI-Assisted Math Research Paper Club (free)
+DESCRIPTION:Free open paper club discussing recent AI-for-mathematics resu
+ lts — nerdy\, discussion-based\, rationality-adjacent crowd.\nPrice: Fr
+ ee\nhttps://luma.com/2gbm9s54
+URL:https://luma.com/2gbm9s54
+LOCATION:LABS House\, 15-19 Bloomsbury Way\, WC1A 2TH
+END:VEVENT
+BEGIN:VEVENT
 UID:thursday-30-new-venue-singles-night-at-oche-the-strand-4f0c859b@london
  -events
 DTSTAMP:20260902T180000Z
@@ -744,6 +756,20 @@ URL:https://backyardcomedyclub.co.uk/event/link/?ceId=8989a3c3-55aa-4123-a
  548-48276821be6a
 LOCATION:Backyard Comedy Club\, 231 Cambridge Heath Rd\, Bethnal Green\, E
  2 0EL
+END:VEVENT
+BEGIN:VEVENT
+UID:afterthoughts-how-tech-is-rewiring-our-expectations-free-4da95543@lond
+ on-events
+DTSTAMP:20260903T170000Z
+DTSTART:20260903T170000Z
+DTEND:20260903T190000Z
+SUMMARY:Afterthoughts: how tech is rewiring our expectations (free)
+DESCRIPTION:Free evening discussion at Makerversity on how AI\, health tra
+ cking and smart products reshape what we expect from everything else.\nPr
+ ice: Free\nhttps://luma.com/xhqiqwve
+URL:https://luma.com/xhqiqwve
+LOCATION:Makerversity\, Somerset House\, West Goods Entrance\, Somerset Ho
+ use\, WC2R 1LA
 END:VEVENT
 BEGIN:VEVENT
 UID:jacqui-mcshee-s-pentangle-junior-brother-at-earth-9e81b40a@london-even
@@ -954,9 +980,9 @@ DTSTART:20260903T190000Z
 DTEND:20260903T210000Z
 SUMMARY:T.W.C 5Rhythms (Thursday Waves) — first September session
 DESCRIPTION:London's long-running weekly 5Rhythms wave — drop-in\, doors
-  7.45pm. Listed as weekly Thursdays\; confirm this date on the day.\nPric
- e: £11-£20 sliding scale\, on door\nhttps://www.5rhythms.com/classes/TW
- CformerlyThursdayWaves-329
+  7.45pm. 3 Sep confirmed on the 5Rhythms class page (weekly Thursdays).\n
+ Price: £11-£20 sliding scale\, on door\nhttps://www.5rhythms.com/classe
+ s/TWCformerlyThursdayWaves-329
 URL:https://www.5rhythms.com/classes/TWCformerlyThursdayWaves-329
 LOCATION:St Luke's Church\, Hillmarton Road\, N7 9RE
 END:VEVENT
@@ -1044,6 +1070,20 @@ URL:https://www.eventbrite.co.uk/e/circling-drop-in-evening-tickets-199863
  2098408
 LOCATION:Elephant & Castle (address on booking)\, Elephant and Castle\, SE
  1
+END:VEVENT
+BEGIN:VEVENT
+UID:pitch-your-friend-irl-singles-night-8d3713ab@london-events
+DTSTAMP:20260904T180000Z
+DTSTART:20260904T180000Z
+DTEND:20260904T200000Z
+SUMMARY:Pitch Your Friend — IRL Singles Night
+DESCRIPTION:Wingman-format mixed singles night: people take the mic to pit
+ ch their single friend to the room. Further editions 14 + 17 Sep.\nPrice:
+  £14.99+\nhttps://www.eventbrite.co.uk/e/pitch-your-friend-irl-singles-n
+ ight-tickets-1992479275148
+URL:https://www.eventbrite.co.uk/e/pitch-your-friend-irl-singles-night-tic
+ kets-1992479275148
+LOCATION:The London Art Bar\, 300 High Holborn\, WC1V 7JH
 END:VEVENT
 BEGIN:VEVENT
 UID:marisa-anderson-luce-mawdsley-at-chats-palace-ae335ff6@london-events
@@ -1302,6 +1342,21 @@ DESCRIPTION:Saturday-night live Irish music\, 9-11pm\, in the back of one
 URL:https://theauldshillelagh.co.uk/events-2/2026/8/26/music-september-202
  6
 LOCATION:The Auld Shillelagh\, 105 Stoke Newington Church Street\, N16 0UD
+END:VEVENT
+BEGIN:VEVENT
+UID:social-singles-sunday-cycling-from-highbury-free-5b55a002@london-event
+ s
+DTSTAMP:20260906T083000Z
+DTSTART:20260906T083000Z
+DTEND:20260906T103000Z
+SUMMARY:Social Singles — Sunday cycling from Highbury (free)
+DESCRIPTION:Free group road ride for single cyclists departing Highbury on
+  a Sunday morning — hobby-based mixed singles with a real shared activi
+ ty.\nPrice: Free\nhttps://www.eventbrite.com/e/social-singles-cycling-tic
+ kets-1989171118362
+URL:https://www.eventbrite.com/e/social-singles-cycling-tickets-1989171118
+ 362
+LOCATION:Highbury (start point on registration)\, Highbury\, N5
 END:VEVENT
 BEGIN:VEVENT
 UID:the-wellness-social-reformer-pilates-sauna-brunch-at-soul-f6d5877e@lon
@@ -3628,6 +3683,20 @@ URL:https://richmix.org.uk/whats-on/
 LOCATION:Rich Mix\, 35-47 Bethnal Green Road\, E1 6LA
 END:VEVENT
 BEGIN:VEVENT
+UID:doubles-social-speed-dating-ages-25-38-89e98cdd@london-events
+DTSTAMP:20260925T183000Z
+DTSTART:20260925T183000Z
+DTEND:20260925T203000Z
+SUMMARY:Doubles Social Speed Dating (ages 25-38)
+DESCRIPTION:Friday-night mixed speed dating for 25-38s at a karaoke pub of
+ f Middlesex Street — a short pedal from home.\nPrice: £19.12\nhttps://
+ www.eventbrite.co.uk/e/doubles-social-speed-dating-ages-25-to-38-tickets-
+ 1994675185174
+URL:https://www.eventbrite.co.uk/e/doubles-social-speed-dating-ages-25-to-
+ 38-tickets-1994675185174
+LOCATION:The Star by Liverpool Street\, 94 Middlesex Street\, E1 7EZ
+END:VEVENT
+BEGIN:VEVENT
 UID:cacao-dance-tribe-friday-night-dance-cacao-354d394a@london-events
 DTSTAMP:20260925T184500Z
 DTSTART:20260925T184500Z
@@ -3737,6 +3806,21 @@ DESCRIPTION:Sober full-moon conscious dance with DJ Gumbo — doors 6pm\,
  ll Park: pick one.\nPrice: ~£16-£21\nhttps://dandelion.events/e/c81q2
 URL:https://dandelion.events/e/c81q2
 LOCATION:St Mary's Hornsey Rise\, Ashley Road\, N19
+END:VEVENT
+BEGIN:VEVENT
+UID:haystack-dating-at-substation-climbing-gym-a854641c@london-events
+DTSTAMP:20260926T170000Z
+DTSTART:20260926T170000Z
+DTEND:20260926T190000Z
+SUMMARY:Haystack Dating at Substation Climbing Gym
+DESCRIPTION:Saturday-evening singles takeover of a bouldering gym — clim
+ b and mingle rather than speed date\; the August edition sold out. Brixto
+ n is a trek: Victoria line beats the ~55 min ride.\nPrice: £33.22\nhttps
+ ://www.eventbrite.co.uk/e/haystack-dating-substation-climbing-gym-saturda
+ y-26th-september-tickets-1996071590861
+URL:https://www.eventbrite.co.uk/e/haystack-dating-substation-climbing-gym
+ -saturday-26th-september-tickets-1996071590861
+LOCATION:Substation Brixton\, Unit 13\, Brixton Hill\, SW2 5DZ
 END:VEVENT
 BEGIN:VEVENT
 UID:the-story-of-birds-from-the-jurassic-to-today-royal-institut-5d37c59f@
@@ -6271,6 +6355,46 @@ URL:https://dice.fm/event/6a341aaf06a7bb0001f3e497
 LOCATION:The Shacklewell Arms\, 71 Shacklewell Lane\, E8 2EB
 END:VEVENT
 BEGIN:VEVENT
+UID:sharp-s-folk-club-festive-party-2eeaddf7@london-events
+DTSTAMP:20261215T193000Z
+DTSTART:20261215T193000Z
+DTEND:20261215T223000Z
+SUMMARY:Sharp's Folk Club Festive Party
+DESCRIPTION:Festive edition of the friendly weekly singaround folk club 
+ — bring a seasonal song or just listen.\nPrice: £4-£5\nhttps://www.ef
+ dss.org/whats-on/73-folk-club/16220-sharps-folk-club-festive-party
+URL:https://www.efdss.org/whats-on/73-folk-club/16220-sharps-folk-club-fes
+ tive-party
+LOCATION:Cecil Sharp House\, 2 Regent's Park Road\, NW1 7AY
+END:VEVENT
+BEGIN:VEVENT
+UID:knock2bag-comedy-night-with-katie-norris-e52f8205@london-events
+DTSTAMP:20261216T190000Z
+DTSTART:20261216T190000Z
+DTEND:20261216T230000Z
+SUMMARY:Knock2Bag Comedy Night with Katie Norris
+DESCRIPTION:Knock2Bag mixed bill with Katie Norris\, Lou Wall\, Ray Badran
+  and Will Owen. Same night as A Winter Union — pick one.\nPrice: £17.1
+ 0\nhttps://dice.fm/event/avxkgd-knock2bag-comedy-night-with-katie-norris-
+ 16th-dec-moth-club-london-tickets
+URL:https://dice.fm/event/avxkgd-knock2bag-comedy-night-with-katie-norris-
+ 16th-dec-moth-club-london-tickets
+LOCATION:MOTH Club\, Old Trades Hall\, Valette Street\, E9 6NU
+END:VEVENT
+BEGIN:VEVENT
+UID:a-winter-union-christmas-folk-supergroup-19276ff3@london-events
+DTSTAMP:20261216T193000Z
+DTSTART:20261216T193000Z
+DTEND:20261216T213000Z
+SUMMARY:A Winter Union (Christmas folk supergroup)
+DESCRIPTION:Seasonal collaboration of leading UK folk artists performing c
+ arols and winter songs at the home of English folk.\nPrice: £22.50 (£12
+ .50 concession)\nhttps://www.efdss.org/whats-on/26-gigs/16009-a-winter-un
+ ion-2026
+URL:https://www.efdss.org/whats-on/26-gigs/16009-a-winter-union-2026
+LOCATION:Cecil Sharp House\, 2 Regent's Park Road\, NW1 7AY
+END:VEVENT
+BEGIN:VEVENT
 UID:cara-dillon-upon-a-winter-s-night-at-union-chapel-f8de19b4@london-even
  ts
 DTSTAMP:20261218T183000Z
@@ -6310,5 +6434,69 @@ DESCRIPTION:The Northumbrian sisters' wintry folk harmonies in the chapel
  .\nhttps://unionchapel.org.uk/whats-on/the-unthanks-in-winter-evening
 URL:https://unionchapel.org.uk/whats-on/the-unthanks-in-winter-evening
 LOCATION:Union Chapel\, Compton Terrace\, Islington\, N1 2UN
+END:VEVENT
+BEGIN:VEVENT
+UID:city-of-the-sun-at-moth-club-747d65da@london-events
+DTSTAMP:20261220T190000Z
+DTSTART:20261220T190000Z
+DTEND:20261220T220000Z
+SUMMARY:City of the Sun at MOTH Club
+DESCRIPTION:NYC instrumental trio blending flamenco-style acoustic guitars
+  with post-rock energy in the glittery ballroom.\nPrice: £22.66\nhttps:/
+ /dice.fm/event/pynkpl-city-of-the-sun-20th-dec-moth-club-london-tickets
+URL:https://dice.fm/event/pynkpl-city-of-the-sun-20th-dec-moth-club-london
+ -tickets
+LOCATION:MOTH Club\, Old Trades Hall\, Valette Street\, E9 6NU
+END:VEVENT
+BEGIN:VEVENT
+UID:the-young-uns-at-cecil-sharp-house-f058ee02@london-events
+DTSTAMP:20261220T193000Z
+DTSTART:20261220T193000Z
+DTEND:20261220T213000Z
+SUMMARY:The Young'uns at Cecil Sharp House
+DESCRIPTION:The Teesside harmony trio's festive show — warm\, funny\, la
+ rgely unaccompanied folk storytelling.\nPrice: £25.50 (£12.50 concessio
+ n)\nhttps://www.efdss.org/whats-on/26-gigs/16005-the-younguns-2026
+URL:https://www.efdss.org/whats-on/26-gigs/16005-the-younguns-2026
+LOCATION:Cecil Sharp House\, 2 Regent's Park Road\, NW1 7AY
+END:VEVENT
+BEGIN:VEVENT
+UID:kate-rusby-at-christmas-evening-show-f84d0d77@london-events
+DTSTAMP:20261222T193000Z
+DTSTART:20261222T193000Z
+DTEND:20261222T223000Z
+SUMMARY:Kate Rusby at Christmas — evening show
+DESCRIPTION:The Barnsley folk singer's much-loved South Yorkshire pub-caro
+ ls Christmas show in the candlelit chapel. A 2pm matinee also runs.\nhttp
+ s://unionchapel.org.uk/venue/whats-on/kate-rusby-at-christmas-evening
+URL:https://unionchapel.org.uk/venue/whats-on/kate-rusby-at-christmas-even
+ ing
+LOCATION:Union Chapel\, Compton Terrace\, N1 2UN
+END:VEVENT
+BEGIN:VEVENT
+UID:knock2bag-comedy-night-pre-christmas-edition-82c1e4fc@london-events
+DTSTAMP:20261223T190000Z
+DTSTART:20261223T190000Z
+DTEND:20261223T230000Z
+SUMMARY:Knock2Bag Comedy Night — pre-Christmas edition
+DESCRIPTION:Knock2Bag's last mixed bill before Christmas\, with Ray Badran
+  plus acts TBA.\nPrice: £17.10\nhttps://dice.fm/event/k652ro-knock2bag-c
+ omedy-night-23rd-dec-moth-club-london-tickets
+URL:https://dice.fm/event/k652ro-knock2bag-comedy-night-23rd-dec-moth-club
+ -london-tickets
+LOCATION:MOTH Club\, Old Trades Hall\, Valette Street\, E9 6NU
+END:VEVENT
+BEGIN:VEVENT
+UID:new-year-s-eve-ceilidh-at-cecil-sharp-house-b1ded518@london-events
+DTSTAMP:20261231T203000Z
+DTSTART:20261231T203000Z
+DTEND:20270101T003000Z
+SUMMARY:New Year's Eve Ceilidh at Cecil Sharp House
+DESCRIPTION:See in 2027 with a live band\, caller and dancing until past m
+ idnight — a genuinely sociable alternative to NYE club nights.\nPrice: 
+ £45.50-£55.50\nhttps://www.efdss.org/whats-on/27-dances/16010-31-12-26-
+ nyeceilidh
+URL:https://www.efdss.org/whats-on/27-dances/16010-31-12-26-nyeceilidh
+LOCATION:Cecil Sharp House\, 2 Regent's Park Road\, NW1 7AY
 END:VEVENT
 END:VCALENDAR

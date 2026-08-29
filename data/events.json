@@ -864,6 +864,25 @@
     "added": "2026-08-25"
   },
   {
+    "id": "ai-assisted-math-research-paper-club-free-d4392bcb",
+    "title": "AI-Assisted Math Research Paper Club (free)",
+    "start": "2026-09-02T18:30:00+01:00",
+    "end": "2026-09-02T20:00:00+01:00",
+    "venue": "LABS House",
+    "address": "15-19 Bloomsbury Way, WC1A 2TH",
+    "url": "https://luma.com/2gbm9s54",
+    "source": "aggregator:luma",
+    "tags": [
+      "talk",
+      "tech"
+    ],
+    "price": "Free",
+    "description": "Free open paper club discussing recent AI-for-mathematics results — nerdy, discussion-based, rationality-adjacent crowd.",
+    "neighbourhood": "Bloomsbury",
+    "cycle_minutes": 22,
+    "added": "2026-08-29"
+  },
+  {
     "id": "thursday-30-new-venue-singles-night-at-oche-the-strand-4f0c859b",
     "title": "Thursday: 30+ New Venue Singles Night at Oche, The Strand",
     "start": "2026-09-02T19:00:00+01:00",
@@ -970,6 +989,25 @@
     "neighbourhood": "Bethnal Green",
     "cycle_minutes": 3,
     "added": "2026-08-25"
+  },
+  {
+    "id": "afterthoughts-how-tech-is-rewiring-our-expectations-free-4da95543",
+    "title": "Afterthoughts: how tech is rewiring our expectations (free)",
+    "start": "2026-09-03T18:00:00+01:00",
+    "end": "2026-09-03T20:00:00+01:00",
+    "venue": "Makerversity, Somerset House",
+    "address": "West Goods Entrance, Somerset House, WC2R 1LA",
+    "url": "https://luma.com/xhqiqwve",
+    "source": "aggregator:luma",
+    "tags": [
+      "talk",
+      "tech"
+    ],
+    "price": "Free",
+    "description": "Free evening discussion at Makerversity on how AI, health tracking and smart products reshape what we expect from everything else.",
+    "neighbourhood": "Strand",
+    "cycle_minutes": 25,
+    "added": "2026-08-29"
   },
   {
     "title": "Jacqui McShee's Pentangle + Junior Brother at EartH",
@@ -1242,7 +1280,7 @@
       "dance"
     ],
     "price": "£11-£20 sliding scale, on door",
-    "description": "London's long-running weekly 5Rhythms wave — drop-in, doors 7.45pm. Listed as weekly Thursdays; confirm this date on the day.",
+    "description": "London's long-running weekly 5Rhythms wave — drop-in, doors 7.45pm. 3 Sep confirmed on the 5Rhythms class page (weekly Thursdays).",
     "neighbourhood": "Holloway",
     "cycle_minutes": 25,
     "added": "2026-08-08"
@@ -1360,6 +1398,24 @@
     "neighbourhood": "Elephant & Castle",
     "cycle_minutes": 30,
     "added": "2026-08-23"
+  },
+  {
+    "id": "pitch-your-friend-irl-singles-night-8d3713ab",
+    "title": "Pitch Your Friend — IRL Singles Night",
+    "start": "2026-09-04T19:00:00+01:00",
+    "end": null,
+    "venue": "The London Art Bar",
+    "address": "300 High Holborn, WC1V 7JH",
+    "url": "https://www.eventbrite.co.uk/e/pitch-your-friend-irl-singles-night-tickets-1992479275148",
+    "source": "aggregator:eventbrite",
+    "tags": [
+      "community"
+    ],
+    "price": "£14.99+",
+    "description": "Wingman-format mixed singles night: people take the mic to pitch their single friend to the room. Further editions 14 + 17 Sep.",
+    "neighbourhood": "Holborn",
+    "cycle_minutes": 22,
+    "added": "2026-08-29"
   },
   {
     "id": "marisa-anderson-luce-mawdsley-at-chats-palace-ae335ff6",
@@ -1714,6 +1770,25 @@
     "neighbourhood": "Stoke Newington",
     "cycle_minutes": 18,
     "added": "2026-08-27"
+  },
+  {
+    "id": "social-singles-sunday-cycling-from-highbury-free-5b55a002",
+    "title": "Social Singles — Sunday cycling from Highbury (free)",
+    "start": "2026-09-06T09:30:00+01:00",
+    "end": null,
+    "venue": "Highbury (start point on registration)",
+    "address": "Highbury, N5",
+    "url": "https://www.eventbrite.com/e/social-singles-cycling-tickets-1989171118362",
+    "source": "aggregator:eventbrite",
+    "tags": [
+      "community",
+      "sport"
+    ],
+    "price": "Free",
+    "description": "Free group road ride for single cyclists departing Highbury on a Sunday morning — hobby-based mixed singles with a real shared activity.",
+    "neighbourhood": "Highbury",
+    "cycle_minutes": 20,
+    "added": "2026-08-29"
   },
   {
     "id": "the-wellness-social-reformer-pilates-sauna-brunch-at-soul-f6d5877e",
@@ -4788,6 +4863,24 @@
     "added": "2026-08-28"
   },
   {
+    "id": "doubles-social-speed-dating-ages-25-38-89e98cdd",
+    "title": "Doubles Social Speed Dating (ages 25-38)",
+    "start": "2026-09-25T19:30:00+01:00",
+    "end": null,
+    "venue": "The Star by Liverpool Street",
+    "address": "94 Middlesex Street, E1 7EZ",
+    "url": "https://www.eventbrite.co.uk/e/doubles-social-speed-dating-ages-25-to-38-tickets-1994675185174",
+    "source": "aggregator:eventbrite",
+    "tags": [
+      "community"
+    ],
+    "price": "£19.12",
+    "description": "Friday-night mixed speed dating for 25-38s at a karaoke pub off Middlesex Street — a short pedal from home.",
+    "neighbourhood": "Spitalfields",
+    "cycle_minutes": 8,
+    "added": "2026-08-29"
+  },
+  {
     "id": "cacao-dance-tribe-friday-night-dance-cacao-354d394a",
     "title": "Cacao Dance Tribe: Friday Night Dance & Cacao",
     "start": "2026-09-25T19:45:00+01:00",
@@ -4935,6 +5028,25 @@
     "neighbourhood": "Hornsey Rise",
     "cycle_minutes": 35,
     "added": "2026-08-19"
+  },
+  {
+    "id": "haystack-dating-at-substation-climbing-gym-a854641c",
+    "title": "Haystack Dating at Substation Climbing Gym",
+    "start": "2026-09-26T18:00:00+01:00",
+    "end": null,
+    "venue": "Substation Brixton",
+    "address": "Unit 13, Brixton Hill, SW2 5DZ",
+    "url": "https://www.eventbrite.co.uk/e/haystack-dating-substation-climbing-gym-saturday-26th-september-tickets-1996071590861",
+    "source": "aggregator:eventbrite",
+    "tags": [
+      "community",
+      "sport"
+    ],
+    "price": "£33.22",
+    "description": "Saturday-evening singles takeover of a bouldering gym — climb and mingle rather than speed date; the August edition sold out. Brixton is a trek: Victoria line beats the ~55 min ride.",
+    "neighbourhood": "Brixton",
+    "cycle_minutes": 55,
+    "added": "2026-08-29"
   },
   {
     "id": "the-story-of-birds-from-the-jurassic-to-today-royal-institut-5d37c59f",
@@ -8381,6 +8493,61 @@
     "added": "2026-08-23"
   },
   {
+    "id": "sharp-s-folk-club-festive-party-2eeaddf7",
+    "title": "Sharp's Folk Club Festive Party",
+    "start": "2026-12-15T19:30:00+00:00",
+    "end": "2026-12-15T22:30:00+00:00",
+    "venue": "Cecil Sharp House",
+    "address": "2 Regent's Park Road, NW1 7AY",
+    "url": "https://www.efdss.org/whats-on/73-folk-club/16220-sharps-folk-club-festive-party",
+    "source": "venue:cecil-sharp-house",
+    "tags": [
+      "music",
+      "community"
+    ],
+    "price": "£4-£5",
+    "description": "Festive edition of the friendly weekly singaround folk club — bring a seasonal song or just listen.",
+    "neighbourhood": "Primrose Hill",
+    "cycle_minutes": 32,
+    "added": "2026-08-29"
+  },
+  {
+    "id": "knock2bag-comedy-night-with-katie-norris-e52f8205",
+    "title": "Knock2Bag Comedy Night with Katie Norris",
+    "start": "2026-12-16T19:00:00+00:00",
+    "end": "2026-12-16T23:00:00+00:00",
+    "venue": "MOTH Club",
+    "address": "Old Trades Hall, Valette Street, E9 6NU",
+    "url": "https://dice.fm/event/avxkgd-knock2bag-comedy-night-with-katie-norris-16th-dec-moth-club-london-tickets",
+    "source": "venue:dice-moth-club",
+    "tags": [
+      "comedy"
+    ],
+    "price": "£17.10",
+    "description": "Knock2Bag mixed bill with Katie Norris, Lou Wall, Ray Badran and Will Owen. Same night as A Winter Union — pick one.",
+    "neighbourhood": "Hackney Central",
+    "cycle_minutes": 12,
+    "added": "2026-08-29"
+  },
+  {
+    "id": "a-winter-union-christmas-folk-supergroup-19276ff3",
+    "title": "A Winter Union (Christmas folk supergroup)",
+    "start": "2026-12-16T19:30:00+00:00",
+    "end": "2026-12-16T21:30:00+00:00",
+    "venue": "Cecil Sharp House",
+    "address": "2 Regent's Park Road, NW1 7AY",
+    "url": "https://www.efdss.org/whats-on/26-gigs/16009-a-winter-union-2026",
+    "source": "venue:cecil-sharp-house",
+    "tags": [
+      "music"
+    ],
+    "price": "£22.50 (£12.50 concession)",
+    "description": "Seasonal collaboration of leading UK folk artists performing carols and winter songs at the home of English folk.",
+    "neighbourhood": "Primrose Hill",
+    "cycle_minutes": 32,
+    "added": "2026-08-29"
+  },
+  {
     "id": "cara-dillon-upon-a-winter-s-night-at-union-chapel-f8de19b4",
     "title": "Cara Dillon — 'Upon A Winter's Night' at Union Chapel",
     "start": "2026-12-18T18:30:00+00:00",
@@ -8433,5 +8600,96 @@
     "neighbourhood": "Islington",
     "cycle_minutes": 20,
     "added": "2026-08-23"
+  },
+  {
+    "id": "city-of-the-sun-at-moth-club-747d65da",
+    "title": "City of the Sun at MOTH Club",
+    "start": "2026-12-20T19:00:00+00:00",
+    "end": "2026-12-20T22:00:00+00:00",
+    "venue": "MOTH Club",
+    "address": "Old Trades Hall, Valette Street, E9 6NU",
+    "url": "https://dice.fm/event/pynkpl-city-of-the-sun-20th-dec-moth-club-london-tickets",
+    "source": "venue:dice-moth-club",
+    "tags": [
+      "music"
+    ],
+    "price": "£22.66",
+    "description": "NYC instrumental trio blending flamenco-style acoustic guitars with post-rock energy in the glittery ballroom.",
+    "neighbourhood": "Hackney Central",
+    "cycle_minutes": 12,
+    "added": "2026-08-29"
+  },
+  {
+    "id": "the-young-uns-at-cecil-sharp-house-f058ee02",
+    "title": "The Young'uns at Cecil Sharp House",
+    "start": "2026-12-20T19:30:00+00:00",
+    "end": "2026-12-20T21:30:00+00:00",
+    "venue": "Cecil Sharp House",
+    "address": "2 Regent's Park Road, NW1 7AY",
+    "url": "https://www.efdss.org/whats-on/26-gigs/16005-the-younguns-2026",
+    "source": "venue:cecil-sharp-house",
+    "tags": [
+      "music"
+    ],
+    "price": "£25.50 (£12.50 concession)",
+    "description": "The Teesside harmony trio's festive show — warm, funny, largely unaccompanied folk storytelling.",
+    "neighbourhood": "Primrose Hill",
+    "cycle_minutes": 32,
+    "added": "2026-08-29"
+  },
+  {
+    "id": "kate-rusby-at-christmas-evening-show-f84d0d77",
+    "title": "Kate Rusby at Christmas — evening show",
+    "start": "2026-12-22T19:30:00+00:00",
+    "end": "2026-12-22T22:30:00+00:00",
+    "venue": "Union Chapel",
+    "address": "Compton Terrace, N1 2UN",
+    "url": "https://unionchapel.org.uk/venue/whats-on/kate-rusby-at-christmas-evening",
+    "source": "venue:union-chapel",
+    "tags": [
+      "music"
+    ],
+    "price": null,
+    "description": "The Barnsley folk singer's much-loved South Yorkshire pub-carols Christmas show in the candlelit chapel. A 2pm matinee also runs.",
+    "neighbourhood": "Islington",
+    "cycle_minutes": 20,
+    "added": "2026-08-29"
+  },
+  {
+    "id": "knock2bag-comedy-night-pre-christmas-edition-82c1e4fc",
+    "title": "Knock2Bag Comedy Night — pre-Christmas edition",
+    "start": "2026-12-23T19:00:00+00:00",
+    "end": "2026-12-23T23:00:00+00:00",
+    "venue": "MOTH Club",
+    "address": "Old Trades Hall, Valette Street, E9 6NU",
+    "url": "https://dice.fm/event/k652ro-knock2bag-comedy-night-23rd-dec-moth-club-london-tickets",
+    "source": "venue:dice-moth-club",
+    "tags": [
+      "comedy"
+    ],
+    "price": "£17.10",
+    "description": "Knock2Bag's last mixed bill before Christmas, with Ray Badran plus acts TBA.",
+    "neighbourhood": "Hackney Central",
+    "cycle_minutes": 12,
+    "added": "2026-08-29"
+  },
+  {
+    "id": "new-year-s-eve-ceilidh-at-cecil-sharp-house-b1ded518",
+    "title": "New Year's Eve Ceilidh at Cecil Sharp House",
+    "start": "2026-12-31T20:30:00+00:00",
+    "end": "2027-01-01T00:30:00+00:00",
+    "venue": "Cecil Sharp House",
+    "address": "2 Regent's Park Road, NW1 7AY",
+    "url": "https://www.efdss.org/whats-on/27-dances/16010-31-12-26-nyeceilidh",
+    "source": "venue:cecil-sharp-house",
+    "tags": [
+      "dance",
+      "community"
+    ],
+    "price": "£45.50-£55.50",
+    "description": "See in 2027 with a live band, caller and dancing until past midnight — a genuinely sociable alternative to NYE club nights.",
+    "neighbourhood": "Primrose Hill",
+    "cycle_minutes": 32,
+    "added": "2026-08-29"
   }
 ]
