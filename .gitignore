@@ -1,2 +1,7 @@
 __pycache__/
 *.pyc
+
+# scout fetch debris
+*.html
+!index.html
+*.xml
