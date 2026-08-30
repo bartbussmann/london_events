@@ -7295,6 +7295,42 @@
     "added": "2026-08-11"
   },
   {
+    "id": "tracey-nelson-at-moth-club-61a737a9",
+    "title": "Tracey Nelson at MOTH Club",
+    "start": "2026-11-01T19:00:00+00:00",
+    "end": "2026-11-01T23:00:00+00:00",
+    "venue": "MOTH Club",
+    "address": "Old Trades Hall, Valette Street, E9 6NU",
+    "url": "https://dice.fm/event/6a6affe831a6220001b3063e",
+    "source": "venue:dice-moth-club",
+    "tags": [
+      "music"
+    ],
+    "price": "£20.40",
+    "description": "Sunday-evening gig at MOTH Club's glittery working men's hall.",
+    "neighbourhood": "Hackney Central",
+    "cycle_minutes": 12,
+    "added": "2026-08-30"
+  },
+  {
+    "id": "tom-rush-at-union-chapel-1d3a4609",
+    "title": "Tom Rush at Union Chapel",
+    "start": "2026-11-01T19:00:00+00:00",
+    "end": null,
+    "venue": "Union Chapel",
+    "address": "Compton Terrace, Islington, N1 2UN",
+    "url": "https://unionchapel.org.uk/whats-on/tom-rush",
+    "source": "venue:union-chapel",
+    "tags": [
+      "music"
+    ],
+    "price": null,
+    "description": "60s folk-revival legend ('No Regrets') plays his first London concert since the 1960s. Doors 7pm.",
+    "neighbourhood": "Islington",
+    "cycle_minutes": 20,
+    "added": "2026-08-30"
+  },
+  {
     "id": "campaign-lab-hack-night-2-nov-edition-fd092e49",
     "title": "Campaign Lab Hack Night (2 Nov edition)",
     "start": "2026-11-02T19:00:00+00:00",
@@ -7494,6 +7530,79 @@
     "added": "2026-08-16"
   },
   {
+    "id": "live-at-the-chapel-with-chris-mccausland-b7fcd1fa",
+    "title": "Live At The Chapel with Chris McCausland",
+    "start": "2026-11-07T19:45:00+00:00",
+    "end": "2026-11-07T22:30:00+00:00",
+    "venue": "Union Chapel",
+    "address": "Compton Terrace, Islington, N1 2UN",
+    "url": "https://unionchapel.org.uk/whats-on/live-at-the-chapel-with-chris-mccausland",
+    "source": "venue:union-chapel",
+    "tags": [
+      "comedy"
+    ],
+    "price": null,
+    "description": "Union Chapel's flagship comedy night headlined by Chris McCausland. Doors 6.30pm, show 7.45pm.",
+    "neighbourhood": "Islington",
+    "cycle_minutes": 20,
+    "added": "2026-08-30"
+  },
+  {
+    "id": "callis-at-the-shacklewell-arms-9dbd3a48",
+    "title": "Callis at The Shacklewell Arms",
+    "start": "2026-11-08T19:00:00+00:00",
+    "end": null,
+    "venue": "The Shacklewell Arms",
+    "address": "71 Shacklewell Lane, E8 2EB",
+    "url": "https://dice.fm/event/6a8c4844296ef500012b2d05",
+    "source": "venue:dice-shacklewell-arms",
+    "tags": [
+      "music"
+    ],
+    "price": "£11.33",
+    "description": "Sunday-evening headline show in the Shacklewell's back room — cheap small-room gig.",
+    "neighbourhood": "Dalston",
+    "cycle_minutes": 13,
+    "added": "2026-08-30"
+  },
+  {
+    "id": "nu-civilisation-orchestra-the-stuart-hall-project-at-union-c-67e9e8c9",
+    "title": "Nu Civilisation Orchestra: The Stuart Hall Project at Union Chapel",
+    "start": "2026-11-09T19:00:00+00:00",
+    "end": "2026-11-09T22:30:00+00:00",
+    "venue": "Union Chapel",
+    "address": "Compton Terrace, Islington, N1 2UN",
+    "url": "https://unionchapel.org.uk/whats-on/nu-civilisation-orchestra",
+    "source": "venue:union-chapel",
+    "tags": [
+      "music",
+      "film"
+    ],
+    "price": null,
+    "description": "Tomorrow's Warriors' orchestra performs Miles Davis's soundtrack live to John Akomfrah's documentary The Stuart Hall Project. Doors 7pm.",
+    "neighbourhood": "Islington",
+    "cycle_minutes": 20,
+    "added": "2026-08-30"
+  },
+  {
+    "id": "sebright-quiz-night-5c97a609",
+    "title": "Sebright Quiz Night",
+    "start": "2026-11-09T20:00:00+00:00",
+    "end": null,
+    "venue": "Sebright Arms",
+    "address": "31-35 Coate St, E2 9AG",
+    "url": "https://dice.fm/event/6a88b8e16c9266000161989f",
+    "source": "venue:dice-sebright-arms",
+    "tags": [
+      "community"
+    ],
+    "price": "£2",
+    "description": "Monday pub quiz at the Sebright, five minutes from home — cheap, sociable option (runs most Mondays).",
+    "neighbourhood": "Bethnal Green",
+    "cycle_minutes": 4,
+    "added": "2026-08-30"
+  },
+  {
     "id": "the-slow-show-white-water-anniversary-tour-at-union-chapel-0824d3a5",
     "title": "The Slow Show — White Water anniversary tour at Union Chapel",
     "start": "2026-11-10T19:00:00+00:00",
@@ -7528,6 +7637,61 @@
     "neighbourhood": "Hackney Central",
     "cycle_minutes": 12,
     "added": "2026-08-16"
+  },
+  {
+    "id": "ona-mafalda-at-the-old-blue-last-62b0f7f9",
+    "title": "Ona Mafalda at The Old Blue Last",
+    "start": "2026-11-12T19:00:00+00:00",
+    "end": null,
+    "venue": "The Old Blue Last",
+    "address": "38 Great Eastern Street, EC2A 3ES",
+    "url": "https://dice.fm/event/6a4ba14f17dad70001fb37fe",
+    "source": "venue:dice-the-old-blue-last",
+    "tags": [
+      "music"
+    ],
+    "price": "£15.82",
+    "description": "Thursday headline show upstairs at the Old Blue Last.",
+    "neighbourhood": "Shoreditch",
+    "cycle_minutes": 7,
+    "added": "2026-08-30"
+  },
+  {
+    "id": "ryan-young-louis-campbell-at-cecil-sharp-house-003fa60f",
+    "title": "Ryan Young + Louis Campbell at Cecil Sharp House",
+    "start": "2026-11-12T19:30:00+00:00",
+    "end": null,
+    "venue": "Cecil Sharp House",
+    "address": "2 Regent's Park Road, NW1 7AY",
+    "url": "https://www.efdss.org/whats-on/26-gigs/16022-ryan-young-louis-campbell-2026",
+    "source": "venue:cecil-sharp-house",
+    "tags": [
+      "music"
+    ],
+    "price": "£19.50 (£12.50 under-30)",
+    "description": "Traditional Scottish fiddle music with melody and expression at its centre, with guitarist Louis Campbell.",
+    "neighbourhood": "Primrose Hill",
+    "cycle_minutes": 32,
+    "added": "2026-08-30"
+  },
+  {
+    "id": "english-country-dancing-class-at-cecil-sharp-house-12-nov-7b0c1feb",
+    "title": "English Country Dancing class at Cecil Sharp House (12 Nov)",
+    "start": "2026-11-12T19:30:00+00:00",
+    "end": null,
+    "venue": "Cecil Sharp House",
+    "address": "2 Regent's Park Road, NW1 7AY",
+    "url": "https://www.efdss.org/whats-on/28-classes-and-courses/16113-english-country-dancing-12-nov-26",
+    "source": "venue:cecil-sharp-house",
+    "tags": [
+      "dance",
+      "class"
+    ],
+    "price": null,
+    "description": "Learn English country, ceilidh and barn dancing with live music. Same night as the Ryan Young gig — pick one.",
+    "neighbourhood": "Primrose Hill",
+    "cycle_minutes": 32,
+    "added": "2026-08-30"
   },
   {
     "id": "emma-jean-thackray-dear-miles-a-love-letter-at-earth-15953bc0",
@@ -8179,6 +8343,24 @@
     "cycle_minutes": 10
   },
   {
+    "id": "parviz-persian-psych-funk-at-moth-club-f8255549",
+    "title": "Parviz — Persian psych-funk at MOTH Club",
+    "start": "2026-11-28T19:30:00+00:00",
+    "end": null,
+    "venue": "MOTH Club",
+    "address": "Old Trades Hall, Valette Street, E9 6NU",
+    "url": "https://dice.fm/event/6a390ed380ed6200017ac316",
+    "source": "venue:dice-moth-club",
+    "tags": [
+      "music"
+    ],
+    "price": "£15.87",
+    "description": "Persian psych-funk project channelling Iran's 1970s music scene with a contemporary touch; self-titled debut out in 2026.",
+    "neighbourhood": "Hackney Central",
+    "cycle_minutes": 12,
+    "added": "2026-08-30"
+  },
+  {
     "id": "la-plan-te-sauvage-screening-with-live-score-by-haha-sounds--55829911",
     "title": "La Planète Sauvage — screening with live score by HaHa Sounds Collective",
     "start": "2026-11-29T19:00:00+00:00",
@@ -8215,6 +8397,60 @@
     "neighbourhood": "Bethnal Green",
     "added": "2026-08-22",
     "cycle_minutes": 3
+  },
+  {
+    "id": "david-j-bauhaus-love-and-rockets-at-moth-club-bb8ea4da",
+    "title": "David J (Bauhaus / Love and Rockets) at MOTH Club",
+    "start": "2026-12-01T19:00:00+00:00",
+    "end": null,
+    "venue": "MOTH Club",
+    "address": "Old Trades Hall, Valette Street, E9 6NU",
+    "url": "https://dice.fm/event/6a55e877d149bf0001c5131b",
+    "source": "venue:dice-moth-club",
+    "tags": [
+      "music"
+    ],
+    "price": "£27.20",
+    "description": "Bauhaus and Love and Rockets bassist plays an intimate Tuesday-night show.",
+    "neighbourhood": "Hackney Central",
+    "cycle_minutes": 12,
+    "added": "2026-08-30"
+  },
+  {
+    "id": "trad-night-andy-turner-at-cecil-sharp-house-1a0fd5ec",
+    "title": "Trad Night: Andy Turner at Cecil Sharp House",
+    "start": "2026-12-02T19:30:00+00:00",
+    "end": null,
+    "venue": "Cecil Sharp House",
+    "address": "2 Regent's Park Road, NW1 7AY",
+    "url": "https://www.efdss.org/whats-on/26-gigs/16018-trad-night-andy-turner",
+    "source": "venue:cecil-sharp-house",
+    "tags": [
+      "music"
+    ],
+    "price": "£12.50",
+    "description": "Highly regarded singer and anglo-concertina player in an intimate acoustic gig.",
+    "neighbourhood": "Primrose Hill",
+    "cycle_minutes": 32,
+    "added": "2026-08-30"
+  },
+  {
+    "id": "cowboyy-at-the-victoria-7097c051",
+    "title": "Cowboyy at The Victoria",
+    "start": "2026-12-02T19:30:00+00:00",
+    "end": null,
+    "venue": "The Victoria",
+    "address": "451 Queensbridge Road, E8 3AS",
+    "url": "https://dice.fm/event/6a8ea3337aa2920001d16cc9",
+    "source": "venue:dice-the-victoria",
+    "tags": [
+      "music"
+    ],
+    "price": "£12.47",
+    "description": "Angular art-rock/indie in the Victoria's small back room — the closer-to-home alternative to the CSH Trad Night.",
+    "neighbourhood": "Dalston",
+    "cycle_minutes": 12,
+    "added": "2026-08-30"
   },
   {
     "id": "elanor-moss-at-cecil-sharp-house-48a624ae",
@@ -8290,6 +8526,61 @@
     "added": "2026-08-23"
   },
   {
+    "id": "festive-gathering-at-cecil-sharp-house-acc8ee1c",
+    "title": "Festive Gathering at Cecil Sharp House",
+    "start": "2026-12-06T19:00:00+00:00",
+    "end": null,
+    "venue": "Cecil Sharp House",
+    "address": "2 Regent's Park Road, NW1 7AY",
+    "url": "https://www.efdss.org/whats-on/26-gigs/16006-6-12-26-festivegathering",
+    "source": "venue:cecil-sharp-house",
+    "tags": [
+      "music",
+      "community"
+    ],
+    "price": "£18.50 (£12.50 under-30)",
+    "description": "Cecil Sharp House Choir and guests host their annual yuletide celebration.",
+    "neighbourhood": "Primrose Hill",
+    "cycle_minutes": 32,
+    "added": "2026-08-30"
+  },
+  {
+    "id": "downtown-boys-at-moth-club-1b85b0ee",
+    "title": "Downtown Boys at MOTH Club",
+    "start": "2026-12-07T19:30:00+00:00",
+    "end": null,
+    "venue": "MOTH Club",
+    "address": "Old Trades Hall, Valette Street, E9 6NU",
+    "url": "https://dice.fm/event/6a3e319c4ed8b10001ee52fd",
+    "source": "venue:dice-moth-club",
+    "tags": [
+      "music"
+    ],
+    "price": "£22.66",
+    "description": "Providence bilingual political punk band, famously furious live. Monday night.",
+    "neighbourhood": "Hackney Central",
+    "cycle_minutes": 12,
+    "added": "2026-08-30"
+  },
+  {
+    "id": "truthpaste-at-moth-club-340be160",
+    "title": "Truthpaste at MOTH Club",
+    "start": "2026-12-08T19:30:00+00:00",
+    "end": null,
+    "venue": "MOTH Club",
+    "address": "Old Trades Hall, Valette Street, E9 6NU",
+    "url": "https://dice.fm/event/6a6b036778d5300001fba900",
+    "source": "venue:dice-moth-club",
+    "tags": [
+      "music"
+    ],
+    "price": "£15.30",
+    "description": "Tuesday-night gig at MOTH filling an otherwise empty day.",
+    "neighbourhood": "Hackney Central",
+    "cycle_minutes": 12,
+    "added": "2026-08-30"
+  },
+  {
     "id": "salt-house-at-cecil-sharp-house-af972287",
     "title": "Salt House at Cecil Sharp House",
     "start": "2026-12-09T19:30:00+00:00",
@@ -8342,6 +8633,61 @@
     "neighbourhood": "Dalston",
     "cycle_minutes": 13,
     "added": "2026-08-23"
+  },
+  {
+    "id": "balkanplus-at-cecil-sharp-house-december-edition-91fa90c0",
+    "title": "Balkanplus at Cecil Sharp House (December edition)",
+    "start": "2026-12-12T18:00:00+00:00",
+    "end": null,
+    "venue": "Cecil Sharp House",
+    "address": "2 Regent's Park Road, NW1 7AY",
+    "url": "https://www.efdss.org/whats-on/27-dances/16171-balkanplus-autumn-2026",
+    "source": "venue:cecil-sharp-house",
+    "tags": [
+      "dance"
+    ],
+    "price": null,
+    "description": "Social dances from the Balkans and beyond, Saturday 6pm — combinable with the 8pm Barndance.",
+    "neighbourhood": "Primrose Hill",
+    "cycle_minutes": 32,
+    "added": "2026-08-30"
+  },
+  {
+    "id": "brutallixmas-ft-brutalligators-fightmilk-flinch-at-the-victo-b661b9ce",
+    "title": "Brutallixmas ft. Brutalligators, Fightmilk, Flinch at The Victoria",
+    "start": "2026-12-12T19:00:00+00:00",
+    "end": null,
+    "venue": "The Victoria",
+    "address": "451 Queensbridge Road, E8 3AS",
+    "url": "https://dice.fm/event/6a798fa8b18b760001874545",
+    "source": "venue:dice-the-victoria",
+    "tags": [
+      "music"
+    ],
+    "price": "£8",
+    "description": "Three-band DIY indie-punk Christmas bill in the Victoria's back room — the cheap close-to-home option.",
+    "neighbourhood": "Dalston",
+    "cycle_minutes": 12,
+    "added": "2026-08-30"
+  },
+  {
+    "id": "the-london-barndance-company-december-edition-63b29622",
+    "title": "The London Barndance Company (December edition)",
+    "start": "2026-12-12T20:00:00+00:00",
+    "end": null,
+    "venue": "Cecil Sharp House",
+    "address": "2 Regent's Park Road, NW1 7AY",
+    "url": "https://www.efdss.org/whats-on/27-dances/15735-the-london-barndance-company-2026",
+    "source": "venue:cecil-sharp-house",
+    "tags": [
+      "dance",
+      "music"
+    ],
+    "price": null,
+    "description": "Zesty live music and high-energy social dancing — could combine with Balkanplus at 6pm in the same building.",
+    "neighbourhood": "Primrose Hill",
+    "cycle_minutes": 32,
+    "added": "2026-08-30"
   },
   {
     "id": "sharp-s-folk-club-festive-party-2eeaddf7",
@@ -8487,6 +8833,43 @@
     "neighbourhood": "Primrose Hill",
     "cycle_minutes": 32,
     "added": "2026-08-29"
+  },
+  {
+    "id": "a-christmas-carol-dickens-theatre-company-at-hoxton-hall-2682533e",
+    "title": "A Christmas Carol — Dickens Theatre Company at Hoxton Hall",
+    "start": "2026-12-21T19:00:00+00:00",
+    "end": null,
+    "venue": "Hoxton Hall",
+    "address": "130 Hoxton Street, N1 6SH",
+    "url": "https://hoxtonhall.ticketsolve.com/shows/1173687260/events",
+    "source": "venue:hoxton-hall",
+    "tags": [
+      "theatre"
+    ],
+    "price": null,
+    "description": "Touring production staged as Dickens himself playing Scrooge and 30 other characters, in the Victorian music hall. Pitched partly at GCSE students — expect a mixed crowd.",
+    "neighbourhood": "Hoxton",
+    "cycle_minutes": 8,
+    "added": "2026-08-30"
+  },
+  {
+    "id": "the-big-christmas-sing-a-long-with-aled-jones-and-alexander--3df47b39",
+    "title": "The Big Christmas Sing A-Long with Aled Jones and Alexander Armstrong",
+    "start": "2026-12-21T20:00:00+00:00",
+    "end": "2026-12-21T22:30:00+00:00",
+    "venue": "Union Chapel",
+    "address": "Compton Terrace, Islington, N1 2UN",
+    "url": "https://unionchapel.org.uk/whats-on/the-big-christmas-sing-a-long-with-aled-jones-and-alexander-armstrong",
+    "source": "venue:union-chapel",
+    "tags": [
+      "music",
+      "community"
+    ],
+    "price": null,
+    "description": "Communal carol sing-along in the candlelit chapel — mainstream but a fun festive option. Doors 7pm, start 8pm.",
+    "neighbourhood": "Islington",
+    "cycle_minutes": 20,
+    "added": "2026-08-30"
   },
   {
     "id": "kate-rusby-at-christmas-evening-show-f84d0d77",

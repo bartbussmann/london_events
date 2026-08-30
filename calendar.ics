@@ -5463,6 +5463,29 @@ URL:https://www.efdss.org/whats-on
 LOCATION:Cecil Sharp House\, 2 Regent's Park Road\, NW1 7AY
 END:VEVENT
 BEGIN:VEVENT
+UID:tracey-nelson-at-moth-club-61a737a9@london-events
+DTSTAMP:20261101T190000Z
+DTSTART:20261101T190000Z
+DTEND:20261101T230000Z
+SUMMARY:Tracey Nelson at MOTH Club
+DESCRIPTION:Sunday-evening gig at MOTH Club's glittery working men's hall.
+ \nPrice: £20.40\nhttps://dice.fm/event/6a6affe831a6220001b3063e
+URL:https://dice.fm/event/6a6affe831a6220001b3063e
+LOCATION:MOTH Club\, Old Trades Hall\, Valette Street\, E9 6NU
+END:VEVENT
+BEGIN:VEVENT
+UID:tom-rush-at-union-chapel-1d3a4609@london-events
+DTSTAMP:20261101T190000Z
+DTSTART:20261101T190000Z
+DTEND:20261101T210000Z
+SUMMARY:Tom Rush at Union Chapel
+DESCRIPTION:60s folk-revival legend ('No Regrets') plays his first London 
+ concert since the 1960s. Doors 7pm.\nhttps://unionchapel.org.uk/whats-on/
+ tom-rush
+URL:https://unionchapel.org.uk/whats-on/tom-rush
+LOCATION:Union Chapel\, Compton Terrace\, Islington\, N1 2UN
+END:VEVENT
+BEGIN:VEVENT
 UID:campaign-lab-hack-night-2-nov-edition-fd092e49@london-events
 DTSTAMP:20261102T190000Z
 DTSTART:20261102T190000Z
@@ -5614,6 +5637,56 @@ URL:https://dice.fm/event/l8do3l-kiwi-jr-alien-boy-bleary-eyed-6th-nov-mot
 LOCATION:MOTH Club\, Old Trades Hall\, Valette Street\, E9 6NU
 END:VEVENT
 BEGIN:VEVENT
+UID:live-at-the-chapel-with-chris-mccausland-b7fcd1fa@london-events
+DTSTAMP:20261107T194500Z
+DTSTART:20261107T194500Z
+DTEND:20261107T223000Z
+SUMMARY:Live At The Chapel with Chris McCausland
+DESCRIPTION:Union Chapel's flagship comedy night headlined by Chris McCaus
+ land. Doors 6.30pm\, show 7.45pm.\nhttps://unionchapel.org.uk/whats-on/li
+ ve-at-the-chapel-with-chris-mccausland
+URL:https://unionchapel.org.uk/whats-on/live-at-the-chapel-with-chris-mcca
+ usland
+LOCATION:Union Chapel\, Compton Terrace\, Islington\, N1 2UN
+END:VEVENT
+BEGIN:VEVENT
+UID:callis-at-the-shacklewell-arms-9dbd3a48@london-events
+DTSTAMP:20261108T190000Z
+DTSTART:20261108T190000Z
+DTEND:20261108T210000Z
+SUMMARY:Callis at The Shacklewell Arms
+DESCRIPTION:Sunday-evening headline show in the Shacklewell's back room 
+ — cheap small-room gig.\nPrice: £11.33\nhttps://dice.fm/event/6a8c4844
+ 296ef500012b2d05
+URL:https://dice.fm/event/6a8c4844296ef500012b2d05
+LOCATION:The Shacklewell Arms\, 71 Shacklewell Lane\, E8 2EB
+END:VEVENT
+BEGIN:VEVENT
+UID:nu-civilisation-orchestra-the-stuart-hall-project-at-union-c-67e9e8c9@
+ london-events
+DTSTAMP:20261109T190000Z
+DTSTART:20261109T190000Z
+DTEND:20261109T223000Z
+SUMMARY:Nu Civilisation Orchestra: The Stuart Hall Project at Union Chapel
+DESCRIPTION:Tomorrow's Warriors' orchestra performs Miles Davis's soundtra
+ ck live to John Akomfrah's documentary The Stuart Hall Project. Doors 7pm
+ .\nhttps://unionchapel.org.uk/whats-on/nu-civilisation-orchestra
+URL:https://unionchapel.org.uk/whats-on/nu-civilisation-orchestra
+LOCATION:Union Chapel\, Compton Terrace\, Islington\, N1 2UN
+END:VEVENT
+BEGIN:VEVENT
+UID:sebright-quiz-night-5c97a609@london-events
+DTSTAMP:20261109T200000Z
+DTSTART:20261109T200000Z
+DTEND:20261109T220000Z
+SUMMARY:Sebright Quiz Night
+DESCRIPTION:Monday pub quiz at the Sebright\, five minutes from home — c
+ heap\, sociable option (runs most Mondays).\nPrice: £2\nhttps://dice.fm/
+ event/6a88b8e16c9266000161989f
+URL:https://dice.fm/event/6a88b8e16c9266000161989f
+LOCATION:Sebright Arms\, 31-35 Coate St\, E2 9AG
+END:VEVENT
+BEGIN:VEVENT
 UID:the-slow-show-white-water-anniversary-tour-at-union-chapel-0824d3a5@lo
  ndon-events
 DTSTAMP:20261110T190000Z
@@ -5642,6 +5715,45 @@ DESCRIPTION:Whisper-quiet folk songwriter Aayushi tops a three-act Wednesd
 URL:https://dice.fm/event/l8d9wl-aayushi-ray-vincent-mills-hannah-lou-clar
  k-11th-nov-paper-dress-vintage-london-tickets
 LOCATION:Paper Dress Vintage\, 352a Mare Street\, E8 1HR
+END:VEVENT
+BEGIN:VEVENT
+UID:ona-mafalda-at-the-old-blue-last-62b0f7f9@london-events
+DTSTAMP:20261112T190000Z
+DTSTART:20261112T190000Z
+DTEND:20261112T210000Z
+SUMMARY:Ona Mafalda at The Old Blue Last
+DESCRIPTION:Thursday headline show upstairs at the Old Blue Last.\nPrice: 
+ £15.82\nhttps://dice.fm/event/6a4ba14f17dad70001fb37fe
+URL:https://dice.fm/event/6a4ba14f17dad70001fb37fe
+LOCATION:The Old Blue Last\, 38 Great Eastern Street\, EC2A 3ES
+END:VEVENT
+BEGIN:VEVENT
+UID:ryan-young-louis-campbell-at-cecil-sharp-house-003fa60f@london-events
+DTSTAMP:20261112T193000Z
+DTSTART:20261112T193000Z
+DTEND:20261112T213000Z
+SUMMARY:Ryan Young + Louis Campbell at Cecil Sharp House
+DESCRIPTION:Traditional Scottish fiddle music with melody and expression a
+ t its centre\, with guitarist Louis Campbell.\nPrice: £19.50 (£12.50 un
+ der-30)\nhttps://www.efdss.org/whats-on/26-gigs/16022-ryan-young-louis-ca
+ mpbell-2026
+URL:https://www.efdss.org/whats-on/26-gigs/16022-ryan-young-louis-campbell
+ -2026
+LOCATION:Cecil Sharp House\, 2 Regent's Park Road\, NW1 7AY
+END:VEVENT
+BEGIN:VEVENT
+UID:english-country-dancing-class-at-cecil-sharp-house-12-nov-7b0c1feb@lon
+ don-events
+DTSTAMP:20261112T193000Z
+DTSTART:20261112T193000Z
+DTEND:20261112T213000Z
+SUMMARY:English Country Dancing class at Cecil Sharp House (12 Nov)
+DESCRIPTION:Learn English country\, ceilidh and barn dancing with live mus
+ ic. Same night as the Ryan Young gig — pick one.\nhttps://www.efdss.org
+ /whats-on/28-classes-and-courses/16113-english-country-dancing-12-nov-26
+URL:https://www.efdss.org/whats-on/28-classes-and-courses/16113-english-co
+ untry-dancing-12-nov-26
+LOCATION:Cecil Sharp House\, 2 Regent's Park Road\, NW1 7AY
 END:VEVENT
 BEGIN:VEVENT
 UID:emma-jean-thackray-dear-miles-a-love-letter-at-earth-15953bc0@london-e
@@ -6132,6 +6244,18 @@ URL:https://wiltons.org.uk/whats-on/dead-poets-live/
 LOCATION:Wilton's Music Hall\, 1 Graces Alley\, E1 8JB
 END:VEVENT
 BEGIN:VEVENT
+UID:parviz-persian-psych-funk-at-moth-club-f8255549@london-events
+DTSTAMP:20261128T193000Z
+DTSTART:20261128T193000Z
+DTEND:20261128T213000Z
+SUMMARY:Parviz — Persian psych-funk at MOTH Club
+DESCRIPTION:Persian psych-funk project channelling Iran's 1970s music scen
+ e with a contemporary touch\; self-titled debut out in 2026.\nPrice: £15
+ .87\nhttps://dice.fm/event/6a390ed380ed6200017ac316
+URL:https://dice.fm/event/6a390ed380ed6200017ac316
+LOCATION:MOTH Club\, Old Trades Hall\, Valette Street\, E9 6NU
+END:VEVENT
+BEGIN:VEVENT
 UID:la-plan-te-sauvage-screening-with-live-score-by-haha-sounds--55829911@
  london-events
 DTSTAMP:20261129T190000Z
@@ -6157,6 +6281,42 @@ DESCRIPTION:Bi-weekly hack night at Newspeak House — fills the otherwise
  -empty 30 Nov.\nPrice: Free\nhttps://luma.com/pn8du6nq
 URL:https://luma.com/pn8du6nq
 LOCATION:Newspeak House\, 133-135 Bethnal Green Road\, E2 7DG
+END:VEVENT
+BEGIN:VEVENT
+UID:david-j-bauhaus-love-and-rockets-at-moth-club-bb8ea4da@london-events
+DTSTAMP:20261201T190000Z
+DTSTART:20261201T190000Z
+DTEND:20261201T210000Z
+SUMMARY:David J (Bauhaus / Love and Rockets) at MOTH Club
+DESCRIPTION:Bauhaus and Love and Rockets bassist plays an intimate Tuesday
+ -night show.\nPrice: £27.20\nhttps://dice.fm/event/6a55e877d149bf0001c51
+ 31b
+URL:https://dice.fm/event/6a55e877d149bf0001c5131b
+LOCATION:MOTH Club\, Old Trades Hall\, Valette Street\, E9 6NU
+END:VEVENT
+BEGIN:VEVENT
+UID:trad-night-andy-turner-at-cecil-sharp-house-1a0fd5ec@london-events
+DTSTAMP:20261202T193000Z
+DTSTART:20261202T193000Z
+DTEND:20261202T213000Z
+SUMMARY:Trad Night: Andy Turner at Cecil Sharp House
+DESCRIPTION:Highly regarded singer and anglo-concertina player in an intim
+ ate acoustic gig.\nPrice: £12.50\nhttps://www.efdss.org/whats-on/26-gigs
+ /16018-trad-night-andy-turner
+URL:https://www.efdss.org/whats-on/26-gigs/16018-trad-night-andy-turner
+LOCATION:Cecil Sharp House\, 2 Regent's Park Road\, NW1 7AY
+END:VEVENT
+BEGIN:VEVENT
+UID:cowboyy-at-the-victoria-7097c051@london-events
+DTSTAMP:20261202T193000Z
+DTSTART:20261202T193000Z
+DTEND:20261202T213000Z
+SUMMARY:Cowboyy at The Victoria
+DESCRIPTION:Angular art-rock/indie in the Victoria's small back room — t
+ he closer-to-home alternative to the CSH Trad Night.\nPrice: £12.47\nhtt
+ ps://dice.fm/event/6a8ea3337aa2920001d16cc9
+URL:https://dice.fm/event/6a8ea3337aa2920001d16cc9
+LOCATION:The Victoria\, 451 Queensbridge Road\, E8 3AS
 END:VEVENT
 BEGIN:VEVENT
 UID:elanor-moss-at-cecil-sharp-house-48a624ae@london-events
@@ -6210,6 +6370,41 @@ URL:https://dice.fm/event/6a396f05eb360100011f61f3
 LOCATION:MOTH Club\, Old Trades Hall\, Valette Street\, E9 6NU
 END:VEVENT
 BEGIN:VEVENT
+UID:festive-gathering-at-cecil-sharp-house-acc8ee1c@london-events
+DTSTAMP:20261206T190000Z
+DTSTART:20261206T190000Z
+DTEND:20261206T210000Z
+SUMMARY:Festive Gathering at Cecil Sharp House
+DESCRIPTION:Cecil Sharp House Choir and guests host their annual yuletide 
+ celebration.\nPrice: £18.50 (£12.50 under-30)\nhttps://www.efdss.org/wh
+ ats-on/26-gigs/16006-6-12-26-festivegathering
+URL:https://www.efdss.org/whats-on/26-gigs/16006-6-12-26-festivegathering
+LOCATION:Cecil Sharp House\, 2 Regent's Park Road\, NW1 7AY
+END:VEVENT
+BEGIN:VEVENT
+UID:downtown-boys-at-moth-club-1b85b0ee@london-events
+DTSTAMP:20261207T193000Z
+DTSTART:20261207T193000Z
+DTEND:20261207T213000Z
+SUMMARY:Downtown Boys at MOTH Club
+DESCRIPTION:Providence bilingual political punk band\, famously furious li
+ ve. Monday night.\nPrice: £22.66\nhttps://dice.fm/event/6a3e319c4ed8b100
+ 01ee52fd
+URL:https://dice.fm/event/6a3e319c4ed8b10001ee52fd
+LOCATION:MOTH Club\, Old Trades Hall\, Valette Street\, E9 6NU
+END:VEVENT
+BEGIN:VEVENT
+UID:truthpaste-at-moth-club-340be160@london-events
+DTSTAMP:20261208T193000Z
+DTSTART:20261208T193000Z
+DTEND:20261208T213000Z
+SUMMARY:Truthpaste at MOTH Club
+DESCRIPTION:Tuesday-night gig at MOTH filling an otherwise empty day.\nPri
+ ce: £15.30\nhttps://dice.fm/event/6a6b036778d5300001fba900
+URL:https://dice.fm/event/6a6b036778d5300001fba900
+LOCATION:MOTH Club\, Old Trades Hall\, Valette Street\, E9 6NU
+END:VEVENT
+BEGIN:VEVENT
 UID:salt-house-at-cecil-sharp-house-af972287@london-events
 DTSTAMP:20261209T193000Z
 DTSTART:20261209T193000Z
@@ -6245,6 +6440,46 @@ DESCRIPTION:Free Friday-night live show in the Shacklewell's back room —
  .fm/event/6a341aaf06a7bb0001f3e497
 URL:https://dice.fm/event/6a341aaf06a7bb0001f3e497
 LOCATION:The Shacklewell Arms\, 71 Shacklewell Lane\, E8 2EB
+END:VEVENT
+BEGIN:VEVENT
+UID:balkanplus-at-cecil-sharp-house-december-edition-91fa90c0@london-event
+ s
+DTSTAMP:20261212T180000Z
+DTSTART:20261212T180000Z
+DTEND:20261212T200000Z
+SUMMARY:Balkanplus at Cecil Sharp House (December edition)
+DESCRIPTION:Social dances from the Balkans and beyond\, Saturday 6pm — c
+ ombinable with the 8pm Barndance.\nhttps://www.efdss.org/whats-on/27-danc
+ es/16171-balkanplus-autumn-2026
+URL:https://www.efdss.org/whats-on/27-dances/16171-balkanplus-autumn-2026
+LOCATION:Cecil Sharp House\, 2 Regent's Park Road\, NW1 7AY
+END:VEVENT
+BEGIN:VEVENT
+UID:brutallixmas-ft-brutalligators-fightmilk-flinch-at-the-victo-b661b9ce@
+ london-events
+DTSTAMP:20261212T190000Z
+DTSTART:20261212T190000Z
+DTEND:20261212T210000Z
+SUMMARY:Brutallixmas ft. Brutalligators\, Fightmilk\, Flinch at The Victor
+ ia
+DESCRIPTION:Three-band DIY indie-punk Christmas bill in the Victoria's bac
+ k room — the cheap close-to-home option.\nPrice: £8\nhttps://dice.fm/e
+ vent/6a798fa8b18b760001874545
+URL:https://dice.fm/event/6a798fa8b18b760001874545
+LOCATION:The Victoria\, 451 Queensbridge Road\, E8 3AS
+END:VEVENT
+BEGIN:VEVENT
+UID:the-london-barndance-company-december-edition-63b29622@london-events
+DTSTAMP:20261212T200000Z
+DTSTART:20261212T200000Z
+DTEND:20261212T220000Z
+SUMMARY:The London Barndance Company (December edition)
+DESCRIPTION:Zesty live music and high-energy social dancing — could comb
+ ine with Balkanplus at 6pm in the same building.\nhttps://www.efdss.org/w
+ hats-on/27-dances/15735-the-london-barndance-company-2026
+URL:https://www.efdss.org/whats-on/27-dances/15735-the-london-barndance-co
+ mpany-2026
+LOCATION:Cecil Sharp House\, 2 Regent's Park Road\, NW1 7AY
 END:VEVENT
 BEGIN:VEVENT
 UID:sharp-s-folk-club-festive-party-2eeaddf7@london-events
@@ -6351,6 +6586,36 @@ DESCRIPTION:The Teesside harmony trio's festive show — warm\, funny\, la
  n)\nhttps://www.efdss.org/whats-on/26-gigs/16005-the-younguns-2026
 URL:https://www.efdss.org/whats-on/26-gigs/16005-the-younguns-2026
 LOCATION:Cecil Sharp House\, 2 Regent's Park Road\, NW1 7AY
+END:VEVENT
+BEGIN:VEVENT
+UID:a-christmas-carol-dickens-theatre-company-at-hoxton-hall-2682533e@lond
+ on-events
+DTSTAMP:20261221T190000Z
+DTSTART:20261221T190000Z
+DTEND:20261221T210000Z
+SUMMARY:A Christmas Carol — Dickens Theatre Company at Hoxton Hall
+DESCRIPTION:Touring production staged as Dickens himself playing Scrooge a
+ nd 30 other characters\, in the Victorian music hall. Pitched partly at G
+ CSE students — expect a mixed crowd.\nhttps://hoxtonhall.ticketsolve.co
+ m/shows/1173687260/events
+URL:https://hoxtonhall.ticketsolve.com/shows/1173687260/events
+LOCATION:Hoxton Hall\, 130 Hoxton Street\, N1 6SH
+END:VEVENT
+BEGIN:VEVENT
+UID:the-big-christmas-sing-a-long-with-aled-jones-and-alexander--3df47b39@
+ london-events
+DTSTAMP:20261221T200000Z
+DTSTART:20261221T200000Z
+DTEND:20261221T223000Z
+SUMMARY:The Big Christmas Sing A-Long with Aled Jones and Alexander Armstr
+ ong
+DESCRIPTION:Communal carol sing-along in the candlelit chapel — mainstre
+ am but a fun festive option. Doors 7pm\, start 8pm.\nhttps://unionchapel.
+ org.uk/whats-on/the-big-christmas-sing-a-long-with-aled-jones-and-alexand
+ er-armstrong
+URL:https://unionchapel.org.uk/whats-on/the-big-christmas-sing-a-long-with
+ -aled-jones-and-alexander-armstrong
+LOCATION:Union Chapel\, Compton Terrace\, Islington\, N1 2UN
 END:VEVENT
 BEGIN:VEVENT
 UID:kate-rusby-at-christmas-evening-show-f84d0d77@london-events
