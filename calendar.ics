@@ -1204,6 +1204,22 @@ URL:https://www.closeupfilmcentre.com/film_programmes/2026/bela-tarr/satan
 LOCATION:Close-Up Film Centre\, 97 Sclater Street\, E1 6HR
 END:VEVENT
 BEGIN:VEVENT
+UID:london-rationalish-meetup-reading-group-afternoon-eae3887b@london-even
+ ts
+DTSTAMP:20260906T130000Z
+DTSTART:20260906T130000Z
+DTEND:20260906T150000Z
+SUMMARY:London Rationalish Meetup — reading-group afternoon
+DESCRIPTION:Monthly rationalish discussion meetup at the Arkhipov group ho
+ use\, with a short LessWrong/Asterisk reading list as conversation fodder
+ . Sunday afternoon\, three minutes from home.\nPrice: Free\nhttps://www.l
+ esswrong.com/events/k9niqWHFzPhiJqfoG/london-rationalish-meetup-2026-09-0
+ 6
+URL:https://www.lesswrong.com/events/k9niqWHFzPhiJqfoG/london-rationalish-
+ meetup-2026-09-06
+LOCATION:Arkhipov (rationalish group house)\, 6 Peary Place\, E2 0QW
+END:VEVENT
+BEGIN:VEVENT
 UID:song-circle-plot-9-5eeed78f@london-events
 DTSTAMP:20260906T140000Z
 DTSTART:20260906T140000Z
@@ -2023,6 +2039,17 @@ URL:https://thamesfestivaltrust.org/whats-on/st-katharine-docks-classic-bo
 LOCATION:St Katharine Docks\, St Katharine Docks\, E1W 1LA
 END:VEVENT
 BEGIN:VEVENT
+UID:community-tooling-hack-day-2-at-newspeak-house-f9d769a6@london-events
+DTSTAMP:20260912T100000Z
+DTSTART:20260912T100000Z
+DTEND:20260912T150000Z
+SUMMARY:Community Tooling Hack Day #2 at Newspeak House
+DESCRIPTION:Saturday hack day building tooling for civic communities — f
+ ollow-up to their first edition.\nPrice: Free\nhttps://luma.com/qn9exp2n
+URL:https://luma.com/qn9exp2n
+LOCATION:Newspeak House\, 133 Bethnal Green Road\, E2 7DG
+END:VEVENT
+BEGIN:VEVENT
 UID:ceroc-london-50-50-6-hour-saturday-freestyle-september-237c56bc@london
  -events
 DTSTAMP:20260912T130000Z
@@ -2767,6 +2794,18 @@ URL:https://www.crownworkspottery.com/taster-sessions/tastersessionsmarcha
 LOCATION:Crown Works Pottery\, Temple Street\, Bethnal Green\, E2
 END:VEVENT
 BEGIN:VEVENT
+UID:newspeak-house-welcome-dinner-2026-69cd739c@london-events
+DTSTAMP:20260918T173000Z
+DTSTART:20260918T173000Z
+DTEND:20260918T210000Z
+SUMMARY:Newspeak House Welcome Dinner 2026
+DESCRIPTION:Annual welcome dinner opening the new Newspeak House year — 
+ a low-stakes way to meet the political-technology community over food.\nP
+ rice: Free\nhttps://luma.com/addlx2lh
+URL:https://luma.com/addlx2lh
+LOCATION:Newspeak House\, 133 Bethnal Green Road\, E2 7DG
+END:VEVENT
+BEGIN:VEVENT
 UID:luke-haines-the-auteurs-the-lighthouse-at-the-lexington-b9027b84@londo
  n-events
 DTSTAMP:20260918T180000Z
@@ -3342,6 +3381,20 @@ URL:https://wellcomecollection.org/events/wellcome-collection-lates-the-fr
 LOCATION:Wellcome Collection\, 183 Euston Road\, NW1 2BE
 END:VEVENT
 BEGIN:VEVENT
+UID:thursday-25-35-singles-night-the-star-shoreditch-33f64af9@london-event
+ s
+DTSTAMP:20260924T180000Z
+DTSTART:20260924T180000Z
+DTEND:20260924T200000Z
+SUMMARY:Thursday: 25-35 Singles Night — The Star\, Shoreditch
+DESCRIPTION:End-of-summer 25-35 singles party with DJ from 9pm\; arrive be
+ fore 7:30pm for guaranteed entry.\nPrice: £12-£18\nhttps://www.thursday
+ .com/events/london/3b7fda3c-a92e-44e1-9042-8b27906e7f35
+URL:https://www.thursday.com/events/london/3b7fda3c-a92e-44e1-9042-8b27906
+ e7f35
+LOCATION:The Star\, Shoreditch\, Shoreditch (venue in event description)
+END:VEVENT
+BEGIN:VEVENT
 UID:extended-floating-sound-journey-gong-bath-24-sep-2608caa3@london-event
  s
 DTSTAMP:20260924T181500Z
@@ -3527,6 +3580,21 @@ URL:https://unionchapel.org.uk/whats-on/grace-petrie
 LOCATION:Union Chapel\, Compton Terrace\, Islington\, N1 2UN
 END:VEVENT
 BEGIN:VEVENT
+UID:thursday-straight-singles-sauna-rave-at-sanctuary-soul-b5ee2169@london
+ -events
+DTSTAMP:20260925T190000Z
+DTSTART:20260925T190000Z
+DTEND:20260925T210000Z
+SUMMARY:Thursday: Straight Singles Sauna Rave at Sanctuary &Soul
+DESCRIPTION:Singles sauna rave — dance sessions in a custom sauna with h
+ ouse music\, ice plunges and mist showers\, five minutes from home. Arriv
+ e 7:30-7:45pm.\nPrice: £28-£32\nhttps://www.thursday.com/events/london/
+ 1a12b087-e687-4363-a86e-565f7d403e46
+URL:https://www.thursday.com/events/london/1a12b087-e687-4363-a86e-565f7d4
+ 03e46
+LOCATION:The Sanctuary &Soul\, 114 Cheshire Street\, E2 6EJ
+END:VEVENT
+BEGIN:VEVENT
 UID:audition-35mm-presented-by-asif-kapadia-at-rio-cinema-434e45cf@london-
  events
 DTSTAMP:20260925T193000Z
@@ -3554,6 +3622,17 @@ URL:https://www.eventbrite.co.uk/e/clay-culture-making-ancient-history-han
 LOCATION:Prideaux House\, 10 Church Crescent\, London E9 7DL
 END:VEVENT
 BEGIN:VEVENT
+UID:house-london-data-hackathon-september-edition-1cec4fb1@london-events
+DTSTAMP:20260926T090000Z
+DTSTART:20260926T090000Z
+DTEND:20260926T183000Z
+SUMMARY:house london! — data hackathon (September edition)
+DESCRIPTION:All-day community data hackathon (tracks include climate) — 
+ drop in as long as you like.\nPrice: Free\nhttps://luma.com/tsjh0lm9
+URL:https://luma.com/tsjh0lm9
+LOCATION:Newspeak House\, 133 Bethnal Green Road\, E2 7DG
+END:VEVENT
+BEGIN:VEVENT
 UID:docklands-warehouse-and-walking-tour-61c8597d@london-events
 DTSTAMP:20260926T100000Z
 DTSTART:20260926T100000Z
@@ -3569,6 +3648,22 @@ LOCATION:London Museum Docklands\, No.1 Warehouse\, West India Quay\, E14
  4AL
 END:VEVENT
 BEGIN:VEVENT
+UID:trybe-shamanic-trance-dance-ecstatic-dance-cacao-full-moon-e-88d91d37@
+ london-events
+DTSTAMP:20260926T104500Z
+DTSTART:20260926T104500Z
+DTEND:20260926T211500Z
+SUMMARY:TRYBE — Shamanic Trance Dance\, Ecstatic Dance & Cacao (Full Moo
+ n & Equinox)
+DESCRIPTION:Day-long full-moon gathering: shamanic trance dance\, sacred r
+ age ritual\, ecstatic dance and cacao — distinct from the same-day Ecst
+ atic Saturdays opener. Northern line easier than the ~45 min ride.\nPrice
+ : £15-£30 (tiered)\nhttps://dandelion.events/e/i45nu
+URL:https://dandelion.events/e/i45nu
+LOCATION:North London venue (address on booking)\, Near Tufnell Park / Gos
+ pel Oak
+END:VEVENT
+BEGIN:VEVENT
 UID:autumn-equinox-apple-pressing-conker-tournament-5c538a2a@london-events
 DTSTAMP:20260926T110000Z
 DTSTART:20260926T110000Z
@@ -3580,6 +3675,19 @@ DESCRIPTION:Community apple pressing plus a conker tournament for the autu
 URL:https://dandelion.events/e/f6r5b
 LOCATION:The Thanet Youth & Community Centre\, Herbert Street\, Kentish To
  wn\, NW5 4HD
+END:VEVENT
+BEGIN:VEVENT
+UID:thursday-badminton-x-singles-haggerston-26-sep-04cbbd71@london-events
+DTSTAMP:20260926T150000Z
+DTSTART:20260926T150000Z
+DTEND:20260926T170000Z
+SUMMARY:Thursday: Badminton x Singles — Haggerston (26 Sep)
+DESCRIPTION:New date of the singles badminton tournament\, all levels\; me
+ et 3:45pm.\nPrice: £20\nhttps://www.thursday.com/events/london/eb51f5cd-
+ eb54-4fdc-941a-4f8018ae9921
+URL:https://www.thursday.com/events/london/eb51f5cd-eb54-4fdc-941a-4f8018a
+ e9921
+LOCATION:Haggerston School (sports hall)\, Weymouth Terrace\, E2 8LS
 END:VEVENT
 BEGIN:VEVENT
 UID:lawrence-abu-hamdan-the-crack-and-the-boom-6e2a94ea@london-events
@@ -3946,6 +4054,20 @@ LOCATION:Acland Burghley School Sports Centre\, Churchill Road\, London NW
  5 1AN
 END:VEVENT
 BEGIN:VEVENT
+UID:psysoc-social-speed-friending-psychedelic-storytelling-septe-a5b5a343@
+ london-events
+DTSTAMP:20260930T174500Z
+DTSTART:20260930T174500Z
+DTEND:20260930T203000Z
+SUMMARY:PsySoc Social: Speed-Friending & Psychedelic Storytelling (Septemb
+ er edition)
+DESCRIPTION:September edition of the Psychedelic Society's speed-friending
+  and storytelling night on your doorstep.\nPrice: £5-£20 sliding scale\
+ nhttps://dandelion.events/e/z6lo1
+URL:https://dandelion.events/e/z6lo1
+LOCATION:Love Shack\, Cambridge Heath Road\, E2
+END:VEVENT
+BEGIN:VEVENT
 UID:london-vocal-improv-cabaret-autumn-edition-d3182fbf@london-events
 DTSTAMP:20260930T180000Z
 DTSTART:20260930T180000Z
@@ -3986,6 +4108,20 @@ DESCRIPTION:How debates over the Irish language in Northern Ireland identi
  e (register)\nhttps://www.gresham.ac.uk/whats-on/shakespeare-irish
 URL:https://www.gresham.ac.uk/whats-on/shakespeare-irish
 LOCATION:Barnard's Inn Hall\, Holborn\, EC1N 2HH
+END:VEVENT
+BEGIN:VEVENT
+UID:nigerian-cookery-class-with-bolu-migrateful-pop-up-5415538b@london-eve
+ nts
+DTSTAMP:20261001T171500Z
+DTSTART:20261001T171500Z
+DTEND:20261001T191500Z
+SUMMARY:Nigerian Cookery Class with Bolu (Migrateful pop-up)
+DESCRIPTION:Veg-friendly Nigerian cookery class with chef Bolu at the Ange
+ l pop-up kitchen.\nPrice: £59\nhttps://www.migrateful.org/event/nigerian
+ -cookery-class-with-bolu-veg-friendly-london-pop-up/
+URL:https://www.migrateful.org/event/nigerian-cookery-class-with-bolu-veg-
+ friendly-london-pop-up/
+LOCATION:Holdspace\, Risinghill Street\, N1 (Angel)
 END:VEVENT
 BEGIN:VEVENT
 UID:john-myrtle-at-servant-jazz-quarters-13e52a7b@london-events
@@ -4067,6 +4203,23 @@ URL:https://dice.fm/event/avpbe2-swim-deep-2nd-oct-moth-club-london-ticket
 LOCATION:MOTH Club\, Old Trades Hall\, Valette Street\, E9 6NU
 END:VEVENT
 BEGIN:VEVENT
+UID:cacao-dance-tribe-friday-ecstatic-dance-cacao-october-opener-313d404c@
+ london-events
+DTSTAMP:20261002T184500Z
+DTSTART:20261002T184500Z
+DTEND:20261002T204500Z
+SUMMARY:Cacao Dance Tribe: Friday Ecstatic Dance & Cacao (October opener)
+DESCRIPTION:First October edition of EDL's Friday-night ecstatic dance wit
+ h cacao ceremony.\nPrice: Ticketed via Eventbrite\nhttps://ecstaticdancel
+ ondon.com/event/ecstatic-dance-london-cacao-dance-tribe-friday-night-danc
+ e-cacao-2026-03-06-2026-03-20-2026-09-25/2026-10-02/
+URL:https://ecstaticdancelondon.com/event/ecstatic-dance-london-cacao-danc
+ e-tribe-friday-night-dance-cacao-2026-03-06-2026-03-20-2026-09-25/2026-10
+ -02/
+LOCATION:Ecstatic Dance London venue\, Tufnell Park\, Burghley Road\, NW5 
+ (address on booking)
+END:VEVENT
+BEGIN:VEVENT
 UID:diy-alive-festival-2026-sports-team-nell-mescal-feet-walt-di-a132649a@
  london-events
 DTSTAMP:20261003T120000Z
@@ -4107,6 +4260,23 @@ DESCRIPTION:Ri talk on next-generation battery and energy-storage material
  rged-future-energy-materials
 URL:https://www.rigb.org/whats-on/supercharged-future-energy-materials
 LOCATION:Royal Institution\, 21 Albemarle Street\, Mayfair\, W1S 4BS
+END:VEVENT
+BEGIN:VEVENT
+UID:ecstatic-saturdays-sober-rave-ecstatic-dance-cacao-3-oct-48550b57@lond
+ on-events
+DTSTAMP:20261003T180000Z
+DTSTART:20261003T180000Z
+DTEND:20261003T200000Z
+SUMMARY:Ecstatic Saturdays: Sober Rave — Ecstatic Dance & Cacao (3 Oct)
+DESCRIPTION:First October Saturday sober rave with cacao ceremony (further
+  dates 10 + 17 Oct).\nPrice: Ticketed via Eventbrite\nhttps://ecstaticdan
+ celondon.com/event/ecstatic-saturdays-ecstatic-dance-cacao-ceremony-in-no
+ rth-london-2-2023-12-16-2025-09-06-2026-01-03-2026-09-26/2026-10-03/
+URL:https://ecstaticdancelondon.com/event/ecstatic-saturdays-ecstatic-danc
+ e-cacao-ceremony-in-north-london-2-2023-12-16-2025-09-06-2026-01-03-2026-
+ 09-26/2026-10-03/
+LOCATION:Ecstatic Dance London venue\, Tufnell Park\, Burghley Road\, NW5 
+ (address on booking)
 END:VEVENT
 BEGIN:VEVENT
 UID:the-spook-school-happy-accidents-at-the-old-blue-last-08541dba@london-
@@ -4399,6 +4569,19 @@ URL:https://www.excel.london/whats-on/New-Scientist-Live-2026
 LOCATION:ExCeL London\, Royal Victoria Dock\, 1 Western Gateway\, E16 1XL
 END:VEVENT
 BEGIN:VEVENT
+UID:relating-room-london-connection-beyond-conversation-33785e2d@london-ev
+ ents
+DTSTAMP:20261010T100000Z
+DTSTART:20261010T100000Z
+DTEND:20261010T113000Z
+SUMMARY:Relating Room London — connection beyond conversation
+DESCRIPTION:Saturday-morning relational practice session in authentic-rela
+ ting style at the Vauxhall community centre. Victoria line beats the ~40 
+ min ride.\nPrice: ~£15\nhttps://dandelion.events/e/q0x8e
+URL:https://dandelion.events/e/q0x8e
+LOCATION:Bonnington Cafe and Community Centre\, Vauxhall Grove\, SW8
+END:VEVENT
+BEGIN:VEVENT
 UID:root-rise-master-plant-breathwork-live-soundscape-ecstatic-d-b4e169a4@
  london-events
 DTSTAMP:20261010T104500Z
@@ -4654,6 +4837,20 @@ URL:https://www.gresham.ac.uk/whats-on/trivial-precious
 LOCATION:Barnard's Inn Hall\, Holborn\, EC1N 2HH
 END:VEVENT
 BEGIN:VEVENT
+UID:tajik-cookery-class-with-akbar-migrateful-october-1ec5f8e5@london-even
+ ts
+DTSTAMP:20261014T171500Z
+DTSTART:20261014T171500Z
+DTEND:20261014T191500Z
+SUMMARY:Tajik Cookery Class with Akbar (Migrateful\, October)
+DESCRIPTION:October date for the hands-on Tajik cookery class — genuinel
+ y rare cuisine\, weekday evening.\nPrice: £59\nhttps://www.migrateful.or
+ g/event/tajik-cookery-class-with-akbar-london-pop-up-27/
+URL:https://www.migrateful.org/event/tajik-cookery-class-with-akbar-london
+ -pop-up-27/
+LOCATION:Holdspace\, Risinghill Street\, N1 (Angel)
+END:VEVENT
+BEGIN:VEVENT
 UID:contact-improv-wednesday-open-class-jam-with-rick-nodine-14--92dc9dd5@
  london-events
 DTSTAMP:20261014T173000Z
@@ -4695,6 +4892,21 @@ DESCRIPTION:Age-appropriate-design campaigner Baroness Kidron in conversat
 URL:https://www.conwayhall.org.uk/whats-on/event/can-we-reclaim-childhood-
  from-big-tech-beeban-kidron-sandi-toksvig/
 LOCATION:Conway Hall\, 25 Red Lion Square\, WC1R 4RL
+END:VEVENT
+BEGIN:VEVENT
+UID:life-drawing-in-borough-at-the-roebuck-first-october-date-45c757b9@lon
+ don-events
+DTSTAMP:20261014T180000Z
+DTSTART:20261014T180000Z
+DTEND:20261014T200000Z
+SUMMARY:Life Drawing in Borough at The Roebuck (first October date)
+DESCRIPTION:Relaxed pub life-drawing session — first published October d
+ ate of the monthly series.\nPrice: ~£16 (see Eventbrite)\nhttps://www.ev
+ entbrite.co.uk/e/life-drawing-in-borough-at-the-roebuck-tickets-199889707
+ 9975
+URL:https://www.eventbrite.co.uk/e/life-drawing-in-borough-at-the-roebuck-
+ tickets-1998897079975
+LOCATION:The Roebuck\, 50 Great Dover Street\, SE1 4YG
 END:VEVENT
 BEGIN:VEVENT
 UID:vision-fortune-abigail-snail-free-show-at-shacklewell-arms-00bb3668@lo
@@ -5036,6 +5248,21 @@ DESCRIPTION:Chicago synth trio play blissed-out kosmische minimalism — o
  eoto.co.uk/events/bitchin-bajas-2026/
 URL:https://www.cafeoto.co.uk/events/bitchin-bajas-2026/
 LOCATION:Cafe OTO\, 18-22 Ashwin Street\, Dalston\, E8 3DL
+END:VEVENT
+BEGIN:VEVENT
+UID:gambian-cookery-class-with-lamin-migrateful-pop-up-be0dd10a@london-eve
+ nts
+DTSTAMP:20261023T173000Z
+DTSTART:20261023T173000Z
+DTEND:20261023T193000Z
+SUMMARY:Gambian Cookery Class with Lamin (Migrateful pop-up)
+DESCRIPTION:Veg-friendly Gambian class with chef Lamin — rare West Afric
+ an cuisine\; Peckham is the trek (train to Peckham Rye easier).\nPrice: 
+ £59\nhttps://www.migrateful.org/event/gambian-cookery-class-with-lamin-v
+ eg-friendly-london-pop-up/
+URL:https://www.migrateful.org/event/gambian-cookery-class-with-lamin-veg-
+ friendly-london-pop-up/
+LOCATION:All Saints Church\, 7 Blenheim Grove\, Peckham\, SE15
 END:VEVENT
 BEGIN:VEVENT
 UID:hackney-comedy-experience-with-jen-brister-at-earth-65e1c479@london-ev

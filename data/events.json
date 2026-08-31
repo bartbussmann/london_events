@@ -1587,6 +1587,25 @@
     "added": "2026-08-24"
   },
   {
+    "id": "london-rationalish-meetup-reading-group-afternoon-eae3887b",
+    "title": "London Rationalish Meetup — reading-group afternoon",
+    "start": "2026-09-06T14:00:00+01:00",
+    "end": null,
+    "venue": "Arkhipov (rationalish group house)",
+    "address": "6 Peary Place, E2 0QW",
+    "url": "https://www.lesswrong.com/events/k9niqWHFzPhiJqfoG/london-rationalish-meetup-2026-09-06",
+    "source": "listing:lesswrong",
+    "tags": [
+      "community",
+      "talk"
+    ],
+    "price": "Free",
+    "description": "Monthly rationalish discussion meetup at the Arkhipov group house, with a short LessWrong/Asterisk reading list as conversation fodder. Sunday afternoon, three minutes from home.",
+    "neighbourhood": "Bethnal Green",
+    "cycle_minutes": 3,
+    "added": "2026-08-31"
+  },
+  {
     "id": "song-circle-plot-9-5eeed78f",
     "title": "Song Circle @ Plot 9",
     "start": "2026-09-06T15:00:00+01:00",
@@ -2678,6 +2697,25 @@
     "added": "2026-08-26"
   },
   {
+    "id": "community-tooling-hack-day-2-at-newspeak-house-f9d769a6",
+    "title": "Community Tooling Hack Day #2 at Newspeak House",
+    "start": "2026-09-12T11:00:00+01:00",
+    "end": "2026-09-12T16:00:00+01:00",
+    "venue": "Newspeak House",
+    "address": "133 Bethnal Green Road, E2 7DG",
+    "url": "https://luma.com/qn9exp2n",
+    "source": "venue:newspeak-house",
+    "tags": [
+      "tech",
+      "community"
+    ],
+    "price": "Free",
+    "description": "Saturday hack day building tooling for civic communities — follow-up to their first edition.",
+    "neighbourhood": "Bethnal Green",
+    "cycle_minutes": 3,
+    "added": "2026-08-31"
+  },
+  {
     "title": "Ceroc London 50:50 — 6-hour Saturday Freestyle (September)",
     "start": "2026-09-12T14:00:00+01:00",
     "end": "2026-09-12T20:00:00+01:00",
@@ -3655,6 +3693,25 @@
     "added": "2026-08-25"
   },
   {
+    "id": "newspeak-house-welcome-dinner-2026-69cd739c",
+    "title": "Newspeak House Welcome Dinner 2026",
+    "start": "2026-09-18T18:30:00+01:00",
+    "end": "2026-09-18T22:00:00+01:00",
+    "venue": "Newspeak House",
+    "address": "133 Bethnal Green Road, E2 7DG",
+    "url": "https://luma.com/addlx2lh",
+    "source": "venue:newspeak-house",
+    "tags": [
+      "community",
+      "food"
+    ],
+    "price": "Free",
+    "description": "Annual welcome dinner opening the new Newspeak House year — a low-stakes way to meet the political-technology community over food.",
+    "neighbourhood": "Bethnal Green",
+    "cycle_minutes": 3,
+    "added": "2026-08-31"
+  },
+  {
     "id": "luke-haines-the-auteurs-the-lighthouse-at-the-lexington-b9027b84",
     "title": "Luke Haines (The Auteurs) + The Lighthouse at The Lexington",
     "start": "2026-09-18T19:00:00+01:00",
@@ -4419,6 +4476,24 @@
     "added": "2026-08-20"
   },
   {
+    "id": "thursday-25-35-singles-night-the-star-shoreditch-33f64af9",
+    "title": "Thursday: 25-35 Singles Night — The Star, Shoreditch",
+    "start": "2026-09-24T19:00:00+01:00",
+    "end": null,
+    "venue": "The Star, Shoreditch",
+    "address": "Shoreditch (venue in event description)",
+    "url": "https://www.thursday.com/events/london/3b7fda3c-a92e-44e1-9042-8b27906e7f35",
+    "source": "listing:thursday-dating",
+    "tags": [
+      "community"
+    ],
+    "price": "£12-£18",
+    "description": "End-of-summer 25-35 singles party with DJ from 9pm; arrive before 7:30pm for guaranteed entry.",
+    "neighbourhood": "Shoreditch",
+    "cycle_minutes": 7,
+    "added": "2026-08-31"
+  },
+  {
     "id": "extended-floating-sound-journey-gong-bath-24-sep-2608caa3",
     "title": "Extended Floating Sound Journey Gong Bath (24 Sep)",
     "start": "2026-09-24T19:15:00+01:00",
@@ -4657,6 +4732,25 @@
     "added": "2026-08-07"
   },
   {
+    "id": "thursday-straight-singles-sauna-rave-at-sanctuary-soul-b5ee2169",
+    "title": "Thursday: Straight Singles Sauna Rave at Sanctuary &Soul",
+    "start": "2026-09-25T20:00:00+01:00",
+    "end": null,
+    "venue": "The Sanctuary &Soul",
+    "address": "114 Cheshire Street, E2 6EJ",
+    "url": "https://www.thursday.com/events/london/1a12b087-e687-4363-a86e-565f7d403e46",
+    "source": "listing:thursday-dating",
+    "tags": [
+      "community",
+      "dance"
+    ],
+    "price": "£28-£32",
+    "description": "Singles sauna rave — dance sessions in a custom sauna with house music, ice plunges and mist showers, five minutes from home. Arrive 7:30-7:45pm.",
+    "neighbourhood": "Bethnal Green",
+    "cycle_minutes": 4,
+    "added": "2026-08-31"
+  },
+  {
     "id": "audition-35mm-presented-by-asif-kapadia-at-rio-cinema-434e45cf",
     "title": "AUDITION (35mm) presented by Asif Kapadia at Rio Cinema",
     "start": "2026-09-25T20:30:00+01:00",
@@ -4694,6 +4788,25 @@
     "added": "2026-08-09"
   },
   {
+    "id": "house-london-data-hackathon-september-edition-1cec4fb1",
+    "title": "house london! — data hackathon (September edition)",
+    "start": "2026-09-26T10:00:00+01:00",
+    "end": "2026-09-26T19:30:00+01:00",
+    "venue": "Newspeak House",
+    "address": "133 Bethnal Green Road, E2 7DG",
+    "url": "https://luma.com/tsjh0lm9",
+    "source": "venue:newspeak-house",
+    "tags": [
+      "tech",
+      "community"
+    ],
+    "price": "Free",
+    "description": "All-day community data hackathon (tracks include climate) — drop in as long as you like.",
+    "neighbourhood": "Bethnal Green",
+    "cycle_minutes": 3,
+    "added": "2026-08-31"
+  },
+  {
     "id": "docklands-warehouse-and-walking-tour-61c8597d",
     "title": "Docklands Warehouse and Walking Tour",
     "start": "2026-09-26T11:00:00+01:00",
@@ -4711,6 +4824,25 @@
     "neighbourhood": "West India Quay",
     "cycle_minutes": 20,
     "added": "2026-08-26"
+  },
+  {
+    "id": "trybe-shamanic-trance-dance-ecstatic-dance-cacao-full-moon-e-88d91d37",
+    "title": "TRYBE — Shamanic Trance Dance, Ecstatic Dance & Cacao (Full Moon & Equinox)",
+    "start": "2026-09-26T11:45:00+01:00",
+    "end": "2026-09-26T22:15:00+01:00",
+    "venue": "North London venue (address on booking)",
+    "address": "Near Tufnell Park / Gospel Oak",
+    "url": "https://dandelion.events/e/i45nu",
+    "source": "aggregator:dandelion",
+    "tags": [
+      "dance",
+      "workshop"
+    ],
+    "price": "£15-£30 (tiered)",
+    "description": "Day-long full-moon gathering: shamanic trance dance, sacred rage ritual, ecstatic dance and cacao — distinct from the same-day Ecstatic Saturdays opener. Northern line easier than the ~45 min ride.",
+    "neighbourhood": "Tufnell Park",
+    "cycle_minutes": 45,
+    "added": "2026-08-31"
   },
   {
     "id": "autumn-equinox-apple-pressing-conker-tournament-5c538a2a",
@@ -4731,6 +4863,25 @@
     "neighbourhood": "Kentish Town",
     "cycle_minutes": 35,
     "added": "2026-08-11"
+  },
+  {
+    "id": "thursday-badminton-x-singles-haggerston-26-sep-04cbbd71",
+    "title": "Thursday: Badminton x Singles — Haggerston (26 Sep)",
+    "start": "2026-09-26T16:00:00+01:00",
+    "end": null,
+    "venue": "Haggerston School (sports hall)",
+    "address": "Weymouth Terrace, E2 8LS",
+    "url": "https://www.thursday.com/events/london/eb51f5cd-eb54-4fdc-941a-4f8018ae9921",
+    "source": "listing:thursday-dating",
+    "tags": [
+      "community",
+      "sport"
+    ],
+    "price": "£20",
+    "description": "New date of the singles badminton tournament, all levels; meet 3:45pm.",
+    "neighbourhood": "Haggerston",
+    "cycle_minutes": 4,
+    "added": "2026-08-31"
   },
   {
     "id": "lawrence-abu-hamdan-the-crack-and-the-boom-6e2a94ea",
@@ -5233,6 +5384,24 @@
     "added": "2026-08-09"
   },
   {
+    "id": "psysoc-social-speed-friending-psychedelic-storytelling-septe-a5b5a343",
+    "title": "PsySoc Social: Speed-Friending & Psychedelic Storytelling (September edition)",
+    "start": "2026-09-30T18:45:00+01:00",
+    "end": "2026-09-30T21:30:00+01:00",
+    "venue": "Love Shack",
+    "address": "Cambridge Heath Road, E2",
+    "url": "https://dandelion.events/e/z6lo1",
+    "source": "aggregator:dandelion",
+    "tags": [
+      "community"
+    ],
+    "price": "£5-£20 sliding scale",
+    "description": "September edition of the Psychedelic Society's speed-friending and storytelling night on your doorstep.",
+    "neighbourhood": "Bethnal Green",
+    "cycle_minutes": 3,
+    "added": "2026-08-31"
+  },
+  {
     "id": "london-vocal-improv-cabaret-autumn-edition-d3182fbf",
     "title": "London Vocal Improv Cabaret (autumn edition)",
     "start": "2026-09-30T19:00:00+01:00",
@@ -5286,6 +5455,25 @@
     "neighbourhood": "Holborn",
     "cycle_minutes": 18,
     "added": "2026-08-26"
+  },
+  {
+    "id": "nigerian-cookery-class-with-bolu-migrateful-pop-up-5415538b",
+    "title": "Nigerian Cookery Class with Bolu (Migrateful pop-up)",
+    "start": "2026-10-01T18:15:00+01:00",
+    "end": null,
+    "venue": "Holdspace",
+    "address": "Risinghill Street, N1 (Angel)",
+    "url": "https://www.migrateful.org/event/nigerian-cookery-class-with-bolu-veg-friendly-london-pop-up/",
+    "source": "venue:migrateful",
+    "tags": [
+      "food",
+      "class"
+    ],
+    "price": "£59",
+    "description": "Veg-friendly Nigerian cookery class with chef Bolu at the Angel pop-up kitchen.",
+    "neighbourhood": "Angel",
+    "cycle_minutes": 18,
+    "added": "2026-08-31"
   },
   {
     "id": "john-myrtle-at-servant-jazz-quarters-13e52a7b",
@@ -5398,6 +5586,24 @@
     "added": "2026-08-15"
   },
   {
+    "id": "cacao-dance-tribe-friday-ecstatic-dance-cacao-october-opener-313d404c",
+    "title": "Cacao Dance Tribe: Friday Ecstatic Dance & Cacao (October opener)",
+    "start": "2026-10-02T19:45:00+01:00",
+    "end": null,
+    "venue": "Ecstatic Dance London venue, Tufnell Park",
+    "address": "Burghley Road, NW5 (address on booking)",
+    "url": "https://ecstaticdancelondon.com/event/ecstatic-dance-london-cacao-dance-tribe-friday-night-dance-cacao-2026-03-06-2026-03-20-2026-09-25/2026-10-02/",
+    "source": "venue:ecstatic-dance-london",
+    "tags": [
+      "dance"
+    ],
+    "price": "Ticketed via Eventbrite",
+    "description": "First October edition of EDL's Friday-night ecstatic dance with cacao ceremony.",
+    "neighbourhood": "Tufnell Park",
+    "cycle_minutes": 30,
+    "added": "2026-08-31"
+  },
+  {
     "id": "diy-alive-festival-2026-sports-team-nell-mescal-feet-walt-di-a132649a",
     "title": "DIY Alive Festival 2026 — Sports Team, Nell Mescal, FEET, Walt Disco",
     "start": "2026-10-03T13:00:00+01:00",
@@ -5452,6 +5658,24 @@
     "neighbourhood": "Mayfair",
     "cycle_minutes": 35,
     "added": "2026-08-11"
+  },
+  {
+    "id": "ecstatic-saturdays-sober-rave-ecstatic-dance-cacao-3-oct-48550b57",
+    "title": "Ecstatic Saturdays: Sober Rave — Ecstatic Dance & Cacao (3 Oct)",
+    "start": "2026-10-03T19:00:00+01:00",
+    "end": null,
+    "venue": "Ecstatic Dance London venue, Tufnell Park",
+    "address": "Burghley Road, NW5 (address on booking)",
+    "url": "https://ecstaticdancelondon.com/event/ecstatic-saturdays-ecstatic-dance-cacao-ceremony-in-north-london-2-2023-12-16-2025-09-06-2026-01-03-2026-09-26/2026-10-03/",
+    "source": "venue:ecstatic-dance-london",
+    "tags": [
+      "dance"
+    ],
+    "price": "Ticketed via Eventbrite",
+    "description": "First October Saturday sober rave with cacao ceremony (further dates 10 + 17 Oct).",
+    "neighbourhood": "Tufnell Park",
+    "cycle_minutes": 30,
+    "added": "2026-08-31"
   },
   {
     "id": "the-spook-school-happy-accidents-at-the-old-blue-last-08541dba",
@@ -5862,6 +6086,25 @@
     "added": "2026-08-10"
   },
   {
+    "id": "relating-room-london-connection-beyond-conversation-33785e2d",
+    "title": "Relating Room London — connection beyond conversation",
+    "start": "2026-10-10T11:00:00+01:00",
+    "end": "2026-10-10T12:30:00+01:00",
+    "venue": "Bonnington Cafe and Community Centre",
+    "address": "Vauxhall Grove, SW8",
+    "url": "https://dandelion.events/e/q0x8e",
+    "source": "aggregator:dandelion",
+    "tags": [
+      "workshop",
+      "community"
+    ],
+    "price": "~£15",
+    "description": "Saturday-morning relational practice session in authentic-relating style at the Vauxhall community centre. Victoria line beats the ~40 min ride.",
+    "neighbourhood": "Vauxhall",
+    "cycle_minutes": 40,
+    "added": "2026-08-31"
+  },
+  {
     "id": "root-rise-master-plant-breathwork-live-soundscape-ecstatic-d-b4e169a4",
     "title": "Root & Rise: Master Plant Breathwork, Live Soundscape & Ecstatic Dance",
     "start": "2026-10-10T11:45:00+01:00",
@@ -6193,6 +6436,25 @@
     "added": "2026-08-26"
   },
   {
+    "id": "tajik-cookery-class-with-akbar-migrateful-october-1ec5f8e5",
+    "title": "Tajik Cookery Class with Akbar (Migrateful, October)",
+    "start": "2026-10-14T18:15:00+01:00",
+    "end": null,
+    "venue": "Holdspace",
+    "address": "Risinghill Street, N1 (Angel)",
+    "url": "https://www.migrateful.org/event/tajik-cookery-class-with-akbar-london-pop-up-27/",
+    "source": "venue:migrateful",
+    "tags": [
+      "food",
+      "class"
+    ],
+    "price": "£59",
+    "description": "October date for the hands-on Tajik cookery class — genuinely rare cuisine, weekday evening.",
+    "neighbourhood": "Angel",
+    "cycle_minutes": 18,
+    "added": "2026-08-31"
+  },
+  {
     "id": "contact-improv-wednesday-open-class-jam-with-rick-nodine-14--92dc9dd5",
     "title": "Contact Improv: Wednesday Open Class & Jam with Rick Nodine (14 Oct)",
     "start": "2026-10-14T18:30:00+01:00",
@@ -6247,6 +6509,25 @@
     "neighbourhood": "Holborn",
     "cycle_minutes": 22,
     "added": "2026-08-15"
+  },
+  {
+    "id": "life-drawing-in-borough-at-the-roebuck-first-october-date-45c757b9",
+    "title": "Life Drawing in Borough at The Roebuck (first October date)",
+    "start": "2026-10-14T19:00:00+01:00",
+    "end": "2026-10-14T21:00:00+01:00",
+    "venue": "The Roebuck",
+    "address": "50 Great Dover Street, SE1 4YG",
+    "url": "https://www.eventbrite.co.uk/e/life-drawing-in-borough-at-the-roebuck-tickets-1998897079975",
+    "source": "aggregator:eventbrite",
+    "tags": [
+      "art",
+      "class"
+    ],
+    "price": "~£16 (see Eventbrite)",
+    "description": "Relaxed pub life-drawing session — first published October date of the monthly series.",
+    "neighbourhood": "Borough",
+    "cycle_minutes": 25,
+    "added": "2026-08-31"
   },
   {
     "id": "vision-fortune-abigail-snail-free-show-at-shacklewell-arms-00bb3668",
@@ -6725,6 +7006,25 @@
     "neighbourhood": "Dalston",
     "cycle_minutes": 14,
     "added": "2026-08-28"
+  },
+  {
+    "id": "gambian-cookery-class-with-lamin-migrateful-pop-up-be0dd10a",
+    "title": "Gambian Cookery Class with Lamin (Migrateful pop-up)",
+    "start": "2026-10-23T18:30:00+01:00",
+    "end": null,
+    "venue": "All Saints Church",
+    "address": "7 Blenheim Grove, Peckham, SE15",
+    "url": "https://www.migrateful.org/event/gambian-cookery-class-with-lamin-veg-friendly-london-pop-up/",
+    "source": "venue:migrateful",
+    "tags": [
+      "food",
+      "class"
+    ],
+    "price": "£59",
+    "description": "Veg-friendly Gambian class with chef Lamin — rare West African cuisine; Peckham is the trek (train to Peckham Rye easier).",
+    "neighbourhood": "Peckham",
+    "cycle_minutes": 40,
+    "added": "2026-08-31"
   },
   {
     "id": "hackney-comedy-experience-with-jen-brister-at-earth-65e1c479",
