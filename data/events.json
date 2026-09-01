@@ -540,6 +540,24 @@
     "added": "2026-08-27"
   },
   {
+    "id": "camille-blackman-free-at-paper-dress-vintage-81331b01",
+    "title": "camille blackman (free) at Paper Dress Vintage",
+    "start": "2026-09-02T19:30:00+01:00",
+    "end": "2026-09-02T23:00:00+01:00",
+    "venue": "Paper Dress Vintage",
+    "address": "352a Mare St, E8 1HR",
+    "url": "https://dice.fm/event/6a85d9f6c0e756000125608e",
+    "source": "venue:dice-paper-dress-vintage",
+    "tags": [
+      "music"
+    ],
+    "price": "Free",
+    "description": "Newly announced free show from singer-songwriter camille blackman upstairs at Paper Dress — tomorrow night.",
+    "neighbourhood": "Hackney Central",
+    "cycle_minutes": 12,
+    "added": "2026-09-01"
+  },
+  {
     "id": "the-comedy-hump-free-night-at-backyard-comedy-club-3406e540",
     "title": "The Comedy Hump — free night at Backyard Comedy Club",
     "start": "2026-09-02T20:00:00+01:00",
@@ -2487,6 +2505,25 @@
     "added": "2026-07-30"
   },
   {
+    "id": "the-art-of-sound-max-cooper-chris-watson-spatial-audio-insta-bf44ed0e",
+    "title": "The Art of Sound: Max Cooper & Chris Watson spatial audio installations",
+    "start": "2026-09-12T10:15:00+01:00",
+    "end": "2026-09-12T17:30:00+01:00",
+    "venue": "Wapping Hydraulic Power Station",
+    "address": "Wapping Wall, E1W 3SF",
+    "url": "https://londondesignfestival.com/activities/the-art-of-sound-featuring-max-cooper-chris-watson",
+    "source": "festival:london-design-festival",
+    "tags": [
+      "art",
+      "music"
+    ],
+    "price": "Free (ticket required)",
+    "description": "Two immersive spatial-sound installations: Max Cooper's 'Feeling Is Structure' and field-recordist Chris Watson's 'Trent Falls' in the atmospheric former power station. Runs 12-15 Sep.",
+    "neighbourhood": "Wapping",
+    "cycle_minutes": 15,
+    "added": "2026-09-01"
+  },
+  {
     "title": "NVC & Understanding Power — day workshop",
     "start": "2026-09-12T10:30:00+01:00",
     "end": "2026-09-12T17:00:00+01:00",
@@ -2617,6 +2654,26 @@
     "neighbourhood": "Dalston",
     "cycle_minutes": 15,
     "added": "2026-08-18"
+  },
+  {
+    "id": "embodied-emotion-gadi-sassoon-live-performance-ldf-opening-733d85fd",
+    "title": "Embodied Emotion — Gadi Sassoon live performance (LDF opening)",
+    "start": "2026-09-12T18:00:00+01:00",
+    "end": "2026-09-12T22:00:00+01:00",
+    "venue": "art'otel London Hoxton (24th floor)",
+    "address": "1-3 Rivington Street, EC2A 3DT",
+    "url": "https://londondesignfestival.com/activities/embodied-emotion-live-performance-by-gadi-sassoon-c5b05073-b43b-405a-aa08-28c918a59ba0",
+    "source": "festival:london-design-festival",
+    "tags": [
+      "music",
+      "art",
+      "tech"
+    ],
+    "price": "Paid (price on ticket link)",
+    "description": "Composer Gadi Sassoon opens his exhibition with a 24th-floor live set — piano, violin and Buchla synth amplified by his machine-intelligence system, plus an artist-led tour.",
+    "neighbourhood": "Shoreditch",
+    "cycle_minutes": 7,
+    "added": "2026-09-01"
   },
   {
     "title": "Heart Circle — September edition",
@@ -3098,6 +3155,43 @@
     "added": "2026-08-08"
   },
   {
+    "id": "design-burger-launch-party-the-product-design-100-shoreditch-1505af29",
+    "title": "Design Burger Launch Party — The Product Design 100 (Shoreditch Late)",
+    "start": "2026-09-15T18:00:00+01:00",
+    "end": "2026-09-15T21:00:00+01:00",
+    "venue": "Kachette Annex",
+    "address": "1 Kingsland Rd, E2 8AA",
+    "url": "https://shoreditchdesignweek.com/showroom/design-burger-launch-party",
+    "source": "festival:shoreditch-design-week",
+    "tags": [
+      "art",
+      "community"
+    ],
+    "price": "Free (register as SDW visitor)",
+    "description": "Launch night for The Product Design 100 with drinks and music, part of the district-wide Shoreditch Late evening — five minutes from home.",
+    "neighbourhood": "Shoreditch",
+    "cycle_minutes": 5,
+    "added": "2026-09-01"
+  },
+  {
+    "id": "unveiled-archaeology-of-a-wall-evening-opening-9efab32b",
+    "title": "Unveiled: Archaeology of a Wall — evening opening",
+    "start": "2026-09-15T18:00:00+01:00",
+    "end": "2026-09-15T21:00:00+01:00",
+    "venue": "JOY! Factory",
+    "address": "Arch 368 Geffrye Street, E2 8HZ",
+    "url": "https://londondesignfestival.com/activities/unveiled-archaeology-of-a-wall",
+    "source": "festival:london-design-festival",
+    "tags": [
+      "art"
+    ],
+    "price": "Free, no ticket",
+    "description": "Light-shifting immersive installation imagining the buried layers of Shoreditch street art — suspended paintings emerge as the light changes. Special Shoreditch Late opening; otherwise daily 12-5pm to 20 Sep.",
+    "neighbourhood": "Haggerston",
+    "cycle_minutes": 5,
+    "added": "2026-09-01"
+  },
+  {
     "title": "Roxanne de Bastion at Sebright Arms",
     "start": "2026-09-15T19:30:00+01:00",
     "end": null,
@@ -3187,6 +3281,26 @@
     "neighbourhood": "Queen's Park",
     "cycle_minutes": 50,
     "added": "2026-08-17"
+  },
+  {
+    "id": "party-wood-for-the-trees-live-music-from-forester-folk-music-bfed0776",
+    "title": "Party: Wood for the Trees — live music from forester-folk musician Van Wagner",
+    "start": "2026-09-16T18:30:00+01:00",
+    "end": "2026-09-16T20:00:00+01:00",
+    "venue": "Tab Centre",
+    "address": "3 Godfrey Place, E2 7NT",
+    "url": "https://shoreditchdesignweek.com/showroom/party-wood-for-the-trees",
+    "source": "festival:shoreditch-design-week",
+    "tags": [
+      "art",
+      "music",
+      "community"
+    ],
+    "price": "Free (register as SDW visitor)",
+    "description": "AHEC and Benchmark celebrate the Wood for the Trees exhibition with live music from Pennsylvanian forester-folk musician Van Wagner and a sphere-oiling workshop.",
+    "neighbourhood": "Shoreditch",
+    "cycle_minutes": 4,
+    "added": "2026-09-01"
   },
   {
     "title": "Psychedelics, Entities and Consciousness — Dr. Chris Timmermann",
@@ -3295,6 +3409,24 @@
     "neighbourhood": "Primrose Hill",
     "cycle_minutes": 32,
     "added": "2026-08-14"
+  },
+  {
+    "id": "mikoudi-single-launch-party-the-mercury-fix-at-the-victoria-c02ef900",
+    "title": "Mikoudi single launch party + The Mercury Fix at The Victoria",
+    "start": "2026-09-16T19:30:00+01:00",
+    "end": "2026-09-16T23:00:00+01:00",
+    "venue": "The Victoria",
+    "address": "451 Queensbridge Rd, E8 3AS",
+    "url": "https://dice.fm/event/6a8eb223cb8b3b0001918465",
+    "source": "venue:dice-the-victoria",
+    "tags": [
+      "music"
+    ],
+    "price": "£11.85",
+    "description": "Single-launch night at the Victoria's back room with support from The Mercury Fix.",
+    "neighbourhood": "Dalston",
+    "cycle_minutes": 12,
+    "added": "2026-09-01"
   },
   {
     "id": "kino-bloc-becoming-screentalk-with-director-zhannat-alshanov-e1895c7c",
@@ -3446,6 +3578,43 @@
     "added": "2026-08-28"
   },
   {
+    "id": "material-narratives-sculpting-wearable-forms-hands-on-worksh-86c78ef4",
+    "title": "Material Narratives: Sculpting Wearable Forms — hands-on workshop",
+    "start": "2026-09-17T19:00:00+01:00",
+    "end": "2026-09-17T21:00:00+01:00",
+    "venue": "Hart Shoreditch Hotel",
+    "address": "Great Eastern St, EC2A 3HU",
+    "url": "https://shoreditchdesignweek.com/showroom/material-narratives-sculpting-wearable-forms",
+    "source": "festival:shoreditch-design-week",
+    "tags": [
+      "workshop",
+      "art"
+    ],
+    "price": "Free (register; confirm on RSVP)",
+    "description": "Evening hands-on workshop making sculptural wearable artwork from natural fibres, textiles and found materials.",
+    "neighbourhood": "Shoreditch",
+    "cycle_minutes": 7,
+    "added": "2026-09-01"
+  },
+  {
+    "id": "terrible-night-coupdekat-lover1k-blondeting-free-32024b72",
+    "title": "terrible* night: Coupdekat + Lover1k + Blondeting (free)",
+    "start": "2026-09-17T19:30:00+01:00",
+    "end": "2026-09-17T23:00:00+01:00",
+    "venue": "The Old Blue Last",
+    "address": "38 Great Eastern St, EC2A 3ES",
+    "url": "https://dice.fm/event/6a915b4ae1370500014232fc",
+    "source": "venue:dice-the-old-blue-last",
+    "tags": [
+      "music"
+    ],
+    "price": "Free",
+    "description": "Free newly announced new-music showcase upstairs at the OBL.",
+    "neighbourhood": "Shoreditch",
+    "cycle_minutes": 7,
+    "added": "2026-09-01"
+  },
+  {
     "id": "open-house-bishopsgate-goodsyard-behind-the-hoarding-at-the--2f7700ca",
     "title": "Open House: Bishopsgate Goodsyard — behind the hoarding at the Braithwaite Arches",
     "start": "2026-09-18T11:00:00+01:00",
@@ -3500,6 +3669,25 @@
     "neighbourhood": "Covent Garden",
     "cycle_minutes": 25,
     "added": "2026-08-24"
+  },
+  {
+    "id": "sustainability-in-ceramics-talk-q-a-with-ana-bridgewater-094c2687",
+    "title": "Sustainability in Ceramics — talk & Q&A with Ana Bridgewater",
+    "start": "2026-09-18T18:00:00+01:00",
+    "end": "2026-09-18T19:00:00+01:00",
+    "venue": "Indra Gallery",
+    "address": "20 East Rd, N1 6AT",
+    "url": "https://shoreditchdesignweek.com/showroom/sustainability-in-ceramics-talk-with-ana-bridgewater",
+    "source": "festival:shoreditch-design-week",
+    "tags": [
+      "talk",
+      "art"
+    ],
+    "price": "Free (register as SDW visitor)",
+    "description": "Designer-sculptor Ana Bridgewater on sustainability in ceramics — pairs with the pottery-class interest; a graduate talk follows at 7pm.",
+    "neighbourhood": "Hoxton",
+    "cycle_minutes": 8,
+    "added": "2026-09-01"
   },
   {
     "id": "mug-handbuilding-taster-at-crown-works-pottery-september-a7bf8ab3",
@@ -4858,6 +5046,25 @@
     "added": "2026-08-28"
   },
   {
+    "id": "anarchist-book-fair-afterparty-at-rich-mix-e21b44aa",
+    "title": "Anarchist Book Fair: Afterparty at Rich Mix",
+    "start": "2026-09-26T19:30:00+01:00",
+    "end": null,
+    "venue": "Rich Mix",
+    "address": "35-47 Bethnal Green Rd, E1 6LA",
+    "url": "https://richmix.org.uk/whats-on/",
+    "source": "venue:rich-mix",
+    "tags": [
+      "music",
+      "community"
+    ],
+    "price": "See Rich Mix listing",
+    "description": "Afterparty for the London Anarchist Book Fair — the evening after the warm-up gig already listed; the book fair itself runs that day.",
+    "neighbourhood": "Shoreditch",
+    "cycle_minutes": 3,
+    "added": "2026-09-01"
+  },
+  {
     "id": "vocal-playground-collaborative-vocal-improv-day-cd91b53f",
     "title": "Vocal Playground — collaborative vocal improv day",
     "start": "2026-09-27T13:00:00+01:00",
@@ -5411,6 +5618,24 @@
     "neighbourhood": "Hackney Central",
     "cycle_minutes": 12,
     "added": "2026-08-15"
+  },
+  {
+    "id": "lou-margaux-hum-drum-immer-djs-at-sebright-arms-a27938b0",
+    "title": "LOU MARGAUX + HUM DRUM + IMMER + DJs at Sebright Arms",
+    "start": "2026-10-02T19:30:00+01:00",
+    "end": "2026-10-03T02:00:00+01:00",
+    "venue": "Sebright Arms",
+    "address": "31-35 Coate St, E2 9AG",
+    "url": "https://dice.fm/event/6a8ec184d20d390001c82df5",
+    "source": "venue:dice-sebright-arms",
+    "tags": [
+      "music"
+    ],
+    "price": "£12",
+    "description": "Three-band Friday bill in the Sebright basement with DJs keeping it going late.",
+    "neighbourhood": "Bethnal Green",
+    "cycle_minutes": 4,
+    "added": "2026-09-01"
   },
   {
     "id": "cacao-dance-tribe-friday-ecstatic-dance-cacao-october-opener-313d404c",
@@ -6835,6 +7060,24 @@
     "added": "2026-08-28"
   },
   {
+    "id": "radiator-luke-jones-electric-cherry-blossom-at-the-old-blue--1dc9cacd",
+    "title": "Radiator + Luke Jones + Electric Cherry Blossom at The Old Blue Last",
+    "start": "2026-10-22T19:30:00+01:00",
+    "end": "2026-10-22T23:30:00+01:00",
+    "venue": "The Old Blue Last",
+    "address": "38 Great Eastern St, EC2A 3ES",
+    "url": "https://dice.fm/event/6a919208a0dc520001d2e8d3",
+    "source": "venue:dice-the-old-blue-last",
+    "tags": [
+      "music"
+    ],
+    "price": "£7",
+    "description": "Cheap newly announced three-act bill at the Old Blue Last.",
+    "neighbourhood": "Shoreditch",
+    "cycle_minutes": 7,
+    "added": "2026-09-01"
+  },
+  {
     "id": "gambian-cookery-class-with-lamin-migrateful-pop-up-be0dd10a",
     "title": "Gambian Cookery Class with Lamin (Migrateful pop-up)",
     "start": "2026-10-23T18:30:00+01:00",
@@ -6943,6 +7186,25 @@
     "neighbourhood": "Shoreditch",
     "cycle_minutes": 8,
     "added": "2026-08-25"
+  },
+  {
+    "id": "dance-umbrella-touch-the-floor-movement-workshop-at-rich-mix-11bb05d2",
+    "title": "Dance Umbrella: Touch the Floor — movement workshop at Rich Mix",
+    "start": "2026-10-24T13:00:00+01:00",
+    "end": null,
+    "venue": "Rich Mix",
+    "address": "35-47 Bethnal Green Rd, E1 6LA",
+    "url": "https://richmix.org.uk/whats-on/",
+    "source": "venue:rich-mix",
+    "tags": [
+      "dance",
+      "workshop"
+    ],
+    "price": "See Rich Mix listing",
+    "description": "Participatory movement workshop in the Dance Umbrella day at Rich Mix — daytime, so no clash with the evening performance already listed.",
+    "neighbourhood": "Shoreditch",
+    "cycle_minutes": 3,
+    "added": "2026-09-01"
   },
   {
     "id": "sex-psychedelics-talks-performance-social-d38a3371",
@@ -7255,6 +7517,24 @@
     "neighbourhood": "Dalston",
     "cycle_minutes": 13,
     "added": "2026-08-15"
+  },
+  {
+    "id": "bone-folder-x-matthew-bourne-at-servant-jazz-quarters-1c2ecdd8",
+    "title": "Bone Folder x Matthew Bourne at Servant Jazz Quarters",
+    "start": "2026-10-29T19:30:00+00:00",
+    "end": "2026-10-29T23:30:00+00:00",
+    "venue": "Servant Jazz Quarters",
+    "address": "10a Bradbury St, N16 8JN",
+    "url": "https://dice.fm/event/6a8439961bd17c0001cea5db",
+    "source": "venue:dice-sjq",
+    "tags": [
+      "music"
+    ],
+    "price": "£13.26",
+    "description": "Collaboration night pairing Bone Folder with pianist Matthew Bourne in the tiny basement — the experimental/intimate sweet spot.",
+    "neighbourhood": "Dalston",
+    "cycle_minutes": 15,
+    "added": "2026-09-01"
   },
   {
     "id": "dan-jones-castles-a-fortified-history-of-the-world-7fa98c56",

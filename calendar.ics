@@ -416,6 +416,18 @@ URL:https://dice.fm/event/2wawv7-2-weds-alex-leave-winnipeg-mn-jack-lawthe
 LOCATION:The Victoria\, 451 Queensbridge Road\, E8 3AS
 END:VEVENT
 BEGIN:VEVENT
+UID:camille-blackman-free-at-paper-dress-vintage-81331b01@london-events
+DTSTAMP:20260902T183000Z
+DTSTART:20260902T183000Z
+DTEND:20260902T220000Z
+SUMMARY:camille blackman (free) at Paper Dress Vintage
+DESCRIPTION:Newly announced free show from singer-songwriter camille black
+ man upstairs at Paper Dress — tomorrow night.\nPrice: Free\nhttps://dic
+ e.fm/event/6a85d9f6c0e756000125608e
+URL:https://dice.fm/event/6a85d9f6c0e756000125608e
+LOCATION:Paper Dress Vintage\, 352a Mare St\, E8 1HR
+END:VEVENT
+BEGIN:VEVENT
 UID:the-comedy-hump-free-night-at-backyard-comedy-club-3406e540@london-eve
  nts
 DTSTAMP:20260902T190000Z
@@ -1884,6 +1896,23 @@ URL:https://iskcon.london/iskcon-posts/london-mellows-2026/
 LOCATION:ISKCON London (venue TBC)\, 10 Soho Street\, W1D 3DL
 END:VEVENT
 BEGIN:VEVENT
+UID:the-art-of-sound-max-cooper-chris-watson-spatial-audio-insta-bf44ed0e@
+ london-events
+DTSTAMP:20260912T091500Z
+DTSTART:20260912T091500Z
+DTEND:20260912T163000Z
+SUMMARY:The Art of Sound: Max Cooper & Chris Watson spatial audio installa
+ tions
+DESCRIPTION:Two immersive spatial-sound installations: Max Cooper's 'Feeli
+ ng Is Structure' and field-recordist Chris Watson's 'Trent Falls' in the 
+ atmospheric former power station. Runs 12-15 Sep.\nPrice: Free (ticket re
+ quired)\nhttps://londondesignfestival.com/activities/the-art-of-sound-fea
+ turing-max-cooper-chris-watson
+URL:https://londondesignfestival.com/activities/the-art-of-sound-featuring
+ -max-cooper-chris-watson
+LOCATION:Wapping Hydraulic Power Station\, Wapping Wall\, E1W 3SF
+END:VEVENT
+BEGIN:VEVENT
 UID:nvc-understanding-power-day-workshop-54f81ac3@london-events
 DTSTAMP:20260912T093000Z
 DTSTART:20260912T093000Z
@@ -1977,6 +2006,23 @@ DESCRIPTION:Double bill of music/justice docs — Aki Nawaz's Pakistani pu
  sOn?f=2699704
 URL:https://riocinema.org.uk/Rio.dll/WhatsOn?f=2699704
 LOCATION:Rio Cinema\, 107 Kingsland High Street\, Dalston\, E8 2PB
+END:VEVENT
+BEGIN:VEVENT
+UID:embodied-emotion-gadi-sassoon-live-performance-ldf-opening-733d85fd@lo
+ ndon-events
+DTSTAMP:20260912T170000Z
+DTSTART:20260912T170000Z
+DTEND:20260912T210000Z
+SUMMARY:Embodied Emotion — Gadi Sassoon live performance (LDF opening)
+DESCRIPTION:Composer Gadi Sassoon opens his exhibition with a 24th-floor l
+ ive set — piano\, violin and Buchla synth amplified by his machine-inte
+ lligence system\, plus an artist-led tour.\nPrice: Paid (price on ticket 
+ link)\nhttps://londondesignfestival.com/activities/embodied-emotion-live-
+ performance-by-gadi-sassoon-c5b05073-b43b-405a-aa08-28c918a59ba0
+URL:https://londondesignfestival.com/activities/embodied-emotion-live-perf
+ ormance-by-gadi-sassoon-c5b05073-b43b-405a-aa08-28c918a59ba0
+LOCATION:art'otel London Hoxton (24th floor)\, 1-3 Rivington Street\, EC2A
+  3DT
 END:VEVENT
 BEGIN:VEVENT
 UID:heart-circle-september-edition-6fb7d192@london-events
@@ -2346,6 +2392,36 @@ URL:https://www.gresham.ac.uk/whats-on/cracking-whip
 LOCATION:Barnard's Inn Hall\, Holborn\, EC1N 2HH
 END:VEVENT
 BEGIN:VEVENT
+UID:design-burger-launch-party-the-product-design-100-shoreditch-1505af29@
+ london-events
+DTSTAMP:20260915T170000Z
+DTSTART:20260915T170000Z
+DTEND:20260915T200000Z
+SUMMARY:Design Burger Launch Party — The Product Design 100 (Shoreditch 
+ Late)
+DESCRIPTION:Launch night for The Product Design 100 with drinks and music\
+ , part of the district-wide Shoreditch Late evening — five minutes from
+  home.\nPrice: Free (register as SDW visitor)\nhttps://shoreditchdesignwe
+ ek.com/showroom/design-burger-launch-party
+URL:https://shoreditchdesignweek.com/showroom/design-burger-launch-party
+LOCATION:Kachette Annex\, 1 Kingsland Rd\, E2 8AA
+END:VEVENT
+BEGIN:VEVENT
+UID:unveiled-archaeology-of-a-wall-evening-opening-9efab32b@london-events
+DTSTAMP:20260915T170000Z
+DTSTART:20260915T170000Z
+DTEND:20260915T200000Z
+SUMMARY:Unveiled: Archaeology of a Wall — evening opening
+DESCRIPTION:Light-shifting immersive installation imagining the buried lay
+ ers of Shoreditch street art — suspended paintings emerge as the light 
+ changes. Special Shoreditch Late opening\; otherwise daily 12-5pm to 20 S
+ ep.\nPrice: Free\, no ticket\nhttps://londondesignfestival.com/activities
+ /unveiled-archaeology-of-a-wall
+URL:https://londondesignfestival.com/activities/unveiled-archaeology-of-a-
+ wall
+LOCATION:JOY! Factory\, Arch 368 Geffrye Street\, E2 8HZ
+END:VEVENT
+BEGIN:VEVENT
 UID:roxanne-de-bastion-at-sebright-arms-9d6aea5b@london-events
 DTSTAMP:20260915T183000Z
 DTSTART:20260915T183000Z
@@ -2416,6 +2492,21 @@ DESCRIPTION:Evening workshop on the five core authentic relating principle
 URL:https://www.eventbrite.co.uk/e/authentic-relating-5-principles-for-hea
  lthy-relating-tickets-1994646897565
 LOCATION:The Hearth\, 16 Lonsdale Road\, Queen's Park\, NW6 6RD
+END:VEVENT
+BEGIN:VEVENT
+UID:party-wood-for-the-trees-live-music-from-forester-folk-music-bfed0776@
+ london-events
+DTSTAMP:20260916T173000Z
+DTSTART:20260916T173000Z
+DTEND:20260916T190000Z
+SUMMARY:Party: Wood for the Trees — live music from forester-folk musici
+ an Van Wagner
+DESCRIPTION:AHEC and Benchmark celebrate the Wood for the Trees exhibition
+  with live music from Pennsylvanian forester-folk musician Van Wagner and
+  a sphere-oiling workshop.\nPrice: Free (register as SDW visitor)\nhttps:
+ //shoreditchdesignweek.com/showroom/party-wood-for-the-trees
+URL:https://shoreditchdesignweek.com/showroom/party-wood-for-the-trees
+LOCATION:Tab Centre\, 3 Godfrey Place\, E2 7NT
 END:VEVENT
 BEGIN:VEVENT
 UID:psychedelics-entities-and-consciousness-dr-chris-timmermann-07a053b0@l
@@ -2495,6 +2586,19 @@ DESCRIPTION:BBC Folk Award winner Sam Carter performs the music of Nic Jon
  h folk.\nhttps://www.efdss.org/whats-on
 URL:https://www.efdss.org/whats-on
 LOCATION:Cecil Sharp House\, 2 Regent's Park Road\, NW1 7AY
+END:VEVENT
+BEGIN:VEVENT
+UID:mikoudi-single-launch-party-the-mercury-fix-at-the-victoria-c02ef900@l
+ ondon-events
+DTSTAMP:20260916T183000Z
+DTSTART:20260916T183000Z
+DTEND:20260916T220000Z
+SUMMARY:Mikoudi single launch party + The Mercury Fix at The Victoria
+DESCRIPTION:Single-launch night at the Victoria's back room with support f
+ rom The Mercury Fix.\nPrice: £11.85\nhttps://dice.fm/event/6a8eb223cb8b3
+ b0001918465
+URL:https://dice.fm/event/6a8eb223cb8b3b0001918465
+LOCATION:The Victoria\, 451 Queensbridge Rd\, E8 3AS
 END:VEVENT
 BEGIN:VEVENT
 UID:kino-bloc-becoming-screentalk-with-director-zhannat-alshanov-e1895c7c@
@@ -2606,6 +2710,34 @@ URL:https://richmix.org.uk/whats-on/
 LOCATION:Rich Mix\, 35-47 Bethnal Green Road\, E1 6LA
 END:VEVENT
 BEGIN:VEVENT
+UID:material-narratives-sculpting-wearable-forms-hands-on-worksh-86c78ef4@
+ london-events
+DTSTAMP:20260917T180000Z
+DTSTART:20260917T180000Z
+DTEND:20260917T200000Z
+SUMMARY:Material Narratives: Sculpting Wearable Forms — hands-on worksho
+ p
+DESCRIPTION:Evening hands-on workshop making sculptural wearable artwork f
+ rom natural fibres\, textiles and found materials.\nPrice: Free (register
+ \; confirm on RSVP)\nhttps://shoreditchdesignweek.com/showroom/material-n
+ arratives-sculpting-wearable-forms
+URL:https://shoreditchdesignweek.com/showroom/material-narratives-sculptin
+ g-wearable-forms
+LOCATION:Hart Shoreditch Hotel\, Great Eastern St\, EC2A 3HU
+END:VEVENT
+BEGIN:VEVENT
+UID:terrible-night-coupdekat-lover1k-blondeting-free-32024b72@london-event
+ s
+DTSTAMP:20260917T183000Z
+DTSTART:20260917T183000Z
+DTEND:20260917T220000Z
+SUMMARY:terrible* night: Coupdekat + Lover1k + Blondeting (free)
+DESCRIPTION:Free newly announced new-music showcase upstairs at the OBL.\n
+ Price: Free\nhttps://dice.fm/event/6a915b4ae1370500014232fc
+URL:https://dice.fm/event/6a915b4ae1370500014232fc
+LOCATION:The Old Blue Last\, 38 Great Eastern St\, EC2A 3ES
+END:VEVENT
+BEGIN:VEVENT
 UID:open-house-bishopsgate-goodsyard-behind-the-hoarding-at-the--2f7700ca@
  london-events
 DTSTAMP:20260918T100000Z
@@ -2649,6 +2781,21 @@ DESCRIPTION:Mixed teams of singles race around central London pubs hunting
 URL:https://www.thursday.com/events/london/friday-singles-chicken-rush-lon
  don-copy
 LOCATION:Bat & Ball Covent Garden (start point)\, 50 Earlham St\, WC2H 9LJ
+END:VEVENT
+BEGIN:VEVENT
+UID:sustainability-in-ceramics-talk-q-a-with-ana-bridgewater-094c2687@lond
+ on-events
+DTSTAMP:20260918T170000Z
+DTSTART:20260918T170000Z
+DTEND:20260918T180000Z
+SUMMARY:Sustainability in Ceramics — talk & Q&A with Ana Bridgewater
+DESCRIPTION:Designer-sculptor Ana Bridgewater on sustainability in ceramic
+ s — pairs with the pottery-class interest\; a graduate talk follows at 
+ 7pm.\nPrice: Free (register as SDW visitor)\nhttps://shoreditchdesignweek
+ .com/showroom/sustainability-in-ceramics-talk-with-ana-bridgewater
+URL:https://shoreditchdesignweek.com/showroom/sustainability-in-ceramics-t
+ alk-with-ana-bridgewater
+LOCATION:Indra Gallery\, 20 East Rd\, N1 6AT
 END:VEVENT
 BEGIN:VEVENT
 UID:mug-handbuilding-taster-at-crown-works-pottery-september-a7bf8ab3@lond
@@ -3671,6 +3818,18 @@ URL:https://www.cafeoto.co.uk/events/byh-la-tene-sourdure/
 LOCATION:Cafe OTO\, 18-22 Ashwin Street\, Dalston\, E8 3DL
 END:VEVENT
 BEGIN:VEVENT
+UID:anarchist-book-fair-afterparty-at-rich-mix-e21b44aa@london-events
+DTSTAMP:20260926T183000Z
+DTSTART:20260926T183000Z
+DTEND:20260926T203000Z
+SUMMARY:Anarchist Book Fair: Afterparty at Rich Mix
+DESCRIPTION:Afterparty for the London Anarchist Book Fair — the evening 
+ after the warm-up gig already listed\; the book fair itself runs that day
+ .\nPrice: See Rich Mix listing\nhttps://richmix.org.uk/whats-on/
+URL:https://richmix.org.uk/whats-on/
+LOCATION:Rich Mix\, 35-47 Bethnal Green Rd\, E1 6LA
+END:VEVENT
+BEGIN:VEVENT
 UID:vocal-playground-collaborative-vocal-improv-day-cd91b53f@london-events
 DTSTAMP:20260927T120000Z
 DTSTART:20260927T120000Z
@@ -4073,6 +4232,18 @@ DESCRIPTION:B-Town indie-pop veterans play the first of two intimate MOTH
 URL:https://dice.fm/event/avpbe2-swim-deep-2nd-oct-moth-club-london-ticket
  s
 LOCATION:MOTH Club\, Old Trades Hall\, Valette Street\, E9 6NU
+END:VEVENT
+BEGIN:VEVENT
+UID:lou-margaux-hum-drum-immer-djs-at-sebright-arms-a27938b0@london-events
+DTSTAMP:20261002T183000Z
+DTSTART:20261002T183000Z
+DTEND:20261003T010000Z
+SUMMARY:LOU MARGAUX + HUM DRUM + IMMER + DJs at Sebright Arms
+DESCRIPTION:Three-band Friday bill in the Sebright basement with DJs keepi
+ ng it going late.\nPrice: £12\nhttps://dice.fm/event/6a8ec184d20d390001c
+ 82df5
+URL:https://dice.fm/event/6a8ec184d20d390001c82df5
+LOCATION:Sebright Arms\, 31-35 Coate St\, E2 9AG
 END:VEVENT
 BEGIN:VEVENT
 UID:cacao-dance-tribe-friday-ecstatic-dance-cacao-october-opener-313d404c@
@@ -5122,6 +5293,19 @@ URL:https://www.cafeoto.co.uk/events/bitchin-bajas-2026/
 LOCATION:Cafe OTO\, 18-22 Ashwin Street\, Dalston\, E8 3DL
 END:VEVENT
 BEGIN:VEVENT
+UID:radiator-luke-jones-electric-cherry-blossom-at-the-old-blue--1dc9cacd@
+ london-events
+DTSTAMP:20261022T183000Z
+DTSTART:20261022T183000Z
+DTEND:20261022T223000Z
+SUMMARY:Radiator + Luke Jones + Electric Cherry Blossom at The Old Blue La
+ st
+DESCRIPTION:Cheap newly announced three-act bill at the Old Blue Last.\nPr
+ ice: £7\nhttps://dice.fm/event/6a919208a0dc520001d2e8d3
+URL:https://dice.fm/event/6a919208a0dc520001d2e8d3
+LOCATION:The Old Blue Last\, 38 Great Eastern St\, EC2A 3ES
+END:VEVENT
+BEGIN:VEVENT
 UID:gambian-cookery-class-with-lamin-migrateful-pop-up-be0dd10a@london-eve
  nts
 DTSTAMP:20261023T173000Z
@@ -5204,6 +5388,19 @@ DESCRIPTION:New musical built around a live ceilidh\, taking over the Asse
  cal
 URL:https://shoreditchtownhall.com/whats-on/ceilidh-the-musical
 LOCATION:Shoreditch Town Hall (Assembly Hall)\, 380 Old Street\, EC1V 9LT
+END:VEVENT
+BEGIN:VEVENT
+UID:dance-umbrella-touch-the-floor-movement-workshop-at-rich-mix-11bb05d2@
+ london-events
+DTSTAMP:20261024T120000Z
+DTSTART:20261024T120000Z
+DTEND:20261024T140000Z
+SUMMARY:Dance Umbrella: Touch the Floor — movement workshop at Rich Mix
+DESCRIPTION:Participatory movement workshop in the Dance Umbrella day at R
+ ich Mix — daytime\, so no clash with the evening performance already li
+ sted.\nPrice: See Rich Mix listing\nhttps://richmix.org.uk/whats-on/
+URL:https://richmix.org.uk/whats-on/
+LOCATION:Rich Mix\, 35-47 Bethnal Green Rd\, E1 6LA
 END:VEVENT
 BEGIN:VEVENT
 UID:sex-psychedelics-talks-performance-social-d38a3371@london-events
@@ -5430,6 +5627,19 @@ DESCRIPTION:Free Thursday back-room bill: Painting headline with The Fruit
 URL:https://dice.fm/event/mxn8nl-painting-the-fruit-band-29th-oct-the-shac
  klewell-arms-london-tickets
 LOCATION:The Shacklewell Arms\, 71 Shacklewell Lane\, Dalston\, E8 2EB
+END:VEVENT
+BEGIN:VEVENT
+UID:bone-folder-x-matthew-bourne-at-servant-jazz-quarters-1c2ecdd8@london-
+ events
+DTSTAMP:20261029T193000Z
+DTSTART:20261029T193000Z
+DTEND:20261029T233000Z
+SUMMARY:Bone Folder x Matthew Bourne at Servant Jazz Quarters
+DESCRIPTION:Collaboration night pairing Bone Folder with pianist Matthew B
+ ourne in the tiny basement — the experimental/intimate sweet spot.\nPri
+ ce: £13.26\nhttps://dice.fm/event/6a8439961bd17c0001cea5db
+URL:https://dice.fm/event/6a8439961bd17c0001cea5db
+LOCATION:Servant Jazz Quarters\, 10a Bradbury St\, N16 8JN
 END:VEVENT
 BEGIN:VEVENT
 UID:dan-jones-castles-a-fortified-history-of-the-world-7fa98c56@london-eve
