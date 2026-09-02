@@ -1133,6 +1133,24 @@
     "added": "2026-08-04"
   },
   {
+    "id": "starter-car-frankie-morrow-olive-wreath-free-at-the-shacklew-bbc5c2a9",
+    "title": "Starter Car + Frankie Morrow + Olive Wreath (free) at The Shacklewell Arms",
+    "start": "2026-09-05T19:00:00+01:00",
+    "end": "2026-09-05T22:00:00+01:00",
+    "venue": "The Shacklewell Arms",
+    "address": "71 Shacklewell Lane, E8 2EB",
+    "url": "https://dice.fm/event/6a6b014e21989700014601e3",
+    "source": "venue:dice-shacklewell-arms",
+    "tags": [
+      "music"
+    ],
+    "price": "Free",
+    "description": "Free three-band Saturday bill — Starter Car also play The Victoria 23 Sep, so this is a free preview. Ends 10pm.",
+    "neighbourhood": "Dalston",
+    "cycle_minutes": 13,
+    "added": "2026-09-02"
+  },
+  {
     "id": "james-marriott-the-new-dark-ages-at-conway-hall-e2c01e27",
     "title": "James Marriott: The New Dark Ages at Conway Hall",
     "start": "2026-09-05T19:30:00+01:00",
@@ -1185,6 +1203,42 @@
     "neighbourhood": "Barbican",
     "cycle_minutes": 15,
     "added": "2026-08-26"
+  },
+  {
+    "id": "cutty-shark-single-launch-w-mi-el-comafields-free-at-sebrigh-e1279901",
+    "title": "Cutty Shark — single launch w/ Mi.el & Comafields (free) at Sebright Arms",
+    "start": "2026-09-05T19:30:00+01:00",
+    "end": "2026-09-05T23:00:00+01:00",
+    "venue": "Sebright Arms",
+    "address": "31-35 Coate Street, E2 9AG",
+    "url": "https://dice.fm/event/6a8333ac7f9df20001eadb9e",
+    "source": "venue:dice-sebright-arms",
+    "tags": [
+      "music"
+    ],
+    "price": "Free",
+    "description": "Free single-launch party in the Sebright basement this Saturday with acoustic support — the tiny-back-room format, minutes from home.",
+    "neighbourhood": "Bethnal Green",
+    "cycle_minutes": 4,
+    "added": "2026-09-02"
+  },
+  {
+    "id": "obl-presents-maudlin-the-tern-eistir-a654d620",
+    "title": "OBL Presents: Maudlin / The Tern / Eistir",
+    "start": "2026-09-05T19:30:00+01:00",
+    "end": "2026-09-05T23:00:00+01:00",
+    "venue": "The Old Blue Last",
+    "address": "38 Great Eastern Street, EC2A 3ES",
+    "url": "https://dice.fm/event/6a8da4ea5d3ebd00018b62c5",
+    "source": "venue:dice-the-old-blue-last",
+    "tags": [
+      "music"
+    ],
+    "price": "£5",
+    "description": "£5 three-band Saturday bill upstairs — new-band roulette at the classic Shoreditch room. (Also free that night: Scouts + Blousey at Paper Dress.)",
+    "neighbourhood": "Shoreditch",
+    "cycle_minutes": 7,
+    "added": "2026-09-02"
   },
   {
     "id": "laura-jurd-miles-100-at-vortex-jazz-club-47ae2373",
@@ -5818,6 +5872,25 @@
     "added": "2026-08-12"
   },
   {
+    "id": "lff-making-marie-antoinette-eleanor-coppola-doc-56fcf6b2",
+    "title": "LFF: Making Marie Antoinette (Eleanor Coppola doc)",
+    "start": "2026-10-07T20:45:00+01:00",
+    "end": null,
+    "venue": "BFI Southbank",
+    "address": "Belvedere Road, South Bank, SE1 8XT",
+    "url": "https://whatson.bfi.org.uk/lff/Online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=DBC51DC8-C3D7-4FF1-A984-1C8BE9290C4E&BOparam::WScontent::loadArticle::context_id=BBA223CC-4C88-40D8-8BBD-8CC3AD4FF528",
+    "source": "festival:bfi-lff",
+    "tags": [
+      "film",
+      "art"
+    ],
+    "price": "£18",
+    "description": "Eleanor Coppola's behind-the-scenes documentary on Sofia Coppola's Marie Antoinette — festival day one. Booking 17 Sep; repeats 8 + 10 Oct.",
+    "neighbourhood": "South Bank",
+    "cycle_minutes": 28,
+    "added": "2026-09-02"
+  },
+  {
     "id": "systemic-family-constellations-evening-workshop-kailash-cent-6f70225f",
     "title": "Systemic & Family Constellations Evening Workshop (Kailash Centre)",
     "start": "2026-10-08T18:30:00+01:00",
@@ -5986,6 +6059,42 @@
     "added": "2026-08-25"
   },
   {
+    "id": "lff-rogue-trooper-duncan-jones-2000-ad-adaptation-08aec429",
+    "title": "LFF: Rogue Trooper (Duncan Jones, 2000 AD adaptation)",
+    "start": "2026-10-09T20:30:00+01:00",
+    "end": null,
+    "venue": "Vue West End",
+    "address": "3 Cranbourn Street, Leicester Square, WC2H 7AL",
+    "url": "https://whatson.bfi.org.uk/lff/Online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=4F17E45B-9309-4E11-9684-B89DF082F695&BOparam::WScontent::loadArticle::context_id=CC8FDB26-DA13-493D-8FC2-5353ACD7619B",
+    "source": "festival:bfi-lff",
+    "tags": [
+      "film"
+    ],
+    "price": "£18",
+    "description": "Duncan Jones (Moon) adapts 2000 AD's genetically-engineered soldier, with Matt Berry and Hayley Atwell — Cult-strand sci-fi premiere. Booking 17 Sep; repeats 12 + 16 Oct. Clashes with Chronovisor.",
+    "neighbourhood": "Leicester Square",
+    "cycle_minutes": 30,
+    "added": "2026-09-02"
+  },
+  {
+    "id": "lff-chronovisor-dare-strand-493cf03a",
+    "title": "LFF: Chronovisor (Dare strand)",
+    "start": "2026-10-09T20:50:00+01:00",
+    "end": null,
+    "venue": "BFI Southbank",
+    "address": "Belvedere Road, South Bank, SE1 8XT",
+    "url": "https://whatson.bfi.org.uk/lff/Online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=84BE22B3-E56A-41E4-A079-459B15D89436&BOparam::WScontent::loadArticle::context_id=E55CF285-9E76-4128-B554-79BDCE3BEBC6",
+    "source": "festival:bfi-lff",
+    "tags": [
+      "film"
+    ],
+    "price": "£18",
+    "description": "US feature in the risk-taking Dare strand — the title refers to the legendary time-viewing device; check the film page for the full synopsis. Same night as Rogue Trooper — pick one.",
+    "neighbourhood": "South Bank",
+    "cycle_minutes": 28,
+    "added": "2026-09-02"
+  },
+  {
     "id": "new-scientist-live-2026-public-weekend-at-excel-59a46163",
     "title": "New Scientist Live 2026 (public weekend at ExCeL)",
     "start": "2026-10-10T10:00:00+01:00",
@@ -6024,6 +6133,25 @@
     "added": "2026-08-31"
   },
   {
+    "id": "lff-expanded-solwata-free-immersive-installation-0cd60fcf",
+    "title": "LFF Expanded: Solwata — free immersive installation",
+    "start": "2026-10-10T11:00:00+01:00",
+    "end": null,
+    "venue": "BFI Southbank Atrium",
+    "address": "Belvedere Road, South Bank, SE1 8XT",
+    "url": "https://whatson.bfi.org.uk/lff/Online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=4E65BAAD-856D-4788-AF02-F747272C073A&BOparam::WScontent::loadArticle::context_id=5F5FD73E-27B8-44A3-8AED-CC0F5426596F",
+    "source": "festival:bfi-lff",
+    "tags": [
+      "art",
+      "film"
+    ],
+    "price": "Free (session-ticketed from 17 Sep)",
+    "description": "Free immersive piece running in ~35-min sessions in the Atrium across the festival; sister piece Water Body runs at St Martin-in-the-Fields 3-6 Oct (£8-12).",
+    "neighbourhood": "South Bank",
+    "cycle_minutes": 28,
+    "added": "2026-09-02"
+  },
+  {
     "id": "root-rise-master-plant-breathwork-live-soundscape-ecstatic-d-b4e169a4",
     "title": "Root & Rise: Master Plant Breathwork, Live Soundscape & Ecstatic Dance",
     "start": "2026-10-10T11:45:00+01:00",
@@ -6060,6 +6188,44 @@
     "neighbourhood": "Limehouse",
     "cycle_minutes": 15,
     "added": "2026-08-16"
+  },
+  {
+    "id": "lff-musk-alex-gibney-documentary-a5160a90",
+    "title": "LFF: Musk (Alex Gibney documentary)",
+    "start": "2026-10-10T14:05:00+01:00",
+    "end": null,
+    "venue": "Prince Charles Cinema",
+    "address": "7 Leicester Place, WC2H 7BY",
+    "url": "https://whatson.bfi.org.uk/lff/Online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=39775908-D49A-45F8-A85B-C3048F7B71B4&BOparam::WScontent::loadArticle::context_id=96C306D7-160B-486D-9FA1-99B6BEA13FE8",
+    "source": "festival:bfi-lff",
+    "tags": [
+      "film",
+      "tech"
+    ],
+    "price": "£18",
+    "description": "Alex Gibney's Elon Musk documentary — the tech-world doc of the festival, Saturday afternoon. Booking 17 Sep 10:00.",
+    "neighbourhood": "Leicester Square",
+    "cycle_minutes": 30,
+    "added": "2026-09-02"
+  },
+  {
+    "id": "lff-for-free-the-shape-of-water-xr-immersive-art-and-environ-84e29387",
+    "title": "LFF for Free: The Shape of Water — XR, immersive art and environmental storytelling",
+    "start": "2026-10-10T16:00:00+01:00",
+    "end": null,
+    "venue": "BFI Southbank",
+    "address": "Belvedere Road, South Bank, SE1 8XT",
+    "url": "https://whatson.bfi.org.uk/lff/Online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=03DCE517-0F2B-4788-B15C-DB73F6184E0B&BOparam::WScontent::loadArticle::context_id=7E4AE6B8-D0E2-4411-AEDE-28F782E44ACB",
+    "source": "festival:bfi-lff",
+    "tags": [
+      "talk",
+      "tech"
+    ],
+    "price": "Free (ticketed from 17 Sep)",
+    "description": "Free LFF panel on XR and immersive storytelling — stack with Musk (14:05) and the free Solwata installation the same Saturday.",
+    "neighbourhood": "South Bank",
+    "cycle_minutes": 28,
+    "added": "2026-09-02"
   },
   {
     "id": "balkanplus-for-beginners-at-cecil-sharp-house-1d959eda",
@@ -6594,6 +6760,44 @@
     "added": "2026-08-09"
   },
   {
+    "id": "lff-carl-sagan-we-are-made-of-star-stuff-documentary-1837bb25",
+    "title": "LFF: Carl Sagan — We Are Made of Star Stuff (documentary)",
+    "start": "2026-10-16T21:00:00+01:00",
+    "end": null,
+    "venue": "BFI Southbank",
+    "address": "Belvedere Road, South Bank, SE1 8XT",
+    "url": "https://whatson.bfi.org.uk/lff/Online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=FD7C9EFB-E6EC-4AB0-AC3D-393E824CC4F2&BOparam::WScontent::loadArticle::context_id=8674F4C6-A815-41B8-A2AF-955D52255639",
+    "source": "festival:bfi-lff",
+    "tags": [
+      "film",
+      "talk"
+    ],
+    "price": "£18",
+    "description": "Nanette Burstein's Carl Sagan documentary — squarely in the science-communication sweet spot. Booking 17 Sep 10:00; also Wed 14 Oct at Vue West End. Clashes with the free Hacienda DJ night in the BFI Bar.",
+    "neighbourhood": "South Bank",
+    "cycle_minutes": 28,
+    "added": "2026-09-02"
+  },
+  {
+    "id": "lff-for-free-dj-night-7-miles-out-journey-to-the-hacienda-f58ede83",
+    "title": "LFF for Free: DJ Night — 7 Miles Out: Journey to The Hacienda",
+    "start": "2026-10-16T21:00:00+01:00",
+    "end": null,
+    "venue": "BFI Bar, BFI Southbank",
+    "address": "Belvedere Road, South Bank, SE1 8XT",
+    "url": "https://whatson.bfi.org.uk/lff/Online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=4F5B8648-4582-48D4-B529-6A262A110BE8&BOparam::WScontent::loadArticle::context_id=5451212F-00CF-4EE1-BA58-8173E5E40A97",
+    "source": "festival:bfi-lff",
+    "tags": [
+      "music",
+      "community"
+    ],
+    "price": "Free",
+    "description": "Free Hacienda-themed DJ night in the BFI Bar — Factory Records nostalgia, easy sociable Friday. Clashes with the Carl Sagan doc upstairs.",
+    "neighbourhood": "South Bank",
+    "cycle_minutes": 28,
+    "added": "2026-09-02"
+  },
+  {
     "id": "headless-way-a-day-with-richard-lang-october-date-e1ff4b7e",
     "title": "Headless Way: a day with Richard Lang (October date)",
     "start": "2026-10-17T10:00:00+01:00",
@@ -6704,6 +6908,44 @@
     "neighbourhood": "Camden",
     "cycle_minutes": 30,
     "added": "2026-08-15"
+  },
+  {
+    "id": "lff-screen-talk-jesse-eisenberg-f336ee94",
+    "title": "LFF Screen Talk: Jesse Eisenberg",
+    "start": "2026-10-18T13:30:00+01:00",
+    "end": null,
+    "venue": "BFI Southbank",
+    "address": "Belvedere Road, South Bank, SE1 8XT",
+    "url": "https://whatson.bfi.org.uk/lff/Online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=777A0A05-70DC-4703-8B99-EFD4F129F951&BOparam::WScontent::loadArticle::context_id=BA448413-D36E-46ED-9A6D-70F41196F472",
+    "source": "festival:bfi-lff",
+    "tags": [
+      "film",
+      "talk"
+    ],
+    "price": "£21",
+    "description": "In-conversation career talk with Jesse Eisenberg on closing day — pairs with The Debut gala that evening.",
+    "neighbourhood": "South Bank",
+    "cycle_minutes": 28,
+    "added": "2026-09-02"
+  },
+  {
+    "id": "lff-closing-night-gala-the-debut-jesse-eisenberg-uk-premiere-fdb818ff",
+    "title": "LFF Closing Night Gala: The Debut (Jesse Eisenberg) — UK premiere",
+    "start": "2026-10-18T19:15:00+01:00",
+    "end": null,
+    "venue": "Royal Festival Hall",
+    "address": "Belvedere Road, South Bank, SE1 8XX",
+    "url": "https://whatson.bfi.org.uk/lff/Online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=55BA0B8A-6EDC-4327-9805-E1C21249ABAF&BOparam::WScontent::loadArticle::context_id=FF5683E0-13B1-4D53-9B23-B0000A023116",
+    "source": "festival:bfi-lff",
+    "tags": [
+      "film",
+      "festival"
+    ],
+    "price": "£10-£40",
+    "description": "Jesse Eisenberg's The Debut (Julianne Moore, Paul Giamatti) closes the 70th LFF. General sale 17 Sep 10:00 (Members 10 Sep); cheaper £18 same-night repeats at BFI NFT1 20:40 and Prince Charles 20:45.",
+    "neighbourhood": "South Bank",
+    "cycle_minutes": 28,
+    "added": "2026-09-02"
   },
   {
     "id": "simon-finn-the-owl-service-at-cafe-oto-97859460",
@@ -7091,6 +7333,25 @@
     "neighbourhood": "Hackney Downs",
     "cycle_minutes": 12,
     "added": "2026-08-09"
+  },
+  {
+    "id": "dance-umbrella-sitting-in-limbo-conversation-with-dwayne-chu-83faf285",
+    "title": "Dance Umbrella: Sitting in Limbo — conversation with Dwayne Church-Simms",
+    "start": "2026-10-24T15:30:00+01:00",
+    "end": null,
+    "venue": "Rich Mix",
+    "address": "35-47 Bethnal Green Road, E1 6LA",
+    "url": "https://richmix.org.uk/whats-on/",
+    "source": "venue:rich-mix",
+    "tags": [
+      "dance",
+      "talk"
+    ],
+    "price": null,
+    "description": "Dance Umbrella conversation slotting between the Touch the Floor workshop (1pm) and Memory in Motion (6pm) — 24 Oct is now a full Dance Umbrella afternoon five minutes from home.",
+    "neighbourhood": "Shoreditch",
+    "cycle_minutes": 3,
+    "added": "2026-09-02"
   },
   {
     "id": "dance-umbrella-memory-in-motion-at-rich-mix-2675d0e6",
