@@ -1,5 +1,11 @@
 [
   {
+    "ran_at": "2026-09-03T07:55:00+01:00",
+    "added": 13,
+    "considered": 130,
+    "notes": "Kings Place API BREAKTHROUGH (system.spektrix.com/kingsplace/api/v3/events works; site also passable via headless w/ Cloudflare wait) — Nov/Dec unmined: Knausgaard IQ2 2 Nov, Siobhan Miller 5 Nov, Dani Larkin 7 Nov, MARTIN HAYES & Kate Ellis 26 Nov (The Gloaming fiddler), Olivia Chaney 28 Nov, Queen Is Dead 40th w/ Mike Joyce + Stephen Street 5 Dec, NINE LESSONS AND CAROLS FOR CURIOUS PEOPLE 12 Dec (Robin Ince science/comedy — Czerski, Anil Seth, Josie Long, Grace Petrie; also 11+13 Dec). PITCHFORK LONDON 2026 CONFIRMED 2-8 Nov: the 4 MOTH shows already on calendar ARE Pitchfork shows (no dups); added Tortoise + Bill Orcutt at Hackney Church 4 Nov (£42 flagged) vs Jacob Alon at Hackney Empire same night (clash noted), Los Thuthanaka in-the-round EartH 5 Nov; more lineup TBA — re-check. Thursday x3 Sept (singles pub quiz Lord Napier Star Hackney Wick 7 Sep, 25-35 BAM Victoria 10 Sep, 30-45 Bank 22 Sep); October not published yet. ACX STILL unposted (only ACX Survey post 27 Aug); Moth + EDL late-autumn nothing. KP spares (API-dated, slugs unresolved): Blazin' Fiddles 14 Nov, Ranagri 12 Nov, Janice Burns & Jon Doran + Minyo Crusaders 27 Nov, Steve Knightley 5 Dec, Lindisfarne 17 Dec."
+  },
+  {
     "ran_at": "2026-09-02T07:55:00+01:00",
     "added": 14,
     "considered": 185,
@@ -172,11 +178,5 @@
     "added": 19,
     "considered": 130,
     "notes": "Aggregators + JS-venues pass — Barbican and Southbank finally cracked via headless Chromium (needs --proxy-server=$HTTPS_PROXY and --ssl-version-max=tls1.2; Southbank event pages still Cloudflare-blocked, verified via listing grid + third party — re-check times on the day). Added 19: Somerset House Carnival 60th free exhibition (13-21 Aug, Reasonings & Riddims day Sat 15), Barbican x3 (Liam Young 'In Other Worlds', Arrival outdoor cinema 19 Aug, Pan-African film programme), 2 free Southbank Riverside Sessions, free circling drop-in 7 Aug, Ecstatic Dance UK at The Baths 12 Aug + ECSTATICA cacao dance 20 Aug, PauseAI meetup 13 Aug, supper club at Proposition Studios E2 20 Aug, Everyman free canal cinema final weekend, Epping Forest hike, kanna plant talk, consent & connection Sunday session, Movement Lab taster 30 Sep. Skipped: BYOB pottery Edmonton (too far for a non-special event), Southend hike (outside London), LISA Principia talk 13 Aug (15:00 weekday start — flagged, Luma zpxh8ip4). Watchlist: Hackney Downs Night Market 14 Aug unverifiable (stale 2025 page); M.C. Escher at Somerset House until 6 Sep (no timed-entry details); Habibi Funk Open Air Hackney Bridge 29-30 Aug (dates ok, times/tickets unverified); ACX London still dormant; Ecstatic Saturdays Sept TBC."
-  },
-  {
-    "ran_at": "2026-08-05T07:25:00+01:00",
-    "added": 13,
-    "considered": 62,
-    "notes": "Venues + dance-core + watchlist pass. Added 13: 5 Newspeak House events incl. Robin Hanson 'Cultural Drift' TOMORROW 6 Aug (free) and QRI hedonic-tone meetup 12 Aug; 3 Cecil Sharp House folk dances (Barndance 12 Sep, SIFD international 19 Sep, English Country Dancing course opener 24 Sep — Thursdays not Fridays); 2 Ecstatic Dance London sound journeys at Skylight Highbury; Ceroc St Pancras Wednesday class (aggregator-verified, confirm-note on entry); Garrett Centre life drawing 12 Aug (£13, 3 min away); Open House Festival 12-20 Sep (ticket bookings open 19 Aug — flag for Bart). WATCHLIST CORRECTIONS: Balkanplus at CSH is NOT 12 Sep — beginners editions 10 Oct + 14 Nov (add in Sept sweeps); ECD course is Thursdays from 24 Sep. Still unresolved: Ceroc Party of the Year date unpublished (venue/price confirmed); ACX autumn unannounced; balkanplus.org.uk unreachable; Southbank 403s, Barbican JS-only (try Playwright next); Somerset House Carnival-legacy show 13-21 Aug worth a retry; Ecstatic Saturdays Sept dates TBC; pottery (Cone8/Claystation) and Bloomsbury Alexander Technique intros have no fetchable dates. 5Rhythms: nothing new verifiable; 'Body Song' 16 Aug is women-only (skipped)."
   }
 ]

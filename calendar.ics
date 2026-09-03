@@ -1034,6 +1034,20 @@ URL:https://www.rigb.org/whats-on/ecosystem-life-underground
 LOCATION:Royal Institution\, 21 Albemarle Street\, Mayfair\, W1S 4BS
 END:VEVENT
 BEGIN:VEVENT
+UID:thursday-singles-pub-quiz-at-the-lord-napier-star-62bd8515@london-even
+ ts
+DTSTAMP:20260907T180000Z
+DTSTART:20260907T180000Z
+DTEND:20260907T210000Z
+SUMMARY:Thursday: Singles Pub Quiz at The Lord Napier Star
+DESCRIPTION:Singles-only pub quiz at the famous Hackney Wick pub — trivi
+ a from 7.30pm\, mixed crowd\, come solo.\nPrice: £15\nhttps://www.thursd
+ ay.com/events/london/bb08de16-a181-43fe-bf5a-e12d2e5cb16e
+URL:https://www.thursday.com/events/london/bb08de16-a181-43fe-bf5a-e12d2e5
+ cb16e
+LOCATION:The Lord Napier Star\, 25 White Post Lane\, E9 5ER
+END:VEVENT
+BEGIN:VEVENT
 UID:charlie-kilgore-live-from-the-afterlife-at-sjq-e0aa548e@london-events
 DTSTAMP:20260907T183000Z
 DTSTART:20260907T183000Z
@@ -1513,6 +1527,21 @@ DESCRIPTION:Deeply personal documentary in which Rushdie looks back at his
 URL:https://www.barbican.org.uk/whats-on/2026/event/knife-the-attempted-mu
  rder-of-salman-rushdie-screentalk
 LOCATION:Cinema 1\, Barbican Centre\, Silk Street\, EC2Y 8DS
+END:VEVENT
+BEGIN:VEVENT
+UID:thursday-25-35-singles-night-at-bam-karaoke-box-victoria-614b6ed2@lond
+ on-events
+DTSTAMP:20260910T180000Z
+DTSTART:20260910T180000Z
+DTEND:20260910T220000Z
+SUMMARY:Thursday: 25-35 Singles Night at BAM Karaoke Box\, Victoria
+DESCRIPTION:Bar-night takeover for singles 25-35 with optional open-mic ka
+ raoke. Same night as the Cocktail Club Shoreditch event — the local one
+  is closer. Tube easier than the ~40 min ride.\nPrice: £12\nhttps://www.
+ thursday.com/events/london/28a45137-413f-45b5-86bb-965f275ceab6
+URL:https://www.thursday.com/events/london/28a45137-413f-45b5-86bb-965f275
+ ceab6
+LOCATION:BAM Karaoke Box Victoria\, 74 Victoria Street\, SW1E 6SQ
 END:VEVENT
 BEGIN:VEVENT
 UID:gia-margaret-at-earth-01789289@london-events
@@ -3065,6 +3094,21 @@ DESCRIPTION:Economist Daniel Susskind on what AI systems that write\, comp
  -creativity
 URL:https://www.gresham.ac.uk/whats-on/future-creativity
 LOCATION:Barnard's Inn Hall\, Holborn\, EC1N 2HH
+END:VEVENT
+BEGIN:VEVENT
+UID:thursday-30-45-singles-night-at-the-side-hustle-bank-92e953eb@london-e
+ vents
+DTSTAMP:20260922T180000Z
+DTSTART:20260922T180000Z
+DTEND:20260922T220000Z
+SUMMARY:Thursday: 30-45 Singles Night at The Side Hustle\, Bank
+DESCRIPTION:Relaxed hosted drinks night for singles 30-45 near Bank — br
+ acket includes 31\, skews slightly older. Last entry 8pm.\nPrice: £12\nh
+ ttps://www.thursday.com/events/london/bb61c162-5a25-4e23-a9c6-4215b7fe937
+ a
+URL:https://www.thursday.com/events/london/bb61c162-5a25-4e23-a9c6-4215b7f
+ e937a
+LOCATION:The Side Hustle Sports Bar\, 130 Wood Street\, EC2V 6DL
 END:VEVENT
 BEGIN:VEVENT
 UID:jim-ghedi-at-moth-club-6610d75a@london-events
@@ -5774,6 +5818,21 @@ URL:https://dice.fm/event/bb93lk-konradsen-2nd-nov-the-shacklewell-arms-lo
 LOCATION:The Shacklewell Arms\, 71 Shacklewell Lane\, E8 2EB
 END:VEVENT
 BEGIN:VEVENT
+UID:an-evening-with-karl-ove-knausgaard-arendal-intelligence-squ-344be3af@
+ london-events
+DTSTAMP:20261102T193000Z
+DTSTART:20261102T193000Z
+DTEND:20261102T213000Z
+SUMMARY:An Evening with Karl Ove Knausgaard: Arendal (Intelligence Squared
+ )
+DESCRIPTION:The My Struggle author discusses his new novel Arendal. Doors 
+ 7pm\; tickets via Eventbrite.\nhttps://www.kingsplace.co.uk/whats-on/word
+ s/an-evening-with-karl-ove-knausgaard-arendal/
+URL:https://www.kingsplace.co.uk/whats-on/words/an-evening-with-karl-ove-k
+ nausgaard-arendal/
+LOCATION:Kings Place (Hall One)\, 90 York Way\, London N1 9AG
+END:VEVENT
+BEGIN:VEVENT
 UID:radie-peat-at-union-chapel-6a9405e5@london-events
 DTSTAMP:20261103T190000Z
 DTSTART:20261103T190000Z
@@ -5800,6 +5859,35 @@ URL:https://dice.fm/event/6dkw77-greg-mendez-asher-white-villagerrr-3rd-no
 LOCATION:MOTH Club\, Old Trades Hall\, Valette Street\, E9 6NU
 END:VEVENT
 BEGIN:VEVENT
+UID:pitchfork-london-tortoise-bill-orcutt-at-hackney-church-f79ba520@londo
+ n-events
+DTSTAMP:20261104T190000Z
+DTSTART:20261104T190000Z
+DTEND:20261104T210000Z
+SUMMARY:Pitchfork London: Tortoise + Bill Orcutt at Hackney Church
+DESCRIPTION:Chicago post-rock pioneers Tortoise headline Hackney Church fo
+ r Pitchfork London (2-8 Nov)\, with avant-guitarist Bill Orcutt. Same nig
+ ht as Jacob Alon — pick one.\nPrice: from £42.11 (high but under cap)\
+ nhttps://link.dice.fm/ta7901aa7bd0
+URL:https://link.dice.fm/ta7901aa7bd0
+LOCATION:Hackney Church\, Lower Clapton Rd\, E5 0PD
+END:VEVENT
+BEGIN:VEVENT
+UID:pitchfork-london-jacob-alon-paulie-swan-at-hackney-empire-2fdcbcc2@lon
+ don-events
+DTSTAMP:20261104T190000Z
+DTSTART:20261104T190000Z
+DTEND:20261104T210000Z
+SUMMARY:Pitchfork London: Jacob Alon + Paulie Swan at Hackney Empire
+DESCRIPTION:Fife-born contemporary folk breakout Jacob Alon (In Limerence)
+  plays the Empire for Pitchfork London. Clashes with Tortoise.\nPrice: fr
+ om £38.32\nhttps://dice.fm/event/q2lloa-jacob-alon-paulie-swan-4th-nov-h
+ ackney-empire-london-tickets
+URL:https://dice.fm/event/q2lloa-jacob-alon-paulie-swan-4th-nov-hackney-em
+ pire-london-tickets
+LOCATION:Hackney Empire\, 291 Mare Street\, E8 1EJ
+END:VEVENT
+BEGIN:VEVENT
 UID:the-vernon-spring-a-plane-over-woods-5-year-anniversary-at-s-bc2bb0a9@
  london-events
 DTSTAMP:20261104T193000Z
@@ -5815,6 +5903,20 @@ DESCRIPTION:Pianist Sam Beste's Vernon Spring project marks five years of
 URL:https://dice.fm/event/923kp9-the-vernon-spring-a-plane-over-woods-5-ye
  ar-anniversary-tour-4th-nov-sjq-london-tickets
 LOCATION:Servant Jazz Quarters\, 10A Bradbury Street\, Dalston\, N16 8JN
+END:VEVENT
+BEGIN:VEVENT
+UID:pitchfork-london-los-thuthanaka-in-the-round-at-earth-hall-b6e9d7ef@lo
+ ndon-events
+DTSTAMP:20261105T183000Z
+DTSTART:20261105T183000Z
+DTEND:20261105T203000Z
+SUMMARY:Pitchfork London: Los Thuthanaka (in the round) at EartH Hall
+DESCRIPTION:Chuquimamani-Condori and Joshua Chuquimia Crampton's acclaimed
+  Andean-electronic project performed in the round — one of the most tal
+ ked-about experimental records of recent years.\nPrice: from £32.26\nhtt
+ ps://link.dice.fm/cc7491a488fd
+URL:https://link.dice.fm/cc7491a488fd
+LOCATION:EartH Hall\, 11-17 Stoke Newington Road\, N16 8BH
 END:VEVENT
 BEGIN:VEVENT
 UID:joan-as-police-woman-20-years-of-real-life-night-one-a24c96d2@london-e
@@ -5859,6 +5961,18 @@ URL:https://dice.fm/event/yoex3a-teiger-mount-forel-5th-nov-paper-dress-vi
 LOCATION:Paper Dress Vintage\, 352a Mare Street\, E8 1HR
 END:VEVENT
 BEGIN:VEVENT
+UID:siobhan-miller-band-at-kings-place-0c36a78d@london-events
+DTSTAMP:20261105T200000Z
+DTSTART:20261105T200000Z
+DTEND:20261105T220000Z
+SUMMARY:Siobhan Miller Band at Kings Place
+DESCRIPTION:BBC Radio 2 Folk Award-winning Scottish singer in full-band mo
+ de. Doors 7.30pm.\nPrice: £21\nhttps://www.kingsplace.co.uk/whats-on/fol
+ k/siobhan-miller-band/
+URL:https://www.kingsplace.co.uk/whats-on/folk/siobhan-miller-band/
+LOCATION:Kings Place (Hall One)\, 90 York Way\, London N1 9AG
+END:VEVENT
+BEGIN:VEVENT
 UID:mariam-sings-amadou-mariam-at-earth-e0b29c0c@london-events
 DTSTAMP:20261106T190000Z
 DTSTART:20261106T190000Z
@@ -5896,6 +6010,18 @@ DESCRIPTION:Union Chapel's flagship comedy night headlined by Chris McCaus
 URL:https://unionchapel.org.uk/whats-on/live-at-the-chapel-with-chris-mcca
  usland
 LOCATION:Union Chapel\, Compton Terrace\, Islington\, N1 2UN
+END:VEVENT
+BEGIN:VEVENT
+UID:dani-larkin-at-kings-place-dc8989ee@london-events
+DTSTAMP:20261107T200000Z
+DTSTART:20261107T200000Z
+DTEND:20261107T220000Z
+SUMMARY:Dani Larkin at Kings Place
+DESCRIPTION:Irish alt-folk singer-songwriter from the Armagh/Monaghan bord
+ er\, in the intimate Hall Two.\nPrice: £20\nhttps://www.kingsplace.co.uk
+ /whats-on/folk/dani-larkin/
+URL:https://www.kingsplace.co.uk/whats-on/folk/dani-larkin/
+LOCATION:Kings Place (Hall Two)\, 90 York Way\, London N1 9AG
 END:VEVENT
 BEGIN:VEVENT
 UID:callis-at-the-shacklewell-arms-9dbd3a48@london-events
@@ -6442,6 +6568,19 @@ URL:https://dice.fm/event/avwpvv-man-the-echo-10-year-celebration-at-paper
 LOCATION:Paper Dress Vintage\, 352a Mare Street\, E8 1HR
 END:VEVENT
 BEGIN:VEVENT
+UID:martin-hayes-kate-ellis-at-kings-place-483a4041@london-events
+DTSTAMP:20261126T200000Z
+DTSTART:20261126T200000Z
+DTEND:20261126T220000Z
+SUMMARY:Martin Hayes & Kate Ellis at Kings Place
+DESCRIPTION:Legendary Irish fiddler Martin Hayes (The Gloaming) with celli
+ st Kate Ellis — meditative traditional music of the highest order.\nPri
+ ce: £28-£40\nhttps://www.kingsplace.co.uk/whats-on/folk/martin-hayes-ka
+ te-ellis/
+URL:https://www.kingsplace.co.uk/whats-on/folk/martin-hayes-kate-ellis/
+LOCATION:Kings Place (Hall One)\, 90 York Way\, London N1 9AG
+END:VEVENT
+BEGIN:VEVENT
 UID:pyncher-at-the-shacklewell-arms-4dd7a2d1@london-events
 DTSTAMP:20261127T190000Z
 DTSTART:20261127T190000Z
@@ -6502,6 +6641,21 @@ DESCRIPTION:Persian psych-funk project channelling Iran's 1970s music scen
  .87\nhttps://dice.fm/event/6a390ed380ed6200017ac316
 URL:https://dice.fm/event/6a390ed380ed6200017ac316
 LOCATION:MOTH Club\, Old Trades Hall\, Valette Street\, E9 6NU
+END:VEVENT
+BEGIN:VEVENT
+UID:olivia-chaney-daughters-of-memory-at-kings-place-883f3622@london-event
+ s
+DTSTAMP:20261128T193000Z
+DTSTART:20261128T193000Z
+DTEND:20261128T213000Z
+SUMMARY:Olivia Chaney: Daughters of Memory at Kings Place
+DESCRIPTION:English folk singer and multi-instrumentalist with violinist J
+ ordan Hunt — songs on artists\, muses and memory.\nPrice: £22-£30\nht
+ tps://www.kingsplace.co.uk/whats-on/contemporary/olivia-chaney-daughters-
+ of-memory/
+URL:https://www.kingsplace.co.uk/whats-on/contemporary/olivia-chaney-daugh
+ ters-of-memory/
+LOCATION:Kings Place (Hall One)\, 90 York Way\, London N1 9AG
 END:VEVENT
 BEGIN:VEVENT
 UID:la-plan-te-sauvage-screening-with-live-score-by-haha-sounds--55829911@
@@ -6618,6 +6772,21 @@ URL:https://dice.fm/event/6a396f05eb360100011f61f3
 LOCATION:MOTH Club\, Old Trades Hall\, Valette Street\, E9 6NU
 END:VEVENT
 BEGIN:VEVENT
+UID:mike-joyce-stephen-street-the-queen-is-dead-40th-anniversary-c1b95421@
+ london-events
+DTSTAMP:20261205T193000Z
+DTSTART:20261205T193000Z
+DTEND:20261205T213000Z
+SUMMARY:Mike Joyce & Stephen Street: The Queen Is Dead 40th Anniversary
+DESCRIPTION:The Smiths' drummer and producer Stephen Street go track-by-tr
+ ack through The Queen Is Dead with archive video\, Q&A and signings.\nPri
+ ce: £30\nhttps://www.kingsplace.co.uk/whats-on/words/mike-joyce-stephen-
+ street-the-queen-is-dead-40th-anniversary/
+URL:https://www.kingsplace.co.uk/whats-on/words/mike-joyce-stephen-street-
+ the-queen-is-dead-40th-anniversary/
+LOCATION:Kings Place (Hall One)\, 90 York Way\, London N1 9AG
+END:VEVENT
+BEGIN:VEVENT
 UID:festive-gathering-at-cecil-sharp-house-acc8ee1c@london-events
 DTSTAMP:20261206T190000Z
 DTSTART:20261206T190000Z
@@ -6715,6 +6884,21 @@ DESCRIPTION:Three-band DIY indie-punk Christmas bill in the Victoria's bac
  vent/6a798fa8b18b760001874545
 URL:https://dice.fm/event/6a798fa8b18b760001874545
 LOCATION:The Victoria\, 451 Queensbridge Road\, E8 3AS
+END:VEVENT
+BEGIN:VEVENT
+UID:nine-lessons-and-carols-for-curious-people-saturday-show-324d5480@lond
+ on-events
+DTSTAMP:20261212T190000Z
+DTSTART:20261212T190000Z
+DTEND:20261212T223000Z
+SUMMARY:Nine Lessons and Carols for Curious People (Saturday show)
+DESCRIPTION:Robin Ince's annual science/comedy/music mash-up — 2026 line
+ up includes Helen Czerski\, Anil Seth\, Josie Long and Grace Petrie. Also
+  runs Fri 11 and Sun 13 Dec.\nhttps://www.kingsplace.co.uk/whats-on/nine-
+ lessons-and-carols-for-curious-people/
+URL:https://www.kingsplace.co.uk/whats-on/nine-lessons-and-carols-for-curi
+ ous-people/
+LOCATION:Kings Place\, 90 York Way\, London N1 9AG
 END:VEVENT
 BEGIN:VEVENT
 UID:the-london-barndance-company-december-edition-63b29622@london-events

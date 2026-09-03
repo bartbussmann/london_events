@@ -1372,6 +1372,24 @@
     "added": "2026-08-11"
   },
   {
+    "id": "thursday-singles-pub-quiz-at-the-lord-napier-star-62bd8515",
+    "title": "Thursday: Singles Pub Quiz at The Lord Napier Star",
+    "start": "2026-09-07T19:00:00+01:00",
+    "end": "2026-09-07T22:00:00+01:00",
+    "venue": "The Lord Napier Star",
+    "address": "25 White Post Lane, E9 5ER",
+    "url": "https://www.thursday.com/events/london/bb08de16-a181-43fe-bf5a-e12d2e5cb16e",
+    "source": "listing:thursday-dating",
+    "tags": [
+      "community"
+    ],
+    "price": "£15",
+    "description": "Singles-only pub quiz at the famous Hackney Wick pub — trivia from 7.30pm, mixed crowd, come solo.",
+    "neighbourhood": "Hackney Wick",
+    "cycle_minutes": 10,
+    "added": "2026-09-03"
+  },
+  {
     "id": "charlie-kilgore-live-from-the-afterlife-at-sjq-e0aa548e",
     "title": "Charlie Kilgore: Live From The Afterlife at SJQ",
     "start": "2026-09-07T19:30:00+01:00",
@@ -1996,6 +2014,24 @@
     "neighbourhood": "Barbican",
     "cycle_minutes": 15,
     "added": "2026-08-26"
+  },
+  {
+    "id": "thursday-25-35-singles-night-at-bam-karaoke-box-victoria-614b6ed2",
+    "title": "Thursday: 25-35 Singles Night at BAM Karaoke Box, Victoria",
+    "start": "2026-09-10T19:00:00+01:00",
+    "end": "2026-09-10T23:00:00+01:00",
+    "venue": "BAM Karaoke Box Victoria",
+    "address": "74 Victoria Street, SW1E 6SQ",
+    "url": "https://www.thursday.com/events/london/28a45137-413f-45b5-86bb-965f275ceab6",
+    "source": "listing:thursday-dating",
+    "tags": [
+      "community"
+    ],
+    "price": "£12",
+    "description": "Bar-night takeover for singles 25-35 with optional open-mic karaoke. Same night as the Cocktail Club Shoreditch event — the local one is closer. Tube easier than the ~40 min ride.",
+    "neighbourhood": "Victoria",
+    "cycle_minutes": 40,
+    "added": "2026-09-03"
   },
   {
     "id": "gia-margaret-at-earth-01789289",
@@ -4058,6 +4094,24 @@
     "neighbourhood": "Holborn",
     "cycle_minutes": 18,
     "added": "2026-08-08"
+  },
+  {
+    "id": "thursday-30-45-singles-night-at-the-side-hustle-bank-92e953eb",
+    "title": "Thursday: 30-45 Singles Night at The Side Hustle, Bank",
+    "start": "2026-09-22T19:00:00+01:00",
+    "end": "2026-09-22T23:00:00+01:00",
+    "venue": "The Side Hustle Sports Bar",
+    "address": "130 Wood Street, EC2V 6DL",
+    "url": "https://www.thursday.com/events/london/bb61c162-5a25-4e23-a9c6-4215b7fe937a",
+    "source": "listing:thursday-dating",
+    "tags": [
+      "community"
+    ],
+    "price": "£12",
+    "description": "Relaxed hosted drinks night for singles 30-45 near Bank — bracket includes 31, skews slightly older. Last entry 8pm.",
+    "neighbourhood": "Bank",
+    "cycle_minutes": 13,
+    "added": "2026-09-03"
   },
   {
     "id": "jim-ghedi-at-moth-club-6610d75a",
@@ -7660,6 +7714,24 @@
     "added": "2026-08-16"
   },
   {
+    "id": "an-evening-with-karl-ove-knausgaard-arendal-intelligence-squ-344be3af",
+    "title": "An Evening with Karl Ove Knausgaard: Arendal (Intelligence Squared)",
+    "start": "2026-11-02T19:30:00+00:00",
+    "end": null,
+    "venue": "Kings Place (Hall One)",
+    "address": "90 York Way, London N1 9AG",
+    "url": "https://www.kingsplace.co.uk/whats-on/words/an-evening-with-karl-ove-knausgaard-arendal/",
+    "source": "venue:kings-place",
+    "tags": [
+      "talk"
+    ],
+    "price": null,
+    "description": "The My Struggle author discusses his new novel Arendal. Doors 7pm; tickets via Eventbrite.",
+    "neighbourhood": "King's Cross",
+    "cycle_minutes": 30,
+    "added": "2026-09-03"
+  },
+  {
     "id": "radie-peat-at-union-chapel-6a9405e5",
     "title": "Radie Peat at Union Chapel",
     "start": "2026-11-03T19:00:00+00:00",
@@ -7696,6 +7768,44 @@
     "added": "2026-08-16"
   },
   {
+    "id": "pitchfork-london-tortoise-bill-orcutt-at-hackney-church-f79ba520",
+    "title": "Pitchfork London: Tortoise + Bill Orcutt at Hackney Church",
+    "start": "2026-11-04T19:00:00+00:00",
+    "end": null,
+    "venue": "Hackney Church",
+    "address": "Lower Clapton Rd, E5 0PD",
+    "url": "https://link.dice.fm/ta7901aa7bd0",
+    "source": "festival:pitchfork-london",
+    "tags": [
+      "music",
+      "festival"
+    ],
+    "price": "from £42.11 (high but under cap)",
+    "description": "Chicago post-rock pioneers Tortoise headline Hackney Church for Pitchfork London (2-8 Nov), with avant-guitarist Bill Orcutt. Same night as Jacob Alon — pick one.",
+    "neighbourhood": "Clapton",
+    "cycle_minutes": 15,
+    "added": "2026-09-03"
+  },
+  {
+    "id": "pitchfork-london-jacob-alon-paulie-swan-at-hackney-empire-2fdcbcc2",
+    "title": "Pitchfork London: Jacob Alon + Paulie Swan at Hackney Empire",
+    "start": "2026-11-04T19:00:00+00:00",
+    "end": null,
+    "venue": "Hackney Empire",
+    "address": "291 Mare Street, E8 1EJ",
+    "url": "https://dice.fm/event/q2lloa-jacob-alon-paulie-swan-4th-nov-hackney-empire-london-tickets",
+    "source": "festival:pitchfork-london",
+    "tags": [
+      "music",
+      "festival"
+    ],
+    "price": "from £38.32",
+    "description": "Fife-born contemporary folk breakout Jacob Alon (In Limerence) plays the Empire for Pitchfork London. Clashes with Tortoise.",
+    "neighbourhood": "Hackney Central",
+    "cycle_minutes": 12,
+    "added": "2026-09-03"
+  },
+  {
     "id": "the-vernon-spring-a-plane-over-woods-5-year-anniversary-at-s-bc2bb0a9",
     "title": "The Vernon Spring — 'A Plane Over Woods' 5-year anniversary at SJQ (night two)",
     "start": "2026-11-04T19:30:00+00:00",
@@ -7712,6 +7822,25 @@
     "neighbourhood": "Dalston",
     "cycle_minutes": 15,
     "added": "2026-08-16"
+  },
+  {
+    "id": "pitchfork-london-los-thuthanaka-in-the-round-at-earth-hall-b6e9d7ef",
+    "title": "Pitchfork London: Los Thuthanaka (in the round) at EartH Hall",
+    "start": "2026-11-05T18:30:00+00:00",
+    "end": null,
+    "venue": "EartH Hall",
+    "address": "11-17 Stoke Newington Road, N16 8BH",
+    "url": "https://link.dice.fm/cc7491a488fd",
+    "source": "festival:pitchfork-london",
+    "tags": [
+      "music",
+      "festival"
+    ],
+    "price": "from £32.26",
+    "description": "Chuquimamani-Condori and Joshua Chuquimia Crampton's acclaimed Andean-electronic project performed in the round — one of the most talked-about experimental records of recent years.",
+    "neighbourhood": "Dalston",
+    "cycle_minutes": 14,
+    "added": "2026-09-03"
   },
   {
     "id": "joan-as-police-woman-20-years-of-real-life-night-one-a24c96d2",
@@ -7768,6 +7897,24 @@
     "added": "2026-08-16"
   },
   {
+    "id": "siobhan-miller-band-at-kings-place-0c36a78d",
+    "title": "Siobhan Miller Band at Kings Place",
+    "start": "2026-11-05T20:00:00+00:00",
+    "end": "2026-11-05T22:00:00+00:00",
+    "venue": "Kings Place (Hall One)",
+    "address": "90 York Way, London N1 9AG",
+    "url": "https://www.kingsplace.co.uk/whats-on/folk/siobhan-miller-band/",
+    "source": "venue:kings-place",
+    "tags": [
+      "music"
+    ],
+    "price": "£21",
+    "description": "BBC Radio 2 Folk Award-winning Scottish singer in full-band mode. Doors 7.30pm.",
+    "neighbourhood": "King's Cross",
+    "cycle_minutes": 30,
+    "added": "2026-09-03"
+  },
+  {
     "id": "mariam-sings-amadou-mariam-at-earth-e0b29c0c",
     "title": "MARIAM sings AMADOU & MARIAM at EartH",
     "start": "2026-11-06T19:00:00+00:00",
@@ -7820,6 +7967,24 @@
     "neighbourhood": "Islington",
     "cycle_minutes": 20,
     "added": "2026-08-30"
+  },
+  {
+    "id": "dani-larkin-at-kings-place-dc8989ee",
+    "title": "Dani Larkin at Kings Place",
+    "start": "2026-11-07T20:00:00+00:00",
+    "end": null,
+    "venue": "Kings Place (Hall Two)",
+    "address": "90 York Way, London N1 9AG",
+    "url": "https://www.kingsplace.co.uk/whats-on/folk/dani-larkin/",
+    "source": "venue:kings-place",
+    "tags": [
+      "music"
+    ],
+    "price": "£20",
+    "description": "Irish alt-folk singer-songwriter from the Armagh/Monaghan border, in the intimate Hall Two.",
+    "neighbourhood": "King's Cross",
+    "cycle_minutes": 30,
+    "added": "2026-09-03"
   },
   {
     "id": "callis-at-the-shacklewell-arms-9dbd3a48",
@@ -8544,6 +8709,24 @@
     "cycle_minutes": 12
   },
   {
+    "id": "martin-hayes-kate-ellis-at-kings-place-483a4041",
+    "title": "Martin Hayes & Kate Ellis at Kings Place",
+    "start": "2026-11-26T20:00:00+00:00",
+    "end": null,
+    "venue": "Kings Place (Hall One)",
+    "address": "90 York Way, London N1 9AG",
+    "url": "https://www.kingsplace.co.uk/whats-on/folk/martin-hayes-kate-ellis/",
+    "source": "venue:kings-place",
+    "tags": [
+      "music"
+    ],
+    "price": "£28-£40",
+    "description": "Legendary Irish fiddler Martin Hayes (The Gloaming) with cellist Kate Ellis — meditative traditional music of the highest order.",
+    "neighbourhood": "King's Cross",
+    "cycle_minutes": 30,
+    "added": "2026-09-03"
+  },
+  {
     "id": "pyncher-at-the-shacklewell-arms-4dd7a2d1",
     "title": "pyncher at The Shacklewell Arms",
     "start": "2026-11-27T19:00:00+00:00",
@@ -8633,6 +8816,24 @@
     "neighbourhood": "Hackney Central",
     "cycle_minutes": 12,
     "added": "2026-08-30"
+  },
+  {
+    "id": "olivia-chaney-daughters-of-memory-at-kings-place-883f3622",
+    "title": "Olivia Chaney: Daughters of Memory at Kings Place",
+    "start": "2026-11-28T19:30:00+00:00",
+    "end": null,
+    "venue": "Kings Place (Hall One)",
+    "address": "90 York Way, London N1 9AG",
+    "url": "https://www.kingsplace.co.uk/whats-on/contemporary/olivia-chaney-daughters-of-memory/",
+    "source": "venue:kings-place",
+    "tags": [
+      "music"
+    ],
+    "price": "£22-£30",
+    "description": "English folk singer and multi-instrumentalist with violinist Jordan Hunt — songs on artists, muses and memory.",
+    "neighbourhood": "King's Cross",
+    "cycle_minutes": 30,
+    "added": "2026-09-03"
   },
   {
     "id": "la-plan-te-sauvage-screening-with-live-score-by-haha-sounds--55829911",
@@ -8800,6 +9001,25 @@
     "added": "2026-08-23"
   },
   {
+    "id": "mike-joyce-stephen-street-the-queen-is-dead-40th-anniversary-c1b95421",
+    "title": "Mike Joyce & Stephen Street: The Queen Is Dead 40th Anniversary",
+    "start": "2026-12-05T19:30:00+00:00",
+    "end": null,
+    "venue": "Kings Place (Hall One)",
+    "address": "90 York Way, London N1 9AG",
+    "url": "https://www.kingsplace.co.uk/whats-on/words/mike-joyce-stephen-street-the-queen-is-dead-40th-anniversary/",
+    "source": "venue:kings-place",
+    "tags": [
+      "talk",
+      "music"
+    ],
+    "price": "£30",
+    "description": "The Smiths' drummer and producer Stephen Street go track-by-track through The Queen Is Dead with archive video, Q&A and signings.",
+    "neighbourhood": "King's Cross",
+    "cycle_minutes": 30,
+    "added": "2026-09-03"
+  },
+  {
     "id": "festive-gathering-at-cecil-sharp-house-acc8ee1c",
     "title": "Festive Gathering at Cecil Sharp House",
     "start": "2026-12-06T19:00:00+00:00",
@@ -8943,6 +9163,26 @@
     "neighbourhood": "Dalston",
     "cycle_minutes": 12,
     "added": "2026-08-30"
+  },
+  {
+    "id": "nine-lessons-and-carols-for-curious-people-saturday-show-324d5480",
+    "title": "Nine Lessons and Carols for Curious People (Saturday show)",
+    "start": "2026-12-12T19:00:00+00:00",
+    "end": "2026-12-12T22:30:00+00:00",
+    "venue": "Kings Place",
+    "address": "90 York Way, London N1 9AG",
+    "url": "https://www.kingsplace.co.uk/whats-on/nine-lessons-and-carols-for-curious-people/",
+    "source": "venue:kings-place",
+    "tags": [
+      "comedy",
+      "music",
+      "talk"
+    ],
+    "price": null,
+    "description": "Robin Ince's annual science/comedy/music mash-up — 2026 lineup includes Helen Czerski, Anil Seth, Josie Long and Grace Petrie. Also runs Fri 11 and Sun 13 Dec.",
+    "neighbourhood": "King's Cross",
+    "cycle_minutes": 30,
+    "added": "2026-09-03"
   },
   {
     "id": "the-london-barndance-company-december-edition-63b29622",
