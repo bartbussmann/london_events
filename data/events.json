@@ -682,6 +682,24 @@
     "added": "2026-08-28"
   },
   {
+    "id": "my-liberal-pony-baby-maker-catcher-the-rye-free-at-sebright--5ea8ffa7",
+    "title": "My Liberal Pony + Baby Maker + Catcher & The Rye (free) at Sebright Arms",
+    "start": "2026-09-04T19:30:00+01:00",
+    "end": null,
+    "venue": "Sebright Arms",
+    "address": "31-35 Coate Street, E2 9AG",
+    "url": "https://dice.fm/event/6a9830870e6ed30001aaa9bb",
+    "source": "venue:dice-sebright-arms",
+    "tags": [
+      "music"
+    ],
+    "price": "Free",
+    "description": "TONIGHT: free three-band bill in the Sebright basement, walking distance from home.",
+    "neighbourhood": "Bethnal Green",
+    "cycle_minutes": 4,
+    "added": "2026-09-04"
+  },
+  {
     "id": "the-lantern-society-folk-club-night-at-the-betsey-trotwood-527b8d82",
     "title": "The Lantern Society — folk club night at The Betsey Trotwood",
     "start": "2026-09-04T20:00:00+01:00",
@@ -1976,6 +1994,24 @@
     "neighbourhood": "Hackney Central",
     "cycle_minutes": 12,
     "added": "2026-08-07"
+  },
+  {
+    "id": "sundaughter-ulf-julia-balderdasch-free-at-sebright-arms-61667521",
+    "title": "Sundaughter + ULF Julia + Balderdasch (free) at Sebright Arms",
+    "start": "2026-09-10T19:30:00+01:00",
+    "end": null,
+    "venue": "Sebright Arms",
+    "address": "31-35 Coate Street, E2 9AG",
+    "url": "https://dice.fm/event/6a984655afef6b0001e98f01",
+    "source": "venue:dice-sebright-arms",
+    "tags": [
+      "music"
+    ],
+    "price": "Free",
+    "description": "Free three-band Thursday bill in the Sebright basement.",
+    "neighbourhood": "Bethnal Green",
+    "cycle_minutes": 4,
+    "added": "2026-09-04"
   },
   {
     "id": "dance-sound-healing-gong-bath-at-liquid-movement-a18e9a14",
@@ -3312,6 +3348,42 @@
     "added": "2026-09-01"
   },
   {
+    "id": "the-darkness-at-moth-club-ba9a1059",
+    "title": "THE DARKNESS at MOTH Club",
+    "start": "2026-09-17T19:00:00+01:00",
+    "end": null,
+    "venue": "MOTH Club",
+    "address": "Old Trades Hall, Valette Street, E9 6NU",
+    "url": "https://dice.fm/event/6a871097ec18650001a233fa",
+    "source": "venue:dice-moth-club",
+    "tags": [
+      "music"
+    ],
+    "price": "£45.32 (high — arena band in a 200-cap room)",
+    "description": "Newly announced: arena rockers The Darkness play a one-off in a ~200-cap Hackney workingmen's club — a rare intimate chance; will sell out instantly.",
+    "neighbourhood": "Hackney Central",
+    "cycle_minutes": 12,
+    "added": "2026-09-04"
+  },
+  {
+    "id": "soap-at-sebright-arms-ce143ccd",
+    "title": "SOAP at Sebright Arms",
+    "start": "2026-09-17T19:00:00+01:00",
+    "end": null,
+    "venue": "Sebright Arms",
+    "address": "31-35 Coate Street, E2 9AG",
+    "url": "https://dice.fm/event/6a969d60c646ec000127be79",
+    "source": "venue:dice-sebright-arms",
+    "tags": [
+      "music"
+    ],
+    "price": "£5.50",
+    "description": "Cheap Thursday gig in the 120-cap basement — the local alternative to The Darkness that night.",
+    "neighbourhood": "Bethnal Green",
+    "cycle_minutes": 4,
+    "added": "2026-09-04"
+  },
+  {
     "id": "terrible-night-coupdekat-lover1k-blondeting-free-32024b72",
     "title": "terrible* night: Coupdekat + Lover1k + Blondeting (free)",
     "start": "2026-09-17T19:30:00+01:00",
@@ -4296,6 +4368,24 @@
     "neighbourhood": "Primrose Hill",
     "cycle_minutes": 32,
     "added": "2026-08-11"
+  },
+  {
+    "id": "lul-barracuda-kipp-boucher-free-at-sebright-arms-a75d852a",
+    "title": "Lulé Barracuda + Kipp Boucher (free) at Sebright Arms",
+    "start": "2026-09-24T19:30:00+01:00",
+    "end": null,
+    "venue": "Sebright Arms",
+    "address": "31-35 Coate Street, E2 9AG",
+    "url": "https://dice.fm/event/6a96e84f244a0a0001be9565",
+    "source": "venue:dice-sebright-arms",
+    "tags": [
+      "music"
+    ],
+    "price": "Free",
+    "description": "Free Thursday double bill at the Sebright.",
+    "neighbourhood": "Bethnal Green",
+    "cycle_minutes": 4,
+    "added": "2026-09-04"
   },
   {
     "id": "soundhood-east-london-multi-venue-small-gig-festival-25-26-s-e2f12eaa",
@@ -7859,6 +7949,25 @@
     "added": "2026-08-16"
   },
   {
+    "id": "pitchfork-festival-2026-dalston-takeover-multi-venue-wristba-5643f2d5",
+    "title": "Pitchfork Festival 2026: Dalston Takeover (multi-venue wristband)",
+    "start": "2026-11-07T16:30:00+00:00",
+    "end": null,
+    "venue": "EartH + Shacklewell Arms + The Victoria + Cafe OTO + St Matthias Church",
+    "address": "Multiple venues, Dalston N16/E8",
+    "url": "https://dice.fm/event/6dkkxq",
+    "source": "festival:pitchfork-london",
+    "tags": [
+      "music",
+      "festival"
+    ],
+    "price": "£47.33 (high but under cap)",
+    "description": "One wristband, five Dalston venues, Saturday from 4.30pm: Psychedelic Porn Crumpets, Working Men's Club, Mandy Indiana, Maria BC, Midwife and ~20 more.",
+    "neighbourhood": "Dalston",
+    "cycle_minutes": 13,
+    "added": "2026-09-04"
+  },
+  {
     "id": "live-at-the-chapel-with-chris-mccausland-b7fcd1fa",
     "title": "Live At The Chapel with Chris McCausland",
     "start": "2026-11-07T19:45:00+00:00",
@@ -8041,6 +8150,24 @@
     "added": "2026-08-30"
   },
   {
+    "id": "ranagri-say-hello-tour-at-kings-place-6eb7ca63",
+    "title": "Ranagri — Say Hello Tour at Kings Place",
+    "start": "2026-11-12T20:00:00+00:00",
+    "end": null,
+    "venue": "Kings Place (Hall Two)",
+    "address": "90 York Way, London N1 9AG",
+    "url": "https://www.kingsplace.co.uk/whats-on/folk/ranagri/",
+    "source": "venue:kings-place",
+    "tags": [
+      "music"
+    ],
+    "price": "£20",
+    "description": "Award-winning Anglo-Irish indie-folk quartet (guitar, flutes, harp, drums) tour their new album of cinematic folk.",
+    "neighbourhood": "King's Cross",
+    "cycle_minutes": 30,
+    "added": "2026-09-04"
+  },
+  {
     "id": "emma-jean-thackray-dear-miles-a-love-letter-at-earth-15953bc0",
     "title": "Emma-Jean Thackray: Dear Miles — A Love Letter at EartH",
     "start": "2026-11-13T19:30:00+00:00",
@@ -8129,6 +8256,43 @@
     "neighbourhood": "Dalston",
     "cycle_minutes": 14,
     "added": "2026-08-21"
+  },
+  {
+    "id": "elephant-sessions-at-islington-assembly-hall-41ccc7d6",
+    "title": "Elephant Sessions at Islington Assembly Hall",
+    "start": "2026-11-14T19:00:00+00:00",
+    "end": null,
+    "venue": "Islington Assembly Hall",
+    "address": "Upper Street, N1 2UD",
+    "url": "https://islingtonassemblyhall.co.uk/events/elephant-sessions-14th-nov-islington-assembly-hall-london-tickets/",
+    "source": "venue:islington-assembly-hall",
+    "tags": [
+      "music",
+      "dance"
+    ],
+    "price": "£33.54",
+    "description": "Multi award-winning electronic folk band from the Scottish Highlands — fiddle and mandolin over a heavy backline. Clashes with Blazin' Fiddles.",
+    "neighbourhood": "Angel",
+    "cycle_minutes": 20,
+    "added": "2026-09-04"
+  },
+  {
+    "id": "blazin-fiddles-at-kings-place-488b26ff",
+    "title": "Blazin' Fiddles at Kings Place",
+    "start": "2026-11-14T20:00:00+00:00",
+    "end": null,
+    "venue": "Kings Place (Hall One)",
+    "address": "90 York Way, London N1 9AG",
+    "url": "https://www.kingsplace.co.uk/whats-on/folk/blazin-fiddles-6/",
+    "source": "venue:kings-place",
+    "tags": [
+      "music"
+    ],
+    "price": "£26",
+    "description": "Scotland's Folk Band of the Year 2025 champion the country's regional fiddle styles. Same night as Elephant Sessions at Islington Assembly Hall — pick one.",
+    "neighbourhood": "King's Cross",
+    "cycle_minutes": 30,
+    "added": "2026-09-04"
   },
   {
     "id": "joyce-moreno-at-earth-ca6c7995",
@@ -8312,6 +8476,24 @@
     "added": "2026-08-21"
   },
   {
+    "id": "soot-sprite-at-the-victoria-cf1fec6f",
+    "title": "Soot Sprite at The Victoria",
+    "start": "2026-11-19T19:00:00+00:00",
+    "end": null,
+    "venue": "The Victoria",
+    "address": "451 Queensbridge Road, E8 3AS",
+    "url": "https://dice.fm/event/6a96a7c5897a46000158aa58",
+    "source": "venue:dice-the-victoria",
+    "tags": [
+      "music"
+    ],
+    "price": "£13.50",
+    "description": "Exeter dream-punk/emo trio in the Victoria's back room. Clashes with Good Habits at Paper Dress.",
+    "neighbourhood": "Dalston",
+    "cycle_minutes": 12,
+    "added": "2026-09-04"
+  },
+  {
     "id": "sarah-julia-at-moth-club-e508f64a",
     "title": "Sarah Julia at MOTH Club",
     "start": "2026-11-19T19:30:00+00:00",
@@ -8328,6 +8510,24 @@
     "neighbourhood": "Hackney Central",
     "cycle_minutes": 12,
     "added": "2026-08-21"
+  },
+  {
+    "id": "good-habits-special-guests-at-paper-dress-vintage-ef5a24d1",
+    "title": "Good Habits + special guests at Paper Dress Vintage",
+    "start": "2026-11-19T19:30:00+00:00",
+    "end": null,
+    "venue": "Paper Dress Vintage",
+    "address": "352a Mare Street, E8 1HR",
+    "url": "https://dice.fm/event/6a995a83cf6a1d0001762b71",
+    "source": "venue:dice-paper-dress-vintage",
+    "tags": [
+      "music"
+    ],
+    "price": "£13.60+",
+    "description": "Cello-and-accordion folk duo Good Habits headline the upstairs room. Clashes with Soot Sprite at The Victoria and the LJF Córas Trio.",
+    "neighbourhood": "Hackney Central",
+    "cycle_minutes": 12,
+    "added": "2026-09-04"
   },
   {
     "id": "c-ras-trio-at-vortex-jazz-club-efg-ljf-49e64c5e",
@@ -8545,6 +8745,25 @@
     "cycle_minutes": 15
   },
   {
+    "id": "ibibio-sound-machine-at-islington-assembly-hall-6b134004",
+    "title": "Ibibio Sound Machine at Islington Assembly Hall",
+    "start": "2026-11-25T19:00:00+00:00",
+    "end": null,
+    "venue": "Islington Assembly Hall",
+    "address": "Upper Street, N1 2UD",
+    "url": "https://islingtonassemblyhall.co.uk/events/ibibio-sound-machine-25th-nov-islington-assembly-hall-london-tickets/",
+    "source": "venue:islington-assembly-hall",
+    "tags": [
+      "music",
+      "dance"
+    ],
+    "price": "£32.39",
+    "description": "London's Afro-electro-funk powerhouse fronted by Eno Williams — one of the most danceable live bands in the country.",
+    "neighbourhood": "Angel",
+    "cycle_minutes": 20,
+    "added": "2026-09-04"
+  },
+  {
     "id": "little-quirks-at-the-victoria-c60adcb8",
     "title": "Little Quirks at The Victoria",
     "start": "2026-11-25T19:30:00+00:00",
@@ -8689,6 +8908,24 @@
     "added": "2026-08-23"
   },
   {
+    "id": "janice-burns-jon-doran-at-kings-place-d00b7488",
+    "title": "Janice Burns & Jon Doran at Kings Place",
+    "start": "2026-11-27T20:00:00+00:00",
+    "end": null,
+    "venue": "Kings Place (Hall Two)",
+    "address": "90 York Way, London N1 9AG",
+    "url": "https://www.kingsplace.co.uk/whats-on/folk/janice-burns-jon-doran/",
+    "source": "venue:kings-place",
+    "tags": [
+      "music"
+    ],
+    "price": "£15.50",
+    "description": "Anglo-Scottish folk duo known for close vocal harmonies and mandolin/bouzouki arrangements of traditional song.",
+    "neighbourhood": "King's Cross",
+    "cycle_minutes": 30,
+    "added": "2026-09-04"
+  },
+  {
     "id": "dead-poets-live-at-wilton-s-music-hall-f2710af5",
     "title": "Dead Poets Live at Wilton's Music Hall",
     "start": "2026-11-28T19:00:00+00:00",
@@ -8800,6 +9037,24 @@
     "added": "2026-08-30"
   },
   {
+    "id": "benny-sings-at-islington-assembly-hall-d6e3bf1c",
+    "title": "Benny Sings at Islington Assembly Hall",
+    "start": "2026-12-01T19:00:00+00:00",
+    "end": null,
+    "venue": "Islington Assembly Hall",
+    "address": "Upper Street, N1 2UD",
+    "url": "https://islingtonassemblyhall.co.uk/events/benny-sings-1st-dec-islington-assembly-hall-london-tickets/",
+    "source": "venue:islington-assembly-hall",
+    "tags": [
+      "music"
+    ],
+    "price": "£27.78",
+    "description": "Dutch soft-pop/indie-soul songwriter (Rex Orange County, Mac DeMarco collaborator) in the art-deco hall. Same night as David J at MOTH.",
+    "neighbourhood": "Angel",
+    "cycle_minutes": 20,
+    "added": "2026-09-04"
+  },
+  {
     "id": "trad-night-andy-turner-at-cecil-sharp-house-1a0fd5ec",
     "title": "Trad Night: Andy Turner at Cecil Sharp House",
     "start": "2026-12-02T19:30:00+00:00",
@@ -8834,6 +9089,24 @@
     "neighbourhood": "Dalston",
     "cycle_minutes": 12,
     "added": "2026-08-30"
+  },
+  {
+    "id": "the-men-they-couldn-t-hang-at-islington-assembly-hall-f9467cde",
+    "title": "The Men They Couldn't Hang at Islington Assembly Hall",
+    "start": "2026-12-03T19:00:00+00:00",
+    "end": null,
+    "venue": "Islington Assembly Hall",
+    "address": "Upper Street, N1 2UD",
+    "url": "https://islingtonassemblyhall.co.uk/events/the-men-they-couldnt-hang-3rd-dec-islington-assembly-hall-london-tickets/",
+    "source": "venue:islington-assembly-hall",
+    "tags": [
+      "music"
+    ],
+    "price": "£34.11",
+    "description": "Veteran London folk-punk band, formed 1984 out of the Shepherd's Bush busking scene, play a full-band winter show.",
+    "neighbourhood": "Angel",
+    "cycle_minutes": 20,
+    "added": "2026-09-04"
   },
   {
     "id": "elanor-moss-at-cecil-sharp-house-48a624ae",
@@ -8871,6 +9144,24 @@
     "neighbourhood": "Islington",
     "cycle_minutes": 20,
     "added": "2026-08-23"
+  },
+  {
+    "id": "the-veils-at-islington-assembly-hall-da240950",
+    "title": "The Veils at Islington Assembly Hall",
+    "start": "2026-12-04T19:00:00+00:00",
+    "end": null,
+    "venue": "Islington Assembly Hall",
+    "address": "Upper Street, N1 2UD",
+    "url": "https://islingtonassemblyhall.co.uk/events/the-veils-4th-dec-islington-assembly-hall-london-tickets/",
+    "source": "venue:islington-assembly-hall",
+    "tags": [
+      "music"
+    ],
+    "price": "£27.78",
+    "description": "Finn Andrews' long-running Rough Trade-signed indie-rock band play a Friday night show. Same night as Makthaverskan at MOTH.",
+    "neighbourhood": "Angel",
+    "cycle_minutes": 20,
+    "added": "2026-09-04"
   },
   {
     "id": "makthaverskan-at-moth-club-d6cd4c61",
@@ -8926,6 +9217,24 @@
     "neighbourhood": "King's Cross",
     "cycle_minutes": 30,
     "added": "2026-09-03"
+  },
+  {
+    "id": "steve-knightley-the-winter-yards-band-at-kings-place-bdbcc1df",
+    "title": "Steve Knightley & The Winter Yards Band at Kings Place",
+    "start": "2026-12-05T20:00:00+00:00",
+    "end": null,
+    "venue": "Kings Place (Hall Two)",
+    "address": "90 York Way, London N1 9AG",
+    "url": "https://www.kingsplace.co.uk/whats-on/folk/steve-knightley-the-winter-yards-band/",
+    "source": "venue:kings-place",
+    "tags": [
+      "music"
+    ],
+    "price": "£32",
+    "description": "Show of Hands frontman brings his new band project for a full-band folk night. Same night as the Queen Is Dead talk upstairs.",
+    "neighbourhood": "King's Cross",
+    "cycle_minutes": 30,
+    "added": "2026-09-04"
   },
   {
     "id": "festive-gathering-at-cecil-sharp-house-acc8ee1c",
@@ -9165,6 +9474,24 @@
     "neighbourhood": "Primrose Hill",
     "cycle_minutes": 32,
     "added": "2026-08-29"
+  },
+  {
+    "id": "lindisfarne-at-kings-place-6d0ad4c2",
+    "title": "Lindisfarne at Kings Place",
+    "start": "2026-12-17T20:00:00+00:00",
+    "end": null,
+    "venue": "Kings Place (Hall One)",
+    "address": "90 York Way, London N1 9AG",
+    "url": "https://www.kingsplace.co.uk/whats-on/folk/lindisfarne/",
+    "source": "venue:kings-place",
+    "tags": [
+      "music"
+    ],
+    "price": "£31-£37",
+    "description": "The Tyneside folk-rock institution (Meet Me on the Corner, Fog on the Tyne) play a pre-Christmas show.",
+    "neighbourhood": "King's Cross",
+    "cycle_minutes": 30,
+    "added": "2026-09-04"
   },
   {
     "id": "cara-dillon-upon-a-winter-s-night-at-union-chapel-f8de19b4",
