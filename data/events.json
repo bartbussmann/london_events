@@ -2742,6 +2742,24 @@
     "added": "2026-09-01"
   },
   {
+    "id": "psychedelic-speed-dating-at-the-sanctuary-soul-15-sep-editio-853fe9a9",
+    "title": "Psychedelic Speed-Dating at The Sanctuary &Soul (15 Sep edition)",
+    "start": "2026-09-15T18:30:00+01:00",
+    "end": "2026-09-15T22:00:00+01:00",
+    "venue": "The Sanctuary &Soul",
+    "address": "114 Cheshire Street, E2 6EJ",
+    "url": "https://dandelion.events/e/h9piz",
+    "source": "aggregator:dandelion",
+    "tags": [
+      "community"
+    ],
+    "price": "£16-£24",
+    "description": "Next edition of the 36-Questions-style speed dating for the psychedelics-and-consciousness crowd, five minutes from home. This edition's page doesn't state an age bracket — check before booking.",
+    "neighbourhood": "Bethnal Green",
+    "cycle_minutes": 4,
+    "added": "2026-09-05"
+  },
+  {
     "title": "Roxanne de Bastion at Sebright Arms",
     "start": "2026-09-15T19:30:00+01:00",
     "end": null,
@@ -4333,6 +4351,44 @@
     "added": "2026-08-29"
   },
   {
+    "id": "some-like-it-swing-monthly-swing-night-at-genesis-september--763bd06d",
+    "title": "Some Like it Swing — monthly swing night at Genesis (September edition)",
+    "start": "2026-09-25T19:30:00+01:00",
+    "end": null,
+    "venue": "Genesis Cinema",
+    "address": "93-95 Mile End Road, E1 4UJ",
+    "url": "https://www.genesiscinema.co.uk/event/92488",
+    "source": "venue:genesis-cinema",
+    "tags": [
+      "dance",
+      "community"
+    ],
+    "price": null,
+    "description": "Beginners Lindy Hop class 7:30-8:30pm then social dancing to 30s-50s DJs until late. A crowded Friday: Bishopsgate Ballroom and the 5Rhythms opener clash.",
+    "neighbourhood": "Mile End",
+    "cycle_minutes": 7,
+    "added": "2026-09-05"
+  },
+  {
+    "id": "bishopsgate-ballroom-social-ballroom-latin-night-e41b0127",
+    "title": "Bishopsgate Ballroom — social ballroom & Latin night",
+    "start": "2026-09-25T19:30:00+01:00",
+    "end": "2026-09-25T22:30:00+01:00",
+    "venue": "Bishopsgate Institute",
+    "address": "230 Bishopsgate, EC2M 4QH",
+    "url": "https://www.bishopsgate.org.uk/whats-on/activity/260424-bishopsgate-ballroom-2",
+    "source": "venue:bishopsgate-institute",
+    "tags": [
+      "dance",
+      "community"
+    ],
+    "price": "£14/£12 adv, £16 door",
+    "description": "13th year of the social ballroom night, with dance hosts who lead or follow so solo dancers always get dances.",
+    "neighbourhood": "Liverpool Street",
+    "cycle_minutes": 8,
+    "added": "2026-09-05"
+  },
+  {
     "id": "cacao-dance-tribe-friday-night-dance-cacao-354d394a",
     "title": "Cacao Dance Tribe: Friday Night Dance & Cacao",
     "start": "2026-09-25T19:45:00+01:00",
@@ -4871,6 +4927,24 @@
     "neighbourhood": "King's Cross",
     "cycle_minutes": 30,
     "added": "2026-08-18"
+  },
+  {
+    "id": "love-psyche-delics-how-psychedelic-experiences-impact-romant-c9f69eda",
+    "title": "Love & Psyche(delics): how psychedelic experiences impact romantic relationships",
+    "start": "2026-09-28T18:30:00+01:00",
+    "end": "2026-09-28T21:30:00+01:00",
+    "venue": "Home House Studio",
+    "address": "44 Great Cumberland Place, W1H 7BS",
+    "url": "https://dandelion.events/e/p2dkb",
+    "source": "aggregator:dandelion",
+    "tags": [
+      "talk"
+    ],
+    "price": "£20-£30",
+    "description": "Talk by Tommaso Barba, psychedelic neuroscientist at Imperial, on what psychedelic experiences do to intimacy, attraction and attachment. Marylebone — Central line easier than the ~40 min ride.",
+    "neighbourhood": "Marylebone",
+    "cycle_minutes": 40,
+    "added": "2026-09-05"
   },
   {
     "id": "k-music-festival-adg7-chang-kiha-lil-cherry-goldbuuda-775f75b6",
@@ -5518,6 +5592,25 @@
     "added": "2026-08-12"
   },
   {
+    "id": "aerial-relaxation-pods-gong-bath-in-hammocks-6-oct-c52710f4",
+    "title": "Aerial Relaxation Pods — gong bath in hammocks (6 Oct)",
+    "start": "2026-10-06T19:00:00+01:00",
+    "end": null,
+    "venue": "The Skylight Centre",
+    "address": "49 Corsica Street, N5 1JT",
+    "url": "https://ecstaticdancelondon.com/event/aerial-relaxation-pods-sound-journey-gong-bath-meditation-in-hammocks-37-2024-10-03-2025-09-09-2026-01-06-2026-09-15/2026-10-06/",
+    "source": "venue:ecstatic-dance-london",
+    "tags": [
+      "workshop",
+      "community"
+    ],
+    "price": null,
+    "description": "Sound-journey gong bath floating in aerial hammocks. Also runs 8/13/15/20 Oct at 7pm.",
+    "neighbourhood": "Highbury",
+    "cycle_minutes": 20,
+    "added": "2026-09-05"
+  },
+  {
     "id": "gresham-college-what-do-you-need-a-mathematician-for-free-7b02e911",
     "title": "Gresham College: What Do You Need a Mathematician For? (free)",
     "start": "2026-10-07T18:00:00+01:00",
@@ -5666,6 +5759,25 @@
     "added": "2026-08-25"
   },
   {
+    "id": "genesis-poetry-slam-october-edition-f0c5c426",
+    "title": "Genesis Poetry Slam — October edition",
+    "start": "2026-10-08T19:30:00+01:00",
+    "end": null,
+    "venue": "Genesis Cinema",
+    "address": "93-95 Mile End Road, E1 4UJ",
+    "url": "https://www.genesiscinema.co.uk/event/92613",
+    "source": "venue:genesis-cinema",
+    "tags": [
+      "talk",
+      "community"
+    ],
+    "price": null,
+    "description": "London's only three-round poetry slam — October poets compete for a place in the December Grand Final. Doors 6:45pm. Note: 8 Oct, not the usual first Thursday.",
+    "neighbourhood": "Mile End",
+    "cycle_minutes": 7,
+    "added": "2026-09-05"
+  },
+  {
     "id": "hajda-banda-at-kings-place-decb93ed",
     "title": "Hajda Banda at Kings Place",
     "start": "2026-10-08T20:00:00+01:00",
@@ -5723,6 +5835,25 @@
     "added": "2026-08-12"
   },
   {
+    "id": "swing-den-autumn-season-opener-at-bishopsgate-e93f5623",
+    "title": "Swing Den — autumn season opener at Bishopsgate",
+    "start": "2026-10-09T19:00:00+01:00",
+    "end": "2026-10-09T23:00:00+01:00",
+    "venue": "Bishopsgate Institute",
+    "address": "230 Bishopsgate, EC2M 4QH",
+    "url": "https://www.bishopsgate.org.uk/whats-on/activity/swing-den-13",
+    "source": "venue:bishopsgate-institute",
+    "tags": [
+      "dance",
+      "community"
+    ],
+    "price": "£12/£9 adv, £15 door",
+    "description": "First night of the new monthly Swing Den season (runs to Mar 2027) — swing social with licensed bar. Clashes with Cacao Dance Tribe.",
+    "neighbourhood": "Liverpool Street",
+    "cycle_minutes": 8,
+    "added": "2026-09-05"
+  },
+  {
     "id": "simon-amstell-i-love-it-here-at-hackney-empire-cf08ebe8",
     "title": "Simon Amstell: I Love It Here at Hackney Empire",
     "start": "2026-10-09T19:30:00+01:00",
@@ -5758,6 +5889,24 @@
     "neighbourhood": "Shoreditch",
     "cycle_minutes": 8,
     "added": "2026-08-25"
+  },
+  {
+    "id": "cacao-dance-tribe-friday-ecstatic-dance-cacao-9-oct-1350b211",
+    "title": "Cacao Dance Tribe: Friday Ecstatic Dance & Cacao (9 Oct)",
+    "start": "2026-10-09T19:45:00+01:00",
+    "end": null,
+    "venue": "Ecstatic Dance London venue, Tufnell Park",
+    "address": "Burghley Road, NW5 1UJ (address on booking)",
+    "url": "https://ecstaticdancelondon.com/event/ecstatic-dance-london-cacao-dance-tribe-friday-night-dance-cacao-2026-03-06-2026-03-20-2026-09-25/2026-10-09/",
+    "source": "venue:ecstatic-dance-london",
+    "tags": [
+      "dance"
+    ],
+    "price": null,
+    "description": "Friday-night dance journey with cacao ceremony — sober, barefoot. Same night as Swing Den's season opener at Bishopsgate: pick one.",
+    "neighbourhood": "Tufnell Park",
+    "cycle_minutes": 30,
+    "added": "2026-09-05"
   },
   {
     "id": "lff-rogue-trooper-duncan-jones-2000-ad-adaptation-08aec429",
@@ -5981,6 +6130,24 @@
     "neighbourhood": "Islington",
     "cycle_minutes": 20,
     "added": "2026-08-16"
+  },
+  {
+    "id": "ecstatic-saturdays-sober-rave-10-oct-3678fc81",
+    "title": "Ecstatic Saturdays: Sober Rave (10 Oct)",
+    "start": "2026-10-10T19:00:00+01:00",
+    "end": null,
+    "venue": "Ecstatic Dance London venue, Tufnell Park",
+    "address": "Burghley Road, NW5 1UJ (address on booking)",
+    "url": "https://ecstaticdancelondon.com/event/ecstatic-saturdays-ecstatic-dance-cacao-ceremony-in-north-london-2-2023-12-16-2025-09-06-2026-01-03-2026-09-26/2026-10-10/",
+    "source": "venue:ecstatic-dance-london",
+    "tags": [
+      "dance"
+    ],
+    "price": null,
+    "description": "Saturday-night sober rave with ecstatic dance and cacao ceremony in North London.",
+    "neighbourhood": "Tufnell Park",
+    "cycle_minutes": 30,
+    "added": "2026-09-05"
   },
   {
     "id": "the-london-barndance-company-october-edition-e8916725",
@@ -6443,6 +6610,24 @@
     "added": "2026-08-26"
   },
   {
+    "id": "cacao-dance-tribe-friday-ecstatic-dance-cacao-16-oct-545a6cac",
+    "title": "Cacao Dance Tribe: Friday Ecstatic Dance & Cacao (16 Oct)",
+    "start": "2026-10-16T19:45:00+01:00",
+    "end": null,
+    "venue": "Ecstatic Dance London venue, Tufnell Park",
+    "address": "Burghley Road, NW5 1UJ (address on booking)",
+    "url": "https://ecstaticdancelondon.com/event/ecstatic-dance-london-cacao-dance-tribe-friday-night-dance-cacao-2026-03-06-2026-03-20-2026-09-25/2026-10-16/",
+    "source": "venue:ecstatic-dance-london",
+    "tags": [
+      "dance"
+    ],
+    "price": null,
+    "description": "Friday-night ecstatic dance with cacao ceremony, sober and barefoot.",
+    "neighbourhood": "Tufnell Park",
+    "cycle_minutes": 30,
+    "added": "2026-09-05"
+  },
+  {
     "id": "knees-up-cecil-sharp-ceilidh-october-edition-55ed3d8a",
     "title": "Knees Up Cecil Sharp Ceilidh (October edition)",
     "start": "2026-10-16T20:00:00+01:00",
@@ -6554,6 +6739,43 @@
     "neighbourhood": "Mayfair",
     "cycle_minutes": 35,
     "added": "2026-08-11"
+  },
+  {
+    "id": "ecstatic-saturdays-sober-rave-17-oct-ed7a58a4",
+    "title": "Ecstatic Saturdays: Sober Rave (17 Oct)",
+    "start": "2026-10-17T19:00:00+01:00",
+    "end": null,
+    "venue": "Ecstatic Dance London venue, Tufnell Park",
+    "address": "Burghley Road, NW5 1UJ (address on booking)",
+    "url": "https://ecstaticdancelondon.com/event/ecstatic-saturdays-ecstatic-dance-cacao-ceremony-in-north-london-2-2023-12-16-2025-09-06-2026-01-03-2026-09-26/2026-10-17/",
+    "source": "venue:ecstatic-dance-london",
+    "tags": [
+      "dance"
+    ],
+    "price": null,
+    "description": "Saturday-night sober rave with cacao — a possible closer after EmboDAYfest that same day; also clashes with the Swing Live Performance Ball.",
+    "neighbourhood": "Tufnell Park",
+    "cycle_minutes": 30,
+    "added": "2026-09-05"
+  },
+  {
+    "id": "swing-live-performance-ball-at-bishopsgate-96dcb2e8",
+    "title": "Swing Live! Performance Ball at Bishopsgate",
+    "start": "2026-10-17T19:00:00+01:00",
+    "end": "2026-10-18T01:00:00+01:00",
+    "venue": "Bishopsgate Institute",
+    "address": "230 Bishopsgate, EC2M 4QH",
+    "url": "https://www.bishopsgate.org.uk/whats-on/activity/swing-live-performance-ball",
+    "source": "venue:bishopsgate-institute",
+    "tags": [
+      "dance",
+      "music"
+    ],
+    "price": "£25/£22 adv",
+    "description": "Big swing ball in the Great Hall running to 1am with performances and social dancing. A three-way 17 Oct clash with EmboDAYfest and Ecstatic Saturdays.",
+    "neighbourhood": "Liverpool Street",
+    "cycle_minutes": 8,
+    "added": "2026-09-05"
   },
   {
     "id": "veps-at-the-old-blue-last-3afdf680",
@@ -6834,6 +7056,25 @@
     "added": "2026-08-15"
   },
   {
+    "id": "extended-floating-sound-journey-gong-bath-22-oct-254766ff",
+    "title": "Extended Floating Sound Journey Gong Bath (22 Oct)",
+    "start": "2026-10-22T19:15:00+01:00",
+    "end": "2026-10-22T21:00:00+01:00",
+    "venue": "The Skylight Centre",
+    "address": "49 Corsica Street, N5 1JT",
+    "url": "https://ecstaticdancelondon.com/event/floating-sound-journey-gong-bath-meditation-in-hammocks-new-2h-sessions-2025-09-23-2026-01-22/2026-10-22/",
+    "source": "venue:ecstatic-dance-london",
+    "tags": [
+      "workshop",
+      "community"
+    ],
+    "price": null,
+    "description": "Extended 1h45 floating gong bath — October edition of the 24 Sep session.",
+    "neighbourhood": "Highbury",
+    "cycle_minutes": 20,
+    "added": "2026-09-05"
+  },
+  {
     "id": "brown-horse-at-moth-club-05aae99c",
     "title": "Brown Horse at MOTH Club",
     "start": "2026-10-22T19:30:00+01:00",
@@ -6959,6 +7200,24 @@
     "neighbourhood": "Angel",
     "cycle_minutes": 20,
     "added": "2026-08-17"
+  },
+  {
+    "id": "cacao-dance-tribe-friday-ecstatic-dance-cacao-23-oct-b5e62a71",
+    "title": "Cacao Dance Tribe: Friday Ecstatic Dance & Cacao (23 Oct)",
+    "start": "2026-10-23T19:45:00+01:00",
+    "end": null,
+    "venue": "Ecstatic Dance London venue, Tufnell Park",
+    "address": "Burghley Road, NW5 1UJ (address on booking)",
+    "url": "https://ecstaticdancelondon.com/event/ecstatic-dance-london-cacao-dance-tribe-friday-night-dance-cacao-2026-03-06-2026-03-20-2026-09-25/2026-10-23/",
+    "source": "venue:ecstatic-dance-london",
+    "tags": [
+      "dance"
+    ],
+    "price": null,
+    "description": "Friday-night ecstatic dance with cacao ceremony, sober and barefoot.",
+    "neighbourhood": "Tufnell Park",
+    "cycle_minutes": 30,
+    "added": "2026-09-05"
   },
   {
     "id": "drum-tower-gloop-unit-dogs-of-at-the-shacklewell-arms-e1722b06",
@@ -7091,6 +7350,24 @@
     "neighbourhood": "Mayfair",
     "cycle_minutes": 35,
     "added": "2026-08-10"
+  },
+  {
+    "id": "ecstatic-saturdays-sober-rave-24-oct-87ea5ea1",
+    "title": "Ecstatic Saturdays: Sober Rave (24 Oct)",
+    "start": "2026-10-24T19:00:00+01:00",
+    "end": null,
+    "venue": "Ecstatic Dance London venue, Tufnell Park",
+    "address": "Burghley Road, NW5 1UJ (address on booking)",
+    "url": "https://ecstaticdancelondon.com/event/ecstatic-saturdays-ecstatic-dance-cacao-ceremony-in-north-london-2-2023-12-16-2025-09-06-2026-01-03-2026-09-26/2026-10-24/",
+    "source": "venue:ecstatic-dance-london",
+    "tags": [
+      "dance"
+    ],
+    "price": null,
+    "description": "Saturday-night sober rave with ecstatic dance and cacao ceremony.",
+    "neighbourhood": "Tufnell Park",
+    "cycle_minutes": 30,
+    "added": "2026-09-05"
   },
   {
     "id": "henning-wehn-acid-wehn-at-hackney-empire-dc120bc8",
