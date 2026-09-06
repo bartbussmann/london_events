@@ -656,6 +656,30 @@ URL:https://www.eventbrite.co.uk/e/luke-harding-and-alastair-campbell-trum
 LOCATION:Kings Place\, 90 York Way\, N1 9AG
 END:VEVENT
 BEGIN:VEVENT
+UID:white-denim-at-moth-club-165155d3@london-events
+DTSTAMP:20260907T183000Z
+DTSTART:20260907T183000Z
+DTEND:20260907T220000Z
+SUMMARY:White Denim at MOTH Club
+DESCRIPTION:Austin garage-rock/psych veterans play a rare MOTH Club reside
+ ncy — this Monday night still on sale (8 and 10 Sep nights also availab
+ le).\nPrice: £35.75\nhttps://dice.fm/event/69c5083779178b00015048a2
+URL:https://dice.fm/event/69c5083779178b00015048a2
+LOCATION:MOTH Club\, Old Trades Hall\, Valette Street\, London E9 6NU
+END:VEVENT
+BEGIN:VEVENT
+UID:sebright-quiz-night-bb934aff@london-events
+DTSTAMP:20260907T190000Z
+DTSTART:20260907T190000Z
+DTEND:20260907T210000Z
+SUMMARY:Sebright Quiz Night
+DESCRIPTION:Weekly Monday pub quiz at the Sebright Arms — cheap\, sociab
+ le\, four minutes from home. Runs most Mondays (also 21 Sep\, 28 Sep\, 5 
+ Oct...).\nPrice: £2.00\nhttps://dice.fm/event/6a88b8e16c926600016198a2
+URL:https://dice.fm/event/6a88b8e16c926600016198a2
+LOCATION:Sebright Arms\, 31-35 Coate St\, London E2 9AG
+END:VEVENT
+BEGIN:VEVENT
 UID:bright-phoebus-revisited-lal-mike-waterson-tribute-d5356564@london-eve
  nts
 DTSTAMP:20260908T173000Z
@@ -1228,6 +1252,18 @@ DESCRIPTION:Virtuoso fingerstyle acoustic guitarist Mike Dawes — one-man
  ps://unionchapel.org.uk/whats-on/mike-dawes
 URL:https://unionchapel.org.uk/whats-on/mike-dawes
 LOCATION:Union Chapel\, 19b Compton Terrace\, Islington\, N1 2UN
+END:VEVENT
+BEGIN:VEVENT
+UID:maya-ongaku-sophia-hansen-knarhoi-at-moth-club-82570023@london-events
+DTSTAMP:20260911T180000Z
+DTSTART:20260911T180000Z
+DTEND:20260911T210000Z
+SUMMARY:maya ongaku + Sophia Hansen-Knarhoi at MOTH Club
+DESCRIPTION:Japanese ambient-psych-folk trio maya ongaku (Guruguru Brain l
+ abel) in the glittery MOTH ballroom — intimate\, exploratory.\nPrice: 
+ £18.70\nhttps://dice.fm/event/6a01fbc21d966f0001d83ad5
+URL:https://dice.fm/event/6a01fbc21d966f0001d83ad5
+LOCATION:MOTH Club\, Old Trades Hall\, Valette Street\, London E9 6NU
 END:VEVENT
 BEGIN:VEVENT
 UID:the-turn-of-the-screw-at-arcola-theatre-4d82cf7d@london-events
@@ -1989,6 +2025,18 @@ URL:https://www.thursday.com/events/london/ccd0f467-511a-4952-bb66-9cd34bc
 LOCATION:The Little Violet Door\, 9 Kingly St\, Carnaby\, W1B 5PH
 END:VEVENT
 BEGIN:VEVENT
+UID:baby-smith-at-sebright-arms-60c7df3d@london-events
+DTSTAMP:20260916T180000Z
+DTSTART:20260916T180000Z
+DTEND:20260916T220000Z
+SUMMARY:Baby Smith at Sebright Arms
+DESCRIPTION:Rising indie songwriter in the Sebright's basement room — sm
+ all-capacity gig round the corner.\nPrice: £14.30\nhttps://dice.fm/event
+ /69ccffb6e27d7e00019736a1
+URL:https://dice.fm/event/69ccffb6e27d7e00019736a1
+LOCATION:Sebright Arms\, 31-35 Coate St\, London E2 9AG
+END:VEVENT
+BEGIN:VEVENT
 UID:laura-veirs-at-earth-3b9dba85@london-events
 DTSTAMP:20260916T183000Z
 DTSTART:20260916T183000Z
@@ -2343,6 +2391,18 @@ URL:https://www.angelcomedy.co.uk/whats-on/
 LOCATION:The Camden Head\, 2 Camden Walk\, Islington\, N1 8DY
 END:VEVENT
 BEGIN:VEVENT
+UID:glyders-at-moth-club-ce06eb41@london-events
+DTSTAMP:20260918T183000Z
+DTSTART:20260918T183000Z
+DTEND:20260918T213000Z
+SUMMARY:Glyders at MOTH Club
+DESCRIPTION:Chicago boogie-rock duo Glyders (Drag City) — loose\, twangy
+  psych on a Friday night.\nPrice: £20.40\nhttps://dice.fm/event/6a042be6
+ 9a25800001339099
+URL:https://dice.fm/event/6a042be69a25800001339099
+LOCATION:MOTH Club\, Old Trades Hall\, Valette Street\, London E9 6NU
+END:VEVENT
+BEGIN:VEVENT
 UID:knees-up-cecil-sharp-ceilidh-autumn-opener-4fe28dea@london-events
 DTSTAMP:20260918T190000Z
 DTSTART:20260918T190000Z
@@ -2629,6 +2689,31 @@ DESCRIPTION:Free Sunday triple bill upstairs at the Old Blue Last\; Neumat
 URL:https://dice.fm/event/8e9mg5-neumatic-parlo-enabling-behaviour-houndsh
  ark-20th-sep-the-old-blue-last-london-tickets
 LOCATION:The Old Blue Last\, 38 Great Eastern St\, EC2A 3ES
+END:VEVENT
+BEGIN:VEVENT
+UID:gyasi-at-the-shacklewell-arms-272a6c03@london-events
+DTSTAMP:20260920T183000Z
+DTSTART:20260920T183000Z
+DTEND:20260920T220000Z
+SUMMARY:Gyasi at The Shacklewell Arms
+DESCRIPTION:Nashville glam-rock showman Gyasi — Bowie/T-Rex energy in th
+ e Shacklewell's 200-cap back room.\nPrice: £17.00\nhttps://dice.fm/event
+ /6a55f8408e10530001ae58a4
+URL:https://dice.fm/event/6a55f8408e10530001ae58a4
+LOCATION:The Shacklewell Arms\, 71 Shacklewell Lane\, London E8 2EB
+END:VEVENT
+BEGIN:VEVENT
+UID:koshun-nakao-rieko-makita-at-sjq-d039fc36@london-events
+DTSTAMP:20260920T183000Z
+DTSTART:20260920T183000Z
+DTEND:20260920T213000Z
+SUMMARY:Koshun Nakao + Rieko Makita at SJQ
+DESCRIPTION:Intimate Japanese instrumental double bill in the tiny Servant
+  Jazz Quarters room — a Sunday-evening alternative.\nPrice: £15.40\nht
+ tps://dice.fm/event/6a33a55beb4a20000159e2f6
+URL:https://dice.fm/event/6a33a55beb4a20000159e2f6
+LOCATION:Servant Jazz Quarters (SJQ)\, 10A Bradbury Street\, London N16 8J
+ N
 END:VEVENT
 BEGIN:VEVENT
 UID:novara-media-s-downstream-irl-trauma-farming-9f218de5@london-events
@@ -3664,6 +3749,18 @@ URL:https://dice.fm/event/l87mer-knock2bag-comedy-night-with-harry-hill-30
 LOCATION:MOTH Club\, Old Trades Hall\, Valette Street\, E9 6NU
 END:VEVENT
 BEGIN:VEVENT
+UID:annabelle-chairlegs-at-paper-dress-vintage-1f5b19f9@london-events
+DTSTAMP:20260930T183000Z
+DTSTART:20260930T183000Z
+DTEND:20260930T220000Z
+SUMMARY:Annabelle Chairlegs at Paper Dress Vintage
+DESCRIPTION:Austin psych-pop band Annabelle Chairlegs upstairs at Paper Dr
+ ess — vintage-shop-by-day\, sweaty little venue by night.\nPrice: £17.
+ 47\nhttps://dice.fm/event/6a29953fe4f6eb0001cc4f90
+URL:https://dice.fm/event/6a29953fe4f6eb0001cc4f90
+LOCATION:Paper Dress Vintage\, 352a Mare Street\, London E8 1HR
+END:VEVENT
+BEGIN:VEVENT
 UID:gresham-college-shakespearean-england-and-views-of-the-irish-d582b93b@
  london-events
 DTSTAMP:20261001T170000Z
@@ -3732,6 +3829,18 @@ URL:https://www.efdss.org/whats-on
 LOCATION:Cecil Sharp House\, 2 Regent's Park Road\, NW1 7AY
 END:VEVENT
 BEGIN:VEVENT
+UID:joe-the-shitboys-at-the-shacklewell-arms-fcb50e94@london-events
+DTSTAMP:20261001T183000Z
+DTSTART:20261001T183000Z
+DTEND:20261001T220000Z
+SUMMARY:Joe & the Shitboys at The Shacklewell Arms
+DESCRIPTION:The Faroe Islands' self-styled 'bisexual vegan punks' — riot
+ ously fun\, very short songs\, great live reputation.\nPrice: £19.27\nht
+ tps://dice.fm/event/6a0db65de2f75a0001efac9b
+URL:https://dice.fm/event/6a0db65de2f75a0001efac9b
+LOCATION:The Shacklewell Arms\, 71 Shacklewell Lane\, London E8 2EB
+END:VEVENT
+BEGIN:VEVENT
 UID:frankie-archer-at-kings-place-0a922fc3@london-events
 DTSTAMP:20261001T190000Z
 DTSTART:20261001T190000Z
@@ -3758,6 +3867,19 @@ URL:https://bod.org.uk/cable-street-90/
 LOCATION:EartH Theatre\, 11-17 Stoke Newington Road\, Dalston\, N16 8BP
 END:VEVENT
 BEGIN:VEVENT
+UID:the-kyiv-independent-live-at-kings-place-ca774a6e@london-events
+DTSTAMP:20261002T170000Z
+DTSTART:20261002T170000Z
+DTEND:20261002T203000Z
+SUMMARY:The Kyiv Independent Live at Kings Place
+DESCRIPTION:The Kyiv Independent's journalists live on stage — frontline
+  reporting and discussion. Date/time verified via Kings Place's Spektrix 
+ API (site Cloudflare-walled)\; book via kingsplace.co.uk.\nPrice: TBC (Ki
+ ngs Place\, typically £15-35)\nhttps://www.kingsplace.co.uk/whats-on/
+URL:https://www.kingsplace.co.uk/whats-on/
+LOCATION:Kings Place\, 90 York Way\, London N1 9AG
+END:VEVENT
+BEGIN:VEVENT
 UID:swim-deep-at-moth-club-455da9c6@london-events
 DTSTAMP:20261002T180000Z
 DTSTART:20261002T180000Z
@@ -3771,6 +3893,19 @@ URL:https://dice.fm/event/avpbe2-swim-deep-2nd-oct-moth-club-london-ticket
 LOCATION:MOTH Club\, Old Trades Hall\, Valette Street\, E9 6NU
 END:VEVENT
 BEGIN:VEVENT
+UID:in-living-memory-exhibition-opening-at-rich-mix-1a7d782b@london-events
+DTSTAMP:20261002T180000Z
+DTSTART:20261002T180000Z
+DTEND:20261002T200000Z
+SUMMARY:In Living Memory — exhibition opening at Rich Mix
+DESCRIPTION:Opening night of the In Living Memory exhibition at Rich Mix (
+ via the venue's Spektrix API). Exhibition openings are easy social occasi
+ ons — three minutes away.\nPrice: Free/TBC\nhttps://richmix.org.uk/what
+ s-on/
+URL:https://richmix.org.uk/whats-on/
+LOCATION:Rich Mix\, 35-47 Bethnal Green Road\, London E1 6LA
+END:VEVENT
+BEGIN:VEVENT
 UID:lou-margaux-hum-drum-immer-djs-at-sebright-arms-a27938b0@london-events
 DTSTAMP:20261002T183000Z
 DTSTART:20261002T183000Z
@@ -3781,6 +3916,18 @@ DESCRIPTION:Three-band Friday bill in the Sebright basement with DJs keepi
  82df5
 URL:https://dice.fm/event/6a8ec184d20d390001c82df5
 LOCATION:Sebright Arms\, 31-35 Coate St\, E2 9AG
+END:VEVENT
+BEGIN:VEVENT
+UID:only-real-at-the-old-blue-last-f872f803@london-events
+DTSTAMP:20261002T183000Z
+DTSTART:20261002T183000Z
+DTEND:20261002T220000Z
+SUMMARY:Only Real at The Old Blue Last
+DESCRIPTION:Only Real (Niall Galvin's slacker indie/hip-pop project\, back
+  after a long hiatus) in Shoreditch.\nPrice: £14.25\nhttps://dice.fm/eve
+ nt/6a26ad505c2ee50001d61517
+URL:https://dice.fm/event/6a26ad505c2ee50001d61517
+LOCATION:The Old Blue Last\, 38 Great Eastern Street\, London EC2A 3ES
 END:VEVENT
 BEGIN:VEVENT
 UID:cacao-dance-tribe-friday-ecstatic-dance-cacao-october-opener-313d404c@
@@ -3859,6 +4006,19 @@ LOCATION:Ecstatic Dance London venue\, Tufnell Park\, Burghley Road\, NW5
  (address on booking)
 END:VEVENT
 BEGIN:VEVENT
+UID:swim-deep-second-night-at-moth-club-1eef9f49@london-events
+DTSTAMP:20261003T180000Z
+DTSTART:20261003T180000Z
+DTEND:20261003T210000Z
+SUMMARY:Swim Deep — second night at MOTH Club
+DESCRIPTION:Newly added second MOTH night for Swim Deep's B-Town indie-pop
+  revival — the 2 Oct show is already on the calendar\; this Saturday sh
+ ow is a separate ticket.\nPrice: £23.80\nhttps://dice.fm/event/69821b665
+ e9dd00001e7d613
+URL:https://dice.fm/event/69821b665e9dd00001e7d613
+LOCATION:MOTH Club\, Old Trades Hall\, Valette Street\, London E9 6NU
+END:VEVENT
+BEGIN:VEVENT
 UID:the-spook-school-happy-accidents-at-the-old-blue-last-08541dba@london-
  events
 DTSTAMP:20261003T183000Z
@@ -3884,6 +4044,18 @@ DESCRIPTION:UK saxophone stalwart Julian Siegel brings his long-running qu
  https://www.vortexjazz.co.uk/event/julian-siegel-quartet-17/
 URL:https://www.vortexjazz.co.uk/event/julian-siegel-quartet-17/
 LOCATION:Vortex Jazz Club\, 11 Gillett Square\, Dalston\, N16 8AZ
+END:VEVENT
+BEGIN:VEVENT
+UID:cory-hanson-wand-cole-berliner-at-moth-club-9fed965a@london-events
+DTSTAMP:20261004T173000Z
+DTSTART:20261004T173000Z
+DTEND:20261004T213000Z
+SUMMARY:Cory Hanson (WAND) + Cole Berliner at MOTH Club
+DESCRIPTION:WAND frontman Cory Hanson solo — cosmic country-psych songwr
+ iting\, Sunday evening.\nPrice: £20.40\nhttps://dice.fm/event/68b176c0d8
+ b4330001c47529
+URL:https://dice.fm/event/68b176c0d8b4330001c47529
+LOCATION:MOTH Club\, Old Trades Hall\, Valette Street\, London E9 6NU
 END:VEVENT
 BEGIN:VEVENT
 UID:alela-diane-at-earth-a93f5e7f@london-events
@@ -3993,6 +4165,17 @@ URL:https://ecstaticdancelondon.com/event/aerial-relaxation-pods-sound-jou
 LOCATION:The Skylight Centre\, 49 Corsica Street\, N5 1JT
 END:VEVENT
 BEGIN:VEVENT
+UID:life-at-moth-club-b2b2244d@london-events
+DTSTAMP:20261006T180000Z
+DTSTART:20261006T180000Z
+DTEND:20261006T220000Z
+SUMMARY:LIFE at MOTH Club
+DESCRIPTION:Hull post-punk band LIFE — wiry\, political\, ferocious live
+ .\nPrice: £19.84\nhttps://dice.fm/event/69d7cb6b452a3b0001efcd0c
+URL:https://dice.fm/event/69d7cb6b452a3b0001efcd0c
+LOCATION:MOTH Club\, Old Trades Hall\, Valette Street\, London E9 6NU
+END:VEVENT
+BEGIN:VEVENT
 UID:gresham-college-what-do-you-need-a-mathematician-for-free-7b02e911@lon
  don-events
 DTSTAMP:20261007T170000Z
@@ -4016,6 +4199,19 @@ DESCRIPTION:Communion ONE new-music night with rising artist GAÏA in Dals
  gaa-7th-oct-sjq-london-tickets
 URL:https://dice.fm/event/8e92a7-gaa-7th-oct-sjq-london-tickets
 LOCATION:Servant Jazz Quarters\, 10a Bradbury Street\, Dalston\, N16 8JN
+END:VEVENT
+BEGIN:VEVENT
+UID:knock2bag-comedy-night-with-rose-matafeo-at-moth-club-3241534f@london-
+ events
+DTSTAMP:20261007T180000Z
+DTSTART:20261007T180000Z
+DTEND:20261007T220000Z
+SUMMARY:Knock2Bag Comedy Night with Rose Matafeo at MOTH Club
+DESCRIPTION:Knock2Bag's mixed-bill comedy night headlined by Rose Matafeo 
+ (Starstruck) — newly announced K2B autumn run at MOTH.\nPrice: £17.10\
+ nhttps://dice.fm/event/6a8dbbc65406470001deac4b
+URL:https://dice.fm/event/6a8dbbc65406470001deac4b
+LOCATION:MOTH Club\, Old Trades Hall\, Valette Street\, London E9 6NU
 END:VEVENT
 BEGIN:VEVENT
 UID:spark-storytelling-open-mic-haunted-148d5b01@london-events
@@ -4118,6 +4314,17 @@ URL:https://www.genesiscinema.co.uk/event/92613
 LOCATION:Genesis Cinema\, 93-95 Mile End Road\, E1 4UJ
 END:VEVENT
 BEGIN:VEVENT
+UID:febueder-at-the-victoria-c8809328@london-events
+DTSTAMP:20261008T183000Z
+DTSTART:20261008T183000Z
+DTEND:20261008T220000Z
+SUMMARY:Febueder at The Victoria
+DESCRIPTION:Experimental art-pop duo Febueder in the Victoria's back room.
+ \nPrice: £17.26\nhttps://dice.fm/event/6a689465ab735800013bdb43
+URL:https://dice.fm/event/6a689465ab735800013bdb43
+LOCATION:The Victoria\, 451 Queensbridge Road\, London E8 3AS
+END:VEVENT
+BEGIN:VEVENT
 UID:hajda-banda-at-kings-place-decb93ed@london-events
 DTSTAMP:20261008T190000Z
 DTSTART:20261008T190000Z
@@ -4130,6 +4337,18 @@ DESCRIPTION:Belarusian-Polish band playing traditional dance music of the
 URL:https://www.kingsplace.co.uk/whats-on/folk/hajda-banda-seated-standing
  -event/
 LOCATION:Kings Place\, 90 York Way\, London N1 9AG
+END:VEVENT
+BEGIN:VEVENT
+UID:mark-fry-performs-dreaming-with-alice-at-earth-ae8a53a7@london-events
+DTSTAMP:20261009T173000Z
+DTSTART:20261009T173000Z
+DTEND:20261009T210000Z
+SUMMARY:Mark Fry performs Dreaming with Alice at EartH
+DESCRIPTION:Cult 1972 acid-folk masterpiece 'Dreaming with Alice' performe
+ d live by Mark Fry — a rare chance to hear a lost folk classic in full.
+ \nPrice: £24.21\nhttps://dice.fm/event/69f487ac6b79440001eb7c24
+URL:https://dice.fm/event/69f487ac6b79440001eb7c24
+LOCATION:EartH\, 11 Stoke Newington Rd\, London N16 8BH
 END:VEVENT
 BEGIN:VEVENT
 UID:wifi-wars-debug-xxii-interactive-comedy-game-show-8c36d57e@london-even
@@ -4493,6 +4712,19 @@ LOCATION:Servant Jazz Quarters (SJQ)\, 10a Bradbury Street\, Dalston\, N16
   8JN
 END:VEVENT
 BEGIN:VEVENT
+UID:soyuz-at-earth-79f89fc3@london-events
+DTSTAMP:20261011T183000Z
+DTSTART:20261011T183000Z
+DTEND:20261011T220000Z
+SUMMARY:СОЮЗ (SOYUZ) at EartH
+DESCRIPTION:Belarusian trio SOYUZ — dreamy 70s Brazilian-tinged jazz-pop
+  sung in Russian\, beloved by the Khruangbin crowd. (Same night as Jembaa
+  Groove — pick one.)\nPrice: £22.51\nhttps://dice.fm/event/69ee479ad2f
+ 5f8000146b801
+URL:https://dice.fm/event/69ee479ad2f5f8000146b801
+LOCATION:EartH\, 11 Stoke Newington Rd\, London N16 8BH
+END:VEVENT
+BEGIN:VEVENT
 UID:contact-improv-monday-beginners-class-with-rick-nodine-12-oc-e789b49e@
  london-events
 DTSTAMP:20261012T173000Z
@@ -4769,6 +5001,18 @@ DESCRIPTION:Radiohead guitarist Ed O'Brien unveils his new record live wit
  uk/whats-on/2026/event/ed-obrien
 URL:https://www.barbican.org.uk/whats-on/2026/event/ed-obrien
 LOCATION:Barbican Hall\, Silk Street\, EC2Y 8DS
+END:VEVENT
+BEGIN:VEVENT
+UID:cowz-at-sebright-arms-16b2fc91@london-events
+DTSTAMP:20261016T183000Z
+DTSTART:20261016T183000Z
+DTEND:20261016T220000Z
+SUMMARY:COWZ at Sebright Arms
+DESCRIPTION:Fuzzy indie-rockers COWZ in the Sebright basement — cheap Fr
+ iday gig round the corner.\nPrice: £12.50\nhttps://dice.fm/event/6a68797
+ 2cc5f4f000118efc7
+URL:https://dice.fm/event/6a687972cc5f4f000118efc7
+LOCATION:Sebright Arms\, 31-35 Coate St\, London E2 9AG
 END:VEVENT
 BEGIN:VEVENT
 UID:cacao-dance-tribe-friday-ecstatic-dance-cacao-16-oct-545a6cac@london-e
@@ -5120,6 +5364,32 @@ URL:https://www.hackneyempire.co.uk/events/susan-calman-tall-tales
 LOCATION:Hackney Empire\, 291 Mare Street\, E8 1EJ
 END:VEVENT
 BEGIN:VEVENT
+UID:7ebra-louis-grace-common-holly-at-the-shacklewell-arms-3660d5aa@london
+ -events
+DTSTAMP:20261021T183000Z
+DTSTART:20261021T183000Z
+DTEND:20261021T220000Z
+SUMMARY:7ebra + Louis Grace + Common Holly at The Shacklewell Arms
+DESCRIPTION:Swedish twin-sister duo 7ebra (PNKSLM) headline a strong tripl
+ e bill with Common Holly — bargain midweek gig.\nPrice: £11.90\nhttps:
+ //dice.fm/event/6a1dcdf268422a000119cc8d
+URL:https://dice.fm/event/6a1dcdf268422a000119cc8d
+LOCATION:The Shacklewell Arms\, 71 Shacklewell Lane\, London E8 2EB
+END:VEVENT
+BEGIN:VEVENT
+UID:kaktus-einarsson-album-launch-at-paper-dress-vintage-2aa1db33@london-e
+ vents
+DTSTAMP:20261021T183000Z
+DTSTART:20261021T183000Z
+DTEND:20261021T220000Z
+SUMMARY:Kaktus Einarsson album launch at Paper Dress Vintage
+DESCRIPTION:Kaktus Einarsson (Fufanu frontman\, Damon Albarn collaborator)
+  launches his new album — Icelandic art-pop in a tiny Hackney room.\nPr
+ ice: £11.33\nhttps://dice.fm/event/6a5614d7ff8fec00019b51a5
+URL:https://dice.fm/event/6a5614d7ff8fec00019b51a5
+LOCATION:Paper Dress Vintage\, 352a Mare Street\, London E8 1HR
+END:VEVENT
+BEGIN:VEVENT
 UID:extended-floating-sound-journey-gong-bath-22-oct-254766ff@london-event
  s
 DTSTAMP:20261022T181500Z
@@ -5383,6 +5653,18 @@ URL:https://dice.fm/event/53mo6l-the-jump-cuts-25th-oct-the-shacklewell-ar
 LOCATION:The Shacklewell Arms\, 71 Shacklewell Lane\, Dalston\, E8 2EB
 END:VEVENT
 BEGIN:VEVENT
+UID:f-choir-at-earth-0ff16dcc@london-events
+DTSTAMP:20261025T193000Z
+DTSTART:20261025T193000Z
+DTEND:20261025T220000Z
+SUMMARY:F*Choir at EartH
+DESCRIPTION:London's radical F*Choir — a joyful\, community-driven masse
+ d-voice show\, under a tenner on a Sunday.\nPrice: £9.24\nhttps://dice.f
+ m/event/6a1eff5bdcdada0001b25498
+URL:https://dice.fm/event/6a1eff5bdcdada0001b25498
+LOCATION:EartH\, 11 Stoke Newington Rd\, London N16 8BH
+END:VEVENT
+BEGIN:VEVENT
 UID:ezra-furman-solo-at-union-chapel-c48716b6@london-events
 DTSTAMP:20261026T183000Z
 DTSTART:20261026T183000Z
@@ -5475,6 +5757,18 @@ URL:https://howtoacademy.com/events/jung-chang-fly-wild-swans-2/
 LOCATION:St Martin-in-the-Fields\, Trafalgar Square\, WC2N 4JJ
 END:VEVENT
 BEGIN:VEVENT
+UID:nina-winder-lind-heka-at-the-shacklewell-arms-95cacb26@london-events
+DTSTAMP:20261027T193000Z
+DTSTART:20261027T193000Z
+DTEND:20261027T230000Z
+SUMMARY:Nina Winder-Lind & heka at The Shacklewell Arms
+DESCRIPTION:Co-headline of Swedish cellist-songwriter Nina Winder-Lind and
+  hushed experimental folk artist heka — quiet\, intense small-room show
+ .\nPrice: £14.18\nhttps://dice.fm/event/6a573a41a28ab800019f955d
+URL:https://dice.fm/event/6a573a41a28ab800019f955d
+LOCATION:The Shacklewell Arms\, 71 Shacklewell Lane\, London E8 2EB
+END:VEVENT
+BEGIN:VEVENT
 UID:ethical-matters-ghibli-and-goodness-at-conway-hall-bc5f7a1e@london-eve
  nts
 DTSTAMP:20261028T183000Z
@@ -5515,6 +5809,18 @@ URL:https://www.cafeoto.co.uk/events/the-handover/
 LOCATION:Cafe OTO\, 18-22 Ashwin Street\, Dalston\, E8 3DL
 END:VEVENT
 BEGIN:VEVENT
+UID:jasmine-myra-at-earth-bcd3115c@london-events
+DTSTAMP:20261028T193000Z
+DTSTART:20261028T193000Z
+DTEND:20261028T230000Z
+SUMMARY:Jasmine Myra at EartH
+DESCRIPTION:Leeds saxophonist Jasmine Myra (Gondwana Records) — soaring 
+ spiritual jazz in the EartH theatre. (Same night as Nick Hakim at Union C
+ hapel.)\nPrice: £28.18\nhttps://dice.fm/event/69c2858b177b930001c13df3
+URL:https://dice.fm/event/69c2858b177b930001c13df3
+LOCATION:EartH\, 11 Stoke Newington Rd\, London N16 8BH
+END:VEVENT
+BEGIN:VEVENT
 UID:training-ground-4-day-contact-improvisation-intensive-rick-n-bd8ce8ed@
  london-events
 DTSTAMP:20261029T100000Z
@@ -5529,6 +5835,31 @@ DESCRIPTION:Rick Nodine's four-day CI intensive\, Thu 29 Oct - Sun 1 Nov
  elion.events/e/trainingground
 URL:https://dandelion.events/e/trainingground
 LOCATION:Acland Burghley School\, Burghley Road\, London NW5 1UJ
+END:VEVENT
+BEGIN:VEVENT
+UID:weird-walk-presents-samhain-ritual-2026-at-earth-afb63590@london-event
+ s
+DTSTAMP:20261029T180000Z
+DTSTART:20261029T180000Z
+DTEND:20261029T230000Z
+SUMMARY:Weird Walk Presents: Samhain Ritual 2026 at EartH
+DESCRIPTION:The Weird Walk zine's annual Samhain gathering — talks\, fol
+ k horror and music around British folklore and the turning of the year. L
+ earning + atmosphere\, very Hackney.\nPrice: £29.95\nhttps://dice.fm/eve
+ nt/6a34f493cfcbd8000107ee74
+URL:https://dice.fm/event/6a34f493cfcbd8000107ee74
+LOCATION:EartH\, 11 Stoke Newington Rd\, London N16 8BH
+END:VEVENT
+BEGIN:VEVENT
+UID:formal-sppeedwear-at-moth-club-43edd1f5@london-events
+DTSTAMP:20261029T190000Z
+DTSTART:20261029T190000Z
+DTEND:20261029T230000Z
+SUMMARY:Formal Sppeedwear at MOTH Club
+DESCRIPTION:Angular Aussie post-punk trio Formal Sppeedwear at MOTH Club.\
+ nPrice: £14.73\nhttps://dice.fm/event/6a16a422605f1c0001972f27
+URL:https://dice.fm/event/6a16a422605f1c0001972f27
+LOCATION:MOTH Club\, Old Trades Hall\, Valette Street\, London E9 6NU
 END:VEVENT
 BEGIN:VEVENT
 UID:painting-the-fruit-band-at-shacklewell-arms-free-582cfd1d@london-event
@@ -5700,6 +6031,18 @@ DESCRIPTION:Philadelphia songwriter Greg Mendez plays his hushed\, confess
 URL:https://dice.fm/event/6dkw77-greg-mendez-asher-white-villagerrr-3rd-no
  v-moth-club-london-tickets
 LOCATION:MOTH Club\, Old Trades Hall\, Valette Street\, E9 6NU
+END:VEVENT
+BEGIN:VEVENT
+UID:zzzahara-stay-in-nothing-at-the-victoria-d0383cf0@london-events
+DTSTAMP:20261103T193000Z
+DTSTART:20261103T193000Z
+DTEND:20261103T230000Z
+SUMMARY:zzzahara + Stay In Nothing at The Victoria
+DESCRIPTION:LA bedroom-pop/shoegaze artist zzzahara (ex-Eyedress collabora
+ tor) — midweek Dalston gig.\nPrice: £17.26\nhttps://dice.fm/event/6a0f
+ 2446c0119b0001042439
+URL:https://dice.fm/event/6a0f2446c0119b0001042439
+LOCATION:The Victoria\, 451 Queensbridge Road\, London E8 3AS
 END:VEVENT
 BEGIN:VEVENT
 UID:pitchfork-london-tortoise-bill-orcutt-at-hackney-church-f79ba520@londo
@@ -5892,6 +6235,19 @@ DESCRIPTION:Sunday-evening headline show in the Shacklewell's back room
  296ef500012b2d05
 URL:https://dice.fm/event/6a8c4844296ef500012b2d05
 LOCATION:The Shacklewell Arms\, 71 Shacklewell Lane\, E8 2EB
+END:VEVENT
+BEGIN:VEVENT
+UID:ali-do-an-g-n-lta-at-kings-place-cfdf51c6@london-events
+DTSTAMP:20261108T193000Z
+DTSTART:20261108T193000Z
+DTEND:20261108T205000Z
+SUMMARY:Ali Doğan Gönültaş at Kings Place
+DESCRIPTION:Acclaimed Kurdish singer and multi-instrumentalist Ali Doğan 
+ Gönültaş — multilingual Anatolian folk\, Sunday evening. Date verifi
+ ed via Kings Place Spektrix API\; book via kingsplace.co.uk.\nPrice: TBC 
+ (Kings Place\, typically £15-35)\nhttps://www.kingsplace.co.uk/whats-on/
+URL:https://www.kingsplace.co.uk/whats-on/
+LOCATION:Kings Place\, 90 York Way\, London N1 9AG
 END:VEVENT
 BEGIN:VEVENT
 UID:nu-civilisation-orchestra-the-stuart-hall-project-at-union-c-67e9e8c9@
@@ -6424,6 +6780,19 @@ URL:https://wiltons.org.uk/whats-on/the-marriage-of-figaro/
 LOCATION:Wilton's Music Hall\, 1 Graces Alley\, E1 8JB
 END:VEVENT
 BEGIN:VEVENT
+UID:k2b-presents-harry-hill-work-in-progress-at-moth-club-42c84f2b@london-
+ events
+DTSTAMP:20261124T190000Z
+DTSTART:20261124T190000Z
+DTEND:20261124T230000Z
+SUMMARY:K2B Presents: Harry Hill work-in-progress at MOTH Club
+DESCRIPTION:Harry Hill works up new material at MOTH Club — also on 23 a
+ nd 25 Nov if Tuesday doesn't suit.\nPrice: £17.10\nhttps://dice.fm/event
+ /6a8dbca20c16220001378ce2
+URL:https://dice.fm/event/6a8dbca20c16220001378ce2
+LOCATION:MOTH Club\, Old Trades Hall\, Valette Street\, London E9 6NU
+END:VEVENT
+BEGIN:VEVENT
 UID:cancamusa-at-servant-jazz-quarters-886c0a24@london-events
 DTSTAMP:20261124T193000Z
 DTSTART:20261124T193000Z
@@ -6555,6 +6924,20 @@ URL:https://wiltons.org.uk/whats-on/jazz-noel/
 LOCATION:Wilton's Music Hall\, 1 Graces Alley\, E1 8JB
 END:VEVENT
 BEGIN:VEVENT
+UID:minyo-crusaders-at-kings-place-19f0b53b@london-events
+DTSTAMP:20261127T193000Z
+DTSTART:20261127T193000Z
+DTEND:20261127T213000Z
+SUMMARY:Minyo Crusaders at Kings Place
+DESCRIPTION:Tokyo's 10-piece Minyo Crusaders rework Japanese min'yo folk s
+ ongs through cumbia\, Ethio-jazz and Caribbean grooves — one of the mos
+ t danceable world-music acts around. Public page now live (was API-only w
+ atchlist item).\nPrice: TBC (Kings Place\, typically £20-35)\nhttps://ww
+ w.kingsplace.co.uk/whats-on/folk/minyo-crusaders/
+URL:https://www.kingsplace.co.uk/whats-on/folk/minyo-crusaders/
+LOCATION:Kings Place\, 90 York Way\, London N1 9AG
+END:VEVENT
+BEGIN:VEVENT
 UID:janice-burns-jon-doran-at-kings-place-d00b7488@london-events
 DTSTAMP:20261127T200000Z
 DTSTART:20261127T200000Z
@@ -6604,6 +6987,19 @@ DESCRIPTION:English folk singer and multi-instrumentalist with violinist J
 URL:https://www.kingsplace.co.uk/whats-on/contemporary/olivia-chaney-daugh
  ters-of-memory/
 LOCATION:Kings Place (Hall One)\, 90 York Way\, London N1 9AG
+END:VEVENT
+BEGIN:VEVENT
+UID:genticorum-at-kings-place-6272cd75@london-events
+DTSTAMP:20261129T150000Z
+DTSTART:20261129T150000Z
+DTEND:20261129T165000Z
+SUMMARY:Genticorum at Kings Place
+DESCRIPTION:Québécois trad-folk trio Genticorum — fiddle\, flute and f
+ oot-percussion — Sunday matinee. Date verified via Spektrix API\; book 
+ via kingsplace.co.uk.\nPrice: TBC (Kings Place\, typically £15-35)\nhttp
+ s://www.kingsplace.co.uk/whats-on/
+URL:https://www.kingsplace.co.uk/whats-on/
+LOCATION:Kings Place\, 90 York Way\, London N1 9AG
 END:VEVENT
 BEGIN:VEVENT
 UID:la-plan-te-sauvage-screening-with-live-score-by-haha-sounds--55829911@
@@ -6681,6 +7077,18 @@ DESCRIPTION:Angular art-rock/indie in the Victoria's small back room — t
  ps://dice.fm/event/6a8ea3337aa2920001d16cc9
 URL:https://dice.fm/event/6a8ea3337aa2920001d16cc9
 LOCATION:The Victoria\, 451 Queensbridge Road\, E8 3AS
+END:VEVENT
+BEGIN:VEVENT
+UID:50-years-of-the-last-waltz-at-earth-c3414d39@london-events
+DTSTAMP:20261203T180000Z
+DTSTART:20261203T180000Z
+DTEND:20261203T220000Z
+SUMMARY:50 Years of The Last Waltz at EartH
+DESCRIPTION:An all-star house band recreates The Band's legendary 1976 far
+ ewell concert for its 50th anniversary — communal singalong energy guar
+ anteed.\nPrice: £18.54\nhttps://dice.fm/event/6a4632d3f7948300019309b0
+URL:https://dice.fm/event/6a4632d3f7948300019309b0
+LOCATION:EartH\, 11 Stoke Newington Rd\, London N16 8BH
 END:VEVENT
 BEGIN:VEVENT
 UID:the-men-they-couldn-t-hang-at-islington-assembly-hall-f9467cde@london-
@@ -6828,6 +7236,18 @@ URL:https://dice.fm/event/6a6b036778d5300001fba900
 LOCATION:MOTH Club\, Old Trades Hall\, Valette Street\, E9 6NU
 END:VEVENT
 BEGIN:VEVENT
+UID:knock2bag-comedy-night-at-moth-club-349b8a2c@london-events
+DTSTAMP:20261209T190000Z
+DTSTART:20261209T190000Z
+DTEND:20261209T230000Z
+SUMMARY:Knock2Bag Comedy Night at MOTH Club
+DESCRIPTION:Knock2Bag mixed-bill comedy (line-up TBA\, these routinely fea
+ ture big names) — one of the few December midweek options.\nPrice: £17
+ .10\nhttps://dice.fm/event/6a8dbcee5d3ebd00011a82a7
+URL:https://dice.fm/event/6a8dbcee5d3ebd00011a82a7
+LOCATION:MOTH Club\, Old Trades Hall\, Valette Street\, London E9 6NU
+END:VEVENT
+BEGIN:VEVENT
 UID:salt-house-at-cecil-sharp-house-af972287@london-events
 DTSTAMP:20261209T193000Z
 DTSTART:20261209T193000Z
@@ -6838,6 +7258,18 @@ DESCRIPTION:Scottish chamber-folk trio — hushed harmonies and fiddle\, i
  ts-on/26-gigs/16016-salt-house-dec-2026
 URL:https://www.efdss.org/whats-on/26-gigs/16016-salt-house-dec-2026
 LOCATION:Cecil Sharp House\, 2 Regent's Park Road\, NW1 7AY
+END:VEVENT
+BEGIN:VEVENT
+UID:the-sick-man-of-europe-at-the-shacklewell-arms-49e6be17@london-events
+DTSTAMP:20261209T193000Z
+DTSTART:20261209T193000Z
+DTEND:20261209T223000Z
+SUMMARY:The Sick Man Of Europe at The Shacklewell Arms
+DESCRIPTION:The Sick Man Of Europe (members of Iceage/Marching Church) —
+  brooding Danish post-punk\, newly announced December date.\nPrice: £16.
+ 45\nhttps://dice.fm/event/6a885a39d7cef40001f51f1f
+URL:https://dice.fm/event/6a885a39d7cef40001f51f1f
+LOCATION:The Shacklewell Arms\, 71 Shacklewell Lane\, London E8 2EB
 END:VEVENT
 BEGIN:VEVENT
 UID:nev-clay-mathias-kom-the-burning-hell-at-the-victoria-f89491d5@london-
@@ -6851,6 +7283,17 @@ DESCRIPTION:Double bill of wry storytelling songwriters in the Victoria's
  a
 URL:https://dice.fm/event/6a7c5f912961660001cd04ba
 LOCATION:The Victoria\, 451 Queensbridge Road\, E8 3AS
+END:VEVENT
+BEGIN:VEVENT
+UID:sam-scherdel-at-paper-dress-vintage-da6a24df@london-events
+DTSTAMP:20261210T193000Z
+DTSTART:20261210T193000Z
+DTEND:20261210T230000Z
+SUMMARY:Sam Scherdel at Paper Dress Vintage
+DESCRIPTION:Big-voiced Yorkshire songwriter Sam Scherdel at Paper Dress.\n
+ Price: £14.59\nhttps://dice.fm/event/6a3cd3d674264f00015ac0ad
+URL:https://dice.fm/event/6a3cd3d674264f00015ac0ad
+LOCATION:Paper Dress Vintage\, 352a Mare Street\, London E8 1HR
 END:VEVENT
 BEGIN:VEVENT
 UID:cervatana-free-show-at-the-shacklewell-arms-c0b1e798@london-events
@@ -6918,6 +7361,52 @@ DESCRIPTION:Zesty live music and high-energy social dancing — could comb
 URL:https://www.efdss.org/whats-on/27-dances/15735-the-london-barndance-co
  mpany-2026
 LOCATION:Cecil Sharp House\, 2 Regent's Park Road\, NW1 7AY
+END:VEVENT
+BEGIN:VEVENT
+UID:bach-the-universe-and-everything-finding-grace-at-kings-plac-121af757@
+ london-events
+DTSTAMP:20261213T113000Z
+DTSTART:20261213T113000Z
+DTEND:20261213T124500Z
+SUMMARY:Bach\, the Universe and Everything: Finding Grace at Kings Place
+DESCRIPTION:Orchestra of the Age of Enlightenment's 'secular Sunday servic
+ e': a Bach cantata plus a science talk — fills a previously empty calen
+ dar day. Date verified via Spektrix API\; book via kingsplace.co.uk.\nPri
+ ce: TBC (Kings Place\, typically £15-25)\nhttps://www.kingsplace.co.uk/w
+ hats-on/
+URL:https://www.kingsplace.co.uk/whats-on/
+LOCATION:Kings Place\, 90 York Way\, London N1 9AG
+END:VEVENT
+BEGIN:VEVENT
+UID:nine-lessons-and-carols-for-curious-people-sunday-show-d29875e6@london
+ -events
+DTSTAMP:20261213T190000Z
+DTSTART:20261213T190000Z
+DTEND:20261213T223000Z
+SUMMARY:Nine Lessons and Carols for Curious People (Sunday show)
+DESCRIPTION:Robin Ince's science-variety Christmas extravaganza — scient
+ ists\, comedians and musicians\, 3.5 hours of nerdy festive joy. Separate
+  performance from the 12 Dec show already on the calendar (an 11 Dec show
+  also exists).\nPrice: TBC (Kings Place\, typically £25-35)\nhttps://www
+ .kingsplace.co.uk/whats-on/nine-lessons-and-carols-for-curious-people/
+URL:https://www.kingsplace.co.uk/whats-on/nine-lessons-and-carols-for-curi
+ ous-people/
+LOCATION:Kings Place\, 90 York Way\, London N1 9AG
+END:VEVENT
+BEGIN:VEVENT
+UID:catherina-lee-miles-walter-at-kings-place-591228cd@london-events
+DTSTAMP:20261214T200000Z
+DTSTART:20261214T200000Z
+DTEND:20261214T214500Z
+SUMMARY:Catherina Lee & Miles Walter at Kings Place
+DESCRIPTION:Violin-and-piano recital pairing Mozart\, Debussy and Franck's
+  great Sonata with Kurtág and Dora Pejačević — fills the last empty 
+ pre-Christmas calendar day (Mon 14 Dec).\nPrice: TBC (Kings Place\, typic
+ ally £15-25)\nhttps://www.kingsplace.co.uk/whats-on/classical/catherina-
+ lee-and-miles-walter/
+URL:https://www.kingsplace.co.uk/whats-on/classical/catherina-lee-and-mile
+ s-walter/
+LOCATION:Kings Place\, 90 York Way\, London N1 9AG
 END:VEVENT
 BEGIN:VEVENT
 UID:sharp-s-folk-club-festive-party-2eeaddf7@london-events

@@ -874,6 +874,42 @@
     "added": "2026-08-19"
   },
   {
+    "title": "White Denim at MOTH Club",
+    "start": "2026-09-07T19:30:00+01:00",
+    "end": "2026-09-07T23:00:00+01:00",
+    "venue": "MOTH Club",
+    "address": "Old Trades Hall, Valette Street, London E9 6NU",
+    "url": "https://dice.fm/event/69c5083779178b00015048a2",
+    "source": "venue:dice-moth-club",
+    "tags": [
+      "music"
+    ],
+    "price": "£35.75",
+    "description": "Austin garage-rock/psych veterans play a rare MOTH Club residency — this Monday night still on sale (8 and 10 Sep nights also available).",
+    "neighbourhood": "Hackney Central",
+    "cycle_minutes": 12,
+    "added": "2026-09-06T06:17:42Z",
+    "id": "white-denim-at-moth-club-165155d3"
+  },
+  {
+    "title": "Sebright Quiz Night",
+    "start": "2026-09-07T20:00:00+01:00",
+    "end": "2026-09-07T22:00:00+01:00",
+    "venue": "Sebright Arms",
+    "address": "31-35 Coate St, London E2 9AG",
+    "url": "https://dice.fm/event/6a88b8e16c926600016198a2",
+    "source": "venue:dice-sebright-arms",
+    "tags": [
+      "community"
+    ],
+    "price": "£2.00",
+    "description": "Weekly Monday pub quiz at the Sebright Arms — cheap, sociable, four minutes from home. Runs most Mondays (also 21 Sep, 28 Sep, 5 Oct...).",
+    "neighbourhood": "Bethnal Green",
+    "cycle_minutes": 4,
+    "added": "2026-09-06T06:17:42Z",
+    "id": "sebright-quiz-night-bb934aff"
+  },
+  {
     "id": "bright-phoebus-revisited-lal-mike-waterson-tribute-d5356564",
     "title": "Bright Phoebus Revisited (Lal & Mike Waterson tribute)",
     "start": "2026-09-08T18:30:00+01:00",
@@ -1627,6 +1663,24 @@
     "neighbourhood": "Islington",
     "cycle_minutes": 20,
     "added": "2026-08-08"
+  },
+  {
+    "title": "maya ongaku + Sophia Hansen-Knarhoi at MOTH Club",
+    "start": "2026-09-11T19:00:00+01:00",
+    "end": "2026-09-11T22:00:00+01:00",
+    "venue": "MOTH Club",
+    "address": "Old Trades Hall, Valette Street, London E9 6NU",
+    "url": "https://dice.fm/event/6a01fbc21d966f0001d83ad5",
+    "source": "venue:dice-moth-club",
+    "tags": [
+      "music"
+    ],
+    "price": "£18.70",
+    "description": "Japanese ambient-psych-folk trio maya ongaku (Guruguru Brain label) in the glittery MOTH ballroom — intimate, exploratory.",
+    "neighbourhood": "Hackney Central",
+    "cycle_minutes": 12,
+    "added": "2026-09-06T06:17:42Z",
+    "id": "maya-ongaku-sophia-hansen-knarhoi-at-moth-club-82570023"
   },
   {
     "id": "the-turn-of-the-screw-at-arcola-theatre-4d82cf7d",
@@ -2630,6 +2684,24 @@
     "cycle_minutes": 30
   },
   {
+    "title": "Baby Smith at Sebright Arms",
+    "start": "2026-09-16T19:00:00+01:00",
+    "end": "2026-09-16T23:00:00+01:00",
+    "venue": "Sebright Arms",
+    "address": "31-35 Coate St, London E2 9AG",
+    "url": "https://dice.fm/event/69ccffb6e27d7e00019736a1",
+    "source": "venue:dice-sebright-arms",
+    "tags": [
+      "music"
+    ],
+    "price": "£14.30",
+    "description": "Rising indie songwriter in the Sebright's basement room — small-capacity gig round the corner.",
+    "neighbourhood": "Bethnal Green",
+    "cycle_minutes": 4,
+    "added": "2026-09-06T06:17:42Z",
+    "id": "baby-smith-at-sebright-arms-60c7df3d"
+  },
+  {
     "title": "Laura Veirs at EartH",
     "start": "2026-09-16T19:30:00+01:00",
     "end": "2026-09-16T23:00:00+01:00",
@@ -3109,6 +3181,24 @@
     "added": "2026-08-25"
   },
   {
+    "title": "Glyders at MOTH Club",
+    "start": "2026-09-18T19:30:00+01:00",
+    "end": "2026-09-18T22:30:00+01:00",
+    "venue": "MOTH Club",
+    "address": "Old Trades Hall, Valette Street, London E9 6NU",
+    "url": "https://dice.fm/event/6a042be69a25800001339099",
+    "source": "venue:dice-moth-club",
+    "tags": [
+      "music"
+    ],
+    "price": "£20.40",
+    "description": "Chicago boogie-rock duo Glyders (Drag City) — loose, twangy psych on a Friday night.",
+    "neighbourhood": "Hackney Central",
+    "cycle_minutes": 12,
+    "added": "2026-09-06T06:17:42Z",
+    "id": "glyders-at-moth-club-ce06eb41"
+  },
+  {
     "title": "Knees Up Cecil Sharp Ceilidh (autumn opener)",
     "start": "2026-09-18T20:00:00+01:00",
     "end": "2026-09-18T23:00:00+01:00",
@@ -3484,6 +3574,42 @@
     "neighbourhood": "Shoreditch",
     "cycle_minutes": 7,
     "added": "2026-08-09"
+  },
+  {
+    "title": "Gyasi at The Shacklewell Arms",
+    "start": "2026-09-20T19:30:00+01:00",
+    "end": "2026-09-20T23:00:00+01:00",
+    "venue": "The Shacklewell Arms",
+    "address": "71 Shacklewell Lane, London E8 2EB",
+    "url": "https://dice.fm/event/6a55f8408e10530001ae58a4",
+    "source": "venue:dice-shacklewell-arms",
+    "tags": [
+      "music"
+    ],
+    "price": "£17.00",
+    "description": "Nashville glam-rock showman Gyasi — Bowie/T-Rex energy in the Shacklewell's 200-cap back room.",
+    "neighbourhood": "Dalston",
+    "cycle_minutes": 13,
+    "added": "2026-09-06T06:17:42Z",
+    "id": "gyasi-at-the-shacklewell-arms-272a6c03"
+  },
+  {
+    "title": "Koshun Nakao + Rieko Makita at SJQ",
+    "start": "2026-09-20T19:30:00+01:00",
+    "end": "2026-09-20T22:30:00+01:00",
+    "venue": "Servant Jazz Quarters (SJQ)",
+    "address": "10A Bradbury Street, London N16 8JN",
+    "url": "https://dice.fm/event/6a33a55beb4a20000159e2f6",
+    "source": "venue:dice-sjq",
+    "tags": [
+      "music"
+    ],
+    "price": "£15.40",
+    "description": "Intimate Japanese instrumental double bill in the tiny Servant Jazz Quarters room — a Sunday-evening alternative.",
+    "neighbourhood": "Dalston",
+    "cycle_minutes": 15,
+    "added": "2026-09-06T06:17:42Z",
+    "id": "koshun-nakao-rieko-makita-at-sjq-d039fc36"
   },
   {
     "id": "novara-media-s-downstream-irl-trauma-farming-9f218de5",
@@ -4874,6 +5000,24 @@
     "added": "2026-08-27"
   },
   {
+    "title": "Annabelle Chairlegs at Paper Dress Vintage",
+    "start": "2026-09-30T19:30:00+01:00",
+    "end": "2026-09-30T23:00:00+01:00",
+    "venue": "Paper Dress Vintage",
+    "address": "352a Mare Street, London E8 1HR",
+    "url": "https://dice.fm/event/6a29953fe4f6eb0001cc4f90",
+    "source": "venue:dice-paper-dress-vintage",
+    "tags": [
+      "music"
+    ],
+    "price": "£17.47",
+    "description": "Austin psych-pop band Annabelle Chairlegs upstairs at Paper Dress — vintage-shop-by-day, sweaty little venue by night.",
+    "neighbourhood": "Hackney Central",
+    "cycle_minutes": 12,
+    "added": "2026-09-06T06:17:42Z",
+    "id": "annabelle-chairlegs-at-paper-dress-vintage-1f5b19f9"
+  },
+  {
     "id": "gresham-college-shakespearean-england-and-views-of-the-irish-d582b93b",
     "title": "Gresham College: Shakespearean England and Views of the Irish Language (free)",
     "start": "2026-10-01T18:00:00+01:00",
@@ -4966,6 +5110,24 @@
     "added": "2026-08-11"
   },
   {
+    "title": "Joe & the Shitboys at The Shacklewell Arms",
+    "start": "2026-10-01T19:30:00+01:00",
+    "end": "2026-10-01T23:00:00+01:00",
+    "venue": "The Shacklewell Arms",
+    "address": "71 Shacklewell Lane, London E8 2EB",
+    "url": "https://dice.fm/event/6a0db65de2f75a0001efac9b",
+    "source": "venue:dice-shacklewell-arms",
+    "tags": [
+      "music"
+    ],
+    "price": "£19.27",
+    "description": "The Faroe Islands' self-styled 'bisexual vegan punks' — riotously fun, very short songs, great live reputation.",
+    "neighbourhood": "Dalston",
+    "cycle_minutes": 13,
+    "added": "2026-09-06T06:17:42Z",
+    "id": "joe-the-shitboys-at-the-shacklewell-arms-fcb50e94"
+  },
+  {
     "id": "frankie-archer-at-kings-place-0a922fc3",
     "title": "Frankie Archer at Kings Place",
     "start": "2026-10-01T20:00:00+01:00",
@@ -5003,6 +5165,24 @@
     "added": "2026-08-11"
   },
   {
+    "title": "The Kyiv Independent Live at Kings Place",
+    "start": "2026-10-02T18:00:00+01:00",
+    "end": "2026-10-02T21:30:00+01:00",
+    "venue": "Kings Place",
+    "address": "90 York Way, London N1 9AG",
+    "url": "https://www.kingsplace.co.uk/whats-on/",
+    "source": "api:spektrix-kingsplace",
+    "tags": [
+      "talk"
+    ],
+    "price": "TBC (Kings Place, typically £15-35)",
+    "description": "The Kyiv Independent's journalists live on stage — frontline reporting and discussion. Date/time verified via Kings Place's Spektrix API (site Cloudflare-walled); book via kingsplace.co.uk.",
+    "neighbourhood": "King's Cross",
+    "cycle_minutes": 30,
+    "added": "2026-09-06T06:17:42Z",
+    "id": "the-kyiv-independent-live-at-kings-place-ca774a6e"
+  },
+  {
     "id": "swim-deep-at-moth-club-455da9c6",
     "title": "Swim Deep at MOTH Club",
     "start": "2026-10-02T19:00:00+01:00",
@@ -5021,6 +5201,25 @@
     "added": "2026-08-15"
   },
   {
+    "title": "In Living Memory — exhibition opening at Rich Mix",
+    "start": "2026-10-02T19:00:00+01:00",
+    "end": "2026-10-02T21:00:00+01:00",
+    "venue": "Rich Mix",
+    "address": "35-47 Bethnal Green Road, London E1 6LA",
+    "url": "https://richmix.org.uk/whats-on/",
+    "source": "api:spektrix-richmix",
+    "tags": [
+      "art",
+      "community"
+    ],
+    "price": "Free/TBC",
+    "description": "Opening night of the In Living Memory exhibition at Rich Mix (via the venue's Spektrix API). Exhibition openings are easy social occasions — three minutes away.",
+    "neighbourhood": "Shoreditch",
+    "cycle_minutes": 3,
+    "added": "2026-09-06T06:17:42Z",
+    "id": "in-living-memory-exhibition-opening-at-rich-mix-1a7d782b"
+  },
+  {
     "id": "lou-margaux-hum-drum-immer-djs-at-sebright-arms-a27938b0",
     "title": "LOU MARGAUX + HUM DRUM + IMMER + DJs at Sebright Arms",
     "start": "2026-10-02T19:30:00+01:00",
@@ -5037,6 +5236,24 @@
     "neighbourhood": "Bethnal Green",
     "cycle_minutes": 4,
     "added": "2026-09-01"
+  },
+  {
+    "title": "Only Real at The Old Blue Last",
+    "start": "2026-10-02T19:30:00+01:00",
+    "end": "2026-10-02T23:00:00+01:00",
+    "venue": "The Old Blue Last",
+    "address": "38 Great Eastern Street, London EC2A 3ES",
+    "url": "https://dice.fm/event/6a26ad505c2ee50001d61517",
+    "source": "venue:dice-old-blue-last",
+    "tags": [
+      "music"
+    ],
+    "price": "£14.25",
+    "description": "Only Real (Niall Galvin's slacker indie/hip-pop project, back after a long hiatus) in Shoreditch.",
+    "neighbourhood": "Shoreditch",
+    "cycle_minutes": 7,
+    "added": "2026-09-06T06:17:42Z",
+    "id": "only-real-at-the-old-blue-last-f872f803"
   },
   {
     "id": "cacao-dance-tribe-friday-ecstatic-dance-cacao-october-opener-313d404c",
@@ -5131,6 +5348,24 @@
     "added": "2026-08-31"
   },
   {
+    "title": "Swim Deep — second night at MOTH Club",
+    "start": "2026-10-03T19:00:00+01:00",
+    "end": "2026-10-03T22:00:00+01:00",
+    "venue": "MOTH Club",
+    "address": "Old Trades Hall, Valette Street, London E9 6NU",
+    "url": "https://dice.fm/event/69821b665e9dd00001e7d613",
+    "source": "venue:dice-moth-club",
+    "tags": [
+      "music"
+    ],
+    "price": "£23.80",
+    "description": "Newly added second MOTH night for Swim Deep's B-Town indie-pop revival — the 2 Oct show is already on the calendar; this Saturday show is a separate ticket.",
+    "neighbourhood": "Hackney Central",
+    "cycle_minutes": 12,
+    "added": "2026-09-06T06:17:42Z",
+    "id": "swim-deep-second-night-at-moth-club-1eef9f49"
+  },
+  {
     "id": "the-spook-school-happy-accidents-at-the-old-blue-last-08541dba",
     "title": "The Spook School + Happy Accidents at The Old Blue Last",
     "start": "2026-10-03T19:30:00+01:00",
@@ -5165,6 +5400,24 @@
     "neighbourhood": "Dalston",
     "cycle_minutes": 14,
     "added": "2026-08-28"
+  },
+  {
+    "title": "Cory Hanson (WAND) + Cole Berliner at MOTH Club",
+    "start": "2026-10-04T18:30:00+01:00",
+    "end": "2026-10-04T22:30:00+01:00",
+    "venue": "MOTH Club",
+    "address": "Old Trades Hall, Valette Street, London E9 6NU",
+    "url": "https://dice.fm/event/68b176c0d8b4330001c47529",
+    "source": "venue:dice-moth-club",
+    "tags": [
+      "music"
+    ],
+    "price": "£20.40",
+    "description": "WAND frontman Cory Hanson solo — cosmic country-psych songwriting, Sunday evening.",
+    "neighbourhood": "Hackney Central",
+    "cycle_minutes": 12,
+    "added": "2026-09-06T06:17:42Z",
+    "id": "cory-hanson-wand-cole-berliner-at-moth-club-9fed965a"
   },
   {
     "id": "alela-diane-at-earth-a93f5e7f",
@@ -5316,6 +5569,24 @@
     "added": "2026-09-05"
   },
   {
+    "title": "LIFE at MOTH Club",
+    "start": "2026-10-06T19:00:00+01:00",
+    "end": "2026-10-06T23:00:00+01:00",
+    "venue": "MOTH Club",
+    "address": "Old Trades Hall, Valette Street, London E9 6NU",
+    "url": "https://dice.fm/event/69d7cb6b452a3b0001efcd0c",
+    "source": "venue:dice-moth-club",
+    "tags": [
+      "music"
+    ],
+    "price": "£19.84",
+    "description": "Hull post-punk band LIFE — wiry, political, ferocious live.",
+    "neighbourhood": "Hackney Central",
+    "cycle_minutes": 12,
+    "added": "2026-09-06T06:17:42Z",
+    "id": "life-at-moth-club-b2b2244d"
+  },
+  {
     "id": "gresham-college-what-do-you-need-a-mathematician-for-free-7b02e911",
     "title": "Gresham College: What Do You Need a Mathematician For? (free)",
     "start": "2026-10-07T18:00:00+01:00",
@@ -5350,6 +5621,24 @@
     "neighbourhood": "Dalston",
     "cycle_minutes": 15,
     "added": "2026-08-15"
+  },
+  {
+    "title": "Knock2Bag Comedy Night with Rose Matafeo at MOTH Club",
+    "start": "2026-10-07T19:00:00+01:00",
+    "end": "2026-10-07T23:00:00+01:00",
+    "venue": "MOTH Club",
+    "address": "Old Trades Hall, Valette Street, London E9 6NU",
+    "url": "https://dice.fm/event/6a8dbbc65406470001deac4b",
+    "source": "venue:dice-moth-club",
+    "tags": [
+      "comedy"
+    ],
+    "price": "£17.10",
+    "description": "Knock2Bag's mixed-bill comedy night headlined by Rose Matafeo (Starstruck) — newly announced K2B autumn run at MOTH.",
+    "neighbourhood": "Hackney Central",
+    "cycle_minutes": 12,
+    "added": "2026-09-06T06:17:42Z",
+    "id": "knock2bag-comedy-night-with-rose-matafeo-at-moth-club-3241534f"
   },
   {
     "id": "spark-storytelling-open-mic-haunted-148d5b01",
@@ -5483,6 +5772,24 @@
     "added": "2026-09-05"
   },
   {
+    "title": "Febueder at The Victoria",
+    "start": "2026-10-08T19:30:00+01:00",
+    "end": "2026-10-08T23:00:00+01:00",
+    "venue": "The Victoria",
+    "address": "451 Queensbridge Road, London E8 3AS",
+    "url": "https://dice.fm/event/6a689465ab735800013bdb43",
+    "source": "venue:dice-the-victoria",
+    "tags": [
+      "music"
+    ],
+    "price": "£17.26",
+    "description": "Experimental art-pop duo Febueder in the Victoria's back room.",
+    "neighbourhood": "Dalston",
+    "cycle_minutes": 12,
+    "added": "2026-09-06T06:17:42Z",
+    "id": "febueder-at-the-victoria-c8809328"
+  },
+  {
     "id": "hajda-banda-at-kings-place-decb93ed",
     "title": "Hajda Banda at Kings Place",
     "start": "2026-10-08T20:00:00+01:00",
@@ -5500,6 +5807,24 @@
     "neighbourhood": "King's Cross",
     "cycle_minutes": 30,
     "added": "2026-08-18"
+  },
+  {
+    "title": "Mark Fry performs Dreaming with Alice at EartH",
+    "start": "2026-10-09T18:30:00+01:00",
+    "end": "2026-10-09T22:00:00+01:00",
+    "venue": "EartH",
+    "address": "11 Stoke Newington Rd, London N16 8BH",
+    "url": "https://dice.fm/event/69f487ac6b79440001eb7c24",
+    "source": "venue:dice-earth",
+    "tags": [
+      "music"
+    ],
+    "price": "£24.21",
+    "description": "Cult 1972 acid-folk masterpiece 'Dreaming with Alice' performed live by Mark Fry — a rare chance to hear a lost folk classic in full.",
+    "neighbourhood": "Dalston",
+    "cycle_minutes": 14,
+    "added": "2026-09-06T06:17:42Z",
+    "id": "mark-fry-performs-dreaming-with-alice-at-earth-ae8a53a7"
   },
   {
     "id": "wifi-wars-debug-xxii-interactive-comedy-game-show-8c36d57e",
@@ -5947,6 +6272,24 @@
     "added": "2026-08-09"
   },
   {
+    "title": "СОЮЗ (SOYUZ) at EartH",
+    "start": "2026-10-11T19:30:00+01:00",
+    "end": "2026-10-11T23:00:00+01:00",
+    "venue": "EartH",
+    "address": "11 Stoke Newington Rd, London N16 8BH",
+    "url": "https://dice.fm/event/69ee479ad2f5f8000146b801",
+    "source": "venue:dice-earth",
+    "tags": [
+      "music"
+    ],
+    "price": "£22.51",
+    "description": "Belarusian trio SOYUZ — dreamy 70s Brazilian-tinged jazz-pop sung in Russian, beloved by the Khruangbin crowd. (Same night as Jembaa Groove — pick one.)",
+    "neighbourhood": "Dalston",
+    "cycle_minutes": 14,
+    "added": "2026-09-06T06:17:42Z",
+    "id": "soyuz-at-earth-79f89fc3"
+  },
+  {
     "id": "contact-improv-monday-beginners-class-with-rick-nodine-12-oc-e789b49e",
     "title": "Contact Improv: Monday Beginners class with Rick Nodine (12 Oct drop-in)",
     "start": "2026-10-12T18:30:00+01:00",
@@ -6313,6 +6656,24 @@
     "neighbourhood": "Barbican",
     "cycle_minutes": 15,
     "added": "2026-08-26"
+  },
+  {
+    "title": "COWZ at Sebright Arms",
+    "start": "2026-10-16T19:30:00+01:00",
+    "end": "2026-10-16T23:00:00+01:00",
+    "venue": "Sebright Arms",
+    "address": "31-35 Coate St, London E2 9AG",
+    "url": "https://dice.fm/event/6a687972cc5f4f000118efc7",
+    "source": "venue:dice-sebright-arms",
+    "tags": [
+      "music"
+    ],
+    "price": "£12.50",
+    "description": "Fuzzy indie-rockers COWZ in the Sebright basement — cheap Friday gig round the corner.",
+    "neighbourhood": "Bethnal Green",
+    "cycle_minutes": 4,
+    "added": "2026-09-06T06:17:42Z",
+    "id": "cowz-at-sebright-arms-16b2fc91"
   },
   {
     "id": "cacao-dance-tribe-friday-ecstatic-dance-cacao-16-oct-545a6cac",
@@ -6761,6 +7122,42 @@
     "added": "2026-08-15"
   },
   {
+    "title": "7ebra + Louis Grace + Common Holly at The Shacklewell Arms",
+    "start": "2026-10-21T19:30:00+01:00",
+    "end": "2026-10-21T23:00:00+01:00",
+    "venue": "The Shacklewell Arms",
+    "address": "71 Shacklewell Lane, London E8 2EB",
+    "url": "https://dice.fm/event/6a1dcdf268422a000119cc8d",
+    "source": "venue:dice-shacklewell-arms",
+    "tags": [
+      "music"
+    ],
+    "price": "£11.90",
+    "description": "Swedish twin-sister duo 7ebra (PNKSLM) headline a strong triple bill with Common Holly — bargain midweek gig.",
+    "neighbourhood": "Dalston",
+    "cycle_minutes": 13,
+    "added": "2026-09-06T06:17:42Z",
+    "id": "7ebra-louis-grace-common-holly-at-the-shacklewell-arms-3660d5aa"
+  },
+  {
+    "title": "Kaktus Einarsson album launch at Paper Dress Vintage",
+    "start": "2026-10-21T19:30:00+01:00",
+    "end": "2026-10-21T23:00:00+01:00",
+    "venue": "Paper Dress Vintage",
+    "address": "352a Mare Street, London E8 1HR",
+    "url": "https://dice.fm/event/6a5614d7ff8fec00019b51a5",
+    "source": "venue:dice-paper-dress-vintage",
+    "tags": [
+      "music"
+    ],
+    "price": "£11.33",
+    "description": "Kaktus Einarsson (Fufanu frontman, Damon Albarn collaborator) launches his new album — Icelandic art-pop in a tiny Hackney room.",
+    "neighbourhood": "Hackney Central",
+    "cycle_minutes": 12,
+    "added": "2026-09-06T06:17:42Z",
+    "id": "kaktus-einarsson-album-launch-at-paper-dress-vintage-2aa1db33"
+  },
+  {
     "id": "extended-floating-sound-journey-gong-bath-22-oct-254766ff",
     "title": "Extended Floating Sound Journey Gong Bath (22 Oct)",
     "start": "2026-10-22T19:15:00+01:00",
@@ -7111,6 +7508,25 @@
     "added": "2026-08-15"
   },
   {
+    "title": "F*Choir at EartH",
+    "start": "2026-10-25T19:30:00+00:00",
+    "end": "2026-10-25T22:00:00+00:00",
+    "venue": "EartH",
+    "address": "11 Stoke Newington Rd, London N16 8BH",
+    "url": "https://dice.fm/event/6a1eff5bdcdada0001b25498",
+    "source": "venue:dice-earth",
+    "tags": [
+      "music",
+      "community"
+    ],
+    "price": "£9.24",
+    "description": "London's radical F*Choir — a joyful, community-driven massed-voice show, under a tenner on a Sunday.",
+    "neighbourhood": "Dalston",
+    "cycle_minutes": 14,
+    "added": "2026-09-06T06:17:42Z",
+    "id": "f-choir-at-earth-0ff16dcc"
+  },
+  {
     "id": "ezra-furman-solo-at-union-chapel-c48716b6",
     "title": "Ezra Furman (solo) at Union Chapel",
     "start": "2026-10-26T18:30:00+00:00",
@@ -7238,6 +7654,24 @@
     "added": "2026-08-15"
   },
   {
+    "title": "Nina Winder-Lind & heka at The Shacklewell Arms",
+    "start": "2026-10-27T19:30:00+00:00",
+    "end": "2026-10-27T23:00:00+00:00",
+    "venue": "The Shacklewell Arms",
+    "address": "71 Shacklewell Lane, London E8 2EB",
+    "url": "https://dice.fm/event/6a573a41a28ab800019f955d",
+    "source": "venue:dice-shacklewell-arms",
+    "tags": [
+      "music"
+    ],
+    "price": "£14.18",
+    "description": "Co-headline of Swedish cellist-songwriter Nina Winder-Lind and hushed experimental folk artist heka — quiet, intense small-room show.",
+    "neighbourhood": "Dalston",
+    "cycle_minutes": 13,
+    "added": "2026-09-06T06:17:42Z",
+    "id": "nina-winder-lind-heka-at-the-shacklewell-arms-95cacb26"
+  },
+  {
     "id": "ethical-matters-ghibli-and-goodness-at-conway-hall-bc5f7a1e",
     "title": "Ethical Matters: Ghibli and Goodness at Conway Hall",
     "start": "2026-10-28T18:30:00+00:00",
@@ -7293,6 +7727,24 @@
     "added": "2026-08-28"
   },
   {
+    "title": "Jasmine Myra at EartH",
+    "start": "2026-10-28T19:30:00+00:00",
+    "end": "2026-10-28T23:00:00+00:00",
+    "venue": "EartH",
+    "address": "11 Stoke Newington Rd, London N16 8BH",
+    "url": "https://dice.fm/event/69c2858b177b930001c13df3",
+    "source": "venue:dice-earth",
+    "tags": [
+      "music"
+    ],
+    "price": "£28.18",
+    "description": "Leeds saxophonist Jasmine Myra (Gondwana Records) — soaring spiritual jazz in the EartH theatre. (Same night as Nick Hakim at Union Chapel.)",
+    "neighbourhood": "Dalston",
+    "cycle_minutes": 14,
+    "added": "2026-09-06T06:17:42Z",
+    "id": "jasmine-myra-at-earth-bcd3115c"
+  },
+  {
     "id": "training-ground-4-day-contact-improvisation-intensive-rick-n-bd8ce8ed",
     "title": "TRAINING GROUND — 4-day contact improvisation intensive (Rick Nodine)",
     "start": "2026-10-29T10:00:00+00:00",
@@ -7310,6 +7762,43 @@
     "neighbourhood": "Tufnell Park",
     "cycle_minutes": 35,
     "added": "2026-08-09"
+  },
+  {
+    "title": "Weird Walk Presents: Samhain Ritual 2026 at EartH",
+    "start": "2026-10-29T18:00:00+00:00",
+    "end": "2026-10-29T23:00:00+00:00",
+    "venue": "EartH",
+    "address": "11 Stoke Newington Rd, London N16 8BH",
+    "url": "https://dice.fm/event/6a34f493cfcbd8000107ee74",
+    "source": "venue:dice-earth",
+    "tags": [
+      "talk",
+      "music"
+    ],
+    "price": "£29.95",
+    "description": "The Weird Walk zine's annual Samhain gathering — talks, folk horror and music around British folklore and the turning of the year. Learning + atmosphere, very Hackney.",
+    "neighbourhood": "Dalston",
+    "cycle_minutes": 14,
+    "added": "2026-09-06T06:17:42Z",
+    "id": "weird-walk-presents-samhain-ritual-2026-at-earth-afb63590"
+  },
+  {
+    "title": "Formal Sppeedwear at MOTH Club",
+    "start": "2026-10-29T19:00:00+00:00",
+    "end": "2026-10-29T23:00:00+00:00",
+    "venue": "MOTH Club",
+    "address": "Old Trades Hall, Valette Street, London E9 6NU",
+    "url": "https://dice.fm/event/6a16a422605f1c0001972f27",
+    "source": "venue:dice-moth-club",
+    "tags": [
+      "music"
+    ],
+    "price": "£14.73",
+    "description": "Angular Aussie post-punk trio Formal Sppeedwear at MOTH Club.",
+    "neighbourhood": "Hackney Central",
+    "cycle_minutes": 12,
+    "added": "2026-09-06T06:17:42Z",
+    "id": "formal-sppeedwear-at-moth-club-43edd1f5"
   },
   {
     "id": "painting-the-fruit-band-at-shacklewell-arms-free-582cfd1d",
@@ -7545,6 +8034,24 @@
     "neighbourhood": "Hackney Central",
     "cycle_minutes": 12,
     "added": "2026-08-16"
+  },
+  {
+    "title": "zzzahara + Stay In Nothing at The Victoria",
+    "start": "2026-11-03T19:30:00+00:00",
+    "end": "2026-11-03T23:00:00+00:00",
+    "venue": "The Victoria",
+    "address": "451 Queensbridge Road, London E8 3AS",
+    "url": "https://dice.fm/event/6a0f2446c0119b0001042439",
+    "source": "venue:dice-the-victoria",
+    "tags": [
+      "music"
+    ],
+    "price": "£17.26",
+    "description": "LA bedroom-pop/shoegaze artist zzzahara (ex-Eyedress collaborator) — midweek Dalston gig.",
+    "neighbourhood": "Dalston",
+    "cycle_minutes": 12,
+    "added": "2026-09-06T06:17:42Z",
+    "id": "zzzahara-stay-in-nothing-at-the-victoria-d0383cf0"
   },
   {
     "id": "pitchfork-london-tortoise-bill-orcutt-at-hackney-church-f79ba520",
@@ -7801,6 +8308,24 @@
     "neighbourhood": "Dalston",
     "cycle_minutes": 13,
     "added": "2026-08-30"
+  },
+  {
+    "title": "Ali Doğan Gönültaş at Kings Place",
+    "start": "2026-11-08T19:30:00+00:00",
+    "end": "2026-11-08T20:50:00+00:00",
+    "venue": "Kings Place",
+    "address": "90 York Way, London N1 9AG",
+    "url": "https://www.kingsplace.co.uk/whats-on/",
+    "source": "api:spektrix-kingsplace",
+    "tags": [
+      "music"
+    ],
+    "price": "TBC (Kings Place, typically £15-35)",
+    "description": "Acclaimed Kurdish singer and multi-instrumentalist Ali Doğan Gönültaş — multilingual Anatolian folk, Sunday evening. Date verified via Kings Place Spektrix API; book via kingsplace.co.uk.",
+    "neighbourhood": "King's Cross",
+    "cycle_minutes": 30,
+    "added": "2026-09-06T06:17:42Z",
+    "id": "ali-do-an-g-n-lta-at-kings-place-cfdf51c6"
   },
   {
     "id": "nu-civilisation-orchestra-the-stuart-hall-project-at-union-c-67e9e8c9",
@@ -8508,6 +9033,24 @@
     "cycle_minutes": 10
   },
   {
+    "title": "K2B Presents: Harry Hill work-in-progress at MOTH Club",
+    "start": "2026-11-24T19:00:00+00:00",
+    "end": "2026-11-24T23:00:00+00:00",
+    "venue": "MOTH Club",
+    "address": "Old Trades Hall, Valette Street, London E9 6NU",
+    "url": "https://dice.fm/event/6a8dbca20c16220001378ce2",
+    "source": "venue:dice-moth-club",
+    "tags": [
+      "comedy"
+    ],
+    "price": "£17.10",
+    "description": "Harry Hill works up new material at MOTH Club — also on 23 and 25 Nov if Tuesday doesn't suit.",
+    "neighbourhood": "Hackney Central",
+    "cycle_minutes": 12,
+    "added": "2026-09-06T06:17:42Z",
+    "id": "k2b-presents-harry-hill-work-in-progress-at-moth-club-42c84f2b"
+  },
+  {
     "id": "cancamusa-at-servant-jazz-quarters-886c0a24",
     "title": "Cancamusa at Servant Jazz Quarters",
     "start": "2026-11-24T19:30:00+00:00",
@@ -8689,6 +9232,25 @@
     "added": "2026-08-23"
   },
   {
+    "title": "Minyo Crusaders at Kings Place",
+    "start": "2026-11-27T19:30:00+00:00",
+    "end": "2026-11-27T21:30:00+00:00",
+    "venue": "Kings Place",
+    "address": "90 York Way, London N1 9AG",
+    "url": "https://www.kingsplace.co.uk/whats-on/folk/minyo-crusaders/",
+    "source": "venue:kings-place",
+    "tags": [
+      "music",
+      "dance"
+    ],
+    "price": "TBC (Kings Place, typically £20-35)",
+    "description": "Tokyo's 10-piece Minyo Crusaders rework Japanese min'yo folk songs through cumbia, Ethio-jazz and Caribbean grooves — one of the most danceable world-music acts around. Public page now live (was API-only watchlist item).",
+    "neighbourhood": "King's Cross",
+    "cycle_minutes": 30,
+    "added": "2026-09-06T06:17:42Z",
+    "id": "minyo-crusaders-at-kings-place-19f0b53b"
+  },
+  {
     "id": "janice-burns-jon-doran-at-kings-place-d00b7488",
     "title": "Janice Burns & Jon Doran at Kings Place",
     "start": "2026-11-27T20:00:00+00:00",
@@ -8760,6 +9322,24 @@
     "neighbourhood": "King's Cross",
     "cycle_minutes": 30,
     "added": "2026-09-03"
+  },
+  {
+    "title": "Genticorum at Kings Place",
+    "start": "2026-11-29T15:00:00+00:00",
+    "end": "2026-11-29T16:50:00+00:00",
+    "venue": "Kings Place",
+    "address": "90 York Way, London N1 9AG",
+    "url": "https://www.kingsplace.co.uk/whats-on/",
+    "source": "api:spektrix-kingsplace",
+    "tags": [
+      "music"
+    ],
+    "price": "TBC (Kings Place, typically £15-35)",
+    "description": "Québécois trad-folk trio Genticorum — fiddle, flute and foot-percussion — Sunday matinee. Date verified via Spektrix API; book via kingsplace.co.uk.",
+    "neighbourhood": "King's Cross",
+    "cycle_minutes": 30,
+    "added": "2026-09-06T06:17:42Z",
+    "id": "genticorum-at-kings-place-6272cd75"
   },
   {
     "id": "la-plan-te-sauvage-screening-with-live-score-by-haha-sounds--55829911",
@@ -8870,6 +9450,24 @@
     "neighbourhood": "Dalston",
     "cycle_minutes": 12,
     "added": "2026-08-30"
+  },
+  {
+    "title": "50 Years of The Last Waltz at EartH",
+    "start": "2026-12-03T18:00:00+00:00",
+    "end": "2026-12-03T22:00:00+00:00",
+    "venue": "EartH",
+    "address": "11 Stoke Newington Rd, London N16 8BH",
+    "url": "https://dice.fm/event/6a4632d3f7948300019309b0",
+    "source": "venue:dice-earth",
+    "tags": [
+      "music"
+    ],
+    "price": "£18.54",
+    "description": "An all-star house band recreates The Band's legendary 1976 farewell concert for its 50th anniversary — communal singalong energy guaranteed.",
+    "neighbourhood": "Dalston",
+    "cycle_minutes": 14,
+    "added": "2026-09-06T06:17:42Z",
+    "id": "50-years-of-the-last-waltz-at-earth-c3414d39"
   },
   {
     "id": "the-men-they-couldn-t-hang-at-islington-assembly-hall-f9467cde",
@@ -9073,6 +9671,24 @@
     "added": "2026-08-30"
   },
   {
+    "title": "Knock2Bag Comedy Night at MOTH Club",
+    "start": "2026-12-09T19:00:00+00:00",
+    "end": "2026-12-09T23:00:00+00:00",
+    "venue": "MOTH Club",
+    "address": "Old Trades Hall, Valette Street, London E9 6NU",
+    "url": "https://dice.fm/event/6a8dbcee5d3ebd00011a82a7",
+    "source": "venue:dice-moth-club",
+    "tags": [
+      "comedy"
+    ],
+    "price": "£17.10",
+    "description": "Knock2Bag mixed-bill comedy (line-up TBA, these routinely feature big names) — one of the few December midweek options.",
+    "neighbourhood": "Hackney Central",
+    "cycle_minutes": 12,
+    "added": "2026-09-06T06:17:42Z",
+    "id": "knock2bag-comedy-night-at-moth-club-349b8a2c"
+  },
+  {
     "id": "salt-house-at-cecil-sharp-house-af972287",
     "title": "Salt House at Cecil Sharp House",
     "start": "2026-12-09T19:30:00+00:00",
@@ -9091,6 +9707,24 @@
     "added": "2026-08-23"
   },
   {
+    "title": "The Sick Man Of Europe at The Shacklewell Arms",
+    "start": "2026-12-09T19:30:00+00:00",
+    "end": "2026-12-09T22:30:00+00:00",
+    "venue": "The Shacklewell Arms",
+    "address": "71 Shacklewell Lane, London E8 2EB",
+    "url": "https://dice.fm/event/6a885a39d7cef40001f51f1f",
+    "source": "venue:dice-shacklewell-arms",
+    "tags": [
+      "music"
+    ],
+    "price": "£16.45",
+    "description": "The Sick Man Of Europe (members of Iceage/Marching Church) — brooding Danish post-punk, newly announced December date.",
+    "neighbourhood": "Dalston",
+    "cycle_minutes": 13,
+    "added": "2026-09-06T06:17:42Z",
+    "id": "the-sick-man-of-europe-at-the-shacklewell-arms-49e6be17"
+  },
+  {
     "id": "nev-clay-mathias-kom-the-burning-hell-at-the-victoria-f89491d5",
     "title": "Nev Clay + Mathias Kom (The Burning Hell) at The Victoria",
     "start": "2026-12-10T19:30:00+00:00",
@@ -9107,6 +9741,24 @@
     "neighbourhood": "Dalston",
     "cycle_minutes": 12,
     "added": "2026-08-23"
+  },
+  {
+    "title": "Sam Scherdel at Paper Dress Vintage",
+    "start": "2026-12-10T19:30:00+00:00",
+    "end": "2026-12-10T23:00:00+00:00",
+    "venue": "Paper Dress Vintage",
+    "address": "352a Mare Street, London E8 1HR",
+    "url": "https://dice.fm/event/6a3cd3d674264f00015ac0ad",
+    "source": "venue:dice-paper-dress-vintage",
+    "tags": [
+      "music"
+    ],
+    "price": "£14.59",
+    "description": "Big-voiced Yorkshire songwriter Sam Scherdel at Paper Dress.",
+    "neighbourhood": "Hackney Central",
+    "cycle_minutes": 12,
+    "added": "2026-09-06T06:17:42Z",
+    "id": "sam-scherdel-at-paper-dress-vintage-da6a24df"
   },
   {
     "id": "cervatana-free-show-at-the-shacklewell-arms-c0b1e798",
@@ -9200,6 +9852,63 @@
     "neighbourhood": "Primrose Hill",
     "cycle_minutes": 32,
     "added": "2026-08-30"
+  },
+  {
+    "title": "Bach, the Universe and Everything: Finding Grace at Kings Place",
+    "start": "2026-12-13T11:30:00+00:00",
+    "end": "2026-12-13T12:45:00+00:00",
+    "venue": "Kings Place",
+    "address": "90 York Way, London N1 9AG",
+    "url": "https://www.kingsplace.co.uk/whats-on/",
+    "source": "api:spektrix-kingsplace",
+    "tags": [
+      "music",
+      "talk"
+    ],
+    "price": "TBC (Kings Place, typically £15-25)",
+    "description": "Orchestra of the Age of Enlightenment's 'secular Sunday service': a Bach cantata plus a science talk — fills a previously empty calendar day. Date verified via Spektrix API; book via kingsplace.co.uk.",
+    "neighbourhood": "King's Cross",
+    "cycle_minutes": 30,
+    "added": "2026-09-06T06:17:42Z",
+    "id": "bach-the-universe-and-everything-finding-grace-at-kings-plac-121af757"
+  },
+  {
+    "title": "Nine Lessons and Carols for Curious People (Sunday show)",
+    "start": "2026-12-13T19:00:00+00:00",
+    "end": "2026-12-13T22:30:00+00:00",
+    "venue": "Kings Place",
+    "address": "90 York Way, London N1 9AG",
+    "url": "https://www.kingsplace.co.uk/whats-on/nine-lessons-and-carols-for-curious-people/",
+    "source": "venue:kings-place",
+    "tags": [
+      "music",
+      "comedy",
+      "talk"
+    ],
+    "price": "TBC (Kings Place, typically £25-35)",
+    "description": "Robin Ince's science-variety Christmas extravaganza — scientists, comedians and musicians, 3.5 hours of nerdy festive joy. Separate performance from the 12 Dec show already on the calendar (an 11 Dec show also exists).",
+    "neighbourhood": "King's Cross",
+    "cycle_minutes": 30,
+    "added": "2026-09-06T06:17:42Z",
+    "id": "nine-lessons-and-carols-for-curious-people-sunday-show-d29875e6"
+  },
+  {
+    "title": "Catherina Lee & Miles Walter at Kings Place",
+    "start": "2026-12-14T20:00:00+00:00",
+    "end": "2026-12-14T21:45:00+00:00",
+    "venue": "Kings Place",
+    "address": "90 York Way, London N1 9AG",
+    "url": "https://www.kingsplace.co.uk/whats-on/classical/catherina-lee-and-miles-walter/",
+    "source": "venue:kings-place",
+    "tags": [
+      "music"
+    ],
+    "price": "TBC (Kings Place, typically £15-25)",
+    "description": "Violin-and-piano recital pairing Mozart, Debussy and Franck's great Sonata with Kurtág and Dora Pejačević — fills the last empty pre-Christmas calendar day (Mon 14 Dec).",
+    "neighbourhood": "King's Cross",
+    "cycle_minutes": 30,
+    "added": "2026-09-06T06:17:42Z",
+    "id": "catherina-lee-miles-walter-at-kings-place-591228cd"
   },
   {
     "id": "sharp-s-folk-club-festive-party-2eeaddf7",
