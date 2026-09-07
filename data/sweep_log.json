@@ -1,5 +1,11 @@
 [
   {
+    "ran_at": "2026-09-07T07:55:00+01:00",
+    "added": 24,
+    "considered": 130,
+    "notes": "Talks/science institutions + folk-jazz circuit. RI autumn programme mined (6 talks incl Dijkgraaf Einstein Telescope 2 Nov, Halloween ShRIek 31 Oct; near-dup Life Scientific Chris Packham caught — same 6 Oct event, different URL). Gresham free lectures added (5 incl Czerski nitrogen 19 Nov, Sarah Hart Maths of Christmas 16 Dec; Durham lookalike excluded). Conway Hall Ethical Matters: Why Pubs Matter 18 Nov (very Bart) + AI disinformation 29 Nov. STANDOUT: Thurston Moore improv duo at Vortex 8 Nov (~£15-20, clash w/ Ali Doğan Gönültaş KP); Craig Taborn/Peter Evans Vortex 28 Oct. OTO: JJJJJerome Ellis 4 Oct, Wendy Eisenberg 9 Nov (day one sold out), ØKSE 24 Nov. Hoxton Hall: Howling Bells 6 Nov, Sorcha Richardson 10 Nov. Green Note via Songkick fallback (site SiteGround-captcha'd, prices est): Richard Shindell 11 Nov, Rheingans Sisters 16 Nov. Sofie Hagen WIP Bill Murray 18 Oct. SOLD-OUT FLAGS added to existing entries: Hayden Thorpe Hoxton Hall 18-19 Nov (both nights), Simon Finn OTO 18 Oct. ACX adult list STILL unposted (7 Sep). LessWrong GraphQL works but zero London events this poll. Moth StorySLAM still nothing. Techniques: rigb.org via sitemap.xml lastmod filter; gresham.ac.uk needs headless click-through (Fastly 403s curl); Angel Comedy AJAX times carry spurious +00:00 — treat as London local. Sold-out spares noted: Dar Williams GN 8 Oct, Carl Stone OTO 25 Oct, many Hoxton Hall autumn shows."
+  },
+  {
     "ran_at": "2026-09-06T07:55:00+01:00",
     "added": 39,
     "considered": 1076,
@@ -172,11 +178,5 @@
     "added": 18,
     "considered": 400,
     "notes": "Science-institutions pass — Royal Institution FINALLY cracked (headless click-through of 8 JS pages). Added 18: Ri x7 (Haldane genetics lecture 14 Sep, hidden-data talk 19 Sep, Rovelli Discourse 25 Sep — night after his Union Chapel date, Life Scientific w/ Packham 6 Oct, WiFi Wars 9 Oct, CERN DG Discourse 16 Oct, Spoken Nerd 24 Oct); free Crick panel w/ Mary Beard on ancient Roman DNA 9 Sep; New Scientist Live 10-11 Oct; City Lit Alexander Technique day 11 Oct (£99 — flagged, high-priority-lane exception); free eclipse-night park CI jam Regent's Pk THIS WED 12 Aug (weekly to 2 Sep); Rorshokito London-2036 discussion 23 Aug + Victoria Pk social picnic 23 Aug; Campaign Lab 24 Aug (REPLACES 31 Aug — old entry flagged, Newspeak delisted it); Rose Lipman CI jams 21 Sep + 5 Oct (also 19 Oct, 2 Nov); Totally Thames: FLOW pier concert 3 Sep + free Mudlarks symposium 5-6 Sep. Ri spares (all verified, £16/£10): underground ecosystems 7 Sep, birds 26 Sep, energy materials 3 Oct, Art Cure 5 Oct, Szydlo chemistry 10 Oct, JWST 17 Oct, fusion 26 Oct. Other spares: QUARTET improv weekend 19-20 Sep NW5, Vocal Playground 27 Sep, apple pressing + conker tournament 26 Sep. Still dark: Ecstatic Saturdays Sept (MVMNT is one of its rotating themes — will surface together), Wellcome autumn, Science Gallery autumn, Turning Earth tasters (£85 via BookWhen, no clean dates), Time Out/Skiddle blocked."
-  },
-  {
-    "ran_at": "2026-08-09T07:40:00+01:00",
-    "added": 27,
-    "considered": 130,
-    "notes": "Late-September gap fill + October opener. Every empty day 20-29 Sep now has at least one option. Added 27: late-Sep — SUN•DAY ecstatic dance 20 Sep, Migrateful refugee-chef cookery 20 Sep, free OBL bill 20 Sep, Campaign Lab 21 Sep, Jim Ghedi folk at MOTH 22 Sep, Nagasaki Swim 23 Sep, Goûté Bon supper club E2 25 Sep, Soundhood multi-venue festival 25-26 Sep, pottery workshop E9 26 Sep, Tellison 26 Sep, Consent&Connection + Portals 27 Sep, K-Music EartH + TIM KEY at Wilton's (28 Sep-3 Oct) 28 Sep, HONEYMOAN 29 Sep, Rick Nodine weekly CI class 30 Sep (term is at Acland Burghley Tufnell Park NOT The Place, running since 7 Sep); Oct — John Myrtle SJQ 1 Oct, Alela Diane 4 Oct, Campaign Lab 5 Oct, Balkanplus + Barndance both 10 Oct (same-building clash noted), Tiny Vipers folk bill SJQ 11 Oct, ceilidh 16 Oct, Brown Horse 22 Oct, Sex & Psychedelics 24 Oct (price-flagged), Rick Nodine TRAINING GROUND intensive 29 Oct-1 Nov (£175-220, rare-format exception — long-watched anchor resolved). TECHNIQUE: DICE full listings via api.dice.fm/venue_profiles/<id>?all_events=true (ids: MOTH 43, OBL 37, Shacklewell 10, Victoria 54, Sebright 163, SJQ 181, PDV 373). Spares logged by scout: Le Vent du Nord CSH 24 Sep, Leveret 1 Oct, Goblin Band 31 Oct, Oi Va Voi EartH 1 Oct, DIY Alive 3 Oct, Simon Amstell 9 Oct, Ben Watt & Tracey Thorn MOTH 25-27 Oct. Still open: RI autumn (JS pagination — needs interactive), Ceroc Party of the Year date unpublished, ACX list ~24 Aug, cicalendar October."
   }
 ]

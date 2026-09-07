@@ -3769,6 +3769,20 @@ LOCATION:Ecstatic Dance London venue\, Tufnell Park\, Burghley Road\, NW5
  (address on booking)
 END:VEVENT
 BEGIN:VEVENT
+UID:conversations-about-death-wellcome-collection-free-34905e02@london-eve
+ nts
+DTSTAMP:20261003T110000Z
+DTSTART:20261003T110000Z
+DTEND:20261003T123000Z
+SUMMARY:Conversations About Death — Wellcome Collection (free)
+DESCRIPTION:Facilitated 18+ drop-in discussion about death and dying at We
+ llcome Collection — a death-cafe-style Saturday session\, relaxed forma
+ t.\nPrice: Free\nhttps://wellcomecollection.org/events/conversations-abou
+ t-death-oct26
+URL:https://wellcomecollection.org/events/conversations-about-death-oct26
+LOCATION:Wellcome Collection\, 183 Euston Road\, NW1 2BE
+END:VEVENT
+BEGIN:VEVENT
 UID:diy-alive-festival-2026-sports-team-nell-mescal-feet-walt-di-a132649a@
  london-events
 DTSTAMP:20261003T120000Z
@@ -3891,6 +3905,20 @@ DESCRIPTION:Portland folk singer-songwriter Alela Diane — hushed\, timel
 URL:https://earthackney.co.uk/events/alela-diane-4th-oct-earth-london-tick
  ets-7dkq9v/
 LOCATION:EartH\, 11-17 Stoke Newington Road\, N16 8BP
+END:VEVENT
+BEGIN:VEVENT
+UID:jjjjjerome-ellis-at-cafe-oto-da6d6402@london-events
+DTSTAMP:20261004T183000Z
+DTSTART:20261004T183000Z
+DTEND:20261004T210000Z
+SUMMARY:JJJJJerome Ellis at Cafe OTO
+DESCRIPTION:Composer-poet JJJJJerome Ellis turns his stutter into hypnotic
+  music of saxophone\, electronics and speech — acclaimed\, moving\, and
+  very accessible for OTO. (Same night as Cory Hanson at MOTH.)\nPrice: TB
+ C (OTO adv usually £12-£18)\nhttps://www.cafeoto.co.uk/events/jjjjjerom
+ e-ellis-2026/
+URL:https://www.cafeoto.co.uk/events/jjjjjerome-ellis-2026/
+LOCATION:Cafe OTO\, 18-22 Ashwin Street\, Dalston\, E8 3DL
 END:VEVENT
 BEGIN:VEVENT
 UID:monday-contact-improv-class-jam-at-rose-lipman-5-oct-e0f48c0a@london-e
@@ -5036,6 +5064,20 @@ URL:https://whatson.bfi.org.uk/lff/Online/default.asp?doWork::WScontent::l
 LOCATION:BFI Southbank\, Belvedere Road\, South Bank\, SE1 8XT
 END:VEVENT
 BEGIN:VEVENT
+UID:sofie-hagen-is-going-to-be-on-stage-talking-the-bill-murray-67e8ba23@l
+ ondon-events
+DTSTAMP:20261018T180000Z
+DTSTART:20261018T180000Z
+DTEND:20261018T190000Z
+SUMMARY:Sofie Hagen is going to be on stage talking — The Bill Murray
+DESCRIPTION:Danish comedian and author Sofie Hagen works through new mater
+ ial in Angel Comedy's 80-seat pub room. Second date Mon 19 Oct 6.30pm if 
+ Sunday sells out.\nPrice: ~£10-£15\nhttps://www.angelcomedy.co.uk/whats
+ -on/
+URL:https://www.angelcomedy.co.uk/whats-on/
+LOCATION:The Bill Murray (Angel Comedy)\, 39 Queen's Head Street\, N1 8NQ
+END:VEVENT
+BEGIN:VEVENT
 UID:lff-closing-night-gala-the-debut-jesse-eisenberg-uk-premiere-fdb818ff@
  london-events
 DTSTAMP:20261018T181500Z
@@ -5064,8 +5106,8 @@ DTEND:20261018T203000Z
 SUMMARY:Simon Finn + The Owl Service at Cafe OTO
 DESCRIPTION:Cult acid-folk singer Simon Finn ('Pass the Distance'\, 1970) 
  with English folk-rock revivalists The Owl Service — a proper folk nigh
- t at OTO.\nhttps://www.cafeoto.co.uk/events/byh-simon-finn-tony-caro-and-
- john/
+ t at OTO. [NOW SOLD OUT at source\, 7 Sep — returns only.]\nhttps://www
+ .cafeoto.co.uk/events/byh-simon-finn-tony-caro-and-john/
 URL:https://www.cafeoto.co.uk/events/byh-simon-finn-tony-caro-and-john/
 LOCATION:Cafe OTO\, 18-22 Ashwin Street\, Dalston\, E8 3DL
 END:VEVENT
@@ -5133,6 +5175,22 @@ URL:https://newspeak.house/#events
 LOCATION:Newspeak House\, 133 Bethnal Green Road\, E2 7DG
 END:VEVENT
 BEGIN:VEVENT
+UID:did-neanderthals-hum-the-musicality-of-early-humans-steven-m-5fa5c733@
+ london-events
+DTSTAMP:20261019T180000Z
+DTSTART:20261019T180000Z
+DTEND:20261019T193000Z
+SUMMARY:Did Neanderthals hum? The musicality of early humans — Steven Mi
+ then
+DESCRIPTION:Archaeologist Steven Mithen traces the origins of music\, from
+  Neanderthal hums to the oldest instruments\, and its role in human evolu
+ tion.\nPrice: £7-£20\nhttps://www.rigb.org/whats-on/did-neanderthals-hu
+ m-musicality-early-humans
+URL:https://www.rigb.org/whats-on/did-neanderthals-hum-musicality-early-hu
+ mans
+LOCATION:Royal Institution\, 21 Albemarle Street\, Mayfair\, W1S 4BS
+END:VEVENT
+BEGIN:VEVENT
 UID:improvisers-ensemble-featuring-cleveland-watkiss-mbe-eb59e1ab@london-e
  vents
 DTSTAMP:20261020T180000Z
@@ -5159,6 +5217,20 @@ DESCRIPTION:Contemporary dance double bill redefining dance from the Afric
  w.hackneyempire.co.uk/events/twawsi-the-world-as-we-see-it
 URL:https://www.hackneyempire.co.uk/events/twawsi-the-world-as-we-see-it
 LOCATION:Hackney Empire\, 291 Mare Street\, E8 1EJ
+END:VEVENT
+BEGIN:VEVENT
+UID:gresham-college-why-is-there-music-milton-mermikides-free-b2f5f07b@lon
+ don-events
+DTSTAMP:20261021T170000Z
+DTSTART:20261021T170000Z
+DTEND:20261021T180000Z
+SUMMARY:Gresham College: Why Is There Music? — Milton Mermikides (free)
+DESCRIPTION:Gresham Professor of Music Milton Mermikides asks why music ex
+ ists at all — with live musical illustration\, at LSO St Luke's on Old 
+ Street. Register free.\nPrice: Free\nhttps://www.gresham.ac.uk/whats-on/w
+ hy-music
+URL:https://www.gresham.ac.uk/whats-on/why-music
+LOCATION:LSO St Luke's\, 161 Old Street\, EC1V 9NG
 END:VEVENT
 BEGIN:VEVENT
 UID:earth-tongue-at-the-old-blue-last-79a9fc1a@london-events
@@ -5643,6 +5715,21 @@ URL:https://dice.fm/event/69c2858b177b930001c13df3
 LOCATION:EartH\, 11 Stoke Newington Rd\, London N16 8BH
 END:VEVENT
 BEGIN:VEVENT
+UID:craig-taborn-peter-evans-at-vortex-jazz-club-2-shows-d51af3c3@london-e
+ vents
+DTSTAMP:20261028T193000Z
+DTSTART:20261028T193000Z
+DTEND:20261028T230000Z
+SUMMARY:Craig Taborn / Peter Evans at Vortex Jazz Club (2 shows)
+DESCRIPTION:Two of the most acclaimed improvisers alive — pianist Craig 
+ Taborn and trumpeter Peter Evans — play two sets at the Vortex. Book th
+ e early or late show.\nPrice: £23-£25\nhttps://www.universe.com/events/
+ craig-taborn-peter-evans-2-shows-tickets-17KP48
+URL:https://www.universe.com/events/craig-taborn-peter-evans-2-shows-ticke
+ ts-17KP48
+LOCATION:Vortex Jazz Club\, 11 Gillett Square\, Dalston\, N16 8AZ
+END:VEVENT
+BEGIN:VEVENT
 UID:training-ground-4-day-contact-improvisation-intensive-rick-n-bd8ce8ed@
  london-events
 DTSTAMP:20261029T100000Z
@@ -5738,6 +5825,20 @@ URL:https://dice.fm/event/bb9lbg-flowers-for-the-dead-30th-oct-the-shackle
 LOCATION:The Shacklewell Arms\, 71 Shacklewell Lane\, Dalston\, E8 2EB
 END:VEVENT
 BEGIN:VEVENT
+UID:shriek-the-spooky-science-of-the-paranormal-royal-institutio-8c6a2d6d@
+ london-events
+DTSTAMP:20261031T190000Z
+DTSTART:20261031T190000Z
+DTEND:20261031T210000Z
+SUMMARY:ShRIek: The spooky science of the paranormal — Royal Institution
+DESCRIPTION:Halloween-night adult special: Steve McNeil and Michael Cutts 
+ unpick ghosts\, hauntings and things that go bump with actual science.\nP
+ rice: £7-£20\nhttps://www.rigb.org/whats-on/shriek-spooky-science-paran
+ ormal
+URL:https://www.rigb.org/whats-on/shriek-spooky-science-paranormal
+LOCATION:Royal Institution\, 21 Albemarle Street\, Mayfair\, W1S 4BS
+END:VEVENT
+BEGIN:VEVENT
 UID:goblin-band-follia-4-folky-halloween-at-cecil-sharp-house-72a18002@lon
  don-events
 DTSTAMP:20261031T193000Z
@@ -5783,6 +5884,22 @@ DESCRIPTION:Bi-weekly hack night for progressive data scientists and activ
  ists working on election tech.\nPrice: Free\nhttps://luma.com/tb3nv9mj
 URL:https://luma.com/tb3nv9mj
 LOCATION:Newspeak House\, 133-135 Bethnal Green Road\, E2 7DG
+END:VEVENT
+BEGIN:VEVENT
+UID:the-einstein-telescope-discovery-and-diplomacy-robbert-dijkg-131639f3@
+ london-events
+DTSTAMP:20261102T190000Z
+DTSTART:20261102T190000Z
+DTEND:20261102T203000Z
+SUMMARY:The Einstein Telescope: Discovery and diplomacy — Robbert Dijkgr
+ aaf
+DESCRIPTION:Theoretical physicist and President-elect of the International
+  Science Council Robbert Dijkgraaf on the next-generation gravitational-w
+ ave observatory and the science diplomacy behind it.\nPrice: £7-£20\nht
+ tps://www.rigb.org/whats-on/einstein-telescope-discovery-and-diplomacy
+URL:https://www.rigb.org/whats-on/einstein-telescope-discovery-and-diploma
+ cy
+LOCATION:Royal Institution\, 21 Albemarle Street\, Mayfair\, W1S 4BS
 END:VEVENT
 BEGIN:VEVENT
 UID:horse-jumper-of-love-jawdropped-hammok-at-moth-club-8dd9092f@london-ev
@@ -6007,6 +6124,19 @@ URL:https://dice.fm/event/l8do3l-kiwi-jr-alien-boy-bleary-eyed-6th-nov-mot
 LOCATION:MOTH Club\, Old Trades Hall\, Valette Street\, E9 6NU
 END:VEVENT
 BEGIN:VEVENT
+UID:howling-bells-at-hoxton-hall-e84d7369@london-events
+DTSTAMP:20261106T193000Z
+DTSTART:20261106T193000Z
+DTEND:20261106T223000Z
+SUMMARY:Howling Bells at Hoxton Hall
+DESCRIPTION:Aussie-London indie-rock cult favourites reunited in the Victo
+ rian music hall — still available while many autumn Hoxton Hall shows h
+ ave sold out.\nPrice: ~£20-£25\nhttps://hoxtonhall.ticketsolve.com/show
+ s/1173690446/events/428870544
+URL:https://hoxtonhall.ticketsolve.com/shows/1173690446/events/428870544
+LOCATION:Hoxton Hall\, 130 Hoxton Street\, London N1 6SH
+END:VEVENT
+BEGIN:VEVENT
 UID:pitchfork-festival-2026-dalston-takeover-multi-venue-wristba-5643f2d5@
  london-events
 DTSTAMP:20261107T163000Z
@@ -6020,6 +6150,18 @@ DESCRIPTION:One wristband\, five Dalston venues\, Saturday from 4.30pm: Ps
 URL:https://dice.fm/event/6dkkxq
 LOCATION:EartH + Shacklewell Arms + The Victoria + Cafe OTO + St Matthias 
  Church\, Multiple venues\, Dalston N16/E8
+END:VEVENT
+BEGIN:VEVENT
+UID:the-neuroscience-of-sadness-parastoo-hashemi-92e516b7@london-events
+DTSTAMP:20261107T190000Z
+DTSTART:20261107T190000Z
+DTEND:20261107T203000Z
+SUMMARY:The neuroscience of sadness — Parastoo Hashemi
+DESCRIPTION:Imperial's Parastoo Hashemi on the brain chemistry of sadness 
+ and whether a simple test for depression could exist. Saturday evening ta
+ lk.\nPrice: £7-£20\nhttps://www.rigb.org/whats-on/neuroscience-sadness
+URL:https://www.rigb.org/whats-on/neuroscience-sadness
+LOCATION:Royal Institution\, 21 Albemarle Street\, Mayfair\, W1S 4BS
 END:VEVENT
 BEGIN:VEVENT
 UID:live-at-the-chapel-with-chris-mccausland-b7fcd1fa@london-events
@@ -6059,6 +6201,22 @@ URL:https://dice.fm/event/6a8c4844296ef500012b2d05
 LOCATION:The Shacklewell Arms\, 71 Shacklewell Lane\, E8 2EB
 END:VEVENT
 BEGIN:VEVENT
+UID:thurston-moore-and-mark-wastell-at-vortex-jazz-club-f568fdfd@london-ev
+ ents
+DTSTAMP:20261108T190000Z
+DTSTART:20261108T190000Z
+DTEND:20261108T223000Z
+SUMMARY:Thurston Moore and Mark Wastell at Vortex Jazz Club
+DESCRIPTION:Sonic Youth's Thurston Moore in an improvised duo with percuss
+ ionist Mark Wastell — a rare small-room chance to see him\, in Gillett 
+ Square. (Same night as Ali Doğan Gönültaş at Kings Place.)\nPrice: £
+ 15-£20\nhttps://www.universe.com/events/thurston-moore-and-mark-wastell-
+ tickets-V1CRMG
+URL:https://www.universe.com/events/thurston-moore-and-mark-wastell-ticket
+ s-V1CRMG
+LOCATION:Vortex Jazz Club\, 11 Gillett Square\, Dalston\, N16 8AZ
+END:VEVENT
+BEGIN:VEVENT
 UID:ali-do-an-g-n-lta-at-kings-place-cfdf51c6@london-events
 DTSTAMP:20261108T193000Z
 DTSTART:20261108T193000Z
@@ -6085,6 +6243,20 @@ URL:https://unionchapel.org.uk/whats-on/nu-civilisation-orchestra
 LOCATION:Union Chapel\, Compton Terrace\, Islington\, N1 2UN
 END:VEVENT
 BEGIN:VEVENT
+UID:wendy-eisenberg-jasper-llewellyn-at-cafe-oto-2090e45c@london-events
+DTSTAMP:20261109T193000Z
+DTSTART:20261109T193000Z
+DTEND:20261109T220000Z
+SUMMARY:Wendy Eisenberg + Jasper Llewellyn at Cafe OTO
+DESCRIPTION:Virtuoso guitarist-songwriter Wendy Eisenberg (day one with Ta
+ ra Clerkin Trio already sold out) — song-forward avant-folk\, very list
+ enable.\nPrice: TBC (OTO adv usually £12-£18)\nhttps://www.cafeoto.co.u
+ k/events/upset-the-rhythm-presents-wendy-eisenberg-day-two/
+URL:https://www.cafeoto.co.uk/events/upset-the-rhythm-presents-wendy-eisen
+ berg-day-two/
+LOCATION:Cafe OTO\, 18-22 Ashwin Street\, Dalston\, E8 3DL
+END:VEVENT
+BEGIN:VEVENT
 UID:sebright-quiz-night-5c97a609@london-events
 DTSTAMP:20261109T200000Z
 DTSTART:20261109T200000Z
@@ -6109,6 +6281,46 @@ DESCRIPTION:Manchester's baritone-led slow-burn indie band play White Wate
 URL:https://unionchapel.org.uk/whats-on/the-slow-show-white-water-annivers
  ary-live-tour
 LOCATION:Union Chapel\, Compton Terrace\, Islington\, N1 2UN
+END:VEVENT
+BEGIN:VEVENT
+UID:sorcha-richardson-at-hoxton-hall-64e5b482@london-events
+DTSTAMP:20261110T190000Z
+DTSTART:20261110T190000Z
+DTEND:20261110T220000Z
+SUMMARY:Sorcha Richardson at Hoxton Hall
+DESCRIPTION:Dublin indie singer-songwriter (Choice Prize nominee) — inti
+ mate night in the Victorian music hall on Hoxton Street.\nPrice: ~£18-£
+ 22\nhttps://hoxtonhall.ticketsolve.com/shows/1173687193/events/428854906
+URL:https://hoxtonhall.ticketsolve.com/shows/1173687193/events/428854906
+LOCATION:Hoxton Hall\, 130 Hoxton Street\, London N1 6SH
+END:VEVENT
+BEGIN:VEVENT
+UID:gresham-college-our-sun-our-star-chris-lintott-free-e64b0021@london-ev
+ ents
+DTSTAMP:20261111T190000Z
+DTSTART:20261111T190000Z
+DTEND:20261111T200000Z
+SUMMARY:Gresham College: Our Sun\, Our Star — Chris Lintott (free)
+DESCRIPTION:Sky at Night presenter Chris Lintott on the star we live with 
+ — flares\, space weather and the latest solar missions. Free evening le
+ cture at Conway Hall.\nPrice: Free\nhttps://www.gresham.ac.uk/whats-on/su
+ n-star
+URL:https://www.gresham.ac.uk/whats-on/sun-star
+LOCATION:Conway Hall\, 25 Red Lion Square\, WC1R 4RL
+END:VEVENT
+BEGIN:VEVENT
+UID:richard-shindell-at-green-note-86595999@london-events
+DTSTAMP:20261111T190000Z
+DTSTART:20261111T190000Z
+DTEND:20261111T220000Z
+SUMMARY:Richard Shindell at Green Note
+DESCRIPTION:Revered American folk songwriter (Cry Cry Cry\, covered by Joa
+ n Baez) in Camden's tiny candlelit folk room. Doors 7pm.\nPrice: ~£20 (e
+ st — Green Note site captcha-blocked\, verified via Songkick)\nhttps://
+ www.songkick.com/concerts/43041004-richard-shindell-at-green-note
+URL:https://www.songkick.com/concerts/43041004-richard-shindell-at-green-n
+ ote
+LOCATION:Green Note\, 106 Parkway\, Camden\, NW1 7AN
 END:VEVENT
 BEGIN:VEVENT
 UID:aayushi-ray-vincent-mills-hannah-lou-clark-at-paper-dress-vi-bcdfa5ed@
@@ -6262,6 +6474,19 @@ URL:https://islingtonassemblyhall.co.uk/events/elephant-sessions-14th-nov-
 LOCATION:Islington Assembly Hall\, Upper Street\, N1 2UD
 END:VEVENT
 BEGIN:VEVENT
+UID:how-to-grow-a-quantum-computer-royal-institution-907569b4@london-event
+ s
+DTSTAMP:20261114T190000Z
+DTSTART:20261114T190000Z
+DTEND:20261114T203000Z
+SUMMARY:How to grow a quantum computer — Royal Institution
+DESCRIPTION:What could replace silicon in the quantum age? Saturday evenin
+ g talk in the Faraday theatre.\nPrice: £7-£20\nhttps://www.rigb.org/wha
+ ts-on/how-grow-quantum-computer
+URL:https://www.rigb.org/whats-on/how-grow-quantum-computer
+LOCATION:Royal Institution\, 21 Albemarle Street\, Mayfair\, W1S 4BS
+END:VEVENT
+BEGIN:VEVENT
 UID:blazin-fiddles-at-kings-place-488b26ff@london-events
 DTSTAMP:20261114T200000Z
 DTSTART:20261114T200000Z
@@ -6298,6 +6523,20 @@ DESCRIPTION:Bi-weekly hack night at Newspeak House.\nPrice: Free\nhttps://
  luma.com/4k86xhn4
 URL:https://luma.com/4k86xhn4
 LOCATION:Newspeak House\, 133-135 Bethnal Green Road\, E2 7DG
+END:VEVENT
+BEGIN:VEVENT
+UID:rheingans-sisters-at-green-note-c8184ba9@london-events
+DTSTAMP:20261116T190000Z
+DTSTART:20261116T190000Z
+DTEND:20261116T220000Z
+SUMMARY:Rheingans Sisters at Green Note
+DESCRIPTION:BBC Folk Award-winning fiddle-and-song duo\, evening show (the
+ re's also a Sun 15 Nov matinee if Monday doesn't suit). Doors 7pm.\nPrice
+ : ~£18 (est — verified via Songkick)\nhttps://www.songkick.com/concert
+ s/43340902-rheingans-sisters-at-green-note
+URL:https://www.songkick.com/concerts/43340902-rheingans-sisters-at-green-
+ note
+LOCATION:Green Note\, 106 Parkway\, Camden\, NW1 7AN
 END:VEVENT
 BEGIN:VEVENT
 UID:elephant-stone-at-moth-club-d7a3328c@london-events
@@ -6356,6 +6595,19 @@ URL:https://dice.fm/event/6d8nmq-keg-relaxing-near-the-hospital-album-tour
 LOCATION:MOTH Club\, Old Trades Hall\, Valette Street\, E9 6NU
 END:VEVENT
 BEGIN:VEVENT
+UID:ethical-matters-why-pubs-matter-amit-singh-lydia-wood-87425a5e@london-
+ events
+DTSTAMP:20261118T183000Z
+DTSTART:20261118T183000Z
+DTEND:20261118T200000Z
+SUMMARY:Ethical Matters: Why Pubs Matter — Amit Singh & Lydia Wood
+DESCRIPTION:Sociologist Amit Singh and pub-drawing artist Lydia Wood on pu
+ bs as community infrastructure and how to save them. Doors 6pm.\nPrice: 
+ £12 adv\nhttps://www.conwayhall.org.uk/whats-on/event/why-pubs-matter/
+URL:https://www.conwayhall.org.uk/whats-on/event/why-pubs-matter/
+LOCATION:Conway Hall\, 25 Red Lion Square\, WC1R 4RL
+END:VEVENT
+BEGIN:VEVENT
 UID:gigi-masin-at-earth-249d14e2@london-events
 DTSTAMP:20261118T190000Z
 DTSTART:20261118T190000Z
@@ -6376,9 +6628,10 @@ DTSTART:20261118T190000Z
 DTEND:20261118T210000Z
 SUMMARY:Hayden Thorpe performs the songs of Wild Beasts — Hoxton Hall
 DESCRIPTION:Wild Beasts' frontman revisits the band's catalogue in a tiny 
- 19th-century music hall\; second night 19 Nov. Adds to a stacked 18 Nov.\
- nPrice: see booking page\nhttps://hoxtonhall.ticketsolve.com/shows/117367
- 8614/events
+ 19th-century music hall\; second night 19 Nov. Adds to a stacked 18 Nov. 
+ [NOW SOLD OUT at source (both nights)\, 7 Sep — returns only.]\nPrice: 
+ see booking page\nhttps://hoxtonhall.ticketsolve.com/shows/1173678614/eve
+ nts
 URL:https://hoxtonhall.ticketsolve.com/shows/1173678614/events
 LOCATION:Hoxton Hall\, 130 Hoxton Street\, N1 6SH
 END:VEVENT
@@ -6408,6 +6661,20 @@ DESCRIPTION:MOBO-nominated singer and cellist blending soul\, jazz and fol
  yanna-witter-johnson-4
 URL:https://efglondonjazzfestival.org.uk/events/ayanna-witter-johnson-4
 LOCATION:93 Feet East\, 150 Brick Lane\, E1 6QL
+END:VEVENT
+BEGIN:VEVENT
+UID:gresham-college-life-death-and-bubbles-earth-s-nitrogen-hele-69d0059e@
+ london-events
+DTSTAMP:20261119T180000Z
+DTSTART:20261119T180000Z
+DTEND:20261119T190000Z
+SUMMARY:Gresham College: Life\, Death and Bubbles — Earth's Nitrogen —
+  Helen Czerski (free)
+DESCRIPTION:Physicist and broadcaster Helen Czerski tells the story of Ear
+ th's nitrogen — the quiet gas behind life\, death and bubbles. Free\, 6
+ pm.\nPrice: Free\nhttps://www.gresham.ac.uk/whats-on/earths-nitrogen
+URL:https://www.gresham.ac.uk/whats-on/earths-nitrogen
+LOCATION:Barnard's Inn Hall\, Holborn\, EC1N 2HH
 END:VEVENT
 BEGIN:VEVENT
 UID:soot-sprite-at-the-victoria-cf1fec6f@london-events
@@ -6531,6 +6798,19 @@ URL:https://www.ceroc.com/30/15544/ceroc-champs-saturday-finals-freestyle-
 LOCATION:JFS School\, The Mall\, Harrow HA3 9TE
 END:VEVENT
 BEGIN:VEVENT
+UID:the-future-of-ai-is-tiny-and-physical-royal-institution-783df41b@londo
+ n-events
+DTSTAMP:20261121T190000Z
+DTSTART:20261121T190000Z
+DTEND:20261121T203000Z
+SUMMARY:The future of AI is tiny and physical — Royal Institution
+DESCRIPTION:How tiny\, embedded AI could make environments safer and smart
+ er\, with people and trust at the centre. Saturday evening talk.\nPrice: 
+ £7-£20\nhttps://www.rigb.org/whats-on/future-ai-tiny-and-physical
+URL:https://www.rigb.org/whats-on/future-ai-tiny-and-physical
+LOCATION:Royal Institution\, 21 Albemarle Street\, Mayfair\, W1S 4BS
+END:VEVENT
+BEGIN:VEVENT
 UID:silver-birch-wareham-goller-betamax-sharkey-at-moth-club-50fdf38d@lond
  on-events
 DTSTAMP:20261121T193000Z
@@ -6625,6 +6905,21 @@ DESCRIPTION:Chilean singer-producer-drummer Cancamusa brings her dreamy La
  53mo3w-cancamusa-24th-nov-sjq-london-tickets
 URL:https://dice.fm/event/53mo3w-cancamusa-24th-nov-sjq-london-tickets
 LOCATION:Servant Jazz Quarters\, 10A Bradbury Street\, N16 8JN
+END:VEVENT
+BEGIN:VEVENT
+UID:kse-savannah-harris-mette-rasmussen-val-jeanty-petter-eldh-a-f137ca85@
+ london-events
+DTSTAMP:20261124T193000Z
+DTSTART:20261124T193000Z
+DTEND:20261124T220000Z
+SUMMARY:ØKSE — Savannah Harris / Mette Rasmussen / Val Jeanty / Petter 
+ Eldh at Cafe OTO
+DESCRIPTION:Punchy transatlantic supergroup — drums\, sax\, turntablism 
+ and bass — one of the more accessible heavy-hitters on OTO's autumn car
+ d. (Same night as Harry Hill WIP at MOTH.)\nPrice: TBC (OTO adv usually 
+ £12-£18)\nhttps://www.cafeoto.co.uk/events/okse/
+URL:https://www.cafeoto.co.uk/events/okse/
+LOCATION:Cafe OTO\, 18-22 Ashwin Street\, Dalston\, E8 3DL
 END:VEVENT
 BEGIN:VEVENT
 UID:ibibio-sound-machine-at-islington-assembly-hall-6b134004@london-events
@@ -6824,6 +7119,21 @@ URL:https://www.kingsplace.co.uk/whats-on/
 LOCATION:Kings Place\, 90 York Way\, London N1 9AG
 END:VEVENT
 BEGIN:VEVENT
+UID:ethical-matters-ai-and-online-disinformation-niamh-mcintyre-a2f49757@l
+ ondon-events
+DTSTAMP:20261129T150000Z
+DTSTART:20261129T150000Z
+DTEND:20261129T163000Z
+SUMMARY:Ethical Matters: AI and Online Disinformation — Niamh McIntyre
+DESCRIPTION:Bureau of Investigative Journalism tech reporter Niamh McIntyr
+ e on 'slopaganda' — the commercial machinery churning out far-right AI 
+ content. Sunday 3pm.\nPrice: £12 adv\nhttps://www.conwayhall.org.uk/what
+ s-on/event/ai-and-online-disinformation/
+URL:https://www.conwayhall.org.uk/whats-on/event/ai-and-online-disinformat
+ ion/
+LOCATION:Conway Hall\, 25 Red Lion Square\, WC1R 4RL
+END:VEVENT
+BEGIN:VEVENT
 UID:la-plan-te-sauvage-screening-with-live-score-by-haha-sounds--55829911@
  london-events
 DTSTAMP:20261129T190000Z
@@ -6849,6 +7159,20 @@ DESCRIPTION:Bi-weekly hack night at Newspeak House — fills the otherwise
  -empty 30 Nov.\nPrice: Free\nhttps://luma.com/pn8du6nq
 URL:https://luma.com/pn8du6nq
 LOCATION:Newspeak House\, 133-135 Bethnal Green Road\, E2 7DG
+END:VEVENT
+BEGIN:VEVENT
+UID:gresham-college-ai-as-muse-creativity-provocation-and-human--1188f869@
+ london-events
+DTSTAMP:20261201T180000Z
+DTSTART:20261201T180000Z
+DTEND:20261201T190000Z
+SUMMARY:Gresham College: AI as Muse? Creativity\, Provocation and Human Ow
+ nership (free)
+DESCRIPTION:Professor Matt Jones argues generative AI works as provocateur
+  rather than creator\, and asks who owns the results. Free\, 6pm.\nPrice:
+  Free\nhttps://www.gresham.ac.uk/whats-on/ai-muse
+URL:https://www.gresham.ac.uk/whats-on/ai-muse
+LOCATION:Barnard's Inn Hall\, Holborn\, EC1N 2HH
 END:VEVENT
 BEGIN:VEVENT
 UID:david-j-bauhaus-love-and-rockets-at-moth-club-bb8ea4da@london-events
@@ -7242,6 +7566,19 @@ DESCRIPTION:Festive edition of the friendly weekly singaround folk club
 URL:https://www.efdss.org/whats-on/73-folk-club/16220-sharps-folk-club-fes
  tive-party
 LOCATION:Cecil Sharp House\, 2 Regent's Park Road\, NW1 7AY
+END:VEVENT
+BEGIN:VEVENT
+UID:gresham-college-the-maths-of-christmas-sarah-hart-free-b68b9167@london
+ -events
+DTSTAMP:20261216T180000Z
+DTSTART:20261216T180000Z
+DTEND:20261216T190000Z
+SUMMARY:Gresham College: The Maths of Christmas — Sarah Hart (free)
+DESCRIPTION:Sarah Hart (ex-Gresham Professor of Geometry\, always a joy) o
+ n the mathematics hiding in Christmas. Free festive lecture\, 6pm.\nPrice
+ : Free\nhttps://www.gresham.ac.uk/whats-on/maths-christmas
+URL:https://www.gresham.ac.uk/whats-on/maths-christmas
+LOCATION:Barnard's Inn Hall\, Holborn\, EC1N 2HH
 END:VEVENT
 BEGIN:VEVENT
 UID:knock2bag-comedy-night-with-katie-norris-e52f8205@london-events

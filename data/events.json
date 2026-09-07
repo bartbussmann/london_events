@@ -5032,6 +5032,25 @@
     "added": "2026-08-31"
   },
   {
+    "title": "Conversations About Death — Wellcome Collection (free)",
+    "start": "2026-10-03T12:00:00+01:00",
+    "end": "2026-10-03T13:30:00+01:00",
+    "venue": "Wellcome Collection",
+    "address": "183 Euston Road, NW1 2BE",
+    "url": "https://wellcomecollection.org/events/conversations-about-death-oct26",
+    "source": "venue:wellcome-collection",
+    "tags": [
+      "talk",
+      "community"
+    ],
+    "price": "Free",
+    "description": "Facilitated 18+ drop-in discussion about death and dying at Wellcome Collection — a death-cafe-style Saturday session, relaxed format.",
+    "neighbourhood": "Euston",
+    "cycle_minutes": 28,
+    "added": "2026-09-07T06:21:08Z",
+    "id": "conversations-about-death-wellcome-collection-free-34905e02"
+  },
+  {
     "id": "diy-alive-festival-2026-sports-team-nell-mescal-feet-walt-di-a132649a",
     "title": "DIY Alive Festival 2026 — Sports Team, Nell Mescal, FEET, Walt Disco",
     "start": "2026-10-03T13:00:00+01:00",
@@ -5194,6 +5213,24 @@
     "neighbourhood": "Dalston",
     "cycle_minutes": 14,
     "added": "2026-08-09"
+  },
+  {
+    "title": "JJJJJerome Ellis at Cafe OTO",
+    "start": "2026-10-04T19:30:00+01:00",
+    "end": "2026-10-04T22:00:00+01:00",
+    "venue": "Cafe OTO",
+    "address": "18-22 Ashwin Street, Dalston, E8 3DL",
+    "url": "https://www.cafeoto.co.uk/events/jjjjjerome-ellis-2026/",
+    "source": "venue:cafe-oto",
+    "tags": [
+      "music"
+    ],
+    "price": "TBC (OTO adv usually £12-£18)",
+    "description": "Composer-poet JJJJJerome Ellis turns his stutter into hypnotic music of saxophone, electronics and speech — acclaimed, moving, and very accessible for OTO. (Same night as Cory Hanson at MOTH.)",
+    "neighbourhood": "Dalston",
+    "cycle_minutes": 14,
+    "added": "2026-09-07T06:21:08Z",
+    "id": "jjjjjerome-ellis-at-cafe-oto-da6d6402"
   },
   {
     "id": "monday-contact-improv-class-jam-at-rose-lipman-5-oct-e0f48c0a",
@@ -6676,6 +6713,24 @@
     "added": "2026-09-02"
   },
   {
+    "title": "Sofie Hagen is going to be on stage talking — The Bill Murray",
+    "start": "2026-10-18T19:00:00+01:00",
+    "end": "2026-10-18T20:00:00+01:00",
+    "venue": "The Bill Murray (Angel Comedy)",
+    "address": "39 Queen's Head Street, N1 8NQ",
+    "url": "https://www.angelcomedy.co.uk/whats-on/",
+    "source": "venue:angel-comedy",
+    "tags": [
+      "comedy"
+    ],
+    "price": "~£10-£15",
+    "description": "Danish comedian and author Sofie Hagen works through new material in Angel Comedy's 80-seat pub room. Second date Mon 19 Oct 6.30pm if Sunday sells out.",
+    "neighbourhood": "Angel",
+    "cycle_minutes": 18,
+    "added": "2026-09-07T06:21:08Z",
+    "id": "sofie-hagen-is-going-to-be-on-stage-talking-the-bill-murray-67e8ba23"
+  },
+  {
     "id": "lff-closing-night-gala-the-debut-jesse-eisenberg-uk-premiere-fdb818ff",
     "title": "LFF Closing Night Gala: The Debut (Jesse Eisenberg) — UK premiere",
     "start": "2026-10-18T19:15:00+01:00",
@@ -6707,7 +6762,7 @@
       "music"
     ],
     "price": null,
-    "description": "Cult acid-folk singer Simon Finn ('Pass the Distance', 1970) with English folk-rock revivalists The Owl Service — a proper folk night at OTO.",
+    "description": "Cult acid-folk singer Simon Finn ('Pass the Distance', 1970) with English folk-rock revivalists The Owl Service — a proper folk night at OTO. [NOW SOLD OUT at source, 7 Sep — returns only.]",
     "neighbourhood": "Dalston",
     "cycle_minutes": 14,
     "added": "2026-08-28"
@@ -6807,6 +6862,24 @@
     "added": "2026-08-16"
   },
   {
+    "title": "Did Neanderthals hum? The musicality of early humans — Steven Mithen",
+    "start": "2026-10-19T19:00:00+01:00",
+    "end": "2026-10-19T20:30:00+01:00",
+    "venue": "Royal Institution",
+    "address": "21 Albemarle Street, Mayfair, W1S 4BS",
+    "url": "https://www.rigb.org/whats-on/did-neanderthals-hum-musicality-early-humans",
+    "source": "venue:royal-institution",
+    "tags": [
+      "talk"
+    ],
+    "price": "£7-£20",
+    "description": "Archaeologist Steven Mithen traces the origins of music, from Neanderthal hums to the oldest instruments, and its role in human evolution.",
+    "neighbourhood": "Mayfair",
+    "cycle_minutes": 35,
+    "added": "2026-09-07T06:21:08Z",
+    "id": "did-neanderthals-hum-the-musicality-of-early-humans-steven-m-5fa5c733"
+  },
+  {
     "id": "improvisers-ensemble-featuring-cleveland-watkiss-mbe-eb59e1ab",
     "title": "Improvisers' Ensemble featuring Cleveland Watkiss MBE",
     "start": "2026-10-20T19:00:00+01:00",
@@ -6842,6 +6915,25 @@
     "neighbourhood": "Hackney Central",
     "cycle_minutes": 12,
     "added": "2026-08-15"
+  },
+  {
+    "title": "Gresham College: Why Is There Music? — Milton Mermikides (free)",
+    "start": "2026-10-21T18:00:00+01:00",
+    "end": "2026-10-21T19:00:00+01:00",
+    "venue": "LSO St Luke's",
+    "address": "161 Old Street, EC1V 9NG",
+    "url": "https://www.gresham.ac.uk/whats-on/why-music",
+    "source": "venue:gresham-college",
+    "tags": [
+      "talk",
+      "music"
+    ],
+    "price": "Free",
+    "description": "Gresham Professor of Music Milton Mermikides asks why music exists at all — with live musical illustration, at LSO St Luke's on Old Street. Register free.",
+    "neighbourhood": "Old Street",
+    "cycle_minutes": 10,
+    "added": "2026-09-07T06:21:08Z",
+    "id": "gresham-college-why-is-there-music-milton-mermikides-free-b2f5f07b"
   },
   {
     "id": "earth-tongue-at-the-old-blue-last-79a9fc1a",
@@ -7503,6 +7595,24 @@
     "id": "jasmine-myra-at-earth-bcd3115c"
   },
   {
+    "title": "Craig Taborn / Peter Evans at Vortex Jazz Club (2 shows)",
+    "start": "2026-10-28T19:30:00+00:00",
+    "end": "2026-10-28T23:00:00+00:00",
+    "venue": "Vortex Jazz Club",
+    "address": "11 Gillett Square, Dalston, N16 8AZ",
+    "url": "https://www.universe.com/events/craig-taborn-peter-evans-2-shows-tickets-17KP48",
+    "source": "venue:vortex",
+    "tags": [
+      "music"
+    ],
+    "price": "£23-£25",
+    "description": "Two of the most acclaimed improvisers alive — pianist Craig Taborn and trumpeter Peter Evans — play two sets at the Vortex. Book the early or late show.",
+    "neighbourhood": "Dalston",
+    "cycle_minutes": 14,
+    "added": "2026-09-07T06:21:08Z",
+    "id": "craig-taborn-peter-evans-at-vortex-jazz-club-2-shows-d51af3c3"
+  },
+  {
     "id": "training-ground-4-day-contact-improvisation-intensive-rick-n-bd8ce8ed",
     "title": "TRAINING GROUND — 4-day contact improvisation intensive (Rick Nodine)",
     "start": "2026-10-29T10:00:00+00:00",
@@ -7631,6 +7741,25 @@
     "added": "2026-08-15"
   },
   {
+    "title": "ShRIek: The spooky science of the paranormal — Royal Institution",
+    "start": "2026-10-31T19:00:00+00:00",
+    "end": "2026-10-31T21:00:00+00:00",
+    "venue": "Royal Institution",
+    "address": "21 Albemarle Street, Mayfair, W1S 4BS",
+    "url": "https://www.rigb.org/whats-on/shriek-spooky-science-paranormal",
+    "source": "venue:royal-institution",
+    "tags": [
+      "talk",
+      "comedy"
+    ],
+    "price": "£7-£20",
+    "description": "Halloween-night adult special: Steve McNeil and Michael Cutts unpick ghosts, hauntings and things that go bump with actual science.",
+    "neighbourhood": "Mayfair",
+    "cycle_minutes": 35,
+    "added": "2026-09-07T06:21:08Z",
+    "id": "shriek-the-spooky-science-of-the-paranormal-royal-institutio-8c6a2d6d"
+  },
+  {
     "id": "goblin-band-follia-4-folky-halloween-at-cecil-sharp-house-72a18002",
     "title": "Goblin Band + Follia 4 — folky Halloween at Cecil Sharp House",
     "start": "2026-10-31T19:30:00+00:00",
@@ -7702,6 +7831,24 @@
     "neighbourhood": "Bethnal Green",
     "added": "2026-08-22",
     "cycle_minutes": 3
+  },
+  {
+    "title": "The Einstein Telescope: Discovery and diplomacy — Robbert Dijkgraaf",
+    "start": "2026-11-02T19:00:00+00:00",
+    "end": "2026-11-02T20:30:00+00:00",
+    "venue": "Royal Institution",
+    "address": "21 Albemarle Street, Mayfair, W1S 4BS",
+    "url": "https://www.rigb.org/whats-on/einstein-telescope-discovery-and-diplomacy",
+    "source": "venue:royal-institution",
+    "tags": [
+      "talk"
+    ],
+    "price": "£7-£20",
+    "description": "Theoretical physicist and President-elect of the International Science Council Robbert Dijkgraaf on the next-generation gravitational-wave observatory and the science diplomacy behind it.",
+    "neighbourhood": "Mayfair",
+    "cycle_minutes": 35,
+    "added": "2026-09-07T06:21:08Z",
+    "id": "the-einstein-telescope-discovery-and-diplomacy-robbert-dijkg-131639f3"
   },
   {
     "id": "horse-jumper-of-love-jawdropped-hammok-at-moth-club-8dd9092f",
@@ -7995,6 +8142,24 @@
     "added": "2026-08-16"
   },
   {
+    "title": "Howling Bells at Hoxton Hall",
+    "start": "2026-11-06T19:30:00+00:00",
+    "end": "2026-11-06T22:30:00+00:00",
+    "venue": "Hoxton Hall",
+    "address": "130 Hoxton Street, London N1 6SH",
+    "url": "https://hoxtonhall.ticketsolve.com/shows/1173690446/events/428870544",
+    "source": "venue:hoxton-hall",
+    "tags": [
+      "music"
+    ],
+    "price": "~£20-£25",
+    "description": "Aussie-London indie-rock cult favourites reunited in the Victorian music hall — still available while many autumn Hoxton Hall shows have sold out.",
+    "neighbourhood": "Hoxton",
+    "cycle_minutes": 8,
+    "added": "2026-09-07T06:21:08Z",
+    "id": "howling-bells-at-hoxton-hall-e84d7369"
+  },
+  {
     "id": "pitchfork-festival-2026-dalston-takeover-multi-venue-wristba-5643f2d5",
     "title": "Pitchfork Festival 2026: Dalston Takeover (multi-venue wristband)",
     "start": "2026-11-07T16:30:00+00:00",
@@ -8012,6 +8177,24 @@
     "neighbourhood": "Dalston",
     "cycle_minutes": 13,
     "added": "2026-09-04"
+  },
+  {
+    "title": "The neuroscience of sadness — Parastoo Hashemi",
+    "start": "2026-11-07T19:00:00+00:00",
+    "end": "2026-11-07T20:30:00+00:00",
+    "venue": "Royal Institution",
+    "address": "21 Albemarle Street, Mayfair, W1S 4BS",
+    "url": "https://www.rigb.org/whats-on/neuroscience-sadness",
+    "source": "venue:royal-institution",
+    "tags": [
+      "talk"
+    ],
+    "price": "£7-£20",
+    "description": "Imperial's Parastoo Hashemi on the brain chemistry of sadness and whether a simple test for depression could exist. Saturday evening talk.",
+    "neighbourhood": "Mayfair",
+    "cycle_minutes": 35,
+    "added": "2026-09-07T06:21:08Z",
+    "id": "the-neuroscience-of-sadness-parastoo-hashemi-92e516b7"
   },
   {
     "id": "live-at-the-chapel-with-chris-mccausland-b7fcd1fa",
@@ -8068,6 +8251,24 @@
     "added": "2026-08-30"
   },
   {
+    "title": "Thurston Moore and Mark Wastell at Vortex Jazz Club",
+    "start": "2026-11-08T19:00:00+00:00",
+    "end": "2026-11-08T22:30:00+00:00",
+    "venue": "Vortex Jazz Club",
+    "address": "11 Gillett Square, Dalston, N16 8AZ",
+    "url": "https://www.universe.com/events/thurston-moore-and-mark-wastell-tickets-V1CRMG",
+    "source": "venue:vortex",
+    "tags": [
+      "music"
+    ],
+    "price": "£15-£20",
+    "description": "Sonic Youth's Thurston Moore in an improvised duo with percussionist Mark Wastell — a rare small-room chance to see him, in Gillett Square. (Same night as Ali Doğan Gönültaş at Kings Place.)",
+    "neighbourhood": "Dalston",
+    "cycle_minutes": 14,
+    "added": "2026-09-07T06:21:08Z",
+    "id": "thurston-moore-and-mark-wastell-at-vortex-jazz-club-f568fdfd"
+  },
+  {
     "title": "Ali Doğan Gönültaş at Kings Place",
     "start": "2026-11-08T19:30:00+00:00",
     "end": "2026-11-08T20:50:00+00:00",
@@ -8105,6 +8306,24 @@
     "added": "2026-08-30"
   },
   {
+    "title": "Wendy Eisenberg + Jasper Llewellyn at Cafe OTO",
+    "start": "2026-11-09T19:30:00+00:00",
+    "end": "2026-11-09T22:00:00+00:00",
+    "venue": "Cafe OTO",
+    "address": "18-22 Ashwin Street, Dalston, E8 3DL",
+    "url": "https://www.cafeoto.co.uk/events/upset-the-rhythm-presents-wendy-eisenberg-day-two/",
+    "source": "venue:cafe-oto",
+    "tags": [
+      "music"
+    ],
+    "price": "TBC (OTO adv usually £12-£18)",
+    "description": "Virtuoso guitarist-songwriter Wendy Eisenberg (day one with Tara Clerkin Trio already sold out) — song-forward avant-folk, very listenable.",
+    "neighbourhood": "Dalston",
+    "cycle_minutes": 14,
+    "added": "2026-09-07T06:21:08Z",
+    "id": "wendy-eisenberg-jasper-llewellyn-at-cafe-oto-2090e45c"
+  },
+  {
     "id": "sebright-quiz-night-5c97a609",
     "title": "Sebright Quiz Night",
     "start": "2026-11-09T20:00:00+00:00",
@@ -8139,6 +8358,60 @@
     "neighbourhood": "Islington",
     "cycle_minutes": 20,
     "added": "2026-08-23"
+  },
+  {
+    "title": "Sorcha Richardson at Hoxton Hall",
+    "start": "2026-11-10T19:00:00+00:00",
+    "end": "2026-11-10T22:00:00+00:00",
+    "venue": "Hoxton Hall",
+    "address": "130 Hoxton Street, London N1 6SH",
+    "url": "https://hoxtonhall.ticketsolve.com/shows/1173687193/events/428854906",
+    "source": "venue:hoxton-hall",
+    "tags": [
+      "music"
+    ],
+    "price": "~£18-£22",
+    "description": "Dublin indie singer-songwriter (Choice Prize nominee) — intimate night in the Victorian music hall on Hoxton Street.",
+    "neighbourhood": "Hoxton",
+    "cycle_minutes": 8,
+    "added": "2026-09-07T06:21:08Z",
+    "id": "sorcha-richardson-at-hoxton-hall-64e5b482"
+  },
+  {
+    "title": "Gresham College: Our Sun, Our Star — Chris Lintott (free)",
+    "start": "2026-11-11T19:00:00+00:00",
+    "end": "2026-11-11T20:00:00+00:00",
+    "venue": "Conway Hall",
+    "address": "25 Red Lion Square, WC1R 4RL",
+    "url": "https://www.gresham.ac.uk/whats-on/sun-star",
+    "source": "venue:gresham-college",
+    "tags": [
+      "talk"
+    ],
+    "price": "Free",
+    "description": "Sky at Night presenter Chris Lintott on the star we live with — flares, space weather and the latest solar missions. Free evening lecture at Conway Hall.",
+    "neighbourhood": "Holborn",
+    "cycle_minutes": 22,
+    "added": "2026-09-07T06:21:08Z",
+    "id": "gresham-college-our-sun-our-star-chris-lintott-free-e64b0021"
+  },
+  {
+    "title": "Richard Shindell at Green Note",
+    "start": "2026-11-11T19:00:00+00:00",
+    "end": "2026-11-11T22:00:00+00:00",
+    "venue": "Green Note",
+    "address": "106 Parkway, Camden, NW1 7AN",
+    "url": "https://www.songkick.com/concerts/43041004-richard-shindell-at-green-note",
+    "source": "venue:green-note",
+    "tags": [
+      "music"
+    ],
+    "price": "~£20 (est — Green Note site captcha-blocked, verified via Songkick)",
+    "description": "Revered American folk songwriter (Cry Cry Cry, covered by Joan Baez) in Camden's tiny candlelit folk room. Doors 7pm.",
+    "neighbourhood": "Camden",
+    "cycle_minutes": 32,
+    "added": "2026-09-07T06:21:08Z",
+    "id": "richard-shindell-at-green-note-86595999"
   },
   {
     "id": "aayushi-ray-vincent-mills-hannah-lou-clark-at-paper-dress-vi-bcdfa5ed",
@@ -8341,6 +8614,25 @@
     "added": "2026-09-04"
   },
   {
+    "title": "How to grow a quantum computer — Royal Institution",
+    "start": "2026-11-14T19:00:00+00:00",
+    "end": "2026-11-14T20:30:00+00:00",
+    "venue": "Royal Institution",
+    "address": "21 Albemarle Street, Mayfair, W1S 4BS",
+    "url": "https://www.rigb.org/whats-on/how-grow-quantum-computer",
+    "source": "venue:royal-institution",
+    "tags": [
+      "talk",
+      "tech"
+    ],
+    "price": "£7-£20",
+    "description": "What could replace silicon in the quantum age? Saturday evening talk in the Faraday theatre.",
+    "neighbourhood": "Mayfair",
+    "cycle_minutes": 35,
+    "added": "2026-09-07T06:21:08Z",
+    "id": "how-to-grow-a-quantum-computer-royal-institution-907569b4"
+  },
+  {
     "id": "blazin-fiddles-at-kings-place-488b26ff",
     "title": "Blazin' Fiddles at Kings Place",
     "start": "2026-11-14T20:00:00+00:00",
@@ -8394,6 +8686,24 @@
     "neighbourhood": "Bethnal Green",
     "added": "2026-08-22",
     "cycle_minutes": 3
+  },
+  {
+    "title": "Rheingans Sisters at Green Note",
+    "start": "2026-11-16T19:00:00+00:00",
+    "end": "2026-11-16T22:00:00+00:00",
+    "venue": "Green Note",
+    "address": "106 Parkway, Camden, NW1 7AN",
+    "url": "https://www.songkick.com/concerts/43340902-rheingans-sisters-at-green-note",
+    "source": "venue:green-note",
+    "tags": [
+      "music"
+    ],
+    "price": "~£18 (est — verified via Songkick)",
+    "description": "BBC Folk Award-winning fiddle-and-song duo, evening show (there's also a Sun 15 Nov matinee if Monday doesn't suit). Doors 7pm.",
+    "neighbourhood": "Camden",
+    "cycle_minutes": 32,
+    "added": "2026-09-07T06:21:08Z",
+    "id": "rheingans-sisters-at-green-note-c8184ba9"
   },
   {
     "id": "elephant-stone-at-moth-club-d7a3328c",
@@ -8468,6 +8778,25 @@
     "added": "2026-08-21"
   },
   {
+    "title": "Ethical Matters: Why Pubs Matter — Amit Singh & Lydia Wood",
+    "start": "2026-11-18T18:30:00+00:00",
+    "end": "2026-11-18T20:00:00+00:00",
+    "venue": "Conway Hall",
+    "address": "25 Red Lion Square, WC1R 4RL",
+    "url": "https://www.conwayhall.org.uk/whats-on/event/why-pubs-matter/",
+    "source": "venue:conway-hall",
+    "tags": [
+      "talk",
+      "community"
+    ],
+    "price": "£12 adv",
+    "description": "Sociologist Amit Singh and pub-drawing artist Lydia Wood on pubs as community infrastructure and how to save them. Doors 6pm.",
+    "neighbourhood": "Holborn",
+    "cycle_minutes": 22,
+    "added": "2026-09-07T06:21:08Z",
+    "id": "ethical-matters-why-pubs-matter-amit-singh-lydia-wood-87425a5e"
+  },
+  {
     "id": "gigi-masin-at-earth-249d14e2",
     "title": "Gigi Masin at EartH",
     "start": "2026-11-18T19:00:00+00:00",
@@ -8498,7 +8827,7 @@
       "music"
     ],
     "price": "see booking page",
-    "description": "Wild Beasts' frontman revisits the band's catalogue in a tiny 19th-century music hall; second night 19 Nov. Adds to a stacked 18 Nov.",
+    "description": "Wild Beasts' frontman revisits the band's catalogue in a tiny 19th-century music hall; second night 19 Nov. Adds to a stacked 18 Nov. [NOW SOLD OUT at source (both nights), 7 Sep — returns only.]",
     "neighbourhood": "Hoxton",
     "cycle_minutes": 8,
     "added": "2026-08-25"
@@ -8538,6 +8867,24 @@
     "neighbourhood": "Brick Lane",
     "cycle_minutes": 6,
     "added": "2026-08-21"
+  },
+  {
+    "title": "Gresham College: Life, Death and Bubbles — Earth's Nitrogen — Helen Czerski (free)",
+    "start": "2026-11-19T18:00:00+00:00",
+    "end": "2026-11-19T19:00:00+00:00",
+    "venue": "Barnard's Inn Hall",
+    "address": "Holborn, EC1N 2HH",
+    "url": "https://www.gresham.ac.uk/whats-on/earths-nitrogen",
+    "source": "venue:gresham-college",
+    "tags": [
+      "talk"
+    ],
+    "price": "Free",
+    "description": "Physicist and broadcaster Helen Czerski tells the story of Earth's nitrogen — the quiet gas behind life, death and bubbles. Free, 6pm.",
+    "neighbourhood": "Holborn",
+    "cycle_minutes": 18,
+    "added": "2026-09-07T06:21:08Z",
+    "id": "gresham-college-life-death-and-bubbles-earth-s-nitrogen-hele-69d0059e"
   },
   {
     "id": "soot-sprite-at-the-victoria-cf1fec6f",
@@ -8700,6 +9047,25 @@
     "added": "2026-08-22"
   },
   {
+    "title": "The future of AI is tiny and physical — Royal Institution",
+    "start": "2026-11-21T19:00:00+00:00",
+    "end": "2026-11-21T20:30:00+00:00",
+    "venue": "Royal Institution",
+    "address": "21 Albemarle Street, Mayfair, W1S 4BS",
+    "url": "https://www.rigb.org/whats-on/future-ai-tiny-and-physical",
+    "source": "venue:royal-institution",
+    "tags": [
+      "talk",
+      "tech"
+    ],
+    "price": "£7-£20",
+    "description": "How tiny, embedded AI could make environments safer and smarter, with people and trust at the centre. Saturday evening talk.",
+    "neighbourhood": "Mayfair",
+    "cycle_minutes": 35,
+    "added": "2026-09-07T06:21:08Z",
+    "id": "the-future-of-ai-is-tiny-and-physical-royal-institution-783df41b"
+  },
+  {
     "id": "silver-birch-wareham-goller-betamax-sharkey-at-moth-club-50fdf38d",
     "title": "Silver Birch — Wareham/Goller/Betamax/Sharkey at MOTH Club",
     "start": "2026-11-21T19:30:00+00:00",
@@ -8825,6 +9191,24 @@
     "neighbourhood": "Dalston",
     "added": "2026-08-22",
     "cycle_minutes": 15
+  },
+  {
+    "title": "ØKSE — Savannah Harris / Mette Rasmussen / Val Jeanty / Petter Eldh at Cafe OTO",
+    "start": "2026-11-24T19:30:00+00:00",
+    "end": "2026-11-24T22:00:00+00:00",
+    "venue": "Cafe OTO",
+    "address": "18-22 Ashwin Street, Dalston, E8 3DL",
+    "url": "https://www.cafeoto.co.uk/events/okse/",
+    "source": "venue:cafe-oto",
+    "tags": [
+      "music"
+    ],
+    "price": "TBC (OTO adv usually £12-£18)",
+    "description": "Punchy transatlantic supergroup — drums, sax, turntablism and bass — one of the more accessible heavy-hitters on OTO's autumn card. (Same night as Harry Hill WIP at MOTH.)",
+    "neighbourhood": "Dalston",
+    "cycle_minutes": 14,
+    "added": "2026-09-07T06:21:08Z",
+    "id": "kse-savannah-harris-mette-rasmussen-val-jeanty-petter-eldh-a-f137ca85"
   },
   {
     "id": "ibibio-sound-machine-at-islington-assembly-hall-6b134004",
@@ -9100,6 +9484,25 @@
     "id": "genticorum-at-kings-place-6272cd75"
   },
   {
+    "title": "Ethical Matters: AI and Online Disinformation — Niamh McIntyre",
+    "start": "2026-11-29T15:00:00+00:00",
+    "end": "2026-11-29T16:30:00+00:00",
+    "venue": "Conway Hall",
+    "address": "25 Red Lion Square, WC1R 4RL",
+    "url": "https://www.conwayhall.org.uk/whats-on/event/ai-and-online-disinformation/",
+    "source": "venue:conway-hall",
+    "tags": [
+      "talk",
+      "tech"
+    ],
+    "price": "£12 adv",
+    "description": "Bureau of Investigative Journalism tech reporter Niamh McIntyre on 'slopaganda' — the commercial machinery churning out far-right AI content. Sunday 3pm.",
+    "neighbourhood": "Holborn",
+    "cycle_minutes": 22,
+    "added": "2026-09-07T06:21:08Z",
+    "id": "ethical-matters-ai-and-online-disinformation-niamh-mcintyre-a2f49757"
+  },
+  {
     "id": "la-plan-te-sauvage-screening-with-live-score-by-haha-sounds--55829911",
     "title": "La Planète Sauvage — screening with live score by HaHa Sounds Collective",
     "start": "2026-11-29T19:00:00+00:00",
@@ -9136,6 +9539,25 @@
     "neighbourhood": "Bethnal Green",
     "added": "2026-08-22",
     "cycle_minutes": 3
+  },
+  {
+    "title": "Gresham College: AI as Muse? Creativity, Provocation and Human Ownership (free)",
+    "start": "2026-12-01T18:00:00+00:00",
+    "end": "2026-12-01T19:00:00+00:00",
+    "venue": "Barnard's Inn Hall",
+    "address": "Holborn, EC1N 2HH",
+    "url": "https://www.gresham.ac.uk/whats-on/ai-muse",
+    "source": "venue:gresham-college",
+    "tags": [
+      "talk",
+      "tech"
+    ],
+    "price": "Free",
+    "description": "Professor Matt Jones argues generative AI works as provocateur rather than creator, and asks who owns the results. Free, 6pm.",
+    "neighbourhood": "Holborn",
+    "cycle_minutes": 18,
+    "added": "2026-09-07T06:21:08Z",
+    "id": "gresham-college-ai-as-muse-creativity-provocation-and-human--1188f869"
   },
   {
     "id": "david-j-bauhaus-love-and-rockets-at-moth-club-bb8ea4da",
@@ -9686,6 +10108,24 @@
     "neighbourhood": "Primrose Hill",
     "cycle_minutes": 32,
     "added": "2026-08-29"
+  },
+  {
+    "title": "Gresham College: The Maths of Christmas — Sarah Hart (free)",
+    "start": "2026-12-16T18:00:00+00:00",
+    "end": "2026-12-16T19:00:00+00:00",
+    "venue": "Barnard's Inn Hall",
+    "address": "Holborn, EC1N 2HH",
+    "url": "https://www.gresham.ac.uk/whats-on/maths-christmas",
+    "source": "venue:gresham-college",
+    "tags": [
+      "talk"
+    ],
+    "price": "Free",
+    "description": "Sarah Hart (ex-Gresham Professor of Geometry, always a joy) on the mathematics hiding in Christmas. Free festive lecture, 6pm.",
+    "neighbourhood": "Holborn",
+    "cycle_minutes": 18,
+    "added": "2026-09-07T06:21:08Z",
+    "id": "gresham-college-the-maths-of-christmas-sarah-hart-free-b68b9167"
   },
   {
     "id": "knock2bag-comedy-night-with-katie-norris-e52f8205",
