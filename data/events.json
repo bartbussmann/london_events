@@ -575,6 +575,25 @@
     "added": "2026-08-11"
   },
   {
+    "title": "Life Drawing at De Beauvoir Block — new series launch",
+    "start": "2026-09-09T18:30:00+01:00",
+    "end": "2026-09-09T20:30:00+01:00",
+    "venue": "De Beauvoir Block",
+    "address": "92-96 De Beauvoir Road, London N1 4EN",
+    "url": "https://www.eventbrite.co.uk/e/new-series-life-drawing-at-de-beauvoir-block-tickets-1998996863430",
+    "source": "aggregator:eventbrite",
+    "tags": [
+      "art",
+      "workshop"
+    ],
+    "price": "£15",
+    "description": "London Fields Life Drawing launches a new weekly class at De Beauvoir Block, between Dalston and Islington. Tomorrow (Wed), all levels.",
+    "neighbourhood": "De Beauvoir",
+    "cycle_minutes": 16,
+    "added": "2026-09-08T06:25:47Z",
+    "id": "life-drawing-at-de-beauvoir-block-new-series-launch-b552a4d3"
+  },
+  {
     "id": "roger-eno-at-union-chapel-b075fe97",
     "title": "Roger Eno at Union Chapel",
     "start": "2026-09-09T19:00:00+01:00",
@@ -1013,6 +1032,24 @@
     "neighbourhood": "Bethnal Green",
     "cycle_minutes": 4,
     "added": "2026-09-04"
+  },
+  {
+    "title": "Re-enchantment Pub Quiz 2: The Sequel — The Three Johns",
+    "start": "2026-09-10T19:30:00+01:00",
+    "end": "2026-09-10T22:00:00+01:00",
+    "venue": "The Three Johns",
+    "address": "73 White Lion Street, London N1 9PF",
+    "url": "https://www.eventbrite.com/e/re-enchantment-pub-quiz-2-the-sequel-tickets-1998428195529",
+    "source": "aggregator:eventbrite",
+    "tags": [
+      "community"
+    ],
+    "price": "£11.55",
+    "description": "The Re-enchantment Literary Collective's one-off books-and-culture pub quiz in Angel — a quiz special worth travelling for, with a bookish crowd. This Thursday.",
+    "neighbourhood": "Angel",
+    "cycle_minutes": 18,
+    "added": "2026-09-08T06:25:47Z",
+    "id": "re-enchantment-pub-quiz-2-the-sequel-the-three-johns-253a8c19"
   },
   {
     "id": "dance-sound-healing-gong-bath-at-liquid-movement-a18e9a14",
@@ -1869,6 +1906,25 @@
     "neighbourhood": "Canary Wharf",
     "cycle_minutes": 25,
     "added": "2026-08-26"
+  },
+  {
+    "title": "Life Drawing at the Prince George, Dalston",
+    "start": "2026-09-14T19:00:00+01:00",
+    "end": "2026-09-14T20:30:00+01:00",
+    "venue": "Prince George",
+    "address": "40 Parkholme Road, London E8 3AG",
+    "url": "https://www.eventbrite.co.uk/e/life-drawing-at-the-prince-george-dalston-tickets-1992044050379",
+    "source": "aggregator:eventbrite",
+    "tags": [
+      "art",
+      "workshop"
+    ],
+    "price": "£13.70",
+    "description": "Pub life drawing in a proper Dalston local, all levels welcome, materials provided. Monday evening alternative while the attic's October dates are unannounced.",
+    "neighbourhood": "Dalston",
+    "cycle_minutes": 13,
+    "added": "2026-09-08T06:25:47Z",
+    "id": "life-drawing-at-the-prince-george-dalston-eab6873c"
   },
   {
     "title": "Neumatic Parlo + Houndshark at Sebright Arms",
@@ -4295,6 +4351,42 @@
     "added": "2026-08-09"
   },
   {
+    "title": "Board Game Club at The Lyttelton Arms (free monthly)",
+    "start": "2026-09-29T18:00:00+01:00",
+    "end": "2026-09-29T22:00:00+01:00",
+    "venue": "The Lyttelton Arms",
+    "address": "1 Camden High Street, London NW1 7JE",
+    "url": "https://www.eventbrite.co.uk/e/board-game-club-at-the-lyttelton-arms-tickets-1999616527863",
+    "source": "aggregator:eventbrite",
+    "tags": [
+      "community"
+    ],
+    "price": "Free",
+    "description": "Free monthly grown-ups' games night with a curated menu of party and tabletop games — hosted, sociable, easy to join solo. Near Mornington Crescent.",
+    "neighbourhood": "Camden",
+    "cycle_minutes": 32,
+    "added": "2026-09-08T06:25:47Z",
+    "id": "board-game-club-at-the-lyttelton-arms-free-monthly-486c434c"
+  },
+  {
+    "title": "Thursday: Single Digital Nomads Night 25+ at Barrio Shoreditch",
+    "start": "2026-09-29T19:00:00+01:00",
+    "end": "2026-09-29T23:00:00+01:00",
+    "venue": "Barrio - Shoreditch",
+    "address": "141-143 Shoreditch High St, London E1 6JE",
+    "url": "https://www.thursday.com/events/london/a76cd9b5-e9f5-4dce-a228-a3ebc538b4b4",
+    "source": "thursday-api",
+    "tags": [
+      "community"
+    ],
+    "price": "£13.20 early bird / £19.80 GA",
+    "description": "Mixed singles night for remote workers, founders and travellers, 25+, on Shoreditch High Street — six minutes away.",
+    "neighbourhood": "Shoreditch",
+    "cycle_minutes": 6,
+    "added": "2026-09-08T06:25:47Z",
+    "id": "thursday-single-digital-nomads-night-25-at-barrio-shoreditch-e482de5f"
+  },
+  {
     "id": "honeymoan-at-moth-club-36fcd567",
     "title": "HONEYMOAN at MOTH Club",
     "start": "2026-09-29T19:30:00+01:00",
@@ -4532,6 +4624,42 @@
     "neighbourhood": "Dalston",
     "cycle_minutes": 15,
     "added": "2026-08-09"
+  },
+  {
+    "title": "Thursday: Pitch Your Mate! — singles night at BAM Karaoke Box",
+    "start": "2026-10-01T19:00:00+01:00",
+    "end": "2026-10-01T23:00:00+01:00",
+    "venue": "BAM Karaoke Box Victoria",
+    "address": "74 Victoria St, London SW1E 6SQ",
+    "url": "https://www.thursday.com/events/london/97a77bc0-c305-4505-9729-ab31202f3e7a",
+    "source": "thursday-api",
+    "tags": [
+      "community"
+    ],
+    "price": "£13.20 early bird / £19.80 GA",
+    "description": "Thursday's quirky new format: bring a taken friend who pitches you on stage to a room of singles, karaoke-box setting. Mixed, no age bracket. Far west — Victoria line from Bethnal Green is easiest.",
+    "neighbourhood": "Victoria",
+    "cycle_minutes": 40,
+    "added": "2026-09-08T06:25:47Z",
+    "id": "thursday-pitch-your-mate-singles-night-at-bam-karaoke-box-1b46b62d"
+  },
+  {
+    "title": "Thursday: 24-35 Singles Night at La Familia, Soho",
+    "start": "2026-10-01T19:00:00+01:00",
+    "end": "2026-10-01T23:00:00+01:00",
+    "venue": "La Familia",
+    "address": "6 Poland St, London W1F 8PS",
+    "url": "https://www.thursday.com/events/london/f894550c-e00c-416b-b09c-df9eaca91563",
+    "source": "thursday-api",
+    "tags": [
+      "community"
+    ],
+    "price": "£13.20 early bird / £19.80 GA",
+    "description": "Classic Thursday bar-takeover for singles 24-35. A parallel 30-50 night runs at the same venue the same evening if that bracket appeals more.",
+    "neighbourhood": "Soho",
+    "cycle_minutes": 30,
+    "added": "2026-09-08T06:25:47Z",
+    "id": "thursday-24-35-singles-night-at-la-familia-soho-c713ef81"
   },
   {
     "id": "system-reset-bioenergetics-guided-flow-sound-journey-3954d43e",
@@ -4773,6 +4901,26 @@
     "added": "2026-08-13"
   },
   {
+    "title": "Philosophy in the Park 149 — Victoria Park",
+    "start": "2026-10-03T13:00:00+01:00",
+    "end": "2026-10-03T15:00:00+01:00",
+    "venue": "Baroness Burdett-Coutts Drinking Fountain, Victoria Park",
+    "address": "Victoria Park, London E3",
+    "url": "https://www.meetup.com/london-philosophy-collective/events/316212247/",
+    "source": "aggregator:meetup",
+    "tags": [
+      "talk",
+      "community",
+      "outdoors"
+    ],
+    "price": "Free",
+    "description": "Free open-air philosophy discussion circle at the Victoria Park fountain — Saturday afternoon, five minutes away.",
+    "neighbourhood": "Victoria Park",
+    "cycle_minutes": 5,
+    "added": "2026-09-08T06:25:47Z",
+    "id": "philosophy-in-the-park-149-victoria-park-08ac40b2"
+  },
+  {
     "id": "when-all-the-birds-have-flown-away-album-launch-at-plot-9-0d47d05a",
     "title": "When all the Birds Have Flown Away — album launch at Plot 9",
     "start": "2026-10-03T18:00:00+01:00",
@@ -4862,6 +5010,24 @@
     "neighbourhood": "Shoreditch",
     "cycle_minutes": 7,
     "added": "2026-08-27"
+  },
+  {
+    "title": "Emily St John Mandel: Exit Party",
+    "start": "2026-10-03T19:45:00+01:00",
+    "end": "2026-10-03T21:00:00+01:00",
+    "venue": "Purcell Room, Southbank Centre",
+    "address": "Southbank Centre, Belvedere Rd, London SE1 8XX",
+    "url": "https://www.southbankcentre.co.uk/whats-on/emily-st-john-mandel-exit-party/",
+    "source": "venue:southbank",
+    "tags": [
+      "talk"
+    ],
+    "price": "£21-£36",
+    "description": "The Station Eleven and Sea of Tranquility author discusses new novel Exit Party — speculative literary fiction, Saturday evening.",
+    "neighbourhood": "South Bank",
+    "cycle_minutes": 28,
+    "added": "2026-09-08T06:25:47Z",
+    "id": "emily-st-john-mandel-exit-party-a2717207"
   },
   {
     "id": "julian-siegel-quartet-at-vortex-jazz-club-133cc6a0",
@@ -4991,6 +5157,43 @@
     "neighbourhood": "Mayfair",
     "cycle_minutes": 35,
     "added": "2026-08-11"
+  },
+  {
+    "title": "Thursday: Singles Pub Quiz Night at 21Soho",
+    "start": "2026-10-05T19:00:00+01:00",
+    "end": "2026-10-05T22:00:00+01:00",
+    "venue": "21Soho",
+    "address": "3-5 Sutton Row, London W1D 4NR",
+    "url": "https://www.thursday.com/events/london/a4037f72-2741-4904-bdef-484ff587f76b",
+    "source": "thursday-api",
+    "tags": [
+      "community"
+    ],
+    "price": "£16.50 advance / £27.50 door",
+    "description": "October edition of Thursday's singles pub quiz — teams mixed on arrival so you meet people by round two. 21+ mixed.",
+    "neighbourhood": "Soho",
+    "cycle_minutes": 30,
+    "added": "2026-09-08T06:25:47Z",
+    "id": "thursday-singles-pub-quiz-night-at-21soho-87c3a1e5"
+  },
+  {
+    "title": "Kant's Cave: Ethics Starts With You — Dr Jim Walsh",
+    "start": "2026-10-05T19:30:00+01:00",
+    "end": "2026-10-05T21:30:00+01:00",
+    "venue": "St Hilda's East Community Centre",
+    "address": "18 Club Row, London E2 7EY",
+    "url": "https://www.meetup.com/http-pfalondon-org/events/314544487/",
+    "source": "aggregator:meetup",
+    "tags": [
+      "talk",
+      "community"
+    ],
+    "price": "Free/small donation (see Meetup)",
+    "description": "October edition of Philosophy for All's long-running Kant's Cave talks, a ten-minute walk from home. Monday evening lecture + discussion.",
+    "neighbourhood": "Shoreditch",
+    "cycle_minutes": 5,
+    "added": "2026-09-08T06:25:47Z",
+    "id": "kant-s-cave-ethics-starts-with-you-dr-jim-walsh-932e64af"
   },
   {
     "id": "gresham-college-our-sovereign-soil-free-aae7d22f",
@@ -5286,6 +5489,24 @@
     "cycle_minutes": 12,
     "added": "2026-09-06T06:17:42Z",
     "id": "febueder-at-the-victoria-c8809328"
+  },
+  {
+    "title": "Attacca Quartet with Caroline Shaw: Sing On",
+    "start": "2026-10-08T19:30:00+01:00",
+    "end": "2026-10-08T21:30:00+01:00",
+    "venue": "Milton Court Concert Hall",
+    "address": "Milton Court, Silk St, London EC2Y 9BH",
+    "url": "https://www.barbican.org.uk/whats-on/2026/event/attacca-quartet-with-caroline-shaw-sing-on",
+    "source": "venue:barbican",
+    "tags": [
+      "music"
+    ],
+    "price": "From £30",
+    "description": "Pulitzer-winning composer-vocalist Caroline Shaw joins the Grammy-winning Attacca Quartet — the definitive living classical-crossover pairing, in the Barbican's chamber hall.",
+    "neighbourhood": "Barbican",
+    "cycle_minutes": 15,
+    "added": "2026-09-08T06:25:47Z",
+    "id": "attacca-quartet-with-caroline-shaw-sing-on-c9470b26"
   },
   {
     "id": "hajda-banda-at-kings-place-decb93ed",
@@ -5879,6 +6100,25 @@
     "neighbourhood": "Hackney Central",
     "cycle_minutes": 12,
     "added": "2026-08-15"
+  },
+  {
+    "title": "All Out of Bubblegum Film Club: Challengers at Rio Cinema",
+    "start": "2026-10-13T19:00:00+01:00",
+    "end": "2026-10-13T22:00:00+01:00",
+    "venue": "Rio Cinema",
+    "address": "107 Kingsland High St, London E8 2PB",
+    "url": "https://www.meetup.com/london-philosophy-collective/events/316387045/",
+    "source": "aggregator:meetup",
+    "tags": [
+      "film",
+      "community"
+    ],
+    "price": "Standard Rio ticket",
+    "description": "London Philosophy Collective's film club: watch Challengers at the Rio then discuss it over drinks — an easy social with built-in conversation.",
+    "neighbourhood": "Dalston",
+    "cycle_minutes": 15,
+    "added": "2026-09-08T06:25:47Z",
+    "id": "all-out-of-bubblegum-film-club-challengers-at-rio-cinema-63a0366d"
   },
   {
     "id": "slavoj-i-ek-live-how-to-academy-abfc90e6",
@@ -6583,6 +6823,24 @@
     "id": "did-neanderthals-hum-the-musicality-of-early-humans-steven-m-5fa5c733"
   },
   {
+    "title": "Games Themed Speed Dating at Draughts Waterloo (ages 25-38)",
+    "start": "2026-10-19T19:15:00+01:00",
+    "end": "2026-10-19T22:00:00+01:00",
+    "venue": "Draughts Waterloo",
+    "address": "26 Leake St, London SE1 7NN",
+    "url": "https://www.meetup.com/its-a-date-singles-events/events/316165739/",
+    "source": "aggregator:meetup",
+    "tags": [
+      "community"
+    ],
+    "price": "Ticketed via Meetup",
+    "description": "October date of the board-game-cafe speed dating night in the Leake Street arches — mixed, ages 25-38. The 21 Sep edition is already on the calendar; this is the next one.",
+    "neighbourhood": "Waterloo",
+    "cycle_minutes": 30,
+    "added": "2026-09-08T06:25:47Z",
+    "id": "games-themed-speed-dating-at-draughts-waterloo-ages-25-38-509add43"
+  },
+  {
     "id": "improvisers-ensemble-featuring-cleveland-watkiss-mbe-eb59e1ab",
     "title": "Improvisers' Ensemble featuring Cleveland Watkiss MBE",
     "start": "2026-10-20T19:00:00+01:00",
@@ -6618,6 +6876,42 @@
     "neighbourhood": "Hackney Central",
     "cycle_minutes": 12,
     "added": "2026-08-15"
+  },
+  {
+    "title": "Perle Noire: Meditations for Joséphine — Julia Bullock",
+    "start": "2026-10-20T19:30:00+01:00",
+    "end": "2026-10-20T21:30:00+01:00",
+    "venue": "Barbican Hall",
+    "address": "Barbican Centre, Silk St, London EC2Y 8DS",
+    "url": "https://www.barbican.org.uk/whats-on/2026/event/perle-noire-meditations-for-josephine",
+    "source": "venue:barbican",
+    "tags": [
+      "music"
+    ],
+    "price": "From £24",
+    "description": "Soprano Julia Bullock channels Joséphine Baker in a genre-crossing staged song cycle — classical/jazz crossover in the main hall. (Same night as Michael Lewis at the Southbank.)",
+    "neighbourhood": "Barbican",
+    "cycle_minutes": 15,
+    "added": "2026-09-08T06:25:47Z",
+    "id": "perle-noire-meditations-for-jos-phine-julia-bullock-7dab4bb7"
+  },
+  {
+    "title": "Michael Lewis: Blockers — in conversation with Elizabeth Day",
+    "start": "2026-10-20T19:30:00+01:00",
+    "end": "2026-10-20T20:45:00+01:00",
+    "venue": "Royal Festival Hall",
+    "address": "Southbank Centre, Belvedere Rd, London SE1 8XX",
+    "url": "https://www.southbankcentre.co.uk/whats-on/michael-lewis-blockers/",
+    "source": "venue:southbank",
+    "tags": [
+      "talk"
+    ],
+    "price": "£29-£74 (entry £29; top price over cap)",
+    "description": "The Big Short / Moneyball author on his new book Blockers, interviewed by Elizabeth Day. (Clashes with Perle Noire at the Barbican.)",
+    "neighbourhood": "South Bank",
+    "cycle_minutes": 28,
+    "added": "2026-09-08T06:25:47Z",
+    "id": "michael-lewis-blockers-in-conversation-with-elizabeth-day-9bea1c1b"
   },
   {
     "title": "Gresham College: Why Is There Music? — Milton Mermikides (free)",
@@ -6784,6 +7078,24 @@
     "added": "2026-09-01"
   },
   {
+    "title": "Jeffrey Lewis & The Voltage at Queen Elizabeth Hall",
+    "start": "2026-10-22T19:30:00+01:00",
+    "end": "2026-10-22T22:00:00+01:00",
+    "venue": "Queen Elizabeth Hall",
+    "address": "Southbank Centre, Belvedere Rd, London SE1 8XX",
+    "url": "https://www.southbankcentre.co.uk/whats-on/jeffrey-lewis-the-voltage/",
+    "source": "venue:southbank",
+    "tags": [
+      "music"
+    ],
+    "price": "£28-£36",
+    "description": "New York antifolk hero Jeffrey Lewis — comic-book-illustrated story-songs and lo-fi indie-rock-folk with his band The Voltage.",
+    "neighbourhood": "South Bank",
+    "cycle_minutes": 28,
+    "added": "2026-09-08T06:25:47Z",
+    "id": "jeffrey-lewis-the-voltage-at-queen-elizabeth-hall-af4c44c3"
+  },
+  {
     "id": "gambian-cookery-class-with-lamin-migrateful-pop-up-be0dd10a",
     "title": "Gambian Cookery Class with Lamin (Migrateful pop-up)",
     "start": "2026-10-23T18:30:00+01:00",
@@ -6855,6 +7167,25 @@
     "neighbourhood": "Angel",
     "cycle_minutes": 20,
     "added": "2026-08-17"
+  },
+  {
+    "title": "PIA — Katya Bourvis with Tala Lee-Turton, score by Hannah Peel",
+    "start": "2026-10-23T19:30:00+01:00",
+    "end": "2026-10-23T21:30:00+01:00",
+    "venue": "Milton Court Concert Hall",
+    "address": "Milton Court, Silk St, London EC2Y 9BH",
+    "url": "https://www.barbican.org.uk/whats-on/2026/event/pia-in-collaboration-with-tala-lee-turton-hannah-peel",
+    "source": "venue:barbican",
+    "tags": [
+      "music",
+      "dance"
+    ],
+    "price": "From £24",
+    "description": "Live dance and music piece by choreographer Katya Bourvis with ballet dancer Tala Lee-Turton and a new score by Emmy-nominated electronic composer Hannah Peel.",
+    "neighbourhood": "Barbican",
+    "cycle_minutes": 15,
+    "added": "2026-09-08T06:25:47Z",
+    "id": "pia-katya-bourvis-with-tala-lee-turton-score-by-hannah-peel-b4bd5bad"
   },
   {
     "id": "cacao-dance-tribe-friday-ecstatic-dance-cacao-23-oct-b5e62a71",
@@ -7517,6 +7848,24 @@
     "added": "2026-08-30"
   },
   {
+    "title": "Hanif & Carlo Kureishi: Are You With Me Now?",
+    "start": "2026-11-01T20:00:00+00:00",
+    "end": "2026-11-01T21:15:00+00:00",
+    "venue": "Queen Elizabeth Hall",
+    "address": "Southbank Centre, Belvedere Rd, London SE1 8XX",
+    "url": "https://www.southbankcentre.co.uk/whats-on/hanif-carlo-kureishi-are-you-with-me-now/",
+    "source": "venue:southbank",
+    "tags": [
+      "talk"
+    ],
+    "price": "£29-£43",
+    "description": "Hanif Kureishi, writing through paralysis with son Carlo as his hands, discusses their extraordinary collaboration and new memoir. Sunday evening.",
+    "neighbourhood": "South Bank",
+    "cycle_minutes": 28,
+    "added": "2026-09-08T06:25:47Z",
+    "id": "hanif-carlo-kureishi-are-you-with-me-now-2eb493da"
+  },
+  {
     "id": "campaign-lab-hack-night-2-nov-edition-fd092e49",
     "title": "Campaign Lab Hack Night (2 Nov edition)",
     "start": "2026-11-02T19:00:00+00:00",
@@ -7988,6 +8337,25 @@
     "cycle_minutes": 30,
     "added": "2026-09-06T06:17:42Z",
     "id": "ali-do-an-g-n-lta-at-kings-place-cfdf51c6"
+  },
+  {
+    "title": "Pitchfork Music Festival London: Hania Rani",
+    "start": "2026-11-08T19:30:00+00:00",
+    "end": "2026-11-08T22:00:00+00:00",
+    "venue": "Royal Festival Hall",
+    "address": "Southbank Centre, Belvedere Rd, London SE1 8XX",
+    "url": "https://www.southbankcentre.co.uk/whats-on/pitchfork-music-festival-london-hania-rani/",
+    "source": "venue:southbank",
+    "tags": [
+      "music",
+      "festival"
+    ],
+    "price": "£33.50-£51",
+    "description": "Polish pianist-composer Hania Rani's hypnotic minimalist piano and electronics fill the Royal Festival Hall for Pitchfork Festival London. (8 Nov is now a three-way clash: Thurston Moore at the Vortex, Ali Doğan Gönültaş at Kings Place.)",
+    "neighbourhood": "South Bank",
+    "cycle_minutes": 28,
+    "added": "2026-09-08T06:25:47Z",
+    "id": "pitchfork-music-festival-london-hania-rani-02806701"
   },
   {
     "id": "nu-civilisation-orchestra-the-stuart-hall-project-at-union-c-67e9e8c9",
@@ -8787,6 +9155,24 @@
     "added": "2026-08-21"
   },
   {
+    "title": "Johnny Flynn & Lillie Flynn: Beam Cottage",
+    "start": "2026-11-21T19:30:00+00:00",
+    "end": "2026-11-21T22:00:00+00:00",
+    "venue": "Royal Festival Hall",
+    "address": "Southbank Centre, Belvedere Rd, London SE1 8XX",
+    "url": "https://www.southbankcentre.co.uk/whats-on/johnny-flynn-lillie-flynn/",
+    "source": "venue:southbank",
+    "tags": [
+      "music"
+    ],
+    "price": "£36-£61 (entry £36)",
+    "description": "Folk singer-actor Johnny Flynn with sister Lillie share new album Beam Cottage. Saturday night.",
+    "neighbourhood": "South Bank",
+    "cycle_minutes": 28,
+    "added": "2026-09-08T06:25:47Z",
+    "id": "johnny-flynn-lillie-flynn-beam-cottage-1e9c0b44"
+  },
+  {
     "id": "pearl-the-oysters-at-moth-club-979d44d8",
     "title": "Pearl & The Oysters at MOTH Club",
     "start": "2026-11-22T19:00:00+00:00",
@@ -9479,6 +9865,24 @@
     "neighbourhood": "King's Cross",
     "cycle_minutes": 30,
     "added": "2026-09-03"
+  },
+  {
+    "title": "Josienne Clarke Sings the Songs of Sandy Denny",
+    "start": "2026-12-05T19:30:00+00:00",
+    "end": "2026-12-05T21:30:00+00:00",
+    "venue": "Purcell Room, Southbank Centre",
+    "address": "Southbank Centre, Belvedere Rd, London SE1 8XX",
+    "url": "https://www.southbankcentre.co.uk/whats-on/josienne-clarke-sings-the-songs-of-sandy-denny/",
+    "source": "venue:southbank",
+    "tags": [
+      "music"
+    ],
+    "price": "£26-£41",
+    "description": "One of Britain's finest folk voices interprets the Fairport Convention legend's songbook in the intimate Purcell Room. Saturday.",
+    "neighbourhood": "South Bank",
+    "cycle_minutes": 28,
+    "added": "2026-09-08T06:25:47Z",
+    "id": "josienne-clarke-sings-the-songs-of-sandy-denny-0951d469"
   },
   {
     "id": "steve-knightley-the-winter-yards-band-at-kings-place-bdbcc1df",

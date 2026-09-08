@@ -438,6 +438,21 @@ URL:https://dandelion.events/e/z2prl
 LOCATION:Love Shack\, Cambridge Heath Road\, Bethnal Green\, E2
 END:VEVENT
 BEGIN:VEVENT
+UID:life-drawing-at-de-beauvoir-block-new-series-launch-b552a4d3@london-ev
+ ents
+DTSTAMP:20260909T173000Z
+DTSTART:20260909T173000Z
+DTEND:20260909T193000Z
+SUMMARY:Life Drawing at De Beauvoir Block — new series launch
+DESCRIPTION:London Fields Life Drawing launches a new weekly class at De B
+ eauvoir Block\, between Dalston and Islington. Tomorrow (Wed)\, all level
+ s.\nPrice: £15\nhttps://www.eventbrite.co.uk/e/new-series-life-drawing-a
+ t-de-beauvoir-block-tickets-1998996863430
+URL:https://www.eventbrite.co.uk/e/new-series-life-drawing-at-de-beauvoir-
+ block-tickets-1998996863430
+LOCATION:De Beauvoir Block\, 92-96 De Beauvoir Road\, London N1 4EN
+END:VEVENT
+BEGIN:VEVENT
 UID:roger-eno-at-union-chapel-b075fe97@london-events
 DTSTAMP:20260909T180000Z
 DTSTART:20260909T180000Z
@@ -773,6 +788,21 @@ DESCRIPTION:Free three-band Thursday bill in the Sebright basement.\nPrice
  : Free\nhttps://dice.fm/event/6a984655afef6b0001e98f01
 URL:https://dice.fm/event/6a984655afef6b0001e98f01
 LOCATION:Sebright Arms\, 31-35 Coate Street\, E2 9AG
+END:VEVENT
+BEGIN:VEVENT
+UID:re-enchantment-pub-quiz-2-the-sequel-the-three-johns-253a8c19@london-e
+ vents
+DTSTAMP:20260910T183000Z
+DTSTART:20260910T183000Z
+DTEND:20260910T210000Z
+SUMMARY:Re-enchantment Pub Quiz 2: The Sequel — The Three Johns
+DESCRIPTION:The Re-enchantment Literary Collective's one-off books-and-cul
+ ture pub quiz in Angel — a quiz special worth travelling for\, with a b
+ ookish crowd. This Thursday.\nPrice: £11.55\nhttps://www.eventbrite.com/
+ e/re-enchantment-pub-quiz-2-the-sequel-tickets-1998428195529
+URL:https://www.eventbrite.com/e/re-enchantment-pub-quiz-2-the-sequel-tick
+ ets-1998428195529
+LOCATION:The Three Johns\, 73 White Lion Street\, London N1 9PF
 END:VEVENT
 BEGIN:VEVENT
 UID:dance-sound-healing-gong-bath-at-liquid-movement-a18e9a14@london-event
@@ -1414,6 +1444,20 @@ DESCRIPTION:Open singaround of traditional folk songs\, shanties and balla
 URL:https://thamesfestivaltrust.org/whats-on/songs-on-the-water-at-theatre
  ship-26995/
 LOCATION:Theatreship\, South Dock\, Canary Wharf\, E14
+END:VEVENT
+BEGIN:VEVENT
+UID:life-drawing-at-the-prince-george-dalston-eab6873c@london-events
+DTSTAMP:20260914T180000Z
+DTSTART:20260914T180000Z
+DTEND:20260914T193000Z
+SUMMARY:Life Drawing at the Prince George\, Dalston
+DESCRIPTION:Pub life drawing in a proper Dalston local\, all levels welcom
+ e\, materials provided. Monday evening alternative while the attic's Octo
+ ber dates are unannounced.\nPrice: £13.70\nhttps://www.eventbrite.co.uk/
+ e/life-drawing-at-the-prince-george-dalston-tickets-1992044050379
+URL:https://www.eventbrite.co.uk/e/life-drawing-at-the-prince-george-dalst
+ on-tickets-1992044050379
+LOCATION:Prince George\, 40 Parkholme Road\, London E8 3AG
 END:VEVENT
 BEGIN:VEVENT
 UID:neumatic-parlo-houndshark-at-sebright-arms-b594b411@london-events
@@ -3228,6 +3272,36 @@ URL:https://wiltons.org.uk/whats-on/tim-key-loganberry-2/
 LOCATION:Wilton's Music Hall\, 1 Graces Alley\, London E1 8JB
 END:VEVENT
 BEGIN:VEVENT
+UID:board-game-club-at-the-lyttelton-arms-free-monthly-486c434c@london-eve
+ nts
+DTSTAMP:20260929T170000Z
+DTSTART:20260929T170000Z
+DTEND:20260929T210000Z
+SUMMARY:Board Game Club at The Lyttelton Arms (free monthly)
+DESCRIPTION:Free monthly grown-ups' games night with a curated menu of par
+ ty and tabletop games — hosted\, sociable\, easy to join solo. Near Mor
+ nington Crescent.\nPrice: Free\nhttps://www.eventbrite.co.uk/e/board-game
+ -club-at-the-lyttelton-arms-tickets-1999616527863
+URL:https://www.eventbrite.co.uk/e/board-game-club-at-the-lyttelton-arms-t
+ ickets-1999616527863
+LOCATION:The Lyttelton Arms\, 1 Camden High Street\, London NW1 7JE
+END:VEVENT
+BEGIN:VEVENT
+UID:thursday-single-digital-nomads-night-25-at-barrio-shoreditch-e482de5f@
+ london-events
+DTSTAMP:20260929T180000Z
+DTSTART:20260929T180000Z
+DTEND:20260929T220000Z
+SUMMARY:Thursday: Single Digital Nomads Night 25+ at Barrio Shoreditch
+DESCRIPTION:Mixed singles night for remote workers\, founders and travelle
+ rs\, 25+\, on Shoreditch High Street — six minutes away.\nPrice: £13.2
+ 0 early bird / £19.80 GA\nhttps://www.thursday.com/events/london/a76cd9b
+ 5-e9f5-4dce-a228-a3ebc538b4b4
+URL:https://www.thursday.com/events/london/a76cd9b5-e9f5-4dce-a228-a3ebc53
+ 8b4b4
+LOCATION:Barrio - Shoreditch\, 141-143 Shoreditch High St\, London E1 6JE
+END:VEVENT
+BEGIN:VEVENT
 UID:honeymoan-at-moth-club-36fcd567@london-events
 DTSTAMP:20260929T183000Z
 DTSTART:20260929T183000Z
@@ -3405,6 +3479,36 @@ LOCATION:Servant Jazz Quarters (SJQ)\, 10a Bradbury Street\, Dalston\, N16
   8JN
 END:VEVENT
 BEGIN:VEVENT
+UID:thursday-pitch-your-mate-singles-night-at-bam-karaoke-box-1b46b62d@lon
+ don-events
+DTSTAMP:20261001T180000Z
+DTSTART:20261001T180000Z
+DTEND:20261001T220000Z
+SUMMARY:Thursday: Pitch Your Mate! — singles night at BAM Karaoke Box
+DESCRIPTION:Thursday's quirky new format: bring a taken friend who pitches
+  you on stage to a room of singles\, karaoke-box setting. Mixed\, no age 
+ bracket. Far west — Victoria line from Bethnal Green is easiest.\nPrice
+ : £13.20 early bird / £19.80 GA\nhttps://www.thursday.com/events/london
+ /97a77bc0-c305-4505-9729-ab31202f3e7a
+URL:https://www.thursday.com/events/london/97a77bc0-c305-4505-9729-ab31202
+ f3e7a
+LOCATION:BAM Karaoke Box Victoria\, 74 Victoria St\, London SW1E 6SQ
+END:VEVENT
+BEGIN:VEVENT
+UID:thursday-24-35-singles-night-at-la-familia-soho-c713ef81@london-events
+DTSTAMP:20261001T180000Z
+DTSTART:20261001T180000Z
+DTEND:20261001T220000Z
+SUMMARY:Thursday: 24-35 Singles Night at La Familia\, Soho
+DESCRIPTION:Classic Thursday bar-takeover for singles 24-35. A parallel 30
+ -50 night runs at the same venue the same evening if that bracket appeals
+  more.\nPrice: £13.20 early bird / £19.80 GA\nhttps://www.thursday.com/
+ events/london/f894550c-e00c-416b-b09c-df9eaca91563
+URL:https://www.thursday.com/events/london/f894550c-e00c-416b-b09c-df9eaca
+ 91563
+LOCATION:La Familia\, 6 Poland St\, London W1F 8PS
+END:VEVENT
+BEGIN:VEVENT
 UID:system-reset-bioenergetics-guided-flow-sound-journey-3954d43e@london-e
  vents
 DTSTAMP:20261001T181500Z
@@ -3579,6 +3683,19 @@ URL:https://dice.fm/event/q2pqxy-diy-alive-festival-3rd-oct-earth-london-t
 LOCATION:EartH\, 11-17 Stoke Newington Road\, Dalston\, N16 8BP
 END:VEVENT
 BEGIN:VEVENT
+UID:philosophy-in-the-park-149-victoria-park-08ac40b2@london-events
+DTSTAMP:20261003T120000Z
+DTSTART:20261003T120000Z
+DTEND:20261003T140000Z
+SUMMARY:Philosophy in the Park 149 — Victoria Park
+DESCRIPTION:Free open-air philosophy discussion circle at the Victoria Par
+ k fountain — Saturday afternoon\, five minutes away.\nPrice: Free\nhttp
+ s://www.meetup.com/london-philosophy-collective/events/316212247/
+URL:https://www.meetup.com/london-philosophy-collective/events/316212247/
+LOCATION:Baroness Burdett-Coutts Drinking Fountain\, Victoria Park\, Victo
+ ria Park\, London E3
+END:VEVENT
+BEGIN:VEVENT
 UID:when-all-the-birds-have-flown-away-album-launch-at-plot-9-0d47d05a@lon
  don-events
 DTSTAMP:20261003T170000Z
@@ -3648,6 +3765,21 @@ DESCRIPTION:Beloved Glasgow indie-pop band The Spook School play a reunion
 URL:https://dice.fm/event/xe3gx3-the-spook-school-happy-accidents-3rd-oct-
  the-old-blue-last-london-tickets
 LOCATION:The Old Blue Last\, 38 Great Eastern Street\, EC2A 3ES
+END:VEVENT
+BEGIN:VEVENT
+UID:emily-st-john-mandel-exit-party-a2717207@london-events
+DTSTAMP:20261003T184500Z
+DTSTART:20261003T184500Z
+DTEND:20261003T200000Z
+SUMMARY:Emily St John Mandel: Exit Party
+DESCRIPTION:The Station Eleven and Sea of Tranquility author discusses new
+  novel Exit Party — speculative literary fiction\, Saturday evening.\nP
+ rice: £21-£36\nhttps://www.southbankcentre.co.uk/whats-on/emily-st-john
+ -mandel-exit-party/
+URL:https://www.southbankcentre.co.uk/whats-on/emily-st-john-mandel-exit-p
+ arty/
+LOCATION:Purcell Room\, Southbank Centre\, Southbank Centre\, Belvedere Rd
+ \, London SE1 8XX
 END:VEVENT
 BEGIN:VEVENT
 UID:julian-siegel-quartet-at-vortex-jazz-club-133cc6a0@london-events
@@ -3738,6 +3870,33 @@ DESCRIPTION:Monday Ri talk on the neuroscience and physiology of how art\,
 URL:https://www.rigb.org/whats-on/art-cure-science-how-arts-transform-our-
  health
 LOCATION:Royal Institution\, 21 Albemarle Street\, Mayfair\, W1S 4BS
+END:VEVENT
+BEGIN:VEVENT
+UID:thursday-singles-pub-quiz-night-at-21soho-87c3a1e5@london-events
+DTSTAMP:20261005T180000Z
+DTSTART:20261005T180000Z
+DTEND:20261005T210000Z
+SUMMARY:Thursday: Singles Pub Quiz Night at 21Soho
+DESCRIPTION:October edition of Thursday's singles pub quiz — teams mixed
+  on arrival so you meet people by round two. 21+ mixed.\nPrice: £16.50 a
+ dvance / £27.50 door\nhttps://www.thursday.com/events/london/a4037f72-27
+ 41-4904-bdef-484ff587f76b
+URL:https://www.thursday.com/events/london/a4037f72-2741-4904-bdef-484ff58
+ 7f76b
+LOCATION:21Soho\, 3-5 Sutton Row\, London W1D 4NR
+END:VEVENT
+BEGIN:VEVENT
+UID:kant-s-cave-ethics-starts-with-you-dr-jim-walsh-932e64af@london-events
+DTSTAMP:20261005T183000Z
+DTSTART:20261005T183000Z
+DTEND:20261005T203000Z
+SUMMARY:Kant's Cave: Ethics Starts With You — Dr Jim Walsh
+DESCRIPTION:October edition of Philosophy for All's long-running Kant's Ca
+ ve talks\, a ten-minute walk from home. Monday evening lecture + discussi
+ on.\nPrice: Free/small donation (see Meetup)\nhttps://www.meetup.com/http
+ -pfalondon-org/events/314544487/
+URL:https://www.meetup.com/http-pfalondon-org/events/314544487/
+LOCATION:St Hilda's East Community Centre\, 18 Club Row\, London E2 7EY
 END:VEVENT
 BEGIN:VEVENT
 UID:gresham-college-our-sovereign-soil-free-aae7d22f@london-events
@@ -3953,6 +4112,22 @@ DESCRIPTION:Experimental art-pop duo Febueder in the Victoria's back room.
  \nPrice: £17.26\nhttps://dice.fm/event/6a689465ab735800013bdb43
 URL:https://dice.fm/event/6a689465ab735800013bdb43
 LOCATION:The Victoria\, 451 Queensbridge Road\, London E8 3AS
+END:VEVENT
+BEGIN:VEVENT
+UID:attacca-quartet-with-caroline-shaw-sing-on-c9470b26@london-events
+DTSTAMP:20261008T183000Z
+DTSTART:20261008T183000Z
+DTEND:20261008T203000Z
+SUMMARY:Attacca Quartet with Caroline Shaw: Sing On
+DESCRIPTION:Pulitzer-winning composer-vocalist Caroline Shaw joins the Gra
+ mmy-winning Attacca Quartet — the definitive living classical-crossover
+  pairing\, in the Barbican's chamber hall.\nPrice: From £30\nhttps://www
+ .barbican.org.uk/whats-on/2026/event/attacca-quartet-with-caroline-shaw-s
+ ing-on
+URL:https://www.barbican.org.uk/whats-on/2026/event/attacca-quartet-with-c
+ aroline-shaw-sing-on
+LOCATION:Milton Court Concert Hall\, Milton Court\, Silk St\, London EC2Y 
+ 9BH
 END:VEVENT
 BEGIN:VEVENT
 UID:hajda-banda-at-kings-place-decb93ed@london-events
@@ -4426,6 +4601,20 @@ DESCRIPTION:Casper Walsh brings the Hustler Boogie tour to MOTH's glittery
 URL:https://dice.fm/event/oe8rxg-casper-walsh-hustler-boogie-tour-13th-oct
  -moth-club-london-tickets
 LOCATION:MOTH Club\, Old Trades Hall\, Valette Street\, E9 6NU
+END:VEVENT
+BEGIN:VEVENT
+UID:all-out-of-bubblegum-film-club-challengers-at-rio-cinema-63a0366d@lond
+ on-events
+DTSTAMP:20261013T180000Z
+DTSTART:20261013T180000Z
+DTEND:20261013T210000Z
+SUMMARY:All Out of Bubblegum Film Club: Challengers at Rio Cinema
+DESCRIPTION:London Philosophy Collective's film club: watch Challengers at
+  the Rio then discuss it over drinks — an easy social with built-in con
+ versation.\nPrice: Standard Rio ticket\nhttps://www.meetup.com/london-phi
+ losophy-collective/events/316387045/
+URL:https://www.meetup.com/london-philosophy-collective/events/316387045/
+LOCATION:Rio Cinema\, 107 Kingsland High St\, London E8 2PB
 END:VEVENT
 BEGIN:VEVENT
 UID:slavoj-i-ek-live-how-to-academy-abfc90e6@london-events
@@ -4971,6 +5160,20 @@ URL:https://www.rigb.org/whats-on/did-neanderthals-hum-musicality-early-hu
 LOCATION:Royal Institution\, 21 Albemarle Street\, Mayfair\, W1S 4BS
 END:VEVENT
 BEGIN:VEVENT
+UID:games-themed-speed-dating-at-draughts-waterloo-ages-25-38-509add43@lon
+ don-events
+DTSTAMP:20261019T181500Z
+DTSTART:20261019T181500Z
+DTEND:20261019T210000Z
+SUMMARY:Games Themed Speed Dating at Draughts Waterloo (ages 25-38)
+DESCRIPTION:October date of the board-game-cafe speed dating night in the 
+ Leake Street arches — mixed\, ages 25-38. The 21 Sep edition is already
+  on the calendar\; this is the next one.\nPrice: Ticketed via Meetup\nhtt
+ ps://www.meetup.com/its-a-date-singles-events/events/316165739/
+URL:https://www.meetup.com/its-a-date-singles-events/events/316165739/
+LOCATION:Draughts Waterloo\, 26 Leake St\, London SE1 7NN
+END:VEVENT
+BEGIN:VEVENT
 UID:improvisers-ensemble-featuring-cleveland-watkiss-mbe-eb59e1ab@london-e
  vents
 DTSTAMP:20261020T180000Z
@@ -4997,6 +5200,37 @@ DESCRIPTION:Contemporary dance double bill redefining dance from the Afric
  w.hackneyempire.co.uk/events/twawsi-the-world-as-we-see-it
 URL:https://www.hackneyempire.co.uk/events/twawsi-the-world-as-we-see-it
 LOCATION:Hackney Empire\, 291 Mare Street\, E8 1EJ
+END:VEVENT
+BEGIN:VEVENT
+UID:perle-noire-meditations-for-jos-phine-julia-bullock-7dab4bb7@london-ev
+ ents
+DTSTAMP:20261020T183000Z
+DTSTART:20261020T183000Z
+DTEND:20261020T203000Z
+SUMMARY:Perle Noire: Meditations for Joséphine — Julia Bullock
+DESCRIPTION:Soprano Julia Bullock channels Joséphine Baker in a genre-cro
+ ssing staged song cycle — classical/jazz crossover in the main hall. (S
+ ame night as Michael Lewis at the Southbank.)\nPrice: From £24\nhttps://
+ www.barbican.org.uk/whats-on/2026/event/perle-noire-meditations-for-josep
+ hine
+URL:https://www.barbican.org.uk/whats-on/2026/event/perle-noire-meditation
+ s-for-josephine
+LOCATION:Barbican Hall\, Barbican Centre\, Silk St\, London EC2Y 8DS
+END:VEVENT
+BEGIN:VEVENT
+UID:michael-lewis-blockers-in-conversation-with-elizabeth-day-9bea1c1b@lon
+ don-events
+DTSTAMP:20261020T183000Z
+DTSTART:20261020T183000Z
+DTEND:20261020T194500Z
+SUMMARY:Michael Lewis: Blockers — in conversation with Elizabeth Day
+DESCRIPTION:The Big Short / Moneyball author on his new book Blockers\, in
+ terviewed by Elizabeth Day. (Clashes with Perle Noire at the Barbican.)\n
+ Price: £29-£74 (entry £29\; top price over cap)\nhttps://www.southbank
+ centre.co.uk/whats-on/michael-lewis-blockers/
+URL:https://www.southbankcentre.co.uk/whats-on/michael-lewis-blockers/
+LOCATION:Royal Festival Hall\, Southbank Centre\, Belvedere Rd\, London SE
+ 1 8XX
 END:VEVENT
 BEGIN:VEVENT
 UID:gresham-college-why-is-there-music-milton-mermikides-free-b2f5f07b@lon
@@ -5118,6 +5352,21 @@ URL:https://dice.fm/event/6a919208a0dc520001d2e8d3
 LOCATION:The Old Blue Last\, 38 Great Eastern St\, EC2A 3ES
 END:VEVENT
 BEGIN:VEVENT
+UID:jeffrey-lewis-the-voltage-at-queen-elizabeth-hall-af4c44c3@london-even
+ ts
+DTSTAMP:20261022T183000Z
+DTSTART:20261022T183000Z
+DTEND:20261022T210000Z
+SUMMARY:Jeffrey Lewis & The Voltage at Queen Elizabeth Hall
+DESCRIPTION:New York antifolk hero Jeffrey Lewis — comic-book-illustrate
+ d story-songs and lo-fi indie-rock-folk with his band The Voltage.\nPrice
+ : £28-£36\nhttps://www.southbankcentre.co.uk/whats-on/jeffrey-lewis-the
+ -voltage/
+URL:https://www.southbankcentre.co.uk/whats-on/jeffrey-lewis-the-voltage/
+LOCATION:Queen Elizabeth Hall\, Southbank Centre\, Belvedere Rd\, London S
+ E1 8XX
+END:VEVENT
+BEGIN:VEVENT
 UID:gambian-cookery-class-with-lamin-migrateful-pop-up-be0dd10a@london-eve
  nts
 DTSTAMP:20261023T173000Z
@@ -5174,6 +5423,22 @@ DESCRIPTION:Throwing Muses' Kristin Hersh plays an intimate three-night re
  /events.php
 URL:https://www.thelexington.co.uk/events.php
 LOCATION:The Lexington\, 96-98 Pentonville Road\, London N1 9JB
+END:VEVENT
+BEGIN:VEVENT
+UID:pia-katya-bourvis-with-tala-lee-turton-score-by-hannah-peel-b4bd5bad@l
+ ondon-events
+DTSTAMP:20261023T183000Z
+DTSTART:20261023T183000Z
+DTEND:20261023T203000Z
+SUMMARY:PIA — Katya Bourvis with Tala Lee-Turton\, score by Hannah Peel
+DESCRIPTION:Live dance and music piece by choreographer Katya Bourvis with
+  ballet dancer Tala Lee-Turton and a new score by Emmy-nominated electron
+ ic composer Hannah Peel.\nPrice: From £24\nhttps://www.barbican.org.uk/w
+ hats-on/2026/event/pia-in-collaboration-with-tala-lee-turton-hannah-peel
+URL:https://www.barbican.org.uk/whats-on/2026/event/pia-in-collaboration-w
+ ith-tala-lee-turton-hannah-peel
+LOCATION:Milton Court Concert Hall\, Milton Court\, Silk St\, London EC2Y 
+ 9BH
 END:VEVENT
 BEGIN:VEVENT
 UID:cacao-dance-tribe-friday-ecstatic-dance-cacao-23-oct-b5e62a71@london-e
@@ -5655,6 +5920,21 @@ URL:https://unionchapel.org.uk/whats-on/tom-rush
 LOCATION:Union Chapel\, Compton Terrace\, Islington\, N1 2UN
 END:VEVENT
 BEGIN:VEVENT
+UID:hanif-carlo-kureishi-are-you-with-me-now-2eb493da@london-events
+DTSTAMP:20261101T200000Z
+DTSTART:20261101T200000Z
+DTEND:20261101T211500Z
+SUMMARY:Hanif & Carlo Kureishi: Are You With Me Now?
+DESCRIPTION:Hanif Kureishi\, writing through paralysis with son Carlo as h
+ is hands\, discusses their extraordinary collaboration and new memoir. Su
+ nday evening.\nPrice: £29-£43\nhttps://www.southbankcentre.co.uk/whats-
+ on/hanif-carlo-kureishi-are-you-with-me-now/
+URL:https://www.southbankcentre.co.uk/whats-on/hanif-carlo-kureishi-are-yo
+ u-with-me-now/
+LOCATION:Queen Elizabeth Hall\, Southbank Centre\, Belvedere Rd\, London S
+ E1 8XX
+END:VEVENT
+BEGIN:VEVENT
 UID:campaign-lab-hack-night-2-nov-edition-fd092e49@london-events
 DTSTAMP:20261102T190000Z
 DTSTART:20261102T190000Z
@@ -6008,6 +6288,22 @@ DESCRIPTION:Acclaimed Kurdish singer and multi-instrumentalist Ali Doğan
  (Kings Place\, typically £15-35)\nhttps://www.kingsplace.co.uk/whats-on/
 URL:https://www.kingsplace.co.uk/whats-on/
 LOCATION:Kings Place\, 90 York Way\, London N1 9AG
+END:VEVENT
+BEGIN:VEVENT
+UID:pitchfork-music-festival-london-hania-rani-02806701@london-events
+DTSTAMP:20261108T193000Z
+DTSTART:20261108T193000Z
+DTEND:20261108T220000Z
+SUMMARY:Pitchfork Music Festival London: Hania Rani
+DESCRIPTION:Polish pianist-composer Hania Rani's hypnotic minimalist piano
+  and electronics fill the Royal Festival Hall for Pitchfork Festival Lond
+ on. (8 Nov is now a three-way clash: Thurston Moore at the Vortex\, Ali D
+ oğan Gönültaş at Kings Place.)\nPrice: £33.50-£51\nhttps://www.sout
+ hbankcentre.co.uk/whats-on/pitchfork-music-festival-london-hania-rani/
+URL:https://www.southbankcentre.co.uk/whats-on/pitchfork-music-festival-lo
+ ndon-hania-rani/
+LOCATION:Royal Festival Hall\, Southbank Centre\, Belvedere Rd\, London SE
+ 1 8XX
 END:VEVENT
 BEGIN:VEVENT
 UID:nu-civilisation-orchestra-the-stuart-hall-project-at-union-c-67e9e8c9@
@@ -6606,6 +6902,19 @@ URL:https://dice.fm/event/v3d8v7-silver-birch-pete-wareham-ruth-goller-bet
 LOCATION:MOTH Club\, Old Trades Hall\, Valette Street\, E9 6NU
 END:VEVENT
 BEGIN:VEVENT
+UID:johnny-flynn-lillie-flynn-beam-cottage-1e9c0b44@london-events
+DTSTAMP:20261121T193000Z
+DTSTART:20261121T193000Z
+DTEND:20261121T220000Z
+SUMMARY:Johnny Flynn & Lillie Flynn: Beam Cottage
+DESCRIPTION:Folk singer-actor Johnny Flynn with sister Lillie share new al
+ bum Beam Cottage. Saturday night.\nPrice: £36-£61 (entry £36)\nhttps:/
+ /www.southbankcentre.co.uk/whats-on/johnny-flynn-lillie-flynn/
+URL:https://www.southbankcentre.co.uk/whats-on/johnny-flynn-lillie-flynn/
+LOCATION:Royal Festival Hall\, Southbank Centre\, Belvedere Rd\, London SE
+ 1 8XX
+END:VEVENT
+BEGIN:VEVENT
 UID:pearl-the-oysters-at-moth-club-979d44d8@london-events
 DTSTAMP:20261122T190000Z
 DTSTART:20261122T190000Z
@@ -7110,6 +7419,21 @@ DESCRIPTION:The Smiths' drummer and producer Stephen Street go track-by-tr
 URL:https://www.kingsplace.co.uk/whats-on/words/mike-joyce-stephen-street-
  the-queen-is-dead-40th-anniversary/
 LOCATION:Kings Place (Hall One)\, 90 York Way\, London N1 9AG
+END:VEVENT
+BEGIN:VEVENT
+UID:josienne-clarke-sings-the-songs-of-sandy-denny-0951d469@london-events
+DTSTAMP:20261205T193000Z
+DTSTART:20261205T193000Z
+DTEND:20261205T213000Z
+SUMMARY:Josienne Clarke Sings the Songs of Sandy Denny
+DESCRIPTION:One of Britain's finest folk voices interprets the Fairport Co
+ nvention legend's songbook in the intimate Purcell Room. Saturday.\nPrice
+ : £26-£41\nhttps://www.southbankcentre.co.uk/whats-on/josienne-clarke-s
+ ings-the-songs-of-sandy-denny/
+URL:https://www.southbankcentre.co.uk/whats-on/josienne-clarke-sings-the-s
+ ongs-of-sandy-denny/
+LOCATION:Purcell Room\, Southbank Centre\, Southbank Centre\, Belvedere Rd
+ \, London SE1 8XX
 END:VEVENT
 BEGIN:VEVENT
 UID:steve-knightley-the-winter-yards-band-at-kings-place-bdbcc1df@london-e
