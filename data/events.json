@@ -1920,6 +1920,25 @@
     "added": "2026-08-20"
   },
   {
+    "title": "Preview: Slow Horses Series 6 + ScreenTalk with director Adam Randall",
+    "start": "2026-09-16T18:10:00+01:00",
+    "end": "2026-09-16T21:00:00+01:00",
+    "venue": "Cinema 1, Barbican Centre",
+    "address": "Barbican Centre, Silk Street, EC2Y 8DS",
+    "url": "https://www.barbican.org.uk/whats-on/2026/event/preview-slow-horses-series-6-screentalk-with-director-ada",
+    "source": "venue:barbican-cinema",
+    "tags": [
+      "film",
+      "talk"
+    ],
+    "price": "£17 (+£1.50 fee); £6 Young Barbican",
+    "description": "First two episodes of the Emmy/BAFTA-winning spy drama's sixth season, followed by a ScreenTalk with director Adam Randall.",
+    "neighbourhood": "Barbican",
+    "cycle_minutes": 15,
+    "added": "2026-09-09T06:15:42Z",
+    "id": "preview-slow-horses-series-6-screentalk-with-director-adam-r-62e3e6d0"
+  },
+  {
     "id": "authentic-relating-5-principles-for-healthy-relating-1f35c472",
     "title": "Authentic Relating: 5 Principles for Healthy Relating",
     "start": "2026-09-16T18:30:00+01:00",
@@ -2868,6 +2887,26 @@
     "added": "2026-08-19"
   },
   {
+    "title": "Everybody Digs Bill Evans + Q&A at Rio Cinema",
+    "start": "2026-09-20T17:00:00+01:00",
+    "end": "2026-09-20T19:30:00+01:00",
+    "venue": "Rio Cinema",
+    "address": "107 Kingsland High Street, Dalston, E8 2PB",
+    "url": "https://riocinema.org.uk/Rio.dll/WhatsOn?f=2861064",
+    "source": "venue:rio",
+    "tags": [
+      "film",
+      "music",
+      "talk"
+    ],
+    "price": "~£10-13 (booking system)",
+    "description": "Silver Bear-winning biographical drama about jazz pianist Bill Evans, with post-film Q&A. Sunday 5pm.",
+    "neighbourhood": "Dalston",
+    "cycle_minutes": 15,
+    "added": "2026-09-09T06:15:42Z",
+    "id": "everybody-digs-bill-evans-q-a-at-rio-cinema-c83ca64f"
+  },
+  {
     "id": "saudi-arabian-uyghur-cookery-class-with-sana-migrateful-c799e227",
     "title": "Saudi Arabian + Uyghur Cookery Class with Sana (Migrateful)",
     "start": "2026-09-20T18:15:00+01:00",
@@ -3032,6 +3071,25 @@
     "neighbourhood": "Waterloo",
     "cycle_minutes": 30,
     "added": "2026-08-20"
+  },
+  {
+    "title": "Yeah Yeah Yeahs: Hidden in Pieces + The Night of the Hunter at Rio",
+    "start": "2026-09-21T20:30:00+01:00",
+    "end": "2026-09-21T23:00:00+01:00",
+    "venue": "Rio Cinema",
+    "address": "107 Kingsland High Street, Dalston, E8 2PB",
+    "url": "https://riocinema.org.uk/Rio.dll/WhatsOn?f=2844006",
+    "source": "venue:rio",
+    "tags": [
+      "film",
+      "music"
+    ],
+    "price": "~£10-13 (booking system)",
+    "description": "Yeah Yeah Yeahs pair Barnaby Clay's dreamlike black-and-white concert companion film with Charles Laughton's The Night of the Hunter (1955).",
+    "neighbourhood": "Dalston",
+    "cycle_minutes": 15,
+    "added": "2026-09-09T06:15:42Z",
+    "id": "yeah-yeah-yeahs-hidden-in-pieces-the-night-of-the-hunter-at--7b5f3023"
   },
   {
     "id": "gresham-college-the-future-of-creativity-daniel-susskind-fre-89968b9c",
@@ -4181,6 +4239,25 @@
     "id": "board-game-club-at-the-lyttelton-arms-free-monthly-486c434c"
   },
   {
+    "title": "Kino Bloc: The Beauty of the Donkey + ScreenTalk with Dea Gjinovci",
+    "start": "2026-09-29T18:15:00+01:00",
+    "end": "2026-09-29T20:30:00+01:00",
+    "venue": "Cinema 3, Barbican Centre",
+    "address": "Barbican Centre, Silk Street, EC2Y 8DS",
+    "url": "https://www.barbican.org.uk/whats-on/2026/event/kino-bloc-the-beauty-of-the-donkey",
+    "source": "venue:barbican-cinema",
+    "tags": [
+      "film",
+      "talk"
+    ],
+    "price": "£15.50; £6 Young Barbican",
+    "description": "Poetic hybrid documentary following the director's father back to Kosova after 60 years of exile, with Q&A. Companion to the Kino Bloc: Becoming ScreenTalk already listed.",
+    "neighbourhood": "Barbican",
+    "cycle_minutes": 15,
+    "added": "2026-09-09T06:15:42Z",
+    "id": "kino-bloc-the-beauty-of-the-donkey-screentalk-with-dea-gjino-e7522ae4"
+  },
+  {
     "title": "Thursday: Single Digital Nomads Night 25+ at Barrio Shoreditch",
     "start": "2026-09-29T19:00:00+01:00",
     "end": "2026-09-29T23:00:00+01:00",
@@ -4270,6 +4347,25 @@
     "neighbourhood": "Bermondsey",
     "cycle_minutes": 25,
     "added": "2026-08-25"
+  },
+  {
+    "title": "Reclaim The Frame: Beautiful Thing (35mm) + Q&A with director Hettie Macdonald",
+    "start": "2026-09-30T18:15:00+01:00",
+    "end": "2026-09-30T21:00:00+01:00",
+    "venue": "Genesis Cinema",
+    "address": "93-95 Mile End Road, E1 4UJ",
+    "url": "https://www.genesiscinema.co.uk/event/669",
+    "source": "venue:genesis",
+    "tags": [
+      "film",
+      "talk"
+    ],
+    "price": "~£10-13 (booking system)",
+    "description": "30th-anniversary 35mm screening of the beloved Thamesmead-set coming-of-age classic, with director Hettie Macdonald in person.",
+    "neighbourhood": "Mile End",
+    "cycle_minutes": 7,
+    "added": "2026-09-09T06:15:42Z",
+    "id": "reclaim-the-frame-beautiful-thing-35mm-q-a-with-director-het-b919d810"
   },
   {
     "id": "movement-lab-taster-london-fields-ee7d8f93",
@@ -5100,6 +5196,25 @@
     "id": "life-at-moth-club-b2b2244d"
   },
   {
+    "title": "Life Drawing in the attic — October season (Tuesdays)",
+    "start": "2026-10-06T19:00:00+01:00",
+    "end": "2026-10-06T21:00:00+01:00",
+    "venue": "Hackney Picturehouse (attic)",
+    "address": "270 Mare Street, E8 1HE",
+    "url": "https://lifedrawing.art/",
+    "source": "venue:lifedrawing-attic",
+    "tags": [
+      "art",
+      "class"
+    ],
+    "price": "£12.50 adv / £15 drop-in / £50 five-pass",
+    "description": "October Tuesdays published: 6 Oct (Trinidad), 13 Oct (Roshni), 20 Oct (Berenice), 27 Oct (Tracy), all 7pm in the attic. Book via the events calendar; tickets transferable.",
+    "neighbourhood": "Hackney Central",
+    "cycle_minutes": 12,
+    "added": "2026-09-09T06:15:42Z",
+    "id": "life-drawing-in-the-attic-october-season-tuesdays-fa9975d5"
+  },
+  {
     "id": "gresham-college-what-do-you-need-a-mathematician-for-free-7b02e911",
     "title": "Gresham College: What Do You Need a Mathematician For? (free)",
     "start": "2026-10-07T18:00:00+01:00",
@@ -5711,6 +5826,24 @@
     "added": "2026-09-05"
   },
   {
+    "title": "Phil Ellis: Bath Mat at Wilton's Music Hall",
+    "start": "2026-10-10T19:30:00+01:00",
+    "end": "2026-10-10T21:30:00+01:00",
+    "venue": "Wilton's Music Hall",
+    "address": "1 Graces Alley, E1 8JB",
+    "url": "https://wiltons.org.uk/whats-on/phil-ellis-bath-mat/",
+    "source": "venue:wiltons",
+    "tags": [
+      "comedy"
+    ],
+    "price": "£8.50-£23 — 'Limited' availability, book soon",
+    "description": "Taskmaster S20 standout Phil Ellis brings his debut national tour to the world's oldest surviving music hall. 2h with interval.",
+    "neighbourhood": "Whitechapel",
+    "cycle_minutes": 8,
+    "added": "2026-09-09T06:15:42Z",
+    "id": "phil-ellis-bath-mat-at-wilton-s-music-hall-ca052bf7"
+  },
+  {
     "id": "the-london-barndance-company-october-edition-e8916725",
     "title": "The London Barndance Company — October edition",
     "start": "2026-10-10T20:00:00+01:00",
@@ -6136,6 +6269,24 @@
     "added": "2026-08-15"
   },
   {
+    "title": "Shakespeare's Romeo & Juliet — Duke's Theatre Company at Wilton's",
+    "start": "2026-10-15T19:00:00+01:00",
+    "end": "2026-10-15T21:45:00+01:00",
+    "venue": "Wilton's Music Hall",
+    "address": "1 Graces Alley, E1 8JB",
+    "url": "https://wiltons.org.uk/whats-on/shakespeares-romeo-juliet/",
+    "source": "venue:wiltons",
+    "tags": [
+      "theatre"
+    ],
+    "price": "£13.50-£27",
+    "description": "Joseph Pitcher's reimagining with original score by Rob Millett, in the atmospheric faded grandeur of Wilton's. Runs 15-17 Oct at 19:00 (+ Sat matinee); first night listed.",
+    "neighbourhood": "Whitechapel",
+    "cycle_minutes": 8,
+    "added": "2026-09-09T06:15:42Z",
+    "id": "shakespeare-s-romeo-juliet-duke-s-theatre-company-at-wilton--ab10ef92"
+  },
+  {
     "id": "m-x-at-sebright-arms-free-df783280",
     "title": "M/X at Sebright Arms (free)",
     "start": "2026-10-15T19:30:00+01:00",
@@ -6152,6 +6303,24 @@
     "neighbourhood": "Bethnal Green",
     "cycle_minutes": 4,
     "added": "2026-08-15"
+  },
+  {
+    "title": "Candyman (1992) + book launch of The Cracks at Rio Cinema",
+    "start": "2026-10-15T20:30:00+01:00",
+    "end": "2026-10-15T23:00:00+01:00",
+    "venue": "Rio Cinema",
+    "address": "107 Kingsland High Street, Dalston, E8 2PB",
+    "url": "https://riocinema.org.uk/Rio.dll/WhatsOn?f=2861189",
+    "source": "venue:rio",
+    "tags": [
+      "film"
+    ],
+    "price": "~£10-13 (booking system)",
+    "description": "Titan Books and Hackney author T.H. Huddleston launch satirical haunted-house novel The Cracks with a screening of the hook-handed original Candyman.",
+    "neighbourhood": "Dalston",
+    "cycle_minutes": 15,
+    "added": "2026-09-09T06:15:42Z",
+    "id": "candyman-1992-book-launch-of-the-cracks-at-rio-cinema-d045a759"
   },
   {
     "id": "the-master-builder-ibsen-at-arcola-theatre-from-16-oct-e66b093b",
@@ -6260,6 +6429,24 @@
     "neighbourhood": "Primrose Hill",
     "cycle_minutes": 32,
     "added": "2026-08-09"
+  },
+  {
+    "title": "Goodbye, Dragon Inn — presented in person by Ben Whishaw (Rio Forever 50th)",
+    "start": "2026-10-16T20:15:00+01:00",
+    "end": "2026-10-16T22:15:00+01:00",
+    "venue": "Rio Cinema",
+    "address": "107 Kingsland High Street, Dalston, E8 2PB",
+    "url": "https://riocinema.org.uk/Rio.dll/WhatsOn?f=2770278",
+    "source": "venue:rio",
+    "tags": [
+      "film"
+    ],
+    "price": "~£10-13 (booking system)",
+    "description": "For the Rio's 50th-anniversary season, local resident Ben Whishaw introduces Tsai Ming-liang's tender elegy for a closing Taipei cinema.",
+    "neighbourhood": "Dalston",
+    "cycle_minutes": 15,
+    "added": "2026-09-09T06:15:42Z",
+    "id": "goodbye-dragon-inn-presented-in-person-by-ben-whishaw-rio-fo-ed6a168d"
   },
   {
     "id": "lff-carl-sagan-we-are-made-of-star-stuff-documentary-1837bb25",
@@ -6908,6 +7095,25 @@
     "id": "jeffrey-lewis-the-voltage-at-queen-elizabeth-hall-af4c44c3"
   },
   {
+    "title": "Never Watching Movies: Empire Records + Q&A at Rio Cinema",
+    "start": "2026-10-22T20:30:00+01:00",
+    "end": "2026-10-22T23:00:00+01:00",
+    "venue": "Rio Cinema",
+    "address": "107 Kingsland High Street, Dalston, E8 2PB",
+    "url": "https://riocinema.org.uk/Rio.dll/WhatsOn?f=2770324",
+    "source": "venue:rio",
+    "tags": [
+      "film",
+      "comedy"
+    ],
+    "price": "~£10-13 (booking system)",
+    "description": "Rio Forever special: the Never Watching Movies crew screen Empire Records (1995) with a Q&A about working in the UK's longest-running cinema. (Same night as Jeffrey Lewis at QEH.)",
+    "neighbourhood": "Dalston",
+    "cycle_minutes": 15,
+    "added": "2026-09-09T06:15:42Z",
+    "id": "never-watching-movies-empire-records-q-a-at-rio-cinema-1237c436"
+  },
+  {
     "id": "gambian-cookery-class-with-lamin-migrateful-pop-up-be0dd10a",
     "title": "Gambian Cookery Class with Lamin (Migrateful pop-up)",
     "start": "2026-10-23T18:30:00+01:00",
@@ -7368,6 +7574,24 @@
     "id": "nina-winder-lind-heka-at-the-shacklewell-arms-95cacb26"
   },
   {
+    "title": "An Evening with Fran Lebowitz, in conversation with Erica Wagner",
+    "start": "2026-10-27T19:30:00+00:00",
+    "end": "2026-10-27T21:00:00+00:00",
+    "venue": "Barbican Hall",
+    "address": "Barbican Centre, Silk St, London EC2Y 8DS",
+    "url": "https://www.fane.co.uk/fran-lebowitz",
+    "source": "fane",
+    "tags": [
+      "talk"
+    ],
+    "price": "£65 — over the usual cap, flagged: one-off legendary figure",
+    "description": "Unapologetic wit and cultural commentary from the New York essayist, onstage with Erica Wagner. Watchlist item now on sale via Fane.",
+    "neighbourhood": "Barbican",
+    "cycle_minutes": 15,
+    "added": "2026-09-09T06:15:42Z",
+    "id": "an-evening-with-fran-lebowitz-in-conversation-with-erica-wag-74ee3293"
+  },
+  {
     "id": "ethical-matters-ghibli-and-goodness-at-conway-hall-bc5f7a1e",
     "title": "Ethical Matters: Ghibli and Goodness at Conway Hall",
     "start": "2026-10-28T18:30:00+00:00",
@@ -7622,6 +7846,43 @@
     "neighbourhood": "Primrose Hill",
     "cycle_minutes": 32,
     "added": "2026-08-11"
+  },
+  {
+    "title": "Halloween (1978) — Halloween night at Genesis",
+    "start": "2026-10-31T21:00:00+00:00",
+    "end": "2026-10-31T23:00:00+00:00",
+    "venue": "Genesis Cinema",
+    "address": "93-95 Mile End Road, E1 4UJ",
+    "url": "https://www.genesiscinema.co.uk/event/103747",
+    "source": "venue:genesis",
+    "tags": [
+      "film"
+    ],
+    "price": "~£10-13 (booking system)",
+    "description": "John Carpenter's original slasher on Halloween night itself, 9pm — flagship of the 'Halloween at Genesis' season (more titles expected).",
+    "neighbourhood": "Mile End",
+    "cycle_minutes": 7,
+    "added": "2026-09-09T06:15:42Z",
+    "id": "halloween-1978-halloween-night-at-genesis-95df47f9"
+  },
+  {
+    "title": "The Rocky Horror Picture Show with live Shadow Cast — Halloween midnight show",
+    "start": "2026-10-31T23:30:00+00:00",
+    "end": "2026-11-01T02:00:00+00:00",
+    "venue": "Rio Cinema",
+    "address": "107 Kingsland High Street, Dalston, E8 2PB",
+    "url": "https://riocinema.org.uk/Rio.dll/WhatsOn?f=1742916",
+    "source": "venue:rio",
+    "tags": [
+      "film",
+      "music"
+    ],
+    "price": "~£12-15 (booking system)",
+    "description": "Queer Horror Nights' Halloween sing-along of Rocky Horror (1975) with a live shadow cast performing in front of the film — chaotic participatory late show; doable after the RI ShRIek talk or the Genesis 9pm Halloween.",
+    "neighbourhood": "Dalston",
+    "cycle_minutes": 15,
+    "added": "2026-09-09T06:15:42Z",
+    "id": "the-rocky-horror-picture-show-with-live-shadow-cast-hallowee-9b3ffa43"
   },
   {
     "id": "tracey-nelson-at-moth-club-61a737a9",
@@ -9858,6 +10119,25 @@
     "cycle_minutes": 12,
     "added": "2026-09-06T06:17:42Z",
     "id": "sam-scherdel-at-paper-dress-vintage-da6a24df"
+  },
+  {
+    "title": "Scustin at MOTH Club",
+    "start": "2026-12-10T19:30:00+00:00",
+    "end": "2026-12-10T22:30:00+00:00",
+    "venue": "MOTH Club",
+    "address": "Old Trades Hall, Valette Street, E9 6NU",
+    "url": "https://dice.fm/event/6a8fe631064f240001380744",
+    "source": "venue:dice-moth-club",
+    "tags": [
+      "music",
+      "comedy"
+    ],
+    "price": "£17",
+    "description": "Irish comedy-pop absurdist Scustin brings the satirical bangers to MOTH Club's glittery ceiling. On sale 8 Sep — watchlist resolved.",
+    "neighbourhood": "Hackney Central",
+    "cycle_minutes": 12,
+    "added": "2026-09-09T06:15:42Z",
+    "id": "scustin-at-moth-club-2f5dccd9"
   },
   {
     "id": "cervatana-free-show-at-the-shacklewell-arms-c0b1e798",
