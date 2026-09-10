@@ -5069,6 +5069,45 @@
     "added": "2026-08-26"
   },
   {
+    "title": "LFF: Gone to Earth (Powell & Pressburger, 1950) — restoration",
+    "start": "2026-10-07T18:00:00+01:00",
+    "end": "2026-10-07T19:55:00+01:00",
+    "venue": "BFI Southbank",
+    "address": "Belvedere Road, South Bank, London SE1 8XT",
+    "url": "https://whatson.bfi.org.uk/lff/Online/default.asp?BOparam::WScontent::loadArticle::permalink=gone-to-earth-lff26",
+    "source": "lff:whatson.bfi.org.uk",
+    "tags": [
+      "film",
+      "festival"
+    ],
+    "price": "£10-£18 + £1 fee (general sale 17 Sep 10:00)",
+    "description": "TREASURES strand, NFT1. Powell & Pressburger's rhapsodic Technicolor melodrama restored — untamed Shropshire landscapes, folk-pagan atmosphere. 111min, only LFF screening. Chains into Making Marie Antoinette 20:45 same building.",
+    "neighbourhood": "South Bank",
+    "cycle_minutes": 28,
+    "added": "2026-09-10T06:16:24Z",
+    "id": "lff-gone-to-earth-powell-pressburger-1950-restoration-04a5409c"
+  },
+  {
+    "title": "LFF: Cameron Winter at Carnegie Hall (PTA & Benny Safdie)",
+    "start": "2026-10-07T18:30:00+01:00",
+    "end": "2026-10-07T19:45:00+01:00",
+    "venue": "Prince Charles Cinema",
+    "address": "7 Leicester Place, London WC2H 7BY",
+    "url": "https://whatson.bfi.org.uk/lff/Online/default.asp?BOparam::WScontent::loadArticle::permalink=cameron-winter-at-carnegie-hall-lff26",
+    "source": "lff:whatson.bfi.org.uk",
+    "tags": [
+      "film",
+      "festival",
+      "music"
+    ],
+    "price": "£10-£18 + £1 fee (general sale 17 Sep 10:00)",
+    "description": "CREATE strand, Downstairs Screen. Paul Thomas Anderson and Benny Safdie's multi-format concert film of the Geese frontman's solo Carnegie Hall night — 'a rapturous celebration of live performance'. 71min. Alternative to Gone to Earth (18:00 NFT1) same night.",
+    "neighbourhood": "Leicester Square",
+    "cycle_minutes": 30,
+    "added": "2026-09-10T06:16:24Z",
+    "id": "lff-cameron-winter-at-carnegie-hall-pta-benny-safdie-3916f77d"
+  },
+  {
     "id": "ga-a-at-servant-jazz-quarters-4785282d",
     "title": "GAÏA at Servant Jazz Quarters",
     "start": "2026-10-07T19:00:00+01:00",
@@ -5439,6 +5478,26 @@
     "added": "2026-09-02"
   },
   {
+    "title": "LFF: The Fox (Australian black comedy, Sam Neill & Olivia Colman)",
+    "start": "2026-10-09T20:45:00+01:00",
+    "end": "2026-10-09T22:15:00+01:00",
+    "venue": "Prince Charles Cinema",
+    "address": "7 Leicester Place, London WC2H 7BY",
+    "url": "https://whatson.bfi.org.uk/lff/Online/default.asp?BOparam::WScontent::loadArticle::permalink=fox-lff26",
+    "source": "lff:whatson.bfi.org.uk",
+    "tags": [
+      "film",
+      "festival",
+      "comedy"
+    ],
+    "price": "£10-£18 + £1 fee (general sale 17 Sep 10:00)",
+    "description": "LAUGH strand. A talking fox (voiced by Olivia Colman, with the late Sam Neill), a magical outback hole and a cheating partner. 90min. Alternative to existing Rogue Trooper/Chronovisor picks same night; alt screening Sun 11 Oct 12:45.",
+    "neighbourhood": "Leicester Square",
+    "cycle_minutes": 30,
+    "added": "2026-09-10T06:16:24Z",
+    "id": "lff-the-fox-australian-black-comedy-sam-neill-olivia-colman-613fa088"
+  },
+  {
     "id": "lff-chronovisor-dare-strand-493cf03a",
     "title": "LFF: Chronovisor (Dare strand)",
     "start": "2026-10-09T20:50:00+01:00",
@@ -5590,6 +5649,25 @@
     "added": "2026-09-02"
   },
   {
+    "title": "LFF: All of a Sudden (Ryusuke Hamaguchi)",
+    "start": "2026-10-10T18:45:00+01:00",
+    "end": "2026-10-10T22:05:00+01:00",
+    "venue": "BFI Southbank",
+    "address": "Belvedere Road, South Bank, London SE1 8XT",
+    "url": "https://whatson.bfi.org.uk/lff/Online/default.asp?BOparam::WScontent::loadArticle::permalink=all-of-a-sudden-lff26",
+    "source": "lff:whatson.bfi.org.uk",
+    "tags": [
+      "film",
+      "festival"
+    ],
+    "price": "£10-£18 + £1 fee (general sale 17 Sep 10:00)",
+    "description": "LOVE strand, NFT1. Hamaguchi's (Drive My Car) bilingual French-Japanese film — a nursing-home director and a Japanese theatre director form a transformative bond; 'a healing balm'. 196min, settle in. Alt Sun 18 Oct 14:15 RFH.",
+    "neighbourhood": "South Bank",
+    "cycle_minutes": 28,
+    "added": "2026-09-10T06:16:24Z",
+    "id": "lff-all-of-a-sudden-ryusuke-hamaguchi-6da1ce16"
+  },
+  {
     "id": "balkanplus-for-beginners-at-cecil-sharp-house-1d959eda",
     "title": "Balkanplus for Beginners at Cecil Sharp House",
     "start": "2026-10-10T19:00:00+01:00",
@@ -5736,6 +5814,45 @@
     "added": "2026-08-10"
   },
   {
+    "title": "LFF: Primetime (Lance Oppenheim on To Catch a Predator)",
+    "start": "2026-10-11T18:00:00+01:00",
+    "end": "2026-10-11T19:50:00+01:00",
+    "venue": "BFI IMAX",
+    "address": "1 Charlie Chaplin Walk, South Bank, London SE1 8XR",
+    "url": "https://whatson.bfi.org.uk/lff/Online/default.asp?BOparam::WScontent::loadArticle::permalink=primetime-lff26",
+    "source": "lff:whatson.bfi.org.uk",
+    "tags": [
+      "film",
+      "festival"
+    ],
+    "price": "£10-£18 + £1 fee (general sale 17 Sep 10:00)",
+    "description": "THRILL strand, on IMAX. Doc wunderkind Lance Oppenheim's narrative debut: the 2006 To Catch a Predator TV circus pushed to primetime, with Merritt Wever. 107min. Overlaps Once Upon a Time in Harlem 18:15 — pick one.",
+    "neighbourhood": "South Bank",
+    "cycle_minutes": 28,
+    "added": "2026-09-10T06:16:24Z",
+    "id": "lff-primetime-lance-oppenheim-on-to-catch-a-predator-6cd4a898"
+  },
+  {
+    "title": "LFF: Once Upon a Time in Harlem (William Greaves)",
+    "start": "2026-10-11T18:15:00+01:00",
+    "end": "2026-10-11T20:00:00+01:00",
+    "venue": "BFI Southbank",
+    "address": "Belvedere Road, South Bank, London SE1 8XT",
+    "url": "https://whatson.bfi.org.uk/lff/Online/default.asp?BOparam::WScontent::loadArticle::permalink=once-upon-a-time-in-harlem-film-lff26",
+    "source": "lff:whatson.bfi.org.uk",
+    "tags": [
+      "film",
+      "festival",
+      "music"
+    ],
+    "price": "£10-£18 + £1 fee (general sale 17 Sep 10:00)",
+    "description": "DOCUMENTARY COMPETITION, NFT3. Filmed at Duke Ellington's townhouse in 1972: Greaves gathered the living members of the Harlem Renaissance; finished 50 years on by his son. 100min. Pairs with Ha-Chan 20:30 PCC; overlaps Primetime.",
+    "neighbourhood": "South Bank",
+    "cycle_minutes": 28,
+    "added": "2026-09-10T06:16:24Z",
+    "id": "lff-once-upon-a-time-in-harlem-william-greaves-09b7065a"
+  },
+  {
     "id": "jembaa-groove-at-village-underground-aeb1e6ae",
     "title": "Jembaa Groove at Village Underground",
     "start": "2026-10-11T19:00:00+01:00",
@@ -5788,6 +5905,65 @@
     "cycle_minutes": 14,
     "added": "2026-09-06T06:17:42Z",
     "id": "soyuz-at-earth-79f89fc3"
+  },
+  {
+    "title": "LFF: Flies (Fernando Eimbcke)",
+    "start": "2026-10-11T20:00:00+01:00",
+    "end": "2026-10-11T21:45:00+01:00",
+    "venue": "Vue West End",
+    "address": "3 Cranbourn Street, Leicester Square, London WC2H 7AL",
+    "url": "https://whatson.bfi.org.uk/lff/Online/default.asp?BOparam::WScontent::loadArticle::permalink=flies-lff26",
+    "source": "lff:whatson.bfi.org.uk",
+    "tags": [
+      "film",
+      "festival",
+      "comedy"
+    ],
+    "price": "£10-£18 + £1 fee (general sale 17 Sep 10:00)",
+    "description": "LOVE strand, EPIC 2. Eimbcke (Duck Season) returns: Olga rents a room to a stranger who smuggles in his young son — witty, warm Mexican deadpan. 99min. Alt Tue 13 Oct Curzon Soho. Overlaps Ha-Chan — alternatives.",
+    "neighbourhood": "Leicester Square",
+    "cycle_minutes": 30,
+    "added": "2026-09-10T06:16:24Z",
+    "id": "lff-flies-fernando-eimbcke-0ab8c240"
+  },
+  {
+    "title": "LFF: Ha-Chan, Shake Your Booty! (ballroom crowd-pleaser)",
+    "start": "2026-10-11T20:30:00+01:00",
+    "end": "2026-10-11T22:35:00+01:00",
+    "venue": "Prince Charles Cinema",
+    "address": "7 Leicester Place, London WC2H 7BY",
+    "url": "https://whatson.bfi.org.uk/lff/Online/default.asp?BOparam::WScontent::loadArticle::permalink=ha-chan-shake-your-booty-lff26",
+    "source": "lff:whatson.bfi.org.uk",
+    "tags": [
+      "film",
+      "festival",
+      "dance"
+    ],
+    "price": "£10-£18 + £1 fee (general sale 17 Sep 10:00)",
+    "description": "LOVE strand. Rinko Kikuchi as a widow rediscovering ballroom dancing — and falling for her instructor. 'Zany, toe-tapping' — a natural pick for a dancer. 121min. Alt Sat 10 Oct 14:30 Vue West End.",
+    "neighbourhood": "Leicester Square",
+    "cycle_minutes": 30,
+    "added": "2026-09-10T06:16:24Z",
+    "id": "lff-ha-chan-shake-your-booty-ballroom-crowd-pleaser-a0c48dec"
+  },
+  {
+    "title": "LFF: Ken Russell's The Devils (1971) — restored",
+    "start": "2026-10-12T18:00:00+01:00",
+    "end": "2026-10-12T20:00:00+01:00",
+    "venue": "Prince Charles Cinema",
+    "address": "7 Leicester Place, London WC2H 7BY",
+    "url": "https://whatson.bfi.org.uk/lff/Online/default.asp?BOparam::WScontent::loadArticle::permalink=devils-lff26",
+    "source": "lff:whatson.bfi.org.uk",
+    "tags": [
+      "film",
+      "festival"
+    ],
+    "price": "£10-£18 + £1 fee (general sale 17 Sep 10:00)",
+    "description": "TREASURES strand. The long-suppressed 1971 scandal masterpiece finally restored: religious hysteria, church-state collusion, Oliver Reed at full tilt. An event screening. 114min. Alt Fri 9 Oct 20:40 NFT1. Likely to sell fast on 17 Sep.",
+    "neighbourhood": "Leicester Square",
+    "cycle_minutes": 30,
+    "added": "2026-09-10T06:16:24Z",
+    "id": "lff-ken-russell-s-the-devils-1971-restored-5dfe1e35"
   },
   {
     "id": "contact-improv-monday-beginners-class-with-rick-nodine-12-oc-e789b49e",
@@ -5865,6 +6041,26 @@
     "added": "2026-08-26"
   },
   {
+    "title": "LFF: Everest: The Other Side (Jimmy Chin & Chai Vasarhelyi)",
+    "start": "2026-10-13T18:20:00+01:00",
+    "end": "2026-10-13T20:15:00+01:00",
+    "venue": "BFI Southbank",
+    "address": "Belvedere Road, South Bank, London SE1 8XT",
+    "url": "https://whatson.bfi.org.uk/lff/Online/default.asp?BOparam::WScontent::loadArticle::permalink=everest-the-other-side-lff26",
+    "source": "lff:whatson.bfi.org.uk",
+    "tags": [
+      "film",
+      "festival",
+      "sport"
+    ],
+    "price": "£10-£18 + £1 fee (general sale 17 Sep 10:00)",
+    "description": "JOURNEY strand, NFT3. The Free Solo team follow Jim Morrison and Hilaree Nelson's attempt to climb and ski Everest's north face. 113min. Ends in time for Frank and Percy 20:35 in NFT1 next door.",
+    "neighbourhood": "South Bank",
+    "cycle_minutes": 28,
+    "added": "2026-09-10T06:16:24Z",
+    "id": "lff-everest-the-other-side-jimmy-chin-chai-vasarhelyi-82c9f9df"
+  },
+  {
     "id": "casper-walsh-hustler-boogie-tour-at-moth-club-0ddee856",
     "title": "Casper Walsh: Hustler Boogie Tour at MOTH Club",
     "start": "2026-10-13T19:00:00+01:00",
@@ -5936,6 +6132,26 @@
     "neighbourhood": "Shoreditch",
     "cycle_minutes": 7,
     "added": "2026-08-15"
+  },
+  {
+    "title": "LFF: Frank and Percy (Ian McKellen & Roger Allam)",
+    "start": "2026-10-13T20:35:00+01:00",
+    "end": "2026-10-13T22:25:00+01:00",
+    "venue": "BFI Southbank",
+    "address": "Belvedere Road, South Bank, London SE1 8XT",
+    "url": "https://whatson.bfi.org.uk/lff/Online/default.asp?BOparam::WScontent::loadArticle::permalink=frank-and-percy-lff26",
+    "source": "lff:whatson.bfi.org.uk",
+    "tags": [
+      "film",
+      "festival",
+      "comedy"
+    ],
+    "price": "£18 + £1 fee",
+    "description": "LOVE strand, NFT1. Warm-hearted adaptation of the West End hit: a dog-walking friendship on Hampstead Heath blossoms into something tender. McKellen, Allam, Lumley, Jacobi. 109min. Doubles with Everest same evening.",
+    "neighbourhood": "South Bank",
+    "cycle_minutes": 28,
+    "added": "2026-09-10T06:16:24Z",
+    "id": "lff-frank-and-percy-ian-mckellen-roger-allam-2bdebae7"
   },
   {
     "id": "gresham-college-rather-trivial-things-an-alternative-museum--e1ba97c1",
@@ -6087,6 +6303,26 @@
     "added": "2026-08-17"
   },
   {
+    "title": "LFF: It Will Happen Tonight (Nanni Moretti)",
+    "start": "2026-10-15T18:00:00+01:00",
+    "end": "2026-10-15T19:45:00+01:00",
+    "venue": "Vue West End",
+    "address": "3 Cranbourn Street, Leicester Square, London WC2H 7AL",
+    "url": "https://whatson.bfi.org.uk/lff/Online/default.asp?BOparam::WScontent::loadArticle::permalink=it-will-happen-tonight-lff26",
+    "source": "lff:whatson.bfi.org.uk",
+    "tags": [
+      "film",
+      "festival",
+      "comedy"
+    ],
+    "price": "£10-£18 + £1 fee (general sale 17 Sep 10:00)",
+    "description": "LOVE strand, EPIC 1. Moretti's comic romantic fantasy with Louis Garrel and Jasmine Trinca — signature heart and wit. 103min. Doable double bill with The History of Concrete 20:45 PCC. (Same night as Candyman at the Rio and R&J at Wilton's.)",
+    "neighbourhood": "Leicester Square",
+    "cycle_minutes": 30,
+    "added": "2026-09-10T06:16:24Z",
+    "id": "lff-it-will-happen-tonight-nanni-moretti-bdb77f12"
+  },
+  {
     "id": "kacy-clayton-at-moth-club-f83e0f5a",
     "title": "Kacy & Clayton at MOTH Club",
     "start": "2026-10-15T19:00:00+01:00",
@@ -6157,6 +6393,46 @@
     "cycle_minutes": 15,
     "added": "2026-09-09T06:15:42Z",
     "id": "candyman-1992-book-launch-of-the-cracks-at-rio-cinema-d045a759"
+  },
+  {
+    "title": "LFF: The History of Concrete (John Wilson)",
+    "start": "2026-10-15T20:45:00+01:00",
+    "end": "2026-10-15T22:30:00+01:00",
+    "venue": "Prince Charles Cinema",
+    "address": "7 Leicester Place, London WC2H 7BY",
+    "url": "https://whatson.bfi.org.uk/lff/Online/default.asp?BOparam::WScontent::loadArticle::permalink=history-of-concrete-lff26",
+    "source": "lff:whatson.bfi.org.uk",
+    "tags": [
+      "film",
+      "festival",
+      "comedy"
+    ],
+    "price": "£10-£18 + £1 fee (general sale 17 Sep 10:00)",
+    "description": "LAUGH strand. How To with John Wilson's creator applies a Hallmark-romcom workshop formula to a documentary about... concrete. Dry, curious, humane — peak curious-generalist doc. 101min. Alts 13 + 17 Oct.",
+    "neighbourhood": "Leicester Square",
+    "cycle_minutes": 30,
+    "added": "2026-09-10T06:16:24Z",
+    "id": "lff-the-history-of-concrete-john-wilson-8e9b3baa"
+  },
+  {
+    "title": "LFF: Sumo: Spirit Weighs Nothing (Erik Shirai)",
+    "start": "2026-10-16T18:00:00+01:00",
+    "end": "2026-10-16T19:40:00+01:00",
+    "venue": "Curzon Soho",
+    "address": "99 Shaftesbury Avenue, London W1D 5DY",
+    "url": "https://whatson.bfi.org.uk/lff/Online/default.asp?BOparam::WScontent::loadArticle::permalink=sumo-spirit-weighs-nothing-lff26",
+    "source": "lff:whatson.bfi.org.uk",
+    "tags": [
+      "film",
+      "festival",
+      "sport"
+    ],
+    "price": "£10-£18 + £1 fee (general sale 17 Sep 10:00)",
+    "description": "DOCUMENTARY COMPETITION, Screen 2. A year inside sumo's gruelling training stables, from the director of The Birth of Sake. 99min. Ends in time for the free Hacienda DJ night at BFI Bar (21:00, already listed). NB: same night as Ben Whishaw at the Rio — pick a lane.",
+    "neighbourhood": "Soho",
+    "cycle_minutes": 30,
+    "added": "2026-09-10T06:16:24Z",
+    "id": "lff-sumo-spirit-weighs-nothing-erik-shirai-3df6fd7d"
   },
   {
     "id": "the-master-builder-ibsen-at-arcola-theatre-from-16-oct-e66b093b",
@@ -6451,6 +6727,26 @@
     "neighbourhood": "King's Cross",
     "cycle_minutes": 30,
     "added": "2026-08-18"
+  },
+  {
+    "title": "LFF: Pakeezah (1972) restored on BFI IMAX",
+    "start": "2026-10-18T10:45:00+01:00",
+    "end": "2026-10-18T13:20:00+01:00",
+    "venue": "BFI IMAX",
+    "address": "1 Charlie Chaplin Walk, South Bank, London SE1 8XR",
+    "url": "https://whatson.bfi.org.uk/lff/Online/default.asp?BOparam::WScontent::loadArticle::permalink=pakeezah-lff26",
+    "source": "lff:whatson.bfi.org.uk",
+    "tags": [
+      "film",
+      "festival",
+      "music"
+    ],
+    "price": "£10-£18 + £1 fee (general sale 17 Sep 10:00)",
+    "description": "TREASURES strand. Kamal Amrohi's legendary Urdu courtesan musical, 14 years in the making — a visual and musical epic on the giant IMAX screen. 153min, Sunday morning, festival's final day; ends just before the Jesse Eisenberg Screen Talk 13:30 across the road.",
+    "neighbourhood": "South Bank",
+    "cycle_minutes": 28,
+    "added": "2026-09-10T06:16:24Z",
+    "id": "lff-pakeezah-1972-restored-on-bfi-imax-c1d0b86f"
   },
   {
     "id": "authentic-connections-wavekind-partner-breathwork-half-day-r-88ca7edf",

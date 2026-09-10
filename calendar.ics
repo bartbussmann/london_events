@@ -3802,6 +3802,41 @@ URL:https://www.gresham.ac.uk/whats-on/what-mathematician
 LOCATION:Barnard's Inn Hall\, Holborn\, EC1N 2HH
 END:VEVENT
 BEGIN:VEVENT
+UID:lff-gone-to-earth-powell-pressburger-1950-restoration-04a5409c@london-
+ events
+DTSTAMP:20261007T170000Z
+DTSTART:20261007T170000Z
+DTEND:20261007T185500Z
+SUMMARY:LFF: Gone to Earth (Powell & Pressburger\, 1950) — restoration
+DESCRIPTION:TREASURES strand\, NFT1. Powell & Pressburger's rhapsodic Tech
+ nicolor melodrama restored — untamed Shropshire landscapes\, folk-pagan
+  atmosphere. 111min\, only LFF screening. Chains into Making Marie Antoin
+ ette 20:45 same building.\nPrice: £10-£18 + £1 fee (general sale 17 Se
+ p 10:00)\nhttps://whatson.bfi.org.uk/lff/Online/default.asp?BOparam::WSco
+ ntent::loadArticle::permalink=gone-to-earth-lff26
+URL:https://whatson.bfi.org.uk/lff/Online/default.asp?BOparam::WScontent::
+ loadArticle::permalink=gone-to-earth-lff26
+LOCATION:BFI Southbank\, Belvedere Road\, South Bank\, London SE1 8XT
+END:VEVENT
+BEGIN:VEVENT
+UID:lff-cameron-winter-at-carnegie-hall-pta-benny-safdie-3916f77d@london-e
+ vents
+DTSTAMP:20261007T173000Z
+DTSTART:20261007T173000Z
+DTEND:20261007T184500Z
+SUMMARY:LFF: Cameron Winter at Carnegie Hall (PTA & Benny Safdie)
+DESCRIPTION:CREATE strand\, Downstairs Screen. Paul Thomas Anderson and Be
+ nny Safdie's multi-format concert film of the Geese frontman's solo Carne
+ gie Hall night — 'a rapturous celebration of live performance'. 71min. 
+ Alternative to Gone to Earth (18:00 NFT1) same night.\nPrice: £10-£18 +
+  £1 fee (general sale 17 Sep 10:00)\nhttps://whatson.bfi.org.uk/lff/Onli
+ ne/default.asp?BOparam::WScontent::loadArticle::permalink=cameron-winter-
+ at-carnegie-hall-lff26
+URL:https://whatson.bfi.org.uk/lff/Online/default.asp?BOparam::WScontent::
+ loadArticle::permalink=cameron-winter-at-carnegie-hall-lff26
+LOCATION:Prince Charles Cinema\, 7 Leicester Place\, London WC2H 7BY
+END:VEVENT
+BEGIN:VEVENT
 UID:ga-a-at-servant-jazz-quarters-4785282d@london-events
 DTSTAMP:20261007T180000Z
 DTSTART:20261007T180000Z
@@ -4082,6 +4117,23 @@ URL:https://whatson.bfi.org.uk/lff/Online/default.asp?doWork::WScontent::l
 LOCATION:Vue West End\, 3 Cranbourn Street\, Leicester Square\, WC2H 7AL
 END:VEVENT
 BEGIN:VEVENT
+UID:lff-the-fox-australian-black-comedy-sam-neill-olivia-colman-613fa088@l
+ ondon-events
+DTSTAMP:20261009T194500Z
+DTSTART:20261009T194500Z
+DTEND:20261009T211500Z
+SUMMARY:LFF: The Fox (Australian black comedy\, Sam Neill & Olivia Colman)
+DESCRIPTION:LAUGH strand. A talking fox (voiced by Olivia Colman\, with th
+ e late Sam Neill)\, a magical outback hole and a cheating partner. 90min.
+  Alternative to existing Rogue Trooper/Chronovisor picks same night\; alt
+  screening Sun 11 Oct 12:45.\nPrice: £10-£18 + £1 fee (general sale 17
+  Sep 10:00)\nhttps://whatson.bfi.org.uk/lff/Online/default.asp?BOparam::W
+ Scontent::loadArticle::permalink=fox-lff26
+URL:https://whatson.bfi.org.uk/lff/Online/default.asp?BOparam::WScontent::
+ loadArticle::permalink=fox-lff26
+LOCATION:Prince Charles Cinema\, 7 Leicester Place\, London WC2H 7BY
+END:VEVENT
+BEGIN:VEVENT
 UID:lff-chronovisor-dare-strand-493cf03a@london-events
 DTSTAMP:20261009T195000Z
 DTSTART:20261009T195000Z
@@ -4214,6 +4266,22 @@ URL:https://whatson.bfi.org.uk/lff/Online/default.asp?doWork::WScontent::l
 LOCATION:BFI Southbank\, Belvedere Road\, South Bank\, SE1 8XT
 END:VEVENT
 BEGIN:VEVENT
+UID:lff-all-of-a-sudden-ryusuke-hamaguchi-6da1ce16@london-events
+DTSTAMP:20261010T174500Z
+DTSTART:20261010T174500Z
+DTEND:20261010T210500Z
+SUMMARY:LFF: All of a Sudden (Ryusuke Hamaguchi)
+DESCRIPTION:LOVE strand\, NFT1. Hamaguchi's (Drive My Car) bilingual Frenc
+ h-Japanese film — a nursing-home director and a Japanese theatre direct
+ or form a transformative bond\; 'a healing balm'. 196min\, settle in. Alt
+  Sun 18 Oct 14:15 RFH.\nPrice: £10-£18 + £1 fee (general sale 17 Sep 1
+ 0:00)\nhttps://whatson.bfi.org.uk/lff/Online/default.asp?BOparam::WSconte
+ nt::loadArticle::permalink=all-of-a-sudden-lff26
+URL:https://whatson.bfi.org.uk/lff/Online/default.asp?BOparam::WScontent::
+ loadArticle::permalink=all-of-a-sudden-lff26
+LOCATION:BFI Southbank\, Belvedere Road\, South Bank\, London SE1 8XT
+END:VEVENT
+BEGIN:VEVENT
 UID:balkanplus-for-beginners-at-cecil-sharp-house-1d959eda@london-events
 DTSTAMP:20261010T180000Z
 DTSTART:20261010T180000Z
@@ -4325,6 +4393,39 @@ URL:https://www.citylit.ac.uk/courses/alexander-technique-workshop
 LOCATION:City Lit\, 1-10 Keeley Street\, Covent Garden WC2B 4BA
 END:VEVENT
 BEGIN:VEVENT
+UID:lff-primetime-lance-oppenheim-on-to-catch-a-predator-6cd4a898@london-e
+ vents
+DTSTAMP:20261011T170000Z
+DTSTART:20261011T170000Z
+DTEND:20261011T185000Z
+SUMMARY:LFF: Primetime (Lance Oppenheim on To Catch a Predator)
+DESCRIPTION:THRILL strand\, on IMAX. Doc wunderkind Lance Oppenheim's narr
+ ative debut: the 2006 To Catch a Predator TV circus pushed to primetime\,
+  with Merritt Wever. 107min. Overlaps Once Upon a Time in Harlem 18:15 
+ — pick one.\nPrice: £10-£18 + £1 fee (general sale 17 Sep 10:00)\nht
+ tps://whatson.bfi.org.uk/lff/Online/default.asp?BOparam::WScontent::loadA
+ rticle::permalink=primetime-lff26
+URL:https://whatson.bfi.org.uk/lff/Online/default.asp?BOparam::WScontent::
+ loadArticle::permalink=primetime-lff26
+LOCATION:BFI IMAX\, 1 Charlie Chaplin Walk\, South Bank\, London SE1 8XR
+END:VEVENT
+BEGIN:VEVENT
+UID:lff-once-upon-a-time-in-harlem-william-greaves-09b7065a@london-events
+DTSTAMP:20261011T171500Z
+DTSTART:20261011T171500Z
+DTEND:20261011T190000Z
+SUMMARY:LFF: Once Upon a Time in Harlem (William Greaves)
+DESCRIPTION:DOCUMENTARY COMPETITION\, NFT3. Filmed at Duke Ellington's tow
+ nhouse in 1972: Greaves gathered the living members of the Harlem Renaiss
+ ance\; finished 50 years on by his son. 100min. Pairs with Ha-Chan 20:30 
+ PCC\; overlaps Primetime.\nPrice: £10-£18 + £1 fee (general sale 17 Se
+ p 10:00)\nhttps://whatson.bfi.org.uk/lff/Online/default.asp?BOparam::WSco
+ ntent::loadArticle::permalink=once-upon-a-time-in-harlem-film-lff26
+URL:https://whatson.bfi.org.uk/lff/Online/default.asp?BOparam::WScontent::
+ loadArticle::permalink=once-upon-a-time-in-harlem-film-lff26
+LOCATION:BFI Southbank\, Belvedere Road\, South Bank\, London SE1 8XT
+END:VEVENT
+BEGIN:VEVENT
 UID:jembaa-groove-at-village-underground-aeb1e6ae@london-events
 DTSTAMP:20261011T180000Z
 DTSTART:20261011T180000Z
@@ -4365,6 +4466,56 @@ DESCRIPTION:Belarusian trio SOYUZ — dreamy 70s Brazilian-tinged jazz-pop
  5f8000146b801
 URL:https://dice.fm/event/69ee479ad2f5f8000146b801
 LOCATION:EartH\, 11 Stoke Newington Rd\, London N16 8BH
+END:VEVENT
+BEGIN:VEVENT
+UID:lff-flies-fernando-eimbcke-0ab8c240@london-events
+DTSTAMP:20261011T190000Z
+DTSTART:20261011T190000Z
+DTEND:20261011T204500Z
+SUMMARY:LFF: Flies (Fernando Eimbcke)
+DESCRIPTION:LOVE strand\, EPIC 2. Eimbcke (Duck Season) returns: Olga rent
+ s a room to a stranger who smuggles in his young son — witty\, warm Mex
+ ican deadpan. 99min. Alt Tue 13 Oct Curzon Soho. Overlaps Ha-Chan — alt
+ ernatives.\nPrice: £10-£18 + £1 fee (general sale 17 Sep 10:00)\nhttps
+ ://whatson.bfi.org.uk/lff/Online/default.asp?BOparam::WScontent::loadArti
+ cle::permalink=flies-lff26
+URL:https://whatson.bfi.org.uk/lff/Online/default.asp?BOparam::WScontent::
+ loadArticle::permalink=flies-lff26
+LOCATION:Vue West End\, 3 Cranbourn Street\, Leicester Square\, London WC2
+ H 7AL
+END:VEVENT
+BEGIN:VEVENT
+UID:lff-ha-chan-shake-your-booty-ballroom-crowd-pleaser-a0c48dec@london-ev
+ ents
+DTSTAMP:20261011T193000Z
+DTSTART:20261011T193000Z
+DTEND:20261011T213500Z
+SUMMARY:LFF: Ha-Chan\, Shake Your Booty! (ballroom crowd-pleaser)
+DESCRIPTION:LOVE strand. Rinko Kikuchi as a widow rediscovering ballroom d
+ ancing — and falling for her instructor. 'Zany\, toe-tapping' — a nat
+ ural pick for a dancer. 121min. Alt Sat 10 Oct 14:30 Vue West End.\nPrice
+ : £10-£18 + £1 fee (general sale 17 Sep 10:00)\nhttps://whatson.bfi.or
+ g.uk/lff/Online/default.asp?BOparam::WScontent::loadArticle::permalink=ha
+ -chan-shake-your-booty-lff26
+URL:https://whatson.bfi.org.uk/lff/Online/default.asp?BOparam::WScontent::
+ loadArticle::permalink=ha-chan-shake-your-booty-lff26
+LOCATION:Prince Charles Cinema\, 7 Leicester Place\, London WC2H 7BY
+END:VEVENT
+BEGIN:VEVENT
+UID:lff-ken-russell-s-the-devils-1971-restored-5dfe1e35@london-events
+DTSTAMP:20261012T170000Z
+DTSTART:20261012T170000Z
+DTEND:20261012T190000Z
+SUMMARY:LFF: Ken Russell's The Devils (1971) — restored
+DESCRIPTION:TREASURES strand. The long-suppressed 1971 scandal masterpiece
+  finally restored: religious hysteria\, church-state collusion\, Oliver R
+ eed at full tilt. An event screening. 114min. Alt Fri 9 Oct 20:40 NFT1. L
+ ikely to sell fast on 17 Sep.\nPrice: £10-£18 + £1 fee (general sale 1
+ 7 Sep 10:00)\nhttps://whatson.bfi.org.uk/lff/Online/default.asp?BOparam::
+ WScontent::loadArticle::permalink=devils-lff26
+URL:https://whatson.bfi.org.uk/lff/Online/default.asp?BOparam::WScontent::
+ loadArticle::permalink=devils-lff26
+LOCATION:Prince Charles Cinema\, 7 Leicester Place\, London WC2H 7BY
 END:VEVENT
 BEGIN:VEVENT
 UID:contact-improv-monday-beginners-class-with-rick-nodine-12-oc-e789b49e@
@@ -4427,6 +4578,23 @@ URL:https://www.gresham.ac.uk/whats-on/science-puppetry
 LOCATION:Barnard's Inn Hall\, Holborn\, EC1N 2HH
 END:VEVENT
 BEGIN:VEVENT
+UID:lff-everest-the-other-side-jimmy-chin-chai-vasarhelyi-82c9f9df@london-
+ events
+DTSTAMP:20261013T172000Z
+DTSTART:20261013T172000Z
+DTEND:20261013T191500Z
+SUMMARY:LFF: Everest: The Other Side (Jimmy Chin & Chai Vasarhelyi)
+DESCRIPTION:JOURNEY strand\, NFT3. The Free Solo team follow Jim Morrison 
+ and Hilaree Nelson's attempt to climb and ski Everest's north face. 113mi
+ n. Ends in time for Frank and Percy 20:35 in NFT1 next door.\nPrice: £10
+ -£18 + £1 fee (general sale 17 Sep 10:00)\nhttps://whatson.bfi.org.uk/l
+ ff/Online/default.asp?BOparam::WScontent::loadArticle::permalink=everest-
+ the-other-side-lff26
+URL:https://whatson.bfi.org.uk/lff/Online/default.asp?BOparam::WScontent::
+ loadArticle::permalink=everest-the-other-side-lff26
+LOCATION:BFI Southbank\, Belvedere Road\, South Bank\, London SE1 8XT
+END:VEVENT
+BEGIN:VEVENT
 UID:casper-walsh-hustler-boogie-tour-at-moth-club-0ddee856@london-events
 DTSTAMP:20261013T180000Z
 DTSTART:20261013T180000Z
@@ -4479,6 +4647,22 @@ DESCRIPTION:London trio's surreal noise/garage-punk with Bristol art-rocke
 URL:https://dice.fm/event/2wqbvo-pedestrian-band-the-scuttlers-live-13th-o
  ct-the-old-blue-last-london-tickets
 LOCATION:The Old Blue Last\, 38 Great Eastern Street\, EC2A 3ES
+END:VEVENT
+BEGIN:VEVENT
+UID:lff-frank-and-percy-ian-mckellen-roger-allam-2bdebae7@london-events
+DTSTAMP:20261013T193500Z
+DTSTART:20261013T193500Z
+DTEND:20261013T212500Z
+SUMMARY:LFF: Frank and Percy (Ian McKellen & Roger Allam)
+DESCRIPTION:LOVE strand\, NFT1. Warm-hearted adaptation of the West End hi
+ t: a dog-walking friendship on Hampstead Heath blossoms into something te
+ nder. McKellen\, Allam\, Lumley\, Jacobi. 109min. Doubles with Everest sa
+ me evening.\nPrice: £18 + £1 fee\nhttps://whatson.bfi.org.uk/lff/Online
+ /default.asp?BOparam::WScontent::loadArticle::permalink=frank-and-percy-l
+ ff26
+URL:https://whatson.bfi.org.uk/lff/Online/default.asp?BOparam::WScontent::
+ loadArticle::permalink=frank-and-percy-lff26
+LOCATION:BFI Southbank\, Belvedere Road\, South Bank\, London SE1 8XT
 END:VEVENT
 BEGIN:VEVENT
 UID:gresham-college-rather-trivial-things-an-alternative-museum--e1ba97c1@
@@ -4597,6 +4781,23 @@ URL:https://www.barbican.org.uk/whats-on/2026/event/an-evening-with-nick-p
 LOCATION:Barbican Hall\, Silk Street\, London EC2Y 8DS
 END:VEVENT
 BEGIN:VEVENT
+UID:lff-it-will-happen-tonight-nanni-moretti-bdb77f12@london-events
+DTSTAMP:20261015T170000Z
+DTSTART:20261015T170000Z
+DTEND:20261015T184500Z
+SUMMARY:LFF: It Will Happen Tonight (Nanni Moretti)
+DESCRIPTION:LOVE strand\, EPIC 1. Moretti's comic romantic fantasy with Lo
+ uis Garrel and Jasmine Trinca — signature heart and wit. 103min. Doable
+  double bill with The History of Concrete 20:45 PCC. (Same night as Candy
+ man at the Rio and R&J at Wilton's.)\nPrice: £10-£18 + £1 fee (general
+  sale 17 Sep 10:00)\nhttps://whatson.bfi.org.uk/lff/Online/default.asp?BO
+ param::WScontent::loadArticle::permalink=it-will-happen-tonight-lff26
+URL:https://whatson.bfi.org.uk/lff/Online/default.asp?BOparam::WScontent::
+ loadArticle::permalink=it-will-happen-tonight-lff26
+LOCATION:Vue West End\, 3 Cranbourn Street\, Leicester Square\, London WC2
+ H 7AL
+END:VEVENT
+BEGIN:VEVENT
 UID:kacy-clayton-at-moth-club-f83e0f5a@london-events
 DTSTAMP:20261015T180000Z
 DTSTART:20261015T180000Z
@@ -4649,6 +4850,39 @@ DESCRIPTION:Titan Books and Hackney author T.H. Huddleston launch satirica
  k/Rio.dll/WhatsOn?f=2861189
 URL:https://riocinema.org.uk/Rio.dll/WhatsOn?f=2861189
 LOCATION:Rio Cinema\, 107 Kingsland High Street\, Dalston\, E8 2PB
+END:VEVENT
+BEGIN:VEVENT
+UID:lff-the-history-of-concrete-john-wilson-8e9b3baa@london-events
+DTSTAMP:20261015T194500Z
+DTSTART:20261015T194500Z
+DTEND:20261015T213000Z
+SUMMARY:LFF: The History of Concrete (John Wilson)
+DESCRIPTION:LAUGH strand. How To with John Wilson's creator applies a Hall
+ mark-romcom workshop formula to a documentary about... concrete. Dry\, cu
+ rious\, humane — peak curious-generalist doc. 101min. Alts 13 + 17 Oct.
+ \nPrice: £10-£18 + £1 fee (general sale 17 Sep 10:00)\nhttps://whatson
+ .bfi.org.uk/lff/Online/default.asp?BOparam::WScontent::loadArticle::perma
+ link=history-of-concrete-lff26
+URL:https://whatson.bfi.org.uk/lff/Online/default.asp?BOparam::WScontent::
+ loadArticle::permalink=history-of-concrete-lff26
+LOCATION:Prince Charles Cinema\, 7 Leicester Place\, London WC2H 7BY
+END:VEVENT
+BEGIN:VEVENT
+UID:lff-sumo-spirit-weighs-nothing-erik-shirai-3df6fd7d@london-events
+DTSTAMP:20261016T170000Z
+DTSTART:20261016T170000Z
+DTEND:20261016T184000Z
+SUMMARY:LFF: Sumo: Spirit Weighs Nothing (Erik Shirai)
+DESCRIPTION:DOCUMENTARY COMPETITION\, Screen 2. A year inside sumo's gruel
+ ling training stables\, from the director of The Birth of Sake. 99min. En
+ ds in time for the free Hacienda DJ night at BFI Bar (21:00\, already lis
+ ted). NB: same night as Ben Whishaw at the Rio — pick a lane.\nPrice: 
+ £10-£18 + £1 fee (general sale 17 Sep 10:00)\nhttps://whatson.bfi.org.
+ uk/lff/Online/default.asp?BOparam::WScontent::loadArticle::permalink=sumo
+ -spirit-weighs-nothing-lff26
+URL:https://whatson.bfi.org.uk/lff/Online/default.asp?BOparam::WScontent::
+ loadArticle::permalink=sumo-spirit-weighs-nothing-lff26
+LOCATION:Curzon Soho\, 99 Shaftesbury Avenue\, London W1D 5DY
 END:VEVENT
 BEGIN:VEVENT
 UID:the-master-builder-ibsen-at-arcola-theatre-from-16-oct-e66b093b@london
@@ -4880,6 +5114,23 @@ DESCRIPTION:Opening night of the Future Folk series: banjo\, voice\, drone
 URL:https://www.kingsplace.co.uk/whats-on/folk/jacken-elswyth-and-elspeth-
  anne/
 LOCATION:Kings Place\, 90 York Way\, London N1 9AG
+END:VEVENT
+BEGIN:VEVENT
+UID:lff-pakeezah-1972-restored-on-bfi-imax-c1d0b86f@london-events
+DTSTAMP:20261018T094500Z
+DTSTART:20261018T094500Z
+DTEND:20261018T122000Z
+SUMMARY:LFF: Pakeezah (1972) restored on BFI IMAX
+DESCRIPTION:TREASURES strand. Kamal Amrohi's legendary Urdu courtesan musi
+ cal\, 14 years in the making — a visual and musical epic on the giant I
+ MAX screen. 153min\, Sunday morning\, festival's final day\; ends just be
+ fore the Jesse Eisenberg Screen Talk 13:30 across the road.\nPrice: £10-
+ £18 + £1 fee (general sale 17 Sep 10:00)\nhttps://whatson.bfi.org.uk/lf
+ f/Online/default.asp?BOparam::WScontent::loadArticle::permalink=pakeezah-
+ lff26
+URL:https://whatson.bfi.org.uk/lff/Online/default.asp?BOparam::WScontent::
+ loadArticle::permalink=pakeezah-lff26
+LOCATION:BFI IMAX\, 1 Charlie Chaplin Walk\, South Bank\, London SE1 8XR
 END:VEVENT
 BEGIN:VEVENT
 UID:authentic-connections-wavekind-partner-breathwork-half-day-r-88ca7edf@
