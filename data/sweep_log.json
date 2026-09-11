@@ -1,5 +1,11 @@
 [
   {
+    "ran_at": "2026-09-11T08:05:00+01:00",
+    "added": 17,
+    "considered": 1519,
+    "notes": "Dance/embodiment refresh + December gap-fill. Thin-day audit (12 one-event days) largely resolved: 15 Nov +3 (Akinmusire LJF KP standout, Andrés Obregón OBL £15.50, Voice DNA vocal improv chains into KP), 30 Nov attempted (Jackie Evans Hoxton Hall REJECTED — sold out per 7 Sep ticketsolve feed; resale watch), 6 Dec +1 (Dîlan Top KP), 7 Dec +1 (CI jam), 11 Dec +2 (Nine Lessons FRIDAY instance + Cacao Dance Tribe), 12 Dec +1 (Rick Nodine final CI workshop of year), 14 Dec +1 (JOHNNY & LILLIE FLYNN AT UNION CHAPEL — perfect fit, Rough Trade presents), 19 Dec +2 (Ascension Choir gospel Christmas KP + Ecstatic Saturdays). Wilton's Little Match Girl added as single run entry (3 Dec-2 Jan, various times — covers thin evenings 6-8/14-15/17/22-23 Dec; selling fast). Dance staples extended into Nov-Dec: EDL 7 Nov + 11/19 Dec, CI Rose Lipman 2 Nov + 7 Dec, Rick Nodine 14 Nov + 12 Dec. Dandelion spares promoted: Tantra Conscious Dating 26 Sep (N22, distance-flagged), Women & Men's Circle 17 Oct Homerton (daytime, complements evening clash trio). 8 Dec/15 Dec: nothing new bookable (Skylight gong pods Tue/Thu through 17 Dec available as filler; Sharp's Folk Club 15 Dec exists). 22/23 Dec: Match Girl covers; Hoxton Hall Christmas Carol only 14:00/17:00 (fails weekday rule). SOLD OUT: Ben Watt/Tracey Thorn 14+15 Dec confirmed again; Tiffany Day EartH 11 Dec. ACX STILL unposted (11 Sep). Moth: London filter now exists on themoth.org but zero listings. 5rhythms.com 403s — retry via SimplyBeing teacher page. Rich Mix Spektrix has ZERO Nov-Dec events (cinema backlog only) — winter programme not in API yet. Hoxton Hall XML 403'd today (worked 7 Sep). Dance spares if density wanted: Cacao 6/13/27 Nov + 4/18 Dec, Ecstatic Sats 14 Nov + 5/12 Dec, Chabert 23 Nov spoken-word jam + 21 Dec, Nodine Wednesdays to 16 Dec, Fool Expression 6 Nov Hackney, Shamanic Breathwork 11 Dec SW9."
+  },
+  {
     "ran_at": "2026-09-10T08:00:00+01:00",
     "added": 15,
     "considered": 71,
@@ -172,11 +178,5 @@
     "added": 14,
     "considered": 38,
     "notes": "SPECIAL: date-weekend pass (Bart's request — visitor from NL, 14-16 Aug). Added 14 date-worthy events: candlelight concerts at St Martin-in-the-Fields (film scores Fri from £12, Vivaldi Sat from £9); Rooftop Cinema Club Stratford (Prada 2 Fri, Interstellar Sun — Love Seat doubles; Peckham Interstellar Sat sold out); Ronnie Scott's x2 (Allysha Joy Fri £35-55 flagged, Blue Lab Beats upstairs Sat); God's Own Junkyard neon warehouse (free, open till 10pm Fri/Sat); La Sagra di Shoreditch £84 charity feast Sat (over cap — added under special-request licence); Back to Black 20th anniv at Jazz Cafe Sat £20; Sara Pascoe & Friends Roundhouse Sat from £5; Annie Whitehead at Vortex Sat £18; free Summer Sounds at Coal Drops Yard (open-air opera Sat evening, Tomorrow's Warriors jazz takeover w/ ESKA Sun afternoon); Wes Anderson Archives FINAL weekend at Design Museum (closes Sun 16 — book timed entry). Wilton's dark till 1 Sep; Luna Cinema unreachable; Queen of Hoxton is club nights only."
-  },
-  {
-    "ran_at": "2026-08-13T07:45:00+01:00",
-    "added": 13,
-    "considered": 210,
-    "notes": "Dedicated pottery pass — GAP CLOSED. Added 13: Crown Works Pottery Bethnal Green tasters (wheel £70 23 Aug — pottery exception, handbuilding £60 19 Aug; many other 18:30 slots through Aug — found via Squarespace ?format=json-pretty) + Cone8 Hackney Wick wheel taster £60 22 Aug (BookThatApp calendar rendered headlessly); DIY Alive 3 Oct COMPLETED (13:00-23:00, £37.81 via DICE unified_search POST endpoint — venue_profiles rejects EartH's string id); HECK penultimate-ever show Signature Brew THIS SUN 16 Aug; free Union Chapel reggae party + Caribbean food Sun 16 Aug (first 30 eat free); Angel Comedy free nights x4 (19/21/22/29 Aug — Saturdays now 8pm not 7:30); Hackney Wick Woodland outdoor ecstatic dance 12 Sep; breathwork+cacao 18 Sep edition; men's breathwork journey 12 Sep (also 3 Oct/7 Nov/5 Dec). SKIPPED: La Sagra di Shoreditch 15 Aug (£75 — over cap, noted as possibly exceptional); ClayKilnCraft £50 tasters (Crystal Palace — distance); Summer Sounds KX free festival 13-23 Aug (per-evening times unverifiable — Cloudflare); GDIF (out of area). Turning Earth: still no one-off tasters (only courses + £285 bundle) — deprioritise. Moth StorySLAM: nothing on sale yet, recheck late Aug."
   }
 ]
