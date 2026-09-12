@@ -1574,6 +1574,20 @@ LOCATION:Thames foreshore\, Millennium Bridge (north bank)\, Meet at the g
  lass obelisk under Millennium Bridge\, EC4
 END:VEVENT
 BEGIN:VEVENT
+UID:the-harrison-all-day-folk-festival-free-cc736875@london-events
+DTSTAMP:20260919T120000Z
+DTSTART:20260919T120000Z
+DTEND:20260919T220000Z
+SUMMARY:The Harrison All Day Folk Festival (free)
+DESCRIPTION:The Harrison's legendary free all-day folk festival — sessio
+ ns and sets all afternoon and evening in the King's Cross pub and its cel
+ lar venue. Drop in any time from 1pm\, next Saturday.\nPrice: Free\nhttps
+ ://harrisonvenuelondon.com/harrison-venue-events-gigs-kings-cross/
+URL:https://harrisonvenuelondon.com/harrison-venue-events-gigs-kings-cross
+ /
+LOCATION:The Harrison\, 28 Harrison Street\, WC1H 8JF
+END:VEVENT
+BEGIN:VEVENT
 UID:quartet-a-weekend-of-improvisation-collective-performance-bc363573@lon
  don-events
 DTSTAMP:20260919T130000Z
@@ -3346,6 +3360,21 @@ URL:https://www.cafeoto.co.uk/events/jjjjjerome-ellis-2026/
 LOCATION:Cafe OTO\, 18-22 Ashwin Street\, Dalston\, E8 3DL
 END:VEVENT
 BEGIN:VEVENT
+UID:sunday-night-jazz-at-the-palm-tree-5061ab51@london-events
+DTSTAMP:20261004T193000Z
+DTSTART:20261004T193000Z
+DTEND:20261004T220000Z
+SUMMARY:Sunday night jazz at The Palm Tree
+DESCRIPTION:The legendary East End boozer's house jazz band — crooned st
+ andards and Sinatra singalongs — has played Fri/Sat/Sun nights for ~30 
+ years\, music from ~8-8.30pm. No tickets\, no listings: just turn up (sta
+ rt time approximate\; recurrence press-verified\, six minutes away).\nPri
+ ce: Free (cash-only bar)\nhttps://www.the-londoner.co.uk/the-rhythm-secti
+ on/
+URL:https://www.the-londoner.co.uk/the-rhythm-section/
+LOCATION:The Palm Tree\, 127 Grove Road\, Mile End\, E3 5RP
+END:VEVENT
+BEGIN:VEVENT
 UID:monday-contact-improv-class-jam-at-rose-lipman-5-oct-e0f48c0a@london-e
  vents
 DTSTAMP:20261005T173000Z
@@ -3651,6 +3680,21 @@ DESCRIPTION:New play about Hannah Arendt in wartime France — philosophy-
  ty-of-evil/
 URL:https://www.arcolatheatre.com/event/the-banality-of-evil/
 LOCATION:Arcola Theatre\, 24 Ashwin Street\, Dalston\, E8 3DL
+END:VEVENT
+BEGIN:VEVENT
+UID:john-kirkpatrick-at-the-harrison-5802d82c@london-events
+DTSTAMP:20261008T180000Z
+DTSTART:20261008T180000Z
+DTEND:20261008T210000Z
+SUMMARY:John Kirkpatrick at The Harrison
+DESCRIPTION:Squeezebox legend John Kirkpatrick (Steeleye Span\, Albion Ban
+ d) up close in the Harrison's tiny folk cellar — the venue also runs fr
+ ee tune sessions and singarounds most Saturdays. (Busy night: Attacca Qua
+ rtet\, Febueder same evening.)\nPrice: £15\nhttps://harrisonvenuelondon.
+ com/harrison-venue-events-gigs-kings-cross/
+URL:https://harrisonvenuelondon.com/harrison-venue-events-gigs-kings-cross
+ /
+LOCATION:The Harrison\, 28 Harrison Street\, WC1H 8JF
 END:VEVENT
 BEGIN:VEVENT
 UID:genesis-poetry-slam-october-edition-f0c5c426@london-events
@@ -4541,6 +4585,22 @@ URL:https://dice.fm/event/k6d2eq-mx-15th-oct-sebright-arms-london-tickets
 LOCATION:Sebright Arms\, 31-35 Coate Street\, Bethnal Green\, E2 9AG
 END:VEVENT
 BEGIN:VEVENT
+UID:nashville-babylon-presents-chris-mills-at-the-betsey-trotwoo-d8016b74@
+ london-events
+DTSTAMP:20261015T183000Z
+DTSTART:20261015T183000Z
+DTEND:20261015T220000Z
+SUMMARY:Nashville Babylon presents Chris Mills at The Betsey Trotwood
+DESCRIPTION:Chicago alt-country songwriter Chris Mills plays the Betsey's 
+ intimate back room for the Nashville Babylon roots night — the Clerkenw
+ ell pub runs folk and Americana most weeks.\nPrice: TBC (WeGotTickets)\nh
+ ttps://www.thebetsey.com/music-events/nashville-babylon-presents-chris-mi
+ lls
+URL:https://www.thebetsey.com/music-events/nashville-babylon-presents-chri
+ s-mills
+LOCATION:The Betsey Trotwood\, 56 Farringdon Road\, EC1R 3BL
+END:VEVENT
+BEGIN:VEVENT
 UID:candyman-1992-book-launch-of-the-cracks-at-rio-cinema-d045a759@london-
  events
 DTSTAMP:20261015T193000Z
@@ -4832,6 +4892,21 @@ DESCRIPTION:Opening night of the Future Folk series: banjo\, voice\, drone
 URL:https://www.kingsplace.co.uk/whats-on/folk/jacken-elswyth-and-elspeth-
  anne/
 LOCATION:Kings Place\, 90 York Way\, London N1 9AG
+END:VEVENT
+BEGIN:VEVENT
+UID:irish-trad-session-siamsa-at-the-auld-shillelagh-free-4460a93e@london-
+ events
+DTSTAMP:20261017T200000Z
+DTSTART:20261017T200000Z
+DTEND:20261017T220000Z
+SUMMARY:Irish trad session: Siamsa at The Auld Shillelagh (free)
+DESCRIPTION:Siamsa play a proper Irish trad session 9-11pm in one of Londo
+ n's best-loved Irish pubs — FINALLY verified via the pub's own monthly 
+ listings (free live music most Thu-Sat\, trad acts marked). Late enough t
+ o follow the 17 Oct evening options.\nPrice: Free\nhttp://theauldshillela
+ gh.co.uk/events-2/2026/8/26/music-october-2026
+URL:http://theauldshillelagh.co.uk/events-2/2026/8/26/music-october-2026
+LOCATION:The Auld Shillelagh\, 105 Stoke Newington Church Street\, N16 0UD
 END:VEVENT
 BEGIN:VEVENT
 UID:lff-pakeezah-1972-restored-on-bfi-imax-c1d0b86f@london-events
@@ -8000,5 +8075,161 @@ DESCRIPTION:See in 2027 with a live band\, caller and dancing until past m
  nyeceilidh
 URL:https://www.efdss.org/whats-on/27-dances/16010-31-12-26-nyeceilidh
 LOCATION:Cecil Sharp House\, 2 Regent's Park Road\, NW1 7AY
+END:VEVENT
+BEGIN:VEVENT
+UID:the-milk-carton-kids-at-the-barbican-ff568713@london-events
+DTSTAMP:20270114T193000Z
+DTSTART:20270114T193000Z
+DTEND:20270114T214500Z
+SUMMARY:The Milk Carton Kids at the Barbican
+DESCRIPTION:Grammy-nominated indie-folk duo Joey Ryan and Kenneth Pattenga
+ le bring their close-harmony\, two-guitars-one-mic Americana to the Barbi
+ can Hall — first January 2027 show on sale.\nPrice: £30-£34 + £4 fee
+ \nhttps://www.barbican.org.uk/whats-on/2027/event/the-milk-carton-kids
+URL:https://www.barbican.org.uk/whats-on/2027/event/the-milk-carton-kids
+LOCATION:Barbican Hall\, Barbican Centre\, Silk St\, London EC2Y 8DS
+END:VEVENT
+BEGIN:VEVENT
+UID:breabach-le-vent-du-nord-at-kings-place-f1df713e@london-events
+DTSTAMP:20270116T193000Z
+DTSTART:20270116T193000Z
+DTEND:20270116T213000Z
+SUMMARY:Breabach & Le Vent du Nord at Kings Place
+DESCRIPTION:Celtic Connections-style double bill: Scotland's Breabach meet
+  Québec's Le Vent du Nord for the opening weekend of Kings Place's 2027 
+ folk season. Date verified via Spektrix API (site Cloudflare-walled).\nPr
+ ice: TBC\nhttps://www.kingsplace.co.uk/whats-on/
+URL:https://www.kingsplace.co.uk/whats-on/
+LOCATION:Kings Place\, 90 York Way\, London N1 9AG
+END:VEVENT
+BEGIN:VEVENT
+UID:punch-brothers-at-the-barbican-ce8be0e8@london-events
+DTSTAMP:20270117T193000Z
+DTSTART:20270117T193000Z
+DTEND:20270117T214500Z
+SUMMARY:Punch Brothers at the Barbican
+DESCRIPTION:Chris Thile's virtuoso progressive-bluegrass five-piece — ma
+ ndolin\, banjo\, fiddle\, guitar and double bass pushing folk somewhere e
+ ntirely new. Sunday night.\nPrice: From £30 + £4 fee\nhttps://www.barbi
+ can.org.uk/whats-on/2027/event/punch-brothers
+URL:https://www.barbican.org.uk/whats-on/2027/event/punch-brothers
+LOCATION:Barbican Hall\, Barbican Centre\, Silk St\, London EC2Y 8DS
+END:VEVENT
+BEGIN:VEVENT
+UID:tobithefreak-how-it-feels-when-it-changes-at-roundhouse-risi-89337940@
+ london-events
+DTSTAMP:20270120T193000Z
+DTSTART:20270120T193000Z
+DTEND:20270120T210000Z
+SUMMARY:TOBITHEFREAK: How It Feels When It Changes at Roundhouse Rising
+DESCRIPTION:An experimental 90-minute musical exploring modern masculinity
+ \, intimacy and electronic soundscapes — part of Roundhouse Rising. Doo
+ rs 7pm.\nPrice: £10.75\nhttps://www.roundhouse.org.uk/whats-on/rr-how-it
+ -feels-when-it/
+URL:https://www.roundhouse.org.uk/whats-on/rr-how-it-feels-when-it/
+LOCATION:Roundhouse (Sackler Space)\, Chalk Farm Road\, NW1 8EH
+END:VEVENT
+BEGIN:VEVENT
+UID:chisholm-mcgoldrick-o-connor-and-byrne-at-kings-place-86f13bc0@london-
+ events
+DTSTAMP:20270121T200000Z
+DTSTART:20270121T200000Z
+DTEND:20270121T220000Z
+SUMMARY:Chisholm\, McGoldrick\, O'Connor and Byrne at Kings Place
+DESCRIPTION:Trad supergroup night — Duncan Chisholm (fiddle)\, Mike McGo
+ ldrick (flute/pipes)\, Gerry O'Connor and Dónal Byrne. Thursday-night Ce
+ ltic session of the highest order. Verified via Spektrix API.\nPrice: TBC
+ \nhttps://www.kingsplace.co.uk/whats-on/
+URL:https://www.kingsplace.co.uk/whats-on/
+LOCATION:Kings Place\, 90 York Way\, London N1 9AG
+END:VEVENT
+BEGIN:VEVENT
+UID:eric-bibb-at-union-chapel-january-blues-festival-d5eef9c8@london-event
+ s
+DTSTAMP:20270123T190000Z
+DTSTART:20270123T190000Z
+DTEND:20270123T220000Z
+SUMMARY:Eric Bibb at Union Chapel (January Blues Festival)
+DESCRIPTION:Acoustic folk-blues master Eric Bibb headlines the January Blu
+ es Festival in the candlelit chapel. Doors 7pm\, 10pm curfew.\nPrice: TBC
+  (via Gigantic)\nhttps://unionchapel.org.uk/venue/whats-on/eric-bibb
+URL:https://unionchapel.org.uk/venue/whats-on/eric-bibb
+LOCATION:Union Chapel\, Compton Terrace\, Islington\, N1 2UN
+END:VEVENT
+BEGIN:VEVENT
+UID:natalia-lacunza-at-earth-theatre-0e4c2a78@london-events
+DTSTAMP:20270123T193000Z
+DTSTART:20270123T193000Z
+DTEND:20270123T230000Z
+SUMMARY:Natalia Lacunza at EartH Theatre
+DESCRIPTION:Spanish alt-pop singer-songwriter Natalia Lacunza plays the se
+ ated EartH Theatre — a rare London date\, Saturday night. (Same night a
+ s Eric Bibb — alternatives.)\nPrice: From £31.01\nhttps://dice.fm/even
+ t/6a96fc792ea42e000174f217
+URL:https://dice.fm/event/6a96fc792ea42e000174f217
+LOCATION:EartH\, 11 Stoke Newington Rd\, London N16 8BH
+END:VEVENT
+BEGIN:VEVENT
+UID:lulu-s-dinner-party-at-roundhouse-96a41129@london-events
+DTSTAMP:20270124T140000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T163000Z
+SUMMARY:Lulu's Dinner Party at Roundhouse
+DESCRIPTION:Roundhouse resident artist lulu melons hosts an intimate after
+ noon of live music paired with a custom comfort-food menu — supper-club
+  vibes\, Sunday 2pm.\nPrice: £43 incl. menu\nhttps://www.roundhouse.org.
+ uk/whats-on/lulus-dinner-party/
+URL:https://www.roundhouse.org.uk/whats-on/lulus-dinner-party/
+LOCATION:Roundhouse Bar & Cafe\, Chalk Farm Road\, NW1 8EH
+END:VEVENT
+BEGIN:VEVENT
+UID:out-of-print-live-at-roundhouse-davey-studio-9ea373c4@london-events
+DTSTAMP:20270127T193000Z
+DTSTART:20270127T193000Z
+DTEND:20270127T205000Z
+SUMMARY:Out-Of-Print Live at Roundhouse (Davey Studio)
+DESCRIPTION:Live recording of the Out-of-Print culture podcast — literar
+ y deep dives\, comedy and audience call-ins. Cheap\, chatty Wednesday nig
+ ht.\nPrice: £5.38\nhttps://www.roundhouse.org.uk/whats-on/out-of-print-l
+ ive/
+URL:https://www.roundhouse.org.uk/whats-on/out-of-print-live/
+LOCATION:Roundhouse Davey Studio\, Chalk Farm Road\, NW1 8EH
+END:VEVENT
+BEGIN:VEVENT
+UID:brama-at-the-shacklewell-arms-free-cffac078@london-events
+DTSTAMP:20270128T193000Z
+DTSTART:20270128T193000Z
+DTEND:20270128T223000Z
+SUMMARY:Brama at The Shacklewell Arms (free)
+DESCRIPTION:Free Thursday-night show in the Shacklewell's famous back room
+  — first January 2027 gig on sale at the Dalston indie institution.\nPr
+ ice: Free\nhttps://dice.fm/event/6a8d2fd2229a0a0001aa9e97
+URL:https://dice.fm/event/6a8d2fd2229a0a0001aa9e97
+LOCATION:The Shacklewell Arms\, 71 Shacklewell Lane\, London E8 2EB
+END:VEVENT
+BEGIN:VEVENT
+UID:omni-at-moth-club-10-years-of-deluxe-8c9e7772@london-events
+DTSTAMP:20270129T190000Z
+DTSTART:20270129T190000Z
+DTEND:20270129T220000Z
+SUMMARY:Omni at MOTH Club — 10 years of 'Deluxe'
+DESCRIPTION:Atlanta post-punk wirers Omni play debut album 'Deluxe' in ful
+ l for its tenth birthday under MOTH Club's glitter ceiling. Friday night.
+ \nPrice: £22.70\nhttps://dice.fm/event/6a9002bef9bb1d0001de0aa5
+URL:https://dice.fm/event/6a9002bef9bb1d0001de0aa5
+LOCATION:MOTH Club\, Old Trades Hall\, Valette Street\, E9 6NU
+END:VEVENT
+BEGIN:VEVENT
+UID:ivw27-the-great-leslie-album-launch-at-paper-dress-vintage-9f9f103c@lo
+ ndon-events
+DTSTAMP:20270130T193000Z
+DTSTART:20270130T193000Z
+DTEND:20270130T224500Z
+SUMMARY:IVW27: The Great Leslie album launch at Paper Dress Vintage
+DESCRIPTION:Rising indie-rockers The Great Leslie launch their album for I
+ ndependent Venue Week 2027 upstairs at the vintage-shop-turned-venue.\nPr
+ ice: £17\nhttps://dice.fm/event/6a79a6bc54438f0001d82700
+URL:https://dice.fm/event/6a79a6bc54438f0001d82700
+LOCATION:Paper Dress Vintage\, 352a Mare Street\, E8 1HR
 END:VEVENT
 END:VCALENDAR

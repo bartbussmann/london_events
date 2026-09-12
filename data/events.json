@@ -2089,6 +2089,25 @@
     "added": "2026-08-26"
   },
   {
+    "title": "The Harrison All Day Folk Festival (free)",
+    "start": "2026-09-19T13:00:00+01:00",
+    "end": "2026-09-19T23:00:00+01:00",
+    "venue": "The Harrison",
+    "address": "28 Harrison Street, WC1H 8JF",
+    "url": "https://harrisonvenuelondon.com/harrison-venue-events-gigs-kings-cross/",
+    "source": "venue:the-harrison",
+    "tags": [
+      "music",
+      "community"
+    ],
+    "price": "Free",
+    "description": "The Harrison's legendary free all-day folk festival — sessions and sets all afternoon and evening in the King's Cross pub and its cellar venue. Drop in any time from 1pm, next Saturday.",
+    "neighbourhood": "King's Cross",
+    "cycle_minutes": 28,
+    "added": "2026-09-12T06:20:45Z",
+    "id": "the-harrison-all-day-folk-festival-free-cc736875"
+  },
+  {
     "id": "quartet-a-weekend-of-improvisation-collective-performance-bc363573",
     "title": "QUARTET — a weekend of improvisation & collective performance",
     "start": "2026-09-19T14:00:00+01:00",
@@ -4457,6 +4476,25 @@
     "id": "jjjjjerome-ellis-at-cafe-oto-da6d6402"
   },
   {
+    "title": "Sunday night jazz at The Palm Tree",
+    "start": "2026-10-04T20:30:00+01:00",
+    "end": "2026-10-04T23:00:00+01:00",
+    "venue": "The Palm Tree",
+    "address": "127 Grove Road, Mile End, E3 5RP",
+    "url": "https://www.the-londoner.co.uk/the-rhythm-section/",
+    "source": "press:the-londoner",
+    "tags": [
+      "music",
+      "community"
+    ],
+    "price": "Free (cash-only bar)",
+    "description": "The legendary East End boozer's house jazz band — crooned standards and Sinatra singalongs — has played Fri/Sat/Sun nights for ~30 years, music from ~8-8.30pm. No tickets, no listings: just turn up (start time approximate; recurrence press-verified, six minutes away).",
+    "neighbourhood": "Mile End",
+    "cycle_minutes": 6,
+    "added": "2026-09-12T06:20:45Z",
+    "id": "sunday-night-jazz-at-the-palm-tree-5061ab51"
+  },
+  {
     "id": "monday-contact-improv-class-jam-at-rose-lipman-5-oct-e0f48c0a",
     "title": "Monday Contact Improv: Class + Jam at Rose Lipman (5 Oct)",
     "start": "2026-10-05T18:30:00+01:00",
@@ -4865,6 +4903,24 @@
     "neighbourhood": "Dalston",
     "cycle_minutes": 14,
     "added": "2026-08-25"
+  },
+  {
+    "title": "John Kirkpatrick at The Harrison",
+    "start": "2026-10-08T19:00:00+01:00",
+    "end": "2026-10-08T22:00:00+01:00",
+    "venue": "The Harrison",
+    "address": "28 Harrison Street, WC1H 8JF",
+    "url": "https://harrisonvenuelondon.com/harrison-venue-events-gigs-kings-cross/",
+    "source": "venue:the-harrison",
+    "tags": [
+      "music"
+    ],
+    "price": "£15",
+    "description": "Squeezebox legend John Kirkpatrick (Steeleye Span, Albion Band) up close in the Harrison's tiny folk cellar — the venue also runs free tune sessions and singarounds most Saturdays. (Busy night: Attacca Quartet, Febueder same evening.)",
+    "neighbourhood": "King's Cross",
+    "cycle_minutes": 28,
+    "added": "2026-09-12T06:20:45Z",
+    "id": "john-kirkpatrick-at-the-harrison-5802d82c"
   },
   {
     "id": "genesis-poetry-slam-october-edition-f0c5c426",
@@ -5988,6 +6044,24 @@
     "added": "2026-08-15"
   },
   {
+    "title": "Nashville Babylon presents Chris Mills at The Betsey Trotwood",
+    "start": "2026-10-15T19:30:00+01:00",
+    "end": "2026-10-15T23:00:00+01:00",
+    "venue": "The Betsey Trotwood",
+    "address": "56 Farringdon Road, EC1R 3BL",
+    "url": "https://www.thebetsey.com/music-events/nashville-babylon-presents-chris-mills",
+    "source": "venue:betsey-trotwood",
+    "tags": [
+      "music"
+    ],
+    "price": "TBC (WeGotTickets)",
+    "description": "Chicago alt-country songwriter Chris Mills plays the Betsey's intimate back room for the Nashville Babylon roots night — the Clerkenwell pub runs folk and Americana most weeks.",
+    "neighbourhood": "Clerkenwell",
+    "cycle_minutes": 15,
+    "added": "2026-09-12T06:20:45Z",
+    "id": "nashville-babylon-presents-chris-mills-at-the-betsey-trotwoo-d8016b74"
+  },
+  {
     "title": "Candyman (1992) + book launch of The Cracks at Rio Cinema",
     "start": "2026-10-15T20:30:00+01:00",
     "end": "2026-10-15T23:00:00+01:00",
@@ -6357,6 +6431,25 @@
     "neighbourhood": "King's Cross",
     "cycle_minutes": 30,
     "added": "2026-08-18"
+  },
+  {
+    "title": "Irish trad session: Siamsa at The Auld Shillelagh (free)",
+    "start": "2026-10-17T21:00:00+01:00",
+    "end": "2026-10-17T23:00:00+01:00",
+    "venue": "The Auld Shillelagh",
+    "address": "105 Stoke Newington Church Street, N16 0UD",
+    "url": "http://theauldshillelagh.co.uk/events-2/2026/8/26/music-october-2026",
+    "source": "venue:auld-shillelagh",
+    "tags": [
+      "music",
+      "community"
+    ],
+    "price": "Free",
+    "description": "Siamsa play a proper Irish trad session 9-11pm in one of London's best-loved Irish pubs — FINALLY verified via the pub's own monthly listings (free live music most Thu-Sat, trad acts marked). Late enough to follow the 17 Oct evening options.",
+    "neighbourhood": "Stoke Newington",
+    "cycle_minutes": 18,
+    "added": "2026-09-12T06:20:45Z",
+    "id": "irish-trad-session-siamsa-at-the-auld-shillelagh-free-4460a93e"
   },
   {
     "title": "LFF: Pakeezah (1972) restored on BFI IMAX",
@@ -10602,5 +10695,224 @@
     "neighbourhood": "Primrose Hill",
     "cycle_minutes": 32,
     "added": "2026-08-29"
+  },
+  {
+    "title": "The Milk Carton Kids at the Barbican",
+    "start": "2027-01-14T19:30:00+00:00",
+    "end": "2027-01-14T21:45:00+00:00",
+    "venue": "Barbican Hall",
+    "address": "Barbican Centre, Silk St, London EC2Y 8DS",
+    "url": "https://www.barbican.org.uk/whats-on/2027/event/the-milk-carton-kids",
+    "source": "venue:barbican",
+    "tags": [
+      "music"
+    ],
+    "price": "£30-£34 + £4 fee",
+    "description": "Grammy-nominated indie-folk duo Joey Ryan and Kenneth Pattengale bring their close-harmony, two-guitars-one-mic Americana to the Barbican Hall — first January 2027 show on sale.",
+    "neighbourhood": "Barbican",
+    "cycle_minutes": 15,
+    "added": "2026-09-12T06:20:45Z",
+    "id": "the-milk-carton-kids-at-the-barbican-ff568713"
+  },
+  {
+    "title": "Breabach & Le Vent du Nord at Kings Place",
+    "start": "2027-01-16T19:30:00+00:00",
+    "end": "2027-01-16T21:30:00+00:00",
+    "venue": "Kings Place",
+    "address": "90 York Way, London N1 9AG",
+    "url": "https://www.kingsplace.co.uk/whats-on/",
+    "source": "venue:kings-place",
+    "tags": [
+      "music"
+    ],
+    "price": "TBC",
+    "description": "Celtic Connections-style double bill: Scotland's Breabach meet Québec's Le Vent du Nord for the opening weekend of Kings Place's 2027 folk season. Date verified via Spektrix API (site Cloudflare-walled).",
+    "neighbourhood": "King's Cross",
+    "cycle_minutes": 30,
+    "added": "2026-09-12T06:20:45Z",
+    "id": "breabach-le-vent-du-nord-at-kings-place-f1df713e"
+  },
+  {
+    "title": "Punch Brothers at the Barbican",
+    "start": "2027-01-17T19:30:00+00:00",
+    "end": "2027-01-17T21:45:00+00:00",
+    "venue": "Barbican Hall",
+    "address": "Barbican Centre, Silk St, London EC2Y 8DS",
+    "url": "https://www.barbican.org.uk/whats-on/2027/event/punch-brothers",
+    "source": "venue:barbican",
+    "tags": [
+      "music"
+    ],
+    "price": "From £30 + £4 fee",
+    "description": "Chris Thile's virtuoso progressive-bluegrass five-piece — mandolin, banjo, fiddle, guitar and double bass pushing folk somewhere entirely new. Sunday night.",
+    "neighbourhood": "Barbican",
+    "cycle_minutes": 15,
+    "added": "2026-09-12T06:20:45Z",
+    "id": "punch-brothers-at-the-barbican-ce8be0e8"
+  },
+  {
+    "title": "TOBITHEFREAK: How It Feels When It Changes at Roundhouse Rising",
+    "start": "2027-01-20T19:30:00+00:00",
+    "end": "2027-01-20T21:00:00+00:00",
+    "venue": "Roundhouse (Sackler Space)",
+    "address": "Chalk Farm Road, NW1 8EH",
+    "url": "https://www.roundhouse.org.uk/whats-on/rr-how-it-feels-when-it/",
+    "source": "venue:roundhouse",
+    "tags": [
+      "music",
+      "theatre"
+    ],
+    "price": "£10.75",
+    "description": "An experimental 90-minute musical exploring modern masculinity, intimacy and electronic soundscapes — part of Roundhouse Rising. Doors 7pm.",
+    "neighbourhood": "Camden",
+    "cycle_minutes": 32,
+    "added": "2026-09-12T06:20:45Z",
+    "id": "tobithefreak-how-it-feels-when-it-changes-at-roundhouse-risi-89337940"
+  },
+  {
+    "title": "Chisholm, McGoldrick, O'Connor and Byrne at Kings Place",
+    "start": "2027-01-21T20:00:00+00:00",
+    "end": "2027-01-21T22:00:00+00:00",
+    "venue": "Kings Place",
+    "address": "90 York Way, London N1 9AG",
+    "url": "https://www.kingsplace.co.uk/whats-on/",
+    "source": "venue:kings-place",
+    "tags": [
+      "music"
+    ],
+    "price": "TBC",
+    "description": "Trad supergroup night — Duncan Chisholm (fiddle), Mike McGoldrick (flute/pipes), Gerry O'Connor and Dónal Byrne. Thursday-night Celtic session of the highest order. Verified via Spektrix API.",
+    "neighbourhood": "King's Cross",
+    "cycle_minutes": 30,
+    "added": "2026-09-12T06:20:45Z",
+    "id": "chisholm-mcgoldrick-o-connor-and-byrne-at-kings-place-86f13bc0"
+  },
+  {
+    "title": "Eric Bibb at Union Chapel (January Blues Festival)",
+    "start": "2027-01-23T19:00:00+00:00",
+    "end": "2027-01-23T22:00:00+00:00",
+    "venue": "Union Chapel",
+    "address": "Compton Terrace, Islington, N1 2UN",
+    "url": "https://unionchapel.org.uk/venue/whats-on/eric-bibb",
+    "source": "venue:union-chapel",
+    "tags": [
+      "music"
+    ],
+    "price": "TBC (via Gigantic)",
+    "description": "Acoustic folk-blues master Eric Bibb headlines the January Blues Festival in the candlelit chapel. Doors 7pm, 10pm curfew.",
+    "neighbourhood": "Islington",
+    "cycle_minutes": 20,
+    "added": "2026-09-12T06:20:45Z",
+    "id": "eric-bibb-at-union-chapel-january-blues-festival-d5eef9c8"
+  },
+  {
+    "title": "Natalia Lacunza at EartH Theatre",
+    "start": "2027-01-23T19:30:00+00:00",
+    "end": "2027-01-23T23:00:00+00:00",
+    "venue": "EartH",
+    "address": "11 Stoke Newington Rd, London N16 8BH",
+    "url": "https://dice.fm/event/6a96fc792ea42e000174f217",
+    "source": "venue:dice-earth",
+    "tags": [
+      "music"
+    ],
+    "price": "From £31.01",
+    "description": "Spanish alt-pop singer-songwriter Natalia Lacunza plays the seated EartH Theatre — a rare London date, Saturday night. (Same night as Eric Bibb — alternatives.)",
+    "neighbourhood": "Dalston",
+    "cycle_minutes": 14,
+    "added": "2026-09-12T06:20:45Z",
+    "id": "natalia-lacunza-at-earth-theatre-0e4c2a78"
+  },
+  {
+    "title": "Lulu's Dinner Party at Roundhouse",
+    "start": "2027-01-24T14:00:00+00:00",
+    "end": "2027-01-24T16:30:00+00:00",
+    "venue": "Roundhouse Bar & Cafe",
+    "address": "Chalk Farm Road, NW1 8EH",
+    "url": "https://www.roundhouse.org.uk/whats-on/lulus-dinner-party/",
+    "source": "venue:roundhouse",
+    "tags": [
+      "food",
+      "music"
+    ],
+    "price": "£43 incl. menu",
+    "description": "Roundhouse resident artist lulu melons hosts an intimate afternoon of live music paired with a custom comfort-food menu — supper-club vibes, Sunday 2pm.",
+    "neighbourhood": "Camden",
+    "cycle_minutes": 32,
+    "added": "2026-09-12T06:20:45Z",
+    "id": "lulu-s-dinner-party-at-roundhouse-96a41129"
+  },
+  {
+    "title": "Out-Of-Print Live at Roundhouse (Davey Studio)",
+    "start": "2027-01-27T19:30:00+00:00",
+    "end": "2027-01-27T20:50:00+00:00",
+    "venue": "Roundhouse Davey Studio",
+    "address": "Chalk Farm Road, NW1 8EH",
+    "url": "https://www.roundhouse.org.uk/whats-on/out-of-print-live/",
+    "source": "venue:roundhouse",
+    "tags": [
+      "talk",
+      "comedy"
+    ],
+    "price": "£5.38",
+    "description": "Live recording of the Out-of-Print culture podcast — literary deep dives, comedy and audience call-ins. Cheap, chatty Wednesday night.",
+    "neighbourhood": "Camden",
+    "cycle_minutes": 32,
+    "added": "2026-09-12T06:20:45Z",
+    "id": "out-of-print-live-at-roundhouse-davey-studio-9ea373c4"
+  },
+  {
+    "title": "Brama at The Shacklewell Arms (free)",
+    "start": "2027-01-28T19:30:00+00:00",
+    "end": "2027-01-28T22:30:00+00:00",
+    "venue": "The Shacklewell Arms",
+    "address": "71 Shacklewell Lane, London E8 2EB",
+    "url": "https://dice.fm/event/6a8d2fd2229a0a0001aa9e97",
+    "source": "venue:dice-shacklewell-arms",
+    "tags": [
+      "music"
+    ],
+    "price": "Free",
+    "description": "Free Thursday-night show in the Shacklewell's famous back room — first January 2027 gig on sale at the Dalston indie institution.",
+    "neighbourhood": "Dalston",
+    "cycle_minutes": 13,
+    "added": "2026-09-12T06:20:45Z",
+    "id": "brama-at-the-shacklewell-arms-free-cffac078"
+  },
+  {
+    "title": "Omni at MOTH Club — 10 years of 'Deluxe'",
+    "start": "2027-01-29T19:00:00+00:00",
+    "end": "2027-01-29T22:00:00+00:00",
+    "venue": "MOTH Club",
+    "address": "Old Trades Hall, Valette Street, E9 6NU",
+    "url": "https://dice.fm/event/6a9002bef9bb1d0001de0aa5",
+    "source": "venue:dice-moth-club",
+    "tags": [
+      "music"
+    ],
+    "price": "£22.70",
+    "description": "Atlanta post-punk wirers Omni play debut album 'Deluxe' in full for its tenth birthday under MOTH Club's glitter ceiling. Friday night.",
+    "neighbourhood": "Hackney Central",
+    "cycle_minutes": 12,
+    "added": "2026-09-12T06:20:45Z",
+    "id": "omni-at-moth-club-10-years-of-deluxe-8c9e7772"
+  },
+  {
+    "title": "IVW27: The Great Leslie album launch at Paper Dress Vintage",
+    "start": "2027-01-30T19:30:00+00:00",
+    "end": "2027-01-30T22:45:00+00:00",
+    "venue": "Paper Dress Vintage",
+    "address": "352a Mare Street, E8 1HR",
+    "url": "https://dice.fm/event/6a79a6bc54438f0001d82700",
+    "source": "venue:dice-paper-dress-vintage",
+    "tags": [
+      "music"
+    ],
+    "price": "£17",
+    "description": "Rising indie-rockers The Great Leslie launch their album for Independent Venue Week 2027 upstairs at the vintage-shop-turned-venue.",
+    "neighbourhood": "Hackney Central",
+    "cycle_minutes": 12,
+    "added": "2026-09-12T06:20:45Z",
+    "id": "ivw27-the-great-leslie-album-launch-at-paper-dress-vintage-9f9f103c"
   }
 ]
