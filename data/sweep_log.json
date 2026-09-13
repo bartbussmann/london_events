@@ -1,5 +1,11 @@
 [
   {
+    "ran_at": "2026-09-13T08:00:00+01:00",
+    "added": 13,
+    "considered": 204,
+    "notes": "Mid-size venues + Newspeak House. NEWSPEAK CLUSTER (Bart's local, 3 min): embodied-intelligence experiments 22 Sep (free, perfect fit), HN London Demo Night 24 Sep, social-media-ban policy panel 5 Nov. Islington Assembly Hall x5: Cleaners From Venus 5 Oct (cult DIY jangle-pop, rare show), Lucia & Best Boys 28 Oct (now three-way w/ Jasmine Myra + Nick Hakim), Scott Matthews 28 Nov, Ingrid Michaelson 6 Dec, Dylan John Thomas 8 Dec (fills thin Tuesday). EartH new announcements: Jazz Emu 17 Oct (17 Oct now has 4 evening options + daytime circle + late Shillelagh session), TENDER 30 Oct, Stranger Things composers live 9 Nov £45, feeble little horse EXTRA DATE 22 Nov (23 Nov now SOLD OUT — existing entry flagged). WATCHLIST RESOLVED: Some Like it Swing October edition = FRI 30 OCT (Halloween-eve, verified on swingdanceuk.com, not yet on Genesis site; Nov edition 27 Nov noted for later). MAINTENANCE: Campaign Lab 5+19 Oct URLs upgraded to proper Luma links. DEAD/BLOCKED: Omeara rebranded to Rae's (club nights only), Lafayette apparently paused gigs (404 + zero DICE/Songkick), Shoreditch Town Hall behind sgcaptcha (existing entries unaffected), Bush Hall unverifiable, Backyard all generic mixed bills. SOLD OUT: RIKAS IAH 3 Nov, Citizen 24 Oct, Macy Gray 6 Nov, Emma-Jean Thackray 13 Nov, Tiffany Day 11 Dec. ACX STILL unposted (13 Sep, latest post 10 Sep). Moth zero London. REMINDER STANDING: LFF general booking Wed 17 Sep 10:00."
+  },
+  {
     "ran_at": "2026-09-12T08:00:00+01:00",
     "added": 17,
     "considered": 124,
@@ -172,11 +178,5 @@
     "added": 38,
     "considered": 260,
     "notes": "October fill — all 15 empty October days now covered. Added 38: verified DICE leads (GAÏA 7 Oct, free Pedestrian Band 13 Oct, Casper Walsh 13 Oct, free Vision Fortune 14 Oct, free Painting 29 Oct, Charlie Kilgore 7 Sep, Deeper Into Movies bday 6 Sep) with DATE CORRECTIONS: Jembaa Groove is Sun 11 Oct (not 13), Nick Hakim Wed 28 Oct (not 29). October circuit: Swim Deep 2 Oct, Terra Twin 8 Oct, M/X free + Kacy & Clayton 15 Oct, Shaemless free 18 Oct, Earth Tongue 21 Oct, NAMES farewell 23 Oct, Jump Cuts free 25 Oct, Marina Herlop 27 Oct, Flowers For The Dead free 30 Oct. Wilton's: INCENDIARY Pepys 8 Oct, Brief Case of Crazy 12-14 Oct, OneTrackMinds 19 Oct. Talks: Žižek 13 Oct RGS, 5x15 Kidron/Toksvig 14 Oct, Jung Chang 27 Oct, Ghibli ethics 28 Oct, Dan Jones 30 Oct. Hackney Empire: TWAWSI 20 Oct, Susan Calman 21 Oct, Henning Wehn 25 Oct, Jen Brister at EartH 23 Oct. Embodiment: EmboDAYfest all-day dance festival 17 Oct, Rick Nodine Mon 12 + Wed 14 Oct, Rose Lipman jam 19 Oct, constellations Kailash 8 Oct, partner breathwork retreat 18 Oct. Suzanne Ciani at EartH 12 Oct. SKIPPED: Tilda Maplestone 9 Sep SOLD OUT; BFI LFF closing gala 18 Oct (Jesse Eisenberg's The Debut — date real, time TBC; programme 2 Sep, booking 17 Sep — WATCHLIST). Union Chapel listing broken even headless (AJAX never fires) — retry. EDL October dances unpublished. Post-25-Oct entries use +00:00 (clocks change). Huge spares list in scout output incl. Dexys 27-28 Oct (£45-75), Goblin Band 31 Oct already in, Stoker Wilde musical 27-31 Oct, Bloomsbury Festival all month."
-  },
-  {
-    "ran_at": "2026-08-14T07:45:00+01:00",
-    "added": 18,
-    "considered": 195,
-    "notes": "Cozy-pub-music circuit (responding to Bart's 13 Aug question) + weekly refreshes. Added 18: Auld Shillelagh seisiúns PINNED (pub posts monthly rota — TONIGHT 14 Aug + 21 Aug added; also 22/28/29 Aug on their page; Sept rota not yet up); Palm Tree: free outdoor jazz+salsa Sun 16 Aug via UMAT (indoor crooner nights remain unpublished folklore — turn up after 8pm, cash only); Harrison free singaround Sat 15 Aug + Folk&Roots 31 Aug; Martin Carthy box-set launch CSH 24 Aug; Kiran Leonard at Ivy House Nunhead 28 Aug (distance-flagged); Sharp's Folk Club season opener 1 Sep; Hackney Folk Club at Chats Palace — Newberry & Verch 3 Sep + Mishra 17 Sep (+Molsky/Anger 15 Oct noted); Marisa Anderson at Chats 4 Sep; Lantern Society 4 Sep + Bonnie Dobson memoir launch 8 Sep at Betsey Trotwood; Walthamstow FC free singaround opener 6 Sep; Green Note x2 via Songkick (James Felice 10 Sep, Dean Owens 14 Sep — greennote.co.uk captcha-walled, times are placeholders); Sam Carter sings Nic Jones CSH 16 Sep; play-fight/CI workshop Peckham 19 Sep (price-flagged). DEAD: Islington Folk Club domain parked (dormant). Still waiting: Moth StorySLAM, ACX fall list, Auld Shillelagh Sept rota (recheck early Sept). Spares: Jenny Sturgeon + M G Boulter Green Note 16 Sep, men's circle KX 19 Aug, Harrison tune session Sats 2pm from 5 Sep."
   }
 ]

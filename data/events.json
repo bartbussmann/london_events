@@ -2210,6 +2210,25 @@
     "added": "2026-09-03"
   },
   {
+    "title": "Beyond Thinking: Embodied Intelligence Experiments at Newspeak House",
+    "start": "2026-09-22T19:00:00+01:00",
+    "end": "2026-09-22T22:00:00+01:00",
+    "venue": "Newspeak House",
+    "address": "133-135 Bethnal Green Road, London E2 7DG",
+    "url": "https://luma.com/pe5jfkyb",
+    "source": "newspeak-house-calendar",
+    "tags": [
+      "workshop",
+      "community"
+    ],
+    "price": "Free (register)",
+    "description": "Evening of practical embodied-intelligence experiments hosted by the integral altruism crew — three minutes away, squarely in the embodiment/relational-practice sweet spot.",
+    "neighbourhood": "Bethnal Green",
+    "cycle_minutes": 3,
+    "added": "2026-09-13T06:16:38Z",
+    "id": "beyond-thinking-embodied-intelligence-experiments-at-newspea-5bb566bc"
+  },
+  {
     "id": "jim-ghedi-at-moth-club-6610d75a",
     "title": "Jim Ghedi at MOTH Club",
     "start": "2026-09-22T19:30:00+01:00",
@@ -2372,6 +2391,25 @@
     "neighbourhood": "Holborn",
     "cycle_minutes": 18,
     "added": "2026-08-08"
+  },
+  {
+    "title": "Hacker News London Meetup #10 — Demo Night at Newspeak House",
+    "start": "2026-09-24T18:00:00+01:00",
+    "end": "2026-09-24T21:00:00+01:00",
+    "venue": "Newspeak House",
+    "address": "133-135 Bethnal Green Road, London E2 7DG",
+    "url": "https://luma.com/emutz2gd",
+    "source": "newspeak-house-calendar",
+    "tags": [
+      "tech",
+      "community"
+    ],
+    "price": "Free (register)",
+    "description": "Hacker News London's demo night: builders show what they're hacking on, easy sociable tech crowd, hosted by Edward Saperia.",
+    "neighbourhood": "Bethnal Green",
+    "cycle_minutes": 3,
+    "added": "2026-09-13T06:16:38Z",
+    "id": "hacker-news-london-meetup-10-demo-night-at-newspeak-house-8e6e683b"
   },
   {
     "id": "flop-the-best-songs-from-the-worst-musicals-8557574f",
@@ -4154,7 +4192,7 @@
     "end": "2026-10-05T22:00:00+01:00",
     "venue": "Newspeak House (Drawing Room)",
     "address": "133 Bethnal Green Road, E2 7DG",
-    "url": "https://newspeak.house/#events",
+    "url": "https://luma.com/h42dgcv7",
     "source": "venue:newspeak-house",
     "tags": [
       "tech",
@@ -4201,6 +4239,24 @@
     "cycle_minutes": 30,
     "added": "2026-09-08T06:25:47Z",
     "id": "thursday-singles-pub-quiz-night-at-21soho-87c3a1e5"
+  },
+  {
+    "title": "The Cleaners From Venus at Islington Assembly Hall",
+    "start": "2026-10-05T19:00:00+01:00",
+    "end": "2026-10-05T22:30:00+01:00",
+    "venue": "Islington Assembly Hall",
+    "address": "Upper Street, London N1 2UD",
+    "url": "https://islingtonassemblyhall.co.uk/events/the-cleaners-from-venus-5th-oct-islington-assembly-hall-london-tickets/",
+    "source": "venue:islington-assembly-hall",
+    "tags": [
+      "music"
+    ],
+    "price": "£22.59 inc fees",
+    "description": "Martin Newell's cult DIY jangle-pop project — lo-fi home-recording legend of the C86/cassette underground, rare London show. Doors 19:00.",
+    "neighbourhood": "Angel",
+    "cycle_minutes": 20,
+    "added": "2026-09-13T06:16:38Z",
+    "id": "the-cleaners-from-venus-at-islington-assembly-hall-b80cbc26"
   },
   {
     "title": "Kant's Cave: Ethics Starts With You — Dr Jim Walsh",
@@ -6048,6 +6104,25 @@
     "added": "2026-08-20"
   },
   {
+    "title": "Jazz Emu at EartH",
+    "start": "2026-10-17T19:30:00+01:00",
+    "end": "2026-10-17T23:00:00+01:00",
+    "venue": "EartH",
+    "address": "11 Stoke Newington Rd, London N16 8BH",
+    "url": "https://dice.fm/event/69989de5e72e730001908ae1",
+    "source": "venue:dice-earth",
+    "tags": [
+      "comedy",
+      "music"
+    ],
+    "price": "from £29.87",
+    "description": "Archie Henderson's absurdist funk-pop comedy juggernaut — Edinburgh award-winning musical comedy in the EartH theatre. (17 Oct is stacked: EmboDAYfest, Ecstatic Saturdays, Swing Ball, plus the late Shillelagh trad session.)",
+    "neighbourhood": "Dalston",
+    "cycle_minutes": 14,
+    "added": "2026-09-13T06:16:38Z",
+    "id": "jazz-emu-at-earth-e770dd00"
+  },
+  {
     "id": "jacken-elswyth-and-elspeth-anne-future-folk-series-opener-a1070ec1",
     "title": "Jacken Elswyth and Elspeth Anne — Future Folk series opener",
     "start": "2026-10-17T20:00:00+01:00",
@@ -6279,7 +6354,7 @@
     "end": "2026-10-19T22:00:00+01:00",
     "venue": "Newspeak House",
     "address": "133 Bethnal Green Road, E2 7DG",
-    "url": "https://newspeak.house/#events",
+    "url": "https://luma.com/bsaq2dya",
     "source": "venue:newspeak-house",
     "tags": [
       "tech",
@@ -7099,6 +7174,24 @@
     "added": "2026-08-15"
   },
   {
+    "title": "Lucia & The Best Boys at Islington Assembly Hall",
+    "start": "2026-10-28T19:00:00+00:00",
+    "end": "2026-10-28T22:30:00+00:00",
+    "venue": "Islington Assembly Hall",
+    "address": "Upper Street, London N1 2UD",
+    "url": "https://islingtonassemblyhall.co.uk/events/lucia-and-the-best-boys-28th-oct-islington-assembly-hall-london-tickets/",
+    "source": "venue:islington-assembly-hall",
+    "tags": [
+      "music"
+    ],
+    "price": "£27.78 inc fees",
+    "description": "Glasgow alt-pop/indie outfit fronted by Lucia Fairfull, big melodic live show in the art-deco hall. (28 Oct also has Jasmine Myra and Nick Hakim — a three-way.)",
+    "neighbourhood": "Angel",
+    "cycle_minutes": 20,
+    "added": "2026-09-13T06:16:38Z",
+    "id": "lucia-the-best-boys-at-islington-assembly-hall-491c1793"
+  },
+  {
     "id": "nick-hakim-at-village-underground-e67fd51e",
     "title": "Nick Hakim at Village Underground",
     "start": "2026-10-28T19:30:00+00:00",
@@ -7297,6 +7390,43 @@
     "neighbourhood": "Dalston",
     "cycle_minutes": 13,
     "added": "2026-08-15"
+  },
+  {
+    "title": "TENDER at EartH",
+    "start": "2026-10-30T19:30:00+00:00",
+    "end": "2026-10-30T23:00:00+00:00",
+    "venue": "EartH",
+    "address": "11 Stoke Newington Rd, London N16 8BH",
+    "url": "https://dice.fm/event/69ca4e6ed316d60001f20951",
+    "source": "venue:dice-earth",
+    "tags": [
+      "music"
+    ],
+    "price": "from £27.04",
+    "description": "London alt-electronic duo TENDER — moody synth-pop live show, Friday night. (Same night as Some Like it Swing at Genesis.)",
+    "neighbourhood": "Dalston",
+    "cycle_minutes": 14,
+    "added": "2026-09-13T06:16:38Z",
+    "id": "tender-at-earth-24f19d16"
+  },
+  {
+    "title": "Some Like it Swing — October edition at Genesis",
+    "start": "2026-10-30T19:30:00+00:00",
+    "end": "2026-10-30T23:00:00+00:00",
+    "venue": "Genesis Cinema (Bar Paragon)",
+    "address": "93 Mile End Road, London E1 4UJ",
+    "url": "https://swingdanceuk.com/socials/some-like-it-swing/",
+    "source": "swingdanceuk",
+    "tags": [
+      "dance",
+      "class"
+    ],
+    "price": "£9 class & dance (£8 students/NHS), £3 dance only",
+    "description": "Monthly SwingdanceUK social at Genesis's Bar Paragon: beginner Lindy Hop class 7:30-8:30pm with guest teacher Anjali, then 1930s-50s swing DJs. Halloween-eve edition; verified on SwingdanceUK (not yet on the Genesis site). November edition 27 Nov flagged for later.",
+    "neighbourhood": "Mile End",
+    "cycle_minutes": 7,
+    "added": "2026-09-13T06:16:38Z",
+    "id": "some-like-it-swing-october-edition-at-genesis-ff4048a5"
   },
   {
     "title": "ShRIek: The spooky science of the paranormal — Royal Institution",
@@ -7666,6 +7796,26 @@
     "added": "2026-09-03"
   },
   {
+    "title": "The UK's social media ban: where are we and what's in store? — Newspeak House",
+    "start": "2026-11-05T18:30:00+00:00",
+    "end": "2026-11-05T22:00:00+00:00",
+    "venue": "Newspeak House",
+    "address": "133-135 Bethnal Green Road, London E2 7DG",
+    "url": "https://luma.com/zdkappvt",
+    "source": "newspeak-house-calendar",
+    "tags": [
+      "talk",
+      "tech",
+      "community"
+    ],
+    "price": "Free (register)",
+    "description": "Panel at Newspeak Hall with Ben Whitelaw (Everything in Moderation) and Georgia Iacovou on the UK's proposed under-16 social media ban and children's online safety policy.",
+    "neighbourhood": "Bethnal Green",
+    "cycle_minutes": 3,
+    "added": "2026-09-13T06:16:38Z",
+    "id": "the-uk-s-social-media-ban-where-are-we-and-what-s-in-store-n-6f1a3b7a"
+  },
+  {
     "id": "joan-as-police-woman-20-years-of-real-life-night-one-a24c96d2",
     "title": "Joan As Police Woman — 20 Years of 'Real Life' (night one)",
     "start": "2026-11-05T19:00:00+00:00",
@@ -7991,6 +8141,24 @@
     "cycle_minutes": 14,
     "added": "2026-09-07T06:21:08Z",
     "id": "wendy-eisenberg-jasper-llewellyn-at-cafe-oto-2090e45c"
+  },
+  {
+    "title": "The Music of Stranger Things — Kyle Dixon & Michael Stein at EartH",
+    "start": "2026-11-09T19:30:00+00:00",
+    "end": "2026-11-09T23:00:00+00:00",
+    "venue": "EartH",
+    "address": "11 Stoke Newington Rd, London N16 8BH",
+    "url": "https://dice.fm/event/6a0d93e10ebd99000100c48a",
+    "source": "venue:dice-earth",
+    "tags": [
+      "music"
+    ],
+    "price": "from £45.17",
+    "description": "The show's actual composers (SURVIVE) perform the analogue-synth Stranger Things score live — one for synth and score nerds. (Alternative to Wendy Eisenberg at OTO.)",
+    "neighbourhood": "Dalston",
+    "cycle_minutes": 14,
+    "added": "2026-09-13T06:16:38Z",
+    "id": "the-music-of-stranger-things-kyle-dixon-michael-stein-at-ear-777b5328"
   },
   {
     "id": "sebright-quiz-night-5c97a609",
@@ -8846,6 +9014,24 @@
     "id": "johnny-flynn-lillie-flynn-beam-cottage-1e9c0b44"
   },
   {
+    "title": "feeble little horse at EartH — extra date (22 Nov)",
+    "start": "2026-11-22T18:30:00+00:00",
+    "end": "2026-11-22T22:00:00+00:00",
+    "venue": "EartH",
+    "address": "11 Stoke Newington Rd, London N16 8BH",
+    "url": "https://dice.fm/event/6a9a8bfcf17e370001f280c2",
+    "source": "venue:dice-earth",
+    "tags": [
+      "music"
+    ],
+    "price": "from £24.21",
+    "description": "Pittsburgh noise-pop darlings add a second London night after the 23 Nov show sold out. Sunday, doors 18:30.",
+    "neighbourhood": "Dalston",
+    "cycle_minutes": 14,
+    "added": "2026-09-13T06:16:38Z",
+    "id": "feeble-little-horse-at-earth-extra-date-22-nov-f06c1154"
+  },
+  {
     "id": "pearl-the-oysters-at-moth-club-979d44d8",
     "title": "Pearl & The Oysters at MOTH Club",
     "start": "2026-11-22T19:00:00+00:00",
@@ -8894,7 +9080,7 @@
       "music"
     ],
     "price": "from £24.21",
-    "description": "Pittsburgh noise-pop/shoegaze cult favourites play EartH Hall. Doors 6:30pm.",
+    "description": "Pittsburgh noise-pop/shoegaze cult favourites play EartH Hall. Doors 6:30pm. [NOW SOLD OUT, 13 Sep — a 22 Nov extra date is on the calendar.]",
     "neighbourhood": "Dalston",
     "added": "2026-08-22",
     "cycle_minutes": 14
@@ -9190,6 +9376,24 @@
     "neighbourhood": "Whitechapel",
     "added": "2026-08-22",
     "cycle_minutes": 10
+  },
+  {
+    "title": "Scott Matthews at Islington Assembly Hall",
+    "start": "2026-11-28T19:00:00+00:00",
+    "end": "2026-11-28T22:30:00+00:00",
+    "venue": "Islington Assembly Hall",
+    "address": "Upper Street, London N1 2UD",
+    "url": "https://islingtonassemblyhall.co.uk/events/scott-matthews-28th-nov-islington-assembly-hall-london-tickets/",
+    "source": "venue:islington-assembly-hall",
+    "tags": [
+      "music"
+    ],
+    "price": "£42.18 inc fees",
+    "description": "Ivor Novello-winning folk singer-songwriter ('Elusive') — intimate, hushed acoustic songcraft. Saturday night.",
+    "neighbourhood": "Angel",
+    "cycle_minutes": 20,
+    "added": "2026-09-13T06:16:38Z",
+    "id": "scott-matthews-at-islington-assembly-hall-ea3371ff"
   },
   {
     "id": "parviz-persian-psych-funk-at-moth-club-f8255549",
@@ -9614,6 +9818,24 @@
     "added": "2026-08-30"
   },
   {
+    "title": "Ingrid Michaelson at Islington Assembly Hall",
+    "start": "2026-12-06T19:00:00+00:00",
+    "end": "2026-12-06T22:30:00+00:00",
+    "venue": "Islington Assembly Hall",
+    "address": "Upper Street, London N1 2UD",
+    "url": "https://islingtonassemblyhall.co.uk/events/ingrid-michaelson-6th-dec-islington-assembly-hall-london-tickets/",
+    "source": "venue:islington-assembly-hall",
+    "tags": [
+      "music"
+    ],
+    "price": "£45.07 inc fees",
+    "description": "US indie-pop singer-songwriter ('The Way I Am') in a rare UK club-size show. Sunday. (Alternative to Dîlan Top at Kings Place.)",
+    "neighbourhood": "Angel",
+    "cycle_minutes": 20,
+    "added": "2026-09-13T06:16:38Z",
+    "id": "ingrid-michaelson-at-islington-assembly-hall-a41541bd"
+  },
+  {
     "title": "Dîlan Top at Kings Place",
     "start": "2026-12-06T19:30:00+00:00",
     "end": "2026-12-06T21:30:00+00:00",
@@ -9667,6 +9889,24 @@
     "neighbourhood": "Hackney Central",
     "cycle_minutes": 12,
     "added": "2026-08-30"
+  },
+  {
+    "title": "Dylan John Thomas at Islington Assembly Hall",
+    "start": "2026-12-08T19:00:00+00:00",
+    "end": "2026-12-08T22:30:00+00:00",
+    "venue": "Islington Assembly Hall",
+    "address": "Upper Street, London N1 2UD",
+    "url": "https://islingtonassemblyhall.co.uk/events/dylan-john-thomas-8th-dec-islington-assembly-hall-london-tickets/",
+    "source": "venue:islington-assembly-hall",
+    "tags": [
+      "music"
+    ],
+    "price": "£27.78 inc fees",
+    "description": "Glaswegian indie-folk singer-songwriter — big singalong energy. Fills the thin Tuesday 8 Dec.",
+    "neighbourhood": "Angel",
+    "cycle_minutes": 20,
+    "added": "2026-09-13T06:16:38Z",
+    "id": "dylan-john-thomas-at-islington-assembly-hall-2e502f93"
   },
   {
     "id": "truthpaste-at-moth-club-340be160",

@@ -1661,6 +1661,21 @@ URL:https://www.thursday.com/events/london/bb61c162-5a25-4e23-a9c6-4215b7f
 LOCATION:The Side Hustle Sports Bar\, 130 Wood Street\, EC2V 6DL
 END:VEVENT
 BEGIN:VEVENT
+UID:beyond-thinking-embodied-intelligence-experiments-at-newspea-5bb566bc@
+ london-events
+DTSTAMP:20260922T180000Z
+DTSTART:20260922T180000Z
+DTEND:20260922T210000Z
+SUMMARY:Beyond Thinking: Embodied Intelligence Experiments at Newspeak Hou
+ se
+DESCRIPTION:Evening of practical embodied-intelligence experiments hosted 
+ by the integral altruism crew — three minutes away\, squarely in the em
+ bodiment/relational-practice sweet spot.\nPrice: Free (register)\nhttps:/
+ /luma.com/pe5jfkyb
+URL:https://luma.com/pe5jfkyb
+LOCATION:Newspeak House\, 133-135 Bethnal Green Road\, London E2 7DG
+END:VEVENT
+BEGIN:VEVENT
 UID:jim-ghedi-at-moth-club-6610d75a@london-events
 DTSTAMP:20260922T183000Z
 DTSTART:20260922T183000Z
@@ -1785,6 +1800,19 @@ DESCRIPTION:Physicist Helen Czerski on how carbon built the natural world.
  t.\nPrice: Free (register)\nhttps://www.gresham.ac.uk/whats-on/carbon
 URL:https://www.gresham.ac.uk/whats-on/carbon
 LOCATION:Barnard's Inn Hall\, Holborn\, EC1N 2HH
+END:VEVENT
+BEGIN:VEVENT
+UID:hacker-news-london-meetup-10-demo-night-at-newspeak-house-8e6e683b@lon
+ don-events
+DTSTAMP:20260924T170000Z
+DTSTART:20260924T170000Z
+DTEND:20260924T200000Z
+SUMMARY:Hacker News London Meetup #10 — Demo Night at Newspeak House
+DESCRIPTION:Hacker News London's demo night: builders show what they're ha
+ cking on\, easy sociable tech crowd\, hosted by Edward Saperia.\nPrice: F
+ ree (register)\nhttps://luma.com/emutz2gd
+URL:https://luma.com/emutz2gd
+LOCATION:Newspeak House\, 133-135 Bethnal Green Road\, London E2 7DG
 END:VEVENT
 BEGIN:VEVENT
 UID:flop-the-best-songs-from-the-worst-musicals-8557574f@london-events
@@ -3115,9 +3143,8 @@ DTSTART:20261005T180000Z
 DTEND:20261005T210000Z
 SUMMARY:Campaign Lab Hack Night (5 Oct edition)
 DESCRIPTION:First October edition of the bi-weekly civic-tech hack night (
- a 19 Oct edition is also listed).\nPrice: Free\nhttps://newspeak.house/#e
- vents
-URL:https://newspeak.house/#events
+ a 19 Oct edition is also listed).\nPrice: Free\nhttps://luma.com/h42dgcv7
+URL:https://luma.com/h42dgcv7
 LOCATION:Newspeak House (Drawing Room)\, 133 Bethnal Green Road\, E2 7DG
 END:VEVENT
 BEGIN:VEVENT
@@ -3147,6 +3174,21 @@ DESCRIPTION:October edition of Thursday's singles pub quiz — teams mixed
 URL:https://www.thursday.com/events/london/a4037f72-2741-4904-bdef-484ff58
  7f76b
 LOCATION:21Soho\, 3-5 Sutton Row\, London W1D 4NR
+END:VEVENT
+BEGIN:VEVENT
+UID:the-cleaners-from-venus-at-islington-assembly-hall-b80cbc26@london-eve
+ nts
+DTSTAMP:20261005T180000Z
+DTSTART:20261005T180000Z
+DTEND:20261005T213000Z
+SUMMARY:The Cleaners From Venus at Islington Assembly Hall
+DESCRIPTION:Martin Newell's cult DIY jangle-pop project — lo-fi home-rec
+ ording legend of the C86/cassette underground\, rare London show. Doors 1
+ 9:00.\nPrice: £22.59 inc fees\nhttps://islingtonassemblyhall.co.uk/event
+ s/the-cleaners-from-venus-5th-oct-islington-assembly-hall-london-tickets/
+URL:https://islingtonassemblyhall.co.uk/events/the-cleaners-from-venus-5th
+ -oct-islington-assembly-hall-london-tickets/
+LOCATION:Islington Assembly Hall\, Upper Street\, London N1 2UD
 END:VEVENT
 BEGIN:VEVENT
 UID:kant-s-cave-ethics-starts-with-you-dr-jim-walsh-932e64af@london-events
@@ -4601,6 +4643,20 @@ URL:https://dice.fm/event/6a82f19610826100019a3629
 LOCATION:The Old Blue Last\, 38 Great Eastern Street\, EC2A 3ES
 END:VEVENT
 BEGIN:VEVENT
+UID:jazz-emu-at-earth-e770dd00@london-events
+DTSTAMP:20261017T183000Z
+DTSTART:20261017T183000Z
+DTEND:20261017T220000Z
+SUMMARY:Jazz Emu at EartH
+DESCRIPTION:Archie Henderson's absurdist funk-pop comedy juggernaut — Ed
+ inburgh award-winning musical comedy in the EartH theatre. (17 Oct is sta
+ cked: EmboDAYfest\, Ecstatic Saturdays\, Swing Ball\, plus the late Shill
+ elagh trad session.)\nPrice: from £29.87\nhttps://dice.fm/event/69989de5
+ e72e730001908ae1
+URL:https://dice.fm/event/69989de5e72e730001908ae1
+LOCATION:EartH\, 11 Stoke Newington Rd\, London N16 8BH
+END:VEVENT
+BEGIN:VEVENT
 UID:jacken-elswyth-and-elspeth-anne-future-folk-series-opener-a1070ec1@lon
  don-events
 DTSTAMP:20261017T190000Z
@@ -4785,8 +4841,8 @@ DTEND:20261019T210000Z
 SUMMARY:Campaign Lab Hack Night (19 Oct edition)
 DESCRIPTION:Bi-weekly civic-tech hack night in the Drawing Room — furthe
  r dates 2\, 16 and 30 Nov.\nPrice: Free (registration required)\nhttps://
- newspeak.house/#events
-URL:https://newspeak.house/#events
+ luma.com/bsaq2dya
+URL:https://luma.com/bsaq2dya
 LOCATION:Newspeak House\, 133 Bethnal Green Road\, E2 7DG
 END:VEVENT
 BEGIN:VEVENT
@@ -5395,6 +5451,21 @@ URL:https://www.conwayhall.org.uk/whats-on/event/ghibli-and-goodness/
 LOCATION:Conway Hall\, 25 Red Lion Square\, WC1R 4RL
 END:VEVENT
 BEGIN:VEVENT
+UID:lucia-the-best-boys-at-islington-assembly-hall-491c1793@london-events
+DTSTAMP:20261028T190000Z
+DTSTART:20261028T190000Z
+DTEND:20261028T223000Z
+SUMMARY:Lucia & The Best Boys at Islington Assembly Hall
+DESCRIPTION:Glasgow alt-pop/indie outfit fronted by Lucia Fairfull\, big m
+ elodic live show in the art-deco hall. (28 Oct also has Jasmine Myra and 
+ Nick Hakim — a three-way.)\nPrice: £27.78 inc fees\nhttps://islingtona
+ ssemblyhall.co.uk/events/lucia-and-the-best-boys-28th-oct-islington-assem
+ bly-hall-london-tickets/
+URL:https://islingtonassemblyhall.co.uk/events/lucia-and-the-best-boys-28t
+ h-oct-islington-assembly-hall-london-tickets/
+LOCATION:Islington Assembly Hall\, Upper Street\, London N1 2UD
+END:VEVENT
+BEGIN:VEVENT
 UID:nick-hakim-at-village-underground-e67fd51e@london-events
 DTSTAMP:20261028T193000Z
 DTSTART:20261028T193000Z
@@ -5542,6 +5613,33 @@ DESCRIPTION:Free Halloween-eve show at the Shacklewell — zero-cost local
 URL:https://dice.fm/event/bb9lbg-flowers-for-the-dead-30th-oct-the-shackle
  well-arms-london-tickets
 LOCATION:The Shacklewell Arms\, 71 Shacklewell Lane\, Dalston\, E8 2EB
+END:VEVENT
+BEGIN:VEVENT
+UID:tender-at-earth-24f19d16@london-events
+DTSTAMP:20261030T193000Z
+DTSTART:20261030T193000Z
+DTEND:20261030T230000Z
+SUMMARY:TENDER at EartH
+DESCRIPTION:London alt-electronic duo TENDER — moody synth-pop live show
+ \, Friday night. (Same night as Some Like it Swing at Genesis.)\nPrice: f
+ rom £27.04\nhttps://dice.fm/event/69ca4e6ed316d60001f20951
+URL:https://dice.fm/event/69ca4e6ed316d60001f20951
+LOCATION:EartH\, 11 Stoke Newington Rd\, London N16 8BH
+END:VEVENT
+BEGIN:VEVENT
+UID:some-like-it-swing-october-edition-at-genesis-ff4048a5@london-events
+DTSTAMP:20261030T193000Z
+DTSTART:20261030T193000Z
+DTEND:20261030T230000Z
+SUMMARY:Some Like it Swing — October edition at Genesis
+DESCRIPTION:Monthly SwingdanceUK social at Genesis's Bar Paragon: beginner
+  Lindy Hop class 7:30-8:30pm with guest teacher Anjali\, then 1930s-50s s
+ wing DJs. Halloween-eve edition\; verified on SwingdanceUK (not yet on th
+ e Genesis site). November edition 27 Nov flagged for later.\nPrice: £9 c
+ lass & dance (£8 students/NHS)\, £3 dance only\nhttps://swingdanceuk.co
+ m/socials/some-like-it-swing/
+URL:https://swingdanceuk.com/socials/some-like-it-swing/
+LOCATION:Genesis Cinema (Bar Paragon)\, 93 Mile End Road\, London E1 4UJ
 END:VEVENT
 BEGIN:VEVENT
 UID:shriek-the-spooky-science-of-the-paranormal-royal-institutio-8c6a2d6d@
@@ -5821,6 +5919,21 @@ URL:https://link.dice.fm/cc7491a488fd
 LOCATION:EartH Hall\, 11-17 Stoke Newington Road\, N16 8BH
 END:VEVENT
 BEGIN:VEVENT
+UID:the-uk-s-social-media-ban-where-are-we-and-what-s-in-store-n-6f1a3b7a@
+ london-events
+DTSTAMP:20261105T183000Z
+DTSTART:20261105T183000Z
+DTEND:20261105T220000Z
+SUMMARY:The UK's social media ban: where are we and what's in store? — N
+ ewspeak House
+DESCRIPTION:Panel at Newspeak Hall with Ben Whitelaw (Everything in Modera
+ tion) and Georgia Iacovou on the UK's proposed under-16 social media ban 
+ and children's online safety policy.\nPrice: Free (register)\nhttps://lum
+ a.com/zdkappvt
+URL:https://luma.com/zdkappvt
+LOCATION:Newspeak House\, 133-135 Bethnal Green Road\, London E2 7DG
+END:VEVENT
+BEGIN:VEVENT
 UID:joan-as-police-woman-20-years-of-real-life-night-one-a24c96d2@london-e
  vents
 DTSTAMP:20261105T190000Z
@@ -6066,6 +6179,21 @@ DESCRIPTION:Virtuoso guitarist-songwriter Wendy Eisenberg (day one with Ta
 URL:https://www.cafeoto.co.uk/events/upset-the-rhythm-presents-wendy-eisen
  berg-day-two/
 LOCATION:Cafe OTO\, 18-22 Ashwin Street\, Dalston\, E8 3DL
+END:VEVENT
+BEGIN:VEVENT
+UID:the-music-of-stranger-things-kyle-dixon-michael-stein-at-ear-777b5328@
+ london-events
+DTSTAMP:20261109T193000Z
+DTSTART:20261109T193000Z
+DTEND:20261109T230000Z
+SUMMARY:The Music of Stranger Things — Kyle Dixon & Michael Stein at Ear
+ tH
+DESCRIPTION:The show's actual composers (SURVIVE) perform the analogue-syn
+ th Stranger Things score live — one for synth and score nerds. (Alterna
+ tive to Wendy Eisenberg at OTO.)\nPrice: from £45.17\nhttps://dice.fm/ev
+ ent/6a0d93e10ebd99000100c48a
+URL:https://dice.fm/event/6a0d93e10ebd99000100c48a
+LOCATION:EartH\, 11 Stoke Newington Rd\, London N16 8BH
 END:VEVENT
 BEGIN:VEVENT
 UID:sebright-quiz-night-5c97a609@london-events
@@ -6707,6 +6835,18 @@ LOCATION:Royal Festival Hall\, Southbank Centre\, Belvedere Rd\, London SE
  1 8XX
 END:VEVENT
 BEGIN:VEVENT
+UID:feeble-little-horse-at-earth-extra-date-22-nov-f06c1154@london-events
+DTSTAMP:20261122T183000Z
+DTSTART:20261122T183000Z
+DTEND:20261122T220000Z
+SUMMARY:feeble little horse at EartH — extra date (22 Nov)
+DESCRIPTION:Pittsburgh noise-pop darlings add a second London night after 
+ the 23 Nov show sold out. Sunday\, doors 18:30.\nPrice: from £24.21\nhtt
+ ps://dice.fm/event/6a9a8bfcf17e370001f280c2
+URL:https://dice.fm/event/6a9a8bfcf17e370001f280c2
+LOCATION:EartH\, 11 Stoke Newington Rd\, London N16 8BH
+END:VEVENT
+BEGIN:VEVENT
 UID:pearl-the-oysters-at-moth-club-979d44d8@london-events
 DTSTAMP:20261122T190000Z
 DTSTART:20261122T190000Z
@@ -6743,8 +6883,9 @@ DTSTART:20261123T183000Z
 DTEND:20261123T220000Z
 SUMMARY:feeble little horse at EartH
 DESCRIPTION:Pittsburgh noise-pop/shoegaze cult favourites play EartH Hall.
-  Doors 6:30pm.\nPrice: from £24.21\nhttps://dice.fm/event/xedlpl-feeble-
- little-horse-23rd-nov-earth-london-tickets
+  Doors 6:30pm. [NOW SOLD OUT\, 13 Sep — a 22 Nov extra date is on the c
+ alendar.]\nPrice: from £24.21\nhttps://dice.fm/event/xedlpl-feeble-littl
+ e-horse-23rd-nov-earth-london-tickets
 URL:https://dice.fm/event/xedlpl-feeble-little-horse-23rd-nov-earth-london
  -tickets
 LOCATION:EartH\, 11 Stoke Newington Rd\, N16 8BH
@@ -6958,6 +7099,20 @@ DESCRIPTION:Acclaimed actors bring dead poets' work and letters to life on
  12.50-£27\nhttps://wiltons.org.uk/whats-on/dead-poets-live/
 URL:https://wiltons.org.uk/whats-on/dead-poets-live/
 LOCATION:Wilton's Music Hall\, 1 Graces Alley\, E1 8JB
+END:VEVENT
+BEGIN:VEVENT
+UID:scott-matthews-at-islington-assembly-hall-ea3371ff@london-events
+DTSTAMP:20261128T190000Z
+DTSTART:20261128T190000Z
+DTEND:20261128T223000Z
+SUMMARY:Scott Matthews at Islington Assembly Hall
+DESCRIPTION:Ivor Novello-winning folk singer-songwriter ('Elusive') — in
+ timate\, hushed acoustic songcraft. Saturday night.\nPrice: £42.18 inc f
+ ees\nhttps://islingtonassemblyhall.co.uk/events/scott-matthews-28th-nov-i
+ slington-assembly-hall-london-tickets/
+URL:https://islingtonassemblyhall.co.uk/events/scott-matthews-28th-nov-isl
+ ington-assembly-hall-london-tickets/
+LOCATION:Islington Assembly Hall\, Upper Street\, London N1 2UD
 END:VEVENT
 BEGIN:VEVENT
 UID:parviz-persian-psych-funk-at-moth-club-f8255549@london-events
@@ -7271,6 +7426,20 @@ URL:https://www.efdss.org/whats-on/26-gigs/16006-6-12-26-festivegathering
 LOCATION:Cecil Sharp House\, 2 Regent's Park Road\, NW1 7AY
 END:VEVENT
 BEGIN:VEVENT
+UID:ingrid-michaelson-at-islington-assembly-hall-a41541bd@london-events
+DTSTAMP:20261206T190000Z
+DTSTART:20261206T190000Z
+DTEND:20261206T223000Z
+SUMMARY:Ingrid Michaelson at Islington Assembly Hall
+DESCRIPTION:US indie-pop singer-songwriter ('The Way I Am') in a rare UK c
+ lub-size show. Sunday. (Alternative to Dîlan Top at Kings Place.)\nPrice
+ : £45.07 inc fees\nhttps://islingtonassemblyhall.co.uk/events/ingrid-mic
+ haelson-6th-dec-islington-assembly-hall-london-tickets/
+URL:https://islingtonassemblyhall.co.uk/events/ingrid-michaelson-6th-dec-i
+ slington-assembly-hall-london-tickets/
+LOCATION:Islington Assembly Hall\, Upper Street\, London N1 2UD
+END:VEVENT
+BEGIN:VEVENT
 UID:d-lan-top-at-kings-place-c8ac5917@london-events
 DTSTAMP:20261206T193000Z
 DTSTART:20261206T193000Z
@@ -7307,6 +7476,20 @@ DESCRIPTION:Providence bilingual political punk band\, famously furious li
  01ee52fd
 URL:https://dice.fm/event/6a3e319c4ed8b10001ee52fd
 LOCATION:MOTH Club\, Old Trades Hall\, Valette Street\, E9 6NU
+END:VEVENT
+BEGIN:VEVENT
+UID:dylan-john-thomas-at-islington-assembly-hall-2e502f93@london-events
+DTSTAMP:20261208T190000Z
+DTSTART:20261208T190000Z
+DTEND:20261208T223000Z
+SUMMARY:Dylan John Thomas at Islington Assembly Hall
+DESCRIPTION:Glaswegian indie-folk singer-songwriter — big singalong ener
+ gy. Fills the thin Tuesday 8 Dec.\nPrice: £27.78 inc fees\nhttps://islin
+ gtonassemblyhall.co.uk/events/dylan-john-thomas-8th-dec-islington-assembl
+ y-hall-london-tickets/
+URL:https://islingtonassemblyhall.co.uk/events/dylan-john-thomas-8th-dec-i
+ slington-assembly-hall-london-tickets/
+LOCATION:Islington Assembly Hall\, Upper Street\, London N1 2UD
 END:VEVENT
 BEGIN:VEVENT
 UID:truthpaste-at-moth-club-340be160@london-events
