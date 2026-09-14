@@ -1,5 +1,11 @@
 [
   {
+    "ran_at": "2026-09-14T08:00:00+01:00",
+    "added": 14,
+    "considered": 355,
+    "notes": "Eventbrite keyword sweep + Close-Up retry + Rich Mix re-poll. CEILIDH VEIN (3, all distance-flagged, core interest justifies): Halloween Ceilidh w/ Ceilidh Liberation Front 30 Oct Grand Junction W2 (top band), London Scottish Pipes & Drums 27 Nov Westminster (alt to Minyo), Highgate Whirling Dervishes 21 Nov w/ hot supper. SUPPER CLUBS under cap at last (3): Dauns vegan 2 Oct £44 Petticoat Lane, Vegan Yes Italian-Korean 30 Sep £45 Brick Lane, Bufo Bufo 20 Nov £49 Peckham (flagged). CHESHIRE ST SAUNA CLUSTER (4 min away): Sauna Speed Dating 29 Oct £28 (CAVEAT: bracket/mix unstated — verify before booking), Frolik conscious-party anniversary 10 Oct. LOCAL COLOUR: vampire storytelling Love Shack 25 Oct arvo (chains into F*Choir), FABLE'D storytelling Ridley Rd 29 Sep £6, Full Joy singing circle Hackney Wick 25 Oct (price TBC), free clay workshop Deptford 15 Oct, Japanese ceramics day Bloomsbury 24 Oct, Irene Taylor Trust free Rich Mix night 22 Oct (new in Spektrix feed). CLOSE-UP: headless GOT THROUGH (no Cloudflare today!) but October programme still unpublished — listings end 30 Sep; retry late Sep. Rich Mix feed still degraded (10 future events). RETURNS WATCH: Golden Hinde sea-shanty singalong 21 Nov SOLD OUT (£17, eventbrite ...1988021048472) — watch returns. ACX STILL unposted (14 Sep; spring edition was Sat 23 May Newspeak — fall list historically late-Aug/Sep, overdue). Moth zero London. Skipped: 10 Cups £70 (cap). 'banya' keyword dead on Eventbrite."
+  },
+  {
     "ran_at": "2026-09-13T08:00:00+01:00",
     "added": 13,
     "considered": 204,
@@ -172,11 +178,5 @@
     "added": 23,
     "considered": 390,
     "notes": "Refreshes + November peek. Union Chapel FIXED (plain fetch works again) — added Robyn Hitchcock 10 Oct, Jake Xerxes Fussell + Naima Bock 14 Oct (standout folk bill), Tim Spector talk 19 Oct, Ezra Furman solo 26 Oct, Radie Peat (Lankum) 3 Nov; UC spares: Perfume Genius duo 27-28 Oct, Joan As Police Woman 5-6 Nov, Eddi Reader 15 Oct, The Slow Show 10 Nov. November opened: MOTH indie-folk week (Horse Jumper 2, Greg Mendez 3, Colin Miller/Told Slant 5, Kiwi Jr 6), Konradsen Shacklewell 2 Nov, PDV cheap bills 5 + 11 Nov (Aayushi), Vernon Spring SJQ night-two 4 Nov (announced status), MARIAM sings Amadou & Mariam 6 Nov + Emma-Jean Thackray Dear Miles 13 Nov at EartH, Ceroc 50:50 14 Nov. Thursday early-Sept x3 (Cocktail Club Shoreditch 10 Sep 5-min-away; pottery Battersea 8 Sep; Jamie Oliver dinner 9 Sep — DATE DISCREPANCY flagged on entry). Dandelion: Court of Cards masquerade 10 Oct, TRE workshop 27 Sep, Plot 9 album launch 3 Oct. Campaign Lab 19 Oct (+2/16/30 Nov later). WATCHLIST: ACX still not posted (recheck ~24 Aug); no Moth StorySLAM London; Ceroc POTY unlisted BUT found Ceroc Champs London 20-21 Nov Harrow (competition + freestyle parties — add if wanted); Auld Shillelagh Sept rota not up (recheck next week). DICE Nov spares logged in scout output."
-  },
-  {
-    "ran_at": "2026-08-15T08:00:00+01:00",
-    "added": 38,
-    "considered": 260,
-    "notes": "October fill — all 15 empty October days now covered. Added 38: verified DICE leads (GAÏA 7 Oct, free Pedestrian Band 13 Oct, Casper Walsh 13 Oct, free Vision Fortune 14 Oct, free Painting 29 Oct, Charlie Kilgore 7 Sep, Deeper Into Movies bday 6 Sep) with DATE CORRECTIONS: Jembaa Groove is Sun 11 Oct (not 13), Nick Hakim Wed 28 Oct (not 29). October circuit: Swim Deep 2 Oct, Terra Twin 8 Oct, M/X free + Kacy & Clayton 15 Oct, Shaemless free 18 Oct, Earth Tongue 21 Oct, NAMES farewell 23 Oct, Jump Cuts free 25 Oct, Marina Herlop 27 Oct, Flowers For The Dead free 30 Oct. Wilton's: INCENDIARY Pepys 8 Oct, Brief Case of Crazy 12-14 Oct, OneTrackMinds 19 Oct. Talks: Žižek 13 Oct RGS, 5x15 Kidron/Toksvig 14 Oct, Jung Chang 27 Oct, Ghibli ethics 28 Oct, Dan Jones 30 Oct. Hackney Empire: TWAWSI 20 Oct, Susan Calman 21 Oct, Henning Wehn 25 Oct, Jen Brister at EartH 23 Oct. Embodiment: EmboDAYfest all-day dance festival 17 Oct, Rick Nodine Mon 12 + Wed 14 Oct, Rose Lipman jam 19 Oct, constellations Kailash 8 Oct, partner breathwork retreat 18 Oct. Suzanne Ciani at EartH 12 Oct. SKIPPED: Tilda Maplestone 9 Sep SOLD OUT; BFI LFF closing gala 18 Oct (Jesse Eisenberg's The Debut — date real, time TBC; programme 2 Sep, booking 17 Sep — WATCHLIST). Union Chapel listing broken even headless (AJAX never fires) — retry. EDL October dances unpublished. Post-25-Oct entries use +00:00 (clocks change). Huge spares list in scout output incl. Dexys 27-28 Oct (£45-75), Goblin Band 31 Oct already in, Stoker Wilde musical 27-31 Oct, Bloomsbury Festival all month."
   }
 ]
