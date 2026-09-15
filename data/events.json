@@ -918,7 +918,7 @@
       "music"
     ],
     "price": "£45.32 (high — arena band in a 200-cap room)",
-    "description": "Newly announced: arena rockers The Darkness play a one-off in a ~200-cap Hackney workingmen's club — a rare intimate chance; will sell out instantly.",
+    "description": "Newly announced: arena rockers The Darkness play a one-off in a ~200-cap Hackney workingmen's club — a rare intimate chance; will sell out instantly. [NOW SOLD OUT at source, 15 Sep — returns only.]",
     "neighbourhood": "Hackney Central",
     "cycle_minutes": 12,
     "added": "2026-09-04"
@@ -958,6 +958,24 @@
     "neighbourhood": "Shoreditch",
     "cycle_minutes": 7,
     "added": "2026-09-01"
+  },
+  {
+    "title": "Sweetheart / Highstone / gallos gallos at The Victoria",
+    "start": "2026-09-17T19:30:00+01:00",
+    "end": "2026-09-17T23:00:00+01:00",
+    "venue": "The Victoria",
+    "address": "451 Queensbridge Road, London E8 3AS",
+    "url": "https://dice.fm/event/6aa02fa160c2660001aae4aa",
+    "source": "venue:dice-the-victoria",
+    "tags": [
+      "music"
+    ],
+    "price": "£7",
+    "description": "£7 indie triple bill at The Victoria — good fallback now The Darkness at MOTH (same night) has sold out.",
+    "neighbourhood": "Dalston",
+    "added": "2026-09-15T06:13:57Z",
+    "cycle_minutes": 12,
+    "id": "sweetheart-highstone-gallos-gallos-at-the-victoria-0b8155f0"
   },
   {
     "id": "open-house-bishopsgate-goodsyard-behind-the-hoarding-at-the--2f7700ca",
@@ -1107,6 +1125,24 @@
     "neighbourhood": "Liverpool Street",
     "cycle_minutes": 8,
     "added": "2026-08-18"
+  },
+  {
+    "title": "Chess night at SJQ (18 Sep)",
+    "start": "2026-09-18T19:00:00+01:00",
+    "end": "2026-09-18T22:00:00+01:00",
+    "venue": "Servant Jazz Quarters (SJQ)",
+    "address": "10A Bradbury Street, London N16 8JN",
+    "url": "https://dice.fm/event/6a9fd31f489a3e00019322e9",
+    "source": "venue:dice-sjq",
+    "tags": [
+      "community"
+    ],
+    "price": "TBC (cheap)",
+    "description": "Casual chess night at the Dalston jazz bar — boards out, all levels, sociable crowd. Also 25 Sep.",
+    "neighbourhood": "Dalston",
+    "added": "2026-09-15T06:13:57Z",
+    "cycle_minutes": 15,
+    "id": "chess-night-at-sjq-18-sep-f9db7946"
   },
   {
     "title": "Nish Kumar at Hackney Empire",
@@ -1430,6 +1466,24 @@
     "added": "2026-08-10"
   },
   {
+    "title": "Blousey + Pedestrian Band + Lazy Jane at The Shacklewell Arms",
+    "start": "2026-09-19T19:00:00+01:00",
+    "end": "2026-09-19T22:00:00+01:00",
+    "venue": "The Shacklewell Arms",
+    "address": "71 Shacklewell Lane, London E8 2EB",
+    "url": "https://dice.fm/event/6aa1374f3eb4ac000182e0e7",
+    "source": "venue:dice-shacklewell-arms",
+    "tags": [
+      "music"
+    ],
+    "price": "TBC (typically £5-15)",
+    "description": "Three-band new-music bill in the Shacklewell back room — cheap Saturday local option (alt to the Harrison folk festival).",
+    "neighbourhood": "Dalston",
+    "added": "2026-09-15T06:13:57Z",
+    "cycle_minutes": 13,
+    "id": "blousey-pedestrian-band-lazy-jane-at-the-shacklewell-arms-f8d16b0d"
+  },
+  {
     "id": "infinity-knives-brian-ennals-at-cafe-oto-8852a141",
     "title": "Infinity Knives & Brian Ennals at Cafe OTO",
     "start": "2026-09-19T19:30:00+01:00",
@@ -1608,7 +1662,7 @@
       "music"
     ],
     "price": "£15.40",
-    "description": "Intimate Japanese instrumental double bill in the tiny Servant Jazz Quarters room — a Sunday-evening alternative.",
+    "description": "Intimate Japanese instrumental double bill in the tiny Servant Jazz Quarters room — a Sunday-evening alternative. [NOW SOLD OUT at source, 15 Sep — returns only.]",
     "neighbourhood": "Dalston",
     "cycle_minutes": 15,
     "added": "2026-09-06T06:17:42Z",
@@ -1911,6 +1965,24 @@
     "added": "2026-08-09"
   },
   {
+    "title": "Autocamper at Sebright Arms",
+    "start": "2026-09-23T19:30:00+01:00",
+    "end": "2026-09-23T22:30:00+01:00",
+    "venue": "Sebright Arms",
+    "address": "31-35 Coate St, London E2 9AG",
+    "url": "https://dice.fm/event/6a9c4943a00d110001571362",
+    "source": "venue:dice-sebright-arms",
+    "tags": [
+      "music"
+    ],
+    "price": "TBC (typically £5-15)",
+    "description": "Autocamper headline the Sebright basement — promoted from the spares list.",
+    "neighbourhood": "Bethnal Green",
+    "added": "2026-09-15T06:13:57Z",
+    "cycle_minutes": 4,
+    "id": "autocamper-at-sebright-arms-97185322"
+  },
+  {
     "id": "carlo-rovelli-lessons-on-physics-and-philosophy-9af18cdb",
     "title": "Carlo Rovelli: Lessons on Physics and Philosophy",
     "start": "2026-09-24T18:00:00+01:00",
@@ -2150,6 +2222,24 @@
     "neighbourhood": "South Bank",
     "cycle_minutes": 30,
     "added": "2026-08-08"
+  },
+  {
+    "title": "Chess night at SJQ (25 Sep)",
+    "start": "2026-09-25T19:00:00+01:00",
+    "end": "2026-09-25T23:00:00+01:00",
+    "venue": "Servant Jazz Quarters (SJQ)",
+    "address": "10A Bradbury Street, London N16 8JN",
+    "url": "https://dice.fm/event/6a9fd3e4f022ae000176372d",
+    "source": "venue:dice-sjq",
+    "tags": [
+      "community"
+    ],
+    "price": "TBC (cheap)",
+    "description": "Second September chess night at SJQ — early-evening option before the 25 Sep swing/dance trio.",
+    "neighbourhood": "Dalston",
+    "added": "2026-09-15T06:13:57Z",
+    "cycle_minutes": 15,
+    "id": "chess-night-at-sjq-25-sep-99f583d8"
   },
   {
     "id": "ri-discourse-physics-and-philosophy-on-the-equality-of-all-t-b2fb7e54",
@@ -2820,6 +2910,24 @@
     "added": "2026-08-25"
   },
   {
+    "title": "Luc Rushmere at SJQ",
+    "start": "2026-09-27T19:00:00+01:00",
+    "end": "2026-09-27T22:15:00+01:00",
+    "venue": "Servant Jazz Quarters (SJQ)",
+    "address": "10A Bradbury Street, London N16 8JN",
+    "url": "https://dice.fm/event/6a9c2459dbebcf00012e0af1",
+    "source": "venue:dice-sjq",
+    "tags": [
+      "music"
+    ],
+    "price": "£11.33",
+    "description": "Singer-songwriter Luc Rushmere live at the intimate Dalston jazz spot.",
+    "neighbourhood": "Dalston",
+    "added": "2026-09-15T06:13:57Z",
+    "cycle_minutes": 15,
+    "id": "luc-rushmere-at-sjq-eb9e7249"
+  },
+  {
     "id": "samba-tour-songlines-encounters-at-kings-place-74afef60",
     "title": "Samba Touré — Songlines Encounters at Kings Place",
     "start": "2026-09-27T20:00:00+01:00",
@@ -3165,7 +3273,7 @@
       "comedy"
     ],
     "price": "£17.10",
-    "description": "Harry Hill headlines Knock2Bag under the glitter ceiling; he also has WIP nights there 23-25 Nov.",
+    "description": "Harry Hill headlines Knock2Bag under the glitter ceiling; he also has WIP nights there 23-25 Nov. [NOW SOLD OUT at source, 15 Sep — returns only.]",
     "neighbourhood": "Hackney Central",
     "cycle_minutes": 12,
     "added": "2026-08-27"
@@ -3206,6 +3314,24 @@
     "cycle_minutes": 12,
     "added": "2026-09-06T06:17:42Z",
     "id": "annabelle-chairlegs-at-paper-dress-vintage-1f5b19f9"
+  },
+  {
+    "title": "Ida The Young (CZ) + Dates For An Honest Mind at Sebright Arms",
+    "start": "2026-09-30T19:30:00+01:00",
+    "end": "2026-09-30T23:00:00+01:00",
+    "venue": "Sebright Arms",
+    "address": "31-35 Coate St, London E2 9AG",
+    "url": "https://dice.fm/event/6a9edc8e9c734500017efae3",
+    "source": "venue:dice-sebright-arms",
+    "tags": [
+      "music"
+    ],
+    "price": "TBC (typically £5-15)",
+    "description": "Czech act Ida The Young with Dates For An Honest Mind — third option on a busy 30 Sep (Beautiful Thing 35mm, Brick Lane supper club).",
+    "neighbourhood": "Bethnal Green",
+    "added": "2026-09-15T06:13:57Z",
+    "cycle_minutes": 4,
+    "id": "ida-the-young-cz-dates-for-an-honest-mind-at-sebright-arms-8b852efc"
   },
   {
     "id": "gresham-college-shakespearean-england-and-views-of-the-irish-d582b93b",
@@ -3501,6 +3627,24 @@
     "id": "only-real-at-the-old-blue-last-f872f803"
   },
   {
+    "title": "10a Sessions: Jali Bakary Konteh Trio at SJQ",
+    "start": "2026-10-02T19:30:00+01:00",
+    "end": "2026-10-02T23:30:00+01:00",
+    "venue": "Servant Jazz Quarters (SJQ)",
+    "address": "10A Bradbury Street, London N16 8JN",
+    "url": "https://dice.fm/event/6aa1560cf8c5bf0001585f5b",
+    "source": "venue:dice-sjq",
+    "tags": [
+      "music"
+    ],
+    "price": "£16.69",
+    "description": "Gambian kora master Jali Bakary Konteh with his trio — West African griot music up close. Standout on an already-busy 2 Oct.",
+    "neighbourhood": "Dalston",
+    "added": "2026-09-15T06:13:57Z",
+    "cycle_minutes": 15,
+    "id": "10a-sessions-jali-bakary-konteh-trio-at-sjq-ac19cb30"
+  },
+  {
     "id": "cacao-dance-tribe-friday-ecstatic-dance-cacao-october-opener-313d404c",
     "title": "Cacao Dance Tribe: Friday Ecstatic Dance & Cacao (October opener)",
     "start": "2026-10-02T19:45:00+01:00",
@@ -3662,7 +3806,7 @@
       "music"
     ],
     "price": "from £13.30",
-    "description": "Beloved Glasgow indie-pop band The Spook School play a reunion-era show in the 150-cap upstairs room.",
+    "description": "Beloved Glasgow indie-pop band The Spook School play a reunion-era show in the 150-cap upstairs room. [NOW SOLD OUT at source, 15 Sep — returns only.]",
     "neighbourhood": "Shoreditch",
     "cycle_minutes": 7,
     "added": "2026-08-27"
@@ -4091,6 +4235,42 @@
     "cycle_minutes": 12,
     "added": "2026-09-06T06:17:42Z",
     "id": "knock2bag-comedy-night-with-rose-matafeo-at-moth-club-3241534f"
+  },
+  {
+    "title": "Thursday: Asian Singles Night — Soho",
+    "start": "2026-10-07T19:00:00+01:00",
+    "end": "2026-10-07T23:00:00+01:00",
+    "venue": "Soho (venue on ticket)",
+    "address": "Soho, London W1",
+    "url": "https://www.thursday.com/events/london/wednesday-fitness-loving-singles-fulham-copy",
+    "source": "thursday-api",
+    "tags": [
+      "community"
+    ],
+    "price": "£12-18 adv (door £25)",
+    "description": "Thursday singles night celebrating London's Asian singles and everyone excited to meet them — mixed, open to all backgrounds, no age bracket.",
+    "neighbourhood": "Soho",
+    "added": "2026-09-15T06:13:57Z",
+    "cycle_minutes": 30,
+    "id": "thursday-asian-singles-night-soho-5b619c4a"
+  },
+  {
+    "title": "Thursday: Single Business Owners & Entrepreneurs — Monument",
+    "start": "2026-10-07T19:00:00+01:00",
+    "end": "2026-10-07T23:00:00+01:00",
+    "venue": "The Cocktail Club Monument",
+    "address": "Monument, City of London EC3",
+    "url": "https://www.thursday.com/events/london/wednesday-single-business-owners-entrepreneurs-notting-hill-copy-2",
+    "source": "thursday-api",
+    "tags": [
+      "community"
+    ],
+    "price": "£12-18 adv (door £25)",
+    "description": "Thursday's singles night for business owners and founders — explicitly not networking, just drinks among like-minded singles. Mixed, no age bracket. (Same night as Knock2Bag Rose Matafeo.)",
+    "neighbourhood": "City of London",
+    "added": "2026-09-15T06:13:57Z",
+    "cycle_minutes": 15,
+    "id": "thursday-single-business-owners-entrepreneurs-monument-0bd33f3e"
   },
   {
     "id": "spark-storytelling-open-mic-haunted-148d5b01",
@@ -4540,6 +4720,24 @@
     "added": "2026-09-02"
   },
   {
+    "title": "Thursday: Oktoberfest Singles Takeover — Clapham Common",
+    "start": "2026-10-10T11:00:00+01:00",
+    "end": "2026-10-10T16:00:00+01:00",
+    "venue": "Oktoberfest big top, Clapham Common",
+    "address": "Clapham Common, London SW4",
+    "url": "https://www.thursday.com/events/london/thursday-singles-oktoberfest-clapham",
+    "source": "thursday-api",
+    "tags": [
+      "community",
+      "festival"
+    ],
+    "price": "from £15",
+    "description": "250+ Thursday singles in a reserved VIP area at Oktoberfest: steins, oompah, singles Biergarten mingle 11:00-12:30 then reserved tables to 4pm. Saturday daytime; far southwest (tube) but a big one-off — evening still free for Frolik.",
+    "neighbourhood": "Clapham",
+    "added": "2026-09-15T06:13:57Z",
+    "id": "thursday-oktoberfest-singles-takeover-clapham-common-486e8bed"
+  },
+  {
     "id": "root-rise-master-plant-breathwork-live-soundscape-ecstatic-d-b4e169a4",
     "title": "Root & Rise: Master Plant Breathwork, Live Soundscape & Ecstatic Dance",
     "start": "2026-10-10T11:45:00+01:00",
@@ -4800,6 +4998,25 @@
     "added": "2026-08-10"
   },
   {
+    "title": "Thursday: 30+ Italian Aperitivo Singles Evening — Pimlico",
+    "start": "2026-10-11T17:00:00+01:00",
+    "end": "2026-10-11T21:00:00+01:00",
+    "venue": "Ben Venuti",
+    "address": "Pimlico, London SW1",
+    "url": "https://www.thursday.com/events/london/sunday-italian-aperitivo-singles-evening-pimlico-copy",
+    "source": "thursday-api",
+    "tags": [
+      "community",
+      "food"
+    ],
+    "price": "£15 + £20 on arrival (drink + Italian buffet)",
+    "description": "Whole-venue takeover of Italian spot Ben Venuti for 30+ singles: aperitivo drinks plus charcuterie/cheese buffet included. Sunday 5-9pm. (Alternative to the LFF Sunday picks.)",
+    "neighbourhood": "Pimlico",
+    "added": "2026-09-15T06:13:57Z",
+    "cycle_minutes": 40,
+    "id": "thursday-30-italian-aperitivo-singles-evening-pimlico-47692cca"
+  },
+  {
     "title": "LFF: Primetime (Lance Oppenheim on To Catch a Predator)",
     "start": "2026-10-11T18:00:00+01:00",
     "end": "2026-10-11T19:50:00+01:00",
@@ -4891,6 +5108,24 @@
     "cycle_minutes": 14,
     "added": "2026-09-06T06:17:42Z",
     "id": "soyuz-at-earth-79f89fc3"
+  },
+  {
+    "title": "A Very Special Episode at The Shacklewell Arms",
+    "start": "2026-10-11T19:30:00+01:00",
+    "end": "2026-10-11T22:30:00+01:00",
+    "venue": "The Shacklewell Arms",
+    "address": "71 Shacklewell Lane, London E8 2EB",
+    "url": "https://dice.fm/event/6a9adcad45540d00018581be",
+    "source": "venue:dice-shacklewell-arms",
+    "tags": [
+      "music"
+    ],
+    "price": "TBC (typically £5-15)",
+    "description": "US indie-rock band A Very Special Episode in the Shacklewell back room — another option on the busy LFF Sunday.",
+    "neighbourhood": "Dalston",
+    "added": "2026-09-15T06:13:57Z",
+    "cycle_minutes": 13,
+    "id": "a-very-special-episode-at-the-shacklewell-arms-06d976fa"
   },
   {
     "title": "LFF: Flies (Fernando Eimbcke)",
@@ -5007,6 +5242,24 @@
     "neighbourhood": "Whitechapel",
     "cycle_minutes": 10,
     "added": "2026-08-15"
+  },
+  {
+    "title": "Thursday: Singles Pub Quiz Night 24-35 at 21Soho (12 Oct)",
+    "start": "2026-10-12T19:00:00+01:00",
+    "end": "2026-10-12T22:00:00+01:00",
+    "venue": "21Soho",
+    "address": "3-5 Sutton Row, London W1D 4NR",
+    "url": "https://www.thursday.com/events/london/monday-singles-pub-quiz-night-soho-copy-3",
+    "source": "thursday-api",
+    "tags": [
+      "community"
+    ],
+    "price": "£15 (door £25)",
+    "description": "Singles pub quiz for 24-35s — solo-friendly, teams mixed on arrival. (Alternative to The Devils restoration same night.)",
+    "neighbourhood": "Soho",
+    "added": "2026-09-15T06:13:57Z",
+    "cycle_minutes": 30,
+    "id": "thursday-singles-pub-quiz-night-24-35-at-21soho-12-oct-c187d71a"
   },
   {
     "id": "gresham-college-the-science-of-puppetry-how-real-can-they-be-4bc6a419",
@@ -5867,6 +6120,25 @@
     "added": "2026-09-02"
   },
   {
+    "title": "Thursday: Singles Guided Tour at the British Museum",
+    "start": "2026-10-18T13:30:00+01:00",
+    "end": "2026-10-18T17:30:00+01:00",
+    "venue": "British Museum (Montague Place entrance)",
+    "address": "Montague Place, Bloomsbury, WC1E",
+    "url": "https://www.thursday.com/events/london/sunday-singles-museum-guided-tour-v-a-copy",
+    "source": "thursday-api",
+    "tags": [
+      "community",
+      "art"
+    ],
+    "price": "£20 (+£20-25 food after, optional)",
+    "description": "One-hour guided British Museum tour in groups of max 20 singles (slots 1:30/2:45/4:00pm), then optional food and drinks. Gender-balanced tickets. Culture+dating double-interest; fits before LFF closing gala evening.",
+    "neighbourhood": "Bloomsbury",
+    "added": "2026-09-15T06:13:57Z",
+    "cycle_minutes": 25,
+    "id": "thursday-singles-guided-tour-at-the-british-museum-dd323574"
+  },
+  {
     "title": "Sofie Hagen is going to be on stage talking — The Bill Murray",
     "start": "2026-10-18T19:00:00+01:00",
     "end": "2026-10-18T20:00:00+01:00",
@@ -6266,7 +6538,7 @@
       "music"
     ],
     "price": "from £13.46",
-    "description": "Norwich alt-country/folk-rock risers Brown Horse (Loose Music) — one of the best folk-adjacent picks on the October circuit.",
+    "description": "Norwich alt-country/folk-rock risers Brown Horse (Loose Music) — one of the best folk-adjacent picks on the October circuit. [NOW SOLD OUT at source, 15 Sep — returns only.]",
     "neighbourhood": "Hackney Central",
     "cycle_minutes": 12,
     "added": "2026-08-09"
@@ -7028,6 +7300,24 @@
     "id": "weird-walk-presents-samhain-ritual-2026-at-earth-afb63590"
   },
   {
+    "title": "Thursday: Halloween Singles Boat Party on the Thames",
+    "start": "2026-10-29T18:45:00+00:00",
+    "end": "2026-10-29T23:00:00+00:00",
+    "venue": "Thames boat, Tower Millennium Pier",
+    "address": "Tower Millennium Pier, London EC3N 4DT",
+    "url": "https://www.thursday.com/events/london/sunday-bank-holiday-boat-party-london-copy",
+    "source": "thursday-api",
+    "tags": [
+      "community"
+    ],
+    "price": "£28-35",
+    "description": "Hundreds of singles, DJs and dance floors on a Thames cruise past the skyline; costumes compulsory. Boat leaves 7:15pm SHARP (arrive 6:45). (Same night as the sauna speed dating — pick a dating lane.)",
+    "neighbourhood": "Tower Hill",
+    "added": "2026-09-15T06:13:57Z",
+    "cycle_minutes": 12,
+    "id": "thursday-halloween-singles-boat-party-on-the-thames-e4f39216"
+  },
+  {
     "title": "Formal Sppeedwear at MOTH Club",
     "start": "2026-10-29T19:00:00+00:00",
     "end": "2026-10-29T23:00:00+00:00",
@@ -7484,6 +7774,24 @@
     "id": "zzzahara-stay-in-nothing-at-the-victoria-d0383cf0"
   },
   {
+    "title": "Committee Of Sleep / Heart And Mouth / Perpetual Stew at The Old Blue Last",
+    "start": "2026-11-03T19:30:00+00:00",
+    "end": "2026-11-03T23:00:00+00:00",
+    "venue": "The Old Blue Last",
+    "address": "38 Great Eastern Street, London EC2A 3ES",
+    "url": "https://dice.fm/event/6aa153459313940001a23d88",
+    "source": "venue:dice-old-blue-last",
+    "tags": [
+      "music"
+    ],
+    "price": "£5",
+    "description": "£5 new-band night at the Old Blue Last — cheap alternative to zzzahara at the Victoria.",
+    "neighbourhood": "Shoreditch",
+    "added": "2026-09-15T06:13:57Z",
+    "cycle_minutes": 7,
+    "id": "committee-of-sleep-heart-and-mouth-perpetual-stew-at-the-old-9334803f"
+  },
+  {
     "id": "pitchfork-london-tortoise-bill-orcutt-at-hackney-church-f79ba520",
     "title": "Pitchfork London: Tortoise + Bill Orcutt at Hackney Church",
     "start": "2026-11-04T19:00:00+00:00",
@@ -7663,7 +7971,7 @@
       "music"
     ],
     "price": null,
-    "description": "Mariam Doumbia performs the beloved Malian blues-pop catalogue of Amadou & Mariam — a special Friday-night celebration.",
+    "description": "Mariam Doumbia performs the beloved Malian blues-pop catalogue of Amadou & Mariam — a special Friday-night celebration. [NOW SOLD OUT at source, 15 Sep — returns only.]",
     "neighbourhood": "Dalston",
     "cycle_minutes": 14,
     "added": "2026-08-16"
@@ -7978,6 +8286,42 @@
     "id": "sorcha-richardson-at-hoxton-hall-64e5b482"
   },
   {
+    "title": "Big Softy at The Shacklewell Arms",
+    "start": "2026-11-10T19:30:00+00:00",
+    "end": "2026-11-10T23:00:00+00:00",
+    "venue": "The Shacklewell Arms",
+    "address": "71 Shacklewell Lane, London E8 2EB",
+    "url": "https://dice.fm/event/6aa13e8a67b446000178095e",
+    "source": "venue:dice-shacklewell-arms",
+    "tags": [
+      "music"
+    ],
+    "price": "£14.18",
+    "description": "Big Softy live at the Shacklewell — one of three 10 Nov options (Sorcha Richardson Hoxton Hall, Cosima Suzanne SJQ).",
+    "neighbourhood": "Dalston",
+    "added": "2026-09-15T06:13:57Z",
+    "cycle_minutes": 13,
+    "id": "big-softy-at-the-shacklewell-arms-fc54ecca"
+  },
+  {
+    "title": "Cosima Suzanne at SJQ",
+    "start": "2026-11-10T19:30:00+00:00",
+    "end": "2026-11-10T23:00:00+00:00",
+    "venue": "Servant Jazz Quarters (SJQ)",
+    "address": "10A Bradbury Street, London N16 8JN",
+    "url": "https://dice.fm/event/6a81d7881247880001fefa54",
+    "source": "venue:dice-sjq",
+    "tags": [
+      "music"
+    ],
+    "price": "£9.36",
+    "description": "Cosima Suzanne live at SJQ — cheap intimate alternative on a three-option night.",
+    "neighbourhood": "Dalston",
+    "added": "2026-09-15T06:13:57Z",
+    "cycle_minutes": 15,
+    "id": "cosima-suzanne-at-sjq-edae78a6"
+  },
+  {
     "title": "Gresham College: Our Sun, Our Star — Chris Lintott (free)",
     "start": "2026-11-11T19:00:00+00:00",
     "end": "2026-11-11T20:00:00+00:00",
@@ -8117,7 +8461,7 @@
       "music"
     ],
     "price": null,
-    "description": "London jazz polymath Emma-Jean Thackray's tribute to Miles Davis, 'Dear Miles'.",
+    "description": "London jazz polymath Emma-Jean Thackray's tribute to Miles Davis, 'Dear Miles'. [NOW SOLD OUT at source, 15 Sep — returns only.]",
     "neighbourhood": "Dalston",
     "cycle_minutes": 14,
     "added": "2026-08-16"
@@ -8399,6 +8743,24 @@
     "added": "2026-08-21"
   },
   {
+    "title": "ANIQO / Love Supreme at SJQ",
+    "start": "2026-11-16T19:30:00+00:00",
+    "end": "2026-11-16T23:30:00+00:00",
+    "venue": "Servant Jazz Quarters (SJQ)",
+    "address": "10A Bradbury Street, London N16 8JN",
+    "url": "https://dice.fm/event/6a992ff0385b9100014db297",
+    "source": "venue:dice-sjq",
+    "tags": [
+      "music"
+    ],
+    "price": "£13.26",
+    "description": "ANIQO / Love Supreme at SJQ — alternative to Rheingans Sisters at Green Note same night.",
+    "neighbourhood": "Dalston",
+    "added": "2026-09-15T06:13:57Z",
+    "cycle_minutes": 15,
+    "id": "aniqo-love-supreme-at-sjq-38619b4e"
+  },
+  {
     "id": "crow-culture-at-vortex-efg-ljf-cheap-monday-d4050b45",
     "title": "Crow Culture at Vortex (EFG LJF — cheap Monday)",
     "start": "2026-11-16T19:45:00+00:00",
@@ -8524,6 +8886,24 @@
     "neighbourhood": "Hackney Central",
     "cycle_minutes": 12,
     "added": "2026-08-20"
+  },
+  {
+    "title": "The Wytches at Sebright Arms",
+    "start": "2026-11-18T19:30:00+00:00",
+    "end": "2026-11-18T23:00:00+00:00",
+    "venue": "Sebright Arms",
+    "address": "31-35 Coate St, London E2 9AG",
+    "url": "https://dice.fm/event/6aa08492243edc0001be8ee0",
+    "source": "venue:dice-sebright-arms",
+    "tags": [
+      "music"
+    ],
+    "price": "£13.30",
+    "description": "Brighton psych/surf-rock trio The Wytches headline the Sebright basement — big band, tiny room, four minutes away. (Same night as Why Pubs Matter at Conway Hall.)",
+    "neighbourhood": "Bethnal Green",
+    "added": "2026-09-15T06:13:57Z",
+    "cycle_minutes": 4,
+    "id": "the-wytches-at-sebright-arms-1a326883"
   },
   {
     "id": "ayanna-witter-johnson-at-93-feet-east-efg-ljf-9e0ce351",
@@ -9047,7 +9427,7 @@
       "music"
     ],
     "price": "£21.83",
-    "description": "Warrington art-pop/indie band mark ten years with a celebration show upstairs.",
+    "description": "Warrington art-pop/indie band mark ten years with a celebration show upstairs. [NOW SOLD OUT at source, 15 Sep — returns only.]",
     "neighbourhood": "Hackney Central",
     "added": "2026-08-22",
     "cycle_minutes": 12
@@ -9253,6 +9633,25 @@
     "neighbourhood": "King's Cross",
     "cycle_minutes": 30,
     "added": "2026-09-03"
+  },
+  {
+    "title": "Paper Dress' 19th Birthday: Fela Kuti celebration",
+    "start": "2026-11-28T19:30:00+00:00",
+    "end": "2026-11-29T03:00:00+00:00",
+    "venue": "Paper Dress Vintage",
+    "address": "352a Mare Street, E8 1HR",
+    "url": "https://dice.fm/event/6aa0318c2ca7f500015c6f24",
+    "source": "venue:dice-paper-dress-vintage",
+    "tags": [
+      "music",
+      "dance"
+    ],
+    "price": "£16.51",
+    "description": "Paper Dress Vintage's 19th birthday: live Afrobeat Fela Kuti celebration then DJs till 3am. (Different flavour from Scott Matthews same night.)",
+    "neighbourhood": "Hackney Central",
+    "added": "2026-09-15T06:13:57Z",
+    "cycle_minutes": 12,
+    "id": "paper-dress-19th-birthday-fela-kuti-celebration-26debf40"
   },
   {
     "title": "Genticorum at Kings Place",
@@ -10610,5 +11009,95 @@
     "cycle_minutes": 12,
     "added": "2026-09-12T06:20:45Z",
     "id": "ivw27-the-great-leslie-album-launch-at-paper-dress-vintage-9f9f103c"
+  },
+  {
+    "title": "knitting at The Shacklewell Arms",
+    "start": "2027-02-06T19:00:00+00:00",
+    "end": "2027-02-06T22:00:00+00:00",
+    "venue": "The Shacklewell Arms",
+    "address": "71 Shacklewell Lane, London E8 2EB",
+    "url": "https://dice.fm/event/6aa64842e4d71600014c99d8",
+    "source": "venue:dice-shacklewell-arms",
+    "tags": [
+      "music"
+    ],
+    "price": "£14.20",
+    "description": "Canadian indie-rockers knitting at the Shacklewell (Feb 2027).",
+    "neighbourhood": "Dalston",
+    "added": "2026-09-15T06:13:57Z",
+    "cycle_minutes": 13,
+    "id": "knitting-at-the-shacklewell-arms-cf32da7b"
+  },
+  {
+    "title": "The Tallest Man on Earth at EartH — night one",
+    "start": "2027-02-12T19:00:00+00:00",
+    "end": "2027-02-12T23:00:00+00:00",
+    "venue": "EartH",
+    "address": "11 Stoke Newington Rd, London N16 8BH",
+    "url": "https://dice.fm/event/6a9fe7e398c94b00016e5a27",
+    "source": "venue:dice-earth",
+    "tags": [
+      "music"
+    ],
+    "price": "£41.20 — sold out fast last time, book early",
+    "description": "The Tallest Man on Earth (Kristian Matsson) at EartH. Swedish folk troubadour; his last London run sold out quickly.",
+    "neighbourhood": "Dalston",
+    "added": "2026-09-15T06:13:57Z",
+    "cycle_minutes": 14,
+    "id": "the-tallest-man-on-earth-at-earth-night-one-ff46eb98"
+  },
+  {
+    "title": "The Tallest Man on Earth at EartH — night two",
+    "start": "2027-02-13T19:00:00+00:00",
+    "end": "2027-02-13T23:00:00+00:00",
+    "venue": "EartH",
+    "address": "11 Stoke Newington Rd, London N16 8BH",
+    "url": "https://dice.fm/event/6a9fe802e0affd00012bd882",
+    "source": "venue:dice-earth",
+    "tags": [
+      "music"
+    ],
+    "price": "£41.20 — sold out fast last time, book early",
+    "description": "Second night added for The Tallest Man on Earth at EartH.",
+    "neighbourhood": "Dalston",
+    "added": "2026-09-15T06:13:57Z",
+    "cycle_minutes": 14,
+    "id": "the-tallest-man-on-earth-at-earth-night-two-67551543"
+  },
+  {
+    "title": "António Zambujo at EartH",
+    "start": "2027-02-18T19:30:00+00:00",
+    "end": "2027-02-18T23:00:00+00:00",
+    "venue": "EartH",
+    "address": "11 Stoke Newington Rd, London N16 8BH",
+    "url": "https://dice.fm/event/6aa13058b9d4740001be3792",
+    "source": "venue:dice-earth",
+    "tags": [
+      "music"
+    ],
+    "price": "£31.57",
+    "description": "Portuguese fado star António Zambujo at EartH Theatre.",
+    "neighbourhood": "Dalston",
+    "added": "2026-09-15T06:13:57Z",
+    "cycle_minutes": 14,
+    "id": "ant-nio-zambujo-at-earth-0aed9006"
+  },
+  {
+    "title": "Sophie Hunger at MOTH Club",
+    "start": "2027-05-11T19:30:00+01:00",
+    "end": "2027-05-11T22:30:00+01:00",
+    "venue": "MOTH Club",
+    "address": "Old Trades Hall, Valette Street, E9 6NU",
+    "url": "https://dice.fm/event/6a9ae51783ecd900016691e1",
+    "source": "venue:dice-moth-club",
+    "tags": [
+      "music"
+    ],
+    "price": "£21",
+    "description": "Swiss art-pop songwriter Sophie Hunger at MOTH Club (May 2027) — long-horizon add.",
+    "neighbourhood": "Hackney Central",
+    "added": "2026-09-15T06:13:57Z",
+    "cycle_minutes": 12,
+    "id": "sophie-hunger-at-moth-club-a91a7ea7"
   }
 ]
