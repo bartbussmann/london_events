@@ -3394,26 +3394,6 @@ URL:https://dandelion.events/e/q0x8e
 LOCATION:Bonnington Cafe and Community Centre\, Vauxhall Grove\, SW8
 END:VEVENT
 BEGIN:VEVENT
-UID:lff-expanded-solwata-free-immersive-installation-0cd60fcf@london-event
- s
-DTSTAMP:20261010T100000Z
-DTSTART:20261010T100000Z
-DTEND:20261010T120000Z
-SUMMARY:LFF Expanded: Solwata — free immersive installation
-DESCRIPTION:Free immersive piece running in ~35-min sessions in the Atrium
-  across the festival\; sister piece Water Body runs at St Martin-in-the-F
- ields 3-6 Oct (£8-12).\nPrice: Free (session-ticketed from 17 Sep)\nhttp
- s://whatson.bfi.org.uk/lff/Online/default.asp?doWork::WScontent::loadArti
- cle=Load&BOparam::WScontent::loadArticle::article_id=4E65BAAD-856D-4788-A
- F02-F747272C073A&BOparam::WScontent::loadArticle::context_id=5F5FD73E-27B
- 8-44A3-8AED-CC0F5426596F
-URL:https://whatson.bfi.org.uk/lff/Online/default.asp?doWork::WScontent::l
- oadArticle=Load&BOparam::WScontent::loadArticle::article_id=4E65BAAD-856D
- -4788-AF02-F747272C073A&BOparam::WScontent::loadArticle::context_id=5F5FD
- 73E-27B8-44A3-8AED-CC0F5426596F
-LOCATION:BFI Southbank Atrium\, Belvedere Road\, South Bank\, SE1 8XT
-END:VEVENT
-BEGIN:VEVENT
 UID:thursday-oktoberfest-singles-takeover-clapham-common-486e8bed@london-e
  vents
 DTSTAMP:20261010T100000Z
@@ -3445,6 +3425,23 @@ DESCRIPTION:Saturday daytime journey of breathwork\, live soundscape and e
 URL:https://www.eventbrite.co.uk/e/root-rise-master-plant-breathwork-live-
  soundscape-ecstatic-dance-tickets-1997437418087
 LOCATION:Love Shack\, Arch 298\, 299 Cambridge Heath Road\, E2 9HA
+END:VEVENT
+BEGIN:VEVENT
+UID:lff-expanded-solwata-free-immersive-installation-0cd60fcf@london-event
+ s
+DTSTAMP:20261010T110000Z
+DTSTART:20261010T110000Z
+DTEND:20261010T200000Z
+SUMMARY:LFF Expanded: VR Lounge — Solwata (runs 7-18 Oct)
+DESCRIPTION:Now billed 'VR Lounge: Solwata' — ~25min immersive VR sessio
+ ns narrated by Mark Ruffalo\, bookable 12:00-21:00 daily 7-17 Oct (to 20:
+ 00 on 18 Oct)\, 15+. Corrected 16 Sep: earlier listing had wrong time\, p
+ rice and a dead URL.\nPrice: £6 weekday daytime / £8 evenings & weekend
+ s — NOT free as first listed\nhttps://whatson.bfi.org.uk/lff/Online/def
+ ault.asp?BOparam::WScontent::loadArticle::permalink=solwata-lff26
+URL:https://whatson.bfi.org.uk/lff/Online/default.asp?BOparam::WScontent::
+ loadArticle::permalink=solwata-lff26
+LOCATION:BFI Southbank Atrium\, Belvedere Road\, South Bank\, SE1 8XT
 END:VEVENT
 BEGIN:VEVENT
 UID:the-court-of-cards-esoteric-masquerade-at-limehouse-town-hal-7adb7224@
@@ -3488,10 +3485,11 @@ SUMMARY:LFF for Free: The Shape of Water — XR\, immersive art and enviro
  nmental storytelling
 DESCRIPTION:Free LFF panel on XR and immersive storytelling — stack with
   Musk (14:05) and the free Solwata installation the same Saturday.\nPrice
- : Free (ticketed from 17 Sep)\nhttps://whatson.bfi.org.uk/lff/Online/defa
- ult.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArtic
- le::article_id=03DCE517-0F2B-4788-B15C-DB73F6184E0B&BOparam::WScontent::l
- oadArticle::context_id=7E4AE6B8-D0E2-4411-AEDE-28F782E44ACB
+ : Free — booking opens Thu 1 Oct 10:00 (NOT the 17 Sep general sale)\; 
+ over-allocated\, first-come first-served\nhttps://whatson.bfi.org.uk/lff/
+ Online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent
+ ::loadArticle::article_id=03DCE517-0F2B-4788-B15C-DB73F6184E0B&BOparam::W
+ Scontent::loadArticle::context_id=7E4AE6B8-D0E2-4411-AEDE-28F782E44ACB
 URL:https://whatson.bfi.org.uk/lff/Online/default.asp?doWork::WScontent::l
  oadArticle=Load&BOparam::WScontent::loadArticle::article_id=03DCE517-0F2B
  -4788-B15C-DB73F6184E0B&BOparam::WScontent::loadArticle::context_id=7E4AE
@@ -3777,6 +3775,24 @@ DESCRIPTION:LOVE strand. Rinko Kikuchi as a widow rediscovering ballroom d
 URL:https://whatson.bfi.org.uk/lff/Online/default.asp?BOparam::WScontent::
  loadArticle::permalink=ha-chan-shake-your-booty-lff26
 LOCATION:Prince Charles Cinema\, 7 Leicester Place\, London WC2H 7BY
+END:VEVENT
+BEGIN:VEVENT
+UID:lff-artificial-luca-guadagnino-s-openai-drama-c0f4f2e0@london-events
+DTSTAMP:20261011T200000Z
+DTSTART:20261011T200000Z
+DTEND:20261011T220000Z
+SUMMARY:LFF: Artificial (Luca Guadagnino's OpenAI drama)
+DESCRIPTION:Late programme addition: Guadagnino's drama about the OpenAI/S
+ am Altman boardroom crisis — squarely in the AI-interest lane\, in the 
+ Royal Festival Hall. Chains after Once Upon a Time in Harlem (ends 20:00)
+ . Alts: 15 Oct 14:50 Vue\, 16 Oct 11:30 RFH (both daytime).\nPrice: £10-
+ £18 + £1 fee (general sale 17 Sep 10:00)\nhttps://whatson.bfi.org.uk/lf
+ f/Online/default.asp?BOparam::WScontent::loadArticle::permalink=artificia
+ l-lff26
+URL:https://whatson.bfi.org.uk/lff/Online/default.asp?BOparam::WScontent::
+ loadArticle::permalink=artificial-lff26
+LOCATION:Royal Festival Hall\, Southbank Centre\, Belvedere Rd\, London SE
+ 1 8XX
 END:VEVENT
 BEGIN:VEVENT
 UID:lff-ken-russell-s-the-devils-1971-restored-5dfe1e35@london-events

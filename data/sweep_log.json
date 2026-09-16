@@ -1,5 +1,11 @@
 [
   {
+    "ran_at": "2026-09-16T08:05:00+01:00",
+    "added": 1,
+    "considered": 28,
+    "notes": "PRE-BOOKING LFF VERIFICATION PASS (general sale TOMORROW Thu 17 Sep 10:00). All 25 LFF entries verified against live pages: 23 CONFIRMED exactly. 2 CORRECTED: Solwata is now 'VR Lounge' — 12:00-21:00 daily 7-18 Oct, £6/£8 NOT free, old article_id URL was dead (fixed to permalink); Shape of Water panel is free but books 1 OCT 10:00 not 17 Sep (first-come first-served). Nothing sold out at member stage visibly. ADDED: Artificial (Guadagnino's OpenAI/Sam Altman drama) 11 Oct 21:00 RFH — late programme addition, AI-interest standout, chains after Harlem; alts 15 Oct 14:50 + 16 Oct 11:30 daytime. Other late additions noted not added: Misty Green (Chris Rock), Inherit, Joy of Joys (Glazer 38min), Screen Talks Javier Bardem 11 Oct 10:30 + Robert Eggers 11 Oct 17:30. BOOKING PRIORITIES tomorrow 10:00: Cameron Winter, The Devils, Frank and Percy, Artificial (RFH big but Altman-curious crowd), Primetime IMAX. LFF-for-Free entries need NO action tomorrow. MOTH STORYSLAM FINALLY LISTED: London slams 12 Oct 'Magic' (ON SALE MON 21 SEP 8pm UK), 10 Nov 'Home for the Holidays' (on sale 20 Oct), 8 Dec 'Anything Goes' (on sale 17 Nov) — venue/time not yet shown; VERIFY AND ADD when sales open 21 Sep. ELIZA ROSE EartH 20 Nov: on sale FRI 18 SEP 10:00, from £21.94 — add Friday. ACX STILL unposted (16 Sep, latest post 14 Sep) — badly overdue now. r.jina.ai reader intermittently 401s our proxy IP; headless cleared BFI Cloudflare after retries."
+  },
+  {
     "ran_at": "2026-09-15T08:05:00+01:00",
     "added": 27,
     "considered": 527,
@@ -172,11 +178,5 @@
     "added": 17,
     "considered": 110,
     "notes": "Local-institutions pass (all first-time venues). Added 17: Kings Place x6 — folk programme swept (Jaywalkers 18 Sep, Samba Touré 27 Sep, Frankie Archer 1 Oct, Hajda Banda 8 Oct, Future Folk opener 17 Oct, Guardian Science Weekly AI live-pod 3 Sep; spares: Intelligence Squared Harding/Campbell 7 Sep, Martin Simpson 25 Sep); Hoxton Hall x2 (Sounds Impossible magic-play 8 Sep, Hidden Jazz Club 11 Sep — 1860s music hall 10 min away, also 20 Nov); SWING VEIN opened — Bishopsgate Institute x3 (beginner Swing Den 4 Sep £12, Swing Live w/ band 18 Sep, Lindy Hop in a day 27 Sep £45) + Some Like it Swing at Genesis 28 Aug; Genesis Poetry Slam 3 Sep (£1, monthly) + ALIEN w/ intro 10 Sep; Rio Cinema x3 (Doc'n Roll punk-docs Q&A 12 Sep, HAKEEM + Hak Baker acoustic 19 Sep, AUDITION 35mm w/ Kapadia 25 Sep). ICS: LISA AI Safety Careers Fair Sat 22 Aug kept (12:00 London). BLOCKED: Rich Mix Cloudflare persists; Close-Up went bot-challenged mid-sweep — Satantango 6-13 Sep, Cuadro negro 11 Sep, HK film fest 29 Sep have verified DATES but no times (re-sweep for times; 5 min away). SOLD OUT: Haley Heynderickx at Hoxton Hall 26-27 Aug (watch returns). Watchlist: ACX (~24 Aug), Auld Shillelagh Sept rota, Moth StorySLAM all still unpublished."
-  },
-  {
-    "ran_at": "2026-08-17T07:50:00+01:00",
-    "added": 20,
-    "considered": 140,
-    "notes": "Dance/embodiment refresh + bank holiday + verifications. Added 20: bank holiday — Altin Gün Proms debut at Royal Albert Hall 28 Aug (from £16), free St Kat's Floating Jazz closing weekend 28-30 Aug, Sunset Sessions open-air dance 28 Aug (+29th), SUN•DAY w/ guest DJ Jagua 30 Aug, LIDO Festival Victoria Park 31 Aug (£59.95+fees, doorstep exception, gate times TBC — placeholder noted), Tracey Emin FINAL DAY Tate Modern 31 Aug (open till 8pm); embodiment — circling drop-in 21 Aug, Evening Sessions dance 19 Aug, gong bath Liquid Movement 10 Sep, extended sound journey 24 Sep, Cacao Dance Tribe Friday 25 Sep, System Reset 1 Oct (EDL's first October date), Root & Rise breathwork+dance at Love Shack 10 Oct (3 min away), AR 5-principles workshop 16 Sep (Queen's Park, distance-flagged); Lexington x4 (Wild Pink 7 Sep, Luke Haines 18 Sep, Voxtrot 25 Sep, Kristin Hersh residency night one 23 Oct); Barbican verifications DONE — Zeteo launch 14 Sep 19:00 (Mehdi Hasan/Polanski), Nick Park 14 Oct 20:00. SKIPPED: All Points East final weekend (£117+, weak fit — noted); EDUK SUN•DAY 23 Aug/6 Sep/13 Sep (weekly series, not flooding). STILL WAITING: EDL October Saturdays, Auld Shillelagh Sept rota, ACX fall list, &Soul page JS-truncated. Lexington spares: Weird Nightmare 5 Sep, Holy Wave 8 Sep, Ruthie Foster 23 Sep, Penelope Isles 30 Oct."
   }
 ]

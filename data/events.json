@@ -4512,25 +4512,6 @@
     "added": "2026-08-31"
   },
   {
-    "id": "lff-expanded-solwata-free-immersive-installation-0cd60fcf",
-    "title": "LFF Expanded: Solwata — free immersive installation",
-    "start": "2026-10-10T11:00:00+01:00",
-    "end": null,
-    "venue": "BFI Southbank Atrium",
-    "address": "Belvedere Road, South Bank, SE1 8XT",
-    "url": "https://whatson.bfi.org.uk/lff/Online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=4E65BAAD-856D-4788-AF02-F747272C073A&BOparam::WScontent::loadArticle::context_id=5F5FD73E-27B8-44A3-8AED-CC0F5426596F",
-    "source": "festival:bfi-lff",
-    "tags": [
-      "art",
-      "film"
-    ],
-    "price": "Free (session-ticketed from 17 Sep)",
-    "description": "Free immersive piece running in ~35-min sessions in the Atrium across the festival; sister piece Water Body runs at St Martin-in-the-Fields 3-6 Oct (£8-12).",
-    "neighbourhood": "South Bank",
-    "cycle_minutes": 28,
-    "added": "2026-09-02"
-  },
-  {
     "title": "Thursday: Oktoberfest Singles Takeover — Clapham Common",
     "start": "2026-10-10T11:00:00+01:00",
     "end": "2026-10-10T16:00:00+01:00",
@@ -4566,6 +4547,25 @@
     "neighbourhood": "Bethnal Green",
     "cycle_minutes": 3,
     "added": "2026-08-17"
+  },
+  {
+    "id": "lff-expanded-solwata-free-immersive-installation-0cd60fcf",
+    "title": "LFF Expanded: VR Lounge — Solwata (runs 7-18 Oct)",
+    "start": "2026-10-10T12:00:00+01:00",
+    "end": "2026-10-10T21:00:00+01:00",
+    "venue": "BFI Southbank Atrium",
+    "address": "Belvedere Road, South Bank, SE1 8XT",
+    "url": "https://whatson.bfi.org.uk/lff/Online/default.asp?BOparam::WScontent::loadArticle::permalink=solwata-lff26",
+    "source": "festival:bfi-lff",
+    "tags": [
+      "art",
+      "film"
+    ],
+    "price": "£6 weekday daytime / £8 evenings & weekends — NOT free as first listed",
+    "description": "Now billed 'VR Lounge: Solwata' — ~25min immersive VR sessions narrated by Mark Ruffalo, bookable 12:00-21:00 daily 7-17 Oct (to 20:00 on 18 Oct), 15+. Corrected 16 Sep: earlier listing had wrong time, price and a dead URL.",
+    "neighbourhood": "South Bank",
+    "cycle_minutes": 28,
+    "added": "2026-09-02"
   },
   {
     "id": "the-court-of-cards-esoteric-masquerade-at-limehouse-town-hal-7adb7224",
@@ -4618,7 +4618,7 @@
       "talk",
       "tech"
     ],
-    "price": "Free (ticketed from 17 Sep)",
+    "price": "Free — booking opens Thu 1 Oct 10:00 (NOT the 17 Sep general sale); over-allocated, first-come first-served",
     "description": "Free LFF panel on XR and immersive storytelling — stack with Musk (14:05) and the free Solwata installation the same Saturday.",
     "neighbourhood": "South Bank",
     "cycle_minutes": 28,
@@ -4977,6 +4977,26 @@
     "cycle_minutes": 30,
     "added": "2026-09-10T06:16:24Z",
     "id": "lff-ha-chan-shake-your-booty-ballroom-crowd-pleaser-a0c48dec"
+  },
+  {
+    "title": "LFF: Artificial (Luca Guadagnino's OpenAI drama)",
+    "start": "2026-10-11T21:00:00+01:00",
+    "end": "2026-10-11T23:00:00+01:00",
+    "venue": "Royal Festival Hall",
+    "address": "Southbank Centre, Belvedere Rd, London SE1 8XX",
+    "url": "https://whatson.bfi.org.uk/lff/Online/default.asp?BOparam::WScontent::loadArticle::permalink=artificial-lff26",
+    "source": "lff:whatson.bfi.org.uk",
+    "tags": [
+      "film",
+      "festival",
+      "tech"
+    ],
+    "price": "£10-£18 + £1 fee (general sale 17 Sep 10:00)",
+    "description": "Late programme addition: Guadagnino's drama about the OpenAI/Sam Altman boardroom crisis — squarely in the AI-interest lane, in the Royal Festival Hall. Chains after Once Upon a Time in Harlem (ends 20:00). Alts: 15 Oct 14:50 Vue, 16 Oct 11:30 RFH (both daytime).",
+    "neighbourhood": "South Bank",
+    "cycle_minutes": 28,
+    "added": "2026-09-16T06:33:22Z",
+    "id": "lff-artificial-luca-guadagnino-s-openai-drama-c0f4f2e0"
   },
   {
     "title": "LFF: Ken Russell's The Devils (1971) — restored",
