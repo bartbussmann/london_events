@@ -3901,6 +3901,24 @@
     "id": "thursday-single-business-owners-entrepreneurs-monument-0bd33f3e"
   },
   {
+    "title": "for colored girls... — The Yard's new Hackney Wick venue",
+    "start": "2026-10-07T19:00:00+01:00",
+    "end": "2026-10-07T20:30:00+01:00",
+    "venue": "The Yard Theatre",
+    "address": "The Yard Theatre (new venue), Hackney Wick, London E9",
+    "url": "https://www.theyardtheatre.co.uk/events/for-colored-girls",
+    "source": "venue:the-yard",
+    "tags": [
+      "theatre"
+    ],
+    "price": "From £10 (+£2.50 fee); £5 under-27 door",
+    "description": "50th-anniversary revival of Ntozake Shange's choreopoem, directed by Diane Page with music by Jammz — opening-season show at the Yard's brand-new building. Runs to 17 Oct, Mon-Sat 7pm; some performances sold out, book soon. Representative Wednesday listed.",
+    "neighbourhood": "Hackney Wick",
+    "cycle_minutes": 15,
+    "added": "2026-09-17T06:13:45Z",
+    "id": "for-colored-girls-the-yard-s-new-hackney-wick-venue-7020bb13"
+  },
+  {
     "id": "spark-storytelling-open-mic-haunted-148d5b01",
     "title": "Spark Storytelling Open Mic — 'Haunted'",
     "start": "2026-10-07T19:30:00+01:00",
@@ -4103,6 +4121,25 @@
     "neighbourhood": "King's Cross",
     "cycle_minutes": 30,
     "added": "2026-08-18"
+  },
+  {
+    "title": "The Cocoa Butter Club — late cabaret at The Yard",
+    "start": "2026-10-08T21:30:00+01:00",
+    "end": "2026-10-08T23:00:00+01:00",
+    "venue": "The Yard Theatre",
+    "address": "The Yard Theatre (new venue), Hackney Wick, London E9",
+    "url": "https://www.theyardtheatre.co.uk/events/cocoa-butter-club",
+    "source": "venue:the-yard",
+    "tags": [
+      "theatre",
+      "community"
+    ],
+    "price": "From £10 (+£2.50 fee); £5 under-27 door",
+    "description": "Award-winning cabaret showcasing performers of colour — burlesque, drag, circus and song. Runs 1-16 Oct, Thu-Fri only, 9:30pm — late enough to chain after the 8 Oct earlier options.",
+    "neighbourhood": "Hackney Wick",
+    "cycle_minutes": 15,
+    "added": "2026-09-17T06:13:45Z",
+    "id": "the-cocoa-butter-club-late-cabaret-at-the-yard-34aea2ba"
   },
   {
     "title": "Mark Fry performs Dreaming with Alice at EartH",
@@ -5429,6 +5466,25 @@
     "cycle_minutes": 4,
     "added": "2026-09-06T06:17:42Z",
     "id": "cowz-at-sebright-arms-16b2fc91"
+  },
+  {
+    "title": "Gluck: Orpheus and Eurydice — English Touring Opera at Hackney Empire",
+    "start": "2026-10-16T19:30:00+01:00",
+    "end": "2026-10-16T22:15:00+01:00",
+    "venue": "Hackney Empire",
+    "address": "291 Mare Street, London E8 1EJ",
+    "url": "https://www.hackneyempire.co.uk/events/gluck-orpheus-and-eurydice",
+    "source": "venue:hackney-empire",
+    "tags": [
+      "music",
+      "theatre"
+    ],
+    "price": "£10-£45 (+£1.50 fee); £10 all students",
+    "description": "One-night contemporary retelling of Gluck's Orpheus myth — composer Leo Grant blends the classical score with electronic arrangements. 2h45 incl. interval. Cheap way into opera, twelve minutes away. (16 Oct is stacked: Ben Whishaw at the Rio, Sumo doc, COWZ.)",
+    "neighbourhood": "Hackney Central",
+    "cycle_minutes": 12,
+    "added": "2026-09-17T06:13:45Z",
+    "id": "gluck-orpheus-and-eurydice-english-touring-opera-at-hackney--eb23b6a8"
   },
   {
     "id": "cacao-dance-tribe-friday-ecstatic-dance-cacao-16-oct-545a6cac",
@@ -6801,6 +6857,24 @@
     "id": "an-evening-with-fran-lebowitz-in-conversation-with-erica-wag-74ee3293"
   },
   {
+    "title": "Dexys Midnight Runners at Hackney Empire",
+    "start": "2026-10-27T19:30:00+00:00",
+    "end": "2026-10-27T22:30:00+00:00",
+    "venue": "Hackney Empire",
+    "address": "291 Mare Street, London E8 1EJ",
+    "url": "https://www.hackneyempire.co.uk/events/dexys-midnight-runners",
+    "source": "venue:hackney-empire",
+    "tags": [
+      "music"
+    ],
+    "price": "£45-£75 (+£1.50 fee) — entry tier within cap, top tiers over",
+    "description": "Kevin Rowland's first UK tour under the Dexys Midnight Runners name since 2003; two nights 27-28 Oct. NOTE: start time TBC on venue page — 19:30 assumed, confirm when booking. (Same night as Fran Lebowitz.)",
+    "neighbourhood": "Hackney Central",
+    "cycle_minutes": 12,
+    "added": "2026-09-17T06:13:45Z",
+    "id": "dexys-midnight-runners-at-hackney-empire-d3cfe363"
+  },
+  {
     "id": "ethical-matters-ghibli-and-goodness-at-conway-hall-bc5f7a1e",
     "title": "Ethical Matters: Ghibli and Goodness at Conway Hall",
     "start": "2026-10-28T18:30:00+00:00",
@@ -6908,6 +6982,24 @@
     "cycle_minutes": 14,
     "added": "2026-09-07T06:21:08Z",
     "id": "craig-taborn-peter-evans-at-vortex-jazz-club-2-shows-d51af3c3"
+  },
+  {
+    "title": "Girls by Theresa Ikoko — Young Vic Maria Studio",
+    "start": "2026-10-28T19:30:00+00:00",
+    "end": "2026-10-28T21:30:00+00:00",
+    "venue": "Young Vic",
+    "address": "66 The Cut, Waterloo, London SE1 8LZ",
+    "url": "https://www.youngvic.org/whats-on/girls",
+    "source": "venue:young-vic",
+    "tags": [
+      "theatre"
+    ],
+    "price": "From ~£26 via agents; likely cheaper direct",
+    "description": "Theresa Ikoko's play about three friends kidnapped in Nigeria in 2014, directed by JMK Award winner Ewa Dina. Runs 22 Oct-21 Nov; under-100-seat studio, will sell fast. Time assumed 19:30 (site Cloudflare-walled — confirm direct).",
+    "neighbourhood": "Waterloo",
+    "cycle_minutes": 30,
+    "added": "2026-09-17T06:13:45Z",
+    "id": "girls-by-theresa-ikoko-young-vic-maria-studio-fb9b385d"
   },
   {
     "id": "training-ground-4-day-contact-improvisation-intensive-rick-n-bd8ce8ed",
@@ -7440,6 +7532,24 @@
     "id": "committee-of-sleep-heart-and-mouth-perpetual-stew-at-the-old-9334803f"
   },
   {
+    "title": "Lenny Henry: Still at Large — Hackney Empire",
+    "start": "2026-11-03T19:30:00+00:00",
+    "end": "2026-11-03T21:20:00+00:00",
+    "venue": "Hackney Empire",
+    "address": "291 Mare Street, London E8 1EJ",
+    "url": "https://www.hackneyempire.co.uk/events/lenny-henry-still-at-large",
+    "source": "venue:hackney-empire",
+    "tags": [
+      "comedy"
+    ],
+    "price": "£31-£44.50 (+£1.50 fee)",
+    "description": "One-off evening of stand-up, storytelling and conversation as Lenny Henry looks back over five decades. 1h50 incl. interval.",
+    "neighbourhood": "Hackney Central",
+    "cycle_minutes": 12,
+    "added": "2026-09-17T06:13:45Z",
+    "id": "lenny-henry-still-at-large-hackney-empire-7aeb0736"
+  },
+  {
     "id": "pitchfork-london-tortoise-bill-orcutt-at-hackney-church-f79ba520",
     "title": "Pitchfork London: Tortoise + Bill Orcutt at Hackney Church",
     "start": "2026-11-04T19:00:00+00:00",
@@ -7587,6 +7697,25 @@
     "neighbourhood": "Hackney Central",
     "cycle_minutes": 12,
     "added": "2026-08-16"
+  },
+  {
+    "title": "Good Sex — Dead Centre & Emilie Pine at Battersea Arts Centre",
+    "start": "2026-11-05T19:30:00+00:00",
+    "end": "2026-11-05T20:40:00+00:00",
+    "venue": "Battersea Arts Centre",
+    "address": "Lavender Hill, London SW11 5TN",
+    "url": "https://bac.org.uk/whats-on/good-sex/",
+    "source": "venue:bac",
+    "tags": [
+      "theatre",
+      "community"
+    ],
+    "price": "Pay What You Can (recommended £25, +£2 fee)",
+    "description": "Two strangers perform together each night with no rehearsal or script, guided by an on-stage Intimacy Director — desire, loneliness and consent, five-star reviews. Runs 4-6 Nov, 70 min. Battersea is a trek (flagged) but this is squarely the relational/authentic-relating lane — exceptional fit.",
+    "neighbourhood": "Battersea",
+    "cycle_minutes": 50,
+    "added": "2026-09-17T06:13:45Z",
+    "id": "good-sex-dead-centre-emilie-pine-at-battersea-arts-centre-cdcce166"
   },
   {
     "id": "siobhan-miller-band-at-kings-place-0c36a78d",
@@ -8040,6 +8169,25 @@
     "neighbourhood": "Shoreditch",
     "cycle_minutes": 7,
     "added": "2026-08-30"
+  },
+  {
+    "title": "SQUID: A Victim Impact Statement — Arcola Studio 2 (+ Q&A)",
+    "start": "2026-11-12T19:00:00+00:00",
+    "end": "2026-11-12T20:20:00+00:00",
+    "venue": "Arcola Theatre",
+    "address": "24 Ashwin Street, Dalston, London E8 3DL",
+    "url": "https://www.arcolatheatre.com/event/squid-a-victim-impact-statement/",
+    "source": "venue:arcola",
+    "tags": [
+      "theatre",
+      "music"
+    ],
+    "price": "~£15-£30 (Arcola norms; not published yet)",
+    "description": "Johnny Daukes' one-man show mixing live music, humour and storytelling about discovering his own songs and films had documented suppressed childhood abuse. Short run 11-14 Nov; Thursday includes post-show Q&A. Heavy themes, very local.",
+    "neighbourhood": "Dalston",
+    "cycle_minutes": 14,
+    "added": "2026-09-17T06:13:45Z",
+    "id": "squid-a-victim-impact-statement-arcola-studio-2-q-a-b9fbeff8"
   },
   {
     "id": "ryan-young-louis-campbell-at-cecil-sharp-house-003fa60f",
@@ -8518,6 +8666,24 @@
     "added": "2026-08-25"
   },
   {
+    "title": "The Ugly One (preview) — Arcola Studio 2",
+    "start": "2026-11-18T19:00:00+00:00",
+    "end": "2026-11-18T20:00:00+00:00",
+    "venue": "Arcola Theatre",
+    "address": "24 Ashwin Street, Dalston, London E8 3DL",
+    "url": "https://www.arcolatheatre.com/event/the-ugly-one/",
+    "source": "venue:arcola",
+    "tags": [
+      "theatre"
+    ],
+    "price": "~£15-£30 (previews reduced; Pay-What-You-Can Tuesdays)",
+    "description": "Marius von Mayenburg's razor-sharp 60-minute satire on beauty and identity, dir. Ramin Gray. Runs 17 Nov-19 Dec, Mon-Thu 7pm. Wednesday preview proposed — cheaper, press-night-adjacent. (Same night as The Wytches + Why Pubs Matter.)",
+    "neighbourhood": "Dalston",
+    "cycle_minutes": 14,
+    "added": "2026-09-17T06:13:45Z",
+    "id": "the-ugly-one-preview-arcola-studio-2-3b6c8089"
+  },
+  {
     "id": "deeper-cuts-nan-rizinni-at-paper-dress-vintage-efg-london-ja-f55cb2e8",
     "title": "Deeper Cuts: Naná Rizinni at Paper Dress Vintage (EFG London Jazz Festival)",
     "start": "2026-11-18T19:30:00+00:00",
@@ -8644,6 +8810,24 @@
     "added": "2026-09-04"
   },
   {
+    "title": "Desire Under the Elms — Almeida Theatre",
+    "start": "2026-11-19T19:30:00+00:00",
+    "end": "2026-11-19T22:00:00+00:00",
+    "venue": "Almeida Theatre",
+    "address": "Almeida Street, Islington, London N1 1TA",
+    "url": "https://almeida.co.uk/whats-on/desire-under-the-elms/",
+    "source": "venue:almeida",
+    "tags": [
+      "theatre"
+    ],
+    "price": "~£10-£55 (Almeida norms; not listed yet)",
+    "description": "Ebenezer Bamgboye directs Eugene O'Neill's Greek-tragedy-inflected farm drama, with Zackary Momoh. Runs 10 Nov-23 Dec, 7:30pm. Week-two Thursday proposed. The Almeida's Golden Boy sold out its whole run — expect demand. (Czerski Gresham lecture 18:00 could chain before.)",
+    "neighbourhood": "Islington",
+    "cycle_minutes": 20,
+    "added": "2026-09-17T06:13:45Z",
+    "id": "desire-under-the-elms-almeida-theatre-099ebf43"
+  },
+  {
     "id": "c-ras-trio-at-vortex-jazz-club-efg-ljf-49e64c5e",
     "title": "Córas Trio at Vortex Jazz Club (EFG LJF)",
     "start": "2026-11-19T19:45:00+00:00",
@@ -8679,6 +8863,25 @@
     "added": "2026-09-14T06:12:50Z",
     "cycle_minutes": 40,
     "id": "bufo-bufo-supper-club-at-dovedales-peckham-7733056a"
+  },
+  {
+    "title": "Eliza Rose live (full band) at EartH",
+    "start": "2026-11-20T19:00:00+00:00",
+    "end": "2026-11-20T22:00:00+00:00",
+    "venue": "EartH",
+    "address": "11 Stoke Newington Rd, London N16 8BH",
+    "url": "https://earthackney.co.uk/performers/eliza-rose/",
+    "source": "venue:earth",
+    "tags": [
+      "music",
+      "dance"
+    ],
+    "price": "TBA — GENERAL SALE FRI 18 SEP 10:00, book fast",
+    "description": "Debut UK live-band tour from the 'B.O.T.A.' vocalist/DJ — Rose on bass for parts of the set. Date verified; time TBC (19:00 doors assumed). Pre-sale opened 17 Sep; general sale tomorrow morning, likely to go quickly.",
+    "neighbourhood": "Dalston",
+    "cycle_minutes": 14,
+    "added": "2026-09-17T06:13:45Z",
+    "id": "eliza-rose-live-full-band-at-earth-cc872fef"
   },
   {
     "id": "jimi-tenor-band-two-day-residency-at-cafe-oto-860397aa",
@@ -8988,6 +9191,24 @@
     "cycle_minutes": 14,
     "added": "2026-09-07T06:21:08Z",
     "id": "kse-savannah-harris-mette-rasmussen-val-jeanty-petter-eldh-a-f137ca85"
+  },
+  {
+    "title": "Eurotrash — Ben Whishaw & Kathryn Hunter at the Young Vic",
+    "start": "2026-11-24T19:30:00+00:00",
+    "end": "2026-11-24T21:45:00+00:00",
+    "venue": "Young Vic",
+    "address": "66 The Cut, Waterloo, London SE1 8LZ",
+    "url": "https://www.youngvic.org/whats-on/eurotrash",
+    "source": "venue:young-vic",
+    "tags": [
+      "theatre"
+    ],
+    "price": "From ~£30",
+    "description": "English-language premiere of Christian Kracht's cult novel: a mother and son on a chaotic road trip through the Swiss Alps — Ben Whishaw and Kathryn Hunter. Runs 13 Nov-9 Jan; starry cast, will sell fast. Time assumed 19:30 (confirm direct). (Same night as Harry Hill WIP + ØKSE.)",
+    "neighbourhood": "Waterloo",
+    "cycle_minutes": 30,
+    "added": "2026-09-17T06:13:45Z",
+    "id": "eurotrash-ben-whishaw-kathryn-hunter-at-the-young-vic-e011a1a8"
   },
   {
     "id": "ibibio-sound-machine-at-islington-assembly-hall-6b134004",

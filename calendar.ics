@@ -2924,6 +2924,23 @@ URL:https://www.thursday.com/events/london/wednesday-single-business-owner
 LOCATION:The Cocktail Club Monument\, Monument\, City of London EC3
 END:VEVENT
 BEGIN:VEVENT
+UID:for-colored-girls-the-yard-s-new-hackney-wick-venue-7020bb13@london-ev
+ ents
+DTSTAMP:20261007T180000Z
+DTSTART:20261007T180000Z
+DTEND:20261007T193000Z
+SUMMARY:for colored girls... — The Yard's new Hackney Wick venue
+DESCRIPTION:50th-anniversary revival of Ntozake Shange's choreopoem\, dire
+ cted by Diane Page with music by Jammz — opening-season show at the Yar
+ d's brand-new building. Runs to 17 Oct\, Mon-Sat 7pm\; some performances 
+ sold out\, book soon. Representative Wednesday listed.\nPrice: From £10 
+ (+£2.50 fee)\; £5 under-27 door\nhttps://www.theyardtheatre.co.uk/event
+ s/for-colored-girls
+URL:https://www.theyardtheatre.co.uk/events/for-colored-girls
+LOCATION:The Yard Theatre\, The Yard Theatre (new venue)\, Hackney Wick\, 
+ London E9
+END:VEVENT
+BEGIN:VEVENT
 UID:spark-storytelling-open-mic-haunted-148d5b01@london-events
 DTSTAMP:20261007T183000Z
 DTSTART:20261007T183000Z
@@ -3078,6 +3095,21 @@ DESCRIPTION:Belarusian-Polish band playing traditional dance music of the
 URL:https://www.kingsplace.co.uk/whats-on/folk/hajda-banda-seated-standing
  -event/
 LOCATION:Kings Place\, 90 York Way\, London N1 9AG
+END:VEVENT
+BEGIN:VEVENT
+UID:the-cocoa-butter-club-late-cabaret-at-the-yard-34aea2ba@london-events
+DTSTAMP:20261008T203000Z
+DTSTART:20261008T203000Z
+DTEND:20261008T220000Z
+SUMMARY:The Cocoa Butter Club — late cabaret at The Yard
+DESCRIPTION:Award-winning cabaret showcasing performers of colour — burl
+ esque\, drag\, circus and song. Runs 1-16 Oct\, Thu-Fri only\, 9:30pm —
+  late enough to chain after the 8 Oct earlier options.\nPrice: From £10 
+ (+£2.50 fee)\; £5 under-27 door\nhttps://www.theyardtheatre.co.uk/event
+ s/cocoa-butter-club
+URL:https://www.theyardtheatre.co.uk/events/cocoa-butter-club
+LOCATION:The Yard Theatre\, The Yard Theatre (new venue)\, Hackney Wick\, 
+ London E9
 END:VEVENT
 BEGIN:VEVENT
 UID:mark-fry-performs-dreaming-with-alice-at-earth-ae8a53a7@london-events
@@ -4132,6 +4164,23 @@ DESCRIPTION:Fuzzy indie-rockers COWZ in the Sebright basement — cheap Fr
  2cc5f4f000118efc7
 URL:https://dice.fm/event/6a687972cc5f4f000118efc7
 LOCATION:Sebright Arms\, 31-35 Coate St\, London E2 9AG
+END:VEVENT
+BEGIN:VEVENT
+UID:gluck-orpheus-and-eurydice-english-touring-opera-at-hackney--eb23b6a8@
+ london-events
+DTSTAMP:20261016T183000Z
+DTSTART:20261016T183000Z
+DTEND:20261016T211500Z
+SUMMARY:Gluck: Orpheus and Eurydice — English Touring Opera at Hackney E
+ mpire
+DESCRIPTION:One-night contemporary retelling of Gluck's Orpheus myth — c
+ omposer Leo Grant blends the classical score with electronic arrangements
+ . 2h45 incl. interval. Cheap way into opera\, twelve minutes away. (16 Oc
+ t is stacked: Ben Whishaw at the Rio\, Sumo doc\, COWZ.)\nPrice: £10-£4
+ 5 (+£1.50 fee)\; £10 all students\nhttps://www.hackneyempire.co.uk/even
+ ts/gluck-orpheus-and-eurydice
+URL:https://www.hackneyempire.co.uk/events/gluck-orpheus-and-eurydice
+LOCATION:Hackney Empire\, 291 Mare Street\, London E8 1EJ
 END:VEVENT
 BEGIN:VEVENT
 UID:cacao-dance-tribe-friday-ecstatic-dance-cacao-16-oct-545a6cac@london-e
@@ -5192,6 +5241,20 @@ URL:https://www.fane.co.uk/fran-lebowitz
 LOCATION:Barbican Hall\, Barbican Centre\, Silk St\, London EC2Y 8DS
 END:VEVENT
 BEGIN:VEVENT
+UID:dexys-midnight-runners-at-hackney-empire-d3cfe363@london-events
+DTSTAMP:20261027T193000Z
+DTSTART:20261027T193000Z
+DTEND:20261027T223000Z
+SUMMARY:Dexys Midnight Runners at Hackney Empire
+DESCRIPTION:Kevin Rowland's first UK tour under the Dexys Midnight Runners
+  name since 2003\; two nights 27-28 Oct. NOTE: start time TBC on venue pa
+ ge — 19:30 assumed\, confirm when booking. (Same night as Fran Lebowitz
+ .)\nPrice: £45-£75 (+£1.50 fee) — entry tier within cap\, top tiers 
+ over\nhttps://www.hackneyempire.co.uk/events/dexys-midnight-runners
+URL:https://www.hackneyempire.co.uk/events/dexys-midnight-runners
+LOCATION:Hackney Empire\, 291 Mare Street\, London E8 1EJ
+END:VEVENT
+BEGIN:VEVENT
 UID:ethical-matters-ghibli-and-goodness-at-conway-hall-bc5f7a1e@london-eve
  nts
 DTSTAMP:20261028T183000Z
@@ -5272,6 +5335,20 @@ DESCRIPTION:Two of the most acclaimed improvisers alive — pianist Craig
 URL:https://www.universe.com/events/craig-taborn-peter-evans-2-shows-ticke
  ts-17KP48
 LOCATION:Vortex Jazz Club\, 11 Gillett Square\, Dalston\, N16 8AZ
+END:VEVENT
+BEGIN:VEVENT
+UID:girls-by-theresa-ikoko-young-vic-maria-studio-fb9b385d@london-events
+DTSTAMP:20261028T193000Z
+DTSTART:20261028T193000Z
+DTEND:20261028T213000Z
+SUMMARY:Girls by Theresa Ikoko — Young Vic Maria Studio
+DESCRIPTION:Theresa Ikoko's play about three friends kidnapped in Nigeria 
+ in 2014\, directed by JMK Award winner Ewa Dina. Runs 22 Oct-21 Nov\; und
+ er-100-seat studio\, will sell fast. Time assumed 19:30 (site Cloudflare-
+ walled — confirm direct).\nPrice: From ~£26 via agents\; likely cheape
+ r direct\nhttps://www.youngvic.org/whats-on/girls
+URL:https://www.youngvic.org/whats-on/girls
+LOCATION:Young Vic\, 66 The Cut\, Waterloo\, London SE1 8LZ
 END:VEVENT
 BEGIN:VEVENT
 UID:training-ground-4-day-contact-improvisation-intensive-rick-n-bd8ce8ed@
@@ -5677,6 +5754,19 @@ URL:https://dice.fm/event/6aa153459313940001a23d88
 LOCATION:The Old Blue Last\, 38 Great Eastern Street\, London EC2A 3ES
 END:VEVENT
 BEGIN:VEVENT
+UID:lenny-henry-still-at-large-hackney-empire-7aeb0736@london-events
+DTSTAMP:20261103T193000Z
+DTSTART:20261103T193000Z
+DTEND:20261103T212000Z
+SUMMARY:Lenny Henry: Still at Large — Hackney Empire
+DESCRIPTION:One-off evening of stand-up\, storytelling and conversation as
+  Lenny Henry looks back over five decades. 1h50 incl. interval.\nPrice: 
+ £31-£44.50 (+£1.50 fee)\nhttps://www.hackneyempire.co.uk/events/lenny-
+ henry-still-at-large
+URL:https://www.hackneyempire.co.uk/events/lenny-henry-still-at-large
+LOCATION:Hackney Empire\, 291 Mare Street\, London E8 1EJ
+END:VEVENT
+BEGIN:VEVENT
 UID:pitchfork-london-tortoise-bill-orcutt-at-hackney-church-f79ba520@londo
  n-events
 DTSTAMP:20261104T190000Z
@@ -5792,6 +5882,22 @@ DESCRIPTION:Cheap Thursday double bill of atmospheric indie upstairs at th
 URL:https://dice.fm/event/yoex3a-teiger-mount-forel-5th-nov-paper-dress-vi
  ntage-london-tickets
 LOCATION:Paper Dress Vintage\, 352a Mare Street\, E8 1HR
+END:VEVENT
+BEGIN:VEVENT
+UID:good-sex-dead-centre-emilie-pine-at-battersea-arts-centre-cdcce166@lon
+ don-events
+DTSTAMP:20261105T193000Z
+DTSTART:20261105T193000Z
+DTEND:20261105T204000Z
+SUMMARY:Good Sex — Dead Centre & Emilie Pine at Battersea Arts Centre
+DESCRIPTION:Two strangers perform together each night with no rehearsal or
+  script\, guided by an on-stage Intimacy Director — desire\, loneliness
+  and consent\, five-star reviews. Runs 4-6 Nov\, 70 min. Battersea is a t
+ rek (flagged) but this is squarely the relational/authentic-relating lane
+  — exceptional fit.\nPrice: Pay What You Can (recommended £25\, +£2 f
+ ee)\nhttps://bac.org.uk/whats-on/good-sex/
+URL:https://bac.org.uk/whats-on/good-sex/
+LOCATION:Battersea Arts Centre\, Lavender Hill\, London SW11 5TN
 END:VEVENT
 BEGIN:VEVENT
 UID:siobhan-miller-band-at-kings-place-0c36a78d@london-events
@@ -6131,6 +6237,22 @@ DESCRIPTION:Thursday headline show upstairs at the Old Blue Last.\nPrice:
  £15.82\nhttps://dice.fm/event/6a4ba14f17dad70001fb37fe
 URL:https://dice.fm/event/6a4ba14f17dad70001fb37fe
 LOCATION:The Old Blue Last\, 38 Great Eastern Street\, EC2A 3ES
+END:VEVENT
+BEGIN:VEVENT
+UID:squid-a-victim-impact-statement-arcola-studio-2-q-a-b9fbeff8@london-ev
+ ents
+DTSTAMP:20261112T190000Z
+DTSTART:20261112T190000Z
+DTEND:20261112T202000Z
+SUMMARY:SQUID: A Victim Impact Statement — Arcola Studio 2 (+ Q&A)
+DESCRIPTION:Johnny Daukes' one-man show mixing live music\, humour and sto
+ rytelling about discovering his own songs and films had documented suppre
+ ssed childhood abuse. Short run 11-14 Nov\; Thursday includes post-show Q
+ &A. Heavy themes\, very local.\nPrice: ~£15-£30 (Arcola norms\; not pub
+ lished yet)\nhttps://www.arcolatheatre.com/event/squid-a-victim-impact-st
+ atement/
+URL:https://www.arcolatheatre.com/event/squid-a-victim-impact-statement/
+LOCATION:Arcola Theatre\, 24 Ashwin Street\, Dalston\, London E8 3DL
 END:VEVENT
 BEGIN:VEVENT
 UID:ryan-young-louis-campbell-at-cecil-sharp-house-003fa60f@london-events
@@ -6490,6 +6612,20 @@ URL:https://hoxtonhall.ticketsolve.com/shows/1173678614/events
 LOCATION:Hoxton Hall\, 130 Hoxton Street\, N1 6SH
 END:VEVENT
 BEGIN:VEVENT
+UID:the-ugly-one-preview-arcola-studio-2-3b6c8089@london-events
+DTSTAMP:20261118T190000Z
+DTSTART:20261118T190000Z
+DTEND:20261118T200000Z
+SUMMARY:The Ugly One (preview) — Arcola Studio 2
+DESCRIPTION:Marius von Mayenburg's razor-sharp 60-minute satire on beauty 
+ and identity\, dir. Ramin Gray. Runs 17 Nov-19 Dec\, Mon-Thu 7pm. Wednesd
+ ay preview proposed — cheaper\, press-night-adjacent. (Same night as Th
+ e Wytches + Why Pubs Matter.)\nPrice: ~£15-£30 (previews reduced\; Pay-
+ What-You-Can Tuesdays)\nhttps://www.arcolatheatre.com/event/the-ugly-one/
+URL:https://www.arcolatheatre.com/event/the-ugly-one/
+LOCATION:Arcola Theatre\, 24 Ashwin Street\, Dalston\, London E8 3DL
+END:VEVENT
+BEGIN:VEVENT
 UID:deeper-cuts-nan-rizinni-at-paper-dress-vintage-efg-london-ja-f55cb2e8@
  london-events
 DTSTAMP:20261118T193000Z
@@ -6583,6 +6719,21 @@ URL:https://dice.fm/event/6a995a83cf6a1d0001762b71
 LOCATION:Paper Dress Vintage\, 352a Mare Street\, E8 1HR
 END:VEVENT
 BEGIN:VEVENT
+UID:desire-under-the-elms-almeida-theatre-099ebf43@london-events
+DTSTAMP:20261119T193000Z
+DTSTART:20261119T193000Z
+DTEND:20261119T220000Z
+SUMMARY:Desire Under the Elms — Almeida Theatre
+DESCRIPTION:Ebenezer Bamgboye directs Eugene O'Neill's Greek-tragedy-infle
+ cted farm drama\, with Zackary Momoh. Runs 10 Nov-23 Dec\, 7:30pm. Week-t
+ wo Thursday proposed. The Almeida's Golden Boy sold out its whole run —
+  expect demand. (Czerski Gresham lecture 18:00 could chain before.)\nPric
+ e: ~£10-£55 (Almeida norms\; not listed yet)\nhttps://almeida.co.uk/wha
+ ts-on/desire-under-the-elms/
+URL:https://almeida.co.uk/whats-on/desire-under-the-elms/
+LOCATION:Almeida Theatre\, Almeida Street\, Islington\, London N1 1TA
+END:VEVENT
+BEGIN:VEVENT
 UID:c-ras-trio-at-vortex-jazz-club-efg-ljf-49e64c5e@london-events
 DTSTAMP:20261119T194500Z
 DTSTART:20261119T194500Z
@@ -6608,6 +6759,20 @@ DESCRIPTION:An evening of seasonal food and friends from the well-regarded
 URL:https://www.eventbrite.co.uk/e/bufo-bufo-supper-club-tickets-199665195
  9760
 LOCATION:Dovedales Bakery\, 24 Blenheim Grove\, London SE15 4QL
+END:VEVENT
+BEGIN:VEVENT
+UID:eliza-rose-live-full-band-at-earth-cc872fef@london-events
+DTSTAMP:20261120T190000Z
+DTSTART:20261120T190000Z
+DTEND:20261120T220000Z
+SUMMARY:Eliza Rose live (full band) at EartH
+DESCRIPTION:Debut UK live-band tour from the 'B.O.T.A.' vocalist/DJ — Ro
+ se on bass for parts of the set. Date verified\; time TBC (19:00 doors as
+ sumed). Pre-sale opened 17 Sep\; general sale tomorrow morning\, likely t
+ o go quickly.\nPrice: TBA — GENERAL SALE FRI 18 SEP 10:00\, book fast\n
+ https://earthackney.co.uk/performers/eliza-rose/
+URL:https://earthackney.co.uk/performers/eliza-rose/
+LOCATION:EartH\, 11 Stoke Newington Rd\, London N16 8BH
 END:VEVENT
 BEGIN:VEVENT
 UID:jimi-tenor-band-two-day-residency-at-cafe-oto-860397aa@london-events
@@ -6842,6 +7007,21 @@ DESCRIPTION:Punchy transatlantic supergroup — drums\, sax\, turntablism
  £12-£18)\nhttps://www.cafeoto.co.uk/events/okse/
 URL:https://www.cafeoto.co.uk/events/okse/
 LOCATION:Cafe OTO\, 18-22 Ashwin Street\, Dalston\, E8 3DL
+END:VEVENT
+BEGIN:VEVENT
+UID:eurotrash-ben-whishaw-kathryn-hunter-at-the-young-vic-e011a1a8@london-
+ events
+DTSTAMP:20261124T193000Z
+DTSTART:20261124T193000Z
+DTEND:20261124T214500Z
+SUMMARY:Eurotrash — Ben Whishaw & Kathryn Hunter at the Young Vic
+DESCRIPTION:English-language premiere of Christian Kracht's cult novel: a 
+ mother and son on a chaotic road trip through the Swiss Alps — Ben Whis
+ haw and Kathryn Hunter. Runs 13 Nov-9 Jan\; starry cast\, will sell fast.
+  Time assumed 19:30 (confirm direct). (Same night as Harry Hill WIP + ØK
+ SE.)\nPrice: From ~£30\nhttps://www.youngvic.org/whats-on/eurotrash
+URL:https://www.youngvic.org/whats-on/eurotrash
+LOCATION:Young Vic\, 66 The Cut\, Waterloo\, London SE1 8LZ
 END:VEVENT
 BEGIN:VEVENT
 UID:ibibio-sound-machine-at-islington-assembly-hall-6b134004@london-events
