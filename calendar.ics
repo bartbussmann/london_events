@@ -1766,6 +1766,20 @@ URL:https://dice.fm/event/6a57416cd82d630001121e17
 LOCATION:The Victoria\, 451 Queensbridge Road\, E8 3AS
 END:VEVENT
 BEGIN:VEVENT
+UID:art-cure-prof-daisy-fancourt-in-conversation-407aa529@london-events
+DTSTAMP:20260927T130000Z
+DTSTART:20260927T130000Z
+DTEND:20260927T150000Z
+SUMMARY:Art Cure — Prof Daisy Fancourt in conversation
+DESCRIPTION:UCL's Daisy Fancourt discusses Art Cure: The Science of How th
+ e Arts Transform Our Health\, hosted by Hannah MacInnes with panel (Tamzi
+ n Outhwaite\, Alfred Enoch\, Nadia Fall). Sunday 2-4pm\, Main House.\nPri
+ ce: TBC (Young Vic box office)\nhttps://www.youngvic.org/whats-on/art-cur
+ e/
+URL:https://www.youngvic.org/whats-on/art-cure/
+LOCATION:Young Vic\, 66 The Cut\, Waterloo\, London SE1 8LZ
+END:VEVENT
+BEGIN:VEVENT
 UID:reset-the-nervous-system-with-tre-5cc5dc14@london-events
 DTSTAMP:20260927T143000Z
 DTSTART:20260927T143000Z
@@ -3063,6 +3077,23 @@ URL:https://www.bishopsgate.org.uk/whats-on/activity/swing-den-13
 LOCATION:Bishopsgate Institute\, 230 Bishopsgate\, EC2M 4QH
 END:VEVENT
 BEGIN:VEVENT
+UID:elders-2046-for-living-and-dying-otherwise-live-radio-soap-p-1edc6027@
+ london-events
+DTSTAMP:20261009T180000Z
+DTSTART:20261009T180000Z
+DTEND:20261009T190000Z
+SUMMARY:Elders\, 2046: For Living and Dying Otherwise — live radio-soap 
+ performance
+DESCRIPTION:Fictional radio soap set in a 2046 care-home commune\, perform
+ ed live with foley and miniature sets. Fri 9 Oct 7-8pm (also Sat 10 Oct 2
+ pm & 7pm). (Same night as Mark Fry at EartH + Swing Den opener.)\nPrice: 
+ Free (Eventbrite\; first-come\, arrive 15 min early)\nhttps://wellcomecol
+ lection.org/events/elders-2046-for-living-and-dying-otherwise
+URL:https://wellcomecollection.org/events/elders-2046-for-living-and-dying
+ -otherwise
+LOCATION:Wellcome Collection\, 183 Euston Road\, NW1 2BE
+END:VEVENT
+BEGIN:VEVENT
 UID:simon-amstell-i-love-it-here-at-hackney-empire-cf08ebe8@london-events
 DTSTAMP:20261009T183000Z
 DTSTART:20261009T183000Z
@@ -3852,6 +3883,21 @@ URL:https://www.eventbrite.co.uk/e/life-drawing-in-borough-at-the-roebuck-
 LOCATION:The Roebuck\, 50 Great Dover Street\, SE1 4YG
 END:VEVENT
 BEGIN:VEVENT
+UID:the-brown-sugar-r-a-p-party-inua-ellams-d-angelo-tribute-2ece2b9a@lond
+ on-events
+DTSTAMP:20261014T180000Z
+DTSTART:20261014T180000Z
+DTEND:20261014T203000Z
+SUMMARY:The Brown Sugar R.A.P. Party — Inua Ellams' D'Angelo tribute
+DESCRIPTION:Inua Ellams' Rhythm And Poetry Party marks the first anniversa
+ ry of D'Angelo's passing: 10 contemporary poets respond to Brown Sugar\, 
+ plus DJ Sid Mercutio. Wed 14 Oct 7pm\, Maria Theatre\, 18+. Verified on y
+ oungvic.org.\nPrice: TBC (Young Vic box office)\nhttps://www.youngvic.org
+ /whats-on/the-brown-sugar-rap-party/
+URL:https://www.youngvic.org/whats-on/the-brown-sugar-rap-party/
+LOCATION:Young Vic\, 66 The Cut\, Waterloo\, London SE1 8LZ
+END:VEVENT
+BEGIN:VEVENT
 UID:vision-fortune-abigail-snail-free-show-at-shacklewell-arms-00bb3668@lo
  ndon-events
 DTSTAMP:20261014T183000Z
@@ -4423,6 +4469,20 @@ URL:https://www.cafeoto.co.uk/events/byh-simon-finn-tony-caro-and-john/
 LOCATION:Cafe OTO\, 18-22 Ashwin Street\, Dalston\, E8 3DL
 END:VEVENT
 BEGIN:VEVENT
+UID:walthamstow-folk-club-maddie-morris-2d50c198@london-events
+DTSTAMP:20261018T183000Z
+DTSTART:20261018T183000Z
+DTEND:20261018T213000Z
+SUMMARY:Walthamstow Folk Club: Maddie Morris
+DESCRIPTION:Sunday-night folk club in the back-room theatre of a Walthamst
+ ow pub. Maddie Morris (BBC Radio 2 Young Folk Award winner) 18 Oct\, door
+ s 7.30pm. Folk-club vein verified at last.\nPrice: £12 (£10 conc)\, doo
+ r or WeGotTickets\nhttps://www.walthamstowfolk.co.uk/
+URL:https://www.walthamstowfolk.co.uk/
+LOCATION:Ye Olde Rose & Crown Theatre Pub\, 53 Hoe Street\, Walthamstow\, 
+ London E17 4SA
+END:VEVENT
+BEGIN:VEVENT
 UID:shaemless-at-the-old-blue-last-free-931ab1cc@london-events
 DTSTAMP:20261018T190000Z
 DTSTART:20261018T190000Z
@@ -4514,6 +4574,23 @@ DESCRIPTION:October date of the board-game-cafe speed dating night in the
  ps://www.meetup.com/its-a-date-singles-events/events/316165739/
 URL:https://www.meetup.com/its-a-date-singles-events/events/316165739/
 LOCATION:Draughts Waterloo\, 26 Leake St\, London SE1 7NN
+END:VEVENT
+BEGIN:VEVENT
+UID:taster-menu-free-games-and-futures-social-at-shoreditch-town-d8aee4a7@
+ london-events
+DTSTAMP:20261020T170000Z
+DTSTART:20261020T170000Z
+DTEND:20261020T193000Z
+SUMMARY:Taster Menu — free games-and-futures social at Shoreditch Town H
+ all
+DESCRIPTION:Drop-in evening to grab a drink\, play games and talk about th
+ e future with Mod. Tue 20 Oct 6-8.30pm (last entry 7.30). Free\, eight mi
+ nutes away\, easy place to meet people. (Perle Noire and Michael Lewis ar
+ e the same night — this ends early enough to partly chain.)\nPrice: Fre
+ e (book ahead)\nhttps://shoreditchtownhall.com/whats-on/taster-menu-autum
+ n-2026
+URL:https://shoreditchtownhall.com/whats-on/taster-menu-autumn-2026
+LOCATION:Shoreditch Town Hall\, 380 Old Street\, EC1V 9LT
 END:VEVENT
 BEGIN:VEVENT
 UID:improvisers-ensemble-featuring-cleveland-watkiss-mbe-eb59e1ab@london-e
@@ -5021,6 +5098,21 @@ DESCRIPTION:London's radical F*Choir — a joyful\, community-driven masse
  m/event/6a1eff5bdcdada0001b25498
 URL:https://dice.fm/event/6a1eff5bdcdada0001b25498
 LOCATION:EartH\, 11 Stoke Newington Rd\, London N16 8BH
+END:VEVENT
+BEGIN:VEVENT
+UID:walthamstow-folk-club-nancy-kerr-and-james-fagan-52f8cc91@london-event
+ s
+DTSTAMP:20261025T193000Z
+DTSTART:20261025T193000Z
+DTEND:20261025T223000Z
+SUMMARY:Walthamstow Folk Club: Nancy Kerr and James Fagan
+DESCRIPTION:Biggest name of the club's autumn: BBC Folk Award winners Nanc
+ y Kerr & James Fagan\, Sunday 25 Oct. Likely to sell out in advance per t
+ he club's own guidance.\nPrice: £12 (£10 conc)\, door or WeGotTickets\n
+ https://www.walthamstowfolk.co.uk/
+URL:https://www.walthamstowfolk.co.uk/
+LOCATION:Ye Olde Rose & Crown Theatre Pub\, 53 Hoe Street\, Walthamstow\, 
+ London E17 4SA
 END:VEVENT
 BEGIN:VEVENT
 UID:ezra-furman-solo-at-union-chapel-c48716b6@london-events
@@ -5897,6 +5989,21 @@ LOCATION:Ecstatic Dance London venue\, Burghley Road\, Burghley Road\, Tuf
  nell Park\, NW5
 END:VEVENT
 BEGIN:VEVENT
+UID:unreal-festival-black-magic-iterations-double-bill-7a9124aa@london-eve
+ nts
+DTSTAMP:20261107T190000Z
+DTSTART:20261107T190000Z
+DTEND:20261107T202000Z
+SUMMARY:UNREAL festival: Black Magic + Iterations double bill
+DESCRIPTION:Opening Saturday of BAC's UNREAL contemporary-magic festival (
+ 7-14 Nov): Tom Cassani / Luis Sartori do Vale & Kalle Nio double bill\, 1
+ h20 incl interval. (Same night as RI neuroscience-of-sadness + Ecstatic S
+ aturdays.)\nPrice: Pay What You Can (rec. £15) + £2 fee\nhttps://bac.or
+ g.uk/whats-on/black-magic-iterations/
+URL:https://bac.org.uk/whats-on/black-magic-iterations/
+LOCATION:Battersea Arts Centre\, Lavender Hill\, London SW11 5TN
+END:VEVENT
+BEGIN:VEVENT
 UID:live-at-the-chapel-with-chris-mccausland-b7fcd1fa@london-events
 DTSTAMP:20261107T194500Z
 DTSTART:20261107T194500Z
@@ -6082,6 +6189,19 @@ DESCRIPTION:Cosima Suzanne live at SJQ — cheap intimate alternative on a
 URL:https://dice.fm/event/6a81d7881247880001fefa54
 LOCATION:Servant Jazz Quarters (SJQ)\, 10A Bradbury Street\, London N16 8J
  N
+END:VEVENT
+BEGIN:VEVENT
+UID:unreal-festival-lento-e-violento-valentina-cortese-8e730861@london-eve
+ nts
+DTSTAMP:20261110T200000Z
+DTSTART:20261110T200000Z
+DTEND:20261110T205000Z
+SUMMARY:UNREAL festival: Lento e Violento — Valentina Cortese
+DESCRIPTION:Circus\, dance\, music and magical illusion blend — Tue 10 &
+  Wed 11 Nov\, 8pm\, 50 mins. UNREAL festival.\nPrice: Pay What You Can (r
+ ec. £15) + £2 fee\nhttps://bac.org.uk/whats-on/lento-e-violento/
+URL:https://bac.org.uk/whats-on/lento-e-violento/
+LOCATION:Battersea Arts Centre\, Lavender Hill\, London SW11 5TN
 END:VEVENT
 BEGIN:VEVENT
 UID:gresham-college-our-sun-our-star-chris-lintott-free-e64b0021@london-ev
@@ -6307,6 +6427,20 @@ URL:https://www.rigb.org/whats-on/how-grow-quantum-computer
 LOCATION:Royal Institution\, 21 Albemarle Street\, Mayfair\, W1S 4BS
 END:VEVENT
 BEGIN:VEVENT
+UID:woodhill-lung-s-documentary-dance-theatre-4db1cb42@london-events
+DTSTAMP:20261114T193000Z
+DTSTART:20261114T193000Z
+DTEND:20261114T205500Z
+SUMMARY:Woodhill — LUNG's documentary dance-theatre
+DESCRIPTION:LUNG's award-winning verbatim piece about deaths at Woodhill p
+ rison\, back after a sold-out 2023 run. Runs 14-19 Nov\, 7.30pm\, 1h25\, 
+ 16+. NB: STH's own page captcha-blocked — details corroborated via LUNG
+  Theatre\; double-check when booking.\nPrice: £20 (£16 conc)\nhttps://s
+ horeditchtownhall.com/whats-on/lung-woodhill-2026
+URL:https://shoreditchtownhall.com/whats-on/lung-woodhill-2026
+LOCATION:Shoreditch Town Hall\, 380 Old Street\, EC1V 9LT
+END:VEVENT
+BEGIN:VEVENT
 UID:blazin-fiddles-at-kings-place-488b26ff@london-events
 DTSTAMP:20261114T200000Z
 DTSTART:20261114T200000Z
@@ -6318,6 +6452,20 @@ DESCRIPTION:Scotland's Folk Band of the Year 2025 champion the country's r
  n/folk/blazin-fiddles-6/
 URL:https://www.kingsplace.co.uk/whats-on/folk/blazin-fiddles-6/
 LOCATION:Kings Place (Hall One)\, 90 York Way\, London N1 9AG
+END:VEVENT
+BEGIN:VEVENT
+UID:unreal-festival-this-is-not-a-magic-show-vincent-gambini-16c96dd6@lond
+ on-events
+DTSTAMP:20261114T210000Z
+DTSTART:20261114T210000Z
+DTEND:20261114T220500Z
+SUMMARY:UNREAL festival: This Is Not A Magic Show — Vincent Gambini
+DESCRIPTION:UNREAL closing Saturday: Vincent Gambini's acclaimed meta-magi
+ c show about how magic works and why we watch. 9pm\, ~65 mins\, 14+.\nPri
+ ce: Pay What You Can (rec. £15) + £2 fee\nhttps://bac.org.uk/whats-on/t
+ his-is-not-a-magic-show/
+URL:https://bac.org.uk/whats-on/this-is-not-a-magic-show/
+LOCATION:Battersea Arts Centre\, Lavender Hill\, London SW11 5TN
 END:VEVENT
 BEGIN:VEVENT
 UID:voice-dna-collaboration-vocal-improv-with-uran-apak-0cde815f@london-ev
@@ -6840,6 +6988,21 @@ DESCRIPTION:Jazz legends Dave Holland and Norma Winstone with the London V
 URL:https://efglondonjazzfestival.org.uk/events/vital-spark-music-of-kenny
  -wheeler-dave-holland-norma-winstone-london-vocal-project
 LOCATION:Kings Place\, 90 York Way\, London N1 9AG
+END:VEVENT
+BEGIN:VEVENT
+UID:walthamstow-folk-club-hannah-james-and-toby-kuhn-faa6612e@london-event
+ s
+DTSTAMP:20261122T193000Z
+DTSTART:20261122T193000Z
+DTEND:20261122T223000Z
+SUMMARY:Walthamstow Folk Club: Hannah James and Toby Kuhn
+DESCRIPTION:Accordion/clog virtuoso Hannah James with cellist Toby Kuhn 
+ — standout November booking. Sunday 22 Nov. (Same night as feeble littl
+ e horse extra date.)\nPrice: £12 (£10 conc)\, door or WeGotTickets\nhtt
+ ps://www.walthamstowfolk.co.uk/
+URL:https://www.walthamstowfolk.co.uk/
+LOCATION:Ye Olde Rose & Crown Theatre Pub\, 53 Hoe Street\, Walthamstow\, 
+ London E17 4SA
 END:VEVENT
 BEGIN:VEVENT
 UID:feeble-little-horse-at-earth-b9fe42f4@london-events

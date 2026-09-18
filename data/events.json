@@ -2357,6 +2357,24 @@
     "added": "2026-08-24"
   },
   {
+    "title": "Art Cure — Prof Daisy Fancourt in conversation",
+    "start": "2026-09-27T14:00:00+01:00",
+    "end": "2026-09-27T16:00:00+01:00",
+    "venue": "Young Vic",
+    "address": "66 The Cut, Waterloo, London SE1 8LZ",
+    "url": "https://www.youngvic.org/whats-on/art-cure/",
+    "source": "venue:young-vic",
+    "tags": [
+      "talk"
+    ],
+    "price": "TBC (Young Vic box office)",
+    "description": "UCL's Daisy Fancourt discusses Art Cure: The Science of How the Arts Transform Our Health, hosted by Hannah MacInnes with panel (Tamzin Outhwaite, Alfred Enoch, Nadia Fall). Sunday 2-4pm, Main House.",
+    "neighbourhood": "Waterloo",
+    "cycle_minutes": 30,
+    "added": "2026-09-18T06:19:34Z",
+    "id": "art-cure-prof-daisy-fancourt-in-conversation-407aa529"
+  },
+  {
     "id": "reset-the-nervous-system-with-tre-5cc5dc14",
     "title": "Reset The Nervous System with TRE",
     "start": "2026-09-27T15:30:00+01:00",
@@ -4090,6 +4108,25 @@
     "added": "2026-09-05"
   },
   {
+    "title": "Elders, 2046: For Living and Dying Otherwise — live radio-soap performance",
+    "start": "2026-10-09T19:00:00+01:00",
+    "end": "2026-10-09T20:00:00+01:00",
+    "venue": "Wellcome Collection",
+    "address": "183 Euston Road, NW1 2BE",
+    "url": "https://wellcomecollection.org/events/elders-2046-for-living-and-dying-otherwise",
+    "source": "venue:wellcome-collection",
+    "tags": [
+      "theatre",
+      "talk"
+    ],
+    "price": "Free (Eventbrite; first-come, arrive 15 min early)",
+    "description": "Fictional radio soap set in a 2046 care-home commune, performed live with foley and miniature sets. Fri 9 Oct 7-8pm (also Sat 10 Oct 2pm & 7pm). (Same night as Mark Fry at EartH + Swing Den opener.)",
+    "neighbourhood": "Euston",
+    "cycle_minutes": 28,
+    "added": "2026-09-18T06:19:34Z",
+    "id": "elders-2046-for-living-and-dying-otherwise-live-radio-soap-p-1edc6027"
+  },
+  {
     "id": "simon-amstell-i-love-it-here-at-hackney-empire-cf08ebe8",
     "title": "Simon Amstell: I Love It Here at Hackney Empire",
     "start": "2026-10-09T19:30:00+01:00",
@@ -5063,6 +5100,25 @@
     "added": "2026-08-31"
   },
   {
+    "title": "The Brown Sugar R.A.P. Party — Inua Ellams' D'Angelo tribute",
+    "start": "2026-10-14T19:00:00+01:00",
+    "end": "2026-10-14T21:30:00+01:00",
+    "venue": "Young Vic",
+    "address": "66 The Cut, Waterloo, London SE1 8LZ",
+    "url": "https://www.youngvic.org/whats-on/the-brown-sugar-rap-party/",
+    "source": "venue:young-vic",
+    "tags": [
+      "music",
+      "talk"
+    ],
+    "price": "TBC (Young Vic box office)",
+    "description": "Inua Ellams' Rhythm And Poetry Party marks the first anniversary of D'Angelo's passing: 10 contemporary poets respond to Brown Sugar, plus DJ Sid Mercutio. Wed 14 Oct 7pm, Maria Theatre, 18+. Verified on youngvic.org.",
+    "neighbourhood": "Waterloo",
+    "cycle_minutes": 30,
+    "added": "2026-09-18T06:19:34Z",
+    "id": "the-brown-sugar-r-a-p-party-inua-ellams-d-angelo-tribute-2ece2b9a"
+  },
+  {
     "id": "vision-fortune-abigail-snail-free-show-at-shacklewell-arms-00bb3668",
     "title": "Vision Fortune + Abigail Snail — free show at Shacklewell Arms",
     "start": "2026-10-14T19:30:00+01:00",
@@ -5771,6 +5827,25 @@
     "added": "2026-08-28"
   },
   {
+    "title": "Walthamstow Folk Club: Maddie Morris",
+    "start": "2026-10-18T19:30:00+01:00",
+    "end": "2026-10-18T22:30:00+01:00",
+    "venue": "Ye Olde Rose & Crown Theatre Pub",
+    "address": "53 Hoe Street, Walthamstow, London E17 4SA",
+    "url": "https://www.walthamstowfolk.co.uk/",
+    "source": "venue:walthamstow-folk",
+    "tags": [
+      "music",
+      "community"
+    ],
+    "price": "£12 (£10 conc), door or WeGotTickets",
+    "description": "Sunday-night folk club in the back-room theatre of a Walthamstow pub. Maddie Morris (BBC Radio 2 Young Folk Award winner) 18 Oct, doors 7.30pm. Folk-club vein verified at last.",
+    "neighbourhood": "Walthamstow",
+    "cycle_minutes": 32,
+    "added": "2026-09-18T06:19:34Z",
+    "id": "walthamstow-folk-club-maddie-morris-2d50c198"
+  },
+  {
     "id": "shaemless-at-the-old-blue-last-free-931ab1cc",
     "title": "Shaemless at The Old Blue Last (free)",
     "start": "2026-10-18T20:00:00+01:00",
@@ -5899,6 +5974,24 @@
     "cycle_minutes": 30,
     "added": "2026-09-08T06:25:47Z",
     "id": "games-themed-speed-dating-at-draughts-waterloo-ages-25-38-509add43"
+  },
+  {
+    "title": "Taster Menu — free games-and-futures social at Shoreditch Town Hall",
+    "start": "2026-10-20T18:00:00+01:00",
+    "end": "2026-10-20T20:30:00+01:00",
+    "venue": "Shoreditch Town Hall",
+    "address": "380 Old Street, EC1V 9LT",
+    "url": "https://shoreditchtownhall.com/whats-on/taster-menu-autumn-2026",
+    "source": "venue:shoreditch-town-hall",
+    "tags": [
+      "community"
+    ],
+    "price": "Free (book ahead)",
+    "description": "Drop-in evening to grab a drink, play games and talk about the future with Mod. Tue 20 Oct 6-8.30pm (last entry 7.30). Free, eight minutes away, easy place to meet people. (Perle Noire and Michael Lewis are the same night — this ends early enough to partly chain.)",
+    "neighbourhood": "Shoreditch",
+    "cycle_minutes": 8,
+    "added": "2026-09-18T06:19:34Z",
+    "id": "taster-menu-free-games-and-futures-social-at-shoreditch-town-d8aee4a7"
   },
   {
     "id": "improvisers-ensemble-featuring-cleveland-watkiss-mbe-eb59e1ab",
@@ -6565,6 +6658,25 @@
     "cycle_minutes": 14,
     "added": "2026-09-06T06:17:42Z",
     "id": "f-choir-at-earth-0ff16dcc"
+  },
+  {
+    "title": "Walthamstow Folk Club: Nancy Kerr and James Fagan",
+    "start": "2026-10-25T19:30:00+00:00",
+    "end": "2026-10-25T22:30:00+00:00",
+    "venue": "Ye Olde Rose & Crown Theatre Pub",
+    "address": "53 Hoe Street, Walthamstow, London E17 4SA",
+    "url": "https://www.walthamstowfolk.co.uk/",
+    "source": "venue:walthamstow-folk",
+    "tags": [
+      "music",
+      "community"
+    ],
+    "price": "£12 (£10 conc), door or WeGotTickets",
+    "description": "Biggest name of the club's autumn: BBC Folk Award winners Nancy Kerr & James Fagan, Sunday 25 Oct. Likely to sell out in advance per the club's own guidance.",
+    "neighbourhood": "Walthamstow",
+    "cycle_minutes": 32,
+    "added": "2026-09-18T06:19:34Z",
+    "id": "walthamstow-folk-club-nancy-kerr-and-james-fagan-52f8cc91"
   },
   {
     "id": "ezra-furman-solo-at-union-chapel-c48716b6",
@@ -7718,6 +7830,25 @@
     "id": "ecstatic-saturdays-sober-rave-ecstatic-dance-cacao-7-nov-9967be2f"
   },
   {
+    "title": "UNREAL festival: Black Magic + Iterations double bill",
+    "start": "2026-11-07T19:00:00+00:00",
+    "end": "2026-11-07T20:20:00+00:00",
+    "venue": "Battersea Arts Centre",
+    "address": "Lavender Hill, London SW11 5TN",
+    "url": "https://bac.org.uk/whats-on/black-magic-iterations/",
+    "source": "venue:bac",
+    "tags": [
+      "theatre",
+      "festival"
+    ],
+    "price": "Pay What You Can (rec. £15) + £2 fee",
+    "description": "Opening Saturday of BAC's UNREAL contemporary-magic festival (7-14 Nov): Tom Cassani / Luis Sartori do Vale & Kalle Nio double bill, 1h20 incl interval. (Same night as RI neuroscience-of-sadness + Ecstatic Saturdays.)",
+    "neighbourhood": "Battersea",
+    "cycle_minutes": 50,
+    "added": "2026-09-18T06:19:34Z",
+    "id": "unreal-festival-black-magic-iterations-double-bill-7a9124aa"
+  },
+  {
     "id": "live-at-the-chapel-with-chris-mccausland-b7fcd1fa",
     "title": "Live At The Chapel with Chris McCausland",
     "start": "2026-11-07T19:45:00+00:00",
@@ -7970,6 +8101,26 @@
     "added": "2026-09-15T06:13:57Z",
     "cycle_minutes": 15,
     "id": "cosima-suzanne-at-sjq-edae78a6"
+  },
+  {
+    "title": "UNREAL festival: Lento e Violento — Valentina Cortese",
+    "start": "2026-11-10T20:00:00+00:00",
+    "end": "2026-11-10T20:50:00+00:00",
+    "venue": "Battersea Arts Centre",
+    "address": "Lavender Hill, London SW11 5TN",
+    "url": "https://bac.org.uk/whats-on/lento-e-violento/",
+    "source": "venue:bac",
+    "tags": [
+      "theatre",
+      "dance",
+      "festival"
+    ],
+    "price": "Pay What You Can (rec. £15) + £2 fee",
+    "description": "Circus, dance, music and magical illusion blend — Tue 10 & Wed 11 Nov, 8pm, 50 mins. UNREAL festival.",
+    "neighbourhood": "Battersea",
+    "cycle_minutes": 50,
+    "added": "2026-09-18T06:19:34Z",
+    "id": "unreal-festival-lento-e-violento-valentina-cortese-8e730861"
   },
   {
     "title": "Gresham College: Our Sun, Our Star — Chris Lintott (free)",
@@ -8265,6 +8416,25 @@
     "id": "how-to-grow-a-quantum-computer-royal-institution-907569b4"
   },
   {
+    "title": "Woodhill — LUNG's documentary dance-theatre",
+    "start": "2026-11-14T19:30:00+00:00",
+    "end": "2026-11-14T20:55:00+00:00",
+    "venue": "Shoreditch Town Hall",
+    "address": "380 Old Street, EC1V 9LT",
+    "url": "https://shoreditchtownhall.com/whats-on/lung-woodhill-2026",
+    "source": "venue:shoreditch-town-hall",
+    "tags": [
+      "theatre",
+      "dance"
+    ],
+    "price": "£20 (£16 conc)",
+    "description": "LUNG's award-winning verbatim piece about deaths at Woodhill prison, back after a sold-out 2023 run. Runs 14-19 Nov, 7.30pm, 1h25, 16+. NB: STH's own page captcha-blocked — details corroborated via LUNG Theatre; double-check when booking.",
+    "neighbourhood": "Shoreditch",
+    "cycle_minutes": 8,
+    "added": "2026-09-18T06:19:34Z",
+    "id": "woodhill-lung-s-documentary-dance-theatre-4db1cb42"
+  },
+  {
     "id": "blazin-fiddles-at-kings-place-488b26ff",
     "title": "Blazin' Fiddles at Kings Place",
     "start": "2026-11-14T20:00:00+00:00",
@@ -8281,6 +8451,25 @@
     "neighbourhood": "King's Cross",
     "cycle_minutes": 30,
     "added": "2026-09-04"
+  },
+  {
+    "title": "UNREAL festival: This Is Not A Magic Show — Vincent Gambini",
+    "start": "2026-11-14T21:00:00+00:00",
+    "end": "2026-11-14T22:05:00+00:00",
+    "venue": "Battersea Arts Centre",
+    "address": "Lavender Hill, London SW11 5TN",
+    "url": "https://bac.org.uk/whats-on/this-is-not-a-magic-show/",
+    "source": "venue:bac",
+    "tags": [
+      "theatre",
+      "festival"
+    ],
+    "price": "Pay What You Can (rec. £15) + £2 fee",
+    "description": "UNREAL closing Saturday: Vincent Gambini's acclaimed meta-magic show about how magic works and why we watch. 9pm, ~65 mins, 14+.",
+    "neighbourhood": "Battersea",
+    "cycle_minutes": 50,
+    "added": "2026-09-18T06:19:34Z",
+    "id": "unreal-festival-this-is-not-a-magic-show-vincent-gambini-16c96dd6"
   },
   {
     "title": "Voice DNA: Collaboration — vocal improv with Uran Apak",
@@ -8973,6 +9162,25 @@
     "neighbourhood": "King's Cross",
     "added": "2026-08-22",
     "cycle_minutes": 30
+  },
+  {
+    "title": "Walthamstow Folk Club: Hannah James and Toby Kuhn",
+    "start": "2026-11-22T19:30:00+00:00",
+    "end": "2026-11-22T22:30:00+00:00",
+    "venue": "Ye Olde Rose & Crown Theatre Pub",
+    "address": "53 Hoe Street, Walthamstow, London E17 4SA",
+    "url": "https://www.walthamstowfolk.co.uk/",
+    "source": "venue:walthamstow-folk",
+    "tags": [
+      "music",
+      "community"
+    ],
+    "price": "£12 (£10 conc), door or WeGotTickets",
+    "description": "Accordion/clog virtuoso Hannah James with cellist Toby Kuhn — standout November booking. Sunday 22 Nov. (Same night as feeble little horse extra date.)",
+    "neighbourhood": "Walthamstow",
+    "cycle_minutes": 32,
+    "added": "2026-09-18T06:19:34Z",
+    "id": "walthamstow-folk-club-hannah-james-and-toby-kuhn-faa6612e"
   },
   {
     "id": "feeble-little-horse-at-earth-b9fe42f4",
