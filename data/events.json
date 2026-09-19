@@ -8067,6 +8067,25 @@
     "added": "2026-09-04"
   },
   {
+    "title": "Dalston Song Club: Lily Lyons at Vortex Downstairs (LJF)",
+    "start": "2026-11-13T19:00:00+00:00",
+    "end": "2026-11-13T21:15:00+00:00",
+    "venue": "Vortex Downstairs",
+    "address": "11 Gillett Square, Dalston, N16 8AZ",
+    "url": "https://efglondonjazzfestival.org.uk/events/dalston-song-club-lily-lyons",
+    "source": "festival:efg-ljf",
+    "tags": [
+      "music",
+      "festival"
+    ],
+    "price": "£13.75",
+    "description": "Song-focused club night in the Vortex basement with folk-leaning songwriter Lily Lyons. Cheap east-London opening-night option.",
+    "neighbourhood": "Dalston",
+    "added": "2026-09-19T06:23:38Z",
+    "cycle_minutes": 14,
+    "id": "dalston-song-club-lily-lyons-at-vortex-downstairs-ljf-f2a19787"
+  },
+  {
     "id": "emma-jean-thackray-dear-miles-a-love-letter-at-earth-15953bc0",
     "title": "Emma-Jean Thackray: Dear Miles — A Love Letter at EartH",
     "start": "2026-11-13T19:30:00+00:00",
@@ -8101,6 +8120,24 @@
     "neighbourhood": "King's Cross",
     "added": "2026-08-22",
     "cycle_minutes": 30
+  },
+  {
+    "title": "Sarathy Korwar at The Wilds, Barking Riverside (LJF)",
+    "start": "2026-11-13T19:30:00+00:00",
+    "end": "2026-11-13T22:00:00+00:00",
+    "venue": "The Wilds, Barking Riverside",
+    "address": "The Wilds Ecology Centre, Barking Riverside, IG11",
+    "url": "https://efglondonjazzfestival.org.uk/events/sarathy-korwar-4",
+    "source": "festival:efg-ljf",
+    "tags": [
+      "music",
+      "festival"
+    ],
+    "price": "£14",
+    "description": "Indian-jazz percussionist and spiritual-jazz standout Sarathy Korwar (More Arriving, KALAK) in an intimate LJF date. Doors 19:00. Barking Riverside is a trek (Overground) — flagged — but £14 for this calibre is exceptional.",
+    "neighbourhood": "Barking Riverside",
+    "added": "2026-09-19T06:23:38Z",
+    "id": "sarathy-korwar-at-the-wilds-barking-riverside-ljf-a070b50c"
   },
   {
     "id": "after-john-cosmic-music-of-alice-coltrane-efg-london-jazz-fe-c270c8d9",
@@ -8233,6 +8270,25 @@
     "id": "woodhill-lung-s-documentary-dance-theatre-4db1cb42"
   },
   {
+    "title": "Asha Puthli: The Cosmic Voyager at the Barbican (LJF)",
+    "start": "2026-11-14T19:30:00+00:00",
+    "end": "2026-11-14T21:45:00+00:00",
+    "venue": "Barbican Hall",
+    "address": "Barbican Centre, Silk St, London EC2Y 8DS",
+    "url": "https://efglondonjazzfestival.org.uk/events/asha-puthli-the-cosmic-voyager",
+    "source": "festival:efg-ljf",
+    "tags": [
+      "music",
+      "festival"
+    ],
+    "price": "£34-£49",
+    "description": "Legendary Indian-born cosmic jazz/disco vocalist (Ornette Coleman's Science Fiction, 'Space Talk') in a rare London show. (Same night as Los Pirañas — pick a lane.)",
+    "neighbourhood": "Barbican",
+    "added": "2026-09-19T06:23:38Z",
+    "cycle_minutes": 15,
+    "id": "asha-puthli-the-cosmic-voyager-at-the-barbican-ljf-c632ae30"
+  },
+  {
     "id": "blazin-fiddles-at-kings-place-488b26ff",
     "title": "Blazin' Fiddles at Kings Place",
     "start": "2026-11-14T20:00:00+00:00",
@@ -8249,6 +8305,25 @@
     "neighbourhood": "King's Cross",
     "cycle_minutes": 30,
     "added": "2026-09-04"
+  },
+  {
+    "title": "Los Pirañas at Jazz Cafe (LJF)",
+    "start": "2026-11-14T20:30:00+00:00",
+    "end": "2026-11-14T23:00:00+00:00",
+    "venue": "Jazz Cafe",
+    "address": "5 Parkway, Camden, NW1 7PG",
+    "url": "https://efglondonjazzfestival.org.uk/events/los-piranas",
+    "source": "festival:efg-ljf",
+    "tags": [
+      "music",
+      "festival"
+    ],
+    "price": "£24.19-£41.06",
+    "description": "Bogotá's cult psychedelic-tropical trio (Meridian Brothers/Frente Cumbiero members) — wild Colombian rhythms x improv noise. Doors 18:30. Prime world-jazz Saturday pick.",
+    "neighbourhood": "Camden",
+    "added": "2026-09-19T06:23:38Z",
+    "cycle_minutes": 32,
+    "id": "los-pira-as-at-jazz-cafe-ljf-9b012b39"
   },
   {
     "title": "UNREAL festival: This Is Not A Magic Show — Vincent Gambini",
@@ -8287,6 +8362,25 @@
     "added": "2026-09-11T06:20:02Z",
     "cycle_minutes": 22,
     "id": "voice-dna-collaboration-vocal-improv-with-uran-apak-0cde815f"
+  },
+  {
+    "title": "Manu Delago x Max ZT at Stone Nest (LJF)",
+    "start": "2026-11-15T18:00:00+00:00",
+    "end": "2026-11-15T20:00:00+00:00",
+    "venue": "Stone Nest",
+    "address": "136 Shaftesbury Avenue, W1D 5EZ",
+    "url": "https://efglondonjazzfestival.org.uk/events/manu-delago-x-max-zt",
+    "source": "festival:efg-ljf",
+    "tags": [
+      "music",
+      "festival"
+    ],
+    "price": "£11.50-£28",
+    "description": "Hang-drum virtuoso Manu Delago (Björk collaborator) meets hammered-dulcimer innovator Max ZT in a deconsecrated Welsh chapel. Also a 15:00 show. Affordable Sunday option (Akinmusire at KP is 20:00 — tight but chainable).",
+    "neighbourhood": "Soho",
+    "added": "2026-09-19T06:23:38Z",
+    "cycle_minutes": 30,
+    "id": "manu-delago-x-max-zt-at-stone-nest-ljf-ed6980b1"
   },
   {
     "id": "joyce-moreno-at-earth-ca6c7995",
@@ -8381,6 +8475,25 @@
     "id": "rheingans-sisters-at-green-note-c8184ba9"
   },
   {
+    "title": "Hejira play Joni Mitchell at Jazz Cafe (LJF)",
+    "start": "2026-11-16T19:00:00+00:00",
+    "end": "2026-11-16T22:00:00+00:00",
+    "venue": "Jazz Cafe",
+    "address": "5 Parkway, Camden, NW1 7PG",
+    "url": "https://efglondonjazzfestival.org.uk/events/hejira-play-joni-mitchell",
+    "source": "festival:efg-ljf",
+    "tags": [
+      "music",
+      "festival"
+    ],
+    "price": "£27",
+    "description": "London jazz collective Hejira perform Joni Mitchell's jazz-era songbook. Monday. (Alternative to ANIQO at SJQ / Rheingans at Green Note.)",
+    "neighbourhood": "Camden",
+    "added": "2026-09-19T06:23:38Z",
+    "cycle_minutes": 32,
+    "id": "hejira-play-joni-mitchell-at-jazz-cafe-ljf-dc48d3e6"
+  },
+  {
     "id": "elephant-stone-at-moth-club-d7a3328c",
     "title": "Elephant Stone at MOTH Club",
     "start": "2026-11-16T19:30:00+00:00",
@@ -8469,6 +8582,45 @@
     "neighbourhood": "Hackney Central",
     "cycle_minutes": 12,
     "added": "2026-08-21"
+  },
+  {
+    "title": "Robyn's Rocket: Laura Jurd, Little Kali, ATMoss at Cafe OTO (LJF)",
+    "start": "2026-11-17T20:00:00+00:00",
+    "end": "2026-11-17T22:30:00+00:00",
+    "venue": "Cafe OTO",
+    "address": "18-22 Ashwin Street, Dalston, E8 3DL",
+    "url": "https://efglondonjazzfestival.org.uk/events/robyns-rocket-with-laura-jurd-little-kali-atmoss",
+    "source": "festival:efg-ljf",
+    "tags": [
+      "music",
+      "festival",
+      "community"
+    ],
+    "price": "£13.20-£16.50",
+    "description": "Inclusive, neurodivergent-led gig night at OTO with trumpeter-composer Laura Jurd headlining. Cheap east-London Tuesday pick.",
+    "neighbourhood": "Dalston",
+    "added": "2026-09-19T06:23:38Z",
+    "cycle_minutes": 14,
+    "id": "robyn-s-rocket-laura-jurd-little-kali-atmoss-at-cafe-oto-ljf-31764d02"
+  },
+  {
+    "title": "Tanhai Collective x Kotoa at 93 Feet East (LJF)",
+    "start": "2026-11-17T20:30:00+00:00",
+    "end": "2026-11-17T23:00:00+00:00",
+    "venue": "93 Feet East",
+    "address": "150 Brick Lane, E1 6QL",
+    "url": "https://efglondonjazzfestival.org.uk/events/tanhai-collective-x-kotoa",
+    "source": "festival:efg-ljf",
+    "tags": [
+      "music",
+      "festival"
+    ],
+    "price": "TBC (~£9-15, booking off-platform)",
+    "description": "Persian/Middle Eastern-jazz crossover double bill on Brick Lane — walkable. (Same night as Robyn's Rocket.)",
+    "neighbourhood": "Brick Lane",
+    "added": "2026-09-19T06:23:38Z",
+    "cycle_minutes": 6,
+    "id": "tanhai-collective-x-kotoa-at-93-feet-east-ljf-65568883"
   },
   {
     "title": "Ethical Matters: Why Pubs Matter — Amit Singh & Lydia Wood",
@@ -8706,6 +8858,25 @@
     "added": "2026-08-21"
   },
   {
+    "title": "Finn Rees at 93 Feet East (LJF)",
+    "start": "2026-11-19T20:30:00+00:00",
+    "end": "2026-11-19T23:00:00+00:00",
+    "venue": "93 Feet East",
+    "address": "150 Brick Lane, E1 6QL",
+    "url": "https://efglondonjazzfestival.org.uk/events/finn-rees",
+    "source": "festival:efg-ljf",
+    "tags": [
+      "music",
+      "festival"
+    ],
+    "price": "TBC (~£9-15, booking off-platform)",
+    "description": "Melbourne pianist Finn Rees (Dawn Is A Melody) — lush, spiritual-jazz-leaning ensemble music, on Brick Lane. (Czerski Gresham 18:00 + Desire Under the Elms same evening — chainable with the former.)",
+    "neighbourhood": "Brick Lane",
+    "added": "2026-09-19T06:23:38Z",
+    "cycle_minutes": 6,
+    "id": "finn-rees-at-93-feet-east-ljf-915bf81a"
+  },
+  {
     "title": "Bufo Bufo Supper Club at Dovedales, Peckham",
     "start": "2026-11-20T19:00:00+00:00",
     "end": "2026-11-20T23:00:00+00:00",
@@ -8730,14 +8901,14 @@
     "end": "2026-11-20T22:00:00+00:00",
     "venue": "EartH",
     "address": "11 Stoke Newington Rd, London N16 8BH",
-    "url": "https://earthackney.co.uk/performers/eliza-rose/",
+    "url": "https://dice.fm/event/yodowv-eliza-rose-20th-nov-earth-london-tickets",
     "source": "venue:earth",
     "tags": [
       "music",
       "dance"
     ],
-    "price": "TBA — GENERAL SALE FRI 18 SEP 10:00, book fast",
-    "description": "Debut UK live-band tour from the 'B.O.T.A.' vocalist/DJ — Rose on bass for parts of the set. Date verified; time TBC (19:00 doors assumed). Pre-sale opened 17 Sep; general sale tomorrow morning, likely to go quickly.",
+    "price": "From £21.94 (on sale, not sold out as of 19 Sep)",
+    "description": "Debut UK live-band tour from the 'B.O.T.A.' vocalist/DJ — Rose on bass for parts of the set. Date verified; time TBC (19:00 doors assumed). Pre-sale opened 17 Sep; general sale live on DICE — book soon.",
     "neighbourhood": "Dalston",
     "cycle_minutes": 14,
     "added": "2026-09-17T06:13:45Z",
@@ -8760,6 +8931,25 @@
     "neighbourhood": "Dalston",
     "cycle_minutes": 14,
     "added": "2026-08-21"
+  },
+  {
+    "title": "Church of Sound 10th Birthday: British Jazz Songbook at the Barbican (LJF)",
+    "start": "2026-11-20T19:30:00+00:00",
+    "end": "2026-11-20T22:00:00+00:00",
+    "venue": "Barbican Hall",
+    "address": "Barbican Centre, Silk St, London EC2Y 8DS",
+    "url": "https://efglondonjazzfestival.org.uk/events/church-of-sound-10th-birthday-british-jazz-songbook",
+    "source": "festival:efg-ljf",
+    "tags": [
+      "music",
+      "festival"
+    ],
+    "price": "£24-£39",
+    "description": "Beloved Clapton session Church of Sound takes its British Jazz Songbook to the Barbican with an all-star UK-scene cast. (Same night as Eliza Rose at EartH + Bufo Bufo supper club.)",
+    "neighbourhood": "Barbican",
+    "added": "2026-09-19T06:23:38Z",
+    "cycle_minutes": 15,
+    "id": "church-of-sound-10th-birthday-british-jazz-songbook-at-the-b-f45b9312"
   },
   {
     "id": "hidden-jazz-club-at-hoxton-hall-november-edition-f1f84273",
@@ -8795,6 +8985,64 @@
     "description": "Mixed-genre freestyle the night before the Ceroc Champs — competitors and social dancers alike. Harrow: Jubilee line to Kingsbury + 10 min walk (~1h door to door) — distance exception for a dance priority.",
     "neighbourhood": "Harrow (Kingsbury tube)",
     "added": "2026-08-22"
+  },
+  {
+    "title": "Negro Impacto at The Jago, Dalston (LJF)",
+    "start": "2026-11-20T21:00:00+00:00",
+    "end": "2026-11-20T23:30:00+00:00",
+    "venue": "The Jago",
+    "address": "440 Kingsland Road, Dalston, E8 4AA",
+    "url": "https://efglondonjazzfestival.org.uk/events/negro-impacto",
+    "source": "festival:efg-ljf",
+    "tags": [
+      "music",
+      "festival"
+    ],
+    "price": "TBC (see event page)",
+    "description": "Afro-Latin/Venezuelan-rooted groove outfit (Boiler Room, NTS support) in an intimate Dalston room. Doors 20:00 — late enough to follow an early show.",
+    "neighbourhood": "Dalston",
+    "added": "2026-09-19T06:23:38Z",
+    "cycle_minutes": 14,
+    "id": "negro-impacto-at-the-jago-dalston-ljf-bbb62ac1"
+  },
+  {
+    "title": "UK Jazz Dance Special with Tim Garcia at Ninety One, Brick Lane (LJF)",
+    "start": "2026-11-21T12:00:00+00:00",
+    "end": "2026-11-21T17:00:00+00:00",
+    "venue": "Ninety One Living Room",
+    "address": "91 Brick Lane, E1 6QL",
+    "url": "https://efglondonjazzfestival.org.uk/events/uk-jazz-dance-special-with-tim-garcia",
+    "source": "festival:efg-ljf",
+    "tags": [
+      "music",
+      "festival",
+      "dance"
+    ],
+    "price": "TBC (Ninety One sessions usually free/cheap)",
+    "description": "Daytime jazz-dance session with DJ Tim Garcia (Worldwide FM) celebrating UK jazz dance culture — records made for moving to. Saturday from noon, on the doorstep.",
+    "neighbourhood": "Brick Lane",
+    "added": "2026-09-19T06:23:38Z",
+    "cycle_minutes": 6,
+    "id": "uk-jazz-dance-special-with-tim-garcia-at-ninety-one-brick-la-0e727257"
+  },
+  {
+    "title": "Gary Crosby & Denys Baptiste at Abney Park Chapel (LJF)",
+    "start": "2026-11-21T12:30:00+00:00",
+    "end": "2026-11-21T13:45:00+00:00",
+    "venue": "Abney Park Chapel",
+    "address": "Abney Park Cemetery, Stoke Newington High Street, N16 0LH",
+    "url": "https://efglondonjazzfestival.org.uk/events/gary-crosby-and-denys-baptiste",
+    "source": "festival:efg-ljf",
+    "tags": [
+      "music",
+      "festival"
+    ],
+    "price": "£25",
+    "description": "Jazz Warriors founder Gary Crosby (bass) duets with saxophonist Denys Baptiste in the restored gothic chapel in Abney Park cemetery. Saturday shows 12:30 + 14:00 — daytime, chains into the evening's Highgate ceilidh or Johnny Flynn.",
+    "neighbourhood": "Stoke Newington",
+    "added": "2026-09-19T06:23:38Z",
+    "cycle_minutes": 18,
+    "id": "gary-crosby-denys-baptiste-at-abney-park-chapel-ljf-e9572931"
   },
   {
     "id": "memotone-shell-company-at-kings-place-efg-ljf-matinee-13474d39",
@@ -8906,6 +9154,26 @@
     "cycle_minutes": 28,
     "added": "2026-09-08T06:25:47Z",
     "id": "johnny-flynn-lillie-flynn-beam-cottage-1e9c0b44"
+  },
+  {
+    "title": "Williams Cumberbache + guests at Grow, Hackney Wick (LJF closing day)",
+    "start": "2026-11-22T11:00:00+00:00",
+    "end": "2026-11-22T15:00:00+00:00",
+    "venue": "Grow, Hackney",
+    "address": "Main Yard, 86 Wallis Road, Hackney Wick, E9 5LN",
+    "url": "https://efglondonjazzfestival.org.uk/events/williams-cumberbache-special-guests",
+    "source": "festival:efg-ljf",
+    "tags": [
+      "music",
+      "festival",
+      "dance"
+    ],
+    "price": "TBC (~£10-15)",
+    "description": "Afro-Venezuelan percussionist Williams Cumberbache leads a Sunday daytime canal-side session on the festival's closing day — cheap, close, danceable. Chains into Hannah James & Toby Kuhn at Walthamstow or feeble little horse.",
+    "neighbourhood": "Hackney Wick",
+    "added": "2026-09-19T06:23:38Z",
+    "cycle_minutes": 15,
+    "id": "williams-cumberbache-guests-at-grow-hackney-wick-ljf-closing-58f44dd8"
   },
   {
     "title": "feeble little horse at EartH — extra date (22 Nov)",
