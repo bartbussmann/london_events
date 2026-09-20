@@ -2528,6 +2528,18 @@ LOCATION:The Yard Theatre\, The Yard Theatre (new venue)\, Hackney Wick\,
  London E9
 END:VEVENT
 BEGIN:VEVENT
+UID:ahir-shah-golden-at-soho-theatre-run-5-17-oct-829fab41@london-events
+DTSTAMP:20261007T181500Z
+DTSTART:20261007T181500Z
+DTEND:20261007T201500Z
+SUMMARY:Ahir Shah: Golden at Soho Theatre (run 5-17 Oct)
+DESCRIPTION:Edinburgh Comedy Award winner Ahir Shah's new hour\, fresh off
+  the Fringe. Representative evening\; runs Mon 5 - Sat 17 Oct\, 7.15pm.\n
+ Price: £20\nhttps://sohotheatre.com/events/ahir-shah-golden/
+URL:https://sohotheatre.com/events/ahir-shah-golden/
+LOCATION:Soho Theatre\, 21 Dean St\, W1D 3NE
+END:VEVENT
+BEGIN:VEVENT
 UID:spark-storytelling-open-mic-haunted-148d5b01@london-events
 DTSTAMP:20261007T183000Z
 DTSTART:20261007T183000Z
@@ -2684,6 +2696,22 @@ URL:https://www.kingsplace.co.uk/whats-on/folk/hajda-banda-seated-standing
 LOCATION:Kings Place\, 90 York Way\, London N1 9AG
 END:VEVENT
 BEGIN:VEVENT
+UID:jordan-brookes-the-part-of-you-that-s-always-screaming-run-5-489b4d31@
+ london-events
+DTSTAMP:20261008T200000Z
+DTSTART:20261008T200000Z
+DTEND:20261008T220000Z
+SUMMARY:Jordan Brookes: The Part of You That's Always Screaming (run 5-10 
+ Oct)
+DESCRIPTION:Edinburgh Comedy Award winner Jordan Brookes with his acclaime
+ d\, deeply strange new show. 9pm — chains after the 8 Oct early options
+ . Runs Mon 5 - Sat 10 Oct.\nPrice: £22\nhttps://sohotheatre.com/events/j
+ ordan-brookes-the-part-of-you-thats-always-screaming-2/
+URL:https://sohotheatre.com/events/jordan-brookes-the-part-of-you-thats-al
+ ways-screaming-2/
+LOCATION:Soho Theatre\, 21 Dean St\, W1D 3NE
+END:VEVENT
+BEGIN:VEVENT
 UID:the-cocoa-butter-club-late-cabaret-at-the-yard-34aea2ba@london-events
 DTSTAMP:20261008T203000Z
 DTSTART:20261008T203000Z
@@ -2790,6 +2818,21 @@ DESCRIPTION:One-night 160th-birthday spectacular: 16 of the venue's most m
  htownhall.com/whats-on/16-acts
 URL:https://shoreditchtownhall.com/whats-on/16-acts
 LOCATION:Shoreditch Town Hall (Assembly Hall)\, 380 Old Street\, EC1V 9LT
+END:VEVENT
+BEGIN:VEVENT
+UID:vilde-frang-bertrand-chamayou-eredics-brothers-bart-k-and-ba-7c7b3b2e@
+ london-events
+DTSTAMP:20261009T183000Z
+DTSTART:20261009T183000Z
+DTEND:20261009T203000Z
+SUMMARY:Vilde Frang\, Bertrand Chamayou & Eredics brothers: Bartók and Ba
+ lkan folk
+DESCRIPTION:Star violinist and pianist joined by the Eredics brothers on a
+ ccordion\, shepherd flute and kontra tambura — Bartók and Kurtág inte
+ rwoven with live Balkan/Romanian folk. Proper folk/classical crossover.\n
+ Price: £18-£40\nhttps://www.wigmore-hall.org.uk/whats-on/202610091930
+URL:https://www.wigmore-hall.org.uk/whats-on/202610091930
+LOCATION:Wigmore Hall\, 36 Wigmore St\, W1U 2BP
 END:VEVENT
 BEGIN:VEVENT
 UID:cacao-dance-tribe-friday-ecstatic-dance-cacao-9-oct-1350b211@london-ev
@@ -3368,6 +3411,21 @@ URL:https://www.thursday.com/events/london/monday-singles-pub-quiz-night-s
 LOCATION:21Soho\, 3-5 Sutton Row\, London W1D 4NR
 END:VEVENT
 BEGIN:VEVENT
+UID:the-moth-storyslam-magic-aefa885d@london-events
+DTSTAMP:20261012T180000Z
+DTSTART:20261012T180000Z
+DTEND:20261012T210000Z
+SUMMARY:The Moth StorySLAM: Magic
+DESCRIPTION:Open-mic true-storytelling slam on the theme Magic — doors 7
+ pm\, stories 8pm\; tell a 5-minute story or just watch. Long-awaited watc
+ hlist item\; buy promptly when sales open. (Same night as the Thursday si
+ ngles quiz + The Devils — pick.)\nPrice: TBC — ON SALE MON 21 SEP 8pm
+  UK\, sells fast\nhttps://www.themoth.org/tickets/magic-26
+URL:https://www.themoth.org/tickets/magic-26
+LOCATION:Crypt on the Green\, St James Clerkenwell\, Clerkenwell Close\, E
+ C1R 0EA
+END:VEVENT
+BEGIN:VEVENT
 UID:gresham-college-the-science-of-puppetry-how-real-can-they-be-4bc6a419@
  london-events
 DTSTAMP:20261013T170000Z
@@ -3717,6 +3775,19 @@ DESCRIPTION:LAUGH strand. How To with John Wilson's creator applies a Hall
 URL:https://whatson.bfi.org.uk/lff/Online/default.asp?BOparam::WScontent::
  loadArticle::permalink=history-of-concrete-lff26
 LOCATION:Prince Charles Cinema\, 7 Leicester Place\, London WC2H 7BY
+END:VEVENT
+BEGIN:VEVENT
+UID:ivo-graham-orange-crush-at-soho-theatre-run-12-17-oct-d5905bcd@london-
+ events
+DTSTAMP:20261015T200000Z
+DTSTART:20261015T200000Z
+DTEND:20261015T220000Z
+SUMMARY:Ivo Graham: Orange Crush at Soho Theatre (run 12-17 Oct)
+DESCRIPTION:Taskmaster favourite Ivo Graham's latest stand-up hour. 9pm\; 
+ runs Mon 12 - Sat 17 Oct.\nPrice: £25\nhttps://sohotheatre.com/events/iv
+ o-graham-orange-crush/
+URL:https://sohotheatre.com/events/ivo-graham-orange-crush/
+LOCATION:Soho Theatre\, 21 Dean St\, W1D 3NE
 END:VEVENT
 BEGIN:VEVENT
 UID:lff-sumo-spirit-weighs-nothing-erik-shirai-3df6fd7d@london-events
@@ -5016,6 +5087,20 @@ URL:https://www.youngvic.org/whats-on/girls
 LOCATION:Young Vic\, 66 The Cut\, Waterloo\, London SE1 8LZ
 END:VEVENT
 BEGIN:VEVENT
+UID:sophie-duker-hot-beef-injection-run-26-oct-7-nov-746a11ae@london-event
+ s
+DTSTAMP:20261028T211500Z
+DTSTART:20261028T211500Z
+DTEND:20261028T231500Z
+SUMMARY:Sophie Duker: Hot Beef Injection (run 26 Oct - 7 Nov)
+DESCRIPTION:Taskmaster champion Sophie Duker's new show in Soho Downstairs
+ . 9.15pm — late enough to follow the 28 Oct three-way (Jasmine Myra / N
+ ick Hakim / Lucia). Runs 26 Oct - 7 Nov.\nPrice: From £20\nhttps://sohot
+ heatre.com/events/sophie-duker-hot-beef-injection/
+URL:https://sohotheatre.com/events/sophie-duker-hot-beef-injection/
+LOCATION:Soho Theatre (Downstairs)\, 21 Dean St\, W1D 3NE
+END:VEVENT
+BEGIN:VEVENT
 UID:training-ground-4-day-contact-improvisation-intensive-rick-n-bd8ce8ed@
  london-events
 DTSTAMP:20261029T100000Z
@@ -5072,6 +5157,19 @@ DESCRIPTION:Angular Aussie post-punk trio Formal Sppeedwear at MOTH Club.\
  nPrice: £14.73\nhttps://dice.fm/event/6a16a422605f1c0001972f27
 URL:https://dice.fm/event/6a16a422605f1c0001972f27
 LOCATION:MOTH Club\, Old Trades Hall\, Valette Street\, London E9 6NU
+END:VEVENT
+BEGIN:VEVENT
+UID:roleplay-by-hannah-reilly-at-soho-theatre-run-22-oct-21-nov-9c1ad661@l
+ ondon-events
+DTSTAMP:20261029T190000Z
+DTSTART:20261029T190000Z
+DTEND:20261029T210000Z
+SUMMARY:ROLEPLAY by Hannah Reilly at Soho Theatre (run 22 Oct - 21 Nov)
+DESCRIPTION:New play by Hannah Reilly\, directed by Paige Rattray — Soho
+ 's main-house new-writing lead this autumn. Runs 22 Oct - 21 Nov\, 7pm.\n
+ Price: From £21\nhttps://sohotheatre.com/events/roleplay/
+URL:https://sohotheatre.com/events/roleplay/
+LOCATION:Soho Theatre\, 21 Dean St\, W1D 3NE
 END:VEVENT
 BEGIN:VEVENT
 UID:painting-the-fruit-band-at-shacklewell-arms-free-582cfd1d@london-event
@@ -5265,6 +5363,19 @@ DESCRIPTION:60s folk-revival legend ('No Regrets') plays his first London
  tom-rush
 URL:https://unionchapel.org.uk/whats-on/tom-rush
 LOCATION:Union Chapel\, Compton Terrace\, Islington\, N1 2UN
+END:VEVENT
+BEGIN:VEVENT
+UID:the-tiger-lillies-songs-for-the-dead-9af73b3d@london-events
+DTSTAMP:20261101T193000Z
+DTSTART:20261101T193000Z
+DTEND:20261101T213000Z
+SUMMARY:The Tiger Lillies: Songs for The Dead
+DESCRIPTION:The cult Brechtian dark-cabaret trio's macabre Day-of-the-Dead
+ -flavoured show — one night only\, Sun 1 Nov 7.30pm. (Alternative to th
+ e Kureishi talk at QEH.)\nPrice: £15-£39\nhttps://sohotheatre.com/event
+ s/the-tiger-lillies-songs-of-the-dead/
+URL:https://sohotheatre.com/events/the-tiger-lillies-songs-of-the-dead/
+LOCATION:Soho Theatre Walthamstow\, 186 Hoe St\, E17 4QH
 END:VEVENT
 BEGIN:VEVENT
 UID:hanif-carlo-kureishi-are-you-with-me-now-2eb493da@london-events
@@ -5919,6 +6030,21 @@ DESCRIPTION:Whisper-quiet folk songwriter Aayushi tops a three-act Wednesd
 URL:https://dice.fm/event/l8d9wl-aayushi-ray-vincent-mills-hannah-lou-clar
  k-11th-nov-paper-dress-vintage-london-tickets
 LOCATION:Paper Dress Vintage\, 352a Mare Street\, E8 1HR
+END:VEVENT
+BEGIN:VEVENT
+UID:stile-antico-discord-to-harmony-renaissance-music-of-war-and-c65f8105@
+ london-events
+DTSTAMP:20261111T193000Z
+DTSTART:20261111T193000Z
+DTEND:20261111T213000Z
+SUMMARY:Stile Antico: Discord to Harmony — Renaissance music of war and 
+ peace
+DESCRIPTION:The great 12-voice a cappella ensemble sings Renaissance polyp
+ hony of war and peace\, from the Agincourt Carol to Byrd. Atmospheric ear
+ ly music at its best.\nPrice: £18-£40\nhttps://www.wigmore-hall.org.uk/
+ whats-on/202611111930
+URL:https://www.wigmore-hall.org.uk/whats-on/202611111930
+LOCATION:Wigmore Hall\, 36 Wigmore St\, W1U 2BP
 END:VEVENT
 BEGIN:VEVENT
 UID:ona-mafalda-at-the-old-blue-last-62b0f7f9@london-events
@@ -7250,6 +7376,19 @@ URL:https://luma.com/pn8du6nq
 LOCATION:Newspeak House\, 133-135 Bethnal Green Road\, E2 7DG
 END:VEVENT
 BEGIN:VEVENT
+UID:harold-l-pez-nussa-trio-roots-in-motion-c5ea16a4@london-events
+DTSTAMP:20261130T193000Z
+DTSTART:20261130T193000Z
+DTEND:20261130T213000Z
+SUMMARY:Harold López-Nussa Trio: Roots in Motion
+DESCRIPTION:Cuban jazz pianist Harold López-Nussa with African percussion
+  and double bass — Afro-Cuban groove meets the hall's acoustics. Fills 
+ the thin Monday 30 Nov.\nPrice: £18-£40\nhttps://www.wigmore-hall.org.u
+ k/whats-on/202611301930
+URL:https://www.wigmore-hall.org.uk/whats-on/202611301930
+LOCATION:Wigmore Hall\, 36 Wigmore St\, W1U 2BP
+END:VEVENT
+BEGIN:VEVENT
 UID:gresham-college-ai-as-muse-creativity-provocation-and-human--1188f869@
  london-events
 DTSTAMP:20261201T180000Z
@@ -7894,6 +8033,20 @@ URL:https://www.efdss.org/whats-on/27-dances/15766-knees-up-cecil-sharp-ce
 LOCATION:Cecil Sharp House\, 2 Regent's Park Road\, NW1 7AY
 END:VEVENT
 BEGIN:VEVENT
+UID:taylor-mac-holiday-sauce-at-soho-theatre-walthamstow-17-23-d-41f5e5a3@
+ london-events
+DTSTAMP:20261218T200000Z
+DTSTART:20261218T200000Z
+DTEND:20261218T220000Z
+SUMMARY:Taylor Mac: Holiday Sauce at Soho Theatre Walthamstow (17-23 Dec)
+DESCRIPTION:Pulitzer-finalist performance artist Taylor Mac's riotous anti
+ -Christmas cabaret spectacular. Runs 17-23 Dec\, 8pm — a proper Decembe
+ r-week option.\nPrice: From £29\nhttps://sohotheatre.com/events/taylor-m
+ ac-holiday-sauce/
+URL:https://sohotheatre.com/events/taylor-mac-holiday-sauce/
+LOCATION:Soho Theatre Walthamstow\, 186 Hoe St\, E17 4QH
+END:VEVENT
+BEGIN:VEVENT
 UID:ecstatic-saturdays-sober-rave-ecstatic-dance-cacao-19-dec-fc01e330@lon
  don-events
 DTSTAMP:20261219T190000Z
@@ -8008,6 +8161,21 @@ URL:https://unionchapel.org.uk/venue/whats-on/kate-rusby-at-christmas-even
 LOCATION:Union Chapel\, Compton Terrace\, N1 2UN
 END:VEVENT
 BEGIN:VEVENT
+UID:britten-s-canticles-late-night-concert-clayton-davies-brathw-4f9d4850@
+ london-events
+DTSTAMP:20261222T210000Z
+DTSTART:20261222T210000Z
+DTEND:20261222T230000Z
+SUMMARY:Britten's Canticles — late-night concert (Clayton\, Davies\, Bra
+ thwaite)
+DESCRIPTION:9pm late-night performance of all five Britten Canticles with 
+ Allan Clayton\, Iestyn Davies and Peter Brathwaite — spiritually charge
+ d storytelling. Fills the thin 22 Dec.\nPrice: £18-£45\nhttps://www.wig
+ more-hall.org.uk/whats-on/202612222100
+URL:https://www.wigmore-hall.org.uk/whats-on/202612222100
+LOCATION:Wigmore Hall\, 36 Wigmore St\, W1U 2BP
+END:VEVENT
+BEGIN:VEVENT
 UID:knock2bag-comedy-night-pre-christmas-edition-82c1e4fc@london-events
 DTSTAMP:20261223T190000Z
 DTSTART:20261223T190000Z
@@ -8019,6 +8187,19 @@ DESCRIPTION:Knock2Bag's last mixed bill before Christmas\, with Ray Badran
 URL:https://dice.fm/event/k652ro-knock2bag-comedy-night-23rd-dec-moth-club
  -london-tickets
 LOCATION:MOTH Club\, Old Trades Hall\, Valette Street\, E9 6NU
+END:VEVENT
+BEGIN:VEVENT
+UID:dunedin-consort-an-early-german-christmas-023cc789@london-events
+DTSTAMP:20261223T193000Z
+DTSTART:20261223T193000Z
+DTEND:20261223T213000Z
+SUMMARY:Dunedin Consort: An Early German Christmas
+DESCRIPTION:John Butt's period-instrument Dunedin Consort in candlelit-moo
+ d Buxtehude\, Böhm and early Bach for Christmas — fills the thin 23 De
+ c.\nPrice: £18-£50\nhttps://www.wigmore-hall.org.uk/whats-on/2026122319
+ 30
+URL:https://www.wigmore-hall.org.uk/whats-on/202612231930
+LOCATION:Wigmore Hall\, 36 Wigmore St\, W1U 2BP
 END:VEVENT
 BEGIN:VEVENT
 UID:new-year-s-eve-ceilidh-at-cecil-sharp-house-b1ded518@london-events

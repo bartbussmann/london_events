@@ -3368,6 +3368,24 @@
     "id": "for-colored-girls-the-yard-s-new-hackney-wick-venue-7020bb13"
   },
   {
+    "title": "Ahir Shah: Golden at Soho Theatre (run 5-17 Oct)",
+    "start": "2026-10-07T19:15:00+01:00",
+    "end": null,
+    "venue": "Soho Theatre",
+    "address": "21 Dean St, W1D 3NE",
+    "url": "https://sohotheatre.com/events/ahir-shah-golden/",
+    "source": "venue:soho-theatre",
+    "tags": [
+      "comedy"
+    ],
+    "price": "£20",
+    "description": "Edinburgh Comedy Award winner Ahir Shah's new hour, fresh off the Fringe. Representative evening; runs Mon 5 - Sat 17 Oct, 7.15pm.",
+    "neighbourhood": "Soho",
+    "cycle_minutes": 27,
+    "added": "2026-09-20T06:16:34Z",
+    "id": "ahir-shah-golden-at-soho-theatre-run-5-17-oct-829fab41"
+  },
+  {
     "id": "spark-storytelling-open-mic-haunted-148d5b01",
     "title": "Spark Storytelling Open Mic — 'Haunted'",
     "start": "2026-10-07T19:30:00+01:00",
@@ -3572,6 +3590,24 @@
     "added": "2026-08-18"
   },
   {
+    "title": "Jordan Brookes: The Part of You That's Always Screaming (run 5-10 Oct)",
+    "start": "2026-10-08T21:00:00+01:00",
+    "end": null,
+    "venue": "Soho Theatre",
+    "address": "21 Dean St, W1D 3NE",
+    "url": "https://sohotheatre.com/events/jordan-brookes-the-part-of-you-thats-always-screaming-2/",
+    "source": "venue:soho-theatre",
+    "tags": [
+      "comedy"
+    ],
+    "price": "£22",
+    "description": "Edinburgh Comedy Award winner Jordan Brookes with his acclaimed, deeply strange new show. 9pm — chains after the 8 Oct early options. Runs Mon 5 - Sat 10 Oct.",
+    "neighbourhood": "Soho",
+    "cycle_minutes": 27,
+    "added": "2026-09-20T06:16:34Z",
+    "id": "jordan-brookes-the-part-of-you-that-s-always-screaming-run-5-489b4d31"
+  },
+  {
     "title": "The Cocoa Butter Club — late cabaret at The Yard",
     "start": "2026-10-08T21:30:00+01:00",
     "end": "2026-10-08T23:00:00+01:00",
@@ -3720,6 +3756,24 @@
     "neighbourhood": "Shoreditch",
     "cycle_minutes": 8,
     "added": "2026-08-25"
+  },
+  {
+    "title": "Vilde Frang, Bertrand Chamayou & Eredics brothers: Bartók and Balkan folk",
+    "start": "2026-10-09T19:30:00+01:00",
+    "end": null,
+    "venue": "Wigmore Hall",
+    "address": "36 Wigmore St, W1U 2BP",
+    "url": "https://www.wigmore-hall.org.uk/whats-on/202610091930",
+    "source": "venue:wigmore-hall",
+    "tags": [
+      "music"
+    ],
+    "price": "£18-£40",
+    "description": "Star violinist and pianist joined by the Eredics brothers on accordion, shepherd flute and kontra tambura — Bartók and Kurtág interwoven with live Balkan/Romanian folk. Proper folk/classical crossover.",
+    "neighbourhood": "Marylebone",
+    "cycle_minutes": 35,
+    "added": "2026-09-20T06:16:34Z",
+    "id": "vilde-frang-bertrand-chamayou-eredics-brothers-bart-k-and-ba-7c7b3b2e"
   },
   {
     "id": "cacao-dance-tribe-friday-ecstatic-dance-cacao-9-oct-1350b211",
@@ -4415,6 +4469,25 @@
     "id": "thursday-singles-pub-quiz-night-24-35-at-21soho-12-oct-c187d71a"
   },
   {
+    "title": "The Moth StorySLAM: Magic",
+    "start": "2026-10-12T19:00:00+01:00",
+    "end": "2026-10-12T22:00:00+01:00",
+    "venue": "Crypt on the Green",
+    "address": "St James Clerkenwell, Clerkenwell Close, EC1R 0EA",
+    "url": "https://www.themoth.org/tickets/magic-26",
+    "source": "venue:themoth",
+    "tags": [
+      "community",
+      "theatre"
+    ],
+    "price": "TBC — ON SALE MON 21 SEP 8pm UK, sells fast",
+    "description": "Open-mic true-storytelling slam on the theme Magic — doors 7pm, stories 8pm; tell a 5-minute story or just watch. Long-awaited watchlist item; buy promptly when sales open. (Same night as the Thursday singles quiz + The Devils — pick.)",
+    "neighbourhood": "Clerkenwell",
+    "cycle_minutes": 15,
+    "added": "2026-09-20T06:16:34Z",
+    "id": "the-moth-storyslam-magic-aefa885d"
+  },
+  {
     "id": "gresham-college-the-science-of-puppetry-how-real-can-they-be-4bc6a419",
     "title": "Gresham College: The Science of Puppetry — How Real Can They Be? (free)",
     "start": "2026-10-13T18:00:00+01:00",
@@ -4861,6 +4934,24 @@
     "cycle_minutes": 30,
     "added": "2026-09-10T06:16:24Z",
     "id": "lff-the-history-of-concrete-john-wilson-8e9b3baa"
+  },
+  {
+    "title": "Ivo Graham: Orange Crush at Soho Theatre (run 12-17 Oct)",
+    "start": "2026-10-15T21:00:00+01:00",
+    "end": null,
+    "venue": "Soho Theatre",
+    "address": "21 Dean St, W1D 3NE",
+    "url": "https://sohotheatre.com/events/ivo-graham-orange-crush/",
+    "source": "venue:soho-theatre",
+    "tags": [
+      "comedy"
+    ],
+    "price": "£25",
+    "description": "Taskmaster favourite Ivo Graham's latest stand-up hour. 9pm; runs Mon 12 - Sat 17 Oct.",
+    "neighbourhood": "Soho",
+    "cycle_minutes": 27,
+    "added": "2026-09-20T06:16:34Z",
+    "id": "ivo-graham-orange-crush-at-soho-theatre-run-12-17-oct-d5905bcd"
   },
   {
     "title": "LFF: Sumo: Spirit Weighs Nothing (Erik Shirai)",
@@ -6545,6 +6636,24 @@
     "id": "girls-by-theresa-ikoko-young-vic-maria-studio-fb9b385d"
   },
   {
+    "title": "Sophie Duker: Hot Beef Injection (run 26 Oct - 7 Nov)",
+    "start": "2026-10-28T21:15:00+00:00",
+    "end": null,
+    "venue": "Soho Theatre (Downstairs)",
+    "address": "21 Dean St, W1D 3NE",
+    "url": "https://sohotheatre.com/events/sophie-duker-hot-beef-injection/",
+    "source": "venue:soho-theatre",
+    "tags": [
+      "comedy"
+    ],
+    "price": "From £20",
+    "description": "Taskmaster champion Sophie Duker's new show in Soho Downstairs. 9.15pm — late enough to follow the 28 Oct three-way (Jasmine Myra / Nick Hakim / Lucia). Runs 26 Oct - 7 Nov.",
+    "neighbourhood": "Soho",
+    "cycle_minutes": 27,
+    "added": "2026-09-20T06:16:34Z",
+    "id": "sophie-duker-hot-beef-injection-run-26-oct-7-nov-746a11ae"
+  },
+  {
     "id": "training-ground-4-day-contact-improvisation-intensive-rick-n-bd8ce8ed",
     "title": "TRAINING GROUND — 4-day contact improvisation intensive (Rick Nodine)",
     "start": "2026-10-29T10:00:00+00:00",
@@ -6617,6 +6726,24 @@
     "cycle_minutes": 12,
     "added": "2026-09-06T06:17:42Z",
     "id": "formal-sppeedwear-at-moth-club-43edd1f5"
+  },
+  {
+    "title": "ROLEPLAY by Hannah Reilly at Soho Theatre (run 22 Oct - 21 Nov)",
+    "start": "2026-10-29T19:00:00+00:00",
+    "end": null,
+    "venue": "Soho Theatre",
+    "address": "21 Dean St, W1D 3NE",
+    "url": "https://sohotheatre.com/events/roleplay/",
+    "source": "venue:soho-theatre",
+    "tags": [
+      "theatre"
+    ],
+    "price": "From £21",
+    "description": "New play by Hannah Reilly, directed by Paige Rattray — Soho's main-house new-writing lead this autumn. Runs 22 Oct - 21 Nov, 7pm.",
+    "neighbourhood": "Soho",
+    "cycle_minutes": 27,
+    "added": "2026-09-20T06:16:34Z",
+    "id": "roleplay-by-hannah-reilly-at-soho-theatre-run-22-oct-21-nov-9c1ad661"
   },
   {
     "id": "painting-the-fruit-band-at-shacklewell-arms-free-582cfd1d",
@@ -6873,6 +7000,25 @@
     "neighbourhood": "Islington",
     "cycle_minutes": 20,
     "added": "2026-08-30"
+  },
+  {
+    "title": "The Tiger Lillies: Songs for The Dead",
+    "start": "2026-11-01T19:30:00+00:00",
+    "end": null,
+    "venue": "Soho Theatre Walthamstow",
+    "address": "186 Hoe St, E17 4QH",
+    "url": "https://sohotheatre.com/events/the-tiger-lillies-songs-of-the-dead/",
+    "source": "venue:soho-theatre",
+    "tags": [
+      "music",
+      "theatre"
+    ],
+    "price": "£15-£39",
+    "description": "The cult Brechtian dark-cabaret trio's macabre Day-of-the-Dead-flavoured show — one night only, Sun 1 Nov 7.30pm. (Alternative to the Kureishi talk at QEH.)",
+    "neighbourhood": "Walthamstow",
+    "cycle_minutes": 32,
+    "added": "2026-09-20T06:16:34Z",
+    "id": "the-tiger-lillies-songs-for-the-dead-9af73b3d"
   },
   {
     "title": "Hanif & Carlo Kureishi: Are You With Me Now?",
@@ -7733,6 +7879,24 @@
     "neighbourhood": "Hackney Central",
     "cycle_minutes": 12,
     "added": "2026-08-16"
+  },
+  {
+    "title": "Stile Antico: Discord to Harmony — Renaissance music of war and peace",
+    "start": "2026-11-11T19:30:00+00:00",
+    "end": null,
+    "venue": "Wigmore Hall",
+    "address": "36 Wigmore St, W1U 2BP",
+    "url": "https://www.wigmore-hall.org.uk/whats-on/202611111930",
+    "source": "venue:wigmore-hall",
+    "tags": [
+      "music"
+    ],
+    "price": "£18-£40",
+    "description": "The great 12-voice a cappella ensemble sings Renaissance polyphony of war and peace, from the Agincourt Carol to Byrd. Atmospheric early music at its best.",
+    "neighbourhood": "Marylebone",
+    "cycle_minutes": 35,
+    "added": "2026-09-20T06:16:34Z",
+    "id": "stile-antico-discord-to-harmony-renaissance-music-of-war-and-c65f8105"
   },
   {
     "id": "ona-mafalda-at-the-old-blue-last-62b0f7f9",
@@ -9505,6 +9669,24 @@
     "cycle_minutes": 3
   },
   {
+    "title": "Harold López-Nussa Trio: Roots in Motion",
+    "start": "2026-11-30T19:30:00+00:00",
+    "end": null,
+    "venue": "Wigmore Hall",
+    "address": "36 Wigmore St, W1U 2BP",
+    "url": "https://www.wigmore-hall.org.uk/whats-on/202611301930",
+    "source": "venue:wigmore-hall",
+    "tags": [
+      "music"
+    ],
+    "price": "£18-£40",
+    "description": "Cuban jazz pianist Harold López-Nussa with African percussion and double bass — Afro-Cuban groove meets the hall's acoustics. Fills the thin Monday 30 Nov.",
+    "neighbourhood": "Marylebone",
+    "cycle_minutes": 35,
+    "added": "2026-09-20T06:16:34Z",
+    "id": "harold-l-pez-nussa-trio-roots-in-motion-c5ea16a4"
+  },
+  {
     "title": "Gresham College: AI as Muse? Creativity, Provocation and Human Ownership (free)",
     "start": "2026-12-01T18:00:00+00:00",
     "end": "2026-12-01T19:00:00+00:00",
@@ -10386,6 +10568,25 @@
     "added": "2026-08-23"
   },
   {
+    "title": "Taylor Mac: Holiday Sauce at Soho Theatre Walthamstow (17-23 Dec)",
+    "start": "2026-12-18T20:00:00+00:00",
+    "end": null,
+    "venue": "Soho Theatre Walthamstow",
+    "address": "186 Hoe St, E17 4QH",
+    "url": "https://sohotheatre.com/events/taylor-mac-holiday-sauce/",
+    "source": "venue:soho-theatre",
+    "tags": [
+      "theatre",
+      "music"
+    ],
+    "price": "From £29",
+    "description": "Pulitzer-finalist performance artist Taylor Mac's riotous anti-Christmas cabaret spectacular. Runs 17-23 Dec, 8pm — a proper December-week option.",
+    "neighbourhood": "Walthamstow",
+    "cycle_minutes": 32,
+    "added": "2026-09-20T06:16:34Z",
+    "id": "taylor-mac-holiday-sauce-at-soho-theatre-walthamstow-17-23-d-41f5e5a3"
+  },
+  {
     "title": "Ecstatic Saturdays: Sober Rave — Ecstatic Dance & Cacao (19 Dec)",
     "start": "2026-12-19T19:00:00+00:00",
     "end": "2026-12-19T22:15:00+00:00",
@@ -10531,6 +10732,24 @@
     "added": "2026-08-29"
   },
   {
+    "title": "Britten's Canticles — late-night concert (Clayton, Davies, Brathwaite)",
+    "start": "2026-12-22T21:00:00+00:00",
+    "end": null,
+    "venue": "Wigmore Hall",
+    "address": "36 Wigmore St, W1U 2BP",
+    "url": "https://www.wigmore-hall.org.uk/whats-on/202612222100",
+    "source": "venue:wigmore-hall",
+    "tags": [
+      "music"
+    ],
+    "price": "£18-£45",
+    "description": "9pm late-night performance of all five Britten Canticles with Allan Clayton, Iestyn Davies and Peter Brathwaite — spiritually charged storytelling. Fills the thin 22 Dec.",
+    "neighbourhood": "Marylebone",
+    "cycle_minutes": 35,
+    "added": "2026-09-20T06:16:34Z",
+    "id": "britten-s-canticles-late-night-concert-clayton-davies-brathw-4f9d4850"
+  },
+  {
     "id": "knock2bag-comedy-night-pre-christmas-edition-82c1e4fc",
     "title": "Knock2Bag Comedy Night — pre-Christmas edition",
     "start": "2026-12-23T19:00:00+00:00",
@@ -10547,6 +10766,24 @@
     "neighbourhood": "Hackney Central",
     "cycle_minutes": 12,
     "added": "2026-08-29"
+  },
+  {
+    "title": "Dunedin Consort: An Early German Christmas",
+    "start": "2026-12-23T19:30:00+00:00",
+    "end": null,
+    "venue": "Wigmore Hall",
+    "address": "36 Wigmore St, W1U 2BP",
+    "url": "https://www.wigmore-hall.org.uk/whats-on/202612231930",
+    "source": "venue:wigmore-hall",
+    "tags": [
+      "music"
+    ],
+    "price": "£18-£50",
+    "description": "John Butt's period-instrument Dunedin Consort in candlelit-mood Buxtehude, Böhm and early Bach for Christmas — fills the thin 23 Dec.",
+    "neighbourhood": "Marylebone",
+    "cycle_minutes": 35,
+    "added": "2026-09-20T06:16:34Z",
+    "id": "dunedin-consort-an-early-german-christmas-023cc789"
   },
   {
     "id": "new-year-s-eve-ceilidh-at-cecil-sharp-house-b1ded518",
