@@ -37,265 +37,6 @@
     "added": "2026-08-20"
   },
   {
-    "id": "open-house-bishopsgate-goodsyard-behind-the-hoarding-at-the--2f7700ca",
-    "title": "Open House: Bishopsgate Goodsyard — behind the hoarding at the Braithwaite Arches",
-    "start": "2026-09-18T11:00:00+01:00",
-    "end": "2026-09-18T12:30:00+01:00",
-    "venue": "Bishopsgate Goodsyard",
-    "address": "68 Sclater Street, E1 6HR",
-    "url": "https://programme.openhouse.org.uk/listings/12431",
-    "source": "festival:open-house",
-    "tags": [
-      "festival",
-      "art"
-    ],
-    "price": "Free (ticketed)",
-    "description": "Guided walk behind the hoardings of the Shoreditch goodsyard (largely shut since 1964) with the developers — 5 minutes from home. Fri 18 Sep 11:00 or 14:00 only; weekday daytime is the trade-off, flagged as a rare-access exception. Booking opens midday 19 Aug.",
-    "neighbourhood": "Shoreditch",
-    "cycle_minutes": 6,
-    "added": "2026-08-19"
-  },
-  {
-    "id": "breathwork-harmonizing-sound-and-sacred-cacao-ceremony-18-se-2a4f6ff4",
-    "title": "Breathwork, Harmonizing Sound and Sacred Cacao Ceremony (18 Sep edition)",
-    "start": "2026-09-18T18:00:00+01:00",
-    "end": "2026-09-18T21:00:00+01:00",
-    "venue": "Unit 12, 2-16 Bayford Street",
-    "address": "Unit 12, 2-16 Bayford Street, E8 3SE",
-    "url": "https://dandelion.events/e/c2lpo",
-    "source": "aggregator:dandelion",
-    "tags": [
-      "workshop",
-      "community"
-    ],
-    "price": "£30-£38",
-    "description": "New September date for the breathwork + live harmonizing-sound immersion with ceremonial cacao — the 21 Aug edition is also on the calendar.",
-    "neighbourhood": "London Fields",
-    "cycle_minutes": 10,
-    "added": "2026-08-13"
-  },
-  {
-    "id": "thursday-singles-hide-and-seek-chicken-rush-a70288c4",
-    "title": "Thursday: SINGLES Hide and Seek (Chicken Rush)",
-    "start": "2026-09-18T18:00:00+01:00",
-    "end": "2026-09-18T23:30:00+01:00",
-    "venue": "Bat & Ball Covent Garden (start point)",
-    "address": "50 Earlham St, WC2H 9LJ",
-    "url": "https://www.thursday.com/events/london/friday-singles-chicken-rush-london-copy",
-    "source": "listing:thursday-dating",
-    "tags": [
-      "community"
-    ],
-    "price": "Ticketed via Thursday",
-    "description": "Mixed teams of singles race around central London pubs hunting a person dressed as a giant chicken — part game, part pub crawl; round 2 after a sold-out first edition.",
-    "neighbourhood": "Covent Garden",
-    "cycle_minutes": 25,
-    "added": "2026-08-24"
-  },
-  {
-    "id": "sustainability-in-ceramics-talk-q-a-with-ana-bridgewater-094c2687",
-    "title": "Sustainability in Ceramics — talk & Q&A with Ana Bridgewater",
-    "start": "2026-09-18T18:00:00+01:00",
-    "end": "2026-09-18T19:00:00+01:00",
-    "venue": "Indra Gallery",
-    "address": "20 East Rd, N1 6AT",
-    "url": "https://shoreditchdesignweek.com/showroom/sustainability-in-ceramics-talk-with-ana-bridgewater",
-    "source": "festival:shoreditch-design-week",
-    "tags": [
-      "talk",
-      "art"
-    ],
-    "price": "Free (register as SDW visitor)",
-    "description": "Designer-sculptor Ana Bridgewater on sustainability in ceramics — pairs with the pottery-class interest; a graduate talk follows at 7pm.",
-    "neighbourhood": "Hoxton",
-    "cycle_minutes": 8,
-    "added": "2026-09-01"
-  },
-  {
-    "id": "mug-handbuilding-taster-at-crown-works-pottery-september-a7bf8ab3",
-    "title": "Mug Handbuilding Taster at Crown Works Pottery (September)",
-    "start": "2026-09-18T18:30:00+01:00",
-    "end": "2026-09-18T20:30:00+01:00",
-    "venue": "Crown Works Pottery",
-    "address": "Temple Street, Bethnal Green, E2",
-    "url": "https://www.crownworkspottery.com/taster-sessions/tastersessionsmarchapril-lya2l-l244p-na4cn-gwd8g-f59ag-7dm5l",
-    "source": "venue:crown-works",
-    "tags": [
-      "class"
-    ],
-    "price": "£60",
-    "description": "Two-hour beginners' handbuilding session making your own mug, five minutes from home. Wheel tasters also run most Fri-Sun at £70.",
-    "neighbourhood": "Bethnal Green",
-    "cycle_minutes": 5,
-    "added": "2026-08-25"
-  },
-  {
-    "id": "newspeak-house-welcome-dinner-2026-69cd739c",
-    "title": "Newspeak House Welcome Dinner 2026",
-    "start": "2026-09-18T18:30:00+01:00",
-    "end": "2026-09-18T22:00:00+01:00",
-    "venue": "Newspeak House",
-    "address": "133 Bethnal Green Road, E2 7DG",
-    "url": "https://luma.com/addlx2lh",
-    "source": "venue:newspeak-house",
-    "tags": [
-      "community",
-      "food"
-    ],
-    "price": "Free",
-    "description": "Annual welcome dinner opening the new Newspeak House year — a low-stakes way to meet the political-technology community over food.",
-    "neighbourhood": "Bethnal Green",
-    "cycle_minutes": 3,
-    "added": "2026-08-31"
-  },
-  {
-    "id": "luke-haines-the-auteurs-the-lighthouse-at-the-lexington-b9027b84",
-    "title": "Luke Haines (The Auteurs) + The Lighthouse at The Lexington",
-    "start": "2026-09-18T19:00:00+01:00",
-    "end": null,
-    "venue": "The Lexington",
-    "address": "96-98 Pentonville Road, London N1 9JB",
-    "url": "https://www.thelexington.co.uk/events.php",
-    "source": "venue:the-lexington",
-    "tags": [
-      "music"
-    ],
-    "price": null,
-    "description": "Britpop-era cult songwriter Luke Haines (The Auteurs, Black Box Recorder) plays the upstairs room.",
-    "neighbourhood": "Angel",
-    "cycle_minutes": 20,
-    "added": "2026-08-17"
-  },
-  {
-    "id": "swing-live-lindy-hop-social-with-live-band-at-bishopsgate-in-37ec9df7",
-    "title": "Swing Live — lindy hop social with live band at Bishopsgate Institute",
-    "start": "2026-09-18T19:00:00+01:00",
-    "end": "2026-09-18T23:00:00+01:00",
-    "venue": "Bishopsgate Institute",
-    "address": "230 Bishopsgate, London EC2M 4QH",
-    "url": "https://www.bishopsgate.org.uk/whats-on/activity/260417-swing-live-2",
-    "source": "venue:bishopsgate-institute",
-    "tags": [
-      "dance",
-      "music"
-    ],
-    "price": "£17 adv / £21 door",
-    "description": "Season-closing Swing Patrol night with a live band and vintage DJs, opening with a beginner taster class — all levels.",
-    "neighbourhood": "Liverpool Street",
-    "cycle_minutes": 8,
-    "added": "2026-08-18"
-  },
-  {
-    "title": "Chess night at SJQ (18 Sep)",
-    "start": "2026-09-18T19:00:00+01:00",
-    "end": "2026-09-18T22:00:00+01:00",
-    "venue": "Servant Jazz Quarters (SJQ)",
-    "address": "10A Bradbury Street, London N16 8JN",
-    "url": "https://dice.fm/event/6a9fd31f489a3e00019322e9",
-    "source": "venue:dice-sjq",
-    "tags": [
-      "community"
-    ],
-    "price": "TBC (cheap)",
-    "description": "Casual chess night at the Dalston jazz bar — boards out, all levels, sociable crowd. Also 25 Sep.",
-    "neighbourhood": "Dalston",
-    "added": "2026-09-15T06:13:57Z",
-    "cycle_minutes": 15,
-    "id": "chess-night-at-sjq-18-sep-f9db7946"
-  },
-  {
-    "title": "Nish Kumar at Hackney Empire",
-    "start": "2026-09-18T19:30:00+01:00",
-    "end": "2026-09-18T21:30:00+01:00",
-    "venue": "Hackney Empire",
-    "address": "291 Mare Street, E8 1EJ",
-    "url": "https://www.hackneyempire.co.uk/events/nish-kumar-angry-humour-from-a-really-nice-guy",
-    "source": "keyword-search",
-    "tags": [
-      "comedy"
-    ],
-    "price": "£27.50",
-    "description": "The UK's leading political comic brings his passionate, progressive stand-up tour to Hackney Empire.",
-    "neighbourhood": "Hackney Central",
-    "cycle_minutes": 12,
-    "id": "nish-kumar-at-hackney-empire-e1ee85be",
-    "added": "2026-08-02"
-  },
-  {
-    "id": "angel-comedy-fridays-camden-head-free-18-sep-d17bf21d",
-    "title": "Angel Comedy Fridays @ Camden Head (Free) — 18 Sep",
-    "start": "2026-09-18T19:30:00+01:00",
-    "end": null,
-    "venue": "The Camden Head",
-    "address": "2 Camden Walk, Islington, N1 8DY",
-    "url": "https://www.angelcomedy.co.uk/whats-on/",
-    "source": "venue:angel-comedy",
-    "tags": [
-      "comedy"
-    ],
-    "price": "Free",
-    "description": "Free Friday showcase; second 9:30pm show runs the same night.",
-    "neighbourhood": "Angel",
-    "cycle_minutes": 18,
-    "added": "2026-08-25"
-  },
-  {
-    "title": "Glyders at MOTH Club",
-    "start": "2026-09-18T19:30:00+01:00",
-    "end": "2026-09-18T22:30:00+01:00",
-    "venue": "MOTH Club",
-    "address": "Old Trades Hall, Valette Street, London E9 6NU",
-    "url": "https://dice.fm/event/6a042be69a25800001339099",
-    "source": "venue:dice-moth-club",
-    "tags": [
-      "music"
-    ],
-    "price": "£20.40",
-    "description": "Chicago boogie-rock duo Glyders (Drag City) — loose, twangy psych on a Friday night.",
-    "neighbourhood": "Hackney Central",
-    "cycle_minutes": 12,
-    "added": "2026-09-06T06:17:42Z",
-    "id": "glyders-at-moth-club-ce06eb41"
-  },
-  {
-    "title": "Knees Up Cecil Sharp Ceilidh (autumn opener)",
-    "start": "2026-09-18T20:00:00+01:00",
-    "end": "2026-09-18T23:00:00+01:00",
-    "venue": "Cecil Sharp House",
-    "address": "2 Regent's Park Road, NW1 7AY",
-    "url": "https://www.efdss.org/whats-on/27-dances/15766-knees-up-cecil-sharp-ceilidh-2026",
-    "source": "keyword-search",
-    "tags": [
-      "dance",
-      "music",
-      "community"
-    ],
-    "price": "£15 (£10 concessions)",
-    "description": "The monthly English ceilidh at the home of folk dance, with live band and expert caller, beginners welcome. Verified on the official EFDSS page as the autumn season opener.",
-    "neighbourhood": "Primrose Hill",
-    "cycle_minutes": 32,
-    "id": "knees-up-cecil-sharp-ceilidh-autumn-opener-4fe28dea",
-    "added": "2026-07-24"
-  },
-  {
-    "id": "jaywalkers-at-kings-place-115a0a41",
-    "title": "Jaywalkers at Kings Place",
-    "start": "2026-09-18T20:00:00+01:00",
-    "end": null,
-    "venue": "Kings Place",
-    "address": "90 York Way, London N1 9AG",
-    "url": "https://www.kingsplace.co.uk/whats-on/folk/jaywalkers/",
-    "source": "venue:kings-place",
-    "tags": [
-      "music"
-    ],
-    "price": null,
-    "description": "Acoustic powerhouse trio blending bluegrass, country, folk and Americana — blistering fiddle, mandolin and tight three-part harmony.",
-    "neighbourhood": "King's Cross",
-    "cycle_minutes": 30,
-    "added": "2026-08-18"
-  },
-  {
     "id": "open-house-bt-tower-34th-floor-revolving-viewing-tour-b571be51",
     "title": "Open House: BT Tower — 34th-floor revolving viewing tour",
     "start": "2026-09-19T09:30:00+01:00",
@@ -2095,6 +1836,25 @@
     "neighbourhood": "Whitechapel",
     "cycle_minutes": 10,
     "added": "2026-08-09"
+  },
+  {
+    "id": "ics-1c3bf9eb4a6b",
+    "title": "If AGI is coming, what do we do next?",
+    "start": "2026-09-29T17:00:00+00:00",
+    "end": "2026-09-29T20:00:00+00:00",
+    "venue": "London Initiative for Safe AI (LISA)",
+    "address": "25 Holywell Row, London EC2A 4XE",
+    "url": "https://luma.com/2c4w9jix",
+    "source": "ics:LISA (London Initiative for Safe AI)",
+    "tags": [
+      "tech",
+      "talk"
+    ],
+    "price": "Free (register)",
+    "description": "LISA panel/discussion evening: if AGI is coming, what do we do next? Tuesday 18:00-21:00 London. (Busy night: FABLE'D storytelling, Barrio nomads, Kino Bloc — this is the closest.)",
+    "added": "2026-09-21",
+    "neighbourhood": "Shoreditch",
+    "cycle_minutes": 8
   },
   {
     "title": "Board Game Club at The Lyttelton Arms (free monthly)",
