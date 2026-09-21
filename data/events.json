@@ -3405,6 +3405,25 @@
     "id": "mark-fry-performs-dreaming-with-alice-at-earth-ae8a53a7"
   },
   {
+    "title": "I Am Furious Black: Wealth of a Nation + Conversation — Barbican Cinema",
+    "start": "2026-10-09T18:30:00+01:00",
+    "end": null,
+    "venue": "Barbican Cinema",
+    "address": "Barbican Centre, Silk Street, EC2Y 8DS",
+    "url": "https://www.barbican.org.uk/whats-on/2026/event/i-am-furious-black-wealth-of-a-nation-conversation",
+    "source": "venue:barbican-cinema",
+    "tags": [
+      "film",
+      "talk"
+    ],
+    "price": "~£13-15.50",
+    "description": "Opening screening-plus-conversation of the Barbican's William Greaves retrospective — pairs with the LFF Once Upon a Time in Harlem pick (11 Oct).",
+    "neighbourhood": "Barbican",
+    "cycle_minutes": 15,
+    "added": "2026-09-21T06:14:12Z",
+    "id": "i-am-furious-black-wealth-of-a-nation-conversation-barbican--d03fb705"
+  },
+  {
     "id": "wifi-wars-debug-xxii-interactive-comedy-game-show-8c36d57e",
     "title": "WiFi Wars Debug XXII — interactive comedy game show",
     "start": "2026-10-09T19:00:00+01:00",
@@ -4284,6 +4303,24 @@
     "cycle_minutes": 28,
     "added": "2026-09-10T06:16:24Z",
     "id": "lff-everest-the-other-side-jimmy-chin-chai-vasarhelyi-82c9f9df"
+  },
+  {
+    "title": "James McMurtry + BettySoo at Union Chapel",
+    "start": "2026-10-13T18:30:00+01:00",
+    "end": null,
+    "venue": "Union Chapel",
+    "address": "Compton Terrace, Islington, N1 2UN",
+    "url": "https://unionchapel.org.uk/venue/whats-on/james-mcmurtry-plus-betty-soo",
+    "source": "venue:union-chapel",
+    "tags": [
+      "music"
+    ],
+    "price": "TBC (Gigantic) — LAST FEW general admission left",
+    "description": "Texas Americana songwriter James McMurtry plays songs from The Black Dog and the Wandering Boy, with BettySoo. Venue notes only last few GA tickets left — book now if wanted.",
+    "neighbourhood": "Islington",
+    "cycle_minutes": 20,
+    "added": "2026-09-21T06:14:12Z",
+    "id": "james-mcmurtry-bettysoo-at-union-chapel-e5bcbd15"
   },
   {
     "id": "casper-walsh-hustler-boogie-tour-at-moth-club-0ddee856",
@@ -5311,6 +5348,24 @@
     "added": "2026-08-15"
   },
   {
+    "title": "Psychedelics for Peacebuilding: Can Expanded Consciousness Redefine Conflict?",
+    "start": "2026-10-19T18:30:00+01:00",
+    "end": "2026-10-19T20:45:00+01:00",
+    "venue": "Home House Studio",
+    "address": "44 Great Cumberland Place, W1H 7BS",
+    "url": "https://dandelion.events/e/f9z3n",
+    "source": "aggregator:dandelion",
+    "tags": [
+      "talk"
+    ],
+    "price": "£18-£30",
+    "description": "Talk on whether shared psychedelic ceremony can bridge deep divides, drawing on ceremonies attended by Palestinians and Israelis. Same series as the Love & Psyche(delics) evening already listed. (Same night as RI Neanderthals talk — both west, pick one.)",
+    "neighbourhood": "Marylebone",
+    "cycle_minutes": 35,
+    "added": "2026-09-21T06:14:12Z",
+    "id": "psychedelics-for-peacebuilding-can-expanded-consciousness-re-ea131e99"
+  },
+  {
     "id": "onetrackminds-music-storytelling-night-at-wilton-s-58c083f4",
     "title": "OneTrackMinds — music & storytelling night at Wilton's",
     "start": "2026-10-19T19:00:00+01:00",
@@ -5401,6 +5456,24 @@
     "cycle_minutes": 8,
     "added": "2026-09-18T06:19:34Z",
     "id": "taster-menu-free-games-and-futures-social-at-shoreditch-town-d8aee4a7"
+  },
+  {
+    "title": "Godzilla Minus One + Introduction — All Kaiju Attack at Barbican",
+    "start": "2026-10-20T18:10:00+01:00",
+    "end": null,
+    "venue": "Cinema 1, Barbican Centre",
+    "address": "Barbican Centre, Silk Street, EC2Y 8DS",
+    "url": "https://www.barbican.org.uk/whats-on/2026/event/all-kaiju-attack-godzilla-minus-one-introduction",
+    "source": "venue:barbican-cinema",
+    "tags": [
+      "film"
+    ],
+    "price": "£15.50 (£6 Young Barbican)",
+    "description": "The Oscar-winning 2023 Godzilla reboot closes the All Kaiju Attack season, with an introduction. Japanese w/ subs, 2h04. (Third option on the Perle Noire / Michael Lewis night.)",
+    "neighbourhood": "Barbican",
+    "cycle_minutes": 15,
+    "added": "2026-09-21T06:14:12Z",
+    "id": "godzilla-minus-one-introduction-all-kaiju-attack-at-barbican-f43a775f"
   },
   {
     "id": "improvisers-ensemble-featuring-cleveland-watkiss-mbe-eb59e1ab",
@@ -5938,6 +6011,24 @@
     "added": "2026-08-28"
   },
   {
+    "title": "Duke Special + Ed Harcourt at Union Chapel",
+    "start": "2026-10-24T18:30:00+01:00",
+    "end": null,
+    "venue": "Union Chapel",
+    "address": "Compton Terrace, Islington, N1 2UN",
+    "url": "https://unionchapel.org.uk/venue/whats-on/duke-special",
+    "source": "venue:union-chapel",
+    "tags": [
+      "music"
+    ],
+    "price": "TBC (Gigantic)",
+    "description": "Belfast piano troubadour Duke Special marks the 20th anniversary of Songs from the Deep Forest, with special guest Ed Harcourt. Doors 6:30pm.",
+    "neighbourhood": "Islington",
+    "cycle_minutes": 20,
+    "added": "2026-09-21T06:14:12Z",
+    "id": "duke-special-ed-harcourt-at-union-chapel-37b298d3"
+  },
+  {
     "id": "an-evening-of-unnecessary-detail-festival-of-the-spoken-nerd-162bf026",
     "title": "An Evening of Unnecessary Detail (Festival of the Spoken Nerd)",
     "start": "2026-10-24T19:00:00+01:00",
@@ -5973,6 +6064,24 @@
     "neighbourhood": "Tufnell Park",
     "cycle_minutes": 30,
     "added": "2026-09-05"
+  },
+  {
+    "title": "An Evening with Ewan Bleach at Hoxton Hall",
+    "start": "2026-10-24T19:00:00+01:00",
+    "end": null,
+    "venue": "Hoxton Hall",
+    "address": "130 Hoxton Street, London N1 6SH",
+    "url": "https://hoxtonhall.ticketsolve.com/shows/1173690439/events",
+    "source": "venue:hoxton-hall",
+    "tags": [
+      "music"
+    ],
+    "price": "TBC (ticketsolve)",
+    "description": "Early-jazz clarinettist/saxophonist Ewan Bleach (London trad/swing scene) plays the Victorian music hall — vintage jazz and blues in a 120-cap gem. (Same night as Duke Special — alternatives.)",
+    "neighbourhood": "Hoxton",
+    "cycle_minutes": 8,
+    "added": "2026-09-21T06:14:12Z",
+    "id": "an-evening-with-ewan-bleach-at-hoxton-hall-c84c33c2"
   },
   {
     "title": "Storytelling Sunday: VAMPIRES! at Love Shack",
@@ -6179,6 +6288,25 @@
     "added": "2026-08-27"
   },
   {
+    "title": "I Am Furious Black: Symbiopsychotaxiplasm — Take One + Intro",
+    "start": "2026-10-27T18:30:00+00:00",
+    "end": null,
+    "venue": "Barbican Cinema",
+    "address": "Barbican Centre, Silk Street, EC2Y 8DS",
+    "url": "https://www.barbican.org.uk/whats-on/2026/event/i-am-furious-black-symbiopsychotaxiplasm-take-one-intro",
+    "source": "venue:barbican-cinema",
+    "tags": [
+      "film",
+      "talk"
+    ],
+    "price": "~£13-15.50",
+    "description": "William Greaves' legendary meta-documentary shot in 1968 Central Park, with an introduction. (Fran Lebowitz + Dexys are the same night — three-way.)",
+    "neighbourhood": "Barbican",
+    "cycle_minutes": 15,
+    "added": "2026-09-21T06:14:12Z",
+    "id": "i-am-furious-black-symbiopsychotaxiplasm-take-one-intro-7f24df83"
+  },
+  {
     "id": "marina-herlop-at-earth-615d4ff8",
     "title": "Marina Herlop at EartH",
     "start": "2026-10-27T19:00:00+00:00",
@@ -6304,6 +6432,24 @@
     "cycle_minutes": 20,
     "added": "2026-09-13T06:16:38Z",
     "id": "lucia-the-best-boys-at-islington-assembly-hall-491c1793"
+  },
+  {
+    "title": "Perfume Genius (Duo) at Union Chapel",
+    "start": "2026-10-28T19:00:00+00:00",
+    "end": null,
+    "venue": "Union Chapel",
+    "address": "Compton Terrace, Islington, N1 2UN",
+    "url": "https://unionchapel.org.uk/venue/whats-on/perfume-genius-duo",
+    "source": "venue:union-chapel",
+    "tags": [
+      "music"
+    ],
+    "price": "TBC (Gigantic)",
+    "description": "Mike Hadreas performs a stripped-back duo set in the chapel — an unusually intimate way to hear Perfume Genius. Extra date 27 Oct exists if this sells out. (28 Oct is now a four-way: Jasmine Myra / Nick Hakim / Lucia / Girls — this is the standout.)",
+    "neighbourhood": "Islington",
+    "cycle_minutes": 20,
+    "added": "2026-09-21T06:14:12Z",
+    "id": "perfume-genius-duo-at-union-chapel-a7a2f43c"
   },
   {
     "id": "nick-hakim-at-village-underground-e67fd51e",
@@ -6504,6 +6650,24 @@
     "cycle_minutes": 27,
     "added": "2026-09-20T06:16:34Z",
     "id": "roleplay-by-hannah-reilly-at-soho-theatre-run-22-oct-21-nov-9c1ad661"
+  },
+  {
+    "title": "The Wellermen at Union Chapel",
+    "start": "2026-10-29T19:00:00+00:00",
+    "end": null,
+    "venue": "Union Chapel",
+    "address": "Compton Terrace, Islington, N1 2UN",
+    "url": "https://unionchapel.org.uk/venue/whats-on/the-wellermen",
+    "source": "venue:union-chapel",
+    "tags": [
+      "music"
+    ],
+    "price": "TBC (Gigantic)",
+    "description": "Transatlantic sea-shanty group of viral fame sing rich four-part harmonies — a good singalong crowd in a big-hearted room. (Scratches the shanty itch while the Golden Hinde night stays sold out.)",
+    "neighbourhood": "Islington",
+    "cycle_minutes": 20,
+    "added": "2026-09-21T06:14:12Z",
+    "id": "the-wellermen-at-union-chapel-acb35bf8"
   },
   {
     "id": "painting-the-fruit-band-at-shacklewell-arms-free-582cfd1d",
@@ -7237,6 +7401,25 @@
     "cycle_minutes": 8,
     "added": "2026-09-07T06:21:08Z",
     "id": "howling-bells-at-hoxton-hall-e84d7369"
+  },
+  {
+    "title": "Fool Expression: Discover — expressive movement and play evening",
+    "start": "2026-11-06T19:45:00+00:00",
+    "end": "2026-11-06T21:15:00+00:00",
+    "venue": "Open House Hackney",
+    "address": "Prince Edward Road, Hackney Wick, E9 5LX",
+    "url": "https://dandelion.events/e/p7i0w",
+    "source": "aggregator:dandelion",
+    "tags": [
+      "workshop",
+      "dance"
+    ],
+    "price": "£15-£35 sliding scale",
+    "description": "An embodied Friday evening of movement, clowning and authentic expression exploring the parts of your 'Inner Village' — squarely the conscious-movement lane. (Alternative to Howling Bells same night.)",
+    "neighbourhood": "Hackney Wick",
+    "cycle_minutes": 15,
+    "added": "2026-09-21T06:14:12Z",
+    "id": "fool-expression-discover-expressive-movement-and-play-evenin-d4389a35"
   },
   {
     "id": "pitchfork-festival-2026-dalston-takeover-multi-venue-wristba-5643f2d5",
@@ -8970,6 +9153,24 @@
     "cycle_minutes": 10
   },
   {
+    "title": "DakhaBrakha at Union Chapel",
+    "start": "2026-11-23T19:00:00+00:00",
+    "end": null,
+    "venue": "Union Chapel",
+    "address": "Compton Terrace, Islington, N1 2UN",
+    "url": "https://unionchapel.org.uk/venue/whats-on/dakhabrakha",
+    "source": "venue:union-chapel",
+    "tags": [
+      "music"
+    ],
+    "price": "TBC (Gigantic)",
+    "description": "Kyiv 'ethno-chaos' quartet DakhaBrakha blend Ukrainian folk polyphony with global rhythms — one of the most striking live acts around, in a fitting candlelit venue. STANDOUT.",
+    "neighbourhood": "Islington",
+    "cycle_minutes": 20,
+    "added": "2026-09-21T06:14:12Z",
+    "id": "dakhabrakha-at-union-chapel-89f3f9f4"
+  },
+  {
     "title": "K2B Presents: Harry Hill work-in-progress at MOTH Club",
     "start": "2026-11-24T19:00:00+00:00",
     "end": "2026-11-24T23:00:00+00:00",
@@ -9262,6 +9463,25 @@
     "added": "2026-09-04"
   },
   {
+    "title": "PNEUMA — breathwork x live sound with breath-to-light visualisation",
+    "start": "2026-11-28T18:00:00+00:00",
+    "end": "2026-11-28T20:00:00+00:00",
+    "venue": "Interlude",
+    "address": "2 Leswin Place, Stoke Newington, N16 7NJ",
+    "url": "https://dandelion.events/e/pneuma",
+    "source": "aggregator:dandelion",
+    "tags": [
+      "workshop",
+      "music"
+    ],
+    "price": "£35",
+    "description": "Immersive session pairing breathwork with live sound healing, using wearable sensors that visualise your breath as light — a tech-meets-embodiment one-off. Ends in time for the Fela Kuti party or Scott Matthews.",
+    "neighbourhood": "Stoke Newington",
+    "cycle_minutes": 16,
+    "added": "2026-09-21T06:14:12Z",
+    "id": "pneuma-breathwork-x-live-sound-with-breath-to-light-visualis-bdc77d5c"
+  },
+  {
     "id": "dead-poets-live-at-wilton-s-music-hall-f2710af5",
     "title": "Dead Poets Live at Wilton's Music Hall",
     "start": "2026-11-28T19:00:00+00:00",
@@ -9389,6 +9609,24 @@
     "cycle_minutes": 22,
     "added": "2026-09-07T06:21:08Z",
     "id": "ethical-matters-ai-and-online-disinformation-niamh-mcintyre-a2f49757"
+  },
+  {
+    "title": "Ben Watt and Tracey Thorn (EBTG) at Union Chapel",
+    "start": "2026-11-29T18:30:00+00:00",
+    "end": null,
+    "venue": "Union Chapel",
+    "address": "Compton Terrace, Islington, N1 2UN",
+    "url": "https://unionchapel.org.uk/venue/whats-on/ben-watt-and-tracey-thorn-sunday-29th-nov",
+    "source": "venue:union-chapel",
+    "tags": [
+      "music"
+    ],
+    "price": "TBC (Gigantic) — book fast, all MOTH runs sold out",
+    "description": "Everything But The Girl's Ben Watt and Tracey Thorn play a rare part-acoustic, part-electronic set with band. LONG-WATCHED: every MOTH Club run (Sep/Oct/Dec) sold out — this new Union Chapel date is the way in. Second night 30 Nov if sold out.",
+    "neighbourhood": "Islington",
+    "cycle_minutes": 20,
+    "added": "2026-09-21T06:14:12Z",
+    "id": "ben-watt-and-tracey-thorn-ebtg-at-union-chapel-cd74911a"
   },
   {
     "id": "la-plan-te-sauvage-screening-with-live-score-by-haha-sounds--55829911",
@@ -9849,6 +10087,24 @@
     "id": "dylan-john-thomas-at-islington-assembly-hall-2e502f93"
   },
   {
+    "title": "Hohnen Ford at Hoxton Hall",
+    "start": "2026-12-08T19:00:00+00:00",
+    "end": null,
+    "venue": "Hoxton Hall",
+    "address": "130 Hoxton Street, London N1 6SH",
+    "url": "https://hoxtonhall.ticketsolve.com/shows/1173693130/events",
+    "source": "venue:hoxton-hall",
+    "tags": [
+      "music"
+    ],
+    "price": "TBC (ticketsolve)",
+    "description": "Rising London singer-songwriter Hohnen Ford brings her intimate, jazz-tinged folk-pop to the Victorian music hall — newly on sale; third option for 8 Dec.",
+    "neighbourhood": "Hoxton",
+    "cycle_minutes": 8,
+    "added": "2026-09-21T06:14:12Z",
+    "id": "hohnen-ford-at-hoxton-hall-3cf4996b"
+  },
+  {
     "id": "truthpaste-at-moth-club-340be160",
     "title": "Truthpaste at MOTH Club",
     "start": "2026-12-08T19:30:00+00:00",
@@ -9883,6 +10139,24 @@
     "cycle_minutes": 12,
     "added": "2026-09-06T06:17:42Z",
     "id": "knock2bag-comedy-night-at-moth-club-349b8a2c"
+  },
+  {
+    "title": "James Yorkston at Hoxton Hall",
+    "start": "2026-12-09T19:00:00+00:00",
+    "end": null,
+    "venue": "Hoxton Hall",
+    "address": "130 Hoxton Street, London N1 6SH",
+    "url": "https://hoxtonhall.ticketsolve.com/shows/1173683904/events",
+    "source": "venue:hoxton-hall",
+    "tags": [
+      "music"
+    ],
+    "price": "TBC (ticketsolve) — was sold out 7 Sep, now showing available again",
+    "description": "Fife folk mainstay James Yorkston (Domino, Yorkston/Thorne/Khan) plays an intimate seated show — back on sale after showing sold out earlier this month; grab it. (Same night as Knock2Bag + Sick Man of Europe.)",
+    "neighbourhood": "Hoxton",
+    "cycle_minutes": 8,
+    "added": "2026-09-21T06:14:12Z",
+    "id": "james-yorkston-at-hoxton-hall-9501477e"
   },
   {
     "id": "salt-house-at-cecil-sharp-house-af972287",

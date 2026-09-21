@@ -2562,6 +2562,22 @@ URL:https://dice.fm/event/69f487ac6b79440001eb7c24
 LOCATION:EartH\, 11 Stoke Newington Rd\, London N16 8BH
 END:VEVENT
 BEGIN:VEVENT
+UID:i-am-furious-black-wealth-of-a-nation-conversation-barbican--d03fb705@
+ london-events
+DTSTAMP:20261009T173000Z
+DTSTART:20261009T173000Z
+DTEND:20261009T193000Z
+SUMMARY:I Am Furious Black: Wealth of a Nation + Conversation — Barbican
+  Cinema
+DESCRIPTION:Opening screening-plus-conversation of the Barbican's William 
+ Greaves retrospective — pairs with the LFF Once Upon a Time in Harlem p
+ ick (11 Oct).\nPrice: ~£13-15.50\nhttps://www.barbican.org.uk/whats-on/2
+ 026/event/i-am-furious-black-wealth-of-a-nation-conversation
+URL:https://www.barbican.org.uk/whats-on/2026/event/i-am-furious-black-wea
+ lth-of-a-nation-conversation
+LOCATION:Barbican Cinema\, Barbican Centre\, Silk Street\, EC2Y 8DS
+END:VEVENT
+BEGIN:VEVENT
 UID:wifi-wars-debug-xxii-interactive-comedy-game-show-8c36d57e@london-even
  ts
 DTSTAMP:20261009T180000Z
@@ -3279,6 +3295,21 @@ DESCRIPTION:JOURNEY strand\, NFT3. The Free Solo team follow Jim Morrison
 URL:https://whatson.bfi.org.uk/lff/Online/default.asp?BOparam::WScontent::
  loadArticle::permalink=everest-the-other-side-lff26
 LOCATION:BFI Southbank\, Belvedere Road\, South Bank\, London SE1 8XT
+END:VEVENT
+BEGIN:VEVENT
+UID:james-mcmurtry-bettysoo-at-union-chapel-e5bcbd15@london-events
+DTSTAMP:20261013T173000Z
+DTSTART:20261013T173000Z
+DTEND:20261013T193000Z
+SUMMARY:James McMurtry + BettySoo at Union Chapel
+DESCRIPTION:Texas Americana songwriter James McMurtry plays songs from The
+  Black Dog and the Wandering Boy\, with BettySoo. Venue notes only last f
+ ew GA tickets left — book now if wanted.\nPrice: TBC (Gigantic) — LAS
+ T FEW general admission left\nhttps://unionchapel.org.uk/venue/whats-on/j
+ ames-mcmurtry-plus-betty-soo
+URL:https://unionchapel.org.uk/venue/whats-on/james-mcmurtry-plus-betty-so
+ o
+LOCATION:Union Chapel\, Compton Terrace\, Islington\, N1 2UN
 END:VEVENT
 BEGIN:VEVENT
 UID:casper-walsh-hustler-boogie-tour-at-moth-club-0ddee856@london-events
@@ -4088,6 +4119,22 @@ URL:https://cicalendar.uk/london
 LOCATION:Rose Lipman Building\, 43 De Beauvoir Road\, N1 5SQ
 END:VEVENT
 BEGIN:VEVENT
+UID:psychedelics-for-peacebuilding-can-expanded-consciousness-re-ea131e99@
+ london-events
+DTSTAMP:20261019T173000Z
+DTSTART:20261019T173000Z
+DTEND:20261019T194500Z
+SUMMARY:Psychedelics for Peacebuilding: Can Expanded Consciousness Redefin
+ e Conflict?
+DESCRIPTION:Talk on whether shared psychedelic ceremony can bridge deep di
+ vides\, drawing on ceremonies attended by Palestinians and Israelis. Same
+  series as the Love & Psyche(delics) evening already listed. (Same night 
+ as RI Neanderthals talk — both west\, pick one.)\nPrice: £18-£30\nhtt
+ ps://dandelion.events/e/f9z3n
+URL:https://dandelion.events/e/f9z3n
+LOCATION:Home House Studio\, 44 Great Cumberland Place\, W1H 7BS
+END:VEVENT
+BEGIN:VEVENT
 UID:onetrackminds-music-storytelling-night-at-wilton-s-58c083f4@london-eve
  nts
 DTSTAMP:20261019T180000Z
@@ -4158,6 +4205,23 @@ DESCRIPTION:Drop-in evening to grab a drink\, play games and talk about th
  n-2026
 URL:https://shoreditchtownhall.com/whats-on/taster-menu-autumn-2026
 LOCATION:Shoreditch Town Hall\, 380 Old Street\, EC1V 9LT
+END:VEVENT
+BEGIN:VEVENT
+UID:godzilla-minus-one-introduction-all-kaiju-attack-at-barbican-f43a775f@
+ london-events
+DTSTAMP:20261020T171000Z
+DTSTART:20261020T171000Z
+DTEND:20261020T191000Z
+SUMMARY:Godzilla Minus One + Introduction — All Kaiju Attack at Barbican
+DESCRIPTION:The Oscar-winning 2023 Godzilla reboot closes the All Kaiju At
+ tack season\, with an introduction. Japanese w/ subs\, 2h04. (Third optio
+ n on the Perle Noire / Michael Lewis night.)\nPrice: £15.50 (£6 Young B
+ arbican)\nhttps://www.barbican.org.uk/whats-on/2026/event/all-kaiju-attac
+ k-godzilla-minus-one-introduction
+URL:https://www.barbican.org.uk/whats-on/2026/event/all-kaiju-attack-godzi
+ lla-minus-one-introduction
+LOCATION:Cinema 1\, Barbican Centre\, Barbican Centre\, Silk Street\, EC2Y
+  8DS
 END:VEVENT
 BEGIN:VEVENT
 UID:improvisers-ensemble-featuring-cleveland-watkiss-mbe-eb59e1ab@london-e
@@ -4571,6 +4635,19 @@ URL:https://richmix.org.uk/whats-on/
 LOCATION:Rich Mix\, 35-47 Bethnal Green Road\, E1 6LA
 END:VEVENT
 BEGIN:VEVENT
+UID:duke-special-ed-harcourt-at-union-chapel-37b298d3@london-events
+DTSTAMP:20261024T173000Z
+DTSTART:20261024T173000Z
+DTEND:20261024T193000Z
+SUMMARY:Duke Special + Ed Harcourt at Union Chapel
+DESCRIPTION:Belfast piano troubadour Duke Special marks the 20th anniversa
+ ry of Songs from the Deep Forest\, with special guest Ed Harcourt. Doors 
+ 6:30pm.\nPrice: TBC (Gigantic)\nhttps://unionchapel.org.uk/venue/whats-on
+ /duke-special
+URL:https://unionchapel.org.uk/venue/whats-on/duke-special
+LOCATION:Union Chapel\, Compton Terrace\, Islington\, N1 2UN
+END:VEVENT
+BEGIN:VEVENT
 UID:an-evening-of-unnecessary-detail-festival-of-the-spoken-nerd-162bf026@
  london-events
 DTSTAMP:20261024T180000Z
@@ -4598,6 +4675,20 @@ URL:https://ecstaticdancelondon.com/event/ecstatic-saturdays-ecstatic-danc
  09-26/2026-10-24/
 LOCATION:Ecstatic Dance London venue\, Tufnell Park\, Burghley Road\, NW5 
  1UJ (address on booking)
+END:VEVENT
+BEGIN:VEVENT
+UID:an-evening-with-ewan-bleach-at-hoxton-hall-c84c33c2@london-events
+DTSTAMP:20261024T180000Z
+DTSTART:20261024T180000Z
+DTEND:20261024T200000Z
+SUMMARY:An Evening with Ewan Bleach at Hoxton Hall
+DESCRIPTION:Early-jazz clarinettist/saxophonist Ewan Bleach (London trad/s
+ wing scene) plays the Victorian music hall — vintage jazz and blues in 
+ a 120-cap gem. (Same night as Duke Special — alternatives.)\nPrice: TBC
+  (ticketsolve)\nhttps://hoxtonhall.ticketsolve.com/shows/1173690439/event
+ s
+URL:https://hoxtonhall.ticketsolve.com/shows/1173690439/events
+LOCATION:Hoxton Hall\, 130 Hoxton Street\, London N1 6SH
 END:VEVENT
 BEGIN:VEVENT
 UID:storytelling-sunday-vampires-at-love-shack-4a3b9630@london-events
@@ -4748,6 +4839,21 @@ URL:https://dice.fm/event/ww9kyr-dodie-26th-oct-earth-london-tickets
 LOCATION:EartH\, 11 Stoke Newington Road\, N16 8BH
 END:VEVENT
 BEGIN:VEVENT
+UID:i-am-furious-black-symbiopsychotaxiplasm-take-one-intro-7f24df83@londo
+ n-events
+DTSTAMP:20261027T183000Z
+DTSTART:20261027T183000Z
+DTEND:20261027T203000Z
+SUMMARY:I Am Furious Black: Symbiopsychotaxiplasm — Take One + Intro
+DESCRIPTION:William Greaves' legendary meta-documentary shot in 1968 Centr
+ al Park\, with an introduction. (Fran Lebowitz + Dexys are the same night
+  — three-way.)\nPrice: ~£13-15.50\nhttps://www.barbican.org.uk/whats-o
+ n/2026/event/i-am-furious-black-symbiopsychotaxiplasm-take-one-intro
+URL:https://www.barbican.org.uk/whats-on/2026/event/i-am-furious-black-sym
+ biopsychotaxiplasm-take-one-intro
+LOCATION:Barbican Cinema\, Barbican Centre\, Silk Street\, EC2Y 8DS
+END:VEVENT
+BEGIN:VEVENT
 UID:marina-herlop-at-earth-615d4ff8@london-events
 DTSTAMP:20261027T190000Z
 DTSTART:20261027T190000Z
@@ -4840,6 +4946,20 @@ DESCRIPTION:Glasgow alt-pop/indie outfit fronted by Lucia Fairfull\, big m
 URL:https://islingtonassemblyhall.co.uk/events/lucia-and-the-best-boys-28t
  h-oct-islington-assembly-hall-london-tickets/
 LOCATION:Islington Assembly Hall\, Upper Street\, London N1 2UD
+END:VEVENT
+BEGIN:VEVENT
+UID:perfume-genius-duo-at-union-chapel-a7a2f43c@london-events
+DTSTAMP:20261028T190000Z
+DTSTART:20261028T190000Z
+DTEND:20261028T210000Z
+SUMMARY:Perfume Genius (Duo) at Union Chapel
+DESCRIPTION:Mike Hadreas performs a stripped-back duo set in the chapel 
+ — an unusually intimate way to hear Perfume Genius. Extra date 27 Oct e
+ xists if this sells out. (28 Oct is now a four-way: Jasmine Myra / Nick H
+ akim / Lucia / Girls — this is the standout.)\nPrice: TBC (Gigantic)\nh
+ ttps://unionchapel.org.uk/venue/whats-on/perfume-genius-duo
+URL:https://unionchapel.org.uk/venue/whats-on/perfume-genius-duo
+LOCATION:Union Chapel\, Compton Terrace\, Islington\, N1 2UN
 END:VEVENT
 BEGIN:VEVENT
 UID:nick-hakim-at-village-underground-e67fd51e@london-events
@@ -4993,6 +5113,19 @@ DESCRIPTION:New play by Hannah Reilly\, directed by Paige Rattray — Soho
  Price: From £21\nhttps://sohotheatre.com/events/roleplay/
 URL:https://sohotheatre.com/events/roleplay/
 LOCATION:Soho Theatre\, 21 Dean St\, W1D 3NE
+END:VEVENT
+BEGIN:VEVENT
+UID:the-wellermen-at-union-chapel-acb35bf8@london-events
+DTSTAMP:20261029T190000Z
+DTSTART:20261029T190000Z
+DTEND:20261029T210000Z
+SUMMARY:The Wellermen at Union Chapel
+DESCRIPTION:Transatlantic sea-shanty group of viral fame sing rich four-pa
+ rt harmonies — a good singalong crowd in a big-hearted room. (Scratches
+  the shanty itch while the Golden Hinde night stays sold out.)\nPrice: TB
+ C (Gigantic)\nhttps://unionchapel.org.uk/venue/whats-on/the-wellermen
+URL:https://unionchapel.org.uk/venue/whats-on/the-wellermen
+LOCATION:Union Chapel\, Compton Terrace\, Islington\, N1 2UN
 END:VEVENT
 BEGIN:VEVENT
 UID:painting-the-fruit-band-at-shacklewell-arms-free-582cfd1d@london-event
@@ -5549,6 +5682,20 @@ DESCRIPTION:Aussie-London indie-rock cult favourites reunited in the Victo
  s/1173690446/events/428870544
 URL:https://hoxtonhall.ticketsolve.com/shows/1173690446/events/428870544
 LOCATION:Hoxton Hall\, 130 Hoxton Street\, London N1 6SH
+END:VEVENT
+BEGIN:VEVENT
+UID:fool-expression-discover-expressive-movement-and-play-evenin-d4389a35@
+ london-events
+DTSTAMP:20261106T194500Z
+DTSTART:20261106T194500Z
+DTEND:20261106T211500Z
+SUMMARY:Fool Expression: Discover — expressive movement and play evening
+DESCRIPTION:An embodied Friday evening of movement\, clowning and authenti
+ c expression exploring the parts of your 'Inner Village' — squarely the
+  conscious-movement lane. (Alternative to Howling Bells same night.)\nPri
+ ce: £15-£35 sliding scale\nhttps://dandelion.events/e/p7i0w
+URL:https://dandelion.events/e/p7i0w
+LOCATION:Open House Hackney\, Prince Edward Road\, Hackney Wick\, E9 5LX
 END:VEVENT
 BEGIN:VEVENT
 UID:pitchfork-festival-2026-dalston-takeover-multi-venue-wristba-5643f2d5@
@@ -6865,6 +7012,19 @@ URL:https://wiltons.org.uk/whats-on/the-marriage-of-figaro/
 LOCATION:Wilton's Music Hall\, 1 Graces Alley\, E1 8JB
 END:VEVENT
 BEGIN:VEVENT
+UID:dakhabrakha-at-union-chapel-89f3f9f4@london-events
+DTSTAMP:20261123T190000Z
+DTSTART:20261123T190000Z
+DTEND:20261123T210000Z
+SUMMARY:DakhaBrakha at Union Chapel
+DESCRIPTION:Kyiv 'ethno-chaos' quartet DakhaBrakha blend Ukrainian folk po
+ lyphony with global rhythms — one of the most striking live acts around
+ \, in a fitting candlelit venue. STANDOUT.\nPrice: TBC (Gigantic)\nhttps:
+ //unionchapel.org.uk/venue/whats-on/dakhabrakha
+URL:https://unionchapel.org.uk/venue/whats-on/dakhabrakha
+LOCATION:Union Chapel\, Compton Terrace\, Islington\, N1 2UN
+END:VEVENT
+BEGIN:VEVENT
 UID:k2b-presents-harry-hill-work-in-progress-at-moth-club-42c84f2b@london-
  events
 DTSTAMP:20261124T190000Z
@@ -7079,6 +7239,21 @@ URL:https://www.kingsplace.co.uk/whats-on/folk/janice-burns-jon-doran/
 LOCATION:Kings Place (Hall Two)\, 90 York Way\, London N1 9AG
 END:VEVENT
 BEGIN:VEVENT
+UID:pneuma-breathwork-x-live-sound-with-breath-to-light-visualis-bdc77d5c@
+ london-events
+DTSTAMP:20261128T180000Z
+DTSTART:20261128T180000Z
+DTEND:20261128T200000Z
+SUMMARY:PNEUMA — breathwork x live sound with breath-to-light visualisat
+ ion
+DESCRIPTION:Immersive session pairing breathwork with live sound healing\,
+  using wearable sensors that visualise your breath as light — a tech-me
+ ets-embodiment one-off. Ends in time for the Fela Kuti party or Scott Mat
+ thews.\nPrice: £35\nhttps://dandelion.events/e/pneuma
+URL:https://dandelion.events/e/pneuma
+LOCATION:Interlude\, 2 Leswin Place\, Stoke Newington\, N16 7NJ
+END:VEVENT
+BEGIN:VEVENT
 UID:dead-poets-live-at-wilton-s-music-hall-f2710af5@london-events
 DTSTAMP:20261128T190000Z
 DTSTART:20261128T190000Z
@@ -7170,6 +7345,22 @@ DESCRIPTION:Bureau of Investigative Journalism tech reporter Niamh McIntyr
 URL:https://www.conwayhall.org.uk/whats-on/event/ai-and-online-disinformat
  ion/
 LOCATION:Conway Hall\, 25 Red Lion Square\, WC1R 4RL
+END:VEVENT
+BEGIN:VEVENT
+UID:ben-watt-and-tracey-thorn-ebtg-at-union-chapel-cd74911a@london-events
+DTSTAMP:20261129T183000Z
+DTSTART:20261129T183000Z
+DTEND:20261129T203000Z
+SUMMARY:Ben Watt and Tracey Thorn (EBTG) at Union Chapel
+DESCRIPTION:Everything But The Girl's Ben Watt and Tracey Thorn play a rar
+ e part-acoustic\, part-electronic set with band. LONG-WATCHED: every MOTH
+  Club run (Sep/Oct/Dec) sold out — this new Union Chapel date is the wa
+ y in. Second night 30 Nov if sold out.\nPrice: TBC (Gigantic) — book fa
+ st\, all MOTH runs sold out\nhttps://unionchapel.org.uk/venue/whats-on/be
+ n-watt-and-tracey-thorn-sunday-29th-nov
+URL:https://unionchapel.org.uk/venue/whats-on/ben-watt-and-tracey-thorn-su
+ nday-29th-nov
+LOCATION:Union Chapel\, Compton Terrace\, Islington\, N1 2UN
 END:VEVENT
 BEGIN:VEVENT
 UID:la-plan-te-sauvage-screening-with-live-score-by-haha-sounds--55829911@
@@ -7507,6 +7698,19 @@ URL:https://islingtonassemblyhall.co.uk/events/dylan-john-thomas-8th-dec-i
 LOCATION:Islington Assembly Hall\, Upper Street\, London N1 2UD
 END:VEVENT
 BEGIN:VEVENT
+UID:hohnen-ford-at-hoxton-hall-3cf4996b@london-events
+DTSTAMP:20261208T190000Z
+DTSTART:20261208T190000Z
+DTEND:20261208T210000Z
+SUMMARY:Hohnen Ford at Hoxton Hall
+DESCRIPTION:Rising London singer-songwriter Hohnen Ford brings her intimat
+ e\, jazz-tinged folk-pop to the Victorian music hall — newly on sale\; 
+ third option for 8 Dec.\nPrice: TBC (ticketsolve)\nhttps://hoxtonhall.tic
+ ketsolve.com/shows/1173693130/events
+URL:https://hoxtonhall.ticketsolve.com/shows/1173693130/events
+LOCATION:Hoxton Hall\, 130 Hoxton Street\, London N1 6SH
+END:VEVENT
+BEGIN:VEVENT
 UID:truthpaste-at-moth-club-340be160@london-events
 DTSTAMP:20261208T193000Z
 DTSTART:20261208T193000Z
@@ -7528,6 +7732,20 @@ DESCRIPTION:Knock2Bag mixed-bill comedy (line-up TBA\, these routinely fea
  .10\nhttps://dice.fm/event/6a8dbcee5d3ebd00011a82a7
 URL:https://dice.fm/event/6a8dbcee5d3ebd00011a82a7
 LOCATION:MOTH Club\, Old Trades Hall\, Valette Street\, London E9 6NU
+END:VEVENT
+BEGIN:VEVENT
+UID:james-yorkston-at-hoxton-hall-9501477e@london-events
+DTSTAMP:20261209T190000Z
+DTSTART:20261209T190000Z
+DTEND:20261209T210000Z
+SUMMARY:James Yorkston at Hoxton Hall
+DESCRIPTION:Fife folk mainstay James Yorkston (Domino\, Yorkston/Thorne/Kh
+ an) plays an intimate seated show — back on sale after showing sold out
+  earlier this month\; grab it. (Same night as Knock2Bag + Sick Man of Eur
+ ope.)\nPrice: TBC (ticketsolve) — was sold out 7 Sep\, now showing avai
+ lable again\nhttps://hoxtonhall.ticketsolve.com/shows/1173683904/events
+URL:https://hoxtonhall.ticketsolve.com/shows/1173683904/events
+LOCATION:Hoxton Hall\, 130 Hoxton Street\, London N1 6SH
 END:VEVENT
 BEGIN:VEVENT
 UID:salt-house-at-cecil-sharp-house-af972287@london-events
