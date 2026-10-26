@@ -19,6 +19,45 @@
     "cycle_minutes": 13
   },
   {
+    "title": "Astronomy on Tap SF (October)",
+    "start": "2026-10-28T19:00:00-07:00",
+    "end": "2026-10-28T21:00:00-07:00",
+    "venue": "Public Works",
+    "address": "161 Erie St, San Francisco, CA 94103",
+    "url": "https://www.eventbrite.com/e/astronomy-on-tap-sf-october-2026-tickets-2003216296869",
+    "source": "aggregator:funcheap",
+    "tags": [
+      "talk",
+      "community"
+    ],
+    "price": "Free (1-drink minimum)",
+    "description": "Local astronomers give short, accessible talks about stars, planets and the universe in a Mission bar. It's free with RSVP and easy to chat to people between talks.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 11,
+    "added": "2026-10-26",
+    "id": "astronomy-on-tap-sf-october-891200a6"
+  },
+  {
+    "title": "Cal Academy NightLife: Fright NightLife (21+)",
+    "start": "2026-10-29T18:00:00-07:00",
+    "end": "2026-10-29T22:00:00-07:00",
+    "venue": "California Academy of Sciences",
+    "address": "55 Music Concourse Dr, Golden Gate Park, San Francisco, CA 94118",
+    "url": "https://www.calacademy.org/nightlife/fright-nightlife",
+    "source": "venue:calacademy",
+    "tags": [
+      "talk",
+      "music",
+      "community"
+    ],
+    "price": "$26",
+    "description": "The science museum's annual Halloween NightLife, headlined by Peaches Christ, with scare actors, live performances and the aquarium and rainforest open after hours. Costumes are encouraged, and it's 21+.",
+    "neighbourhood": "Golden Gate Park",
+    "cycle_minutes": 27,
+    "added": "2026-10-26",
+    "id": "cal-academy-nightlife-fright-nightlife-21-20b54cc8"
+  },
+  {
     "id": "ics-e47b9bf006cd",
     "title": "Talent Show: Has Mox Got Talent? 🌟",
     "start": "2026-10-29T19:00:00-07:00",
@@ -35,6 +74,42 @@
     "added": "2026-10-26",
     "neighbourhood": "Mission",
     "cycle_minutes": 13
+  },
+  {
+    "title": "Cityswoon Halloween Eve Date Night (ages 28-42)",
+    "start": "2026-10-30T19:00:00-07:00",
+    "end": "2026-10-30T21:30:00-07:00",
+    "venue": "Indie Wine & Beer Bar (SF Wine Center)",
+    "address": "175 Green St, San Francisco, CA 94111",
+    "url": "https://www.eventbrite.com/e/halloween-eve-date-night-in-telegraph-hill-cityswoon-ages-28-42-tickets-2001392918094",
+    "source": "aggregator:eventbrite",
+    "tags": [
+      "community"
+    ],
+    "price": "$43.45",
+    "description": "A Halloween-eve matched speed-dating night for mixed singles aged 28-42, held at a wine bar below Telegraph Hill.",
+    "neighbourhood": "Telegraph Hill",
+    "cycle_minutes": 9,
+    "added": "2026-10-26",
+    "id": "cityswoon-halloween-eve-date-night-ages-28-42-95a5e5a4"
+  },
+  {
+    "title": "Michael Lewis in conversation with Lara Bazelon",
+    "start": "2026-10-30T19:30:00-07:00",
+    "end": null,
+    "venue": "Sydney Goldstein Theater",
+    "address": "275 Hayes St, San Francisco, CA 94102",
+    "url": "https://www.cityarts.net/event/michael-lewis-8/",
+    "source": "venue:cityarts",
+    "tags": [
+      "talk"
+    ],
+    "price": null,
+    "description": "City Arts & Lectures hosts the author of Moneyball, The Big Short and Going Infinite. He discusses his new book Blockers, an inside look at the early days of DOGE told by the public servants it targeted.",
+    "neighbourhood": "Hayes Valley",
+    "cycle_minutes": 10,
+    "added": "2026-10-26",
+    "id": "michael-lewis-in-conversation-with-lara-bazelon-8199207f"
   },
   {
     "id": "ics-e9ad9595f3aa",
@@ -56,6 +131,98 @@
     "cycle_minutes": 8
   },
   {
+    "title": "Darkhaven: Halloween Gala at Lighthaven",
+    "start": "2026-10-31T20:00:00-07:00",
+    "end": "2026-11-01T02:00:00-08:00",
+    "venue": "Lighthaven",
+    "address": "2740 Telegraph Ave, Berkeley, CA 94705",
+    "url": "https://luma.com/halloweengala",
+    "source": "aggregator:luma",
+    "tags": [
+      "community",
+      "music"
+    ],
+    "price": "$50",
+    "description": "The Avalon Exposition's costumed Halloween gala on the rationalist community's Lighthaven campus. Expect dark stories and poetry, duels, live music, silent horror films, campus-wide hide and seek and a $1,000 costume contest. East Bay: BART from Montgomery to Ashby (~20 min), then a 10-min walk.",
+    "neighbourhood": "Berkeley",
+    "added": "2026-10-26",
+    "id": "darkhaven-halloween-gala-at-lighthaven-2cbabdc7"
+  },
+  {
+    "title": "Wild at Heart (4K) Halloween screening",
+    "start": "2026-10-31T21:15:00-07:00",
+    "end": "2026-10-31T23:20:00-07:00",
+    "venue": "Roxie Theater (Big Roxie)",
+    "address": "3125 16th St, San Francisco, CA 94103",
+    "url": "https://roxie.com/film/wild-at-heart/",
+    "source": "venue:roxie",
+    "tags": [
+      "film"
+    ],
+    "price": "$14",
+    "description": "A Halloween-night 4K restoration of David Lynch's Palme d'Or winner, part of the Roxie's Barry Gifford series. Come dressed as a character from the film and you get free popcorn.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 12,
+    "added": "2026-10-26",
+    "id": "wild-at-heart-4k-halloween-screening-4f502f7a"
+  },
+  {
+    "title": "Booked: Dating Night for Readers (ages 25-35)",
+    "start": "2026-11-03T19:00:00-08:00",
+    "end": "2026-11-03T21:00:00-08:00",
+    "venue": "The Love Potion Library",
+    "address": "284 Noe St, San Francisco, CA 94114",
+    "url": "https://luma.com/l7xbwkb3",
+    "source": "aggregator:luma",
+    "tags": [
+      "community"
+    ],
+    "price": "$30",
+    "description": "A guided dating mixer for readers aged 25-35. Everyone brings a book that matters to them, and hosts move the room from group prompts to one-on-one conversations, so no cold approaches. It's curated for a balanced room.",
+    "neighbourhood": "Castro",
+    "cycle_minutes": 16,
+    "added": "2026-10-26",
+    "id": "booked-dating-night-for-readers-ages-25-35-71edbb8b"
+  },
+  {
+    "title": "Blade Runner: The Final Cut (35mm)",
+    "start": "2026-11-03T20:40:00-08:00",
+    "end": "2026-11-03T22:37:00-08:00",
+    "venue": "Roxie Theater (Big Roxie)",
+    "address": "3125 16th St, San Francisco, CA 94103",
+    "url": "https://roxie.com/film/blade-runner-the-final-cut/",
+    "source": "venue:roxie",
+    "tags": [
+      "film"
+    ],
+    "price": "$14",
+    "description": "A one-night 35mm print of Ridley Scott's sci-fi noir, part of the Roxie's 'The Future According to Syd Mead' series. The series runs alongside the Syd Mead exhibition at the Transamerica Pyramid Annex Gallery.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 12,
+    "added": "2026-10-26",
+    "id": "blade-runner-the-final-cut-35mm-6ea82a3e"
+  },
+  {
+    "title": "Patch Bay workshop: Translating Living Systems into Robotics and Music",
+    "start": "2026-11-04T18:00:00-08:00",
+    "end": "2026-11-04T20:00:00-08:00",
+    "venue": "Gray Area",
+    "address": "2665 Mission St, San Francisco, CA 94110",
+    "url": "https://grayarea.org/event/patch-bay-interactive-worlds-ai-figma-workshop-2-2/",
+    "source": "venue:grayarea",
+    "tags": [
+      "workshop",
+      "tech",
+      "art"
+    ],
+    "price": "$25",
+    "description": "Hands-on workshop with bio-artists Scott Kildall and Kal Spelletich. They show how to sense biological activity, hack electronics and turn plant and microbe signals into sound and robotic movement, and you get to play with working examples.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 15,
+    "added": "2026-10-26",
+    "id": "patch-bay-workshop-translating-living-systems-into-robotics--bb07405a"
+  },
+  {
     "id": "ics-d511beaed00f",
     "title": "EA SF Discussion Salon: Cause Prioritization",
     "start": "2026-11-04T18:30:00-08:00",
@@ -73,6 +240,104 @@
     "added": "2026-10-26",
     "neighbourhood": "Mission",
     "cycle_minutes": 13
+  },
+  {
+    "title": "In-Person Class: Fresh Pasta in Color",
+    "start": "2026-11-06T18:00:00-08:00",
+    "end": "2026-11-06T20:00:00-08:00",
+    "venue": "The Hotel Majestic",
+    "address": "1500 Sutter St, San Francisco, CA 94109",
+    "url": "https://www.eventbrite.com/e/in-person-class-fresh-pasta-in-color-sf-tickets-2000903176263",
+    "source": "aggregator:eventbrite",
+    "tags": [
+      "class",
+      "food"
+    ],
+    "price": "$64.80",
+    "description": "A hands-on evening cooking class making colourful fresh pasta from scratch.",
+    "neighbourhood": "Cathedral Hill",
+    "cycle_minutes": 14,
+    "added": "2026-10-26",
+    "id": "in-person-class-fresh-pasta-in-color-c1a7f372"
+  },
+  {
+    "title": "Visioning the Future: A Climate Action Collage Soirée",
+    "start": "2026-11-06T18:00:00-08:00",
+    "end": "2026-11-06T21:00:00-08:00",
+    "venue": "The Faight Collective",
+    "address": "473A Haight St, San Francisco, CA 94117",
+    "url": "https://luma.com/u9l1w54q",
+    "source": "aggregator:luma",
+    "tags": [
+      "community",
+      "art",
+      "food"
+    ],
+    "price": "$5-56 sliding scale",
+    "description": "Soapbox San Francisco hosts a dinner-and-collage party to imagine a thriving, carbon-free SF in 2050: housing, transit, green space. It's billed as a way to make friends.",
+    "neighbourhood": "Lower Haight",
+    "cycle_minutes": 15,
+    "added": "2026-10-26",
+    "id": "visioning-the-future-a-climate-action-collage-soir-e-d4ccd43e"
+  },
+  {
+    "title": "Improv(e) Your Dating Life",
+    "start": "2026-11-06T18:30:00-08:00",
+    "end": "2026-11-06T20:30:00-08:00",
+    "venue": "BATS Improv (Fort Mason, Building C)",
+    "address": "2 Marina Blvd, Building C, Ste 365, San Francisco, CA 94123",
+    "url": "https://www.eventbrite.com/e/improve-your-dating-life-tickets-1997921969393",
+    "source": "aggregator:eventbrite",
+    "tags": [
+      "workshop",
+      "comedy",
+      "community"
+    ],
+    "price": "$23-45",
+    "description": "A single 2-hour, improv-based dating workshop from BATS. It uses improv games to look at your dating habits and practise being present, an activity-based way to meet people. It's 18+.",
+    "neighbourhood": "Fort Mason",
+    "cycle_minutes": 22,
+    "added": "2026-10-26",
+    "id": "improv-e-your-dating-life-45570161"
+  },
+  {
+    "title": "San Francisco Coffee Festival 2026 (10th annual)",
+    "start": "2026-11-07T09:00:00-08:00",
+    "end": null,
+    "venue": "Fort Mason Center Festival Pavilion",
+    "address": "2 Marina Blvd, San Francisco, CA 94109",
+    "url": "https://www.eventbrite.com/e/san-francisco-coffee-festival-2026-tickets-1977403325577",
+    "source": "aggregator:funcheap",
+    "tags": [
+      "food",
+      "festival"
+    ],
+    "price": "$44-109",
+    "description": "The 10th annual coffee festival, with tastings from Bay Area and visiting roasters across the Festival Pavilion. It runs Sat-Sun Nov 7-8.",
+    "neighbourhood": "Fort Mason",
+    "cycle_minutes": 22,
+    "added": "2026-10-26",
+    "id": "san-francisco-coffee-festival-2026-10th-annual-b2551baf"
+  },
+  {
+    "title": "San Francisco Diwali Festival",
+    "start": "2026-11-08T13:00:00-08:00",
+    "end": "2026-11-08T17:00:00-08:00",
+    "venue": "Yerba Buena Gardens (Great Lawn)",
+    "address": "750 Howard St, San Francisco, CA 94103",
+    "url": "https://sanfranciscodiwalifestival.eventbrite.com",
+    "source": "aggregator:funcheap",
+    "tags": [
+      "festival",
+      "dance",
+      "food"
+    ],
+    "price": "Free (RSVP encouraged)",
+    "description": "A free outdoor Diwali celebration on the Yerba Buena Gardens lawn, with dance, music and food, three minutes from home. California now observes Diwali as a state holiday.",
+    "neighbourhood": "SoMa",
+    "cycle_minutes": 3,
+    "added": "2026-10-26",
+    "id": "san-francisco-diwali-festival-3c2f51f4"
   },
   {
     "id": "ics-d37c7052dfb9",
@@ -94,6 +359,80 @@
     "cycle_minutes": 10
   },
   {
+    "title": "Arab Film Festival: Edward Said: Between Worlds",
+    "start": "2026-11-08T17:45:00-08:00",
+    "end": null,
+    "venue": "Castro Theatre",
+    "address": "429 Castro St, San Francisco, CA 94114",
+    "url": "https://thecastro.com/events/edward-said-between-worlds",
+    "source": "venue:castro",
+    "tags": [
+      "film",
+      "festival"
+    ],
+    "price": null,
+    "description": "Centrepiece screening of the 30th Arab Film Festival. Maiken Baird's archival documentary covers the life, ideas and legacy of the Palestinian-American scholar Edward Said.",
+    "neighbourhood": "Castro",
+    "cycle_minutes": 17,
+    "added": "2026-10-26",
+    "id": "arab-film-festival-edward-said-between-worlds-ce673b1f"
+  },
+  {
+    "title": "San Francisco Singles Speed Dating Game Night (30s/40s)",
+    "start": "2026-11-10T19:00:00-08:00",
+    "end": "2026-11-10T21:00:00-08:00",
+    "venue": "Iron Horse Cocktails",
+    "address": "25 Maiden Ln, San Francisco, CA 94108",
+    "url": "https://www.eventbrite.com/e/san-francisco-singles-speed-dating-game-night-tickets-2002594563247",
+    "source": "aggregator:eventbrite",
+    "tags": [
+      "community"
+    ],
+    "price": "$25-33",
+    "description": "Activity-based singles night: table icebreaker games like 'Friendly Feud' instead of straight speed dating, with private matching afterwards. The Nov 10 date is for singles in their 30s/40s.",
+    "neighbourhood": "Union Square",
+    "cycle_minutes": 6,
+    "added": "2026-10-26",
+    "id": "san-francisco-singles-speed-dating-game-night-30s-40s-2d665573"
+  },
+  {
+    "title": "Drop-In Circling Workshop (Berkeley)",
+    "start": "2026-11-10T19:00:00-08:00",
+    "end": "2026-11-10T22:00:00-08:00",
+    "venue": "Animal Rights Center",
+    "address": "2414 6th St, Berkeley, CA 94710",
+    "url": "https://www.tickettailor.com/events/thecirclinginsitute/2321864",
+    "source": "aggregator:meetup",
+    "tags": [
+      "workshop",
+      "community"
+    ],
+    "price": "$30",
+    "description": "The Circling Institute's in-person drop-in evening of the Original Circling approach and authentic relating, a guided practice in presence and deep connection with strangers. It's the closest in-person circling to SF this month, and the last one sold out a week ahead. East Bay: BART to Downtown Berkeley (~25 min), then bus or bike to West Berkeley.",
+    "neighbourhood": "Berkeley",
+    "added": "2026-10-26",
+    "id": "drop-in-circling-workshop-berkeley-cf7fa8f4"
+  },
+  {
+    "title": "Claudio Simonetti's Goblin performs the live score to Tenebre",
+    "start": "2026-11-10T19:30:00-08:00",
+    "end": null,
+    "venue": "Castro Theatre",
+    "address": "429 Castro St, San Francisco, CA 94114",
+    "url": "https://thecastro.com/events/claudio-simonettis-goblin-261110",
+    "source": "venue:castro",
+    "tags": [
+      "film",
+      "music"
+    ],
+    "price": null,
+    "description": "Goblin, the Italian prog band behind the Suspiria and Dawn of the Dead scores, perform their soundtrack live to a screening of Dario Argento's 1982 giallo Tenebre in the Castro's movie palace.",
+    "neighbourhood": "Castro",
+    "cycle_minutes": 17,
+    "added": "2026-10-26",
+    "id": "claudio-simonetti-s-goblin-performs-the-live-score-to-tenebr-dda3a5b6"
+  },
+  {
     "id": "ics-c440877e8faa",
     "title": "Let's talk about Power Concentration!",
     "start": "2026-11-11T18:30:00-08:00",
@@ -112,6 +451,162 @@
     "neighbourhood": "San Francisco"
   },
   {
+    "title": "Exploratorium After Dark: Unplug and Play",
+    "start": "2026-11-12T18:00:00-08:00",
+    "end": "2026-11-12T22:00:00-08:00",
+    "venue": "Exploratorium (Pier 15)",
+    "address": "Pier 15, The Embarcadero at Green St, San Francisco, CA 94111",
+    "url": "https://www.exploratorium.edu/visit/calendar/after-dark-unplug-play-nov2026",
+    "source": "venue:exploratorium",
+    "tags": [
+      "talk",
+      "community",
+      "dance"
+    ],
+    "price": null,
+    "description": "The monthly social After Dark: Roryography dance session, science trivia, a debate on alien consciousness and 650+ hands-on exhibits. It's adults only (18+) and billed as a night to 'find your community'.",
+    "neighbourhood": "Embarcadero",
+    "cycle_minutes": 10,
+    "added": "2026-10-26",
+    "id": "exploratorium-after-dark-unplug-and-play-7cd8723c"
+  },
+  {
+    "title": "The Moth GrandSLAM Championship",
+    "start": "2026-11-13T20:00:00-08:00",
+    "end": null,
+    "venue": "Castro Theatre",
+    "address": "429 Castro St, San Francisco, CA 94114",
+    "url": "https://thecastro.com/events/the-moth-261113",
+    "source": "venue:castro",
+    "tags": [
+      "talk",
+      "community"
+    ],
+    "price": null,
+    "description": "Winners of the Bay Area's Moth StorySLAMs compete to be crowned San Francisco GrandSLAM storytelling champion. True stories told live without notes.",
+    "neighbourhood": "Castro",
+    "cycle_minutes": 17,
+    "added": "2026-10-26",
+    "id": "the-moth-grandslam-championship-852406e1"
+  },
+  {
+    "title": "Fall SF International Tea Festival",
+    "start": "2026-11-14T10:00:00-08:00",
+    "end": "2026-11-14T17:00:00-08:00",
+    "venue": "Ferry Building Marketplace",
+    "address": "1 Ferry Building, San Francisco, CA 94111",
+    "url": "https://www.eventbrite.com/e/fall-sf-international-tea-festival-2026-tickets-1994590750628",
+    "source": "aggregator:funcheap",
+    "tags": [
+      "food",
+      "market",
+      "festival"
+    ],
+    "price": "$26-48",
+    "description": "Unlimited tastings from 30+ international tea vendors (Vietnamese, Nepali, Kenyan, Korean, Wuyishan oolongs and more), and you keep a porcelain tasting cup. It also runs Sun Nov 15.",
+    "neighbourhood": "Embarcadero",
+    "cycle_minutes": 5,
+    "added": "2026-10-26",
+    "id": "fall-sf-international-tea-festival-56b250fa"
+  },
+  {
+    "title": "Ben Buchanan: Superintelligence, Superpowers, and the Fate of the World",
+    "start": "2026-11-16T18:30:00-08:00",
+    "end": "2026-11-16T19:30:00-08:00",
+    "venue": "Commonwealth Club World Affairs",
+    "address": "110 The Embarcadero, San Francisco, CA 94105",
+    "url": "https://www.commonwealthclub.org/events/2026-11-16/ben-buchanan-superintelligence-superpowers-and-fate-world",
+    "source": "venue:commonwealthclub",
+    "tags": [
+      "talk",
+      "tech"
+    ],
+    "price": "$25",
+    "description": "The first White House special advisor for AI, now an advisor to Anthropic, discusses his book The Bitter Struggle. Topics include AI CEOs' private warnings, chip export controls and how democracies should handle transformative AI. Doors at 6pm.",
+    "neighbourhood": "Embarcadero",
+    "cycle_minutes": 5,
+    "added": "2026-10-26",
+    "id": "ben-buchanan-superintelligence-superpowers-and-the-fate-of-t-c475682b"
+  },
+  {
+    "title": "ChinaTalk & Unbound Book Club: Everyday Movement",
+    "start": "2026-11-17T19:00:00-08:00",
+    "end": "2026-11-17T21:00:00-08:00",
+    "venue": "Unbound Books and Coffee",
+    "address": "38 Waverly Pl, San Francisco, CA 94108",
+    "url": "https://luma.com/sguni0ck",
+    "source": "aggregator:luma",
+    "tags": [
+      "talk",
+      "community"
+    ],
+    "price": "Free",
+    "description": "ChinaTalk's monthly China Reads book club in a Chinatown bookshop-café. This month's book is Gigi Leung Lee-chi's Hong Kong protest novel Everyday Movement.",
+    "neighbourhood": "Chinatown",
+    "cycle_minutes": 9,
+    "added": "2026-10-26",
+    "id": "chinatalk-unbound-book-club-everyday-movement-0764727c"
+  },
+  {
+    "title": "Patch Bay workshop: Computational Poetry",
+    "start": "2026-11-18T18:00:00-08:00",
+    "end": "2026-11-18T20:00:00-08:00",
+    "venue": "Gray Area",
+    "address": "2665 Mission St, San Francisco, CA 94110",
+    "url": "https://grayarea.org/event/patch-bay-interactive-worlds-ai-figma-workshop-2-2-2/",
+    "source": "venue:grayarea",
+    "tags": [
+      "workshop",
+      "tech",
+      "art"
+    ],
+    "price": "$25",
+    "description": "Alicia Guo leads a hands-on workshop treating language as material to be examined, shaped and animated with code. It covers the history and tools of computational poetry, part of Gray Area's weekly Patch Bay creative-tech night.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 15,
+    "added": "2026-10-26",
+    "id": "patch-bay-workshop-computational-poetry-f2f24a11"
+  },
+  {
+    "title": "Exploratorium After Dark: Glow Opening",
+    "start": "2026-11-19T18:00:00-08:00",
+    "end": "2026-11-19T22:00:00-08:00",
+    "venue": "Exploratorium (Pier 15)",
+    "address": "Pier 15, The Embarcadero at Green St, San Francisco, CA 94111",
+    "url": "https://www.exploratorium.edu/visit/calendar/after-dark-glow-opening",
+    "source": "venue:exploratorium",
+    "tags": [
+      "art",
+      "talk"
+    ],
+    "price": null,
+    "description": "Opening night of Glow, the Exploratorium's winter light-art exhibition: new luminous artworks, glowing creatures, optical illusions and light-science activities. It's adults only (18+).",
+    "neighbourhood": "Embarcadero",
+    "cycle_minutes": 10,
+    "added": "2026-10-26",
+    "id": "exploratorium-after-dark-glow-opening-621d3306"
+  },
+  {
+    "title": "Micro To Macro: Microorganisms, Sound and Robots",
+    "start": "2026-11-19T19:00:00-08:00",
+    "end": null,
+    "venue": "Gray Area (Grand Theater)",
+    "address": "2665 Mission St, San Francisco, CA 94110",
+    "url": "https://grayarea.org/event/micro-to-macro-sound-robots/",
+    "source": "venue:grayarea",
+    "tags": [
+      "art",
+      "music",
+      "tech"
+    ],
+    "price": null,
+    "description": "Scott Kildall and Kal Spelletich give a three-act performance where signals from bacteria, plants and crustaceans drive synthesizers and robots, followed by a Q&A. Doors 7pm, performance 8pm.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 15,
+    "added": "2026-10-26",
+    "id": "micro-to-macro-microorganisms-sound-and-robots-07c39471"
+  },
+  {
     "id": "ics-b8f18fea8a1d",
     "title": "The Commons Problem - Playtest 3",
     "start": "2026-11-21T13:00:00-08:00",
@@ -128,5 +623,62 @@
     "added": "2026-10-26",
     "neighbourhood": "Mission",
     "cycle_minutes": 13
+  },
+  {
+    "title": "Long Now: Lost Landscapes 02026 with Rick Prelinger",
+    "start": "2026-12-01T19:00:00-08:00",
+    "end": "2026-12-01T21:00:00-08:00",
+    "venue": "Herbst Theatre",
+    "address": "401 Van Ness Ave, San Francisco, CA 94102",
+    "url": "https://longnow.org/talks/02026-prelinger/",
+    "source": "venue:longnow",
+    "tags": [
+      "film",
+      "talk"
+    ],
+    "price": "$30.95",
+    "description": "The 21st annual Lost Landscapes: Prelinger Archives home movies and industrial footage of everyday SF life, shown to a deliberately noisy audience who shout out identifications and memories. It's a beloved local ritual, and a second show runs Wed Dec 2.",
+    "neighbourhood": "Civic Center",
+    "cycle_minutes": 9,
+    "added": "2026-10-26",
+    "id": "long-now-lost-landscapes-02026-with-rick-prelinger-46a03bb4"
+  },
+  {
+    "title": "Cal Academy NightLife: Naughty or Nice (21+)",
+    "start": "2026-12-03T18:00:00-08:00",
+    "end": "2026-12-03T22:00:00-08:00",
+    "venue": "California Academy of Sciences",
+    "address": "55 Music Concourse Dr, Golden Gate Park, San Francisco, CA 94118",
+    "url": "https://www.calacademy.org/nightlife/nightlife-naughty-or-nice",
+    "source": "venue:calacademy",
+    "tags": [
+      "music",
+      "community"
+    ],
+    "price": "$26",
+    "description": "The last NightLife of the year before the museum's holiday break: a holiday-themed after-hours party with DJs, bars and the aquarium, rainforest and planetarium open. It's 21+.",
+    "neighbourhood": "Golden Gate Park",
+    "cycle_minutes": 27,
+    "added": "2026-10-26",
+    "id": "cal-academy-nightlife-naughty-or-nice-21-ca766b97"
+  },
+  {
+    "title": "Daniel Lieberman: Fed Up — What Evolution Reveals about Food and Diet",
+    "start": "2026-12-07T18:00:00-08:00",
+    "end": "2026-12-07T19:00:00-08:00",
+    "venue": "Commonwealth Club World Affairs",
+    "address": "110 The Embarcadero, San Francisco, CA 94105",
+    "url": "https://www.commonwealthclub.org/events/2026-12-07/fed-what-evolution-reveals-about-food-diet-health-and-eating-well",
+    "source": "venue:commonwealthclub",
+    "tags": [
+      "talk",
+      "food"
+    ],
+    "price": "$22",
+    "description": "Harvard evolutionary biologist Daniel Lieberman (Exercised) uses anthropology and physiology to bust myths about today's popular diets in a conversation about his new book Fed Up. Doors at 5:30pm.",
+    "neighbourhood": "Embarcadero",
+    "cycle_minutes": 5,
+    "added": "2026-10-26",
+    "id": "daniel-lieberman-fed-up-what-evolution-reveals-about-food-an-f87be57e"
   }
 ]
