@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>London Events</title>
+<title>San Francisco Events</title>
 <style>
   :root {
     --bg: #f7f7f5;
@@ -177,7 +177,7 @@
 <div class="wrap">
   <header class="top">
     <div class="brand">
-      <h1>London Events</h1>
+      <h1>San Francisco Events</h1>
       <span class="sub" id="count"></span>
     </div>
     <div class="controls">
@@ -234,19 +234,19 @@
   let query = "";
 
   const main = document.getElementById("main");
-  const fmtTime = new Intl.DateTimeFormat("en-GB", { hour: "2-digit", minute: "2-digit", timeZone: "Europe/London" });
-  const fmtDay = new Intl.DateTimeFormat("en-GB", { weekday: "long", day: "numeric", month: "long", timeZone: "Europe/London" });
-  const fmtFull = new Intl.DateTimeFormat("en-GB", { weekday: "short", day: "numeric", month: "short", hour: "2-digit", minute: "2-digit", timeZone: "Europe/London" });
+  const fmtTime = new Intl.DateTimeFormat("en-US", { hour: "numeric", minute: "2-digit", timeZone: "America/Los_Angeles" });
+  const fmtDay = new Intl.DateTimeFormat("en-US", { weekday: "long", day: "numeric", month: "long", timeZone: "America/Los_Angeles" });
+  const fmtFull = new Intl.DateTimeFormat("en-US", { weekday: "short", day: "numeric", month: "short", hour: "numeric", minute: "2-digit", timeZone: "America/Los_Angeles" });
 
-  // London-local calendar date "YYYY-MM-DD" for an event's start.
-  function londonDate(iso) {
+  // San Francisco-local calendar date "YYYY-MM-DD" for an event's start.
+  function localDate(iso) {
     const d = new Date(iso);
-    return new Intl.DateTimeFormat("en-CA", { timeZone: "Europe/London", year: "numeric", month: "2-digit", day: "2-digit" }).format(d);
+    return new Intl.DateTimeFormat("en-CA", { timeZone: "America/Los_Angeles", year: "numeric", month: "2-digit", day: "2-digit" }).format(d);
   }
   function localKey(y, m, day) {
     return y + "-" + String(m + 1).padStart(2, "0") + "-" + String(day).padStart(2, "0");
   }
-  const todayKey = londonDate(new Date().toISOString());
+  const todayKey = localDate(new Date().toISOString());
 
   // ---- Filtering ----
   function visible() {
@@ -278,10 +278,10 @@
   function renderMonth() {
     const y = cursor.getFullYear(), m = cursor.getMonth();
     document.getElementById("monthlabel").textContent =
-      cursor.toLocaleDateString("en-GB", { month: "long", year: "numeric" });
+      cursor.toLocaleDateString("en-US", { month: "long", year: "numeric" });
 
     const byDay = {};
-    for (const e of visible()) (byDay[londonDate(e.start)] ||= []).push(e);
+    for (const e of visible()) (byDay[localDate(e.start)] ||= []).push(e);
     for (const k in byDay) byDay[k].sort((a, b) => a.start.localeCompare(b.start));
 
     const first = new Date(y, m, 1);
@@ -319,14 +319,14 @@
   // ---- Render: list ----
   function renderList() {
     const upcoming = visible()
-      .filter(e => londonDate(e.start) >= todayKey)
+      .filter(e => localDate(e.start) >= todayKey)
       .sort((a, b) => a.start.localeCompare(b.start));
     if (!upcoming.length) {
       main.innerHTML = '<div class="empty">No upcoming events match your filters.</div>';
       return;
     }
     const groups = {};
-    for (const e of upcoming) (groups[londonDate(e.start)] ||= []).push(e);
+    for (const e of upcoming) (groups[localDate(e.start)] ||= []).push(e);
     let html = '<div class="list">';
     for (const day of Object.keys(groups).sort()) {
       const label = fmtDay.format(new Date(day + "T12:00:00Z"));
@@ -363,7 +363,7 @@
       <div class="where">${esc(e.venue || "")}${e.address ? " · " + esc(e.address) : ""}</div>
       ${e.neighbourhood || e.cycle_minutes ? `<div class="where">${[
         e.neighbourhood ? esc(e.neighbourhood) : "",
-        e.cycle_minutes ? `🚲 ~${esc(e.cycle_minutes)} min cycle from Weavers Fields` : "",
+        e.cycle_minutes ? `🚲 ~${esc(e.cycle_minutes)} min cycle from Tehama St` : "",
       ].filter(Boolean).join(" · ")}</div>` : ""}
       ${e.price ? `<div class="price">${esc(e.price)}</div>` : ""}
       ${e.description ? `<p class="desc">${esc(e.description)}</p>` : ""}
@@ -407,7 +407,7 @@
   function render() {
     renderFilters();
     view === "month" ? renderMonth() : renderList();
-    const upcoming = events.filter(e => londonDate(e.start) >= todayKey).length;
+    const upcoming = events.filter(e => localDate(e.start) >= todayKey).length;
     document.getElementById("count").textContent = upcoming ? `${upcoming} upcoming` : "";
   }
 
@@ -419,8 +419,8 @@
       if (!Array.isArray(log) || !log.length) return;
       sweepLog = log;
       const last = log[0];
-      const when = new Date(last.ran_at).toLocaleString("en-GB",
-        { day: "numeric", month: "short", hour: "2-digit", minute: "2-digit", timeZone: "Europe/London" });
+      const when = new Date(last.ran_at).toLocaleString("en-US",
+        { day: "numeric", month: "short", hour: "numeric", minute: "2-digit", timeZone: "America/Los_Angeles" });
       document.getElementById("sweepinfo").textContent =
         `Last agent sweep: ${when} (+${last.added} event${last.added === 1 ? "" : "s"})`;
     })
@@ -430,7 +430,7 @@
     const byAdded = {};
     for (const e of events) (byAdded[e.added || "unknown"] ||= []).push(e);
     const logByDate = {};
-    for (const s of sweepLog) (logByDate[londonDate(s.ran_at)] ||= []).push(s);
+    for (const s of sweepLog) (logByDate[localDate(s.ran_at)] ||= []).push(s);
     const dates = [...new Set([...Object.keys(byAdded), ...Object.keys(logByDate)])]
       .filter(d => d !== "unknown").sort().reverse();
 
@@ -438,7 +438,7 @@
       <div class="new-note">Events still on the calendar, grouped by the day they were found. Past events age out.</div>`;
     for (const d of dates) {
       const dayEvents = (byAdded[d] || []).sort((a, b) => a.start.localeCompare(b.start));
-      const label = new Date(d + "T12:00:00Z").toLocaleDateString("en-GB",
+      const label = new Date(d + "T12:00:00Z").toLocaleDateString("en-US",
         { weekday: "long", day: "numeric", month: "long" });
       html += `<div class="new-day">${label} — ${dayEvents.length} added</div>`;
       for (const s of logByDate[d] || []) {

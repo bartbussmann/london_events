@@ -7,96 +7,165 @@
 #   listings: aggregator search/category pages the agent skims
 #   keywords: web searches the agent runs to discover new things
 #
-# DICE canonical venue slugs for the east London gig circuit (their venue pages
-# 403 plain fetches; curl with a browser user-agent and follow the 308 redirect):
-#   moth-club-43ox, sebright-arms-4mm9, the-shacklewell-arms-z82z, the-victoria-j5wd,
-#   paper-dress-vintage-ja37, the-old-blue-last-4ryw, sjq-4pqp
+# Fetch notes (checked Oct 2026): send a browser User-Agent. Rickshaw Stop,
+# SFJAZZ and Freight & Salvage return 403 to plain fetches — use headless
+# Chromium (executablePath /opt/pw-browsers/chromium, args
+# --proxy-server=$HTTPS_PROXY --ssl-version-max=tls1.2; never `playwright install`).
 
 ics:
-  - name: LISA (London Initiative for Safe AI)
-    url: "https://api.lu.ma/ics/get?entity=calendar&id=cal-EIg2kZGmZGWkWcW"
+  - name: Mox
+    url: "https://api.lu.ma/ics/get?entity=calendar&id=cal-nfkEvDFat3zN1fe"
     tags: [tech, talk]
-    # AI safety talks/events, mostly at 25 Holywell Row, Shoreditch (https://luma.com/safeai)
+    # rationalist / AI-safety / EA community space, 1680 Mission St (https://lu.ma/mox)
+  - name: AI Safety San Francisco
+    url: "https://api.lu.ma/ics/get?entity=calendar&id=cal-D5yWBPY7IroUiUX"
+    tags: [tech, talk]
+    # AI safety + EA events around SF; overlaps with Mox (build.py dedupes same title/day)
 
 venues:
-  - name: Soul Sanctuary
-    url: https://andsoulsanctuary.com/book-now
-    tags: [dance, community]
-    # ecstatic dance / conscious movement events
-  - name: Newspeak House
-    url: https://newspeak.house/#events
-    tags: [tech, talk, community]
-    # political-tech community space in Bethnal Green — talks, socials
-  - name: Somerset House
-    url: https://www.somersethouse.org.uk/whats-on
-    tags: [art, music]
-  - name: Barbican Centre
-    url: https://www.barbican.org.uk/whats-on
-    tags: [art, music, film, talk]
-  - name: Southbank Centre
-    url: https://www.southbankcentre.co.uk/whats-on
-    tags: [music, talk, art]
-  - name: Paper Dress Vintage (Hackney Central)
-    url: https://paperdressvintage.co.uk/by-night
+  # --- small music rooms (top priority) ---
+  - name: Hotel Utah Saloon (SoMa)
+    url: https://hotelutah.com/
     tags: [music]
-    # small upstairs gigs, indie/folk-leaning — 12 min cycle
-  - name: Rich Mix (Shoreditch)
-    url: https://richmix.org.uk/whats-on/
-    tags: [film, music, art, community]
+    # tiny SoMa room at 4th & Bryant — closest venue to home
+  - name: Bottom of the Hill (Potrero Hill)
+    url: https://www.bottomofthehill.com/calendar.html
+    tags: [music]
+  - name: Make-Out Room (Mission)
+    url: https://www.makeoutroom.com/
+    tags: [music, comedy]
+  - name: Café du Nord / Swedish American Hall (Upper Market)
+    url: https://cafedunord.com/
+    tags: [music]
+  - name: The Chapel (Mission)
+    url: https://thechapelsf.com/music/
+    tags: [music]
+  - name: Rickshaw Stop (Hayes Valley)
+    url: https://rickshawstop.com/
+    tags: [music]
+    # 403s plain fetches — headless
+  - name: Brick & Mortar Music Hall (Mission)
+    url: https://www.brickandmortarmusic.com/
+    tags: [music]
+  - name: The Lost Church (Mission)
+    url: https://thelostchurch.org/
+    tags: [music, theatre]
+    # tiny folk/acoustic/variety venue
+  - name: Great American Music Hall (Tenderloin)
+    url: https://gamh.com/calendar/
+    tags: [music]
+  - name: The Independent (NoPa)
+    url: https://www.theindependentsf.com/
+    tags: [music]
+  - name: SFJAZZ Center (Hayes Valley)
+    url: https://www.sfjazz.org/calendar/
+    tags: [music]
+    # 403s plain fetches — headless
+  - name: Freight & Salvage (Berkeley)
+    url: https://thefreight.org/shows/
+    tags: [music]
+    # the Bay Area's folk institution — East Bay, so standouts only; 403s plain fetches
+  - name: The Plough and Stars (Inner Richmond)
+    url: https://www.theploughandstars.com/
+    tags: [music, community]
+    # Irish pub with trad sessions
+  # --- talks, science, ideas ---
+  - name: Exploratorium After Dark (Thursdays, Pier 15)
+    url: https://www.exploratorium.edu/visit/calendar/after-dark
+    tags: [talk, art]
+  - name: California Academy of Sciences NightLife (Thursdays)
+    url: https://www.calacademy.org/nightlife
+    tags: [talk, music]
+  - name: The Long Now Foundation (talks, The Interval at Fort Mason)
+    url: https://longnow.org/talks/
+    tags: [talk]
+  - name: Commonwealth Club World Affairs
+    url: https://www.commonwealthclub.org/events
+    tags: [talk]
+  - name: City Arts & Lectures
+    url: https://www.cityarts.net/
+    tags: [talk]
+  - name: Gray Area (Mission — art + tech)
+    url: https://grayarea.org/visit/events/
+    tags: [art, tech, talk]
+  - name: Manny's (Mission — civic talks + community)
+    url: https://welcometomannys.com/
+    tags: [talk, community]
+  - name: Lighthaven (Berkeley — rationalist campus)
+    url: https://www.lighthaven.space/
+    tags: [talk, community]
+    # East Bay; check for public events, festivals and meetups
+  # --- film ---
+  - name: Roxie Theater (Mission)
+    url: https://roxie.com/
+    tags: [film]
+  - name: Castro Theatre
+    url: https://www.thecastro.com/
+    tags: [film, music]
+  # --- dance ---
+  - name: Bay Area Country Dance Society (contra + English country)
+    url: https://www.bacds.org/calendars/
+    tags: [dance]
+    # SF / Palo Alto / Berkeley dances; prefer SF venues
 
 listings:
-  - name: Dandelion — events near London
-    url: "https://dandelion.events/events?display=&order=&from=&to=&q=&near=London%2C+UK&event_tag_id=&search=1"
+  - name: Funcheap SF
+    url: https://sf.funcheap.com/
+    tags: []
+    # best broad index of cheap/free SF happenings — skim, then verify on the event's own page
+  - name: The List (foopee) — Bay Area shows
+    url: http://www.foopee.com/punk/the-list/
+    tags: [music]
+    # plain-text listing of every small Bay Area gig; great for SoMa/Mission rooms
+  - name: Dandelion — events near San Francisco
+    url: "https://dandelion.events/events?near=San+Francisco%2C+CA"
     tags: [community, dance, workshop]
-    # co-created events platform, strong for circling/AR/embodiment/conscious community
-    # The HTML listing 403s robots, but the public ICS feed works and is the best index:
-    #   https://dandelion.events/events.ics?near=London%2C+UK
-    # Fetch that, shortlist by title/interest, then verify each /e/ page. Do NOT bulk-import
-    # the feed — it lists everything near London and needs judgment against preferences.md.
-  - name: 5Rhythms — GB class search
-    url: "https://www.5rhythms.com/EventSearch.php?validate_event_level=&event_type_id=1&event_country=GB&event_state=&event_city%5B%5D=&event_days%5B%5D=&event_startDate=mm%2Fdd%2Fyy&event_endDate=mm%2Fdd%2Fyy&location_lat=&location_long=&findIt=FIND+IT&isAdvancedSearch=0&SearchName=&SearchEvent=&event_level_id%5B%5D="
+    # Use the public ICS feed as the index: https://dandelion.events/events.ics?near=San+Francisco%2C+CA
+    # (times UTC; CREATED timestamps regenerate each fetch — dedupe by URL/title/date).
+    # Do NOT bulk-import — shortlist against preferences.md and verify each /e/ page.
+  - name: 5Rhythms — US class search
+    url: "https://www.5rhythms.com/EventSearch.php?event_type_id=1&event_country=US&event_state=CA&findIt=FIND+IT&isAdvancedSearch=0"
     tags: [dance]
-    # IMPORTANT: search covers all of Great Britain — only add events located in London
-  - name: Thursday — London dating events
-    url: https://www.thursday.com/events/london
-    tags: [community]
-  - name: Ceroc — find classes
-    url: https://www.ceroc.com/find-a-class/
-    tags: [dance, class]
-    # prefer east/central London venues
+    # only add Bay Area events
+  - name: Luma — San Francisco
+    url: https://lu.ma/sf
+    tags: [tech, community]
+    # skip startup pitch nights / corporate networking
   - name: LessWrong community events
     url: https://www.lesswrong.com/community
     tags: [talk, community]
-    # filter to London events only
-  - name: Time Out London – things to do this week
-    url: https://www.timeout.com/london/things-to-do/things-to-do-in-london-this-weekend
-    tags: []
-  - name: Eventbrite – classes in London
-    url: https://www.eventbrite.co.uk/d/united-kingdom--london/classes/
+    # filter to Bay Area events
+  - name: Thursday — San Francisco dating events
+    url: https://www.thursday.com/events/san-francisco
+    tags: [community]
+    # API city id 09a55be4-10e3-4765-b0c0-05a016d64349; no upcoming SF events at last check (Oct 2026)
+  - name: Eventbrite – classes in San Francisco
+    url: https://www.eventbrite.com/d/ca--san-francisco/classes/
     tags: [class]
-  - name: Meetup – events in London
-    url: https://www.meetup.com/find/?location=gb--london&source=EVENTS
+  - name: Meetup – events in San Francisco
+    url: "https://www.meetup.com/find/?location=us--ca--san-francisco&source=EVENTS"
     tags: [community]
 
 keywords:
-  - "contact improvisation jam London"
-  - "contact improv class London beginners"
-  - "circling authentic relating London"
-  - "authentic relating games London"
-  - "Alexander Technique workshop London"
-  - "ecstatic dance London"
-  - "Ceroc class London"
-  - "5Rhythms London"
-  - "LessWrong London meetup"
-  - "ACX Astral Codex Ten London meetup"
-  - "singles dating event Shoreditch"
-  - "events Bethnal Green this week"
-  - "events Shoreditch this week"
-  - "pottery class London"
-  - "cooking workshop London"
-  - "indie folk gig London this week"
-  - "pub gig Bethnal Green Shoreditch live music"
-  - "small venue gig east London this week"
-  - "science talk London"
-  - "outdoor cinema London"
-  - "supper club London"
+  - "contact improvisation jam San Francisco"
+  - "contact improv class Bay Area beginners"
+  - "circling authentic relating San Francisco"
+  - "authentic relating games San Francisco"
+  - "Alexander Technique workshop San Francisco"
+  - "ecstatic dance San Francisco"
+  - "5Rhythms San Francisco"
+  - "contra dance San Francisco"
+  - "lindy hop swing dance San Francisco social"
+  - "West Coast Swing San Francisco"
+  - "ACX Astral Codex Ten San Francisco meetup"
+  - "LessWrong Bay Area meetup"
+  - "singles event San Francisco"
+  - "events SoMa San Francisco this week"
+  - "events Mission District this week"
+  - "pottery class San Francisco"
+  - "cooking class San Francisco"
+  - "indie folk show San Francisco this week"
+  - "Irish trad session San Francisco"
+  - "science talk San Francisco"
+  - "AI safety talk San Francisco"
+  - "supper club San Francisco"

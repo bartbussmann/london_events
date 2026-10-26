@@ -8,7 +8,7 @@ Run after any edit to data/events.json:
 It will:
   - validate every event against the schema (see AGENTS.md)
   - assign stable ids to events that lack one
-  - de-duplicate (same normalised title + same London date -> keep first)
+  - de-duplicate (same normalised title + same local date -> keep first)
   - prune events that ended more than PRUNE_AFTER_DAYS ago
   - sort by start time and rewrite data/events.json
   - regenerate calendar.ics (UTC times, importable/subscribable feed)
@@ -48,7 +48,7 @@ def parse_dt(value: str, field: str, title: str) -> datetime:
     except (ValueError, TypeError):
         fail(f"event {title!r}: {field} is not ISO 8601: {value!r}")
     if dt.tzinfo is None:
-        fail(f"event {title!r}: {field} must include a UTC offset, e.g. +01:00")
+        fail(f"event {title!r}: {field} must include a UTC offset, e.g. -07:00")
     return dt
 
 
@@ -121,10 +121,10 @@ def build_ics(events: list) -> str:
     lines = [
         "BEGIN:VCALENDAR",
         "VERSION:2.0",
-        "PRODID:-//london_events//event-agents//EN",
+        "PRODID:-//sf_events//event-agents//EN",
         "CALSCALE:GREGORIAN",
-        "X-WR-CALNAME:London Events",
-        "X-WR-TIMEZONE:Europe/London",
+        "X-WR-CALNAME:San Francisco Events",
+        "X-WR-TIMEZONE:America/Los_Angeles",
     ]
     for ev in events:
         start = datetime.fromisoformat(ev["start"])
@@ -138,7 +138,7 @@ def build_ics(events: list) -> str:
         location = ", ".join(x for x in [ev.get("venue"), ev.get("address")] if x)
         fields = [
             "BEGIN:VEVENT",
-            f"UID:{ev['id']}@london-events",
+            f"UID:{ev['id']}@sf-events",
             f"DTSTAMP:{ics_dt(ev['start'])}",
             f"DTSTART:{ics_dt(ev['start'])}",
             f"DTEND:{end.astimezone(timezone.utc).strftime('%Y%m%dT%H%M%SZ')}",
@@ -171,7 +171,7 @@ def main() -> None:
         if not ev.get("added"):
             ev["added"] = datetime.now(timezone.utc).date().isoformat()
 
-    # De-duplicate: same normalised title on the same London date.
+    # De-duplicate: same normalised title on the same local date.
     seen, deduped, dropped = set(), [], 0
     for ev in sorted(events, key=lambda e: e.get("added", "")):
         day = datetime.fromisoformat(ev["start"]).date().isoformat()

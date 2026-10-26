@@ -19,12 +19,14 @@ import hashlib
 import urllib.request
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
+from zoneinfo import ZoneInfo
 
 ROOT = Path(__file__).resolve().parent.parent
 SOURCES_PATH = ROOT / "sources.yaml"
 EVENTS_PATH = ROOT / "data" / "events.json"
 
 HORIZON_DAYS = 60  # ignore feed events further out than this
+LOCAL_TZ = ZoneInfo("America/Los_Angeles")
 
 
 def read_ics_sources() -> list:
@@ -74,21 +76,29 @@ def ics_unescape(text: str) -> str:
 
 
 def parse_ics_dt(prop: str, value: str) -> datetime | None:
+    """Parse a DTSTART/DTEND value into an aware datetime in local (Pacific) time.
+
+    Honours a TZID parameter on the property; floating times without one are
+    taken as Pacific.
+    """
     value = value.strip()
+    tz = LOCAL_TZ
+    m = re.search(r"TZID=([^;:]+)", prop)
+    if m:
+        try:
+            tz = ZoneInfo(m.group(1).strip('"'))
+        except Exception:
+            tz = LOCAL_TZ
     try:
         if re.fullmatch(r"\d{8}", value):  # all-day date
-            return datetime.strptime(value, "%Y%m%d").replace(
-                hour=10, tzinfo=timezone.utc)
-        if value.endswith("Z"):
-            return datetime.strptime(value, "%Y%m%dT%H%M%SZ").replace(
-                tzinfo=timezone.utc)
-        # Naive or TZID-qualified local time: assume Europe/London offset is
-        # embedded upstream; treat as UTC+1 in summer, +0 otherwise.
-        dt = datetime.strptime(value, "%Y%m%dT%H%M%S")
-        offset = 1 if 3 < dt.month < 11 else 0
-        return dt.replace(tzinfo=timezone(timedelta(hours=offset)))
+            dt = datetime.strptime(value, "%Y%m%d").replace(hour=10, tzinfo=LOCAL_TZ)
+        elif value.endswith("Z"):
+            dt = datetime.strptime(value, "%Y%m%dT%H%M%SZ").replace(tzinfo=timezone.utc)
+        else:
+            dt = datetime.strptime(value, "%Y%m%dT%H%M%S").replace(tzinfo=tz)
     except ValueError:
         return None
+    return dt.astimezone(LOCAL_TZ)
 
 
 def parse_vevents(text: str) -> list:
@@ -128,7 +138,7 @@ def main() -> None:
             req = urllib.request.Request(
                 src["url"],
                 headers={"User-Agent": "Mozilla/5.0 (calendar-fetcher) "
-                                       "london-events/1.0"})
+                                       "sf-events/1.0"})
             with urllib.request.urlopen(req, timeout=30) as resp:
                 body = resp.read().decode("utf-8", errors="replace")
         except Exception as exc:

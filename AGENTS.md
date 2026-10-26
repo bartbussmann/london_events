@@ -1,7 +1,7 @@
 # Agent playbook — event sweep
 
 You are an autonomous event-scout agent. Your job on each run: find genuinely
-interesting upcoming London events and add them to this repo's calendar.
+interesting upcoming San Francisco / Bay Area events and add them to this repo's calendar.
 
 ## Steps
 
@@ -13,10 +13,10 @@ interesting upcoming London events and add them to this repo's calendar.
 3. **Deterministic pass**: run `python3 scripts/fetch_ics.py` to merge any
    configured ICS feeds. Feed imports arrive without `neighbourhood` /
    `cycle_minutes` — look at each new import's venue/location and fill both
-   in (LISA / 25 Holywell Row = "Shoreditch", 8). Also drop any import that
-   clearly isn't in London or violates the preferences — and when you drop
-   one, add its `id` to `data/suppressed_ids.json` so the fetcher never
-   re-imports it.
+   in (Mox / 1680 Mission St = "Mission", 13). Also drop any import that
+   clearly isn't in the Bay Area, is online-only, is a weekday-daytime event,
+   or otherwise violates the preferences — and when you drop one, add its `id`
+   to `data/suppressed_ids.json` so the fetcher never re-imports it.
 4. **Browse pass**: for each entry under `venues:` and `listings:` in
    sources.yaml, fetch the page and look for upcoming events (next ~6 weeks)
    that fit the preferences.
@@ -55,17 +55,17 @@ interesting upcoming London events and add them to this repo's calendar.
 {
   "id": "",                                  // leave empty — build.py assigns it
   "title": "Evening pottery taster",
-  "start": "2026-07-14T18:30:00+01:00",      // ISO 8601 WITH offset (+01:00 in summer)
-  "end": "2026-07-14T20:30:00+01:00",        // or null if unknown
-  "venue": "Turning Earth E10",
-  "address": "Argall Ave, E10 7AS",          // or null
+  "start": "2026-11-12T18:30:00-08:00",      // ISO 8601 WITH offset (-07:00 PDT / -08:00 PST)
+  "end": "2026-11-12T20:30:00-08:00",        // or null if unknown
+  "venue": "Example Ceramics Studio",
+  "address": "Folsom St, San Francisco, CA",  // or null
   "url": "https://...",                      // booking/official page, required
   "source": "keyword-search",                // e.g. "venue:barbican", "aggregator:eventbrite", "ics:<name>"
   "tags": ["class", "workshop"],             // 1–3 from the allowed list in scripts/build.py
-  "price": "£25",                            // or "Free" or null
+  "price": "$25",                            // or "Free" or null
   "description": "One or two plain sentences on what it is and why it's interesting.",
-  "neighbourhood": "Bethnal Green",          // London neighbourhood of the venue
-  "cycle_minutes": 4,                        // approx. cycle time from Weavers Fields, E2
+  "neighbourhood": "SoMa",                   // San Francisco neighbourhood of the venue
+  "cycle_minutes": 5,                        // approx. cycle time from 39 Tehama St, SoMa
   "added": ""                                // leave empty — build.py stamps today
 }
 ```
@@ -74,17 +74,23 @@ interesting upcoming London events and add them to this repo's calendar.
 
 Always fill `neighbourhood` and `cycle_minutes` for every event you add:
 
-- `neighbourhood` is the commonly-used London area name for the venue
-  (e.g. "Shoreditch", "Dalston", "Covent Garden", "South Bank").
-- `cycle_minutes` is the approximate cycling time from **Weavers Fields,
-  Bethnal Green E2** (the calendar owner's starting point), assuming a
-  relaxed ~15 km/h through-traffic pace. Estimate from the venue's address;
-  round to sensible values. Reference points: Newspeak House/Bethnal Green
-  Rd ≈ 3, Brick Lane/Shoreditch ≈ 6, Old Street ≈ 8, Hackney Central ≈ 12,
-  Dalston ≈ 14, Barbican/Clerkenwell ≈ 15, Angel ≈ 18, Holborn ≈ 22,
-  Covent Garden/Strand ≈ 25, South Bank/King's Cross ≈ 28, Camden ≈ 32,
-  Mayfair/Regent's Park ≈ 35, Hyde Park/Vauxhall ≈ 40, Kensington/
-  Battersea/Herne Hill ≈ 45-50.
+- `neighbourhood` is the commonly-used San Francisco / Bay Area name for the
+  venue's area (e.g. "SoMa", "Mission", "Hayes Valley", "North Beach",
+  "Oakland").
+- `cycle_minutes` is the approximate cycling time from **39 Tehama St, SoMa**
+  (the calendar owner's home, between 1st & 2nd St near the Salesforce
+  Transit Center), assuming a relaxed ~15 km/h pace on bike-friendly routes
+  (Market St, the Wiggle) and adding time for real hills. Reference points:
+  Salesforce Park/Yerba Buena ≈ 3, Ferry Building/Moscone/SFMOMA ≈ 5,
+  Union Square/FiDi ≈ 6, Civic Center/Tenderloin ≈ 8, Chinatown ≈ 9,
+  North Beach/Exploratorium (Pier 15) ≈ 10, Dogpatch/Hayes Valley ≈ 11,
+  Potrero Hill/Mission (16th St) ≈ 12, Mission (24th St)/Lower Haight ≈ 16,
+  Castro/Fillmore/Japantown ≈ 17, Fort Mason/Marina ≈ 22, Haight-Ashbury/
+  Noe Valley/Bernal Heights ≈ 22, Golden Gate Park (Cal Academy)/Inner
+  Richmond ≈ 27, Presidio ≈ 30, Outer Sunset/Ocean Beach ≈ 45.
+- **East Bay / Peninsula** venues aren't a bike ride: set `cycle_minutes` to
+  null and say how to get there in the description (e.g. "BART from
+  Montgomery, ~25 min to Downtown Berkeley").
 
 ## Rules
 
@@ -94,4 +100,8 @@ Always fill `neighbourhood` and `cycle_minutes` for every event you add:
 - Keep edits limited to `data/events.json` (and `calendar.ics` via build.py)
   unless the calendar owner asked for something else.
 - If a source page is unreachable, skip it and mention that in the commit body.
-- Times are Europe/London; always include the UTC offset in timestamps.
+- Times are America/Los_Angeles; always include the UTC offset in timestamps:
+  -07:00 (PDT) until clocks go back on Sun 1 Nov 2026, -08:00 (PST) from then
+  until Sun 14 Mar 2027, then -07:00 again.
+- The old London calendar is archived on the `london-archive` branch — don't
+  touch it.

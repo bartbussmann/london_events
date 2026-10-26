@@ -1,6 +1,9 @@
-# London Events
+# San Francisco Events
 
-A personal event-aggregation calendar. Autonomous agent sweeps check calendar
+A personal event-aggregation calendar for San Francisco and the Bay Area
+(until October 2026 it covered London — that calendar is archived on the
+[`london-archive`](https://github.com/bartbussmann/london_events/tree/london-archive)
+branch). Autonomous agent sweeps check calendar
 feeds, venue pages, and keyword web searches on a schedule, judge candidates
 against [`preferences.md`](preferences.md), and commit the interesting ones to
 [`data/events.json`](data/events.json). The calendar itself is a static site —
