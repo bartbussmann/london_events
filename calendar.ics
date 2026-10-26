@@ -123,19 +123,6 @@ LOCATION:California Academy of Sciences\, 55 Music Concourse Dr\, Golden G
  ate Park\, San Francisco\, CA 94118
 END:VEVENT
 BEGIN:VEVENT
-UID:ics-58e2f4e5a843@sf-events
-DTSTAMP:20261030T013000Z
-DTSTART:20261030T013000Z
-DTEND:20261030T033000Z
-SUMMARY:[External] Scott Wiener friend banking pizza party 🍕 - let's ma
- king voting fun!
-DESCRIPTION:Get up-to-date information at: https://luma.com/aisafety-7vpq\
- n\nAddress:\nCheck event page for more details.\n\nHosted by Jen Ba\nhttp
- s://api.lu.ma/ics/get?entity=calendar&id=cal-D5yWBPY7IroUiUX
-URL:https://api.lu.ma/ics/get?entity=calendar&id=cal-D5yWBPY7IroUiUX
-LOCATION:https://luma.com/event/evt-W9Y9xCCwASc7SKj
-END:VEVENT
-BEGIN:VEVENT
 UID:ics-e47b9bf006cd@sf-events
 DTSTAMP:20261030T020000Z
 DTSTART:20261030T020000Z
