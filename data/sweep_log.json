@@ -1,5 +1,11 @@
 [
   {
+    "ran_at": "2026-10-26T17:30:00-07:00",
+    "added": 36,
+    "considered": 260,
+    "notes": "FIRST SF SWEEP (part B — music, folk, dance). Small rooms: Danbert Nobacon (Chumbawamba) Hotel Utah 28 Oct $10; Great Lake Swimmers Cafe du Nord 28 Oct; Jake Xerxes Fussell GAMH 11 Nov; Cactus Blossoms 14 Nov + Buck Meek 7 Dec at the Chapel; Pedro the Lion Bottom of the Hill 23 Nov; Leonard Cohen Festival 6-7 Nov; Los Gaiteros/Fruko cumbia GAMH 2 Nov; SFJAZZ picks. DANCE: BACDS SF contra Weds (28 Oct, 11 Nov — the ceilidh equivalent), SF English country 14 Nov, Woodchopper's Ball Tuesday swing at the Verdi Club, MOVEMENT Sunday ecstatic dance, Pyramid Dance 13 Nov, 5Rhythms Wild Release Fridays, Castro Room contact improv 2 Nov, Lindy in the Park, Berkeley Fest Noz 22 Nov (East Bay exception). FOLK/TRAD: Plough and Stars Sunday seisiun + set dancing + 1st-Saturday session, Maritime Museum chantey sing 7 Nov, Sacred Harp singing (private home — street address withheld). NEW SOURCES added to sources.yaml: Verdi Club (Tribe REST API), MOVEMENT/move.love, Lindy in the Park, SFFMC folk calendar, bay.dance CI calendar, Sacred Harp. BLOCKED: Rickshaw Stop + Freight & Salvage (Cloudflare even headless), Mission City Swing (WCS) human-check, SeeTickets pages bot-checked. SOLD OUT: Ezra Collective Bimbo's 12 Nov, Armand Hammer BotH 8 Nov, Lime Garden, MARIS, Earthless, SFJAZZ Coltrane class. SPARES: Woodchopper's 10/17/24 Nov + 1 Dec; contra 25 Nov; MOVEMENT 8/15/22/29 Nov; Kate Nash 15 Nov; Alice Coltrane tribute GAMH 22 Nov; THAO 8 Nov; Foy Vance 8 Nov; Craig Finn 15 Nov; Mad Dog in the Fog session 1 Nov."
+  },
+  {
     "ran_at": "2026-10-26T15:00:00-07:00",
     "added": 29,
     "considered": 320,

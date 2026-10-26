@@ -47,10 +47,6 @@ venues:
   - name: Brick & Mortar Music Hall (Mission)
     url: https://www.brickandmortarmusic.com/
     tags: [music]
-  - name: The Lost Church (Mission)
-    url: https://thelostchurch.org/
-    tags: [music, theatre]
-    # tiny folk/acoustic/variety venue
   - name: Great American Music Hall (Tenderloin)
     url: https://gamh.com/calendar/
     tags: [music]
@@ -108,6 +104,24 @@ venues:
     tags: [dance]
     # SF / Palo Alto / Berkeley dances; prefer SF venues
 
+  - name: Verdi Club — Woodchopper's Ball (Tuesday swing, Mission)
+    url: https://www.verdiclub.net/events/
+    tags: [dance, music]
+    # weekly live-band swing w/ 9pm beginner lesson, $20 cash; cleanest dates via
+    # Tribe Events REST API: https://www.verdiclub.net/wp-json/tribe/events/v1/events
+  - name: MOVEMENT ecstatic dance (Sundays 10am, Sacred Heart, 554 Fillmore)
+    url: https://move.love/
+    tags: [dance, community]
+    # JS-rendered; exact times/prices via the Eventbrite JSON-LD of each weekly event
+  - name: Lindy in the Park (Sundays 11-2, Golden Gate Park JFK Dr)
+    url: https://lindyinthepark.com/
+    tags: [dance, outdoors]
+    # free, weather permitting — add an instance occasionally, not every week
+  - name: The Lost Church (North Beach listening room)
+    url: https://thelostchurch.org/
+    tags: [music]
+    # show details live on Salesforce ticket instance pages (headless)
+
 listings:
   - name: Funcheap SF
     url: https://sf.funcheap.com/
@@ -145,6 +159,19 @@ listings:
   - name: Meetup – events in San Francisco
     url: "https://www.meetup.com/find/?location=us--ca--san-francisco&source=EVENTS"
     tags: [community]
+
+  - name: SFFMC community folk calendar
+    url: https://www.sffmc.org/community-folk-calendar/
+    tags: [music, community]
+    # best index of recurring Irish/old-time sessions, singarounds, shanty sings
+  - name: bay.dance — contact improv calendar
+    url: https://bay.dance/events/contact_improv/
+    tags: [dance, class]
+    # dated Bay Area CI classes/jams (Castro Room 1st & 3rd Mondays, ODC Sundays)
+  - name: Bay Area Sacred Harp — local singings
+    url: https://bayareasacredharp.org/local-singings/
+    tags: [music, community]
+    # SF singing meets in a private home: don't publish the street address
 
 keywords:
   - "contact improvisation jam San Francisco"

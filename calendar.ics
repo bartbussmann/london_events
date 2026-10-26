@@ -19,6 +19,36 @@ URL:https://luma.com/0zs5pdkz
 LOCATION:Mox\, 1680 Mission St\, San Francisco\, CA 94103
 END:VEVENT
 BEGIN:VEVENT
+UID:sad-bastard-club-songwriter-round-robin-with-tom-heyman-b599299c@sf-ev
+ ents
+DTSTAMP:20261028T023000Z
+DTSTART:20261028T023000Z
+DTEND:20261028T043000Z
+SUMMARY:Sad Bastard Club: songwriter round-robin with Tom Heyman
+DESCRIPTION:A free songwriter round-robin hosted by local singer-songwrite
+ r Tom Heyman in one of the Mission's best small rooms. Low-key\, acoustic
+  and easy to chat with people between songs.\nPrice: Free\nhttps://www.ma
+ keoutroom.com/events/tuesday-october-27
+URL:https://www.makeoutroom.com/events/tuesday-october-27
+LOCATION:Make-Out Room\, 3225 22nd St\, San Francisco\, CA 94110
+END:VEVENT
+BEGIN:VEVENT
+UID:woodchopper-s-ball-halloween-edition-with-the-cottontails-d05cd8aa@sf-
+ events
+DTSTAMP:20261028T040000Z
+DTSTART:20261028T040000Z
+DTEND:20261028T063000Z
+SUMMARY:Woodchopper's Ball: Halloween edition with The Cottontails
+DESCRIPTION:SF's weekly Tuesday swing night with a different live band eac
+ h week. This week is the Halloween edition with The Cottontails plus an a
+ fter-hours jam. A free drop-in beginner swing lesson runs 9-9:15pm\, and 
+ no partner is needed.\nPrice: $20 (cash only)\nhttps://www.verdiclub.net/
+ events/the-woodchoppers-ball-42-3-2/2026-10-27/
+URL:https://www.verdiclub.net/events/the-woodchoppers-ball-42-3-2/2026-10-
+ 27/
+LOCATION:Verdi Club\, 2424 Mariposa St\, San Francisco\, CA 94110
+END:VEVENT
+BEGIN:VEVENT
 UID:astronomy-on-tap-sf-october-891200a6@sf-events
 DTSTAMP:20261029T020000Z
 DTSTART:20261029T020000Z
@@ -32,6 +62,51 @@ DESCRIPTION:Local astronomers give short\, accessible talks about stars\,
 URL:https://www.eventbrite.com/e/astronomy-on-tap-sf-october-2026-tickets-
  2003216296869
 LOCATION:Public Works\, 161 Erie St\, San Francisco\, CA 94103
+END:VEVENT
+BEGIN:VEVENT
+UID:danbert-nobacon-of-chumbawamba-zen-serafina-paul-is-awful-5a267a2b@sf-
+ events
+DTSTAMP:20261029T020000Z
+DTSTART:20261029T020000Z
+DTEND:20261029T040000Z
+SUMMARY:Danbert Nobacon (of Chumbawamba)\, Zen & Serafina\, Paul Is Awful
+DESCRIPTION:Chumbawamba co-founder Danbert Nobacon brings his folk/anarcho
+ -singalong project to the tiny 1908 saloon at 4th & Bryant\, the closest 
+ music room to home. 21+.\nPrice: $10\nhttps://wl.seetickets.us/event/danb
+ ert-nobacon-zen-and-serafina/707430?afflky=HotelUtahSaloon
+URL:https://wl.seetickets.us/event/danbert-nobacon-zen-and-serafina/707430
+ ?afflky=HotelUtahSaloon
+LOCATION:Hotel Utah Saloon\, 500 4th St\, San Francisco\, CA 94107
+END:VEVENT
+BEGIN:VEVENT
+UID:san-francisco-wednesday-contra-dance-beginner-lesson-7-30-ba4bbe79@sf-
+ events
+DTSTAMP:20261029T023000Z
+DTSTART:20261029T023000Z
+DTEND:20261029T050000Z
+SUMMARY:San Francisco Wednesday Contra Dance (beginner lesson 7:30)
+DESCRIPTION:BACDS contra dance with caller Elijah Jaime and live band Danc
+ e Dinos. Beginner lesson at 7:30\, dancing 8-10pm. It's the US cousin of 
+ a ceilidh: everything is walked through and you can come alone.\nPrice: $
+ 20 ($15 members\, $6 students/low-income)\nhttps://bacds.org/series/contr
+ a/san_francisco_wed/
+URL:https://bacds.org/series/contra/san_francisco_wed/
+LOCATION:The Polish Club\, 3040 22nd St\, San Francisco\, CA 94110
+END:VEVENT
+BEGIN:VEVENT
+UID:great-lake-swimmers-with-jesse-sykes-the-sweet-hereafter-b8820db8@sf-e
+ vents
+DTSTAMP:20261029T030000Z
+DTSTART:20261029T030000Z
+DTEND:20261029T050000Z
+SUMMARY:Great Lake Swimmers with Jesse Sykes & The Sweet Hereafter
+DESCRIPTION:Polaris-shortlisted Canadian indie-folk band touring their 202
+ 5 album Caught Light\, in the 320-capacity basement room under the Swedis
+ h American Hall. Doors 7pm\, 21+.\nPrice: $30.36\nhttps://cafedunord.com/
+ shows/2026-10-28-great-lake-swimmers
+URL:https://cafedunord.com/shows/2026-10-28-great-lake-swimmers
+LOCATION:Cafe du Nord\, 2174 Market St (downstairs)\, San Francisco\, CA 9
+ 4114
 END:VEVENT
 BEGIN:VEVENT
 UID:cal-academy-nightlife-fright-nightlife-21-20b54cc8@sf-events
@@ -48,6 +123,19 @@ LOCATION:California Academy of Sciences\, 55 Music Concourse Dr\, Golden G
  ate Park\, San Francisco\, CA 94118
 END:VEVENT
 BEGIN:VEVENT
+UID:ics-58e2f4e5a843@sf-events
+DTSTAMP:20261030T013000Z
+DTSTART:20261030T013000Z
+DTEND:20261030T033000Z
+SUMMARY:[External] Scott Wiener friend banking pizza party 🍕 - let's ma
+ king voting fun!
+DESCRIPTION:Get up-to-date information at: https://luma.com/aisafety-7vpq\
+ n\nAddress:\nCheck event page for more details.\n\nHosted by Jen Ba\nhttp
+ s://api.lu.ma/ics/get?entity=calendar&id=cal-D5yWBPY7IroUiUX
+URL:https://api.lu.ma/ics/get?entity=calendar&id=cal-D5yWBPY7IroUiUX
+LOCATION:https://luma.com/event/evt-W9Y9xCCwASc7SKj
+END:VEVENT
+BEGIN:VEVENT
 UID:ics-e47b9bf006cd@sf-events
 DTSTAMP:20261030T020000Z
 DTSTART:20261030T020000Z
@@ -59,6 +147,34 @@ DESCRIPTION:Has Mox Got Talent? — community talent show at Mox\, the eas
  xx
 URL:https://luma.com/mox-inxx
 LOCATION:Mox\, 1680 Mission St\, San Francisco\, CA 94103
+END:VEVENT
+BEGIN:VEVENT
+UID:katie-pruitt-with-olivia-barton-714e4704@sf-events
+DTSTAMP:20261030T030000Z
+DTSTART:20261030T030000Z
+DTEND:20261030T050000Z
+SUMMARY:Katie Pruitt with Olivia Barton
+DESCRIPTION:Nashville Americana singer-songwriter on her Fools for the Fle
+ eting tour\, in a converted 1914 mortuary chapel on Valencia. Doors 7pm\,
+  all ages.\nPrice: $25-$30\nhttps://wl.seetickets.us/event/katie-pruitt/6
+ 95190?afflky=TheChapel
+URL:https://wl.seetickets.us/event/katie-pruitt/695190?afflky=TheChapel
+LOCATION:The Chapel\, 777 Valencia St\, San Francisco\, CA 94110
+END:VEVENT
+BEGIN:VEVENT
+UID:irish-set-dancing-at-the-plough-and-stars-barry-o-connell-vi-905a09e8@
+ sf-events
+DTSTAMP:20261030T040000Z
+DTSTART:20261030T040000Z
+DTEND:20261030T060000Z
+SUMMARY:Irish set dancing at the Plough and Stars (Barry O'Connell & Vinni
+ e Cronin)
+DESCRIPTION:Thursday-night Irish set dancing to live trad music from Barry
+  O'Connell and Vinnie Cronin at SF's home of Irish trad. Shows start at 9
+ pm unless noted\; the pub lists a cover charge only on Fridays and Saturd
+ ays.\nhttps://www.theploughandstars.com/
+URL:https://www.theploughandstars.com/
+LOCATION:The Plough and Stars\, 116 Clement St\, San Francisco\, CA 94118
 END:VEVENT
 BEGIN:VEVENT
 UID:cityswoon-halloween-eve-date-night-ages-28-42-95a5e5a4@sf-events
@@ -74,6 +190,20 @@ URL:https://www.eventbrite.com/e/halloween-eve-date-night-in-telegraph-hil
  l-cityswoon-ages-28-42-tickets-2001392918094
 LOCATION:Indie Wine & Beer Bar (SF Wine Center)\, 175 Green St\, San Franc
  isco\, CA 94111
+END:VEVENT
+BEGIN:VEVENT
+UID:5rhythms-wild-release-friday-night-wave-afd004da@sf-events
+DTSTAMP:20261031T020000Z
+DTSTART:20261031T020000Z
+DTEND:20261031T034500Z
+SUMMARY:5Rhythms Wild Release (Friday night wave)
+DESCRIPTION:A weekly Friday 5Rhythms wave with Vehllia Tranne and Alessand
+ ro Moruzzi (sub this week: Bettina-Kira Neumann)\, billed as an alternati
+ ve to a bar night. Arrive at 7pm\; the door closes at 7:30. Drop-ins welc
+ ome.\nPrice: $25\nhttps://www.5rhythms.com/classes/WILDRELEASE-295070
+URL:https://www.5rhythms.com/classes/WILDRELEASE-295070
+LOCATION:ABADA-Capoeira San Francisco\, 3221 22nd St\, San Francisco\, CA 
+ 94110
 END:VEVENT
 BEGIN:VEVENT
 UID:michael-lewis-in-conversation-with-lara-bazelon-8199207f@sf-events
@@ -130,6 +260,95 @@ LOCATION:Roxie Theater (Big Roxie)\, 3125 16th St\, San Francisco\, CA 941
  03
 END:VEVENT
 BEGIN:VEVENT
+UID:movement-ecstatic-dance-sf-king-kairos-3a521b29@sf-events
+DTSTAMP:20261101T180000Z
+DTSTART:20261101T180000Z
+DTEND:20261101T211100Z
+SUMMARY:MOVEMENT Ecstatic Dance SF // King Kairos
+DESCRIPTION:SF's long-running Sunday ecstatic dance in the nave of a landm
+ ark church\, with around 200 dancers. It opens with contact improv or yog
+ a\, then an opening circle\, a DJ journey and sound-healing close. Phone-
+ free and substance-free.\nPrice: $30-$50\nhttps://www.eventbrite.com/e/mo
+ vement-ecstatic-dance-sf-king-kairos-registration-2003800027824
+URL:https://www.eventbrite.com/e/movement-ecstatic-dance-sf-king-kairos-re
+ gistration-2003800027824
+LOCATION:Sacred Heart Church (MOVEMENT)\, 554 Fillmore St\, San Francisco\
+ , CA 94117
+END:VEVENT
+BEGIN:VEVENT
+UID:lindy-in-the-park-free-swing-dancing-beginner-lesson-bf049523@sf-event
+ s
+DTSTAMP:20261101T190000Z
+DTSTART:20261101T190000Z
+DTEND:20261101T220000Z
+SUMMARY:Lindy in the Park: free swing dancing + beginner lesson
+DESCRIPTION:Free outdoor swing dancing every Sunday since 1996 on car-free
+  JFK Drive\, with a free beginner lesson from Hep Jen at noon. Partners r
+ otate so you don't need to bring one. Weather permitting\; cancellations 
+ are posted on the site by 10am.\nPrice: Free\nhttps://lindyinthepark.com/
+ about/
+URL:https://lindyinthepark.com/about/
+LOCATION:Golden Gate Park\, JFK Drive (8th-10th Ave)\, JFK Dr between 8th 
+ & 10th Ave (behind the de Young)\, San Francisco\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:bay-area-sacred-harp-sf-singing-5412e6da@sf-events
+DTSTAMP:20261101T200000Z
+DTSTART:20261101T200000Z
+DTEND:20261101T220000Z
+SUMMARY:Bay Area Sacred Harp: SF singing
+DESCRIPTION:Open shape-note (Sacred Harp) community singing in a Bernal He
+ ights home on the 1st and 3rd Sundays. It's a loud\, participatory Americ
+ an folk tradition\, newcomers and kids are welcome\, and loaner books are
+  available.\nPrice: Free\nhttps://bayareasacredharp.org/local-singings/
+URL:https://bayareasacredharp.org/local-singings/
+LOCATION:Private home in Bernal Heights (Bay Area Sacred Harp)\, Bernal He
+ ights — address on bayareasacredharp.org/local-singings
+END:VEVENT
+BEGIN:VEVENT
+UID:irish-trad-seisi-n-at-the-plough-and-stars-fdbfc4eb@sf-events
+DTSTAMP:20261101T210000Z
+DTSTART:20261101T210000Z
+DTEND:20261102T000000Z
+SUMMARY:Irish trad seisiún at the Plough and Stars
+DESCRIPTION:The weekly Sunday-afternoon instrumental Irish session at SF's
+  best-known trad pub. Come to listen\, or bring an instrument and join in
+ .\nPrice: Free\nhttps://www.sffmc.org/community-folk-calendar/
+URL:https://www.sffmc.org/community-folk-calendar/
+LOCATION:The Plough and Stars\, 116 Clement St\, San Francisco\, CA 94118
+END:VEVENT
+BEGIN:VEVENT
+UID:los-gaiteros-de-san-jacinto-fruko-y-sus-tesos-carmelo-torres-bbf98821@
+ sf-events
+DTSTAMP:20261103T033000Z
+DTSTART:20261103T033000Z
+DTEND:20261103T053000Z
+SUMMARY:Los Gaiteros de San Jacinto\, Fruko y sus Tesos & Carmelo Torres: 
+ Madre Cumbia
+DESCRIPTION:A rare bill of Colombian cumbia legends: the Grammy-winning ga
+ ita/flute ensemble Los Gaiteros de San Jacinto\, salsa/cumbia icon Fruko 
+ and accordionist Carmelo Torres\, in SF's ornate 1907 music hall. Doors 6
+ :30pm.\nPrice: $30-$34\nhttps://wl.seetickets.us/event/los-gaiteros-de-sa
+ n-jacinto-fruko-and-carmelo-torres/700282?afflky=GreatAmericanMusicHall
+URL:https://wl.seetickets.us/event/los-gaiteros-de-san-jacinto-fruko-and-c
+ armelo-torres/700282?afflky=GreatAmericanMusicHall
+LOCATION:Great American Music Hall\, 859 O'Farrell St\, San Francisco\, CA
+  94109
+END:VEVENT
+BEGIN:VEVENT
+UID:contact-improvisation-class-jam-at-the-castro-room-d928728a@sf-events
+DTSTAMP:20261103T034500Z
+DTSTART:20261103T034500Z
+DTEND:20261103T061500Z
+SUMMARY:Contact Improvisation class + jam at The Castro Room
+DESCRIPTION:SF's 1st & 3rd Monday contact improv night: an hour's class fr
+ om 7:45pm flows into a jam with live music until 10:15pm. It's beginner-f
+ riendly\, and the teacher and host rotate each time.\nhttps://bay.dance/e
+ vents/contact_improv/
+URL:https://bay.dance/events/contact_improv/
+LOCATION:The Castro Room\, 97 Collingwood St\, San Francisco\, CA 94114
+END:VEVENT
+BEGIN:VEVENT
 UID:booked-dating-night-for-readers-ages-25-35-71edbb8b@sf-events
 DTSTAMP:20261104T030000Z
 DTSTART:20261104T030000Z
@@ -155,6 +374,20 @@ DESCRIPTION:A one-night 35mm print of Ridley Scott's sci-fi noir\, part of
 URL:https://roxie.com/film/blade-runner-the-final-cut/
 LOCATION:Roxie Theater (Big Roxie)\, 3125 16th St\, San Francisco\, CA 941
  03
+END:VEVENT
+BEGIN:VEVENT
+UID:woodchopper-s-ball-the-budhrani-brothers-sextet-d7d6c2ea@sf-events
+DTSTAMP:20261104T050000Z
+DTSTART:20261104T050000Z
+DTEND:20261104T073000Z
+SUMMARY:Woodchopper's Ball: The Budhrani Brothers Sextet
+DESCRIPTION:The weekly Tuesday live-band swing dance at the historic Verdi
+  Club\, this week with the Budhrani Brothers Sextet. The drop-in beginner
+  lesson at 9pm is included.\nPrice: $20 (cash only)\nhttps://www.verdiclu
+ b.net/events/the-woodchoppers-ball-42-3-2/2026-11-03/
+URL:https://www.verdiclub.net/events/the-woodchoppers-ball-42-3-2/2026-11-
+ 03/
+LOCATION:Verdi Club\, 2424 Mariposa St\, San Francisco\, CA 94110
 END:VEVENT
 BEGIN:VEVENT
 UID:patch-bay-workshop-translating-living-systems-into-robotics--bb07405a@
@@ -184,6 +417,20 @@ DESCRIPTION:EA SF Discussion Salon on cause prioritization at Mox — smal
  ce: Free (register on Luma)\nhttps://luma.com/anw0fxzg
 URL:https://luma.com/anw0fxzg
 LOCATION:Mox\, 1680 Mission St\, San Francisco\, CA 94103
+END:VEVENT
+BEGIN:VEVENT
+UID:georgia-parker-with-tashi-t-6670e84e@sf-events
+DTSTAMP:20261106T041500Z
+DTSTART:20261106T041500Z
+DTEND:20261106T063000Z
+SUMMARY:Georgia Parker with Tashi T
+DESCRIPTION:Kent-born\, LA-based indie-folk singer-songwriter Georgia Park
+ er plays a seated show in a tiny nonprofit listening room in North Beach.
+  Doors 7:30pm\, all ages.\nPrice: $20\nhttps://thelostchurch.my.salesforc
+ e-sites.com/ticket#/instances/a0FUh00000Ct90XMAR
+URL:https://thelostchurch.my.salesforce-sites.com/ticket#/instances/a0FUh0
+ 0000Ct90XMAR
+LOCATION:The Lost Church\, 988 Columbus Ave\, San Francisco\, CA 94133
 END:VEVENT
 BEGIN:VEVENT
 UID:in-person-class-fresh-pasta-in-color-c1a7f372@sf-events
@@ -228,6 +475,22 @@ LOCATION:BATS Improv (Fort Mason\, Building C)\, 2 Marina Blvd\, Building
  C\, Ste 365\, San Francisco\, CA 94123
 END:VEVENT
 BEGIN:VEVENT
+UID:san-francisco-leonard-cohen-festival-poetry-song-28fb28d7@sf-events
+DTSTAMP:20261107T033000Z
+DTSTART:20261107T033000Z
+DTEND:20261107T053000Z
+SUMMARY:San Francisco Leonard Cohen Festival: Poetry & Song
+DESCRIPTION:Bay Area poets and singer-songwriters reinterpret Leonard Cohe
+ n's words and music at this annual festival's first night. It's presented
+  by Conspiracy of Beards\, SF's 30-member Cohen choir. Doors 6:30pm\, 21+
+ .\nPrice: $45.81\nhttps://cafedunord.com/shows/2026-11-06-san-francisco-l
+ eonard-cohen-festival
+URL:https://cafedunord.com/shows/2026-11-06-san-francisco-leonard-cohen-fe
+ stival
+LOCATION:Swedish American Hall\, 2174 Market St (upstairs)\, San Francisco
+ \, CA 94114
+END:VEVENT
+BEGIN:VEVENT
 UID:san-francisco-coffee-festival-2026-10th-annual-b2551baf@sf-events
 DTSTAMP:20261107T170000Z
 DTSTART:20261107T170000Z
@@ -241,6 +504,71 @@ URL:https://www.eventbrite.com/e/san-francisco-coffee-festival-2026-ticket
  s-1977403325577
 LOCATION:Fort Mason Center Festival Pavilion\, 2 Marina Blvd\, San Francis
  co\, CA 94109
+END:VEVENT
+BEGIN:VEVENT
+UID:1st-saturday-irish-trad-session-at-the-plough-and-stars-bf378747@sf-ev
+ ents
+DTSTAMP:20261108T000000Z
+DTSTART:20261108T000000Z
+DTEND:20261108T020000Z
+SUMMARY:1st Saturday Irish trad session at the Plough and Stars
+DESCRIPTION:A monthly Saturday-afternoon session with tunes\, songs and a 
+ few set dances. Bring an instrument or your voice\, or just listen with a
+  pint.\nPrice: Free\nhttps://www.meetup.com/irish-music-trad-session/even
+ ts/317040714/
+URL:https://www.meetup.com/irish-music-trad-session/events/317040714/
+LOCATION:The Plough and Stars\, 116 Clement St\, San Francisco\, CA 94118
+END:VEVENT
+BEGIN:VEVENT
+UID:chantey-sing-at-the-sf-maritime-museum-5fc564d9@sf-events
+DTSTAMP:20261108T020000Z
+DTSTART:20261108T020000Z
+DTEND:20261108T030000Z
+SUMMARY:Chantey Sing at the SF Maritime Museum
+DESCRIPTION:A free first-Saturday sea-shanty singalong at the Aquatic Park
+  Maritime Museum\, the closest thing in SF to a folk-club singaround. No 
+ experience is needed.\nPrice: Free\nhttps://maritime.org/events/event-thr
+ ee-mz467-9slf2-t8mp6-hfa3t-4zd6s-gp65j
+URL:https://maritime.org/events/event-three-mz467-9slf2-t8mp6-hfa3t-4zd6s-
+ gp65j
+LOCATION:Maritime Museum Building\, SF Maritime National Historical Park\,
+  900 Beach St\, San Francisco\, CA 94109
+END:VEVENT
+BEGIN:VEVENT
+UID:brandon-woody-s-upendo-gabrielle-cavassa-terence-blanchard-s-4b329245@
+ sf-events
+DTSTAMP:20261108T030000Z
+DTSTART:20261108T030000Z
+DTEND:20261108T050000Z
+SUMMARY:Brandon Woody's Upendo / Gabrielle Cavassa (Terence Blanchard's Up
+ Swing series)
+DESCRIPTION:Two rising Blue Note artists on one bill: Baltimore trumpeter 
+ Brandon Woody with his band Upendo\, and vocalist Gabrielle Cavassa\, who
+  started out in SF's jazz scene. Cheapest seats are $45.\nPrice: $45-$105
+ \nhttps://www.sfjazz.org/tickets/productions/26-27/upswing-brandon-woody-
+ gabrielle-cavassa/
+URL:https://www.sfjazz.org/tickets/productions/26-27/upswing-brandon-woody
+ -gabrielle-cavassa/
+LOCATION:SFJAZZ Center\, Miner Auditorium\, 201 Franklin St\, San Francisc
+ o\, CA 94102
+END:VEVENT
+BEGIN:VEVENT
+UID:sf-leonard-cohen-festival-conspiracy-of-beards-daniel-kahn-j-0b93a5fe@
+ sf-events
+DTSTAMP:20261108T033000Z
+DTSTART:20261108T033000Z
+DTEND:20261108T053000Z
+SUMMARY:SF Leonard Cohen Festival: Conspiracy of Beards + Daniel Kahn & Ja
+ ke Shulman-Ment
+DESCRIPTION:SF's a cappella Cohen choir Conspiracy of Beards premieres 'Th
+ e Song & Spirit of Leonard Cohen'. Guests are klezmer-folk-punk troubadou
+ r Daniel Kahn and New York fiddler Jake Shulman-Ment. Doors 6:30pm\, 21+.
+ \nPrice: $56.11\nhttps://cafedunord.com/shows/2026-11-07-san-francisco-le
+ onard-cohen-festival
+URL:https://cafedunord.com/shows/2026-11-07-san-francisco-leonard-cohen-fe
+ stival
+LOCATION:Swedish American Hall\, 2174 Market St (upstairs)\, San Francisco
+ \, CA 94114
 END:VEVENT
 BEGIN:VEVENT
 UID:san-francisco-diwali-festival-3c2f51f4@sf-events
@@ -342,6 +670,51 @@ URL:https://luma.com/aisafety-few8
 LOCATION:San Francisco (address on Luma after registering)
 END:VEVENT
 BEGIN:VEVENT
+UID:san-francisco-wednesday-contra-dance-beginner-lesson-7-30-a244ba72@sf-
+ events
+DTSTAMP:20261112T033000Z
+DTSTART:20261112T033000Z
+DTEND:20261112T060000Z
+SUMMARY:San Francisco Wednesday Contra Dance (beginner lesson 7:30)
+DESCRIPTION:BACDS contra with caller Sarah Trop and the band Pizzatron 300
+ 0. Beginner lesson at 7:30\, then dancing to live music until 10pm. Gende
+ r-neutral roles\, no partner needed.\nPrice: $20 ($15 members\, $6 studen
+ ts/low-income)\nhttps://bacds.org/series/contra/san_francisco_wed/
+URL:https://bacds.org/series/contra/san_francisco_wed/
+LOCATION:The Polish Club\, 3040 22nd St\, San Francisco\, CA 94110
+END:VEVENT
+BEGIN:VEVENT
+UID:jake-xerxes-fussell-with-dougie-poole-82339c22@sf-events
+DTSTAMP:20261112T040000Z
+DTSTART:20261112T040000Z
+DTEND:20261112T060000Z
+SUMMARY:Jake Xerxes Fussell with Dougie Poole
+DESCRIPTION:Jake Xerxes Fussell is one of the best interpreters of old Ame
+ rican folk songs working today\, supported by left-field country songwrit
+ er Dougie Poole. The show is fully seated. Doors 7pm.\nPrice: $25-$30\nht
+ tps://wl.seetickets.us/event/jake-xerxes-fussell/689401?afflky=GreatAmeri
+ canMusicHall
+URL:https://wl.seetickets.us/event/jake-xerxes-fussell/689401?afflky=Great
+ AmericanMusicHall
+LOCATION:Great American Music Hall\, 859 O'Farrell St\, San Francisco\, CA
+  94109
+END:VEVENT
+BEGIN:VEVENT
+UID:lila-forde-life-can-still-be-sweet-tour-with-hazle-nova-29ad332c@sf-ev
+ ents
+DTSTAMP:20261112T041500Z
+DTSTART:20261112T041500Z
+DTEND:20261112T063000Z
+SUMMARY:Lila Forde: Life Can Still Be Sweet Tour\, with Hazle Nova
+DESCRIPTION:Seattle-born\, LA-based singer-songwriter Lila Forde plays jaz
+ z-\, soul- and folk-rooted Americana in an intimate North Beach listening
+  room. Doors 7:30pm\, all ages.\nPrice: $25\nhttps://thelostchurch.my.sal
+ esforce-sites.com/ticket#/instances/a0FUh00000C6XYfMAN
+URL:https://thelostchurch.my.salesforce-sites.com/ticket#/instances/a0FUh0
+ 0000C6XYfMAN
+LOCATION:The Lost Church\, 988 Columbus Ave\, San Francisco\, CA 94133
+END:VEVENT
+BEGIN:VEVENT
 UID:exploratorium-after-dark-unplug-and-play-7cd8723c@sf-events
 DTSTAMP:20261113T020000Z
 DTSTART:20261113T020000Z
@@ -356,6 +729,21 @@ URL:https://www.exploratorium.edu/visit/calendar/after-dark-unplug-play-no
  v2026
 LOCATION:Exploratorium (Pier 15)\, Pier 15\, The Embarcadero at Green St\,
   San Francisco\, CA 94111
+END:VEVENT
+BEGIN:VEVENT
+UID:pyramid-dance-ean-golden-11cd6cf1@sf-events
+DTSTAMP:20261114T030000Z
+DTSTART:20261114T030000Z
+DTEND:20261114T061000Z
+SUMMARY:Pyramid Dance // Ean Golden
+DESCRIPTION:A Friday-night conscious dance from the MOVEMENT ecstatic-danc
+ e crew\, with DJ Ean Golden on a BASSBOSS surround system plus tea servic
+ e and organic food. Phone-free and substance-free.\nPrice: $30-$50\nhttps
+ ://www.eventbrite.com/e/pyramid-dance-ean-golden-tickets-2003509645282
+URL:https://www.eventbrite.com/e/pyramid-dance-ean-golden-tickets-20035096
+ 45282
+LOCATION:Unitarian Universalist Society of San Francisco\, 1187 Franklin S
+ t\, San Francisco\, CA 94109
 END:VEVENT
 BEGIN:VEVENT
 UID:the-moth-grandslam-championship-852406e1@sf-events
@@ -386,6 +774,49 @@ LOCATION:Ferry Building Marketplace\, 1 Ferry Building\, San Francisco\, C
  A 94111
 END:VEVENT
 BEGIN:VEVENT
+UID:san-francisco-english-country-dance-2nd-saturday-fac76861@sf-events
+DTSTAMP:20261115T033000Z
+DTSTART:20261115T033000Z
+DTEND:20261115T060000Z
+SUMMARY:San Francisco English Country Dance (2nd Saturday)
+DESCRIPTION:BACDS's monthly SF English country dance with caller Nick Cucc
+ ia and live music from Betsy St. Aubin\, Craig Johnson and Michele Winter
+ . A workshop starts at 7:15pm\, so it's beginner-friendly.\nPrice: $20 ($
+ 15 members\, $6 students\; pay what you can)\nhttps://bacds.org/series/en
+ glish/san_francisco/
+URL:https://bacds.org/series/english/san_francisco/
+LOCATION:St. John's Presbyterian Church\, 25 Lake St\, San Francisco\, CA 
+ 94118
+END:VEVENT
+BEGIN:VEVENT
+UID:the-cactus-blossoms-with-margo-cilker-49b14cd6@sf-events
+DTSTAMP:20261115T050000Z
+DTSTART:20261115T050000Z
+DTEND:20261115T070000Z
+SUMMARY:The Cactus Blossoms with Margo Cilker
+DESCRIPTION:Minneapolis brothers The Cactus Blossoms play Everly-style clo
+ se-harmony country-folk\, with Oregon songwriter Margo Cilker opening. Pr
+ esented by (((folkYEAH!))). Doors 8pm.\nPrice: $25-$28\nhttps://wl.seetic
+ kets.us/event/the-cactus-blossoms/697167?afflky=TheChapel
+URL:https://wl.seetickets.us/event/the-cactus-blossoms/697167?afflky=TheCh
+ apel
+LOCATION:The Chapel\, 777 Valencia St\, San Francisco\, CA 94110
+END:VEVENT
+BEGIN:VEVENT
+UID:sean-hayes-album-release-with-katzroar-and-etienne-de-rocher-a8bb3903@
+ sf-events
+DTSTAMP:20261115T050000Z
+DTSTART:20261115T050000Z
+DTEND:20261115T070000Z
+SUMMARY:Sean Hayes (album release) with KATZROAR and Etienne de Rocher
+DESCRIPTION:Album-release show from SF's long-time folk-soul songwriter Se
+ an Hayes\, with Oakland's KATZROAR and Etienne de Rocher (Haunted Shed). 
+ Doors 8:30pm\, 21+.\nPrice: $25\nhttps://www.theindependentsf.com/tm-even
+ t/sean-hayes/
+URL:https://www.theindependentsf.com/tm-event/sean-hayes/
+LOCATION:The Independent\, 628 Divisadero St\, San Francisco\, CA 94117
+END:VEVENT
+BEGIN:VEVENT
 UID:ben-buchanan-superintelligence-superpowers-and-the-fate-of-t-c475682b@
  sf-events
 DTSTAMP:20261117T023000Z
@@ -403,6 +834,19 @@ URL:https://www.commonwealthclub.org/events/2026-11-16/ben-buchanan-superi
  ntelligence-superpowers-and-fate-world
 LOCATION:Commonwealth Club World Affairs\, 110 The Embarcadero\, San Franc
  isco\, CA 94105
+END:VEVENT
+BEGIN:VEVENT
+UID:margaret-glaspy-with-anna-tivel-4a72280f@sf-events
+DTSTAMP:20261117T040000Z
+DTSTART:20261117T040000Z
+DTEND:20261117T060000Z
+SUMMARY:Margaret Glaspy with Anna Tivel
+DESCRIPTION:Sharp guitar-driven indie songwriter Margaret Glaspy\, with Po
+ rtland folk singer Anna Tivel opening. Doors 7pm\, all ages.\nPrice: $27.
+ 22\nhttps://wl.seetickets.us/event/margaret-glaspy/693371?afflky=TheChape
+ l
+URL:https://wl.seetickets.us/event/margaret-glaspy/693371?afflky=TheChapel
+LOCATION:The Chapel\, 777 Valencia St\, San Francisco\, CA 94110
 END:VEVENT
 BEGIN:VEVENT
 UID:chinatalk-unbound-book-club-everyday-movement-0764727c@sf-events
@@ -461,6 +905,20 @@ LOCATION:Gray Area (Grand Theater)\, 2665 Mission St\, San Francisco\, CA
  94110
 END:VEVENT
 BEGIN:VEVENT
+UID:brittany-davis-black-thunder-early-set-78aa60e6@sf-events
+DTSTAMP:20261121T030000Z
+DTSTART:20261121T030000Z
+DTEND:20261121T050000Z
+SUMMARY:Brittany Davis: Black Thunder (early set)
+DESCRIPTION:Seattle singer-keyboardist Brittany Davis plays spiritual jazz
+ \, soul and funk from her largely improvised album Black Thunder\, in SFJ
+ AZZ's intimate Joe Henderson Lab. A second set follows at 8:30pm.\nPrice:
+  $34\nhttps://www.sfjazz.org/tickets/productions/26-27/brittany-davis/
+URL:https://www.sfjazz.org/tickets/productions/26-27/brittany-davis/
+LOCATION:SFJAZZ Center\, Joe Henderson Lab\, 201 Franklin St\, San Francis
+ co\, CA 94102
+END:VEVENT
+BEGIN:VEVENT
 UID:ics-b8f18fea8a1d@sf-events
 DTSTAMP:20261121T210000Z
 DTSTART:20261121T210000Z
@@ -472,6 +930,66 @@ DESCRIPTION:Playtest #3 of 'The Commons Problem'\, a new game about collec
  g
 URL:https://luma.com/b9n3leog
 LOCATION:Mox\, 1680 Mission St\, San Francisco\, CA 94103
+END:VEVENT
+BEGIN:VEVENT
+UID:berkeley-fest-noz-breton-dance-party-with-live-band-2018cf5b@sf-events
+DTSTAMP:20261123T023000Z
+DTSTART:20261123T023000Z
+DTEND:20261123T053000Z
+SUMMARY:Berkeley Fest Noz: Breton dance party with live band
+DESCRIPTION:A Breton 'night party' of easy line and circle dances\, all ta
+ ught and no partner needed\, to live bombarde\, fiddle and bagpipes from 
+ Shira Kammen\, Ronan Keryell and friends. It's the closest thing to a cei
+ lidh-style folk dance party this month. Take BART from Montgomery to Down
+ town Berkeley (~25 min)\, then walk ~10 min.\nPrice: $20 sliding scale ($
+ 10 low-income)\nhttps://www.farthershoreband.com/fest-noz-11-2026/
+URL:https://www.farthershoreband.com/fest-noz-11-2026/
+LOCATION:Berkeley Fellowship of Unitarian Universalists\, 1606 Bonita Ave\
+ , Berkeley\, CA 94709
+END:VEVENT
+BEGIN:VEVENT
+UID:pedro-the-lion-with-karli-fairbanks-90c93a84@sf-events
+DTSTAMP:20261124T043000Z
+DTSTART:20261124T043000Z
+DTEND:20261124T063000Z
+SUMMARY:Pedro the Lion with Karli Fairbanks
+DESCRIPTION:David Bazan's indie-rock/slowcore band Pedro the Lion in a sma
+ ll Potrero Hill club\, with folky singer-songwriter Karli Fairbanks openi
+ ng. Doors 7:30pm\, all ages.\nPrice: $30 adv / $35 door\nhttp://www.botto
+ mofthehill.com/20261123.html
+URL:http://www.bottomofthehill.com/20261123.html
+LOCATION:Bottom of the Hill\, 1233 17th St\, San Francisco\, CA 94107
+END:VEVENT
+BEGIN:VEVENT
+UID:sleepless-nights-xx-a-tribute-to-gram-parsons-32b44499@sf-events
+DTSTAMP:20261128T040000Z
+DTSTART:20261128T040000Z
+DTEND:20261128T060000Z
+SUMMARY:Sleepless Nights XX: A Tribute to Gram Parsons
+DESCRIPTION:The 20th annual Gram Parsons tribute: a big night of local cou
+ ntry-folk acts including Bar Fight\, Aaron Burnham & the Brushfires\, Pau
+ la Frazer & Tarnation and Penelope Houston. Doors 7:30pm.\nhttps://wl.see
+ tickets.us/event/sleepless-nights-xx-a-tribute-to-gram-parsons
+URL:https://wl.seetickets.us/event/sleepless-nights-xx-a-tribute-to-gram-p
+ arsons
+LOCATION:The Chapel\, 777 Valencia St\, San Francisco\, CA 94110
+END:VEVENT
+BEGIN:VEVENT
+UID:edmar-castaneda-german-lopez-terence-blanchard-s-upswing-ser-8c725add@
+ sf-events
+DTSTAMP:20261129T030000Z
+DTSTART:20261129T030000Z
+DTEND:20261129T050000Z
+SUMMARY:Edmar Castaneda / German Lopez (Terence Blanchard's UpSwing series
+ )
+DESCRIPTION:Colombian harp virtuoso Edmar Castaneda (Bela Fleck's BEATrio)
+  shares the bill with Canary Islands timple master German Lopez\, mixing 
+ jazz with Latin and Spanish folk traditions.\nPrice: $45-$95\nhttps://www
+ .sfjazz.org/tickets/productions/26-27/edmar-castaneda-german-lopez/
+URL:https://www.sfjazz.org/tickets/productions/26-27/edmar-castaneda-germa
+ n-lopez/
+LOCATION:SFJAZZ Center\, Miner Auditorium\, 201 Franklin St\, San Francisc
+ o\, CA 94102
 END:VEVENT
 BEGIN:VEVENT
 UID:long-now-lost-landscapes-02026-with-rick-prelinger-46a03bb4@sf-events
@@ -502,6 +1020,21 @@ LOCATION:California Academy of Sciences\, 55 Music Concourse Dr\, Golden G
  ate Park\, San Francisco\, CA 94118
 END:VEVENT
 BEGIN:VEVENT
+UID:sonny-his-rhinestone-sunsets-kelly-mcfarling-noelle-the-dese-adda0ee2@
+ sf-events
+DTSTAMP:20261206T043000Z
+DTSTART:20261206T043000Z
+DTEND:20261206T063000Z
+SUMMARY:Sonny & His Rhinestone Sunsets\, Kelly McFarling\, Noelle & the De
+ serters
+DESCRIPTION:An all-local Bay Area folk and alt-country bill: Sonny & His R
+ hinestone Sunsets\, Americana/folk-soul singer Kelly McFarling\, and honk
+ y-tonk band Noelle & the Deserters. Doors 8pm\, 21+.\nPrice: $20\nhttp://
+ www.bottomofthehill.com/20261205.html
+URL:http://www.bottomofthehill.com/20261205.html
+LOCATION:Bottom of the Hill\, 1233 17th St\, San Francisco\, CA 94107
+END:VEVENT
+BEGIN:VEVENT
 UID:daniel-lieberman-fed-up-what-evolution-reveals-about-food-an-f87be57e@
  sf-events
 DTSTAMP:20261208T020000Z
@@ -518,5 +1051,18 @@ URL:https://www.commonwealthclub.org/events/2026-12-07/fed-what-evolution-
  reveals-about-food-diet-health-and-eating-well
 LOCATION:Commonwealth Club World Affairs\, 110 The Embarcadero\, San Franc
  isco\, CA 94105
+END:VEVENT
+BEGIN:VEVENT
+UID:buck-meek-with-kisser-9a218df7@sf-events
+DTSTAMP:20261208T040000Z
+DTSTART:20261208T040000Z
+DTEND:20261208T060000Z
+SUMMARY:Buck Meek with Kisser
+DESCRIPTION:Big Thief guitarist Buck Meek plays his warm\, country-tinged 
+ solo folk songs. Presented by (((folkYEAH!))). Doors 7pm\, all ages.\nPri
+ ce: $26-$30\nhttps://wl.seetickets.us/event/buck-meek/681148?afflky=TheCh
+ apel
+URL:https://wl.seetickets.us/event/buck-meek/681148?afflky=TheChapel
+LOCATION:The Chapel\, 777 Valencia St\, San Francisco\, CA 94110
 END:VEVENT
 END:VCALENDAR

@@ -19,6 +19,43 @@
     "cycle_minutes": 13
   },
   {
+    "title": "Sad Bastard Club: songwriter round-robin with Tom Heyman",
+    "start": "2026-10-27T19:30:00-07:00",
+    "end": "2026-10-27T21:30:00-07:00",
+    "venue": "Make-Out Room",
+    "address": "3225 22nd St, San Francisco, CA 94110",
+    "url": "https://www.makeoutroom.com/events/tuesday-october-27",
+    "source": "venue:make-out-room",
+    "tags": [
+      "music"
+    ],
+    "price": "Free",
+    "description": "A free songwriter round-robin hosted by local singer-songwriter Tom Heyman in one of the Mission's best small rooms. Low-key, acoustic and easy to chat with people between songs.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 15,
+    "added": "2026-10-26",
+    "id": "sad-bastard-club-songwriter-round-robin-with-tom-heyman-b599299c"
+  },
+  {
+    "title": "Woodchopper's Ball: Halloween edition with The Cottontails",
+    "start": "2026-10-27T21:00:00-07:00",
+    "end": "2026-10-27T23:30:00-07:00",
+    "venue": "Verdi Club",
+    "address": "2424 Mariposa St, San Francisco, CA 94110",
+    "url": "https://www.verdiclub.net/events/the-woodchoppers-ball-42-3-2/2026-10-27/",
+    "source": "venue:verdi-club",
+    "tags": [
+      "dance",
+      "music"
+    ],
+    "price": "$20 (cash only)",
+    "description": "SF's weekly Tuesday swing night with a different live band each week. This week is the Halloween edition with The Cottontails plus an after-hours jam. A free drop-in beginner swing lesson runs 9-9:15pm, and no partner is needed.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 13,
+    "added": "2026-10-26",
+    "id": "woodchopper-s-ball-halloween-edition-with-the-cottontails-d05cd8aa"
+  },
+  {
     "title": "Astronomy on Tap SF (October)",
     "start": "2026-10-28T19:00:00-07:00",
     "end": "2026-10-28T21:00:00-07:00",
@@ -36,6 +73,61 @@
     "cycle_minutes": 11,
     "added": "2026-10-26",
     "id": "astronomy-on-tap-sf-october-891200a6"
+  },
+  {
+    "title": "Danbert Nobacon (of Chumbawamba), Zen & Serafina, Paul Is Awful",
+    "start": "2026-10-28T19:00:00-07:00",
+    "end": null,
+    "venue": "Hotel Utah Saloon",
+    "address": "500 4th St, San Francisco, CA 94107",
+    "url": "https://wl.seetickets.us/event/danbert-nobacon-zen-and-serafina/707430?afflky=HotelUtahSaloon",
+    "source": "venue:hotel-utah",
+    "tags": [
+      "music"
+    ],
+    "price": "$10",
+    "description": "Chumbawamba co-founder Danbert Nobacon brings his folk/anarcho-singalong project to the tiny 1908 saloon at 4th & Bryant, the closest music room to home. 21+.",
+    "neighbourhood": "SoMa",
+    "cycle_minutes": 4,
+    "added": "2026-10-26",
+    "id": "danbert-nobacon-of-chumbawamba-zen-serafina-paul-is-awful-5a267a2b"
+  },
+  {
+    "title": "San Francisco Wednesday Contra Dance (beginner lesson 7:30)",
+    "start": "2026-10-28T19:30:00-07:00",
+    "end": "2026-10-28T22:00:00-07:00",
+    "venue": "The Polish Club",
+    "address": "3040 22nd St, San Francisco, CA 94110",
+    "url": "https://bacds.org/series/contra/san_francisco_wed/",
+    "source": "venue:bacds",
+    "tags": [
+      "dance",
+      "music"
+    ],
+    "price": "$20 ($15 members, $6 students/low-income)",
+    "description": "BACDS contra dance with caller Elijah Jaime and live band Dance Dinos. Beginner lesson at 7:30, dancing 8-10pm. It's the US cousin of a ceilidh: everything is walked through and you can come alone.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 15,
+    "added": "2026-10-26",
+    "id": "san-francisco-wednesday-contra-dance-beginner-lesson-7-30-ba4bbe79"
+  },
+  {
+    "title": "Great Lake Swimmers with Jesse Sykes & The Sweet Hereafter",
+    "start": "2026-10-28T20:00:00-07:00",
+    "end": null,
+    "venue": "Cafe du Nord",
+    "address": "2174 Market St (downstairs), San Francisco, CA 94114",
+    "url": "https://cafedunord.com/shows/2026-10-28-great-lake-swimmers",
+    "source": "venue:cafe-du-nord",
+    "tags": [
+      "music"
+    ],
+    "price": "$30.36",
+    "description": "Polaris-shortlisted Canadian indie-folk band touring their 2025 album Caught Light, in the 320-capacity basement room under the Swedish American Hall. Doors 7pm, 21+.",
+    "neighbourhood": "Upper Market",
+    "cycle_minutes": 14,
+    "added": "2026-10-26",
+    "id": "great-lake-swimmers-with-jesse-sykes-the-sweet-hereafter-b8820db8"
   },
   {
     "title": "Cal Academy NightLife: Fright NightLife (21+)",
@@ -58,6 +150,23 @@
     "id": "cal-academy-nightlife-fright-nightlife-21-20b54cc8"
   },
   {
+    "id": "ics-58e2f4e5a843",
+    "title": "[External] Scott Wiener friend banking pizza party 🍕 - let's making voting fun!",
+    "start": "2026-10-29T18:30:00-07:00",
+    "end": "2026-10-29T20:30:00-07:00",
+    "venue": "https://luma.com/event/evt-W9Y9xCCwASc7SKj",
+    "address": null,
+    "url": "https://api.lu.ma/ics/get?entity=calendar&id=cal-D5yWBPY7IroUiUX",
+    "source": "ics:AI Safety San Francisco",
+    "tags": [
+      "tech",
+      "talk"
+    ],
+    "price": null,
+    "description": "Get up-to-date information at: https://luma.com/aisafety-7vpq\n\nAddress:\nCheck event page for more details.\n\nHosted by Jen Ba",
+    "added": "2026-10-26"
+  },
+  {
     "id": "ics-e47b9bf006cd",
     "title": "Talent Show: Has Mox Got Talent? 🌟",
     "start": "2026-10-29T19:00:00-07:00",
@@ -76,6 +185,43 @@
     "cycle_minutes": 13
   },
   {
+    "title": "Katie Pruitt with Olivia Barton",
+    "start": "2026-10-29T20:00:00-07:00",
+    "end": null,
+    "venue": "The Chapel",
+    "address": "777 Valencia St, San Francisco, CA 94110",
+    "url": "https://wl.seetickets.us/event/katie-pruitt/695190?afflky=TheChapel",
+    "source": "venue:the-chapel",
+    "tags": [
+      "music"
+    ],
+    "price": "$25-$30",
+    "description": "Nashville Americana singer-songwriter on her Fools for the Fleeting tour, in a converted 1914 mortuary chapel on Valencia. Doors 7pm, all ages.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 13,
+    "added": "2026-10-26",
+    "id": "katie-pruitt-with-olivia-barton-714e4704"
+  },
+  {
+    "title": "Irish set dancing at the Plough and Stars (Barry O'Connell & Vinnie Cronin)",
+    "start": "2026-10-29T21:00:00-07:00",
+    "end": null,
+    "venue": "The Plough and Stars",
+    "address": "116 Clement St, San Francisco, CA 94118",
+    "url": "https://www.theploughandstars.com/",
+    "source": "venue:plough-and-stars",
+    "tags": [
+      "dance",
+      "music"
+    ],
+    "price": null,
+    "description": "Thursday-night Irish set dancing to live trad music from Barry O'Connell and Vinnie Cronin at SF's home of Irish trad. Shows start at 9pm unless noted; the pub lists a cover charge only on Fridays and Saturdays.",
+    "neighbourhood": "Inner Richmond",
+    "cycle_minutes": 27,
+    "added": "2026-10-26",
+    "id": "irish-set-dancing-at-the-plough-and-stars-barry-o-connell-vi-905a09e8"
+  },
+  {
     "title": "Cityswoon Halloween Eve Date Night (ages 28-42)",
     "start": "2026-10-30T19:00:00-07:00",
     "end": "2026-10-30T21:30:00-07:00",
@@ -92,6 +238,24 @@
     "cycle_minutes": 9,
     "added": "2026-10-26",
     "id": "cityswoon-halloween-eve-date-night-ages-28-42-95a5e5a4"
+  },
+  {
+    "title": "5Rhythms Wild Release (Friday night wave)",
+    "start": "2026-10-30T19:00:00-07:00",
+    "end": "2026-10-30T20:45:00-07:00",
+    "venue": "ABADA-Capoeira San Francisco",
+    "address": "3221 22nd St, San Francisco, CA 94110",
+    "url": "https://www.5rhythms.com/classes/WILDRELEASE-295070",
+    "source": "listing:5rhythms",
+    "tags": [
+      "dance"
+    ],
+    "price": "$25",
+    "description": "A weekly Friday 5Rhythms wave with Vehllia Tranne and Alessandro Moruzzi (sub this week: Bettina-Kira Neumann), billed as an alternative to a bar night. Arrive at 7pm; the door closes at 7:30. Drop-ins welcome.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 15,
+    "added": "2026-10-26",
+    "id": "5rhythms-wild-release-friday-night-wave-afd004da"
   },
   {
     "title": "Michael Lewis in conversation with Lara Bazelon",
@@ -167,6 +331,120 @@
     "id": "wild-at-heart-4k-halloween-screening-4f502f7a"
   },
   {
+    "title": "MOVEMENT Ecstatic Dance SF // King Kairos",
+    "start": "2026-11-01T10:00:00-08:00",
+    "end": "2026-11-01T13:11:00-08:00",
+    "venue": "Sacred Heart Church (MOVEMENT)",
+    "address": "554 Fillmore St, San Francisco, CA 94117",
+    "url": "https://www.eventbrite.com/e/movement-ecstatic-dance-sf-king-kairos-registration-2003800027824",
+    "source": "keyword-search",
+    "tags": [
+      "dance",
+      "community"
+    ],
+    "price": "$30-$50",
+    "description": "SF's long-running Sunday ecstatic dance in the nave of a landmark church, with around 200 dancers. It opens with contact improv or yoga, then an opening circle, a DJ journey and sound-healing close. Phone-free and substance-free.",
+    "neighbourhood": "Lower Haight",
+    "cycle_minutes": 15,
+    "added": "2026-10-26",
+    "id": "movement-ecstatic-dance-sf-king-kairos-3a521b29"
+  },
+  {
+    "title": "Lindy in the Park: free swing dancing + beginner lesson",
+    "start": "2026-11-01T11:00:00-08:00",
+    "end": "2026-11-01T14:00:00-08:00",
+    "venue": "Golden Gate Park, JFK Drive (8th-10th Ave)",
+    "address": "JFK Dr between 8th & 10th Ave (behind the de Young), San Francisco, CA",
+    "url": "https://lindyinthepark.com/about/",
+    "source": "keyword-search",
+    "tags": [
+      "dance",
+      "outdoors"
+    ],
+    "price": "Free",
+    "description": "Free outdoor swing dancing every Sunday since 1996 on car-free JFK Drive, with a free beginner lesson from Hep Jen at noon. Partners rotate so you don't need to bring one. Weather permitting; cancellations are posted on the site by 10am.",
+    "neighbourhood": "Golden Gate Park",
+    "cycle_minutes": 30,
+    "added": "2026-10-26",
+    "id": "lindy-in-the-park-free-swing-dancing-beginner-lesson-bf049523"
+  },
+  {
+    "title": "Bay Area Sacred Harp: SF singing",
+    "start": "2026-11-01T12:00:00-08:00",
+    "end": "2026-11-01T14:00:00-08:00",
+    "venue": "Private home in Bernal Heights (Bay Area Sacred Harp)",
+    "address": "Bernal Heights — address on bayareasacredharp.org/local-singings",
+    "url": "https://bayareasacredharp.org/local-singings/",
+    "source": "keyword-search",
+    "tags": [
+      "music",
+      "community"
+    ],
+    "price": "Free",
+    "description": "Open shape-note (Sacred Harp) community singing in a Bernal Heights home on the 1st and 3rd Sundays. It's a loud, participatory American folk tradition, newcomers and kids are welcome, and loaner books are available.",
+    "neighbourhood": "Bernal Heights",
+    "cycle_minutes": 24,
+    "added": "2026-10-26",
+    "id": "bay-area-sacred-harp-sf-singing-5412e6da"
+  },
+  {
+    "title": "Irish trad seisiún at the Plough and Stars",
+    "start": "2026-11-01T13:00:00-08:00",
+    "end": "2026-11-01T16:00:00-08:00",
+    "venue": "The Plough and Stars",
+    "address": "116 Clement St, San Francisco, CA 94118",
+    "url": "https://www.sffmc.org/community-folk-calendar/",
+    "source": "listing:sffmc-folk-calendar",
+    "tags": [
+      "music",
+      "community"
+    ],
+    "price": "Free",
+    "description": "The weekly Sunday-afternoon instrumental Irish session at SF's best-known trad pub. Come to listen, or bring an instrument and join in.",
+    "neighbourhood": "Inner Richmond",
+    "cycle_minutes": 27,
+    "added": "2026-10-26",
+    "id": "irish-trad-seisi-n-at-the-plough-and-stars-fdbfc4eb"
+  },
+  {
+    "title": "Los Gaiteros de San Jacinto, Fruko y sus Tesos & Carmelo Torres: Madre Cumbia",
+    "start": "2026-11-02T19:30:00-08:00",
+    "end": null,
+    "venue": "Great American Music Hall",
+    "address": "859 O'Farrell St, San Francisco, CA 94109",
+    "url": "https://wl.seetickets.us/event/los-gaiteros-de-san-jacinto-fruko-and-carmelo-torres/700282?afflky=GreatAmericanMusicHall",
+    "source": "venue:great-american-music-hall",
+    "tags": [
+      "music",
+      "dance"
+    ],
+    "price": "$30-$34",
+    "description": "A rare bill of Colombian cumbia legends: the Grammy-winning gaita/flute ensemble Los Gaiteros de San Jacinto, salsa/cumbia icon Fruko and accordionist Carmelo Torres, in SF's ornate 1907 music hall. Doors 6:30pm.",
+    "neighbourhood": "Tenderloin",
+    "cycle_minutes": 9,
+    "added": "2026-10-26",
+    "id": "los-gaiteros-de-san-jacinto-fruko-y-sus-tesos-carmelo-torres-bbf98821"
+  },
+  {
+    "title": "Contact Improvisation class + jam at The Castro Room",
+    "start": "2026-11-02T19:45:00-08:00",
+    "end": "2026-11-02T22:15:00-08:00",
+    "venue": "The Castro Room",
+    "address": "97 Collingwood St, San Francisco, CA 94114",
+    "url": "https://bay.dance/events/contact_improv/",
+    "source": "aggregator:bay.dance",
+    "tags": [
+      "dance",
+      "class"
+    ],
+    "price": null,
+    "description": "SF's 1st & 3rd Monday contact improv night: an hour's class from 7:45pm flows into a jam with live music until 10:15pm. It's beginner-friendly, and the teacher and host rotate each time.",
+    "neighbourhood": "Castro",
+    "cycle_minutes": 17,
+    "added": "2026-10-26",
+    "id": "contact-improvisation-class-jam-at-the-castro-room-d928728a"
+  },
+  {
     "title": "Booked: Dating Night for Readers (ages 25-35)",
     "start": "2026-11-03T19:00:00-08:00",
     "end": "2026-11-03T21:00:00-08:00",
@@ -201,6 +479,25 @@
     "cycle_minutes": 12,
     "added": "2026-10-26",
     "id": "blade-runner-the-final-cut-35mm-6ea82a3e"
+  },
+  {
+    "title": "Woodchopper's Ball: The Budhrani Brothers Sextet",
+    "start": "2026-11-03T21:00:00-08:00",
+    "end": "2026-11-03T23:30:00-08:00",
+    "venue": "Verdi Club",
+    "address": "2424 Mariposa St, San Francisco, CA 94110",
+    "url": "https://www.verdiclub.net/events/the-woodchoppers-ball-42-3-2/2026-11-03/",
+    "source": "venue:verdi-club",
+    "tags": [
+      "dance",
+      "music"
+    ],
+    "price": "$20 (cash only)",
+    "description": "The weekly Tuesday live-band swing dance at the historic Verdi Club, this week with the Budhrani Brothers Sextet. The drop-in beginner lesson at 9pm is included.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 13,
+    "added": "2026-10-26",
+    "id": "woodchopper-s-ball-the-budhrani-brothers-sextet-d7d6c2ea"
   },
   {
     "title": "Patch Bay workshop: Translating Living Systems into Robotics and Music",
@@ -240,6 +537,24 @@
     "added": "2026-10-26",
     "neighbourhood": "Mission",
     "cycle_minutes": 13
+  },
+  {
+    "title": "Georgia Parker with Tashi T",
+    "start": "2026-11-05T20:15:00-08:00",
+    "end": "2026-11-05T22:30:00-08:00",
+    "venue": "The Lost Church",
+    "address": "988 Columbus Ave, San Francisco, CA 94133",
+    "url": "https://thelostchurch.my.salesforce-sites.com/ticket#/instances/a0FUh00000Ct90XMAR",
+    "source": "venue:the-lost-church",
+    "tags": [
+      "music"
+    ],
+    "price": "$20",
+    "description": "Kent-born, LA-based indie-folk singer-songwriter Georgia Parker plays a seated show in a tiny nonprofit listening room in North Beach. Doors 7:30pm, all ages.",
+    "neighbourhood": "North Beach",
+    "cycle_minutes": 13,
+    "added": "2026-10-26",
+    "id": "georgia-parker-with-tashi-t-6670e84e"
   },
   {
     "title": "In-Person Class: Fresh Pasta in Color",
@@ -301,6 +616,25 @@
     "id": "improv-e-your-dating-life-45570161"
   },
   {
+    "title": "San Francisco Leonard Cohen Festival: Poetry & Song",
+    "start": "2026-11-06T19:30:00-08:00",
+    "end": null,
+    "venue": "Swedish American Hall",
+    "address": "2174 Market St (upstairs), San Francisco, CA 94114",
+    "url": "https://cafedunord.com/shows/2026-11-06-san-francisco-leonard-cohen-festival",
+    "source": "venue:cafe-du-nord",
+    "tags": [
+      "music",
+      "art"
+    ],
+    "price": "$45.81",
+    "description": "Bay Area poets and singer-songwriters reinterpret Leonard Cohen's words and music at this annual festival's first night. It's presented by Conspiracy of Beards, SF's 30-member Cohen choir. Doors 6:30pm, 21+.",
+    "neighbourhood": "Upper Market",
+    "cycle_minutes": 14,
+    "added": "2026-10-26",
+    "id": "san-francisco-leonard-cohen-festival-poetry-song-28fb28d7"
+  },
+  {
     "title": "San Francisco Coffee Festival 2026 (10th annual)",
     "start": "2026-11-07T09:00:00-08:00",
     "end": null,
@@ -318,6 +652,80 @@
     "cycle_minutes": 22,
     "added": "2026-10-26",
     "id": "san-francisco-coffee-festival-2026-10th-annual-b2551baf"
+  },
+  {
+    "title": "1st Saturday Irish trad session at the Plough and Stars",
+    "start": "2026-11-07T16:00:00-08:00",
+    "end": null,
+    "venue": "The Plough and Stars",
+    "address": "116 Clement St, San Francisco, CA 94118",
+    "url": "https://www.meetup.com/irish-music-trad-session/events/317040714/",
+    "source": "aggregator:meetup",
+    "tags": [
+      "music",
+      "community"
+    ],
+    "price": "Free",
+    "description": "A monthly Saturday-afternoon session with tunes, songs and a few set dances. Bring an instrument or your voice, or just listen with a pint.",
+    "neighbourhood": "Inner Richmond",
+    "cycle_minutes": 27,
+    "added": "2026-10-26",
+    "id": "1st-saturday-irish-trad-session-at-the-plough-and-stars-bf378747"
+  },
+  {
+    "title": "Chantey Sing at the SF Maritime Museum",
+    "start": "2026-11-07T18:00:00-08:00",
+    "end": "2026-11-07T19:00:00-08:00",
+    "venue": "Maritime Museum Building, SF Maritime National Historical Park",
+    "address": "900 Beach St, San Francisco, CA 94109",
+    "url": "https://maritime.org/events/event-three-mz467-9slf2-t8mp6-hfa3t-4zd6s-gp65j",
+    "source": "keyword-search",
+    "tags": [
+      "music",
+      "community"
+    ],
+    "price": "Free",
+    "description": "A free first-Saturday sea-shanty singalong at the Aquatic Park Maritime Museum, the closest thing in SF to a folk-club singaround. No experience is needed.",
+    "neighbourhood": "Fisherman's Wharf",
+    "cycle_minutes": 17,
+    "added": "2026-10-26",
+    "id": "chantey-sing-at-the-sf-maritime-museum-5fc564d9"
+  },
+  {
+    "title": "Brandon Woody's Upendo / Gabrielle Cavassa (Terence Blanchard's UpSwing series)",
+    "start": "2026-11-07T19:00:00-08:00",
+    "end": null,
+    "venue": "SFJAZZ Center, Miner Auditorium",
+    "address": "201 Franklin St, San Francisco, CA 94102",
+    "url": "https://www.sfjazz.org/tickets/productions/26-27/upswing-brandon-woody-gabrielle-cavassa/",
+    "source": "venue:sfjazz",
+    "tags": [
+      "music"
+    ],
+    "price": "$45-$105",
+    "description": "Two rising Blue Note artists on one bill: Baltimore trumpeter Brandon Woody with his band Upendo, and vocalist Gabrielle Cavassa, who started out in SF's jazz scene. Cheapest seats are $45.",
+    "neighbourhood": "Hayes Valley",
+    "cycle_minutes": 11,
+    "added": "2026-10-26",
+    "id": "brandon-woody-s-upendo-gabrielle-cavassa-terence-blanchard-s-4b329245"
+  },
+  {
+    "title": "SF Leonard Cohen Festival: Conspiracy of Beards + Daniel Kahn & Jake Shulman-Ment",
+    "start": "2026-11-07T19:30:00-08:00",
+    "end": null,
+    "venue": "Swedish American Hall",
+    "address": "2174 Market St (upstairs), San Francisco, CA 94114",
+    "url": "https://cafedunord.com/shows/2026-11-07-san-francisco-leonard-cohen-festival",
+    "source": "venue:cafe-du-nord",
+    "tags": [
+      "music"
+    ],
+    "price": "$56.11",
+    "description": "SF's a cappella Cohen choir Conspiracy of Beards premieres 'The Song & Spirit of Leonard Cohen'. Guests are klezmer-folk-punk troubadour Daniel Kahn and New York fiddler Jake Shulman-Ment. Doors 6:30pm, 21+.",
+    "neighbourhood": "Upper Market",
+    "cycle_minutes": 14,
+    "added": "2026-10-26",
+    "id": "sf-leonard-cohen-festival-conspiracy-of-beards-daniel-kahn-j-0b93a5fe"
   },
   {
     "title": "San Francisco Diwali Festival",
@@ -451,6 +859,61 @@
     "neighbourhood": "San Francisco"
   },
   {
+    "title": "San Francisco Wednesday Contra Dance (beginner lesson 7:30)",
+    "start": "2026-11-11T19:30:00-08:00",
+    "end": "2026-11-11T22:00:00-08:00",
+    "venue": "The Polish Club",
+    "address": "3040 22nd St, San Francisco, CA 94110",
+    "url": "https://bacds.org/series/contra/san_francisco_wed/",
+    "source": "venue:bacds",
+    "tags": [
+      "dance",
+      "music"
+    ],
+    "price": "$20 ($15 members, $6 students/low-income)",
+    "description": "BACDS contra with caller Sarah Trop and the band Pizzatron 3000. Beginner lesson at 7:30, then dancing to live music until 10pm. Gender-neutral roles, no partner needed.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 15,
+    "added": "2026-10-26",
+    "id": "san-francisco-wednesday-contra-dance-beginner-lesson-7-30-a244ba72"
+  },
+  {
+    "title": "Jake Xerxes Fussell with Dougie Poole",
+    "start": "2026-11-11T20:00:00-08:00",
+    "end": null,
+    "venue": "Great American Music Hall",
+    "address": "859 O'Farrell St, San Francisco, CA 94109",
+    "url": "https://wl.seetickets.us/event/jake-xerxes-fussell/689401?afflky=GreatAmericanMusicHall",
+    "source": "venue:great-american-music-hall",
+    "tags": [
+      "music"
+    ],
+    "price": "$25-$30",
+    "description": "Jake Xerxes Fussell is one of the best interpreters of old American folk songs working today, supported by left-field country songwriter Dougie Poole. The show is fully seated. Doors 7pm.",
+    "neighbourhood": "Tenderloin",
+    "cycle_minutes": 9,
+    "added": "2026-10-26",
+    "id": "jake-xerxes-fussell-with-dougie-poole-82339c22"
+  },
+  {
+    "title": "Lila Forde: Life Can Still Be Sweet Tour, with Hazle Nova",
+    "start": "2026-11-11T20:15:00-08:00",
+    "end": "2026-11-11T22:30:00-08:00",
+    "venue": "The Lost Church",
+    "address": "988 Columbus Ave, San Francisco, CA 94133",
+    "url": "https://thelostchurch.my.salesforce-sites.com/ticket#/instances/a0FUh00000C6XYfMAN",
+    "source": "venue:the-lost-church",
+    "tags": [
+      "music"
+    ],
+    "price": "$25",
+    "description": "Seattle-born, LA-based singer-songwriter Lila Forde plays jazz-, soul- and folk-rooted Americana in an intimate North Beach listening room. Doors 7:30pm, all ages.",
+    "neighbourhood": "North Beach",
+    "cycle_minutes": 13,
+    "added": "2026-10-26",
+    "id": "lila-forde-life-can-still-be-sweet-tour-with-hazle-nova-29ad332c"
+  },
+  {
     "title": "Exploratorium After Dark: Unplug and Play",
     "start": "2026-11-12T18:00:00-08:00",
     "end": "2026-11-12T22:00:00-08:00",
@@ -469,6 +932,25 @@
     "cycle_minutes": 10,
     "added": "2026-10-26",
     "id": "exploratorium-after-dark-unplug-and-play-7cd8723c"
+  },
+  {
+    "title": "Pyramid Dance // Ean Golden",
+    "start": "2026-11-13T19:00:00-08:00",
+    "end": "2026-11-13T22:10:00-08:00",
+    "venue": "Unitarian Universalist Society of San Francisco",
+    "address": "1187 Franklin St, San Francisco, CA 94109",
+    "url": "https://www.eventbrite.com/e/pyramid-dance-ean-golden-tickets-2003509645282",
+    "source": "keyword-search",
+    "tags": [
+      "dance",
+      "community"
+    ],
+    "price": "$30-$50",
+    "description": "A Friday-night conscious dance from the MOVEMENT ecstatic-dance crew, with DJ Ean Golden on a BASSBOSS surround system plus tea service and organic food. Phone-free and substance-free.",
+    "neighbourhood": "Cathedral Hill",
+    "cycle_minutes": 11,
+    "added": "2026-10-26",
+    "id": "pyramid-dance-ean-golden-11cd6cf1"
   },
   {
     "title": "The Moth GrandSLAM Championship",
@@ -510,6 +992,61 @@
     "id": "fall-sf-international-tea-festival-56b250fa"
   },
   {
+    "title": "San Francisco English Country Dance (2nd Saturday)",
+    "start": "2026-11-14T19:30:00-08:00",
+    "end": "2026-11-14T22:00:00-08:00",
+    "venue": "St. John's Presbyterian Church",
+    "address": "25 Lake St, San Francisco, CA 94118",
+    "url": "https://bacds.org/series/english/san_francisco/",
+    "source": "venue:bacds",
+    "tags": [
+      "dance",
+      "music"
+    ],
+    "price": "$20 ($15 members, $6 students; pay what you can)",
+    "description": "BACDS's monthly SF English country dance with caller Nick Cuccia and live music from Betsy St. Aubin, Craig Johnson and Michele Winter. A workshop starts at 7:15pm, so it's beginner-friendly.",
+    "neighbourhood": "Inner Richmond",
+    "cycle_minutes": 27,
+    "added": "2026-10-26",
+    "id": "san-francisco-english-country-dance-2nd-saturday-fac76861"
+  },
+  {
+    "title": "The Cactus Blossoms with Margo Cilker",
+    "start": "2026-11-14T21:00:00-08:00",
+    "end": null,
+    "venue": "The Chapel",
+    "address": "777 Valencia St, San Francisco, CA 94110",
+    "url": "https://wl.seetickets.us/event/the-cactus-blossoms/697167?afflky=TheChapel",
+    "source": "venue:the-chapel",
+    "tags": [
+      "music"
+    ],
+    "price": "$25-$28",
+    "description": "Minneapolis brothers The Cactus Blossoms play Everly-style close-harmony country-folk, with Oregon songwriter Margo Cilker opening. Presented by (((folkYEAH!))). Doors 8pm.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 13,
+    "added": "2026-10-26",
+    "id": "the-cactus-blossoms-with-margo-cilker-49b14cd6"
+  },
+  {
+    "title": "Sean Hayes (album release) with KATZROAR and Etienne de Rocher",
+    "start": "2026-11-14T21:00:00-08:00",
+    "end": null,
+    "venue": "The Independent",
+    "address": "628 Divisadero St, San Francisco, CA 94117",
+    "url": "https://www.theindependentsf.com/tm-event/sean-hayes/",
+    "source": "venue:the-independent",
+    "tags": [
+      "music"
+    ],
+    "price": "$25",
+    "description": "Album-release show from SF's long-time folk-soul songwriter Sean Hayes, with Oakland's KATZROAR and Etienne de Rocher (Haunted Shed). Doors 8:30pm, 21+.",
+    "neighbourhood": "NoPa",
+    "cycle_minutes": 18,
+    "added": "2026-10-26",
+    "id": "sean-hayes-album-release-with-katzroar-and-etienne-de-rocher-a8bb3903"
+  },
+  {
     "title": "Ben Buchanan: Superintelligence, Superpowers, and the Fate of the World",
     "start": "2026-11-16T18:30:00-08:00",
     "end": "2026-11-16T19:30:00-08:00",
@@ -527,6 +1064,24 @@
     "cycle_minutes": 5,
     "added": "2026-10-26",
     "id": "ben-buchanan-superintelligence-superpowers-and-the-fate-of-t-c475682b"
+  },
+  {
+    "title": "Margaret Glaspy with Anna Tivel",
+    "start": "2026-11-16T20:00:00-08:00",
+    "end": null,
+    "venue": "The Chapel",
+    "address": "777 Valencia St, San Francisco, CA 94110",
+    "url": "https://wl.seetickets.us/event/margaret-glaspy/693371?afflky=TheChapel",
+    "source": "venue:the-chapel",
+    "tags": [
+      "music"
+    ],
+    "price": "$27.22",
+    "description": "Sharp guitar-driven indie songwriter Margaret Glaspy, with Portland folk singer Anna Tivel opening. Doors 7pm, all ages.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 13,
+    "added": "2026-10-26",
+    "id": "margaret-glaspy-with-anna-tivel-4a72280f"
   },
   {
     "title": "ChinaTalk & Unbound Book Club: Everyday Movement",
@@ -607,6 +1162,24 @@
     "id": "micro-to-macro-microorganisms-sound-and-robots-07c39471"
   },
   {
+    "title": "Brittany Davis: Black Thunder (early set)",
+    "start": "2026-11-20T19:00:00-08:00",
+    "end": null,
+    "venue": "SFJAZZ Center, Joe Henderson Lab",
+    "address": "201 Franklin St, San Francisco, CA 94102",
+    "url": "https://www.sfjazz.org/tickets/productions/26-27/brittany-davis/",
+    "source": "venue:sfjazz",
+    "tags": [
+      "music"
+    ],
+    "price": "$34",
+    "description": "Seattle singer-keyboardist Brittany Davis plays spiritual jazz, soul and funk from her largely improvised album Black Thunder, in SFJAZZ's intimate Joe Henderson Lab. A second set follows at 8:30pm.",
+    "neighbourhood": "Hayes Valley",
+    "cycle_minutes": 11,
+    "added": "2026-10-26",
+    "id": "brittany-davis-black-thunder-early-set-78aa60e6"
+  },
+  {
     "id": "ics-b8f18fea8a1d",
     "title": "The Commons Problem - Playtest 3",
     "start": "2026-11-21T13:00:00-08:00",
@@ -623,6 +1196,78 @@
     "added": "2026-10-26",
     "neighbourhood": "Mission",
     "cycle_minutes": 13
+  },
+  {
+    "title": "Berkeley Fest Noz: Breton dance party with live band",
+    "start": "2026-11-22T18:30:00-08:00",
+    "end": "2026-11-22T21:30:00-08:00",
+    "venue": "Berkeley Fellowship of Unitarian Universalists",
+    "address": "1606 Bonita Ave, Berkeley, CA 94709",
+    "url": "https://www.farthershoreband.com/fest-noz-11-2026/",
+    "source": "venue:bacds",
+    "tags": [
+      "dance",
+      "music"
+    ],
+    "price": "$20 sliding scale ($10 low-income)",
+    "description": "A Breton 'night party' of easy line and circle dances, all taught and no partner needed, to live bombarde, fiddle and bagpipes from Shira Kammen, Ronan Keryell and friends. It's the closest thing to a ceilidh-style folk dance party this month. Take BART from Montgomery to Downtown Berkeley (~25 min), then walk ~10 min.",
+    "neighbourhood": "Berkeley",
+    "added": "2026-10-26",
+    "id": "berkeley-fest-noz-breton-dance-party-with-live-band-2018cf5b"
+  },
+  {
+    "title": "Pedro the Lion with Karli Fairbanks",
+    "start": "2026-11-23T20:30:00-08:00",
+    "end": null,
+    "venue": "Bottom of the Hill",
+    "address": "1233 17th St, San Francisco, CA 94107",
+    "url": "http://www.bottomofthehill.com/20261123.html",
+    "source": "venue:bottom-of-the-hill",
+    "tags": [
+      "music"
+    ],
+    "price": "$30 adv / $35 door",
+    "description": "David Bazan's indie-rock/slowcore band Pedro the Lion in a small Potrero Hill club, with folky singer-songwriter Karli Fairbanks opening. Doors 7:30pm, all ages.",
+    "neighbourhood": "Potrero Hill",
+    "cycle_minutes": 12,
+    "added": "2026-10-26",
+    "id": "pedro-the-lion-with-karli-fairbanks-90c93a84"
+  },
+  {
+    "title": "Sleepless Nights XX: A Tribute to Gram Parsons",
+    "start": "2026-11-27T20:00:00-08:00",
+    "end": null,
+    "venue": "The Chapel",
+    "address": "777 Valencia St, San Francisco, CA 94110",
+    "url": "https://wl.seetickets.us/event/sleepless-nights-xx-a-tribute-to-gram-parsons",
+    "source": "venue:the-chapel",
+    "tags": [
+      "music"
+    ],
+    "price": null,
+    "description": "The 20th annual Gram Parsons tribute: a big night of local country-folk acts including Bar Fight, Aaron Burnham & the Brushfires, Paula Frazer & Tarnation and Penelope Houston. Doors 7:30pm.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 13,
+    "added": "2026-10-26",
+    "id": "sleepless-nights-xx-a-tribute-to-gram-parsons-32b44499"
+  },
+  {
+    "title": "Edmar Castaneda / German Lopez (Terence Blanchard's UpSwing series)",
+    "start": "2026-11-28T19:00:00-08:00",
+    "end": null,
+    "venue": "SFJAZZ Center, Miner Auditorium",
+    "address": "201 Franklin St, San Francisco, CA 94102",
+    "url": "https://www.sfjazz.org/tickets/productions/26-27/edmar-castaneda-german-lopez/",
+    "source": "venue:sfjazz",
+    "tags": [
+      "music"
+    ],
+    "price": "$45-$95",
+    "description": "Colombian harp virtuoso Edmar Castaneda (Bela Fleck's BEATrio) shares the bill with Canary Islands timple master German Lopez, mixing jazz with Latin and Spanish folk traditions.",
+    "neighbourhood": "Hayes Valley",
+    "cycle_minutes": 11,
+    "added": "2026-10-26",
+    "id": "edmar-castaneda-german-lopez-terence-blanchard-s-upswing-ser-8c725add"
   },
   {
     "title": "Long Now: Lost Landscapes 02026 with Rick Prelinger",
@@ -663,6 +1308,24 @@
     "id": "cal-academy-nightlife-naughty-or-nice-21-ca766b97"
   },
   {
+    "title": "Sonny & His Rhinestone Sunsets, Kelly McFarling, Noelle & the Deserters",
+    "start": "2026-12-05T20:30:00-08:00",
+    "end": null,
+    "venue": "Bottom of the Hill",
+    "address": "1233 17th St, San Francisco, CA 94107",
+    "url": "http://www.bottomofthehill.com/20261205.html",
+    "source": "venue:bottom-of-the-hill",
+    "tags": [
+      "music"
+    ],
+    "price": "$20",
+    "description": "An all-local Bay Area folk and alt-country bill: Sonny & His Rhinestone Sunsets, Americana/folk-soul singer Kelly McFarling, and honky-tonk band Noelle & the Deserters. Doors 8pm, 21+.",
+    "neighbourhood": "Potrero Hill",
+    "cycle_minutes": 12,
+    "added": "2026-10-26",
+    "id": "sonny-his-rhinestone-sunsets-kelly-mcfarling-noelle-the-dese-adda0ee2"
+  },
+  {
     "title": "Daniel Lieberman: Fed Up — What Evolution Reveals about Food and Diet",
     "start": "2026-12-07T18:00:00-08:00",
     "end": "2026-12-07T19:00:00-08:00",
@@ -680,5 +1343,23 @@
     "cycle_minutes": 5,
     "added": "2026-10-26",
     "id": "daniel-lieberman-fed-up-what-evolution-reveals-about-food-an-f87be57e"
+  },
+  {
+    "title": "Buck Meek with Kisser",
+    "start": "2026-12-07T20:00:00-08:00",
+    "end": null,
+    "venue": "The Chapel",
+    "address": "777 Valencia St, San Francisco, CA 94110",
+    "url": "https://wl.seetickets.us/event/buck-meek/681148?afflky=TheChapel",
+    "source": "venue:the-chapel",
+    "tags": [
+      "music"
+    ],
+    "price": "$26-$30",
+    "description": "Big Thief guitarist Buck Meek plays his warm, country-tinged solo folk songs. Presented by (((folkYEAH!))). Doors 7pm, all ages.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 13,
+    "added": "2026-10-26",
+    "id": "buck-meek-with-kisser-9a218df7"
   }
 ]
