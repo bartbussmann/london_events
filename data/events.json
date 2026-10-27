@@ -93,6 +93,25 @@
     "id": "danbert-nobacon-of-chumbawamba-zen-serafina-paul-is-awful-5a267a2b"
   },
   {
+    "title": "San Francisco Rationalist Dinner (Metreon food court)",
+    "start": "2026-10-28T19:00:00-07:00",
+    "end": "2026-10-28T22:00:00-07:00",
+    "venue": "Metreon (food court)",
+    "address": "135 4th St, San Francisco, CA 94103",
+    "url": "https://www.lesswrong.com/events/QWmFnGWnjfo5boeys/san-francisco-rationalist-dinner",
+    "source": "aggregator:lesswrong",
+    "tags": [
+      "community",
+      "talk"
+    ],
+    "price": "Free (buy your own food)",
+    "description": "An informal LessWrong rationalist dinner in the Metreon food court where first-timers are welcome. Conversation covers AI safety, interesting blog posts and other rationality topics, and it's an easy way into the SF community.",
+    "neighbourhood": "SoMa",
+    "cycle_minutes": 3,
+    "added": "2026-10-27",
+    "id": "san-francisco-rationalist-dinner-metreon-food-court-816bef74"
+  },
+  {
     "title": "San Francisco Wednesday Contra Dance (beginner lesson 7:30)",
     "start": "2026-10-28T19:30:00-07:00",
     "end": "2026-10-28T22:00:00-07:00",
@@ -148,6 +167,46 @@
     "cycle_minutes": 27,
     "added": "2026-10-26",
     "id": "cal-academy-nightlife-fright-nightlife-21-20b54cc8"
+  },
+  {
+    "title": "Exploratorium After Dark: Creepatorium (Halloween)",
+    "start": "2026-10-29T18:00:00-07:00",
+    "end": "2026-10-29T22:00:00-07:00",
+    "venue": "Exploratorium (Pier 15)",
+    "address": "Pier 15, The Embarcadero at Green St, San Francisco, CA 94111",
+    "url": "https://www.exploratorium.edu/visit/calendar/after-dark-creepatorium",
+    "source": "venue:exploratorium",
+    "tags": [
+      "talk",
+      "dance",
+      "art"
+    ],
+    "price": null,
+    "description": "The Exploratorium's annual adults-only (18+) Halloween night explores the science of fear: Halloween-themed exhibits, the famous cow-eye dissection and a costume contest. Los Goths Co. host a goth-meets-cumbia dance party.",
+    "neighbourhood": "Embarcadero",
+    "cycle_minutes": 10,
+    "added": "2026-10-27",
+    "id": "exploratorium-after-dark-creepatorium-halloween-2e26ef98"
+  },
+  {
+    "title": "36th Annual Blindfold Throwing Contest (CCA Ceramics)",
+    "start": "2026-10-29T18:30:00-07:00",
+    "end": "2026-10-29T21:30:00-07:00",
+    "venue": "California College of the Arts, Ceramics Studio (D114)",
+    "address": "145 Hooper St, San Francisco, CA 94107",
+    "url": "https://www.eventbrite.com/e/36th-annual-blindfold-throwing-contest-tickets-2003677881481",
+    "source": "aggregator:eventbrite",
+    "tags": [
+      "art",
+      "community",
+      "workshop"
+    ],
+    "price": "Free (RSVP)",
+    "description": "The CCA Ceramics Guild's long-running contest: four minutes on the pottery wheel, blindfolded, with prizes like 'Best Ashtray'. You don't need to be a student or know how to throw, and there's pizza.",
+    "neighbourhood": "Potrero Hill",
+    "cycle_minutes": 11,
+    "added": "2026-10-27",
+    "id": "36th-annual-blindfold-throwing-contest-cca-ceramics-5117704f"
   },
   {
     "id": "ics-e47b9bf006cd",
@@ -352,6 +411,25 @@
     "id": "lindy-in-the-park-free-swing-dancing-beginner-lesson-bf049523"
   },
   {
+    "title": "5Rhythms Emerging Waves: Dance First, Think Later",
+    "start": "2026-11-01T11:00:00-08:00",
+    "end": "2026-11-01T12:30:00-08:00",
+    "venue": "401 Alabama St studio",
+    "address": "401 Alabama St, San Francisco, CA 94110",
+    "url": "https://www.eventbrite.com/e/dance-first-think-later-5rhythms-emerging-waves-tickets-2003737688365",
+    "source": "aggregator:eventbrite",
+    "tags": [
+      "dance",
+      "community"
+    ],
+    "price": "$28.52",
+    "description": "A 90-minute Sunday-morning 5Rhythms wave led by teacher-in-training Irina Khokhlova. It's a moving meditation through the five rhythms with simple guidance, and all bodies and levels are welcome.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 13,
+    "added": "2026-10-27",
+    "id": "5rhythms-emerging-waves-dance-first-think-later-d1555819"
+  },
+  {
     "title": "Bay Area Sacred Harp: SF singing",
     "start": "2026-11-01T12:00:00-08:00",
     "end": "2026-11-01T14:00:00-08:00",
@@ -520,6 +598,44 @@
     "added": "2026-10-26",
     "neighbourhood": "Mission",
     "cycle_minutes": 13
+  },
+  {
+    "title": "Figure Drawing at Monument SF (Sketchboard)",
+    "start": "2026-11-04T18:30:00-08:00",
+    "end": "2026-11-04T20:30:00-08:00",
+    "venue": "Monument",
+    "address": "140 9th St, San Francisco, CA 94103",
+    "url": "https://book.squareup.com/classes/uj53t4hfgkzllp/location/DYSM7QRDVFWX7/classes",
+    "source": "keyword-search",
+    "tags": [
+      "art",
+      "class"
+    ],
+    "price": "$25",
+    "description": "Sketchboard Co.'s weekly Wednesday life drawing: an uninstructed session running from short gesture poses to longer ones, with partially costumed to nude models and live music. Bring your own supplies.",
+    "neighbourhood": "SoMa",
+    "cycle_minutes": 7,
+    "added": "2026-10-27",
+    "id": "figure-drawing-at-monument-sf-sketchboard-8340ca3c"
+  },
+  {
+    "title": "Exploratorium After Dark: Digest This",
+    "start": "2026-11-05T18:00:00-08:00",
+    "end": "2026-11-05T22:00:00-08:00",
+    "venue": "Exploratorium (Pier 15)",
+    "address": "Pier 15, The Embarcadero at Green St, San Francisco, CA 94111",
+    "url": "https://www.exploratorium.edu/visit/calendar/after-dark-digest-this",
+    "source": "venue:exploratorium",
+    "tags": [
+      "talk",
+      "food"
+    ],
+    "price": null,
+    "description": "An adults-only (18+) After Dark night following food from first taste to final flush: how taste and smell link up, fermentation microbes, and the history behind our pantries. DJ Ms. Organic plays.",
+    "neighbourhood": "Embarcadero",
+    "cycle_minutes": 10,
+    "added": "2026-10-27",
+    "id": "exploratorium-after-dark-digest-this-0af04c0b"
   },
   {
     "title": "Georgia Parker with Tashi T",
@@ -711,6 +827,25 @@
     "id": "sf-leonard-cohen-festival-conspiracy-of-beards-daniel-kahn-j-0b93a5fe"
   },
   {
+    "title": "MOVEMENT Ecstatic Dance SF // Tasha Rose",
+    "start": "2026-11-08T10:00:00-08:00",
+    "end": "2026-11-08T13:11:00-08:00",
+    "venue": "Sacred Heart Church (MOVEMENT)",
+    "address": "554 Fillmore St, San Francisco, CA 94117",
+    "url": "https://www.eventbrite.com/e/movement-ecstatic-dance-sf-tasha-rose-registration-2003798054923",
+    "source": "venue:movement",
+    "tags": [
+      "dance",
+      "community"
+    ],
+    "price": "$30-$50",
+    "description": "SF's big Sunday-morning ecstatic dance in the nave of a landmark church, this week with DJ Tasha Rose. It's phone-free and substance-free, with an opening circle and a DJ journey.",
+    "neighbourhood": "Lower Haight",
+    "cycle_minutes": 15,
+    "added": "2026-10-27",
+    "id": "movement-ecstatic-dance-sf-tasha-rose-0ebfd97e"
+  },
+  {
     "title": "San Francisco Diwali Festival",
     "start": "2026-11-08T13:00:00-08:00",
     "end": "2026-11-08T17:00:00-08:00",
@@ -805,6 +940,25 @@
     "id": "drop-in-circling-workshop-berkeley-cf7fa8f4"
   },
   {
+    "title": "Conundrum Chronicles StorySlam: Turning Point",
+    "start": "2026-11-10T19:00:00-08:00",
+    "end": "2026-11-10T20:45:00-08:00",
+    "venue": "The Marsh",
+    "address": "1062 Valencia St, San Francisco, CA 94110",
+    "url": "https://themarsh.org/shows_and_events/runs/conundrum-chronicles/",
+    "source": "aggregator:funcheap",
+    "tags": [
+      "theatre",
+      "community"
+    ],
+    "price": "$10-$25 sliding scale",
+    "description": "A monthly true-story slam on the theme 'Turning Point', with featured storyteller Kimberlii Joy. Put your name in the hat to tell a five-minute story without notes, or just listen; everyone in the room can judge.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 15,
+    "added": "2026-10-27",
+    "id": "conundrum-chronicles-storyslam-turning-point-d1bbce13"
+  },
+  {
     "title": "Claudio Simonetti's Goblin performs the live score to Tenebre",
     "start": "2026-11-10T19:30:00-08:00",
     "end": null,
@@ -822,6 +976,25 @@
     "cycle_minutes": 17,
     "added": "2026-10-26",
     "id": "claudio-simonetti-s-goblin-performs-the-live-score-to-tenebr-dda3a5b6"
+  },
+  {
+    "title": "Woodchopper's Ball: Neil Fontano Jazz Band",
+    "start": "2026-11-10T21:00:00-08:00",
+    "end": "2026-11-10T23:30:00-08:00",
+    "venue": "Verdi Club",
+    "address": "2424 Mariposa St, San Francisco, CA 94110",
+    "url": "https://www.verdiclub.net/events/the-woodchoppers-ball-42-3-2/2026-11-10/",
+    "source": "venue:verdi-club",
+    "tags": [
+      "dance",
+      "music"
+    ],
+    "price": "$20 cash ($10 students)",
+    "description": "The weekly Tuesday live-band swing dance at the historic Verdi Club, this week with the Neil Fontano Jazz Band. The free drop-in beginner lesson at 9pm is included, and no partner is needed.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 13,
+    "added": "2026-10-27",
+    "id": "woodchopper-s-ball-neil-fontano-jazz-band-7e74fbd1"
   },
   {
     "id": "ics-c440877e8faa",
@@ -917,6 +1090,25 @@
     "id": "exploratorium-after-dark-unplug-and-play-7cd8723c"
   },
   {
+    "title": "Cal Academy NightLife: Pajammy Jam (21+)",
+    "start": "2026-11-12T18:00:00-08:00",
+    "end": "2026-11-12T22:00:00-08:00",
+    "venue": "California Academy of Sciences",
+    "address": "55 Music Concourse Dr, Golden Gate Park, San Francisco, CA 94118",
+    "url": "https://www.calacademy.org/nightlife/nightlife-pajammy-jam",
+    "source": "venue:calacademy",
+    "tags": [
+      "music",
+      "community"
+    ],
+    "price": "$26",
+    "description": "A pajama-themed house-party NightLife with games, music and the aquarium and rainforest open after hours. It's 21+, and planetarium shows are $7 extra.",
+    "neighbourhood": "Golden Gate Park",
+    "cycle_minutes": 27,
+    "added": "2026-10-27",
+    "id": "cal-academy-nightlife-pajammy-jam-21-bdbcbe90"
+  },
+  {
     "title": "Pyramid Dance // Ean Golden",
     "start": "2026-11-13T19:00:00-08:00",
     "end": "2026-11-13T22:10:00-08:00",
@@ -975,6 +1167,24 @@
     "id": "fall-sf-international-tea-festival-56b250fa"
   },
   {
+    "title": "Abiogenesis: Philip Beesley & Casey Curran opening (SF Art Week)",
+    "start": "2026-11-14T18:00:00-08:00",
+    "end": "2026-11-14T21:00:00-08:00",
+    "venue": "Heron Arts",
+    "address": "7 Heron St, San Francisco, CA 94103",
+    "url": "https://www.eventbrite.com/e/abiogenesis-new-works-by-philip-beesley-and-casey-curran-tickets-2003420173670",
+    "source": "aggregator:funcheap",
+    "tags": [
+      "art"
+    ],
+    "price": "Free (RSVP)",
+    "description": "Free opening reception for a two-artist show of kinetic, light-responsive sculpture about life emerging from inert matter. It's part of SF Art Week, and Philip Beesley represented Canada at the Venice Architecture Biennale.",
+    "neighbourhood": "SoMa",
+    "cycle_minutes": 6,
+    "added": "2026-10-27",
+    "id": "abiogenesis-philip-beesley-casey-curran-opening-sf-art-week-06cced09"
+  },
+  {
     "title": "San Francisco English Country Dance (2nd Saturday)",
     "start": "2026-11-14T19:30:00-08:00",
     "end": "2026-11-14T22:00:00-08:00",
@@ -1030,6 +1240,25 @@
     "id": "sean-hayes-album-release-with-katzroar-and-etienne-de-rocher-a8bb3903"
   },
   {
+    "title": "MOVEMENT Ecstatic Dance SF // Sasha Rose",
+    "start": "2026-11-15T10:00:00-08:00",
+    "end": "2026-11-15T13:11:00-08:00",
+    "venue": "Sacred Heart Church (MOVEMENT)",
+    "address": "554 Fillmore St, San Francisco, CA 94117",
+    "url": "https://www.eventbrite.com/e/movement-ecstatic-dance-sf-sasha-rose-registration-2003798827233",
+    "source": "venue:movement",
+    "tags": [
+      "dance",
+      "community"
+    ],
+    "price": "$30-$50",
+    "description": "The weekly Sunday ecstatic dance at Sacred Heart, this week with DJ Sasha Rose. It's phone-free and substance-free, opening with a circle before a long DJ journey.",
+    "neighbourhood": "Lower Haight",
+    "cycle_minutes": 15,
+    "added": "2026-10-27",
+    "id": "movement-ecstatic-dance-sf-sasha-rose-8deab1d9"
+  },
+  {
     "title": "Ben Buchanan: Superintelligence, Superpowers, and the Fate of the World",
     "start": "2026-11-16T18:30:00-08:00",
     "end": "2026-11-16T19:30:00-08:00",
@@ -1047,6 +1276,25 @@
     "cycle_minutes": 5,
     "added": "2026-10-26",
     "id": "ben-buchanan-superintelligence-superpowers-and-the-fate-of-t-c475682b"
+  },
+  {
+    "title": "Contact Improvisation class + jam at The Castro Room",
+    "start": "2026-11-16T19:45:00-08:00",
+    "end": "2026-11-16T22:15:00-08:00",
+    "venue": "The Castro Room",
+    "address": "97 Collingwood St, San Francisco, CA 94114",
+    "url": "https://bay.dance/events/contact_improv/",
+    "source": "aggregator:bay.dance",
+    "tags": [
+      "dance",
+      "class"
+    ],
+    "price": null,
+    "description": "SF's 1st & 3rd Monday contact improv night: an hour's beginner-friendly class from 7:45pm flows into a jam with live music until 10:15pm. Teachers and hosts rotate.",
+    "neighbourhood": "Castro",
+    "cycle_minutes": 17,
+    "added": "2026-10-27",
+    "id": "contact-improvisation-class-jam-at-the-castro-room-9c8b759c"
   },
   {
     "title": "Margaret Glaspy with Anna Tivel",
@@ -1086,6 +1334,25 @@
     "id": "chinatalk-unbound-book-club-everyday-movement-0764727c"
   },
   {
+    "title": "Woodchopper's Ball: San Francisco Medicine Ball Band",
+    "start": "2026-11-17T21:00:00-08:00",
+    "end": "2026-11-17T23:30:00-08:00",
+    "venue": "Verdi Club",
+    "address": "2424 Mariposa St, San Francisco, CA 94110",
+    "url": "https://www.verdiclub.net/events/the-woodchoppers-ball-42-3-2/2026-11-17/",
+    "source": "venue:verdi-club",
+    "tags": [
+      "dance",
+      "music"
+    ],
+    "price": "$20 cash ($10 students)",
+    "description": "The weekly Tuesday live-band swing dance at the historic Verdi Club, this week with the San Francisco Medicine Ball Band. The free drop-in beginner lesson at 9pm is included, and no partner is needed.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 13,
+    "added": "2026-10-27",
+    "id": "woodchopper-s-ball-san-francisco-medicine-ball-band-3543aee7"
+  },
+  {
     "title": "Patch Bay workshop: Computational Poetry",
     "start": "2026-11-18T18:00:00-08:00",
     "end": "2026-11-18T20:00:00-08:00",
@@ -1104,6 +1371,24 @@
     "cycle_minutes": 15,
     "added": "2026-10-26",
     "id": "patch-bay-workshop-computational-poetry-f2f24a11"
+  },
+  {
+    "title": "Jenny Tian: Ripe",
+    "start": "2026-11-18T19:30:00-08:00",
+    "end": null,
+    "venue": "Cobb's Comedy Club",
+    "address": "915 Columbus Ave, San Francisco, CA 94133",
+    "url": "https://www.ticketmaster.com/jenny-tian-ripe-san-francisco-california-11-18-2026/event/1C0064AC13A553C5",
+    "source": "venue:cobbs",
+    "tags": [
+      "comedy"
+    ],
+    "price": null,
+    "description": "Australian stand-up Jenny Tian brings her touring hour 'Ripe' to SF's classic North Beach comedy club. It's a headline show, not an open mic.",
+    "neighbourhood": "North Beach",
+    "cycle_minutes": 12,
+    "added": "2026-10-27",
+    "id": "jenny-tian-ripe-f07eadcf"
   },
   {
     "title": "Exploratorium After Dark: Glow Opening",
@@ -1145,6 +1430,24 @@
     "id": "micro-to-macro-microorganisms-sound-and-robots-07c39471"
   },
   {
+    "title": "Cannelle (Popscene)",
+    "start": "2026-11-19T21:00:00-08:00",
+    "end": "2026-11-19T23:45:00-08:00",
+    "venue": "Rickshaw Stop",
+    "address": "155 Fell St, San Francisco, CA 94102",
+    "url": "https://wl.eventim.us/event/cannelle/703781?afflky=RickshawStop",
+    "source": "venue:rickshaw-stop",
+    "tags": [
+      "music"
+    ],
+    "price": "$18 advance ($22 week of show)",
+    "description": "LA-based, Aix-en-Provence-born Cannelle plays raucous left-field electronic pop at Popscene in the small Rickshaw Stop room. It's all ages, with doors at 8pm.",
+    "neighbourhood": "Hayes Valley",
+    "cycle_minutes": 9,
+    "added": "2026-10-27",
+    "id": "cannelle-popscene-a92ff22a"
+  },
+  {
     "title": "Brittany Davis: Black Thunder (early set)",
     "start": "2026-11-20T19:00:00-08:00",
     "end": null,
@@ -1161,6 +1464,25 @@
     "cycle_minutes": 11,
     "added": "2026-10-26",
     "id": "brittany-davis-black-thunder-early-set-78aa60e6"
+  },
+  {
+    "title": "SF Neo-Futurists: The Infinite Wrench (30 plays in 60 minutes)",
+    "start": "2026-11-20T21:00:00-08:00",
+    "end": "2026-11-20T22:30:00-08:00",
+    "venue": "447 Minna St",
+    "address": "447 Minna St, San Francisco, CA 94103",
+    "url": "https://www.eventbrite.com/e/sf-neo-futurists-the-infinite-wrench-tickets-1987282527536",
+    "source": "aggregator:funcheap",
+    "tags": [
+      "theatre",
+      "comedy"
+    ],
+    "price": "$13 + die roll at the door; $12-$28 online",
+    "description": "The Neo-Futurists race to perform 30 short original plays in 60 minutes, in an order the audience shouts out. They range from personal to political to absurd, and the set changes every week.",
+    "neighbourhood": "SoMa",
+    "cycle_minutes": 5,
+    "added": "2026-10-27",
+    "id": "sf-neo-futurists-the-infinite-wrench-30-plays-in-60-minutes-ffbbb4f2"
   },
   {
     "id": "ics-b8f18fea8a1d",
@@ -1215,6 +1537,44 @@
     "cycle_minutes": 12,
     "added": "2026-10-26",
     "id": "pedro-the-lion-with-karli-fairbanks-90c93a84"
+  },
+  {
+    "title": "Woodchopper's Ball: live-band swing night",
+    "start": "2026-11-24T21:00:00-08:00",
+    "end": "2026-11-24T23:30:00-08:00",
+    "venue": "Verdi Club",
+    "address": "2424 Mariposa St, San Francisco, CA 94110",
+    "url": "https://www.verdiclub.net/events/the-woodchoppers-ball-42-3-2/2026-11-24/",
+    "source": "venue:verdi-club",
+    "tags": [
+      "dance",
+      "music"
+    ],
+    "price": "$20 cash ($10 students)",
+    "description": "The weekly Tuesday live-band swing dance at the historic Verdi Club; this week's band isn't announced yet. The free drop-in beginner lesson at 9pm is included, and no partner is needed.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 13,
+    "added": "2026-10-27",
+    "id": "woodchopper-s-ball-live-band-swing-night-caf90e3c"
+  },
+  {
+    "title": "San Francisco Wednesday Contra Dance (beginner lesson 7:30)",
+    "start": "2026-11-25T19:30:00-08:00",
+    "end": "2026-11-25T22:00:00-08:00",
+    "venue": "The Polish Club",
+    "address": "3040 22nd St, San Francisco, CA 94110",
+    "url": "https://bacds.org/series/contra/san_francisco_wed/",
+    "source": "venue:bacds",
+    "tags": [
+      "dance",
+      "music"
+    ],
+    "price": "$20 ($15 members, $6 students/low-income)",
+    "description": "BACDS contra with caller Lark Finnegan and a community band led by Erik Hoffman. The beginner lesson is at 7:30, then dancing 8-10pm, and roles are gender-neutral so no partner is needed.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 15,
+    "added": "2026-10-27",
+    "id": "san-francisco-wednesday-contra-dance-beginner-lesson-7-30-06d062b8"
   },
   {
     "title": "Sleepless Nights XX: A Tribute to Gram Parsons",
@@ -1272,6 +1632,43 @@
     "id": "long-now-lost-landscapes-02026-with-rick-prelinger-46a03bb4"
   },
   {
+    "title": "Woodchopper's Ball: live-band swing night",
+    "start": "2026-12-01T21:00:00-08:00",
+    "end": "2026-12-01T23:30:00-08:00",
+    "venue": "Verdi Club",
+    "address": "2424 Mariposa St, San Francisco, CA 94110",
+    "url": "https://www.verdiclub.net/events/the-woodchoppers-ball-42-3-2/2026-12-01/",
+    "source": "venue:verdi-club",
+    "tags": [
+      "dance",
+      "music"
+    ],
+    "price": "$20 cash ($10 students)",
+    "description": "The weekly Tuesday live-band swing dance at the historic Verdi Club; this week's band isn't announced yet. The free drop-in beginner lesson at 9pm is included, and no partner is needed.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 13,
+    "added": "2026-10-27",
+    "id": "woodchopper-s-ball-live-band-swing-night-5904beea"
+  },
+  {
+    "title": "L'Rain with ZAYALLCAPS and Cole Pulice",
+    "start": "2026-12-02T20:00:00-08:00",
+    "end": "2026-12-02T23:30:00-08:00",
+    "venue": "Rickshaw Stop",
+    "address": "155 Fell St, San Francisco, CA 94102",
+    "url": "https://wl.eventim.us/event/lrain/697892?afflky=RickshawStop",
+    "source": "venue:rickshaw-stop",
+    "tags": [
+      "music"
+    ],
+    "price": "$26 advance",
+    "description": "Taja Cheek's experimental soul/art-pop project L'Rain, with support from ZAYALLCAPS and saxophonist Cole Pulice, in a small Hayes Valley room. It's all ages, with doors at 7pm.",
+    "neighbourhood": "Hayes Valley",
+    "cycle_minutes": 9,
+    "added": "2026-10-27",
+    "id": "l-rain-with-zayallcaps-and-cole-pulice-5aaa0f46"
+  },
+  {
     "title": "Cal Academy NightLife: Naughty or Nice (21+)",
     "start": "2026-12-03T18:00:00-08:00",
     "end": "2026-12-03T22:00:00-08:00",
@@ -1289,6 +1686,44 @@
     "cycle_minutes": 27,
     "added": "2026-10-26",
     "id": "cal-academy-nightlife-naughty-or-nice-21-ca766b97"
+  },
+  {
+    "title": "Exploratorium After Dark: Rule Breakers",
+    "start": "2026-12-03T18:00:00-08:00",
+    "end": "2026-12-03T22:00:00-08:00",
+    "venue": "Exploratorium (Pier 15)",
+    "address": "Pier 15, The Embarcadero at Green St, San Francisco, CA 94111",
+    "url": "https://www.exploratorium.edu/visit/calendar/after-dark-rule-breakers",
+    "source": "venue:exploratorium",
+    "tags": [
+      "talk",
+      "art",
+      "music"
+    ],
+    "price": null,
+    "description": "An adults-only (18+) night about breaking rules: questioning the laws of physics, the stories behind superstitions, and rethinking sound and instruments with artist Ivana Dama. Hundreds of hands-on exhibits are open.",
+    "neighbourhood": "Embarcadero",
+    "cycle_minutes": 10,
+    "added": "2026-10-27",
+    "id": "exploratorium-after-dark-rule-breakers-1717e049"
+  },
+  {
+    "title": "Greg Fitzsimmons",
+    "start": "2026-12-03T20:00:00-08:00",
+    "end": null,
+    "venue": "Punch Line San Francisco",
+    "address": "444 Battery St, San Francisco, CA 94111",
+    "url": "https://www.ticketmaster.com/greg-fitzsimmons-san-francisco-california-12-03-2026/event/1C006503E154993C",
+    "source": "venue:punchline",
+    "tags": [
+      "comedy"
+    ],
+    "price": null,
+    "description": "The veteran stand-up and FitzDog Radio podcaster headlines the Punch Line, SF's comedy club since 1978, in the Financial District.",
+    "neighbourhood": "Financial District",
+    "cycle_minutes": 6,
+    "added": "2026-10-27",
+    "id": "greg-fitzsimmons-a57f92c4"
   },
   {
     "title": "Sonny & His Rhinestone Sunsets, Kelly McFarling, Noelle & the Deserters",
@@ -1344,5 +1779,24 @@
     "cycle_minutes": 13,
     "added": "2026-10-26",
     "id": "buck-meek-with-kisser-9a218df7"
+  },
+  {
+    "title": "San Francisco Wednesday Contra Dance (beginner lesson 7:30)",
+    "start": "2026-12-09T19:30:00-08:00",
+    "end": "2026-12-09T22:00:00-08:00",
+    "venue": "The Polish Club",
+    "address": "3040 22nd St, San Francisco, CA 94110",
+    "url": "https://bacds.org/series/contra/san_francisco_wed/",
+    "source": "venue:bacds",
+    "tags": [
+      "dance",
+      "music"
+    ],
+    "price": "$20 ($15 members, $6 students/low-income)",
+    "description": "BACDS's 2nd & 4th Wednesday contra with caller Doe Taryn and live music. The beginner lesson is at 7:30, then dancing 8-10pm, everything is walked through and you can come alone.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 15,
+    "added": "2026-10-27",
+    "id": "san-francisco-wednesday-contra-dance-beginner-lesson-7-30-70c5ccb9"
   }
 ]

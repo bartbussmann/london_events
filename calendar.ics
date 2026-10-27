@@ -79,6 +79,21 @@ URL:https://wl.seetickets.us/event/danbert-nobacon-zen-and-serafina/707430
 LOCATION:Hotel Utah Saloon\, 500 4th St\, San Francisco\, CA 94107
 END:VEVENT
 BEGIN:VEVENT
+UID:san-francisco-rationalist-dinner-metreon-food-court-816bef74@sf-events
+DTSTAMP:20261029T020000Z
+DTSTART:20261029T020000Z
+DTEND:20261029T050000Z
+SUMMARY:San Francisco Rationalist Dinner (Metreon food court)
+DESCRIPTION:An informal LessWrong rationalist dinner in the Metreon food c
+ ourt where first-timers are welcome. Conversation covers AI safety\, inte
+ resting blog posts and other rationality topics\, and it's an easy way in
+ to the SF community.\nPrice: Free (buy your own food)\nhttps://www.lesswr
+ ong.com/events/QWmFnGWnjfo5boeys/san-francisco-rationalist-dinner
+URL:https://www.lesswrong.com/events/QWmFnGWnjfo5boeys/san-francisco-ratio
+ nalist-dinner
+LOCATION:Metreon (food court)\, 135 4th St\, San Francisco\, CA 94103
+END:VEVENT
+BEGIN:VEVENT
 UID:san-francisco-wednesday-contra-dance-beginner-lesson-7-30-ba4bbe79@sf-
  events
 DTSTAMP:20261029T023000Z
@@ -121,6 +136,37 @@ DESCRIPTION:The science museum's annual Halloween NightLife\, headlined by
 URL:https://www.calacademy.org/nightlife/fright-nightlife
 LOCATION:California Academy of Sciences\, 55 Music Concourse Dr\, Golden G
  ate Park\, San Francisco\, CA 94118
+END:VEVENT
+BEGIN:VEVENT
+UID:exploratorium-after-dark-creepatorium-halloween-2e26ef98@sf-events
+DTSTAMP:20261030T010000Z
+DTSTART:20261030T010000Z
+DTEND:20261030T050000Z
+SUMMARY:Exploratorium After Dark: Creepatorium (Halloween)
+DESCRIPTION:The Exploratorium's annual adults-only (18+) Halloween night e
+ xplores the science of fear: Halloween-themed exhibits\, the famous cow-e
+ ye dissection and a costume contest. Los Goths Co. host a goth-meets-cumb
+ ia dance party.\nhttps://www.exploratorium.edu/visit/calendar/after-dark-
+ creepatorium
+URL:https://www.exploratorium.edu/visit/calendar/after-dark-creepatorium
+LOCATION:Exploratorium (Pier 15)\, Pier 15\, The Embarcadero at Green St\,
+  San Francisco\, CA 94111
+END:VEVENT
+BEGIN:VEVENT
+UID:36th-annual-blindfold-throwing-contest-cca-ceramics-5117704f@sf-events
+DTSTAMP:20261030T013000Z
+DTSTART:20261030T013000Z
+DTEND:20261030T043000Z
+SUMMARY:36th Annual Blindfold Throwing Contest (CCA Ceramics)
+DESCRIPTION:The CCA Ceramics Guild's long-running contest: four minutes on
+  the pottery wheel\, blindfolded\, with prizes like 'Best Ashtray'. You d
+ on't need to be a student or know how to throw\, and there's pizza.\nPric
+ e: Free (RSVP)\nhttps://www.eventbrite.com/e/36th-annual-blindfold-throwi
+ ng-contest-tickets-2003677881481
+URL:https://www.eventbrite.com/e/36th-annual-blindfold-throwing-contest-ti
+ ckets-2003677881481
+LOCATION:California College of the Arts\, Ceramics Studio (D114)\, 145 Hoo
+ per St\, San Francisco\, CA 94107
 END:VEVENT
 BEGIN:VEVENT
 UID:ics-e47b9bf006cd@sf-events
@@ -279,6 +325,21 @@ LOCATION:Golden Gate Park\, JFK Drive (8th-10th Ave)\, JFK Dr between 8th
  & 10th Ave (behind the de Young)\, San Francisco\, CA
 END:VEVENT
 BEGIN:VEVENT
+UID:5rhythms-emerging-waves-dance-first-think-later-d1555819@sf-events
+DTSTAMP:20261101T190000Z
+DTSTART:20261101T190000Z
+DTEND:20261101T203000Z
+SUMMARY:5Rhythms Emerging Waves: Dance First\, Think Later
+DESCRIPTION:A 90-minute Sunday-morning 5Rhythms wave led by teacher-in-tra
+ ining Irina Khokhlova. It's a moving meditation through the five rhythms 
+ with simple guidance\, and all bodies and levels are welcome.\nPrice: $28
+ .52\nhttps://www.eventbrite.com/e/dance-first-think-later-5rhythms-emergi
+ ng-waves-tickets-2003737688365
+URL:https://www.eventbrite.com/e/dance-first-think-later-5rhythms-emerging
+ -waves-tickets-2003737688365
+LOCATION:401 Alabama St studio\, 401 Alabama St\, San Francisco\, CA 94110
+END:VEVENT
+BEGIN:VEVENT
 UID:bay-area-sacred-harp-sf-singing-5412e6da@sf-events
 DTSTAMP:20261101T200000Z
 DTSTART:20261101T200000Z
@@ -404,6 +465,35 @@ DESCRIPTION:EA SF Discussion Salon on cause prioritization at Mox — smal
  ce: Free (register on Luma)\nhttps://luma.com/anw0fxzg
 URL:https://luma.com/anw0fxzg
 LOCATION:Mox\, 1680 Mission St\, San Francisco\, CA 94103
+END:VEVENT
+BEGIN:VEVENT
+UID:figure-drawing-at-monument-sf-sketchboard-8340ca3c@sf-events
+DTSTAMP:20261105T023000Z
+DTSTART:20261105T023000Z
+DTEND:20261105T043000Z
+SUMMARY:Figure Drawing at Monument SF (Sketchboard)
+DESCRIPTION:Sketchboard Co.'s weekly Wednesday life drawing: an uninstruct
+ ed session running from short gesture poses to longer ones\, with partial
+ ly costumed to nude models and live music. Bring your own supplies.\nPric
+ e: $25\nhttps://book.squareup.com/classes/uj53t4hfgkzllp/location/DYSM7QR
+ DVFWX7/classes
+URL:https://book.squareup.com/classes/uj53t4hfgkzllp/location/DYSM7QRDVFWX
+ 7/classes
+LOCATION:Monument\, 140 9th St\, San Francisco\, CA 94103
+END:VEVENT
+BEGIN:VEVENT
+UID:exploratorium-after-dark-digest-this-0af04c0b@sf-events
+DTSTAMP:20261106T020000Z
+DTSTART:20261106T020000Z
+DTEND:20261106T060000Z
+SUMMARY:Exploratorium After Dark: Digest This
+DESCRIPTION:An adults-only (18+) After Dark night following food from firs
+ t taste to final flush: how taste and smell link up\, fermentation microb
+ es\, and the history behind our pantries. DJ Ms. Organic plays.\nhttps://
+ www.exploratorium.edu/visit/calendar/after-dark-digest-this
+URL:https://www.exploratorium.edu/visit/calendar/after-dark-digest-this
+LOCATION:Exploratorium (Pier 15)\, Pier 15\, The Embarcadero at Green St\,
+  San Francisco\, CA 94111
 END:VEVENT
 BEGIN:VEVENT
 UID:georgia-parker-with-tashi-t-6670e84e@sf-events
@@ -558,6 +648,22 @@ LOCATION:Swedish American Hall\, 2174 Market St (upstairs)\, San Francisco
  \, CA 94114
 END:VEVENT
 BEGIN:VEVENT
+UID:movement-ecstatic-dance-sf-tasha-rose-0ebfd97e@sf-events
+DTSTAMP:20261108T180000Z
+DTSTART:20261108T180000Z
+DTEND:20261108T211100Z
+SUMMARY:MOVEMENT Ecstatic Dance SF // Tasha Rose
+DESCRIPTION:SF's big Sunday-morning ecstatic dance in the nave of a landma
+ rk church\, this week with DJ Tasha Rose. It's phone-free and substance-f
+ ree\, with an opening circle and a DJ journey.\nPrice: $30-$50\nhttps://w
+ ww.eventbrite.com/e/movement-ecstatic-dance-sf-tasha-rose-registration-20
+ 03798054923
+URL:https://www.eventbrite.com/e/movement-ecstatic-dance-sf-tasha-rose-reg
+ istration-2003798054923
+LOCATION:Sacred Heart Church (MOVEMENT)\, 554 Fillmore St\, San Francisco\
+ , CA 94117
+END:VEVENT
+BEGIN:VEVENT
 UID:san-francisco-diwali-festival-3c2f51f4@sf-events
 DTSTAMP:20261108T210000Z
 DTSTART:20261108T210000Z
@@ -630,6 +736,20 @@ URL:https://www.tickettailor.com/events/thecirclinginsitute/2321864
 LOCATION:Animal Rights Center\, 2414 6th St\, Berkeley\, CA 94710
 END:VEVENT
 BEGIN:VEVENT
+UID:conundrum-chronicles-storyslam-turning-point-d1bbce13@sf-events
+DTSTAMP:20261111T030000Z
+DTSTART:20261111T030000Z
+DTEND:20261111T044500Z
+SUMMARY:Conundrum Chronicles StorySlam: Turning Point
+DESCRIPTION:A monthly true-story slam on the theme 'Turning Point'\, with 
+ featured storyteller Kimberlii Joy. Put your name in the hat to tell a fi
+ ve-minute story without notes\, or just listen\; everyone in the room can
+  judge.\nPrice: $10-$25 sliding scale\nhttps://themarsh.org/shows_and_eve
+ nts/runs/conundrum-chronicles/
+URL:https://themarsh.org/shows_and_events/runs/conundrum-chronicles/
+LOCATION:The Marsh\, 1062 Valencia St\, San Francisco\, CA 94110
+END:VEVENT
+BEGIN:VEVENT
 UID:claudio-simonetti-s-goblin-performs-the-live-score-to-tenebr-dda3a5b6@
  sf-events
 DTSTAMP:20261111T033000Z
@@ -642,6 +762,21 @@ DESCRIPTION:Goblin\, the Italian prog band behind the Suspiria and Dawn of
  astro.com/events/claudio-simonettis-goblin-261110
 URL:https://thecastro.com/events/claudio-simonettis-goblin-261110
 LOCATION:Castro Theatre\, 429 Castro St\, San Francisco\, CA 94114
+END:VEVENT
+BEGIN:VEVENT
+UID:woodchopper-s-ball-neil-fontano-jazz-band-7e74fbd1@sf-events
+DTSTAMP:20261111T050000Z
+DTSTART:20261111T050000Z
+DTEND:20261111T073000Z
+SUMMARY:Woodchopper's Ball: Neil Fontano Jazz Band
+DESCRIPTION:The weekly Tuesday live-band swing dance at the historic Verdi
+  Club\, this week with the Neil Fontano Jazz Band. The free drop-in begin
+ ner lesson at 9pm is included\, and no partner is needed.\nPrice: $20 cas
+ h ($10 students)\nhttps://www.verdiclub.net/events/the-woodchoppers-ball-
+ 42-3-2/2026-11-10/
+URL:https://www.verdiclub.net/events/the-woodchoppers-ball-42-3-2/2026-11-
+ 10/
+LOCATION:Verdi Club\, 2424 Mariposa St\, San Francisco\, CA 94110
 END:VEVENT
 BEGIN:VEVENT
 UID:ics-c440877e8faa@sf-events
@@ -718,6 +853,20 @@ LOCATION:Exploratorium (Pier 15)\, Pier 15\, The Embarcadero at Green St\,
   San Francisco\, CA 94111
 END:VEVENT
 BEGIN:VEVENT
+UID:cal-academy-nightlife-pajammy-jam-21-bdbcbe90@sf-events
+DTSTAMP:20261113T020000Z
+DTSTART:20261113T020000Z
+DTEND:20261113T060000Z
+SUMMARY:Cal Academy NightLife: Pajammy Jam (21+)
+DESCRIPTION:A pajama-themed house-party NightLife with games\, music and t
+ he aquarium and rainforest open after hours. It's 21+\, and planetarium s
+ hows are $7 extra.\nPrice: $26\nhttps://www.calacademy.org/nightlife/nigh
+ tlife-pajammy-jam
+URL:https://www.calacademy.org/nightlife/nightlife-pajammy-jam
+LOCATION:California Academy of Sciences\, 55 Music Concourse Dr\, Golden G
+ ate Park\, San Francisco\, CA 94118
+END:VEVENT
+BEGIN:VEVENT
 UID:pyramid-dance-ean-golden-11cd6cf1@sf-events
 DTSTAMP:20261114T030000Z
 DTSTART:20261114T030000Z
@@ -759,6 +908,22 @@ URL:https://www.eventbrite.com/e/fall-sf-international-tea-festival-2026-t
  ickets-1994590750628
 LOCATION:Ferry Building Marketplace\, 1 Ferry Building\, San Francisco\, C
  A 94111
+END:VEVENT
+BEGIN:VEVENT
+UID:abiogenesis-philip-beesley-casey-curran-opening-sf-art-week-06cced09@s
+ f-events
+DTSTAMP:20261115T020000Z
+DTSTART:20261115T020000Z
+DTEND:20261115T050000Z
+SUMMARY:Abiogenesis: Philip Beesley & Casey Curran opening (SF Art Week)
+DESCRIPTION:Free opening reception for a two-artist show of kinetic\, ligh
+ t-responsive sculpture about life emerging from inert matter. It's part o
+ f SF Art Week\, and Philip Beesley represented Canada at the Venice Archi
+ tecture Biennale.\nPrice: Free (RSVP)\nhttps://www.eventbrite.com/e/abiog
+ enesis-new-works-by-philip-beesley-and-casey-curran-tickets-2003420173670
+URL:https://www.eventbrite.com/e/abiogenesis-new-works-by-philip-beesley-a
+ nd-casey-curran-tickets-2003420173670
+LOCATION:Heron Arts\, 7 Heron St\, San Francisco\, CA 94103
 END:VEVENT
 BEGIN:VEVENT
 UID:san-francisco-english-country-dance-2nd-saturday-fac76861@sf-events
@@ -804,6 +969,21 @@ URL:https://www.theindependentsf.com/tm-event/sean-hayes/
 LOCATION:The Independent\, 628 Divisadero St\, San Francisco\, CA 94117
 END:VEVENT
 BEGIN:VEVENT
+UID:movement-ecstatic-dance-sf-sasha-rose-8deab1d9@sf-events
+DTSTAMP:20261115T180000Z
+DTSTART:20261115T180000Z
+DTEND:20261115T211100Z
+SUMMARY:MOVEMENT Ecstatic Dance SF // Sasha Rose
+DESCRIPTION:The weekly Sunday ecstatic dance at Sacred Heart\, this week w
+ ith DJ Sasha Rose. It's phone-free and substance-free\, opening with a ci
+ rcle before a long DJ journey.\nPrice: $30-$50\nhttps://www.eventbrite.co
+ m/e/movement-ecstatic-dance-sf-sasha-rose-registration-2003798827233
+URL:https://www.eventbrite.com/e/movement-ecstatic-dance-sf-sasha-rose-reg
+ istration-2003798827233
+LOCATION:Sacred Heart Church (MOVEMENT)\, 554 Fillmore St\, San Francisco\
+ , CA 94117
+END:VEVENT
+BEGIN:VEVENT
 UID:ben-buchanan-superintelligence-superpowers-and-the-fate-of-t-c475682b@
  sf-events
 DTSTAMP:20261117T023000Z
@@ -821,6 +1001,18 @@ URL:https://www.commonwealthclub.org/events/2026-11-16/ben-buchanan-superi
  ntelligence-superpowers-and-fate-world
 LOCATION:Commonwealth Club World Affairs\, 110 The Embarcadero\, San Franc
  isco\, CA 94105
+END:VEVENT
+BEGIN:VEVENT
+UID:contact-improvisation-class-jam-at-the-castro-room-9c8b759c@sf-events
+DTSTAMP:20261117T034500Z
+DTSTART:20261117T034500Z
+DTEND:20261117T061500Z
+SUMMARY:Contact Improvisation class + jam at The Castro Room
+DESCRIPTION:SF's 1st & 3rd Monday contact improv night: an hour's beginner
+ -friendly class from 7:45pm flows into a jam with live music until 10:15p
+ m. Teachers and hosts rotate.\nhttps://bay.dance/events/contact_improv/
+URL:https://bay.dance/events/contact_improv/
+LOCATION:The Castro Room\, 97 Collingwood St\, San Francisco\, CA 94114
 END:VEVENT
 BEGIN:VEVENT
 UID:margaret-glaspy-with-anna-tivel-4a72280f@sf-events
@@ -849,6 +1041,21 @@ LOCATION:Unbound Books and Coffee\, 38 Waverly Pl\, San Francisco\, CA 941
  08
 END:VEVENT
 BEGIN:VEVENT
+UID:woodchopper-s-ball-san-francisco-medicine-ball-band-3543aee7@sf-events
+DTSTAMP:20261118T050000Z
+DTSTART:20261118T050000Z
+DTEND:20261118T073000Z
+SUMMARY:Woodchopper's Ball: San Francisco Medicine Ball Band
+DESCRIPTION:The weekly Tuesday live-band swing dance at the historic Verdi
+  Club\, this week with the San Francisco Medicine Ball Band. The free dro
+ p-in beginner lesson at 9pm is included\, and no partner is needed.\nPric
+ e: $20 cash ($10 students)\nhttps://www.verdiclub.net/events/the-woodchop
+ pers-ball-42-3-2/2026-11-17/
+URL:https://www.verdiclub.net/events/the-woodchoppers-ball-42-3-2/2026-11-
+ 17/
+LOCATION:Verdi Club\, 2424 Mariposa St\, San Francisco\, CA 94110
+END:VEVENT
+BEGIN:VEVENT
 UID:patch-bay-workshop-computational-poetry-f2f24a11@sf-events
 DTSTAMP:20261119T020000Z
 DTSTART:20261119T020000Z
@@ -862,6 +1069,20 @@ DESCRIPTION:Alicia Guo leads a hands-on workshop treating language as mate
 URL:https://grayarea.org/event/patch-bay-interactive-worlds-ai-figma-works
  hop-2-2-2/
 LOCATION:Gray Area\, 2665 Mission St\, San Francisco\, CA 94110
+END:VEVENT
+BEGIN:VEVENT
+UID:jenny-tian-ripe-f07eadcf@sf-events
+DTSTAMP:20261119T033000Z
+DTSTART:20261119T033000Z
+DTEND:20261119T053000Z
+SUMMARY:Jenny Tian: Ripe
+DESCRIPTION:Australian stand-up Jenny Tian brings her touring hour 'Ripe' 
+ to SF's classic North Beach comedy club. It's a headline show\, not an op
+ en mic.\nhttps://www.ticketmaster.com/jenny-tian-ripe-san-francisco-calif
+ ornia-11-18-2026/event/1C0064AC13A553C5
+URL:https://www.ticketmaster.com/jenny-tian-ripe-san-francisco-california-
+ 11-18-2026/event/1C0064AC13A553C5
+LOCATION:Cobb's Comedy Club\, 915 Columbus Ave\, San Francisco\, CA 94133
 END:VEVENT
 BEGIN:VEVENT
 UID:exploratorium-after-dark-glow-opening-621d3306@sf-events
@@ -892,6 +1113,19 @@ LOCATION:Gray Area (Grand Theater)\, 2665 Mission St\, San Francisco\, CA
  94110
 END:VEVENT
 BEGIN:VEVENT
+UID:cannelle-popscene-a92ff22a@sf-events
+DTSTAMP:20261120T050000Z
+DTSTART:20261120T050000Z
+DTEND:20261120T074500Z
+SUMMARY:Cannelle (Popscene)
+DESCRIPTION:LA-based\, Aix-en-Provence-born Cannelle plays raucous left-fi
+ eld electronic pop at Popscene in the small Rickshaw Stop room. It's all 
+ ages\, with doors at 8pm.\nPrice: $18 advance ($22 week of show)\nhttps:/
+ /wl.eventim.us/event/cannelle/703781?afflky=RickshawStop
+URL:https://wl.eventim.us/event/cannelle/703781?afflky=RickshawStop
+LOCATION:Rickshaw Stop\, 155 Fell St\, San Francisco\, CA 94102
+END:VEVENT
+BEGIN:VEVENT
 UID:brittany-davis-black-thunder-early-set-78aa60e6@sf-events
 DTSTAMP:20261121T030000Z
 DTSTART:20261121T030000Z
@@ -904,6 +1138,22 @@ DESCRIPTION:Seattle singer-keyboardist Brittany Davis plays spiritual jazz
 URL:https://www.sfjazz.org/tickets/productions/26-27/brittany-davis/
 LOCATION:SFJAZZ Center\, Joe Henderson Lab\, 201 Franklin St\, San Francis
  co\, CA 94102
+END:VEVENT
+BEGIN:VEVENT
+UID:sf-neo-futurists-the-infinite-wrench-30-plays-in-60-minutes-ffbbb4f2@s
+ f-events
+DTSTAMP:20261121T050000Z
+DTSTART:20261121T050000Z
+DTEND:20261121T063000Z
+SUMMARY:SF Neo-Futurists: The Infinite Wrench (30 plays in 60 minutes)
+DESCRIPTION:The Neo-Futurists race to perform 30 short original plays in 6
+ 0 minutes\, in an order the audience shouts out. They range from personal
+  to political to absurd\, and the set changes every week.\nPrice: $13 + d
+ ie roll at the door\; $12-$28 online\nhttps://www.eventbrite.com/e/sf-neo
+ -futurists-the-infinite-wrench-tickets-1987282527536
+URL:https://www.eventbrite.com/e/sf-neo-futurists-the-infinite-wrench-tick
+ ets-1987282527536
+LOCATION:447 Minna St\, 447 Minna St\, San Francisco\, CA 94103
 END:VEVENT
 BEGIN:VEVENT
 UID:ics-b8f18fea8a1d@sf-events
@@ -946,6 +1196,36 @@ DESCRIPTION:David Bazan's indie-rock/slowcore band Pedro the Lion in a sma
  mofthehill.com/20261123.html
 URL:http://www.bottomofthehill.com/20261123.html
 LOCATION:Bottom of the Hill\, 1233 17th St\, San Francisco\, CA 94107
+END:VEVENT
+BEGIN:VEVENT
+UID:woodchopper-s-ball-live-band-swing-night-caf90e3c@sf-events
+DTSTAMP:20261125T050000Z
+DTSTART:20261125T050000Z
+DTEND:20261125T073000Z
+SUMMARY:Woodchopper's Ball: live-band swing night
+DESCRIPTION:The weekly Tuesday live-band swing dance at the historic Verdi
+  Club\; this week's band isn't announced yet. The free drop-in beginner l
+ esson at 9pm is included\, and no partner is needed.\nPrice: $20 cash ($1
+ 0 students)\nhttps://www.verdiclub.net/events/the-woodchoppers-ball-42-3-
+ 2/2026-11-24/
+URL:https://www.verdiclub.net/events/the-woodchoppers-ball-42-3-2/2026-11-
+ 24/
+LOCATION:Verdi Club\, 2424 Mariposa St\, San Francisco\, CA 94110
+END:VEVENT
+BEGIN:VEVENT
+UID:san-francisco-wednesday-contra-dance-beginner-lesson-7-30-06d062b8@sf-
+ events
+DTSTAMP:20261126T033000Z
+DTSTART:20261126T033000Z
+DTEND:20261126T060000Z
+SUMMARY:San Francisco Wednesday Contra Dance (beginner lesson 7:30)
+DESCRIPTION:BACDS contra with caller Lark Finnegan and a community band le
+ d by Erik Hoffman. The beginner lesson is at 7:30\, then dancing 8-10pm\,
+  and roles are gender-neutral so no partner is needed.\nPrice: $20 ($15 m
+ embers\, $6 students/low-income)\nhttps://bacds.org/series/contra/san_fra
+ ncisco_wed/
+URL:https://bacds.org/series/contra/san_francisco_wed/
+LOCATION:The Polish Club\, 3040 22nd St\, San Francisco\, CA 94110
 END:VEVENT
 BEGIN:VEVENT
 UID:sleepless-nights-xx-a-tribute-to-gram-parsons-32b44499@sf-events
@@ -993,6 +1273,34 @@ URL:https://longnow.org/talks/02026-prelinger/
 LOCATION:Herbst Theatre\, 401 Van Ness Ave\, San Francisco\, CA 94102
 END:VEVENT
 BEGIN:VEVENT
+UID:woodchopper-s-ball-live-band-swing-night-5904beea@sf-events
+DTSTAMP:20261202T050000Z
+DTSTART:20261202T050000Z
+DTEND:20261202T073000Z
+SUMMARY:Woodchopper's Ball: live-band swing night
+DESCRIPTION:The weekly Tuesday live-band swing dance at the historic Verdi
+  Club\; this week's band isn't announced yet. The free drop-in beginner l
+ esson at 9pm is included\, and no partner is needed.\nPrice: $20 cash ($1
+ 0 students)\nhttps://www.verdiclub.net/events/the-woodchoppers-ball-42-3-
+ 2/2026-12-01/
+URL:https://www.verdiclub.net/events/the-woodchoppers-ball-42-3-2/2026-12-
+ 01/
+LOCATION:Verdi Club\, 2424 Mariposa St\, San Francisco\, CA 94110
+END:VEVENT
+BEGIN:VEVENT
+UID:l-rain-with-zayallcaps-and-cole-pulice-5aaa0f46@sf-events
+DTSTAMP:20261203T040000Z
+DTSTART:20261203T040000Z
+DTEND:20261203T073000Z
+SUMMARY:L'Rain with ZAYALLCAPS and Cole Pulice
+DESCRIPTION:Taja Cheek's experimental soul/art-pop project L'Rain\, with s
+ upport from ZAYALLCAPS and saxophonist Cole Pulice\, in a small Hayes Val
+ ley room. It's all ages\, with doors at 7pm.\nPrice: $26 advance\nhttps:/
+ /wl.eventim.us/event/lrain/697892?afflky=RickshawStop
+URL:https://wl.eventim.us/event/lrain/697892?afflky=RickshawStop
+LOCATION:Rickshaw Stop\, 155 Fell St\, San Francisco\, CA 94102
+END:VEVENT
+BEGIN:VEVENT
 UID:cal-academy-nightlife-naughty-or-nice-21-ca766b97@sf-events
 DTSTAMP:20261204T020000Z
 DTSTART:20261204T020000Z
@@ -1005,6 +1313,36 @@ DESCRIPTION:The last NightLife of the year before the museum's holiday bre
 URL:https://www.calacademy.org/nightlife/nightlife-naughty-or-nice
 LOCATION:California Academy of Sciences\, 55 Music Concourse Dr\, Golden G
  ate Park\, San Francisco\, CA 94118
+END:VEVENT
+BEGIN:VEVENT
+UID:exploratorium-after-dark-rule-breakers-1717e049@sf-events
+DTSTAMP:20261204T020000Z
+DTSTART:20261204T020000Z
+DTEND:20261204T060000Z
+SUMMARY:Exploratorium After Dark: Rule Breakers
+DESCRIPTION:An adults-only (18+) night about breaking rules: questioning t
+ he laws of physics\, the stories behind superstitions\, and rethinking so
+ und and instruments with artist Ivana Dama. Hundreds of hands-on exhibits
+  are open.\nhttps://www.exploratorium.edu/visit/calendar/after-dark-rule-
+ breakers
+URL:https://www.exploratorium.edu/visit/calendar/after-dark-rule-breakers
+LOCATION:Exploratorium (Pier 15)\, Pier 15\, The Embarcadero at Green St\,
+  San Francisco\, CA 94111
+END:VEVENT
+BEGIN:VEVENT
+UID:greg-fitzsimmons-a57f92c4@sf-events
+DTSTAMP:20261204T040000Z
+DTSTART:20261204T040000Z
+DTEND:20261204T060000Z
+SUMMARY:Greg Fitzsimmons
+DESCRIPTION:The veteran stand-up and FitzDog Radio podcaster headlines the
+  Punch Line\, SF's comedy club since 1978\, in the Financial District.\nh
+ ttps://www.ticketmaster.com/greg-fitzsimmons-san-francisco-california-12-
+ 03-2026/event/1C006503E154993C
+URL:https://www.ticketmaster.com/greg-fitzsimmons-san-francisco-california
+ -12-03-2026/event/1C006503E154993C
+LOCATION:Punch Line San Francisco\, 444 Battery St\, San Francisco\, CA 94
+ 111
 END:VEVENT
 BEGIN:VEVENT
 UID:sonny-his-rhinestone-sunsets-kelly-mcfarling-noelle-the-dese-adda0ee2@
@@ -1051,5 +1389,20 @@ DESCRIPTION:Big Thief guitarist Buck Meek plays his warm\, country-tinged
  apel
 URL:https://wl.seetickets.us/event/buck-meek/681148?afflky=TheChapel
 LOCATION:The Chapel\, 777 Valencia St\, San Francisco\, CA 94110
+END:VEVENT
+BEGIN:VEVENT
+UID:san-francisco-wednesday-contra-dance-beginner-lesson-7-30-70c5ccb9@sf-
+ events
+DTSTAMP:20261210T033000Z
+DTSTART:20261210T033000Z
+DTEND:20261210T060000Z
+SUMMARY:San Francisco Wednesday Contra Dance (beginner lesson 7:30)
+DESCRIPTION:BACDS's 2nd & 4th Wednesday contra with caller Doe Taryn and l
+ ive music. The beginner lesson is at 7:30\, then dancing 8-10pm\, everyth
+ ing is walked through and you can come alone.\nPrice: $20 ($15 members\, 
+ $6 students/low-income)\nhttps://bacds.org/series/contra/san_francisco_we
+ d/
+URL:https://bacds.org/series/contra/san_francisco_wed/
+LOCATION:The Polish Club\, 3040 22nd St\, San Francisco\, CA 94110
 END:VEVENT
 END:VCALENDAR
