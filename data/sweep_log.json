@@ -1,5 +1,11 @@
 [
   {
+    "ran_at": "2026-10-28T08:30:00-07:00",
+    "added": 24,
+    "considered": 420,
+    "notes": "Feeds: 0 new. Scout covered talks/food/outdoors/classes. Talks: Manny's philosophy salon (p-zombies) 29 Oct + trivia 11 Nov; Mark Danner City Lights 12 Nov; Julia Harte City Lights 1 Dec; Daniel Duane Booksmith 19 Nov; Annalee Newitz + Soleil Ho SFPL 22 Nov; Rosanna Xia SFPL 5 Dec; Kevin Starr Lecture (SF Historical Society) 13 Nov; Kirk Lombard foraging book launch Presidio 30 Oct. Social/food: KQED Live Happy Hour Showdown 5 Nov + Mission loteria night 10 Nov; Fall Cider Fest Mission Bay 7 Nov; Chocolate Salon GGP 22 Nov; Renegade Craft Fair 14 Nov; SoMa Filipinas mural block party 13 Nov (4 min); Arab Film Festival free outdoor screening 12 Nov. Outdoors: Ocean Dance sunset silent discos 1/8/15 Nov; SF City Guides free walks (waterfront 7 Nov, Rincon Center murals 14 Nov). Classes: dumpling class 8 Nov, beaded-necklace craft club 18 Nov, BATS intro-to-improv single session 21 Nov. sources.yaml: +10 recurring sources (City Lights, Green Apple, Booksmith, KQED Live, SFPL author talks, Presidio, BATS school, SF City Guides, Ocean Dance, Ferry Building/Foodwise). Manny's site now loads headless. Off the Grid Fort Mason Friday market has no Nov dates (season ended 16 Oct). Internet Archive: only virtual events. Over-cap: Hands On Gourmet, Bernal Cutlery, sourdough workshop. Spares: City Lights Believer launch 5 Nov + Jennifer Croft 10 Nov; Green Apple 'Weird Science' 12 Nov; BATS Theatresports Saturdays; SF VegFest 14 Nov; KQED mahjong 3 Dec; SF City Guides Barbary Coast walks Sundays."
+  },
+  {
     "ran_at": "2026-10-27T08:30:00-07:00",
     "added": 24,
     "considered": 190,

@@ -122,6 +122,32 @@ venues:
     tags: [music]
     # show details live on Salesforce ticket instance pages (headless)
 
+  # --- bookshops, libraries, media (author talks) ---
+  - name: City Lights Booksellers (North Beach)
+    url: https://citylights.com/events/
+    tags: [talk]
+    # list flags INSTORE vs VIRTUAL; pages print 'PST' even in PDT months
+  - name: Green Apple Books
+    url: https://greenapplebooks.com/events/
+    tags: [talk]
+    # monthly list at /events/YYYY/MM loads headless; detail pages sometimes Cloudflare
+  - name: The Booksmith (Haight)
+    url: https://www.booksmith.com/events
+    tags: [talk]
+  - name: KQED Live (The Commons, 2601 Mariposa)
+    url: https://www.kqed.org/events
+    tags: [talk, community]
+    # plain curl works; /event/<id>/<slug> pages carry price + venue
+  - name: SF Public Library — Main Library author talks
+    url: "https://sfpl.org/events?field_event_location_target_id=31&field_event_topic_target_id=387"
+    tags: [talk]
+  - name: Presidio events
+    url: https://www.presidio.gov/events
+    tags: [outdoors, talk]
+  - name: BATS Improv school (single-session intro classes)
+    url: https://www.improv.org/school/
+    tags: [class, comedy]
+
 listings:
   - name: Funcheap SF
     url: https://sf.funcheap.com/
@@ -172,6 +198,18 @@ listings:
     url: https://bayareasacredharp.org/local-singings/
     tags: [music, community]
     # SF singing meets in a private home: don't publish the street address
+
+  - name: SF City Guides — free walking tours by date
+    url: "https://www.sfcityguides.org/find-your-tour/?visit=YYYY-MM-DD"
+    tags: [outdoors, community]
+    # substitute a date; tour detail pages load dates via JS, the by-date view doesn't
+  - name: Ocean Dance (sunset silent-disco dances on Ocean Beach)
+    url: https://www.eventbrite.com/o/ocean-dance-80797127353
+    tags: [dance, outdoors]
+  - name: Ferry Building + Foodwise events
+    url: https://www.ferrybuildingmarketplace.com/events/
+    tags: [food, market]
+    # Foodwise (ex-CUESA): https://foodwise.org/events
 
 keywords:
   - "contact improvisation jam San Francisco"

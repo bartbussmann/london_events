@@ -153,6 +153,23 @@ LOCATION:Exploratorium (Pier 15)\, Pier 15\, The Embarcadero at Green St\,
   San Francisco\, CA 94111
 END:VEVENT
 BEGIN:VEVENT
+UID:philosophy-salon-with-the-paradox-lab-philosophical-zombies-be19d75d@s
+ f-events
+DTSTAMP:20261030T010000Z
+DTSTART:20261030T010000Z
+DTEND:20261030T023000Z
+SUMMARY:Philosophy Salon with The Paradox Lab: Philosophical Zombies
+DESCRIPTION:A Halloween-themed discussion salon on philosophical zombies\,
+  the thought experiment about whether a being could act exactly like us w
+ ith no inner experience. It's a small\, conversational format at Manny's 
+ civic café\, so it's easy to talk to people.\nPrice: $10-$15\nhttps://ww
+ w.eventbrite.com/e/philosophy-salon-with-the-paradox-lab-philosophical-zo
+ mbies-tickets-2001407172730
+URL:https://www.eventbrite.com/e/philosophy-salon-with-the-paradox-lab-phi
+ losophical-zombies-tickets-2001407172730
+LOCATION:Manny's\, 3092 16th St\, San Francisco\, CA 94103
+END:VEVENT
+BEGIN:VEVENT
 UID:36th-annual-blindfold-throwing-contest-cca-ceramics-5117704f@sf-events
 DTSTAMP:20261030T013000Z
 DTSTART:20261030T013000Z
@@ -208,6 +225,22 @@ DESCRIPTION:Thursday-night Irish set dancing to live trad music from Barry
  ays.\nhttps://www.theploughandstars.com/
 URL:https://www.theploughandstars.com/
 LOCATION:The Plough and Stars\, 116 Clement St\, San Francisco\, CA 94118
+END:VEVENT
+BEGIN:VEVENT
+UID:kirk-lombard-book-release-the-shadow-stream-20d071e2@sf-events
+DTSTAMP:20261031T013000Z
+DTSTART:20261031T013000Z
+DTEND:20261031T030000Z
+SUMMARY:Kirk Lombard book release: The Shadow Stream
+DESCRIPTION:Green Apple Books hosts Bay Area forager\, angler and sustaina
+ ble fishmonger Kirk Lombard (Sea Forager's Guide to the Northern Californ
+ ia Coast) launching his new book. There are refreshments and live music b
+ efore the talk.\nPrice: Free (RSVP)\nhttps://presidio.gov/explore/events/
+ book-release-with-green-apple-and-kirk-lombard-at-sports-basement/
+URL:https://presidio.gov/explore/events/book-release-with-green-apple-and-
+ kirk-lombard-at-sports-basement/
+LOCATION:Sports Basement Presidio (The Dairy)\, 610 Old Mason St\, San Fra
+ ncisco\, CA 94129
 END:VEVENT
 BEGIN:VEVENT
 UID:cityswoon-halloween-eve-date-night-ages-28-42-95a5e5a4@sf-events
@@ -366,6 +399,22 @@ URL:https://www.sffmc.org/community-folk-calendar/
 LOCATION:The Plough and Stars\, 116 Clement St\, San Francisco\, CA 94118
 END:VEVENT
 BEGIN:VEVENT
+UID:full-moon-sunset-ocean-dance-silent-disco-on-ocean-beach-f44dc7ac@sf-e
+ vents
+DTSTAMP:20261102T003000Z
+DTSTART:20261102T003000Z
+DTEND:20261102T020000Z
+SUMMARY:Full Moon Sunset Ocean Dance (silent disco on Ocean Beach)
+DESCRIPTION:An open-air silent-disco dance on the sand at sunset under the
+  full moon\, with headphones provided. It's conscious-dance in spirit: a 
+ sober\, community movement session by the ocean.\nPrice: $39.19\nhttps://
+ www.eventbrite.com/e/full-moon-sunset-ocean-dance-tickets-2001711223153
+URL:https://www.eventbrite.com/e/full-moon-sunset-ocean-dance-tickets-2001
+ 711223153
+LOCATION:Ocean Beach (Great Highway at Balboa St)\, Great Highway & Balboa
+  St\, San Francisco\, CA 94121
+END:VEVENT
+BEGIN:VEVENT
 UID:los-gaiteros-de-san-jacinto-fruko-y-sus-tesos-carmelo-torres-bbf98821@
  sf-events
 DTSTAMP:20261103T033000Z
@@ -496,6 +545,21 @@ LOCATION:Exploratorium (Pier 15)\, Pier 15\, The Embarcadero at Green St\,
   San Francisco\, CA 94111
 END:VEVENT
 BEGIN:VEVENT
+UID:kqed-live-happy-hour-showdown-bites-bevs-and-karaoke-3fd050de@sf-event
+ s
+DTSTAMP:20261106T030000Z
+DTSTART:20261106T030000Z
+DTEND:20261106T050000Z
+SUMMARY:KQED Live: Happy Hour Showdown (Bites\, Bevs and Karaoke)
+DESCRIPTION:A tasting-and-talk evening on the world's after-work rituals\,
+  from Spanish hora del aperitivo and Japanese nomikai to American craft-b
+ rewery culture\, with samples\, shared plates and karaoke. It's a sociabl
+ e night at KQED's own venue.\nPrice: $25 + fees (drink samples and bites 
+ included)\nhttps://www.kqed.org/event/6821/happy-hour-showdown
+URL:https://www.kqed.org/event/6821/happy-hour-showdown
+LOCATION:The Commons at KQED\, 2601 Mariposa St\, San Francisco\, CA 94110
+END:VEVENT
+BEGIN:VEVENT
 UID:georgia-parker-with-tashi-t-6670e84e@sf-events
 DTSTAMP:20261106T041500Z
 DTSTART:20261106T041500Z
@@ -581,6 +645,37 @@ URL:https://www.eventbrite.com/e/san-francisco-coffee-festival-2026-ticket
  s-1977403325577
 LOCATION:Fort Mason Center Festival Pavilion\, 2 Marina Blvd\, San Francis
  co\, CA 94109
+END:VEVENT
+BEGIN:VEVENT
+UID:the-san-francisco-fall-cider-fest-090d66ac@sf-events
+DTSTAMP:20261107T200000Z
+DTSTART:20261107T200000Z
+DTEND:20261108T000000Z
+SUMMARY:The San Francisco Fall Cider Fest
+DESCRIPTION:An afternoon cider-tasting festival at the SPARK Social food-t
+ ruck park in Mission Bay\, with a 'Camp SPARK' autumn theme. It's strictl
+ y 21+.\nPrice: $30-$60\nhttps://www.eventbrite.com/e/the-san-francisco-fa
+ ll-cider-fest-tickets-1998827487823
+URL:https://www.eventbrite.com/e/the-san-francisco-fall-cider-fest-tickets
+ -1998827487823
+LOCATION:SPARK Social SF\, 601 Mission Bay Blvd North\, San Francisco\, CA
+  94158
+END:VEVENT
+BEGIN:VEVENT
+UID:sf-city-guides-free-walking-tour-making-waves-on-the-waterfr-ebf3100c@
+ sf-events
+DTSTAMP:20261107T220000Z
+DTSTART:20261107T220000Z
+DTEND:20261108T000000Z
+SUMMARY:SF City Guides free walking tour: Making Waves on the Waterfront
+DESCRIPTION:A free volunteer-led history walk along the flat northern wate
+ rfront\, covering the inventors (denim jeans\, TV) and labor and human-ri
+ ghts organizers who shaped the city. It ends at Levi Plaza after about 1.
+ 5-2 hours.\nPrice: Free (donations welcome)\nhttps://www.sfcityguides.org
+ /find-your-tour/?visit=2026-11-07
+URL:https://www.sfcityguides.org/find-your-tour/?visit=2026-11-07
+LOCATION:Ferry Building (meet under the clock tower)\, Ferry Building\, 1 
+ Ferry Building\, San Francisco\, CA 94111
 END:VEVENT
 BEGIN:VEVENT
 UID:1st-saturday-irish-trad-session-at-the-plough-and-stars-bf378747@sf-ev
@@ -691,6 +786,36 @@ LOCATION:China Basin Park\, China Basin Park\, Mission Bay\, San Francisco
  \, CA 94107
 END:VEVENT
 BEGIN:VEVENT
+UID:new-moon-sunset-ocean-dance-silent-disco-on-ocean-beach-20d678ad@sf-ev
+ ents
+DTSTAMP:20261109T000000Z
+DTSTART:20261109T000000Z
+DTEND:20261109T013000Z
+SUMMARY:New Moon Sunset Ocean Dance (silent disco on Ocean Beach)
+DESCRIPTION:A sunset silent-disco dance on Ocean Beach with headphones pro
+ vided. It's a sober\, ecstatic-dance-style community session with the oce
+ an as the backdrop.\nPrice: $39.19\nhttps://www.eventbrite.com/e/new-moon
+ -sunset-ocean-dance-tickets-2001711271297
+URL:https://www.eventbrite.com/e/new-moon-sunset-ocean-dance-tickets-20017
+ 11271297
+LOCATION:Ocean Beach (Great Highway at Balboa St)\, Great Highway & Balboa
+  St\, San Francisco\, CA 94121
+END:VEVENT
+BEGIN:VEVENT
+UID:cooking-class-authentic-asian-dumplings-a5d7c594@sf-events
+DTSTAMP:20261109T010000Z
+DTSTART:20261109T010000Z
+DTEND:20261109T030000Z
+SUMMARY:Cooking class: Authentic Asian Dumplings
+DESCRIPTION:A two-hour hands-on class folding and cooking Asian dumplings 
+ from scratch\, aimed at beginners. You eat what you make.\nPrice: $64.80\
+ nhttps://www.eventbrite.com/e/in-person-class-authentic-asian-dumplings-s
+ an-francisco-tickets-2000229625655
+URL:https://www.eventbrite.com/e/in-person-class-authentic-asian-dumplings
+ -san-francisco-tickets-2000229625655
+LOCATION:The Hotel Majestic\, 1500 Sutter St\, San Francisco\, CA 94109
+END:VEVENT
+BEGIN:VEVENT
 UID:arab-film-festival-edward-said-between-worlds-ce673b1f@sf-events
 DTSTAMP:20261109T014500Z
 DTSTART:20261109T014500Z
@@ -750,6 +875,22 @@ URL:https://themarsh.org/shows_and_events/runs/conundrum-chronicles/
 LOCATION:The Marsh\, 1062 Valencia St\, San Francisco\, CA 94110
 END:VEVENT
 BEGIN:VEVENT
+UID:kqed-live-paint-sip-play-a-mission-district-loter-a-night-e5f2f96f@sf-
+ events
+DTSTAMP:20261111T030000Z
+DTSTART:20261111T030000Z
+DTEND:20261111T050000Z
+SUMMARY:KQED Live: Paint\, Sip & Play - a Mission District lotería night
+DESCRIPTION:Paint your own lotería board\, then play a game of Mission Lo
+ tería whose cards tell the history of the Mission District. Drag Laureat
+ e Per Sia performs\, and one of the neighborhood's cultural keepers tells
+  the stories behind the cards.\nPrice: $25 + fees\nhttps://www.kqed.org/e
+ vent/6827/paint-sip-play-a-mission-district-game-night
+URL:https://www.kqed.org/event/6827/paint-sip-play-a-mission-district-game
+ -night
+LOCATION:The Commons at KQED\, 2601 Mariposa St\, San Francisco\, CA 94110
+END:VEVENT
+BEGIN:VEVENT
 UID:claudio-simonetti-s-goblin-performs-the-live-score-to-tenebr-dda3a5b6@
  sf-events
 DTSTAMP:20261111T033000Z
@@ -790,6 +931,20 @@ DESCRIPTION:Discussion evening on AI and power concentration\, listed on b
  luma.com/aisafety-few8
 URL:https://luma.com/aisafety-few8
 LOCATION:San Francisco (address on Luma after registering)
+END:VEVENT
+BEGIN:VEVENT
+UID:trivia-night-at-manny-s-0fa2e4e7@sf-events
+DTSTAMP:20261112T030000Z
+DTSTART:20261112T030000Z
+DTEND:20261112T050000Z
+SUMMARY:Trivia Night at Manny's
+DESCRIPTION:Manny's free second-Wednesday pub-style trivia with drinks. It
+ 's a relaxed way to join a team and meet people in the Mission.\nPrice: F
+ ree\nhttps://www.eventbrite.com/e/trivia-night-at-mannys-tickets-19959880
+ 44973
+URL:https://www.eventbrite.com/e/trivia-night-at-mannys-tickets-1995988044
+ 973
+LOCATION:Manny's\, 3092 16th St\, San Francisco\, CA 94103
 END:VEVENT
 BEGIN:VEVENT
 UID:san-francisco-wednesday-contra-dance-beginner-lesson-7-30-a244ba72@sf-
@@ -867,6 +1022,70 @@ LOCATION:California Academy of Sciences\, 55 Music Concourse Dr\, Golden G
  ate Park\, San Francisco\, CA 94118
 END:VEVENT
 BEGIN:VEVENT
+UID:mark-danner-crossing-the-rubicon-in-conversation-with-guy-ma-a3aff1b1@
+ sf-events
+DTSTAMP:20261113T030000Z
+DTSTART:20261113T030000Z
+DTEND:20261113T050000Z
+SUMMARY:Mark Danner: Crossing the Rubicon\, in conversation with Guy Marzo
+ rati
+DESCRIPTION:Journalist and MacArthur Fellow Mark Danner discusses his coll
+ ected essays tracing the erosion of American democratic institutions from
+  Bush v. Gore to 2026\, with KQED's Guy Marzorati. The talk is in the sto
+ re at the landmark Beat-era bookshop.\nPrice: Free (first come\, first se
+ rved)\nhttps://citylights.com/events/mark-danner/
+URL:https://citylights.com/events/mark-danner/
+LOCATION:City Lights Booksellers\, 261 Columbus Ave\, San Francisco\, CA 9
+ 4133
+END:VEVENT
+BEGIN:VEVENT
+UID:arab-film-festival-under-the-stars-spices-and-lies-free-outd-79d358ef@
+ sf-events
+DTSTAMP:20261113T033000Z
+DTSTART:20261113T033000Z
+DTEND:20261113T053000Z
+SUMMARY:Arab Film Festival Under the Stars: Spices and Lies (free outdoor 
+ screening)
+DESCRIPTION:The 30th Arab Film Festival's first-ever outdoor screening is 
+ Spices and Lies\, a French-Algerian romantic comedy starring Hiam Abbas. 
+ Shawarma and kunafa vendors are on site in Hayes Valley's open-air PROXY 
+ lot.\nPrice: Free (RSVP)\nhttps://aff30.arabfilmfestival.org/events
+URL:https://aff30.arabfilmfestival.org/events
+LOCATION:The PROXY\, 432 Octavia St\, San Francisco\, CA 94102
+END:VEVENT
+BEGIN:VEVENT
+UID:mahal-mural-unveiling-mini-block-party-soma-filipinas-83560ede@sf-even
+ ts
+DTSTAMP:20261114T020000Z
+DTSTART:20261114T020000Z
+DTEND:20261114T060000Z
+SUMMARY:Mahal Mural Unveiling + mini block party (SoMa Filipinas)
+DESCRIPTION:UNDSCVRD SF unveils two large new murals in the Filipino Cultu
+ ral District alley. A free block party follows\, with art activities\, a 
+ fashion show and love-song karaoke.\nPrice: Free (RSVP)\nhttps://luma.com
+ /uvfqed21
+URL:https://luma.com/uvfqed21
+LOCATION:Jessie West Street (at 5th & Mission)\, Jessie West St at 5th St\
+ , San Francisco\, CA 94103
+END:VEVENT
+BEGIN:VEVENT
+UID:kevin-starr-lecture-re-interpreting-anza-250-sf-historical-s-5262b5d2@
+ sf-events
+DTSTAMP:20261114T020000Z
+DTSTART:20261114T020000Z
+DTEND:20261114T040000Z
+SUMMARY:Kevin Starr Lecture: (Re)interpreting Anza 250 (SF Historical Soci
+ ety)
+DESCRIPTION:The SF Historical Society's 8th annual Kevin Starr Lecture: a 
+ panel on the legacy and conflicts of the 1776 Anza Expedition\, which led
+  to the founding of the Presidio and Mission Dolores. The reception is at
+  6pm and the lecture at 6:30.\nPrice: Free (suggested $25 donation)\nhttp
+ s://givebutter.com/KevinStarr8
+URL:https://givebutter.com/KevinStarr8
+LOCATION:University of San Francisco\, 2130 Fulton St\, San Francisco\, CA
+  94117
+END:VEVENT
+BEGIN:VEVENT
 UID:pyramid-dance-ean-golden-11cd6cf1@sf-events
 DTSTAMP:20261114T030000Z
 DTSTART:20261114T030000Z
@@ -908,6 +1127,37 @@ URL:https://www.eventbrite.com/e/fall-sf-international-tea-festival-2026-t
  ickets-1994590750628
 LOCATION:Ferry Building Marketplace\, 1 Ferry Building\, San Francisco\, C
  A 94111
+END:VEVENT
+BEGIN:VEVENT
+UID:renegade-craft-holiday-fair-san-francisco-92fd611e@sf-events
+DTSTAMP:20261114T190000Z
+DTSTART:20261114T190000Z
+DTEND:20261115T010000Z
+SUMMARY:Renegade Craft Holiday Fair San Francisco
+DESCRIPTION:A big holiday craft fair with 250+ curated independent makers 
+ on the waterfront at Fort Mason. It also runs Sunday Nov 15\, 11am-5pm.\n
+ Price: Free ($5 suggested)\nhttps://www.renegadecraft.com/event/san-franc
+ isco-winter/
+URL:https://www.renegadecraft.com/event/san-francisco-winter/
+LOCATION:Fort Mason Center Festival Pavilion\, 2 Marina Blvd\, San Francis
+ co\, CA 94123
+END:VEVENT
+BEGIN:VEVENT
+UID:sf-city-guides-free-walking-tour-scandalous-murals-of-rincon-ad8c34b5@
+ sf-events
+DTSTAMP:20261114T210000Z
+DTSTART:20261114T210000Z
+DTEND:20261114T230000Z
+SUMMARY:SF City Guides free walking tour: Scandalous Murals of Rincon Cent
+ er
+DESCRIPTION:A free volunteer-led indoor tour of the controversial WPA-era 
+ murals in the former Rincon Annex post office\, a few blocks from home. T
+ he meeting point is the east end of the historic lobby near Mission & Ste
+ uart.\nPrice: Free (donations welcome)\nhttps://www.sfcityguides.org/find
+ -your-tour/?visit=2026-11-14
+URL:https://www.sfcityguides.org/find-your-tour/?visit=2026-11-14
+LOCATION:Rincon Center (historic lobby\, east end)\, 101 Spear St\, San Fr
+ ancisco\, CA 94105
 END:VEVENT
 BEGIN:VEVENT
 UID:abiogenesis-philip-beesley-casey-curran-opening-sf-art-week-06cced09@s
@@ -982,6 +1232,22 @@ URL:https://www.eventbrite.com/e/movement-ecstatic-dance-sf-sasha-rose-reg
  istration-2003798827233
 LOCATION:Sacred Heart Church (MOVEMENT)\, 554 Fillmore St\, San Francisco\
  , CA 94117
+END:VEVENT
+BEGIN:VEVENT
+UID:playful-sunset-ocean-dance-silent-disco-on-ocean-beach-c2a50176@sf-eve
+ nts
+DTSTAMP:20261116T000000Z
+DTSTART:20261116T000000Z
+DTEND:20261116T013000Z
+SUMMARY:Playful Sunset Ocean Dance (silent disco on Ocean Beach)
+DESCRIPTION:A playful-themed sunset silent-disco dance on Ocean Beach with
+  headphones provided. It's a sober\, ecstatic-dance-style session on the 
+ sand.\nPrice: $39.19\nhttps://www.eventbrite.com/e/playful-sunset-ocean-d
+ ance-tickets-2001711492960
+URL:https://www.eventbrite.com/e/playful-sunset-ocean-dance-tickets-200171
+ 1492960
+LOCATION:Ocean Beach (Great Highway at Balboa St)\, Great Highway & Balboa
+  St\, San Francisco\, CA 94121
 END:VEVENT
 BEGIN:VEVENT
 UID:ben-buchanan-superintelligence-superpowers-and-the-fate-of-t-c475682b@
@@ -1071,6 +1337,20 @@ URL:https://grayarea.org/event/patch-bay-interactive-worlds-ai-figma-works
 LOCATION:Gray Area\, 2665 Mission St\, San Francisco\, CA 94110
 END:VEVENT
 BEGIN:VEVENT
+UID:casey-s-craft-club-beaded-necklaces-8a15b8b2@sf-events
+DTSTAMP:20261119T023000Z
+DTSTART:20261119T023000Z
+DTEND:20261119T053000Z
+SUMMARY:Casey's Craft Club: Beaded Necklaces
+DESCRIPTION:A drop-in evening craft club where you make a beaded necklace\
+ , with all materials provided. It's billed as a space to get crafty and m
+ eet new friends.\nPrice: $44.52\nhttps://www.eventbrite.com/e/caseys-craf
+ t-club-beaded-necklaces-tickets-2003249283533
+URL:https://www.eventbrite.com/e/caseys-craft-club-beaded-necklaces-ticket
+ s-2003249283533
+LOCATION:Common Space\, 3108B Fillmore St\, San Francisco\, CA 94123
+END:VEVENT
+BEGIN:VEVENT
 UID:jenny-tian-ripe-f07eadcf@sf-events
 DTSTAMP:20261119T033000Z
 DTSTART:20261119T033000Z
@@ -1111,6 +1391,24 @@ DESCRIPTION:Scott Kildall and Kal Spelletich give a three-act performance
 URL:https://grayarea.org/event/micro-to-macro-sound-robots/
 LOCATION:Gray Area (Grand Theater)\, 2665 Mission St\, San Francisco\, CA 
  94110
+END:VEVENT
+BEGIN:VEVENT
+UID:daniel-duane-yosemite-falls-reckoning-with-california-histor-b2aeb197@
+ sf-events
+DTSTAMP:20261120T030000Z
+DTSTART:20261120T030000Z
+DTEND:20261120T050000Z
+SUMMARY:Daniel Duane: Yosemite Falls - Reckoning with California History a
+ nd the Gospel of John Muir
+DESCRIPTION:SF climber-writer Daniel Duane launches his new book\, which r
+ e-examines John Muir\, Yosemite and California's outdoor mythology agains
+ t the state's darker history. It's in the store at the Haight's classic i
+ ndie bookshop.\nPrice: Free ($3 sliding-scale seat guarantee optional)\nh
+ ttps://booksmith.com/event/2026-11-19/booksmith-presents-daniel-duane-yos
+ emite-falls-reckoning-california-history-and
+URL:https://booksmith.com/event/2026-11-19/booksmith-presents-daniel-duane
+ -yosemite-falls-reckoning-california-history-and
+LOCATION:The Booksmith\, 1727 Haight St\, San Francisco\, CA 94117
 END:VEVENT
 BEGIN:VEVENT
 UID:cannelle-popscene-a92ff22a@sf-events
@@ -1167,6 +1465,55 @@ DESCRIPTION:Playtest #3 of 'The Commons Problem'\, a new game about collec
  g
 URL:https://luma.com/b9n3leog
 LOCATION:Mox\, 1680 Mission St\, San Francisco\, CA 94103
+END:VEVENT
+BEGIN:VEVENT
+UID:bats-improv-intro-to-improv-with-diana-brown-single-session-4aa26e59@s
+ f-events
+DTSTAMP:20261121T223000Z
+DTSTART:20261121T223000Z
+DTEND:20261122T013000Z
+SUMMARY:BATS Improv: Intro to Improv with Diana Brown (single session)
+DESCRIPTION:A one-off three-hour taster class at SF's 40-year-old improv t
+ heatre school\, made for complete beginners. You learn the basics of sayi
+ ng yes\, listening and building scenes\, and it's a very easy way to meet
+  people.\nPrice: $76.41\nhttps://www.eventbrite.com/e/intro-to-improv-wit
+ h-diana-brown-sch-tickets-1996317934682
+URL:https://www.eventbrite.com/e/intro-to-improv-with-diana-brown-sch-tick
+ ets-1996317934682
+LOCATION:BATS Annex\, Fort Mason Center\, 2 Marina Blvd\, Bldg C\, Suite 3
+ 65\, San Francisco\, CA 94123
+END:VEVENT
+BEGIN:VEVENT
+UID:fall-holiday-chocolate-salon-and-festival-5e47cead@sf-events
+DTSTAMP:20261122T190000Z
+DTSTART:20261122T190000Z
+DTEND:20261123T003000Z
+SUMMARY:Fall Holiday Chocolate Salon and Festival
+DESCRIPTION:A tasting fair of artisan and craft chocolatiers and confectio
+ ners in Golden Gate Park's County Fair Building. You sample and buy direc
+ t from the makers.\nPrice: $13.07-$21.99\nhttps://www.eventbrite.com/e/fa
+ ll-holiday-chocolate-salon-and-festival-2026-tickets-1992262091546
+URL:https://www.eventbrite.com/e/fall-holiday-chocolate-salon-and-festival
+ -2026-tickets-1992262091546
+LOCATION:San Francisco County Fair Building (Hall of Flowers)\, Golden Gat
+ e Park\, 1199 9th Ave (at Lincoln Way)\, San Francisco\, CA 94122
+END:VEVENT
+BEGIN:VEVENT
+UID:annalee-newitz-in-conversation-with-soleil-ho-automatic-nood-64ebbbf5@
+ sf-events
+DTSTAMP:20261122T220000Z
+DTSTART:20261122T220000Z
+DTEND:20261122T233000Z
+SUMMARY:Annalee Newitz in conversation with Soleil Ho: Automatic Noodle
+DESCRIPTION:Science journalist and SF author Annalee Newitz talks with foo
+ d critic Soleil Ho about automation\, labor and community\, through Newit
+ z's novel about friends who build a robot-run restaurant.\nPrice: Free\nh
+ ttps://sfpl.org/events/2026/11/22/author-annalee-newitz-conversation-sole
+ il-ho
+URL:https://sfpl.org/events/2026/11/22/author-annalee-newitz-conversation-
+ soleil-ho
+LOCATION:San Francisco Main Library\, Koret Auditorium\, 100 Larkin St\, S
+ an Francisco\, CA 94102
 END:VEVENT
 BEGIN:VEVENT
 UID:berkeley-fest-noz-breton-dance-party-with-live-band-2018cf5b@sf-events
@@ -1273,6 +1620,22 @@ URL:https://longnow.org/talks/02026-prelinger/
 LOCATION:Herbst Theatre\, 401 Van Ness Ave\, San Francisco\, CA 94102
 END:VEVENT
 BEGIN:VEVENT
+UID:julia-harte-americans-without-borders-81b44f80@sf-events
+DTSTAMP:20261202T030000Z
+DTSTART:20261202T030000Z
+DTEND:20261202T050000Z
+SUMMARY:Julia Harte: Americans Without Borders
+DESCRIPTION:Investigative journalist Julia Harte\, with Elaine Elinson\, o
+ n two centuries of Americans who joined liberation movements abroad and w
+ ere persecuted at home. The story starts with her relative Sheldon Harte\
+ , Trotsky's bodyguard killed in 1940.\nPrice: Free (first come\, first se
+ rved)\nhttps://citylights.com/events/julia-harte-americans-without-border
+ s/
+URL:https://citylights.com/events/julia-harte-americans-without-borders/
+LOCATION:City Lights Booksellers\, 261 Columbus Ave\, San Francisco\, CA 9
+ 4133
+END:VEVENT
+BEGIN:VEVENT
 UID:woodchopper-s-ball-live-band-swing-night-5904beea@sf-events
 DTSTAMP:20261202T050000Z
 DTSTART:20261202T050000Z
@@ -1343,6 +1706,23 @@ URL:https://www.ticketmaster.com/greg-fitzsimmons-san-francisco-california
  -12-03-2026/event/1C006503E154993C
 LOCATION:Punch Line San Francisco\, 444 Battery St\, San Francisco\, CA 94
  111
+END:VEVENT
+BEGIN:VEVENT
+UID:rosanna-xia-california-against-the-sea-in-conversation-with--d9754634@
+ sf-events
+DTSTAMP:20261205T210000Z
+DTSTART:20261205T210000Z
+DTEND:20261205T223000Z
+SUMMARY:Rosanna Xia: California Against the Sea\, in conversation with Mar
+ ina Psaros
+DESCRIPTION:Pulitzer-finalist LA Times environment reporter Rosanna Xia ta
+ lks about sea-level rise and the hard choices ahead for California's coas
+ tline\, infrastructure and beach communities.\nPrice: Free\nhttps://sfpl.
+ org/events/2026/12/05/author-rosanna-xia-conversation-marina-psaros
+URL:https://sfpl.org/events/2026/12/05/author-rosanna-xia-conversation-mar
+ ina-psaros
+LOCATION:San Francisco Main Library\, Koret Auditorium\, 100 Larkin St\, S
+ an Francisco\, CA 94102
 END:VEVENT
 BEGIN:VEVENT
 UID:sonny-his-rhinestone-sunsets-kelly-mcfarling-noelle-the-dese-adda0ee2@

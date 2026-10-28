@@ -189,6 +189,25 @@
     "id": "exploratorium-after-dark-creepatorium-halloween-2e26ef98"
   },
   {
+    "title": "Philosophy Salon with The Paradox Lab: Philosophical Zombies",
+    "start": "2026-10-29T18:00:00-07:00",
+    "end": "2026-10-29T19:30:00-07:00",
+    "venue": "Manny's",
+    "address": "3092 16th St, San Francisco, CA 94103",
+    "url": "https://www.eventbrite.com/e/philosophy-salon-with-the-paradox-lab-philosophical-zombies-tickets-2001407172730",
+    "source": "venue:mannys",
+    "tags": [
+      "talk",
+      "community"
+    ],
+    "price": "$10-$15",
+    "description": "A Halloween-themed discussion salon on philosophical zombies, the thought experiment about whether a being could act exactly like us with no inner experience. It's a small, conversational format at Manny's civic café, so it's easy to talk to people.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 13,
+    "added": "2026-10-28",
+    "id": "philosophy-salon-with-the-paradox-lab-philosophical-zombies-be19d75d"
+  },
+  {
     "title": "36th Annual Blindfold Throwing Contest (CCA Ceramics)",
     "start": "2026-10-29T18:30:00-07:00",
     "end": "2026-10-29T21:30:00-07:00",
@@ -262,6 +281,26 @@
     "cycle_minutes": 27,
     "added": "2026-10-26",
     "id": "irish-set-dancing-at-the-plough-and-stars-barry-o-connell-vi-905a09e8"
+  },
+  {
+    "title": "Kirk Lombard book release: The Shadow Stream",
+    "start": "2026-10-30T18:30:00-07:00",
+    "end": "2026-10-30T20:00:00-07:00",
+    "venue": "Sports Basement Presidio (The Dairy)",
+    "address": "610 Old Mason St, San Francisco, CA 94129",
+    "url": "https://presidio.gov/explore/events/book-release-with-green-apple-and-kirk-lombard-at-sports-basement/",
+    "source": "venue:green-apple-books",
+    "tags": [
+      "talk",
+      "food",
+      "music"
+    ],
+    "price": "Free (RSVP)",
+    "description": "Green Apple Books hosts Bay Area forager, angler and sustainable fishmonger Kirk Lombard (Sea Forager's Guide to the Northern California Coast) launching his new book. There are refreshments and live music before the talk.",
+    "neighbourhood": "Presidio",
+    "cycle_minutes": 27,
+    "added": "2026-10-28",
+    "id": "kirk-lombard-book-release-the-shadow-stream-20d071e2"
   },
   {
     "title": "Cityswoon Halloween Eve Date Night (ages 28-42)",
@@ -468,6 +507,25 @@
     "id": "irish-trad-seisi-n-at-the-plough-and-stars-fdbfc4eb"
   },
   {
+    "title": "Full Moon Sunset Ocean Dance (silent disco on Ocean Beach)",
+    "start": "2026-11-01T16:30:00-08:00",
+    "end": "2026-11-01T18:00:00-08:00",
+    "venue": "Ocean Beach (Great Highway at Balboa St)",
+    "address": "Great Highway & Balboa St, San Francisco, CA 94121",
+    "url": "https://www.eventbrite.com/e/full-moon-sunset-ocean-dance-tickets-2001711223153",
+    "source": "aggregator:eventbrite",
+    "tags": [
+      "dance",
+      "outdoors"
+    ],
+    "price": "$39.19",
+    "description": "An open-air silent-disco dance on the sand at sunset under the full moon, with headphones provided. It's conscious-dance in spirit: a sober, community movement session by the ocean.",
+    "neighbourhood": "Outer Richmond",
+    "cycle_minutes": 45,
+    "added": "2026-10-28",
+    "id": "full-moon-sunset-ocean-dance-silent-disco-on-ocean-beach-f44dc7ac"
+  },
+  {
     "title": "Los Gaiteros de San Jacinto, Fruko y sus Tesos & Carmelo Torres: Madre Cumbia",
     "start": "2026-11-02T19:30:00-08:00",
     "end": null,
@@ -638,6 +696,25 @@
     "id": "exploratorium-after-dark-digest-this-0af04c0b"
   },
   {
+    "title": "KQED Live: Happy Hour Showdown (Bites, Bevs and Karaoke)",
+    "start": "2026-11-05T19:00:00-08:00",
+    "end": null,
+    "venue": "The Commons at KQED",
+    "address": "2601 Mariposa St, San Francisco, CA 94110",
+    "url": "https://www.kqed.org/event/6821/happy-hour-showdown",
+    "source": "venue:kqed-live",
+    "tags": [
+      "food",
+      "community"
+    ],
+    "price": "$25 + fees (drink samples and bites included)",
+    "description": "A tasting-and-talk evening on the world's after-work rituals, from Spanish hora del aperitivo and Japanese nomikai to American craft-brewery culture, with samples, shared plates and karaoke. It's a sociable night at KQED's own venue.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 13,
+    "added": "2026-10-28",
+    "id": "kqed-live-happy-hour-showdown-bites-bevs-and-karaoke-3fd050de"
+  },
+  {
     "title": "Georgia Parker with Tashi T",
     "start": "2026-11-05T20:15:00-08:00",
     "end": "2026-11-05T22:30:00-08:00",
@@ -751,6 +828,44 @@
     "cycle_minutes": 22,
     "added": "2026-10-26",
     "id": "san-francisco-coffee-festival-2026-10th-annual-b2551baf"
+  },
+  {
+    "title": "The San Francisco Fall Cider Fest",
+    "start": "2026-11-07T12:00:00-08:00",
+    "end": "2026-11-07T16:00:00-08:00",
+    "venue": "SPARK Social SF",
+    "address": "601 Mission Bay Blvd North, San Francisco, CA 94158",
+    "url": "https://www.eventbrite.com/e/the-san-francisco-fall-cider-fest-tickets-1998827487823",
+    "source": "aggregator:eventbrite",
+    "tags": [
+      "food",
+      "festival"
+    ],
+    "price": "$30-$60",
+    "description": "An afternoon cider-tasting festival at the SPARK Social food-truck park in Mission Bay, with a 'Camp SPARK' autumn theme. It's strictly 21+.",
+    "neighbourhood": "Mission Bay",
+    "cycle_minutes": 8,
+    "added": "2026-10-28",
+    "id": "the-san-francisco-fall-cider-fest-090d66ac"
+  },
+  {
+    "title": "SF City Guides free walking tour: Making Waves on the Waterfront",
+    "start": "2026-11-07T14:00:00-08:00",
+    "end": null,
+    "venue": "Ferry Building (meet under the clock tower)",
+    "address": "Ferry Building, 1 Ferry Building, San Francisco, CA 94111",
+    "url": "https://www.sfcityguides.org/find-your-tour/?visit=2026-11-07",
+    "source": "venue:sf-city-guides",
+    "tags": [
+      "outdoors",
+      "community"
+    ],
+    "price": "Free (donations welcome)",
+    "description": "A free volunteer-led history walk along the flat northern waterfront, covering the inventors (denim jeans, TV) and labor and human-rights organizers who shaped the city. It ends at Levi Plaza after about 1.5-2 hours.",
+    "neighbourhood": "Embarcadero",
+    "cycle_minutes": 5,
+    "added": "2026-10-28",
+    "id": "sf-city-guides-free-walking-tour-making-waves-on-the-waterfr-ebf3100c"
   },
   {
     "title": "1st Saturday Irish trad session at the Plough and Stars",
@@ -885,6 +1000,44 @@
     "cycle_minutes": 10
   },
   {
+    "title": "New Moon Sunset Ocean Dance (silent disco on Ocean Beach)",
+    "start": "2026-11-08T16:00:00-08:00",
+    "end": "2026-11-08T17:30:00-08:00",
+    "venue": "Ocean Beach (Great Highway at Balboa St)",
+    "address": "Great Highway & Balboa St, San Francisco, CA 94121",
+    "url": "https://www.eventbrite.com/e/new-moon-sunset-ocean-dance-tickets-2001711271297",
+    "source": "aggregator:eventbrite",
+    "tags": [
+      "dance",
+      "outdoors"
+    ],
+    "price": "$39.19",
+    "description": "A sunset silent-disco dance on Ocean Beach with headphones provided. It's a sober, ecstatic-dance-style community session with the ocean as the backdrop.",
+    "neighbourhood": "Outer Richmond",
+    "cycle_minutes": 45,
+    "added": "2026-10-28",
+    "id": "new-moon-sunset-ocean-dance-silent-disco-on-ocean-beach-20d678ad"
+  },
+  {
+    "title": "Cooking class: Authentic Asian Dumplings",
+    "start": "2026-11-08T17:00:00-08:00",
+    "end": "2026-11-08T19:00:00-08:00",
+    "venue": "The Hotel Majestic",
+    "address": "1500 Sutter St, San Francisco, CA 94109",
+    "url": "https://www.eventbrite.com/e/in-person-class-authentic-asian-dumplings-san-francisco-tickets-2000229625655",
+    "source": "aggregator:eventbrite",
+    "tags": [
+      "class",
+      "food"
+    ],
+    "price": "$64.80",
+    "description": "A two-hour hands-on class folding and cooking Asian dumplings from scratch, aimed at beginners. You eat what you make.",
+    "neighbourhood": "Cathedral Hill",
+    "cycle_minutes": 15,
+    "added": "2026-10-28",
+    "id": "cooking-class-authentic-asian-dumplings-a5d7c594"
+  },
+  {
     "title": "Arab Film Festival: Edward Said: Between Worlds",
     "start": "2026-11-08T17:45:00-08:00",
     "end": null,
@@ -959,6 +1112,25 @@
     "id": "conundrum-chronicles-storyslam-turning-point-d1bbce13"
   },
   {
+    "title": "KQED Live: Paint, Sip & Play - a Mission District lotería night",
+    "start": "2026-11-10T19:00:00-08:00",
+    "end": null,
+    "venue": "The Commons at KQED",
+    "address": "2601 Mariposa St, San Francisco, CA 94110",
+    "url": "https://www.kqed.org/event/6827/paint-sip-play-a-mission-district-game-night",
+    "source": "venue:kqed-live",
+    "tags": [
+      "art",
+      "community"
+    ],
+    "price": "$25 + fees",
+    "description": "Paint your own lotería board, then play a game of Mission Lotería whose cards tell the history of the Mission District. Drag Laureate Per Sia performs, and one of the neighborhood's cultural keepers tells the stories behind the cards.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 13,
+    "added": "2026-10-28",
+    "id": "kqed-live-paint-sip-play-a-mission-district-loter-a-night-e5f2f96f"
+  },
+  {
     "title": "Claudio Simonetti's Goblin performs the live score to Tenebre",
     "start": "2026-11-10T19:30:00-08:00",
     "end": null,
@@ -1013,6 +1185,24 @@
     "description": "Discussion evening on AI and power concentration, listed on both the Mox and AI Safety SF calendars (address shared with registrants — likely Mox in the Mission).",
     "added": "2026-10-26",
     "neighbourhood": "San Francisco"
+  },
+  {
+    "title": "Trivia Night at Manny's",
+    "start": "2026-11-11T19:00:00-08:00",
+    "end": "2026-11-11T21:00:00-08:00",
+    "venue": "Manny's",
+    "address": "3092 16th St, San Francisco, CA 94103",
+    "url": "https://www.eventbrite.com/e/trivia-night-at-mannys-tickets-1995988044973",
+    "source": "venue:mannys",
+    "tags": [
+      "community"
+    ],
+    "price": "Free",
+    "description": "Manny's free second-Wednesday pub-style trivia with drinks. It's a relaxed way to join a team and meet people in the Mission.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 13,
+    "added": "2026-10-28",
+    "id": "trivia-night-at-manny-s-0fa2e4e7"
   },
   {
     "title": "San Francisco Wednesday Contra Dance (beginner lesson 7:30)",
@@ -1109,6 +1299,81 @@
     "id": "cal-academy-nightlife-pajammy-jam-21-bdbcbe90"
   },
   {
+    "title": "Mark Danner: Crossing the Rubicon, in conversation with Guy Marzorati",
+    "start": "2026-11-12T19:00:00-08:00",
+    "end": null,
+    "venue": "City Lights Booksellers",
+    "address": "261 Columbus Ave, San Francisco, CA 94133",
+    "url": "https://citylights.com/events/mark-danner/",
+    "source": "venue:city-lights",
+    "tags": [
+      "talk"
+    ],
+    "price": "Free (first come, first served)",
+    "description": "Journalist and MacArthur Fellow Mark Danner discusses his collected essays tracing the erosion of American democratic institutions from Bush v. Gore to 2026, with KQED's Guy Marzorati. The talk is in the store at the landmark Beat-era bookshop.",
+    "neighbourhood": "North Beach",
+    "cycle_minutes": 10,
+    "added": "2026-10-28",
+    "id": "mark-danner-crossing-the-rubicon-in-conversation-with-guy-ma-a3aff1b1"
+  },
+  {
+    "title": "Arab Film Festival Under the Stars: Spices and Lies (free outdoor screening)",
+    "start": "2026-11-12T19:30:00-08:00",
+    "end": null,
+    "venue": "The PROXY",
+    "address": "432 Octavia St, San Francisco, CA 94102",
+    "url": "https://aff30.arabfilmfestival.org/events",
+    "source": "venue:arab-film-festival",
+    "tags": [
+      "film",
+      "outdoors",
+      "food"
+    ],
+    "price": "Free (RSVP)",
+    "description": "The 30th Arab Film Festival's first-ever outdoor screening is Spices and Lies, a French-Algerian romantic comedy starring Hiam Abbas. Shawarma and kunafa vendors are on site in Hayes Valley's open-air PROXY lot.",
+    "neighbourhood": "Hayes Valley",
+    "cycle_minutes": 11,
+    "added": "2026-10-28",
+    "id": "arab-film-festival-under-the-stars-spices-and-lies-free-outd-79d358ef"
+  },
+  {
+    "title": "Mahal Mural Unveiling + mini block party (SoMa Filipinas)",
+    "start": "2026-11-13T18:00:00-08:00",
+    "end": "2026-11-13T22:00:00-08:00",
+    "venue": "Jessie West Street (at 5th & Mission)",
+    "address": "Jessie West St at 5th St, San Francisco, CA 94103",
+    "url": "https://luma.com/uvfqed21",
+    "source": "aggregator:funcheap",
+    "tags": [
+      "art",
+      "community"
+    ],
+    "price": "Free (RSVP)",
+    "description": "UNDSCVRD SF unveils two large new murals in the Filipino Cultural District alley. A free block party follows, with art activities, a fashion show and love-song karaoke.",
+    "neighbourhood": "SoMa",
+    "cycle_minutes": 4,
+    "added": "2026-10-28",
+    "id": "mahal-mural-unveiling-mini-block-party-soma-filipinas-83560ede"
+  },
+  {
+    "title": "Kevin Starr Lecture: (Re)interpreting Anza 250 (SF Historical Society)",
+    "start": "2026-11-13T18:00:00-08:00",
+    "end": null,
+    "venue": "University of San Francisco",
+    "address": "2130 Fulton St, San Francisco, CA 94117",
+    "url": "https://givebutter.com/KevinStarr8",
+    "source": "aggregator:funcheap",
+    "tags": [
+      "talk"
+    ],
+    "price": "Free (suggested $25 donation)",
+    "description": "The SF Historical Society's 8th annual Kevin Starr Lecture: a panel on the legacy and conflicts of the 1776 Anza Expedition, which led to the founding of the Presidio and Mission Dolores. The reception is at 6pm and the lecture at 6:30.",
+    "neighbourhood": "Lone Mountain",
+    "cycle_minutes": 24,
+    "added": "2026-10-28",
+    "id": "kevin-starr-lecture-re-interpreting-anza-250-sf-historical-s-5262b5d2"
+  },
+  {
     "title": "Pyramid Dance // Ean Golden",
     "start": "2026-11-13T19:00:00-08:00",
     "end": "2026-11-13T22:10:00-08:00",
@@ -1165,6 +1430,44 @@
     "cycle_minutes": 5,
     "added": "2026-10-26",
     "id": "fall-sf-international-tea-festival-56b250fa"
+  },
+  {
+    "title": "Renegade Craft Holiday Fair San Francisco",
+    "start": "2026-11-14T11:00:00-08:00",
+    "end": "2026-11-14T17:00:00-08:00",
+    "venue": "Fort Mason Center Festival Pavilion",
+    "address": "2 Marina Blvd, San Francisco, CA 94123",
+    "url": "https://www.renegadecraft.com/event/san-francisco-winter/",
+    "source": "venue:renegade-craft",
+    "tags": [
+      "market",
+      "art"
+    ],
+    "price": "Free ($5 suggested)",
+    "description": "A big holiday craft fair with 250+ curated independent makers on the waterfront at Fort Mason. It also runs Sunday Nov 15, 11am-5pm.",
+    "neighbourhood": "Marina",
+    "cycle_minutes": 22,
+    "added": "2026-10-28",
+    "id": "renegade-craft-holiday-fair-san-francisco-92fd611e"
+  },
+  {
+    "title": "SF City Guides free walking tour: Scandalous Murals of Rincon Center",
+    "start": "2026-11-14T13:00:00-08:00",
+    "end": null,
+    "venue": "Rincon Center (historic lobby, east end)",
+    "address": "101 Spear St, San Francisco, CA 94105",
+    "url": "https://www.sfcityguides.org/find-your-tour/?visit=2026-11-14",
+    "source": "venue:sf-city-guides",
+    "tags": [
+      "art",
+      "community"
+    ],
+    "price": "Free (donations welcome)",
+    "description": "A free volunteer-led indoor tour of the controversial WPA-era murals in the former Rincon Annex post office, a few blocks from home. The meeting point is the east end of the historic lobby near Mission & Steuart.",
+    "neighbourhood": "SoMa",
+    "cycle_minutes": 3,
+    "added": "2026-10-28",
+    "id": "sf-city-guides-free-walking-tour-scandalous-murals-of-rincon-ad8c34b5"
   },
   {
     "title": "Abiogenesis: Philip Beesley & Casey Curran opening (SF Art Week)",
@@ -1257,6 +1560,25 @@
     "cycle_minutes": 15,
     "added": "2026-10-27",
     "id": "movement-ecstatic-dance-sf-sasha-rose-8deab1d9"
+  },
+  {
+    "title": "Playful Sunset Ocean Dance (silent disco on Ocean Beach)",
+    "start": "2026-11-15T16:00:00-08:00",
+    "end": "2026-11-15T17:30:00-08:00",
+    "venue": "Ocean Beach (Great Highway at Balboa St)",
+    "address": "Great Highway & Balboa St, San Francisco, CA 94121",
+    "url": "https://www.eventbrite.com/e/playful-sunset-ocean-dance-tickets-2001711492960",
+    "source": "aggregator:eventbrite",
+    "tags": [
+      "dance",
+      "outdoors"
+    ],
+    "price": "$39.19",
+    "description": "A playful-themed sunset silent-disco dance on Ocean Beach with headphones provided. It's a sober, ecstatic-dance-style session on the sand.",
+    "neighbourhood": "Outer Richmond",
+    "cycle_minutes": 45,
+    "added": "2026-10-28",
+    "id": "playful-sunset-ocean-dance-silent-disco-on-ocean-beach-c2a50176"
   },
   {
     "title": "Ben Buchanan: Superintelligence, Superpowers, and the Fate of the World",
@@ -1373,6 +1695,25 @@
     "id": "patch-bay-workshop-computational-poetry-f2f24a11"
   },
   {
+    "title": "Casey's Craft Club: Beaded Necklaces",
+    "start": "2026-11-18T18:30:00-08:00",
+    "end": "2026-11-18T21:30:00-08:00",
+    "venue": "Common Space",
+    "address": "3108B Fillmore St, San Francisco, CA 94123",
+    "url": "https://www.eventbrite.com/e/caseys-craft-club-beaded-necklaces-tickets-2003249283533",
+    "source": "aggregator:eventbrite",
+    "tags": [
+      "workshop",
+      "community"
+    ],
+    "price": "$44.52",
+    "description": "A drop-in evening craft club where you make a beaded necklace, with all materials provided. It's billed as a space to get crafty and meet new friends.",
+    "neighbourhood": "Cow Hollow",
+    "cycle_minutes": 22,
+    "added": "2026-10-28",
+    "id": "casey-s-craft-club-beaded-necklaces-8a15b8b2"
+  },
+  {
     "title": "Jenny Tian: Ripe",
     "start": "2026-11-18T19:30:00-08:00",
     "end": null,
@@ -1428,6 +1769,25 @@
     "cycle_minutes": 15,
     "added": "2026-10-26",
     "id": "micro-to-macro-microorganisms-sound-and-robots-07c39471"
+  },
+  {
+    "title": "Daniel Duane: Yosemite Falls - Reckoning with California History and the Gospel of John Muir",
+    "start": "2026-11-19T19:00:00-08:00",
+    "end": null,
+    "venue": "The Booksmith",
+    "address": "1727 Haight St, San Francisco, CA 94117",
+    "url": "https://booksmith.com/event/2026-11-19/booksmith-presents-daniel-duane-yosemite-falls-reckoning-california-history-and",
+    "source": "venue:booksmith",
+    "tags": [
+      "talk",
+      "outdoors"
+    ],
+    "price": "Free ($3 sliding-scale seat guarantee optional)",
+    "description": "SF climber-writer Daniel Duane launches his new book, which re-examines John Muir, Yosemite and California's outdoor mythology against the state's darker history. It's in the store at the Haight's classic indie bookshop.",
+    "neighbourhood": "Haight-Ashbury",
+    "cycle_minutes": 22,
+    "added": "2026-10-28",
+    "id": "daniel-duane-yosemite-falls-reckoning-with-california-histor-b2aeb197"
   },
   {
     "title": "Cannelle (Popscene)",
@@ -1501,6 +1861,64 @@
     "added": "2026-10-26",
     "neighbourhood": "Mission",
     "cycle_minutes": 13
+  },
+  {
+    "title": "BATS Improv: Intro to Improv with Diana Brown (single session)",
+    "start": "2026-11-21T14:30:00-08:00",
+    "end": "2026-11-21T17:30:00-08:00",
+    "venue": "BATS Annex, Fort Mason Center",
+    "address": "2 Marina Blvd, Bldg C, Suite 365, San Francisco, CA 94123",
+    "url": "https://www.eventbrite.com/e/intro-to-improv-with-diana-brown-sch-tickets-1996317934682",
+    "source": "venue:bats-improv",
+    "tags": [
+      "class",
+      "comedy"
+    ],
+    "price": "$76.41",
+    "description": "A one-off three-hour taster class at SF's 40-year-old improv theatre school, made for complete beginners. You learn the basics of saying yes, listening and building scenes, and it's a very easy way to meet people.",
+    "neighbourhood": "Marina",
+    "cycle_minutes": 22,
+    "added": "2026-10-28",
+    "id": "bats-improv-intro-to-improv-with-diana-brown-single-session-4aa26e59"
+  },
+  {
+    "title": "Fall Holiday Chocolate Salon and Festival",
+    "start": "2026-11-22T11:00:00-08:00",
+    "end": "2026-11-22T16:30:00-08:00",
+    "venue": "San Francisco County Fair Building (Hall of Flowers), Golden Gate Park",
+    "address": "1199 9th Ave (at Lincoln Way), San Francisco, CA 94122",
+    "url": "https://www.eventbrite.com/e/fall-holiday-chocolate-salon-and-festival-2026-tickets-1992262091546",
+    "source": "aggregator:eventbrite",
+    "tags": [
+      "food",
+      "market"
+    ],
+    "price": "$13.07-$21.99",
+    "description": "A tasting fair of artisan and craft chocolatiers and confectioners in Golden Gate Park's County Fair Building. You sample and buy direct from the makers.",
+    "neighbourhood": "Golden Gate Park",
+    "cycle_minutes": 27,
+    "added": "2026-10-28",
+    "id": "fall-holiday-chocolate-salon-and-festival-5e47cead"
+  },
+  {
+    "title": "Annalee Newitz in conversation with Soleil Ho: Automatic Noodle",
+    "start": "2026-11-22T14:00:00-08:00",
+    "end": "2026-11-22T15:30:00-08:00",
+    "venue": "San Francisco Main Library, Koret Auditorium",
+    "address": "100 Larkin St, San Francisco, CA 94102",
+    "url": "https://sfpl.org/events/2026/11/22/author-annalee-newitz-conversation-soleil-ho",
+    "source": "venue:sfpl",
+    "tags": [
+      "talk",
+      "tech",
+      "food"
+    ],
+    "price": "Free",
+    "description": "Science journalist and SF author Annalee Newitz talks with food critic Soleil Ho about automation, labor and community, through Newitz's novel about friends who build a robot-run restaurant.",
+    "neighbourhood": "Civic Center",
+    "cycle_minutes": 8,
+    "added": "2026-10-28",
+    "id": "annalee-newitz-in-conversation-with-soleil-ho-automatic-nood-64ebbbf5"
   },
   {
     "title": "Berkeley Fest Noz: Breton dance party with live band",
@@ -1632,6 +2050,24 @@
     "id": "long-now-lost-landscapes-02026-with-rick-prelinger-46a03bb4"
   },
   {
+    "title": "Julia Harte: Americans Without Borders",
+    "start": "2026-12-01T19:00:00-08:00",
+    "end": null,
+    "venue": "City Lights Booksellers",
+    "address": "261 Columbus Ave, San Francisco, CA 94133",
+    "url": "https://citylights.com/events/julia-harte-americans-without-borders/",
+    "source": "venue:city-lights",
+    "tags": [
+      "talk"
+    ],
+    "price": "Free (first come, first served)",
+    "description": "Investigative journalist Julia Harte, with Elaine Elinson, on two centuries of Americans who joined liberation movements abroad and were persecuted at home. The story starts with her relative Sheldon Harte, Trotsky's bodyguard killed in 1940.",
+    "neighbourhood": "North Beach",
+    "cycle_minutes": 10,
+    "added": "2026-10-28",
+    "id": "julia-harte-americans-without-borders-81b44f80"
+  },
+  {
     "title": "Woodchopper's Ball: live-band swing night",
     "start": "2026-12-01T21:00:00-08:00",
     "end": "2026-12-01T23:30:00-08:00",
@@ -1724,6 +2160,24 @@
     "cycle_minutes": 6,
     "added": "2026-10-27",
     "id": "greg-fitzsimmons-a57f92c4"
+  },
+  {
+    "title": "Rosanna Xia: California Against the Sea, in conversation with Marina Psaros",
+    "start": "2026-12-05T13:00:00-08:00",
+    "end": "2026-12-05T14:30:00-08:00",
+    "venue": "San Francisco Main Library, Koret Auditorium",
+    "address": "100 Larkin St, San Francisco, CA 94102",
+    "url": "https://sfpl.org/events/2026/12/05/author-rosanna-xia-conversation-marina-psaros",
+    "source": "venue:sfpl",
+    "tags": [
+      "talk"
+    ],
+    "price": "Free",
+    "description": "Pulitzer-finalist LA Times environment reporter Rosanna Xia talks about sea-level rise and the hard choices ahead for California's coastline, infrastructure and beach communities.",
+    "neighbourhood": "Civic Center",
+    "cycle_minutes": 8,
+    "added": "2026-10-28",
+    "id": "rosanna-xia-california-against-the-sea-in-conversation-with--d9754634"
   },
   {
     "title": "Sonny & His Rhinestone Sunsets, Kelly McFarling, Noelle & the Deserters",
