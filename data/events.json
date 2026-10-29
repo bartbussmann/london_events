@@ -1038,6 +1038,43 @@
     "id": "arab-film-festival-edward-said-between-worlds-ce673b1f"
   },
   {
+    "title": "The Future of Public Media: PBS CEO Paula Kerger with KQED CEO Michael Isip",
+    "start": "2026-11-09T18:00:00-08:00",
+    "end": null,
+    "venue": "Commonwealth Club World Affairs",
+    "address": "110 The Embarcadero, San Francisco, CA 94105",
+    "url": "https://www.commonwealthclub.org/events/2026-11-09/future-public-media-paula-kerger-and-michael-isip",
+    "source": "venue:commonwealth-club",
+    "tags": [
+      "talk"
+    ],
+    "price": "$25 (online $10)",
+    "description": "PBS's chief executive and KQED's CEO on how public broadcasting survives fragmented media, streaming and federal funding fights. It's co-presented with KQED Live and you can ask questions afterwards.",
+    "neighbourhood": "Embarcadero",
+    "cycle_minutes": 5,
+    "added": "2026-10-29",
+    "id": "the-future-of-public-media-pbs-ceo-paula-kerger-with-kqed-ce-bfa6fe0c"
+  },
+  {
+    "title": "ZYZZYVA Issue 133 celebration",
+    "start": "2026-11-09T19:00:00-08:00",
+    "end": "2026-11-09T20:30:00-08:00",
+    "venue": "City Lights Booksellers",
+    "address": "261 Columbus Ave, San Francisco, CA 94133",
+    "url": "https://citylights.com/events/zyzzyva-issue-133-celebration/",
+    "source": "venue:city-lights",
+    "tags": [
+      "talk",
+      "art"
+    ],
+    "price": "Free",
+    "description": "The West Coast literary journal launches its new issue with editor Oscar Villalon as MC and readings from contributors, in City Lights' upstairs room. It's free, first come first served.",
+    "neighbourhood": "North Beach",
+    "cycle_minutes": 10,
+    "added": "2026-10-29",
+    "id": "zyzzyva-issue-133-celebration-9abb735e"
+  },
+  {
     "title": "San Francisco Singles Speed Dating Game Night (30s/40s)",
     "start": "2026-11-10T19:00:00-08:00",
     "end": "2026-11-10T21:00:00-08:00",
@@ -1976,6 +2013,44 @@
     "id": "san-francisco-wednesday-contra-dance-beginner-lesson-7-30-06d062b8"
   },
   {
+    "title": "Dancegiving & Community Ocean Dance (Thanksgiving morning)",
+    "start": "2026-11-26T10:30:00-08:00",
+    "end": "2026-11-26T12:00:00-08:00",
+    "venue": "Ocean Beach (Great Highway at Balboa St)",
+    "address": "Great Highway & Balboa St, San Francisco, CA 94121",
+    "url": "https://www.eventbrite.com/e/dancegiving-community-ocean-dance-tickets-2001711340504",
+    "source": "aggregator:eventbrite",
+    "tags": [
+      "dance",
+      "outdoors",
+      "community"
+    ],
+    "price": "$33.85",
+    "description": "A Thanksgiving-morning silent-disco dance on the sand at Ocean Beach, from the Ocean Dance crew. It's daytime on a weekday, but Thanksgiving is a public holiday.",
+    "neighbourhood": "Outer Richmond",
+    "cycle_minutes": 45,
+    "added": "2026-10-29",
+    "id": "dancegiving-community-ocean-dance-thanksgiving-morning-b0cc4476"
+  },
+  {
+    "title": "Milonga Malevaje (Thanksgiving-night tango)",
+    "start": "2026-11-26T20:00:00-08:00",
+    "end": "2026-11-26T23:30:00-08:00",
+    "venue": "Verdi Club",
+    "address": "2424 Mariposa St, San Francisco, CA 94110",
+    "url": "https://www.verdiclub.net/events/milonga-malevaje-78-2-2-2-2/2026-11-26/",
+    "source": "venue:verdi-club",
+    "tags": [
+      "dance"
+    ],
+    "price": "$20",
+    "description": "The Verdi Club's weekly Thursday Argentine tango milonga on its big hardwood floor. The Verdi Club calendar still lists it on Thanksgiving night, so check before you go.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 13,
+    "added": "2026-10-29",
+    "id": "milonga-malevaje-thanksgiving-night-tango-292716a0"
+  },
+  {
     "title": "Sleepless Nights XX: A Tribute to Gram Parsons",
     "start": "2026-11-27T20:00:00-08:00",
     "end": null,
@@ -1992,6 +2067,44 @@
     "cycle_minutes": 13,
     "added": "2026-10-26",
     "id": "sleepless-nights-xx-a-tribute-to-gram-parsons-32b44499"
+  },
+  {
+    "title": "Emma Ruth Rundle with Cinder Well",
+    "start": "2026-11-27T20:00:00-08:00",
+    "end": null,
+    "venue": "Great American Music Hall",
+    "address": "859 O'Farrell St, San Francisco, CA 94109",
+    "url": "https://wl.seetickets.us/event/emma-ruth-rundle/699875?afflky=GreatAmericanMusicHall",
+    "source": "venue:gamh",
+    "tags": [
+      "music"
+    ],
+    "price": "$24 adv",
+    "description": "Haunting, intimate dark-folk songwriter Emma Ruth Rundle, with Amelia Baker's Appalachian-tinged project Cinder Well opening, in the ornate Great American Music Hall. Doors 7pm, mostly standing.",
+    "neighbourhood": "Tenderloin",
+    "cycle_minutes": 9,
+    "added": "2026-10-29",
+    "id": "emma-ruth-rundle-with-cinder-well-bebec913"
+  },
+  {
+    "title": "Kolo Festival: Balkan music & dance weekend (Saturday)",
+    "start": "2026-11-28T08:30:00-08:00",
+    "end": null,
+    "venue": "Croatian American Cultural Center",
+    "address": "60 Onondaga Ave, San Francisco, CA 94112",
+    "url": "https://kolofestival.org/",
+    "source": "keyword-search",
+    "tags": [
+      "dance",
+      "music",
+      "festival"
+    ],
+    "price": "$130 all day incl. evening party; $40 party only",
+    "description": "The 75th Kolo Festival has a day of Balkan and international folk-dance workshops where teachers walk you through every step. It ends with live-band dance parties in two rooms. Beginners are welcome, and first-timers get a discount on the weekend pass.",
+    "neighbourhood": "Excelsior",
+    "cycle_minutes": 35,
+    "added": "2026-10-29",
+    "id": "kolo-festival-balkan-music-dance-weekend-saturday-9f7a8113"
   },
   {
     "title": "Edmar Castaneda / German Lopez (Terence Blanchard's UpSwing series)",
@@ -2012,6 +2125,83 @@
     "id": "edmar-castaneda-german-lopez-terence-blanchard-s-upswing-ser-8c725add"
   },
   {
+    "title": "MOVEMENT Ecstatic Dance SF // Aguamayyim",
+    "start": "2026-11-29T10:00:00-08:00",
+    "end": "2026-11-29T13:11:00-08:00",
+    "venue": "Sacred Heart Church (MOVEMENT)",
+    "address": "554 Fillmore St, San Francisco, CA 94117",
+    "url": "https://www.eventbrite.com/e/movement-ecstatic-dance-sf-aguamayyim-registration-2003799891416",
+    "source": "venue:movement",
+    "tags": [
+      "dance",
+      "community"
+    ],
+    "price": "$30-$50",
+    "description": "SF's big Sunday-morning ecstatic dance in the nave of a landmark church, this week with DJ Aguamayyim. It's phone-free and substance-free, with an opening circle.",
+    "neighbourhood": "Lower Haight",
+    "cycle_minutes": 15,
+    "added": "2026-10-29",
+    "id": "movement-ecstatic-dance-sf-aguamayyim-ad6532f9"
+  },
+  {
+    "title": "The Great Dickens Christmas Fair",
+    "start": "2026-11-29T10:00:00-08:00",
+    "end": "2026-11-29T18:00:00-08:00",
+    "venue": "Cow Palace",
+    "address": "2600 Geneva Ave, Daly City, CA 94014",
+    "url": "https://dickensfair.com/",
+    "source": "keyword-search",
+    "tags": [
+      "festival",
+      "theatre",
+      "dance"
+    ],
+    "price": "$50 ($40 early bird; $35 after 3pm)",
+    "description": "Four acres of the Cow Palace become lamp-lit Victorian London, with pubs, music-hall theatres, costumed characters and dance parties. It's a 50-year Bay Area holiday tradition and runs weekends Nov 21-Dec 20. Muni 8 Bayshore goes nearly to the door.",
+    "neighbourhood": "Daly City (Cow Palace)",
+    "cycle_minutes": 45,
+    "added": "2026-10-29",
+    "id": "the-great-dickens-christmas-fair-1df311e0"
+  },
+  {
+    "title": "Of Poetry & Protest: 10th Anniversary Celebration",
+    "start": "2026-11-30T19:00:00-08:00",
+    "end": "2026-11-30T20:30:00-08:00",
+    "venue": "City Lights Booksellers",
+    "address": "261 Columbus Ave, San Francisco, CA 94133",
+    "url": "https://citylights.com/events/of-poetry-protest-10th-anniversary-celebration/",
+    "source": "venue:city-lights",
+    "tags": [
+      "talk",
+      "art"
+    ],
+    "price": "Free",
+    "description": "Readings celebrating ten years of the anthology Of Poetry & Protest: From Emmett Till to Trayvon Martin (ed. Michael Warr), in City Lights' upstairs poetry room.",
+    "neighbourhood": "North Beach",
+    "cycle_minutes": 10,
+    "added": "2026-10-29",
+    "id": "of-poetry-protest-10th-anniversary-celebration-3e5280f0"
+  },
+  {
+    "title": "A John Waters Christmas",
+    "start": "2026-11-30T20:00:00-08:00",
+    "end": "2026-11-30T23:00:00-08:00",
+    "venue": "Great American Music Hall",
+    "address": "859 O'Farrell St, San Francisco, CA 94109",
+    "url": "https://www.eventbrite.com/e/1989687052535",
+    "source": "venue:gamh",
+    "tags": [
+      "comedy",
+      "talk"
+    ],
+    "price": "from $78.18",
+    "description": "The Pope of Trash's annual one-man holiday monologue, a filthy, erudite and very funny SF tradition. It's 21+ and seated, doors 7pm. Expected to sell out.",
+    "neighbourhood": "Tenderloin",
+    "cycle_minutes": 9,
+    "added": "2026-10-29",
+    "id": "a-john-waters-christmas-4519cb2a"
+  },
+  {
     "title": "Long Now: Lost Landscapes 02026 with Rick Prelinger",
     "start": "2026-12-01T19:00:00-08:00",
     "end": "2026-12-01T21:00:00-08:00",
@@ -2023,8 +2213,8 @@
       "film",
       "talk"
     ],
-    "price": "$30.95",
-    "description": "The 21st annual Lost Landscapes: Prelinger Archives home movies and industrial footage of everyday SF life, shown to a deliberately noisy audience who shout out identifications and memories. It's a beloved local ritual, and a second show runs Wed Dec 2.",
+    "price": "Sold out",
+    "description": "The 21st annual Lost Landscapes: Prelinger Archives home movies and industrial footage of everyday SF life, shown to a deliberately noisy audience who shout out identifications and memories. It's a beloved local ritual, and a second show runs Wed Dec 2. [SOLD OUT as of 29 Oct — the Wed 2 Dec second night still has tickets.]",
     "neighbourhood": "Civic Center",
     "cycle_minutes": 9,
     "added": "2026-10-26",
@@ -2066,6 +2256,25 @@
     "cycle_minutes": 13,
     "added": "2026-10-27",
     "id": "woodchopper-s-ball-live-band-swing-night-5904beea"
+  },
+  {
+    "title": "Long Now: Lost Landscapes 02026 with Rick Prelinger (second night)",
+    "start": "2026-12-02T19:00:00-08:00",
+    "end": "2026-12-02T21:00:00-08:00",
+    "venue": "Herbst Theatre",
+    "address": "401 Van Ness Ave, San Francisco, CA 94102",
+    "url": "https://longnow.org/talks/02026-prelinger/",
+    "source": "venue:longnow",
+    "tags": [
+      "film",
+      "talk"
+    ],
+    "price": "$30.95",
+    "description": "The second night of the annual Lost Landscapes: archival home movies of everyday SF life, shown to an audience that shouts out identifications and memories. The Dec 1 show is sold out, but this one still has tickets.",
+    "neighbourhood": "Civic Center",
+    "cycle_minutes": 9,
+    "added": "2026-10-29",
+    "id": "long-now-lost-landscapes-02026-with-rick-prelinger-second-ni-32a67372"
   },
   {
     "title": "L'Rain with ZAYALLCAPS and Cole Pulice",
@@ -2143,6 +2352,24 @@
     "id": "greg-fitzsimmons-a57f92c4"
   },
   {
+    "title": "The Crooked Jades: Beautiful World album release",
+    "start": "2026-12-04T20:00:00-08:00",
+    "end": null,
+    "venue": "4 Star Theater",
+    "address": "2200 Clement St, San Francisco, CA 94121",
+    "url": "https://crookedjades.com/beautiful-world-album-release-party/",
+    "source": "listing:sffmc-folk-calendar",
+    "tags": [
+      "music"
+    ],
+    "price": "$25",
+    "description": "SF's old-time and Americana string band celebrates its 10th album with a multimedia show at a neighbourhood cinema. Bruce Kaphan sits in on pedal steel, alongside a visual tribute to the city. Doors 7pm.",
+    "neighbourhood": "Outer Richmond",
+    "cycle_minutes": 35,
+    "added": "2026-10-29",
+    "id": "the-crooked-jades-beautiful-world-album-release-1daf5a18"
+  },
+  {
     "title": "Rosanna Xia: California Against the Sea, in conversation with Marina Psaros",
     "start": "2026-12-05T13:00:00-08:00",
     "end": "2026-12-05T14:30:00-08:00",
@@ -2177,6 +2404,44 @@
     "cycle_minutes": 12,
     "added": "2026-10-26",
     "id": "sonny-his-rhinestone-sunsets-kelly-mcfarling-noelle-the-dese-adda0ee2"
+  },
+  {
+    "title": "Lindy in the Park: free swing dancing + beginner lesson",
+    "start": "2026-12-06T11:00:00-08:00",
+    "end": "2026-12-06T14:00:00-08:00",
+    "venue": "Golden Gate Park, JFK Drive (8th-10th Ave)",
+    "address": "JFK Dr between 8th & 10th Ave (behind the de Young), San Francisco, CA",
+    "url": "https://lindyinthepark.com/about/",
+    "source": "venue:lindy-in-the-park",
+    "tags": [
+      "dance",
+      "outdoors"
+    ],
+    "price": "Free",
+    "description": "Free outdoor swing dancing every Sunday since 1996 on car-free JFK Drive, with a free beginner lesson from Hep Jen at noon. No partner needed. Weather permitting, with holiday-themed DJ sets in December.",
+    "neighbourhood": "Golden Gate Park",
+    "cycle_minutes": 30,
+    "added": "2026-10-29",
+    "id": "lindy-in-the-park-free-swing-dancing-beginner-lesson-dc7186a2"
+  },
+  {
+    "title": "Squirrel Nut Zippers: Christmas Caravan 2026",
+    "start": "2026-12-06T20:00:00-08:00",
+    "end": null,
+    "venue": "Bimbo's 365 Club",
+    "address": "1025 Columbus Ave, San Francisco, CA 94133",
+    "url": "https://apeconcerts.com/events/squirrel-nut-zippers-261206/",
+    "source": "venue:bimbos",
+    "tags": [
+      "music",
+      "dance"
+    ],
+    "price": "$57.17",
+    "description": "The hot-jazz and swing revivalists bring their holiday show to Bimbo's, a 1931 supper club with a proper dance floor. Doors 7pm.",
+    "neighbourhood": "North Beach",
+    "cycle_minutes": 12,
+    "added": "2026-10-29",
+    "id": "squirrel-nut-zippers-christmas-caravan-2026-e6806669"
   },
   {
     "title": "Daniel Lieberman: Fed Up — What Evolution Reveals about Food and Diet",
@@ -2216,6 +2481,61 @@
     "id": "buck-meek-with-kisser-9a218df7"
   },
   {
+    "title": "Daniel Swain: 2026 Stephen Schneider Award for Climate Science",
+    "start": "2026-12-08T18:00:00-08:00",
+    "end": null,
+    "venue": "Commonwealth Club World Affairs",
+    "address": "110 The Embarcadero, San Francisco, CA 94105",
+    "url": "https://www.commonwealthclub.org/events/2026-12-08/daniel-swain-2026-stephen-schneider-award-outstanding-climate-science",
+    "source": "venue:commonwealth-club",
+    "tags": [
+      "talk"
+    ],
+    "price": "$27.50",
+    "description": "UCLA climate scientist Daniel Swain, known for the Weather West blog and his work on 'hydroclimate whiplash' between floods and fires, gets the Schneider Award and takes audience questions on extreme weather.",
+    "neighbourhood": "Embarcadero",
+    "cycle_minutes": 5,
+    "added": "2026-10-29",
+    "id": "daniel-swain-2026-stephen-schneider-award-for-climate-scienc-b8d70b21"
+  },
+  {
+    "title": "Wishy with The Umbrellas",
+    "start": "2026-12-08T20:00:00-08:00",
+    "end": null,
+    "venue": "The Independent",
+    "address": "628 Divisadero St, San Francisco, CA 94117",
+    "url": "https://www.theindependentsf.com/tm-event/wishy/",
+    "source": "listing:the-list",
+    "tags": [
+      "music"
+    ],
+    "price": "$29.05",
+    "description": "Indiana shoegaze-pop band Wishy, with SF jangle-pop favourites The Umbrellas, at the Independent. All ages, doors 7:30pm.",
+    "neighbourhood": "NoPa",
+    "cycle_minutes": 18,
+    "added": "2026-10-29",
+    "id": "wishy-with-the-umbrellas-e2a1a3d5"
+  },
+  {
+    "title": "Woodchopper's Ball: live-band swing night",
+    "start": "2026-12-08T21:00:00-08:00",
+    "end": "2026-12-08T23:30:00-08:00",
+    "venue": "Verdi Club",
+    "address": "2424 Mariposa St, San Francisco, CA 94110",
+    "url": "https://www.verdiclub.net/events/the-woodchoppers-ball-42-3-2/2026-12-08/",
+    "source": "venue:verdi-club",
+    "tags": [
+      "dance",
+      "music"
+    ],
+    "price": "$20 cash",
+    "description": "The weekly Tuesday live-band swing dance at the historic Verdi Club, with a different band each week. A drop-in beginner lesson runs 9-9:15pm and no partner is needed.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 13,
+    "added": "2026-10-29",
+    "id": "woodchopper-s-ball-live-band-swing-night-17e21baf"
+  },
+  {
     "title": "San Francisco Wednesday Contra Dance (beginner lesson 7:30)",
     "start": "2026-12-09T19:30:00-08:00",
     "end": "2026-12-09T22:00:00-08:00",
@@ -2233,5 +2553,595 @@
     "cycle_minutes": 15,
     "added": "2026-10-27",
     "id": "san-francisco-wednesday-contra-dance-beginner-lesson-7-30-70c5ccb9"
+  },
+  {
+    "title": "Exploratorium After Dark: Unplug and Play",
+    "start": "2026-12-10T18:00:00-08:00",
+    "end": "2026-12-10T22:00:00-08:00",
+    "venue": "Exploratorium (Pier 15)",
+    "address": "Pier 15, The Embarcadero at Green St, San Francisco, CA 94111",
+    "url": "https://www.exploratorium.edu/visit/calendar/after-dark-unplug-play-dec2026",
+    "source": "venue:exploratorium",
+    "tags": [
+      "talk",
+      "art"
+    ],
+    "price": null,
+    "description": "An adults-only (18+) Thursday night with 700+ hands-on exhibits, plus the new Glow seasonal exhibition. A relaxed, easy-to-chat night out.",
+    "neighbourhood": "Embarcadero",
+    "cycle_minutes": 10,
+    "added": "2026-10-29",
+    "id": "exploratorium-after-dark-unplug-and-play-fa3478a6"
+  },
+  {
+    "title": "KQED Live: Masa-Making Party with Bolita Masa",
+    "start": "2026-12-10T19:00:00-08:00",
+    "end": null,
+    "venue": "The Commons at KQED",
+    "address": "2601 Mariposa St, San Francisco, CA 94110",
+    "url": "https://www.kqed.org/event/6835/masa-making-party-with-bolita-masa",
+    "source": "venue:kqed-live",
+    "tags": [
+      "food",
+      "workshop"
+    ],
+    "price": "$30 + fees",
+    "description": "A hands-on night with chef Emmanuel Galvan: learn nixtamalization and heirloom corn, then press tortillas and make gorditas together.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 13,
+    "added": "2026-10-29",
+    "id": "kqed-live-masa-making-party-with-bolita-masa-feaade7e"
+  },
+  {
+    "title": "City Arts & Lectures: Marlon James with Shereen Marisol Meraji",
+    "start": "2026-12-10T19:30:00-08:00",
+    "end": null,
+    "venue": "Sydney Goldstein Theater",
+    "address": "275 Hayes St, San Francisco, CA 94102",
+    "url": "https://www.cityarts.net/event/marlon-james-2/",
+    "source": "venue:city-arts",
+    "tags": [
+      "talk"
+    ],
+    "price": null,
+    "description": "Booker-winning novelist Marlon James (A Brief History of Seven Killings, the Dark Star trilogy) in conversation with Shereen Marisol Meraji, co-presented with Litquake.",
+    "neighbourhood": "Hayes Valley",
+    "cycle_minutes": 10,
+    "added": "2026-10-29",
+    "id": "city-arts-lectures-marlon-james-with-shereen-marisol-meraji-aa01b9fc"
+  },
+  {
+    "title": "Lucius",
+    "start": "2026-12-11T20:00:00-08:00",
+    "end": null,
+    "venue": "Castro Theatre",
+    "address": "429 Castro St, San Francisco, CA 94114",
+    "url": "https://thecastro.com/events/lucius-261211",
+    "source": "venue:castro",
+    "tags": [
+      "music"
+    ],
+    "price": "from $41",
+    "description": "Jess Wolfe and Holly Laessig's harmony-driven indie-pop band, who've sung with Joni Mitchell and Brandi Carlile, in the restored Castro Theatre. Doors 7pm, all ages.",
+    "neighbourhood": "Castro",
+    "cycle_minutes": 17,
+    "added": "2026-10-29",
+    "id": "lucius-4560896c"
+  },
+  {
+    "title": "San Francisco English Country Dance (2nd Saturday)",
+    "start": "2026-12-12T19:30:00-08:00",
+    "end": "2026-12-12T22:00:00-08:00",
+    "venue": "St. John's Presbyterian Church",
+    "address": "25 Lake St, San Francisco, CA 94118",
+    "url": "https://bacds.org/series/english/san_francisco/",
+    "source": "venue:bacds",
+    "tags": [
+      "dance",
+      "music"
+    ],
+    "price": "$20 ($15 members, $6 students; pay what you can)",
+    "description": "BACDS's monthly SF English country dance, the nearest thing to a ceilidh, with caller Alan Winston and live music from Audrey Jaber, Charlie Hancock and Diana Gómez. A workshop at 7:15pm makes it beginner-friendly.",
+    "neighbourhood": "Inner Richmond",
+    "cycle_minutes": 27,
+    "added": "2026-10-29",
+    "id": "san-francisco-english-country-dance-2nd-saturday-a7c0f0a0"
+  },
+  {
+    "title": "Susanna Kwan: Awake in the Floating City, with Becca Prowda",
+    "start": "2026-12-13T14:00:00-08:00",
+    "end": "2026-12-13T15:30:00-08:00",
+    "venue": "San Francisco Main Library, Koret Auditorium",
+    "address": "100 Larkin St, San Francisco, CA 94102",
+    "url": "https://sfpl.org/events/2026/12/13/author-susanna-kwan-awake-floating-city",
+    "source": "venue:sfpl",
+    "tags": [
+      "talk"
+    ],
+    "price": "Free",
+    "description": "A novel set in a future San Francisco transformed by climate change and rising seas, about family, displacement and belonging. The author talks with Becca Prowda.",
+    "neighbourhood": "Civic Center",
+    "cycle_minutes": 8,
+    "added": "2026-10-29",
+    "id": "susanna-kwan-awake-in-the-floating-city-with-becca-prowda-43a6315c"
+  },
+  {
+    "title": "JD McPherson: SOCKS, A Rock n' Roll Christmas Tour, with Melissa Carper",
+    "start": "2026-12-13T20:00:00-08:00",
+    "end": null,
+    "venue": "Bimbo's 365 Club",
+    "address": "1025 Columbus Ave, San Francisco, CA 94133",
+    "url": "https://apeconcerts.com/events/jd-mcpherson-261213/",
+    "source": "venue:bimbos",
+    "tags": [
+      "music",
+      "dance"
+    ],
+    "price": "$41.21",
+    "description": "Rockabilly and R&B revivalist JD McPherson's annual rock'n'roll Christmas show, with swing-country singer Melissa Carper opening. Doors 7pm, 21+.",
+    "neighbourhood": "North Beach",
+    "cycle_minutes": 12,
+    "added": "2026-10-29",
+    "id": "jd-mcpherson-socks-a-rock-n-roll-christmas-tour-with-melissa-ed0c4ecf"
+  },
+  {
+    "title": "Out of the Darkness: Classic Swedish Short Fiction (Vendela Vida, David Katznelson, Ulf Olsson)",
+    "start": "2026-12-14T18:00:00-08:00",
+    "end": null,
+    "venue": "Commonwealth Club World Affairs",
+    "address": "110 The Embarcadero, San Francisco, CA 94105",
+    "url": "https://www.commonwealthclub.org/events/2026-12-14/out-darkness-rediscovering-classic-swedish-literature",
+    "source": "venue:commonwealth-club",
+    "tags": [
+      "talk"
+    ],
+    "price": "$25",
+    "description": "Novelist Vendela Vida and the anthology's co-editors celebrate a new collection of classic Swedish short fiction. It's a wintry, literary Monday-night talk on the waterfront.",
+    "neighbourhood": "Embarcadero",
+    "cycle_minutes": 5,
+    "added": "2026-10-29",
+    "id": "out-of-the-darkness-classic-swedish-short-fiction-vendela-vi-6ffc2513"
+  },
+  {
+    "title": "New Directions @ 90",
+    "start": "2026-12-15T19:00:00-08:00",
+    "end": "2026-12-15T20:30:00-08:00",
+    "venue": "City Lights Booksellers",
+    "address": "261 Columbus Ave, San Francisco, CA 94133",
+    "url": "https://citylights.com/events/new-directions-90/",
+    "source": "venue:city-lights",
+    "tags": [
+      "talk",
+      "art"
+    ],
+    "price": "Free",
+    "description": "City Lights marks 90 years of the legendary indie publisher New Directions with publisher Barbara Epler, Declan Spring, poet Forrest Gander and guests.",
+    "neighbourhood": "North Beach",
+    "cycle_minutes": 10,
+    "added": "2026-10-29",
+    "id": "new-directions-90-6a2027e1"
+  },
+  {
+    "title": "The Velvet Teen with Shutups and Pocket Full of Crumbs",
+    "start": "2026-12-15T20:00:00-08:00",
+    "end": null,
+    "venue": "Bottom of the Hill",
+    "address": "1233 17th St, San Francisco, CA 94107",
+    "url": "http://www.bottomofthehill.com/20261215.html",
+    "source": "venue:bottom-of-the-hill",
+    "tags": [
+      "music"
+    ],
+    "price": "$15 adv / $20 door",
+    "description": "Bay Area indie-rock cult favourites The Velvet Teen at Bottom of the Hill, with local indie bands Shutups and Pocket Full of Crumbs. All ages, doors 7:30pm.",
+    "neighbourhood": "Potrero Hill",
+    "cycle_minutes": 12,
+    "added": "2026-10-29",
+    "id": "the-velvet-teen-with-shutups-and-pocket-full-of-crumbs-0b1dab2e"
+  },
+  {
+    "title": "Woodchopper's Ball: live-band swing night",
+    "start": "2026-12-15T21:00:00-08:00",
+    "end": "2026-12-15T23:30:00-08:00",
+    "venue": "Verdi Club",
+    "address": "2424 Mariposa St, San Francisco, CA 94110",
+    "url": "https://www.verdiclub.net/events/the-woodchoppers-ball-42-3-2/2026-12-15/",
+    "source": "venue:verdi-club",
+    "tags": [
+      "dance",
+      "music"
+    ],
+    "price": "$20 cash",
+    "description": "The weekly Tuesday live-band swing dance at the Verdi Club. A free drop-in beginner swing lesson runs 9-9:15pm and no partner is needed.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 13,
+    "added": "2026-10-29",
+    "id": "woodchopper-s-ball-live-band-swing-night-4addc1f9"
+  },
+  {
+    "title": "Richie Unterberger: The Velvet Underground (talk + audiovisual presentation)",
+    "start": "2026-12-16T18:00:00-08:00",
+    "end": "2026-12-16T19:30:00-08:00",
+    "venue": "San Francisco Main Library, Koret Auditorium",
+    "address": "100 Larkin St, San Francisco, CA 94102",
+    "url": "https://sfpl.org/events/2026/12/16/presentation-velvet-underground",
+    "source": "venue:sfpl",
+    "tags": [
+      "talk",
+      "music"
+    ],
+    "price": "Free",
+    "description": "Rock historian Richie Unterberger's illustrated talk on the Velvet Underground, with rare audio and footage. Free at the Main Library.",
+    "neighbourhood": "Civic Center",
+    "cycle_minutes": 8,
+    "added": "2026-10-29",
+    "id": "richie-unterberger-the-velvet-underground-talk-audiovisual-p-7d50845c"
+  },
+  {
+    "title": "Pokey LaFarge with Cicada Rhythm",
+    "start": "2026-12-16T20:00:00-08:00",
+    "end": null,
+    "venue": "Bimbo's 365 Club",
+    "address": "1025 Columbus Ave, San Francisco, CA 94133",
+    "url": "https://apeconcerts.com/events/pokey-lafarge-261216/",
+    "source": "venue:bimbos",
+    "tags": [
+      "music"
+    ],
+    "price": "$46.36",
+    "description": "Roots troubadour Pokey LaFarge (old-time, swing, country blues), with folk duo Cicada Rhythm opening, at Bimbo's. Doors 7pm, 21+.",
+    "neighbourhood": "North Beach",
+    "cycle_minutes": 12,
+    "added": "2026-10-29",
+    "id": "pokey-lafarge-with-cicada-rhythm-33090193"
+  },
+  {
+    "title": "Exploratorium After Dark: Solstice",
+    "start": "2026-12-17T18:00:00-08:00",
+    "end": "2026-12-17T22:00:00-08:00",
+    "venue": "Exploratorium (Pier 15)",
+    "address": "Pier 15, The Embarcadero at Green St, San Francisco, CA 94111",
+    "url": "https://www.exploratorium.edu/visit/calendar/after-dark-solstice",
+    "source": "venue:exploratorium",
+    "tags": [
+      "talk",
+      "art"
+    ],
+    "price": null,
+    "description": "An adults-only (18+) winter-solstice night: light and shadow play, solstice traditions from around the world, art inspired by the longest night, and the new Glow exhibition.",
+    "neighbourhood": "Embarcadero",
+    "cycle_minutes": 10,
+    "added": "2026-10-29",
+    "id": "exploratorium-after-dark-solstice-af312b2e"
+  },
+  {
+    "title": "Christopher Owens",
+    "start": "2026-12-17T20:00:00-08:00",
+    "end": null,
+    "venue": "Bottom of the Hill",
+    "address": "1233 17th St, San Francisco, CA 94107",
+    "url": "http://www.bottomofthehill.com/20261217.html",
+    "source": "venue:bottom-of-the-hill",
+    "tags": [
+      "music"
+    ],
+    "price": "$25 adv / $30 door",
+    "description": "The former Girls frontman, an SF indie songwriter, plays a hometown show at Bottom of the Hill. All ages, doors 7:30pm.",
+    "neighbourhood": "Potrero Hill",
+    "cycle_minutes": 12,
+    "added": "2026-10-29",
+    "id": "christopher-owens-94a88f51"
+  },
+  {
+    "title": "Soulful Joy (Christmas at Grace Cathedral)",
+    "start": "2026-12-18T19:30:00-08:00",
+    "end": "2026-12-18T20:45:00-08:00",
+    "venue": "Grace Cathedral",
+    "address": "1100 California St, San Francisco, CA 94108",
+    "url": "https://www.cityboxoffice.com/eventperformances.asp?evt=3349",
+    "source": "venue:grace-cathedral",
+    "tags": [
+      "music"
+    ],
+    "price": "from $23",
+    "description": "Harpist and singer Destiny Muhammad and her Sonic Ensemble play a holiday set of jazz, gospel, soul and storytelling in the cathedral's huge acoustic.",
+    "neighbourhood": "Nob Hill",
+    "cycle_minutes": 14,
+    "added": "2026-10-29",
+    "id": "soulful-joy-christmas-at-grace-cathedral-a5090ed0"
+  },
+  {
+    "title": "Tomáseen Foley's A Celtic Christmas",
+    "start": "2026-12-18T19:30:00-08:00",
+    "end": "2026-12-18T22:00:00-08:00",
+    "venue": "United Irish Cultural Center",
+    "address": "2700 45th Ave, San Francisco, CA 94116",
+    "url": "https://irishcentersf.org/event/tomaseen-foleys-a-celtic-christmas-2/",
+    "source": "venue:uicc",
+    "tags": [
+      "music",
+      "dance",
+      "theatre"
+    ],
+    "price": null,
+    "description": "A touring holiday show of Irish music, step dance, carols and storytelling that recreates a 1950s Christmas Eve in a west-of-Ireland farmhouse. It's at SF's Irish cultural centre.",
+    "neighbourhood": "Outer Sunset",
+    "cycle_minutes": 45,
+    "added": "2026-10-29",
+    "id": "tom-seen-foley-s-a-celtic-christmas-af765f70"
+  },
+  {
+    "title": "Holiday Dinner Dance Party with Halsey & The Hi-Hats",
+    "start": "2026-12-19T17:30:00-08:00",
+    "end": "2026-12-19T22:30:00-08:00",
+    "venue": "Verdi Club",
+    "address": "2424 Mariposa St, San Francisco, CA 94110",
+    "url": "https://www.verdiclub.net/events/holiday-dinner-dance-party-w-halsey-the-hi-hats-4/",
+    "source": "venue:verdi-club",
+    "tags": [
+      "dance",
+      "music",
+      "food"
+    ],
+    "price": "$55-$82",
+    "description": "A dinner and dance night with a vintage-style jazz and swing band playing retro holiday songs and Great American Songbook gems on the Verdi Club's big dance floor.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 13,
+    "added": "2026-10-29",
+    "id": "holiday-dinner-dance-party-with-halsey-the-hi-hats-32517817"
+  },
+  {
+    "title": "Kitka: Wintersongs, Comfort & Joy",
+    "start": "2026-12-20T16:00:00-08:00",
+    "end": "2026-12-20T18:00:00-08:00",
+    "venue": "Old First Church (Old First Concerts)",
+    "address": "1751 Sacramento St, San Francisco, CA 94109",
+    "url": "https://www.oldfirstconcerts.org/performance/kitka-wintersongs-comfort-joy-sunday-december-20-at-4-pm/",
+    "source": "listing:sffmc-folk-calendar",
+    "tags": [
+      "music"
+    ],
+    "price": "$32 ($27.50 students/seniors)",
+    "description": "The Oakland women's vocal ensemble Kitka sings winter songs from Balkan, Baltic, Caucasian and Slavic traditions in a candlelit-feeling old church.",
+    "neighbourhood": "Nob Hill",
+    "cycle_minutes": 15,
+    "added": "2026-10-29",
+    "id": "kitka-wintersongs-comfort-joy-b4a254c5"
+  },
+  {
+    "title": "A Chanticleer Christmas",
+    "start": "2026-12-20T20:00:00-08:00",
+    "end": null,
+    "venue": "St. Ignatius Church",
+    "address": "650 Parker Ave, San Francisco, CA 94118",
+    "url": "https://www.cityboxoffice.com/orderticketsvenue.asp?p=15911",
+    "source": "venue:chanticleer",
+    "tags": [
+      "music"
+    ],
+    "price": "$48-$98",
+    "description": "SF's Grammy-winning men's choir sings its candlelit Christmas programme, from Renaissance carols to new commissions, in the huge Jesuit church on Lone Mountain. It's their only SF date this season.",
+    "neighbourhood": "Lone Mountain",
+    "cycle_minutes": 25,
+    "added": "2026-10-29",
+    "id": "a-chanticleer-christmas-7f99ee32"
+  },
+  {
+    "title": "A Brass and Organ Christmas with The Bay Brass",
+    "start": "2026-12-21T19:30:00-08:00",
+    "end": "2026-12-21T21:00:00-08:00",
+    "venue": "Grace Cathedral",
+    "address": "1100 California St, San Francisco, CA 94108",
+    "url": "https://www.cityboxoffice.com/eventperformances.asp?evt=3349",
+    "source": "venue:grace-cathedral",
+    "tags": [
+      "music"
+    ],
+    "price": "from $23",
+    "description": "The Bay Area's top brass players join Grace Cathedral's 7,466-pipe organ for holiday classics, on the night of the winter solstice.",
+    "neighbourhood": "Nob Hill",
+    "cycle_minutes": 14,
+    "added": "2026-10-29",
+    "id": "a-brass-and-organ-christmas-with-the-bay-brass-850db543"
+  },
+  {
+    "title": "Woodchopper's Ball: live-band swing night",
+    "start": "2026-12-22T21:00:00-08:00",
+    "end": "2026-12-22T23:30:00-08:00",
+    "venue": "Verdi Club",
+    "address": "2424 Mariposa St, San Francisco, CA 94110",
+    "url": "https://www.verdiclub.net/events/the-woodchoppers-ball-42-3-2/2026-12-22/",
+    "source": "venue:verdi-club",
+    "tags": [
+      "dance",
+      "music"
+    ],
+    "price": "$20 cash",
+    "description": "The pre-Christmas edition of the Verdi Club's weekly Tuesday live-band swing dance. A drop-in beginner lesson runs 9-9:15pm and no partner is needed.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 13,
+    "added": "2026-10-29",
+    "id": "woodchopper-s-ball-live-band-swing-night-55863843"
+  },
+  {
+    "title": "A Cathedral Christmas (Grace Cathedral Choir of Men and Boys)",
+    "start": "2026-12-23T19:30:00-08:00",
+    "end": "2026-12-23T21:00:00-08:00",
+    "venue": "Grace Cathedral",
+    "address": "1100 California St, San Francisco, CA 94108",
+    "url": "https://gracecathedral.org/calendar-events/a-cathedral-christmas-2/2026-12-23/",
+    "source": "venue:grace-cathedral",
+    "tags": [
+      "music"
+    ],
+    "price": "$23-$132",
+    "description": "SF's signature Christmas concert since 1947: carols and sacred music from the cathedral choir with full orchestra and the great organ. This is the only evening performance; doors open an hour before.",
+    "neighbourhood": "Nob Hill",
+    "cycle_minutes": 14,
+    "added": "2026-10-29",
+    "id": "a-cathedral-christmas-grace-cathedral-choir-of-men-and-boys-b226edbe"
+  },
+  {
+    "title": "Oakland Interfaith Gospel Choir: Christmas Eve (early show)",
+    "start": "2026-12-24T19:00:00-08:00",
+    "end": null,
+    "venue": "Great American Music Hall",
+    "address": "859 O'Farrell St, San Francisco, CA 94109",
+    "url": "https://wl.seetickets.us/event/oakland-interfaith-gospel-choir-early-show/705284?afflky=GreatAmericanMusicHall",
+    "source": "venue:gamh",
+    "tags": [
+      "music"
+    ],
+    "price": "$22 adv",
+    "description": "The Bay Area's joyous, Grammy-credited gospel choir plays its Christmas Eve tradition at the Great American Music Hall. It's fully seated, and a late show runs at 9:30pm.",
+    "neighbourhood": "Tenderloin",
+    "cycle_minutes": 9,
+    "added": "2026-10-29",
+    "id": "oakland-interfaith-gospel-choir-christmas-eve-early-show-8e927c98"
+  },
+  {
+    "title": "Kung Pao Kosher Comedy: Christmas Day cocktail show",
+    "start": "2026-12-25T20:30:00-08:00",
+    "end": "2026-12-25T22:00:00-08:00",
+    "venue": "Imperial Palace Restaurant",
+    "address": "818 Washington St, San Francisco, CA 94108",
+    "url": "https://www.cityboxoffice.com/KungPao",
+    "source": "keyword-search",
+    "tags": [
+      "comedy"
+    ],
+    "price": "$70 ($76 incl. fees)",
+    "description": "The 34th year of Jewish stand-up on Christmas in a Chinese restaurant, a quintessential SF holiday tradition. This is the drinks-only late show.",
+    "neighbourhood": "Chinatown",
+    "cycle_minutes": 9,
+    "added": "2026-10-29",
+    "id": "kung-pao-kosher-comedy-christmas-day-cocktail-show-e5ad9968"
+  },
+  {
+    "title": "Bottom of the Hill holiday matinee: Top Secret Robot Alliance, Varona, Luke Sweeney, Matt Jaffe + more",
+    "start": "2026-12-26T16:30:00-08:00",
+    "end": null,
+    "venue": "Bottom of the Hill",
+    "address": "1233 17th St, San Francisco, CA 94107",
+    "url": "http://www.bottomofthehill.com/20261226.html",
+    "source": "venue:bottom-of-the-hill",
+    "tags": [
+      "music"
+    ],
+    "price": "$10",
+    "description": "A cheap, all-ages day-after-Christmas marathon of six local bands, from power-pop and post-punk to folk-punk and psych-pop. Doors 4pm.",
+    "neighbourhood": "Potrero Hill",
+    "cycle_minutes": 12,
+    "added": "2026-10-29",
+    "id": "bottom-of-the-hill-holiday-matinee-top-secret-robot-alliance-961eaeab"
+  },
+  {
+    "title": "Mark Eitzel, Funeral Cake, Strange Cities, Devoted Fans + more",
+    "start": "2026-12-27T16:30:00-08:00",
+    "end": "2026-12-27T23:00:00-08:00",
+    "venue": "Bottom of the Hill",
+    "address": "1233 17th St, San Francisco, CA 94107",
+    "url": "http://www.bottomofthehill.com/20261227.html",
+    "source": "venue:bottom-of-the-hill",
+    "tags": [
+      "music"
+    ],
+    "price": "$10",
+    "description": "American Music Club's Mark Eitzel headlines a $10 all-ages afternoon-into-night bill of local indie, shoegaze and country-punk bands. Doors 4pm.",
+    "neighbourhood": "Potrero Hill",
+    "cycle_minutes": 12,
+    "added": "2026-10-29",
+    "id": "mark-eitzel-funeral-cake-strange-cities-devoted-fans-more-95db3a96"
+  },
+  {
+    "title": "Man or Astro-man? with The Subsonics",
+    "start": "2026-12-28T21:00:00-08:00",
+    "end": null,
+    "venue": "Bottom of the Hill",
+    "address": "1233 17th St, San Francisco, CA 94107",
+    "url": "http://www.bottomofthehill.com/20261228.html",
+    "source": "venue:bottom-of-the-hill",
+    "tags": [
+      "music"
+    ],
+    "price": "$40",
+    "description": "Cult sci-fi surf-rock instrumentalists Man or Astro-man? play their famously theatrical live show, with Atlanta garage band The Subsonics. All ages, doors 8pm.",
+    "neighbourhood": "Potrero Hill",
+    "cycle_minutes": 12,
+    "added": "2026-10-29",
+    "id": "man-or-astro-man-with-the-subsonics-9124ba5d"
+  },
+  {
+    "title": "Woodchopper's Ball: live-band swing night",
+    "start": "2026-12-29T21:00:00-08:00",
+    "end": "2026-12-29T23:30:00-08:00",
+    "venue": "Verdi Club",
+    "address": "2424 Mariposa St, San Francisco, CA 94110",
+    "url": "https://www.verdiclub.net/events/the-woodchoppers-ball-42-3-2/2026-12-29/",
+    "source": "venue:verdi-club",
+    "tags": [
+      "dance",
+      "music"
+    ],
+    "price": "$20 cash",
+    "description": "The year's last Woodchopper's Ball at the Verdi Club: live swing band, a drop-in beginner lesson 9-9:15pm, and no partner needed.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 13,
+    "added": "2026-10-29",
+    "id": "woodchopper-s-ball-live-band-swing-night-39d48e02"
+  },
+  {
+    "title": "Berkeley Wednesday Contra Dance (5th Wednesday)",
+    "start": "2026-12-30T20:00:00-08:00",
+    "end": "2026-12-30T22:30:00-08:00",
+    "venue": "Christ Church East Bay",
+    "address": "2138 Cedar St, Berkeley, CA 94709",
+    "url": "https://bacds.org/series/contra/berkeley_wed/",
+    "source": "venue:bacds",
+    "tags": [
+      "dance",
+      "music"
+    ],
+    "price": "$20 ($15 members, $6 students; pay what you can)",
+    "description": "BACDS contra with caller Andy Shore and live music from Christopher Jacoby and Corey Walters. The intro lesson is at 7:30pm and roles are gender-neutral. BART from Montgomery to Downtown Berkeley takes ~25 min, plus a 10-min walk.",
+    "neighbourhood": "Berkeley",
+    "added": "2026-10-29",
+    "id": "berkeley-wednesday-contra-dance-5th-wednesday-1dc9751d"
+  },
+  {
+    "title": "BACDS New Year's Eve Contra Ball",
+    "start": "2026-12-31T20:00:00-08:00",
+    "end": "2027-01-01T00:15:00-08:00",
+    "venue": "First United Methodist Church of Palo Alto",
+    "address": "625 Hamilton Ave, Palo Alto, CA 94301",
+    "url": "https://bacds.org/calendars/2026/12/",
+    "source": "venue:bacds",
+    "tags": [
+      "dance",
+      "music"
+    ],
+    "price": "$25 sliding scale",
+    "description": "A four-hour New Year's Eve contra ball with caller Susan Petrick and fiddle and guitar from Will Wheeler and Ben Jackson. It's the most ceilidh-like way to see in the new year. Palo Alto is about an hour by Caltrain from 4th & King, so check the late trains home.",
+    "neighbourhood": "Palo Alto",
+    "added": "2026-10-29",
+    "id": "bacds-new-year-s-eve-contra-ball-c0b84f36"
+  },
+  {
+    "title": "The Lemon Twigs New Year's Eve, with Tchotchke",
+    "start": "2026-12-31T21:00:00-08:00",
+    "end": null,
+    "venue": "The Chapel",
+    "address": "777 Valencia St, San Francisco, CA 94110",
+    "url": "https://wl.seetickets.us/event/the-lemon-twigs/707220?afflky=TheChapel",
+    "source": "venue:the-chapel",
+    "tags": [
+      "music"
+    ],
+    "price": "$55 adv / $65 day of show",
+    "description": "The D'Addario brothers' '60s/'70s-style power-pop band ring in 2027 in the Chapel's converted mortuary hall, with Tchotchke and a DJ. All ages, standing.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 13,
+    "added": "2026-10-29",
+    "id": "the-lemon-twigs-new-year-s-eve-with-tchotchke-931c641a"
   }
 ]

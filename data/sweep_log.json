@@ -1,5 +1,11 @@
 [
   {
+    "ran_at": "2026-10-29T08:30:00-07:00",
+    "added": 49,
+    "considered": 185,
+    "notes": "GAP-FILL SWEEP: density audit found 36 thin days (Thanksgiving week + almost all of December); after this sweep there are ZERO empty days through 31 Dec. Part 1 suppressed 3 Friday-daytime Mox imports. Highlights: John Waters Christmas GAMH 30 Nov (~$78, will sell out); Lost Landscapes 2nd night 2 Dec (1 Dec entry flagged SOLD OUT); Marlon James City Arts 10 Dec; Squirrel Nut Zippers Christmas at Bimbo's 6 Dec; JD McPherson 13 Dec; Pokey LaFarge 16 Dec; Lucius at the Castro 11 Dec; Grace Cathedral concerts 18/21/23 Dec; Chanticleer 20 Dec; Kitka wintersongs 20 Dec; Celtic Christmas 18 Dec; Oakland Interfaith Gospel Choir Christmas Eve at GAMH; Kung Pao Kosher Comedy Christmas Day; Exploratorium After Dark Solstice 17 Dec; Kolo Balkan folk-dance festival 28 Nov; Dickens Christmas Fair (Cow Palace, Daly City); Woodchopper's Ball every Tuesday in Dec; BACDS SF English 12 Dec; NYE: Lemon Twigs at the Chapel ($55) + BACDS NYE Contra Ball (Palo Alto — Peninsula exception, ceilidh-like NYE). EXCEPTIONS (flagged): Thanksgiving-morning Ocean Dance 10:30 (public holiday, weekday-daytime rule waived); Milonga on Thanksgiving night may not run; Berkeley contra 30 Dec (East Bay, only option that day). STILL UNANNOUNCED: LessWrong Bay Area Winter Solstice 2026 (2025 edition was 6 Dec at Freight & Salvage — likely Freight again; Cloudflare blocks it). No Dec MOVEMENT/NightLife/Sing-It-Yourself Messiah dates yet. SOLD OUT: Julio Torres Castro 30 Nov, Marc Maron 5 Dec, Two Gallants 18 Dec, Swingin' Utters 23 Dec, Feeble Little Horse 10 Dec. UNVERIFIED: Chuck Prophet Chapel 26 Dec, Phoebe Judge Bimbo's 14 Dec, Purple NYE at the Vogue. Spares: Sunset Night Market 11 Dec (5pm), WHY? 8 Dec, Mother Hips 18-19 Dec, Hayes Valley Comedy Night nightly to 7 Jan."
+  },
+  {
     "ran_at": "2026-10-28T08:30:00-07:00",
     "added": 24,
     "considered": 420,
