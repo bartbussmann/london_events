@@ -1,24 +1,5 @@
 [
   {
-    "id": "ics-1b64bb23d819",
-    "title": "Bend: A Linear Proof Language That Matches C Performance and Runs on GPUs – Victor Taelin, HigherOrderCO",
-    "start": "2026-10-26T19:00:00-07:00",
-    "end": "2026-10-26T20:00:00-07:00",
-    "venue": "Mox",
-    "address": "1680 Mission St, San Francisco, CA 94103",
-    "url": "https://luma.com/0zs5pdkz",
-    "source": "ics:Mox",
-    "tags": [
-      "tech",
-      "talk"
-    ],
-    "price": "Free (register on Luma)",
-    "description": "Talk at Mox on Bend, a linear proof language that aims to match C performance — formal-methods/programming-languages evening at the rationalist/AI-safety community space. Door code sent via Luma on the day.",
-    "added": "2026-10-26",
-    "neighbourhood": "Mission",
-    "cycle_minutes": 13
-  },
-  {
     "title": "Sad Bastard Club: songwriter round-robin with Tom Heyman",
     "start": "2026-10-27T19:30:00-07:00",
     "end": "2026-10-27T21:30:00-07:00",

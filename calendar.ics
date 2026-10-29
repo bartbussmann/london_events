@@ -5,20 +5,6 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:San Francisco Events
 X-WR-TIMEZONE:America/Los_Angeles
 BEGIN:VEVENT
-UID:ics-1b64bb23d819@sf-events
-DTSTAMP:20261027T020000Z
-DTSTART:20261027T020000Z
-DTEND:20261027T030000Z
-SUMMARY:Bend: A Linear Proof Language That Matches C Performance and Runs 
- on GPUs – Victor Taelin\, HigherOrderCO
-DESCRIPTION:Talk at Mox on Bend\, a linear proof language that aims to mat
- ch C performance — formal-methods/programming-languages evening at the 
- rationalist/AI-safety community space. Door code sent via Luma on the day
- .\nPrice: Free (register on Luma)\nhttps://luma.com/0zs5pdkz
-URL:https://luma.com/0zs5pdkz
-LOCATION:Mox\, 1680 Mission St\, San Francisco\, CA 94103
-END:VEVENT
-BEGIN:VEVENT
 UID:sad-bastard-club-songwriter-round-robin-with-tom-heyman-b599299c@sf-ev
  ents
 DTSTAMP:20261028T023000Z
