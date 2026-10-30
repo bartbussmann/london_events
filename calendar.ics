@@ -5,36 +5,6 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:San Francisco Events
 X-WR-TIMEZONE:America/Los_Angeles
 BEGIN:VEVENT
-UID:sad-bastard-club-songwriter-round-robin-with-tom-heyman-b599299c@sf-ev
- ents
-DTSTAMP:20261028T023000Z
-DTSTART:20261028T023000Z
-DTEND:20261028T043000Z
-SUMMARY:Sad Bastard Club: songwriter round-robin with Tom Heyman
-DESCRIPTION:A free songwriter round-robin hosted by local singer-songwrite
- r Tom Heyman in one of the Mission's best small rooms. Low-key\, acoustic
-  and easy to chat with people between songs.\nPrice: Free\nhttps://www.ma
- keoutroom.com/events/tuesday-october-27
-URL:https://www.makeoutroom.com/events/tuesday-october-27
-LOCATION:Make-Out Room\, 3225 22nd St\, San Francisco\, CA 94110
-END:VEVENT
-BEGIN:VEVENT
-UID:woodchopper-s-ball-halloween-edition-with-the-cottontails-d05cd8aa@sf-
- events
-DTSTAMP:20261028T040000Z
-DTSTART:20261028T040000Z
-DTEND:20261028T063000Z
-SUMMARY:Woodchopper's Ball: Halloween edition with The Cottontails
-DESCRIPTION:SF's weekly Tuesday swing night with a different live band eac
- h week. This week is the Halloween edition with The Cottontails plus an a
- fter-hours jam. A free drop-in beginner swing lesson runs 9-9:15pm\, and 
- no partner is needed.\nPrice: $20 (cash only)\nhttps://www.verdiclub.net/
- events/the-woodchoppers-ball-42-3-2/2026-10-27/
-URL:https://www.verdiclub.net/events/the-woodchoppers-ball-42-3-2/2026-10-
- 27/
-LOCATION:Verdi Club\, 2424 Mariposa St\, San Francisco\, CA 94110
-END:VEVENT
-BEGIN:VEVENT
 UID:astronomy-on-tap-sf-october-891200a6@sf-events
 DTSTAMP:20261029T020000Z
 DTSTART:20261029T020000Z

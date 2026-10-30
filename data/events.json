@@ -1,42 +1,5 @@
 [
   {
-    "title": "Sad Bastard Club: songwriter round-robin with Tom Heyman",
-    "start": "2026-10-27T19:30:00-07:00",
-    "end": "2026-10-27T21:30:00-07:00",
-    "venue": "Make-Out Room",
-    "address": "3225 22nd St, San Francisco, CA 94110",
-    "url": "https://www.makeoutroom.com/events/tuesday-october-27",
-    "source": "venue:make-out-room",
-    "tags": [
-      "music"
-    ],
-    "price": "Free",
-    "description": "A free songwriter round-robin hosted by local singer-songwriter Tom Heyman in one of the Mission's best small rooms. Low-key, acoustic and easy to chat with people between songs.",
-    "neighbourhood": "Mission",
-    "cycle_minutes": 15,
-    "added": "2026-10-26",
-    "id": "sad-bastard-club-songwriter-round-robin-with-tom-heyman-b599299c"
-  },
-  {
-    "title": "Woodchopper's Ball: Halloween edition with The Cottontails",
-    "start": "2026-10-27T21:00:00-07:00",
-    "end": "2026-10-27T23:30:00-07:00",
-    "venue": "Verdi Club",
-    "address": "2424 Mariposa St, San Francisco, CA 94110",
-    "url": "https://www.verdiclub.net/events/the-woodchoppers-ball-42-3-2/2026-10-27/",
-    "source": "venue:verdi-club",
-    "tags": [
-      "dance",
-      "music"
-    ],
-    "price": "$20 (cash only)",
-    "description": "SF's weekly Tuesday swing night with a different live band each week. This week is the Halloween edition with The Cottontails plus an after-hours jam. A free drop-in beginner swing lesson runs 9-9:15pm, and no partner is needed.",
-    "neighbourhood": "Mission",
-    "cycle_minutes": 13,
-    "added": "2026-10-26",
-    "id": "woodchopper-s-ball-halloween-edition-with-the-cottontails-d05cd8aa"
-  },
-  {
     "title": "Astronomy on Tap SF (October)",
     "start": "2026-10-28T19:00:00-07:00",
     "end": "2026-10-28T21:00:00-07:00",
