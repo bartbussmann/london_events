@@ -1472,6 +1472,23 @@ LOCATION:BATS Annex\, Fort Mason Center\, 2 Marina Blvd\, Bldg C\, Suite 3
  65\, San Francisco\, CA 94123
 END:VEVENT
 BEGIN:VEVENT
+UID:movement-ecstatic-dance-sf-boogiemeister-50fb1dd1@sf-events
+DTSTAMP:20261122T180000Z
+DTSTART:20261122T180000Z
+DTEND:20261122T211100Z
+SUMMARY:MOVEMENT Ecstatic Dance SF // Boogiemeister
+DESCRIPTION:The weekly Sunday-morning ecstatic dance in the nave of a land
+ mark church\, this week with DJ Boogiemeister. It's phone-free and substa
+ nce-free\, with an opening circle and a long DJ journey. This is the only
+  Sunday in November not yet on the calendar.\nPrice: $30-$40\nhttps://www
+ .eventbrite.com/e/movement-ecstatic-dance-sf-boogiemeister-registration-2
+ 003799528330
+URL:https://www.eventbrite.com/e/movement-ecstatic-dance-sf-boogiemeister-
+ registration-2003799528330
+LOCATION:Sacred Heart Church (MOVEMENT)\, 554 Fillmore St\, San Francisco\
+ , CA 94117
+END:VEVENT
+BEGIN:VEVENT
 UID:fall-holiday-chocolate-salon-and-festival-5e47cead@sf-events
 DTSTAMP:20261122T190000Z
 DTSTART:20261122T190000Z
@@ -1520,6 +1537,20 @@ LOCATION:Berkeley Fellowship of Unitarian Universalists\, 1606 Bonita Ave\
  , Berkeley\, CA 94709
 END:VEVENT
 BEGIN:VEVENT
+UID:la-bola-negra-los-javis-30d59c1b@sf-events
+DTSTAMP:20261124T033000Z
+DTSTART:20261124T033000Z
+DTEND:20261124T053000Z
+SUMMARY:La Bola Negra (Los Javis)
+DESCRIPTION:A Bay Area screening of the new film from Cannes-winning Spani
+ sh directors Javier Calvo and Javier Ambrossi ('Los Javis'). It follows t
+ hree generations of men across turning points in Spanish history\, and is
+  shown in Spanish with English subtitles. Doors 6:30pm\, rated R.\nhttps:
+ //thecastro.com/events/la-bola-negra-261123
+URL:https://thecastro.com/events/la-bola-negra-261123
+LOCATION:Castro Theatre\, 429 Castro St\, San Francisco\, CA 94114
+END:VEVENT
+BEGIN:VEVENT
 UID:pedro-the-lion-with-karli-fairbanks-90c93a84@sf-events
 DTSTAMP:20261124T043000Z
 DTSTART:20261124T043000Z
@@ -1531,6 +1562,21 @@ DESCRIPTION:David Bazan's indie-rock/slowcore band Pedro the Lion in a sma
  mofthehill.com/20261123.html
 URL:http://www.bottomofthehill.com/20261123.html
 LOCATION:Bottom of the Hill\, 1233 17th St\, San Francisco\, CA 94107
+END:VEVENT
+BEGIN:VEVENT
+UID:sf-history-night-san-francisco-history-association-56315659@sf-events
+DTSTAMP:20261125T030000Z
+DTSTART:20261125T030000Z
+DTEND:20261125T050000Z
+SUMMARY:SF History Night (San Francisco History Association)
+DESCRIPTION:The SF History Association's monthly last-Tuesday talk on an a
+ spect of the city's past\, in a historic synagogue hall in Pacific Height
+ s. Doors 7pm\, program about 7:45pm. Funcheap lists the date\, but this m
+ onth's speaker isn't published.\nPrice: $10 (free for SFHA members)\nhttp
+ s://sf.funcheap.com/sf-history-night-pacific-heights-100/
+URL:https://sf.funcheap.com/sf-history-night-pacific-heights-100/
+LOCATION:Newman Hall\, Congregation Sherith Israel\, 2266 California St\, 
+ San Francisco\, CA 94115
 END:VEVENT
 BEGIN:VEVENT
 UID:woodchopper-s-ball-live-band-swing-night-caf90e3c@sf-events
@@ -1561,6 +1607,20 @@ DESCRIPTION:BACDS contra with caller Lark Finnegan and a community band le
  ncisco_wed/
 URL:https://bacds.org/series/contra/san_francisco_wed/
 LOCATION:The Polish Club\, 3040 22nd St\, San Francisco\, CA 94110
+END:VEVENT
+BEGIN:VEVENT
+UID:moonalice-with-mad-alchemy-liquid-light-show-0a99055d@sf-events
+DTSTAMP:20261126T040000Z
+DTSTART:20261126T040000Z
+DTEND:20261126T060000Z
+SUMMARY:Moonalice with Mad Alchemy Liquid Light Show
+DESCRIPTION:The Bay Area psychedelic jam band (with tech critic Roger McNa
+ mee on guitar) plays the night before Thanksgiving\, with a vintage liqui
+ d light show projected over the old chapel. All ages\; doors 7pm.\nPrice:
+  $30 adv / $35 day of show\nhttps://wl.seetickets.us/event/moonalice/7083
+ 06?afflky=TheChapel
+URL:https://wl.seetickets.us/event/moonalice/708306?afflky=TheChapel
+LOCATION:The Chapel\, 777 Valencia St\, San Francisco\, CA 94110
 END:VEVENT
 BEGIN:VEVENT
 UID:dancegiving-community-ocean-dance-thanksgiving-morning-b0cc4476@sf-eve
@@ -1950,6 +2010,24 @@ LOCATION:Commonwealth Club World Affairs\, 110 The Embarcadero\, San Franc
  isco\, CA 94105
 END:VEVENT
 BEGIN:VEVENT
+UID:d-leah-steinberg-on-clyde-stubblefield-rhythms-of-the-funky--3a505e5d@
+ sf-events
+DTSTAMP:20261209T030000Z
+DTSTART:20261209T030000Z
+DTEND:20261209T043000Z
+SUMMARY:D. Leah Steinberg on Clyde Stubblefield: Rhythms of the Funky Drum
+ mer
+DESCRIPTION:Steinberg talks with KCSM's Harry Duncan about her biography o
+ f James Brown's 'Funky Drummer'\, the most sampled drummer in hip-hop. A 
+ free in-store event in City Lights' upstairs room.\nPrice: Free\nhttps://
+ citylights.com/events/d-leah-steinberg-in-conversation-with-harry-duncan-
+ kcsms-in-the-soul-kitchen/
+URL:https://citylights.com/events/d-leah-steinberg-in-conversation-with-ha
+ rry-duncan-kcsms-in-the-soul-kitchen/
+LOCATION:City Lights Booksellers\, 261 Columbus Ave\, San Francisco\, CA 9
+ 4133
+END:VEVENT
+BEGIN:VEVENT
 UID:wishy-with-the-umbrellas-e2a1a3d5@sf-events
 DTSTAMP:20261209T040000Z
 DTSTART:20261209T040000Z
@@ -1960,6 +2038,20 @@ DESCRIPTION:Indiana shoegaze-pop band Wishy\, with SF jangle-pop favourite
  9.05\nhttps://www.theindependentsf.com/tm-event/wishy/
 URL:https://www.theindependentsf.com/tm-event/wishy/
 LOCATION:The Independent\, 628 Divisadero St\, San Francisco\, CA 94117
+END:VEVENT
+BEGIN:VEVENT
+UID:why-yoni-wolf-91fd1c52@sf-events
+DTSTAMP:20261209T040000Z
+DTSTART:20261209T040000Z
+DTEND:20261209T060000Z
+SUMMARY:WHY? (Yoni Wolf)
+DESCRIPTION:Yoni Wolf's long-running indie/alt-rap project tours Oh Golly 
+ / Yes Lord\, a confessional record about dating and loneliness in middle 
+ age\, in the intimate upstairs hall. First-come seating\; doors 7pm\, 21+
+ .\nPrice: $37.57\nhttps://cafedunord.com/shows/2026-12-08-why
+URL:https://cafedunord.com/shows/2026-12-08-why
+LOCATION:Swedish American Hall\, 2174 Market St (upstairs)\, San Francisco
+ \, CA 94114
 END:VEVENT
 BEGIN:VEVENT
 UID:woodchopper-s-ball-live-band-swing-night-17e21baf@sf-events
@@ -2062,6 +2154,26 @@ LOCATION:St. John's Presbyterian Church\, 25 Lake St\, San Francisco\, CA
  94118
 END:VEVENT
 BEGIN:VEVENT
+UID:young-women-s-chorus-of-sf-lux-aeterna-carols-by-candlelight-936a9fab@
+ sf-events
+DTSTAMP:20261213T033000Z
+DTSTART:20261213T033000Z
+DTEND:20261213T050000Z
+SUMMARY:Young Women's Chorus of SF: Lux Aeterna\, Carols by Candlelight
+DESCRIPTION:A candlelit holiday concert by the acclaimed Young Women's Cho
+ rus of San Francisco with harpist Molly Langr. It includes the California
+  premieres of Oliva Sparkhall's Lux Aeterna and Shruthi Rajasekar's Ushā
+ s\, plus carols such as Silent Night.\nPrice: $30 ($25 seniors\, $10 stud
+ ents)\nhttps://www.oldfirstconcerts.org/performance/young-womens-chorus-o
+ f-san-francisco-lux-aeterna-carols-by-candlelight-saturday-december-12-at
+ -730-pm/
+URL:https://www.oldfirstconcerts.org/performance/young-womens-chorus-of-sa
+ n-francisco-lux-aeterna-carols-by-candlelight-saturday-december-12-at-730
+ -pm/
+LOCATION:Old First Church (Old First Concerts)\, 1751 Sacramento St\, San 
+ Francisco\, CA 94109
+END:VEVENT
+BEGIN:VEVENT
 UID:susanna-kwan-awake-in-the-floating-city-with-becca-prowda-43a6315c@sf-
  events
 DTSTAMP:20261213T220000Z
@@ -2107,6 +2219,41 @@ DESCRIPTION:Novelist Vendela Vida and the anthology's co-editors celebrate
  h-literature
 URL:https://www.commonwealthclub.org/events/2026-12-14/out-darkness-redisc
  overing-classic-swedish-literature
+LOCATION:Commonwealth Club World Affairs\, 110 The Embarcadero\, San Franc
+ isco\, CA 94105
+END:VEVENT
+BEGIN:VEVENT
+UID:a-tribute-to-the-life-and-writing-of-pierre-joris-e613cdf5@sf-events
+DTSTAMP:20261215T030000Z
+DTSTART:20261215T030000Z
+DTEND:20261215T043000Z
+SUMMARY:A Tribute to the Life and Writing of Pierre Joris
+DESCRIPTION:An evening of readings and discussion celebrating the poet and
+  translator Pierre Joris and the new reader In Between Keep Moving\, with
+  Ariel Resnikoff and Nicole Peyrafitte. Free and in-store.\nPrice: Free\n
+ https://citylights.com/events/a-tribute-to-the-life-and-writing-of-pierre
+ -joris/
+URL:https://citylights.com/events/a-tribute-to-the-life-and-writing-of-pie
+ rre-joris/
+LOCATION:City Lights Booksellers\, 261 Columbus Ave\, San Francisco\, CA 9
+ 4133
+END:VEVENT
+BEGIN:VEVENT
+UID:the-quantum-threat-what-happens-when-our-digital-locks-stop--84d54e20@
+ sf-events
+DTSTAMP:20261216T020000Z
+DTSTART:20261216T020000Z
+DTEND:20261216T033000Z
+SUMMARY:The Quantum Threat: What Happens When Our Digital Locks Stop Worki
+ ng?
+DESCRIPTION:Nalini Elkins\, Bill Jouris and Mark Nguyen take a practical l
+ ook at quantum computers breaking public-key cryptography: 'harvest now\,
+  decrypt later'\, what's most at risk\, and why the move to post-quantum 
+ crypto is hard. In-person only.\nPrice: $22 (free for students)\nhttps://
+ www.commonwealthclub.org/events/2026-12-15/quantum-threat-what-happens-wh
+ en-our-digital-locks-stop-working
+URL:https://www.commonwealthclub.org/events/2026-12-15/quantum-threat-what
+ -happens-when-our-digital-locks-stop-working
 LOCATION:Commonwealth Club World Affairs\, 110 The Embarcadero\, San Franc
  isco\, CA 94105
 END:VEVENT
@@ -2195,6 +2342,21 @@ LOCATION:Exploratorium (Pier 15)\, Pier 15\, The Embarcadero at Green St\,
   San Francisco\, CA 94111
 END:VEVENT
 BEGIN:VEVENT
+UID:laia-jufresa-in-conversation-with-colin-winnette-7636679f@sf-events
+DTSTAMP:20261218T030000Z
+DTSTART:20261218T030000Z
+DTEND:20261218T043000Z
+SUMMARY:Laia Jufresa in conversation with Colin Winnette
+DESCRIPTION:The Mexican novelist launches Wishbone\, her new novel from Fe
+ rn Books\, in conversation with SF writer Colin Winnette. A free in-store
+  reading at the North Beach landmark bookshop.\nPrice: Free\nhttps://city
+ lights.com/events/laia-jufresa-in-conversation-with-colin-winnette/
+URL:https://citylights.com/events/laia-jufresa-in-conversation-with-colin-
+ winnette/
+LOCATION:City Lights Booksellers\, 261 Columbus Ave\, San Francisco\, CA 9
+ 4133
+END:VEVENT
+BEGIN:VEVENT
 UID:christopher-owens-94a88f51@sf-events
 DTSTAMP:20261218T040000Z
 DTSTART:20261218T040000Z
@@ -2234,6 +2396,23 @@ LOCATION:United Irish Cultural Center\, 2700 45th Ave\, San Francisco\, CA
   94116
 END:VEVENT
 BEGIN:VEVENT
+UID:a-cathedral-christmas-saturday-matinee-grace-cathedral-choir-cec8c784@
+ sf-events
+DTSTAMP:20261219T230000Z
+DTSTART:20261219T230000Z
+DTEND:20261220T003000Z
+SUMMARY:A Cathedral Christmas: Saturday matinee (Grace Cathedral Choir of 
+ Men and Boys)
+DESCRIPTION:SF's signature Christmas concert since 1947: carols and sacred
+  music from the cathedral choir with full orchestra and the 7\,466-pipe o
+ rgan. This is the 3pm weekend matinee (90 minutes\, no intermission)\, an
+ d doors open an hour before.\nPrice: $23-$132\nhttps://gracecathedral.org
+ /calendar-events/a-cathedral-christmas-2/2026-12-19/
+URL:https://gracecathedral.org/calendar-events/a-cathedral-christmas-2/202
+ 6-12-19/
+LOCATION:Grace Cathedral\, 1100 California St\, San Francisco\, CA 94108
+END:VEVENT
+BEGIN:VEVENT
 UID:holiday-dinner-dance-party-with-halsey-the-hi-hats-32517817@sf-events
 DTSTAMP:20261220T013000Z
 DTSTART:20261220T013000Z
@@ -2246,6 +2425,24 @@ DESCRIPTION:A dinner and dance night with a vintage-style jazz and swing b
 URL:https://www.verdiclub.net/events/holiday-dinner-dance-party-w-halsey-t
  he-hi-hats-4/
 LOCATION:Verdi Club\, 2424 Mariposa St\, San Francisco\, CA 94110
+END:VEVENT
+BEGIN:VEVENT
+UID:the-mother-hips-annual-holiday-show-with-little-worth-71811bf9@sf-even
+ ts
+DTSTAMP:20261220T040000Z
+DTSTART:20261220T040000Z
+DTEND:20261220T060000Z
+SUMMARY:The Mother Hips Annual Holiday Show\, with Little Worth
+DESCRIPTION:The Chico-born California rock band's annual holiday run at th
+ e 1907 music hall: the Saturday night of three shows (Fri Dec 18 has a di
+ fferent opener and Sun Dec 20 is an acoustic matinee). GA\, mostly standi
+ ng\; doors 7pm.\nPrice: $34 adv / $37 door\nhttps://wl.seetickets.us/even
+ t/the-mother-hips-annual-holiday-show/704855?afflky=GreatAmericanMusicHal
+ l
+URL:https://wl.seetickets.us/event/the-mother-hips-annual-holiday-show/704
+ 855?afflky=GreatAmericanMusicHall
+LOCATION:Great American Music Hall\, 859 O'Farrell St\, San Francisco\, CA
+  94109
 END:VEVENT
 BEGIN:VEVENT
 UID:kitka-wintersongs-comfort-joy-b4a254c5@sf-events
@@ -2320,6 +2517,35 @@ URL:https://gracecathedral.org/calendar-events/a-cathedral-christmas-2/202
 LOCATION:Grace Cathedral\, 1100 California St\, San Francisco\, CA 94108
 END:VEVENT
 BEGIN:VEVENT
+UID:hayes-valley-comedy-night-at-the-function-05dda5f1@sf-events
+DTSTAMP:20261224T033000Z
+DTSTART:20261224T033000Z
+DTEND:20261224T050000Z
+SUMMARY:Hayes Valley Comedy Night at The Function
+DESCRIPTION:A nightly stand-up showcase of 4-5 HellaFunny Bay Area comics 
+ at SF's first Black-owned comedy club\, on Market St near Van Ness. It's 
+ 21+\, and the first 50 RSVPs get in free.\nPrice: Free with Eventbrite RS
+ VP ($20 door\; 2-drink minimum)\nhttps://www.eventbrite.com/e/hayes-valle
+ y-comedy-night-san-francisco-tickets-1987864578466
+URL:https://www.eventbrite.com/e/hayes-valley-comedy-night-san-francisco-t
+ ickets-1987864578466
+LOCATION:The Function SF: Comedy Club & Cocktail Lounge\, 1414 Market St\,
+  San Francisco\, CA 94102
+END:VEVENT
+BEGIN:VEVENT
+UID:ray-and-paul-9b2caf4e@sf-events
+DTSTAMP:20261224T040000Z
+DTSTART:20261224T040000Z
+DTEND:20261224T060000Z
+SUMMARY:Ray and Paul
+DESCRIPTION:A Bay Area-raised brothers' indie band mixing surf\, garage ro
+ ck and big vocal melodies\, playing a hometown holiday show at the Indepe
+ ndent. All ages\; doors 7:30pm.\nhttps://www.theindependentsf.com/tm-even
+ t/ray-and-paul-2/
+URL:https://www.theindependentsf.com/tm-event/ray-and-paul-2/
+LOCATION:The Independent\, 628 Divisadero St\, San Francisco\, CA 94117
+END:VEVENT
+BEGIN:VEVENT
 UID:oakland-interfaith-gospel-choir-christmas-eve-early-show-8e927c98@sf-e
  vents
 DTSTAMP:20261225T030000Z
@@ -2333,6 +2559,37 @@ DESCRIPTION:The Bay Area's joyous\, Grammy-credited gospel choir plays its
  atAmericanMusicHall
 URL:https://wl.seetickets.us/event/oakland-interfaith-gospel-choir-early-s
  how/705284?afflky=GreatAmericanMusicHall
+LOCATION:Great American Music Hall\, 859 O'Farrell St\, San Francisco\, CA
+  94109
+END:VEVENT
+BEGIN:VEVENT
+UID:milonga-malevaje-christmas-eve-tango-994d22c1@sf-events
+DTSTAMP:20261225T040000Z
+DTSTART:20261225T040000Z
+DTEND:20261225T073000Z
+SUMMARY:Milonga Malevaje (Christmas Eve tango)
+DESCRIPTION:The Verdi Club's weekly Thursday Argentine tango milonga on it
+ s big hardwood floor. It's still listed on Christmas Eve\, so it's an opt
+ ion for anyone staying in town over the holidays.\nPrice: $20\nhttps://ww
+ w.verdiclub.net/events/milonga-malevaje-78-2-2-2-2/2026-12-24/
+URL:https://www.verdiclub.net/events/milonga-malevaje-78-2-2-2-2/2026-12-2
+ 4/
+LOCATION:Verdi Club\, 2424 Mariposa St\, San Francisco\, CA 94110
+END:VEVENT
+BEGIN:VEVENT
+UID:oakland-interfaith-gospel-choir-christmas-eve-late-show-30a44fb7@sf-ev
+ ents
+DTSTAMP:20261225T053000Z
+DTSTART:20261225T053000Z
+DTEND:20261225T073000Z
+SUMMARY:Oakland Interfaith Gospel Choir: Christmas Eve (late show)
+DESCRIPTION:The Bay Area gospel choir's Christmas Eve tradition\, at the 9
+ :30pm late show (the 7pm early show is already on the calendar). It's ful
+ ly seated\, and buying at the box office avoids fees.\nPrice: $22 adv / $
+ 25 door\nhttps://wl.seetickets.us/event/oakland-interfaith-gospel-choir-l
+ ate-show/705283?afflky=GreatAmericanMusicHall
+URL:https://wl.seetickets.us/event/oakland-interfaith-gospel-choir-late-sh
+ ow/705283?afflky=GreatAmericanMusicHall
 LOCATION:Great American Music Hall\, 859 O'Farrell St\, San Francisco\, CA
   94109
 END:VEVENT
@@ -2365,6 +2622,19 @@ URL:http://www.bottomofthehill.com/20261226.html
 LOCATION:Bottom of the Hill\, 1233 17th St\, San Francisco\, CA 94107
 END:VEVENT
 BEGIN:VEVENT
+UID:chuck-prophet-33325035@sf-events
+DTSTAMP:20261227T040000Z
+DTSTART:20261227T040000Z
+DTEND:20261227T060000Z
+SUMMARY:Chuck Prophet
+DESCRIPTION:SF's own roots-rock songwriter (ex-Green on Red) plays a post-
+ Christmas hometown show for folkYEAH! at the Valencia St chapel. All ages
+ \; doors 7pm.\nPrice: $30 adv / $33 day of show\nhttps://wl.seetickets.us
+ /event/chuck-prophet/706760?afflky=TheChapel
+URL:https://wl.seetickets.us/event/chuck-prophet/706760?afflky=TheChapel
+LOCATION:The Chapel\, 777 Valencia St\, San Francisco\, CA 94110
+END:VEVENT
+BEGIN:VEVENT
 UID:mark-eitzel-funeral-cake-strange-cities-devoted-fans-more-95db3a96@sf-
  events
 DTSTAMP:20261228T003000Z
@@ -2376,6 +2646,22 @@ DESCRIPTION:American Music Club's Mark Eitzel headlines a $10 all-ages aft
  Doors 4pm.\nPrice: $10\nhttp://www.bottomofthehill.com/20261227.html
 URL:http://www.bottomofthehill.com/20261227.html
 LOCATION:Bottom of the Hill\, 1233 17th St\, San Francisco\, CA 94107
+END:VEVENT
+BEGIN:VEVENT
+UID:jerry-s-middle-finger-fd53971c@sf-events
+DTSTAMP:20261228T040000Z
+DTSTART:20261228T040000Z
+DTEND:20261228T060000Z
+SUMMARY:Jerry's Middle Finger
+DESCRIPTION:A much-loved band reviving the Jerry Garcia Band songbook (sou
+ l\, reggae\, Motown and gospel-tinged jams)\, in a dance-friendly\, mostl
+ y standing room. It's the second of two nights (Sat Dec 26 too)\; doors 7
+ pm.\nPrice: $34 adv / $37 door\nhttps://wl.seetickets.us/event/Jerrys-Mid
+ dle-Finger/701374?afflky=GreatAmericanMusicHall
+URL:https://wl.seetickets.us/event/Jerrys-Middle-Finger/701374?afflky=Grea
+ tAmericanMusicHall
+LOCATION:Great American Music Hall\, 859 O'Farrell St\, San Francisco\, CA
+  94109
 END:VEVENT
 BEGIN:VEVENT
 UID:man-or-astro-man-with-the-subsonics-9124ba5d@sf-events
@@ -2403,6 +2689,22 @@ DESCRIPTION:The year's last Woodchopper's Ball at the Verdi Club: live swi
 URL:https://www.verdiclub.net/events/the-woodchoppers-ball-42-3-2/2026-12-
  29/
 LOCATION:Verdi Club\, 2424 Mariposa St\, San Francisco\, CA 94110
+END:VEVENT
+BEGIN:VEVENT
+UID:hayes-valley-comedy-night-at-the-function-dabf6f4c@sf-events
+DTSTAMP:20261231T033000Z
+DTSTART:20261231T033000Z
+DTEND:20261231T050000Z
+SUMMARY:Hayes Valley Comedy Night at The Function
+DESCRIPTION:The nightly HellaFunny stand-up showcase at The Function\, a c
+ heap night out in the quiet week between Christmas and New Year. 4-5 comi
+ cs\, 70-90 minutes\, 21+\, with a two-drink minimum.\nPrice: Free with Ev
+ entbrite RSVP ($20 door\; 2-drink minimum)\nhttps://www.eventbrite.com/e/
+ hayes-valley-comedy-night-san-francisco-tickets-1987864581475
+URL:https://www.eventbrite.com/e/hayes-valley-comedy-night-san-francisco-t
+ ickets-1987864581475
+LOCATION:The Function SF: Comedy Club & Cocktail Lounge\, 1414 Market St\,
+  San Francisco\, CA 94102
 END:VEVENT
 BEGIN:VEVENT
 UID:berkeley-wednesday-contra-dance-5th-wednesday-1dc9751d@sf-events
@@ -2445,5 +2747,319 @@ DESCRIPTION:The D'Addario brothers' '60s/'70s-style power-pop band ring in
  kets.us/event/the-lemon-twigs/707220?afflky=TheChapel
 URL:https://wl.seetickets.us/event/the-lemon-twigs/707220?afflky=TheChapel
 LOCATION:The Chapel\, 777 Valencia St\, San Francisco\, CA 94110
+END:VEVENT
+BEGIN:VEVENT
+UID:hayes-valley-comedy-night-new-year-s-day-show-7b595a8b@sf-events
+DTSTAMP:20270102T030000Z
+DTSTART:20270102T030000Z
+DTEND:20270102T043000Z
+SUMMARY:Hayes Valley Comedy Night: New Year's Day show
+DESCRIPTION:A low-key New Year's Day night out: the HellaFunny nightly sta
+ nd-up showcase at The Function on Market St. There's also a 9pm show\; 21
+ +.\nPrice: Free with Eventbrite RSVP ($25 door\; 2-drink minimum)\nhttps:
+ //www.eventbrite.com/e/hayes-valley-comedy-night-san-francisco-tickets-19
+ 87864284587
+URL:https://www.eventbrite.com/e/hayes-valley-comedy-night-san-francisco-t
+ ickets-1987864284587
+LOCATION:The Function SF: Comedy Club & Cocktail Lounge\, 1414 Market St\,
+  San Francisco\, CA 94102
+END:VEVENT
+BEGIN:VEVENT
+UID:woodchopper-s-ball-live-band-swing-night-7f424c8e@sf-events
+DTSTAMP:20270106T050000Z
+DTSTART:20270106T050000Z
+DTEND:20270106T073000Z
+SUMMARY:Woodchopper's Ball: live-band swing night
+DESCRIPTION:The weekly Tuesday live-band swing dance at the historic Verdi
+  Club\, with a different band each week (not yet announced). New monthly 
+ Lindy Hop and Balboa class series usually start the first Tuesday of the 
+ month (7-9pm\, before the dance). The drop-in beginner lesson at 9pm is i
+ ncluded and no partner is needed.\nPrice: $20 cash ($10 students)\nhttps:
+ //www.verdiclub.net/events/the-woodchoppers-ball-42-3-2/2027-01-05/
+URL:https://www.verdiclub.net/events/the-woodchoppers-ball-42-3-2/2027-01-
+ 05/
+LOCATION:Verdi Club\, 2424 Mariposa St\, San Francisco\, CA 94110
+END:VEVENT
+BEGIN:VEVENT
+UID:the-loved-ones-latest-hits-record-release-with-the-vesuvians-b735b97a@
+ sf-events
+DTSTAMP:20270108T040000Z
+DTSTART:20270108T040000Z
+DTEND:20270108T060000Z
+SUMMARY:The Loved Ones: Latest Hits record release\, with The Vesuvians
+DESCRIPTION:The '90s Bay Area mod/R&B band (singer Bart Davenport\, Cake's
+  Xan McCurdy) celebrates a new record\, with The Vesuvians featuring Kari
+ na Deniké and DJ Russell Quan. All ages\; doors 7pm.\nPrice: $24 adv / $
+ 28 day of show\nhttps://wl.seetickets.us/event/the-loved-ones-latest-hits
+ -record-release/707499?afflky=TheChapel
+URL:https://wl.seetickets.us/event/the-loved-ones-latest-hits-record-relea
+ se/707499?afflky=TheChapel
+LOCATION:The Chapel\, 777 Valencia St\, San Francisco\, CA 94110
+END:VEVENT
+BEGIN:VEVENT
+UID:2001-a-space-odyssey-in-70mm-6eb7e131@sf-events
+DTSTAMP:20270109T040000Z
+DTSTART:20270109T040000Z
+DTEND:20270109T060000Z
+SUMMARY:2001: A Space Odyssey in 70mm
+DESCRIPTION:Kubrick's masterpiece on a 70mm print in the restored 1922 Cas
+ tro Theatre\, a start-of-year big-screen event. All ages\; doors 7pm. The
+  ticket price is behind TicketWeb's bot wall.\nhttps://thecastro.com/even
+ ts/2001-a-space-odyssey-270108
+URL:https://thecastro.com/events/2001-a-space-odyssey-270108
+LOCATION:Castro Theatre\, 429 Castro St\, San Francisco\, CA 94114
+END:VEVENT
+BEGIN:VEVENT
+UID:anna-von-hausswolff-with-katzpascale-ee738c65@sf-events
+DTSTAMP:20270110T040000Z
+DTSTART:20270110T040000Z
+DTEND:20270110T060000Z
+SUMMARY:Anna von Hausswolff with KatzPascale
+DESCRIPTION:The Swedish singer and organist plays towering\, cathedral-siz
+ ed drone-pop. The List marks it 'sold out'\, but the official ticket page
+  was still selling GA tickets on Oct 30. Mostly standing\; doors 7pm.\nPr
+ ice: $25 adv / $30 week of show\nhttps://wl.seetickets.us/event/anna-von-
+ hausswolff/683672?afflky=GreatAmericanMusicHall
+URL:https://wl.seetickets.us/event/anna-von-hausswolff/683672?afflky=Great
+ AmericanMusicHall
+LOCATION:Great American Music Hall\, 859 O'Farrell St\, San Francisco\, CA
+  94109
+END:VEVENT
+BEGIN:VEVENT
+UID:lindy-in-the-park-free-swing-dancing-beginner-lesson-d985a5fa@sf-event
+ s
+DTSTAMP:20270110T190000Z
+DTSTART:20270110T190000Z
+DTEND:20270110T220000Z
+SUMMARY:Lindy in the Park: free swing dancing + beginner lesson
+DESCRIPTION:Free outdoor swing dancing every Sunday since 1996 on car-free
+  JFK Drive\, with Hep Jen's free beginner lesson at noon. No partner or e
+ xperience is needed. It's weather permitting\, so check the site that mor
+ ning in January.\nPrice: Free\nhttps://lindyinthepark.com/about/
+URL:https://lindyinthepark.com/about/
+LOCATION:Golden Gate Park\, JFK Drive (8th-10th Ave)\, JFK Dr between 8th 
+ & 10th Ave (behind the de Young)\, San Francisco\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:nora-brown-with-stephanie-coleman-65eb5243@sf-events
+DTSTAMP:20270111T040000Z
+DTSTART:20270111T040000Z
+DTEND:20270111T060000Z
+SUMMARY:Nora Brown with Stephanie Coleman
+DESCRIPTION:Young Brooklyn banjo player Nora Brown\, one of the most accla
+ imed voices in Appalachian old-time music\, with fiddler Stephanie Colema
+ n. An intimate folkYEAH! show\; all ages\, doors 7pm.\nPrice: $25 GA ($35
+  seated)\nhttps://wl.seetickets.us/event/nora-brown-with-stephanie-colema
+ n/706553?afflky=TheChapel
+URL:https://wl.seetickets.us/event/nora-brown-with-stephanie-coleman/70655
+ 3?afflky=TheChapel
+LOCATION:The Chapel\, 777 Valencia St\, San Francisco\, CA 94110
+END:VEVENT
+BEGIN:VEVENT
+UID:woodchopper-s-ball-live-band-swing-night-5c88d5b5@sf-events
+DTSTAMP:20270113T050000Z
+DTSTART:20270113T050000Z
+DTEND:20270113T073000Z
+SUMMARY:Woodchopper's Ball: live-band swing night
+DESCRIPTION:The weekly Tuesday live-band swing dance at the historic Verdi
+  Club\, with a different band each week (not yet announced). The drop-in 
+ beginner lesson at 9pm is included and no partner is needed.\nPrice: $20 
+ cash ($10 students)\nhttps://www.verdiclub.net/events/the-woodchoppers-ba
+ ll-42-3-2/2027-01-12/
+URL:https://www.verdiclub.net/events/the-woodchoppers-ball-42-3-2/2027-01-
+ 12/
+LOCATION:Verdi Club\, 2424 Mariposa St\, San Francisco\, CA 94110
+END:VEVENT
+BEGIN:VEVENT
+UID:lsd-and-the-search-for-god-with-cryogeyser-6874123f@sf-events
+DTSTAMP:20270115T040000Z
+DTSTART:20270115T040000Z
+DTEND:20270115T060000Z
+SUMMARY:LSD and the Search for God with Cryogeyser
+DESCRIPTION:The cult shoegaze band plays a rare headline set\, with dream-
+ pop band Cryogeyser in support. All ages\; doors 7pm.\nPrice: $39.50 adv 
+ / $43 door\nhttps://wl.seetickets.us/event/lsd-and-the-search-for-god/704
+ 583?afflky=GreatAmericanMusicHall
+URL:https://wl.seetickets.us/event/lsd-and-the-search-for-god/704583?afflk
+ y=GreatAmericanMusicHall
+LOCATION:Great American Music Hall\, 859 O'Farrell St\, San Francisco\, CA
+  94109
+END:VEVENT
+BEGIN:VEVENT
+UID:the-16th-annual-bowie-bash-ee5e1ce5@sf-events
+DTSTAMP:20270116T053000Z
+DTSTART:20270116T053000Z
+DTEND:20270116T073000Z
+SUMMARY:The 16th Annual Bowie Bash
+DESCRIPTION:The 16th annual Bowie birthday-month bash: a costumed Bowie tr
+ ibute band (billed on The List as the First Church of the Sacred Silverse
+ xual) plus drag\, burlesque and puppetry\, in a room built for dancing. N
+ ight one of two (Sat Jan 16 too)\; doors 8pm.\nPrice: $20 early bird / $2
+ 5 adv / $29 door\nhttps://wl.seetickets.us/event/the-16th-annual-bowie-ba
+ sh/707829?afflky=GreatAmericanMusicHall
+URL:https://wl.seetickets.us/event/the-16th-annual-bowie-bash/707829?afflk
+ y=GreatAmericanMusicHall
+LOCATION:Great American Music Hall\, 859 O'Farrell St\, San Francisco\, CA
+  94109
+END:VEVENT
+BEGIN:VEVENT
+UID:mucha-salsa-social-free-beginner-class-a1a610fb@sf-events
+DTSTAMP:20270118T023000Z
+DTSTART:20270118T023000Z
+DTEND:20270118T070000Z
+SUMMARY:Mucha Salsa+ social (free beginner class)
+DESCRIPTION:A not-for-profit Sunday salsa social at the Verdi Club. Beginn
+ er and intermediate salsa classes run 7-8pm and are included\, then there
+ 's DJ social dancing until 11:30pm\, so it's easy to come solo.\nPrice: $
+ 15\nhttps://www.verdiclub.net/events/mucha-salsa-5-2/2027-01-17/
+URL:https://www.verdiclub.net/events/mucha-salsa-5-2/2027-01-17/
+LOCATION:Verdi Club\, 2424 Mariposa St\, San Francisco\, CA 94110
+END:VEVENT
+BEGIN:VEVENT
+UID:true-widow-d2a48ba9@sf-events
+DTSTAMP:20270120T040000Z
+DTSTART:20270120T040000Z
+DTEND:20270120T060000Z
+SUMMARY:True Widow
+DESCRIPTION:The Dallas trio's slow\, heavy 'stonegaze' (shoegaze meets sto
+ ner rock\, with boy/girl vocals) in the ornate Tenderloin music hall. All
+  ages\; doors 7pm.\nPrice: $23.50 adv / $29.50 day of show\nhttps://wl.se
+ etickets.us/event/true-widow/707017?afflky=GreatAmericanMusicHall
+URL:https://wl.seetickets.us/event/true-widow/707017?afflky=GreatAmericanM
+ usicHall
+LOCATION:Great American Music Hall\, 859 O'Farrell St\, San Francisco\, CA
+  94109
+END:VEVENT
+BEGIN:VEVENT
+UID:woodchopper-s-ball-live-band-swing-night-3f4a8bdd@sf-events
+DTSTAMP:20270120T050000Z
+DTSTART:20270120T050000Z
+DTEND:20270120T073000Z
+SUMMARY:Woodchopper's Ball: live-band swing night
+DESCRIPTION:The weekly Tuesday live-band swing dance at the historic Verdi
+  Club\, with a different band each week (not yet announced). The drop-in 
+ beginner lesson at 9pm is included and no partner is needed.\nPrice: $20 
+ cash ($10 students)\nhttps://www.verdiclub.net/events/the-woodchoppers-ba
+ ll-42-3-2/2027-01-19/
+URL:https://www.verdiclub.net/events/the-woodchoppers-ball-42-3-2/2027-01-
+ 19/
+LOCATION:Verdi Club\, 2424 Mariposa St\, San Francisco\, CA 94110
+END:VEVENT
+BEGIN:VEVENT
+UID:eliane-elias-quartet-ant-nio-carlos-jobim-centennial-celebra-b808515e@
+ sf-events
+DTSTAMP:20270123T033000Z
+DTSTART:20270123T033000Z
+DTEND:20270123T053000Z
+SUMMARY:Eliane Elias Quartet: Antônio Carlos Jobim Centennial Celebration
+DESCRIPTION:The Brazilian pianist-singer marks 100 years of Tom Jobim with
+  a bossa nova programme in SFJAZZ's main hall. Runs Jan 22-24\, and the S
+ unday is 'The Art of Bossa Nova'.\nPrice: $45-$105\nhttps://www.sfjazz.or
+ g/tickets/productions/26-27/eliane-elias-quartet/
+URL:https://www.sfjazz.org/tickets/productions/26-27/eliane-elias-quartet/
+LOCATION:SFJAZZ Center\, Miner Auditorium\, 201 Franklin St\, San Francisc
+ o\, CA 94102
+END:VEVENT
+BEGIN:VEVENT
+UID:fruition-something-more-the-final-tour-with-rainbow-girls-79b0a721@sf-
+ events
+DTSTAMP:20270123T050000Z
+DTSTART:20270123T050000Z
+DTEND:20270123T070000Z
+SUMMARY:Fruition: Something More\, The Final Tour\, with Rainbow Girls
+DESCRIPTION:The Portland string-band-turned-rock group's farewell tour\, w
+ ith Bay Area harmony trio Rainbow Girls opening. All ages\; doors 8pm.\nP
+ rice: $26 adv / $30 day of show\nhttps://wl.seetickets.us/event/fruition/
+ 703540?afflky=TheChapel
+URL:https://wl.seetickets.us/event/fruition/703540?afflky=TheChapel
+LOCATION:The Chapel\, 777 Valencia St\, San Francisco\, CA 94110
+END:VEVENT
+BEGIN:VEVENT
+UID:the-brothers-comatose-8c50af57@sf-events
+DTSTAMP:20270124T050000Z
+DTSTART:20270124T050000Z
+DTEND:20270124T070000Z
+SUMMARY:The Brothers Comatose
+DESCRIPTION:SF's own rowdy five-piece string band plays bluegrass\, countr
+ y and rock 'n' roll at full volume\, one of the most fun live nights in t
+ own. Night two of two (Fri Jan 22 too). All ages\; doors 8:30pm.\nhttps:/
+ /www.theindependentsf.com/tm-event/the-brothers-comatose-2/
+URL:https://www.theindependentsf.com/tm-event/the-brothers-comatose-2/
+LOCATION:The Independent\, 628 Divisadero St\, San Francisco\, CA 94117
+END:VEVENT
+BEGIN:VEVENT
+UID:gerald-henig-little-known-and-shocking-revelations-about-ame-e5828c1c@
+ sf-events
+DTSTAMP:20270126T020000Z
+DTSTART:20270126T020000Z
+DTEND:20270126T033000Z
+SUMMARY:Gerald Henig: Little-Known (and Shocking) Revelations About Americ
+ a's Presidents
+DESCRIPTION:Cal State East Bay historian Gerald Henig shares funny\, tragi
+ c and bizarre stories from his award-finalist book America's Presidents: 
+ What Your History Teacher Never Told You\, on why so few presidents achie
+ ved greatness. In-person only.\nPrice: $22 (free for students)\nhttps://w
+ ww.commonwealthclub.org/events/2027-01-25/little-known-and-shocking-revel
+ ations-about-character-and-conduct-americas
+URL:https://www.commonwealthclub.org/events/2027-01-25/little-known-and-sh
+ ocking-revelations-about-character-and-conduct-americas
+LOCATION:Commonwealth Club World Affairs\, 110 The Embarcadero\, San Franc
+ isco\, CA 94105
+END:VEVENT
+BEGIN:VEVENT
+UID:woodchopper-s-ball-live-band-swing-night-c9c122f3@sf-events
+DTSTAMP:20270127T050000Z
+DTSTART:20270127T050000Z
+DTEND:20270127T073000Z
+SUMMARY:Woodchopper's Ball: live-band swing night
+DESCRIPTION:The weekly Tuesday live-band swing dance at the historic Verdi
+  Club\, with a different band each week (not yet announced). The drop-in 
+ beginner lesson at 9pm is included and no partner is needed.\nPrice: $20 
+ cash ($10 students)\nhttps://www.verdiclub.net/events/the-woodchoppers-ba
+ ll-42-3-2/2027-01-26/
+URL:https://www.verdiclub.net/events/the-woodchoppers-ball-42-3-2/2027-01-
+ 26/
+LOCATION:Verdi Club\, 2424 Mariposa St\, San Francisco\, CA 94110
+END:VEVENT
+BEGIN:VEVENT
+UID:jon-bryant-ec6c1dfe@sf-events
+DTSTAMP:20270128T040000Z
+DTSTART:20270128T040000Z
+DTEND:20270128T060000Z
+SUMMARY:Jon Bryant
+DESCRIPTION:Canadian indie-folk singer-songwriter Jon Bryant previews his 
+ back-to-roots album Harbour in the 1907 basement speakeasy. Tickets are '
+ on sale soon' as of Oct 30\; 21+\, doors 7pm.\nPrice: $28.30\nhttps://caf
+ edunord.com/shows/2027-01-27-jon-bryant
+URL:https://cafedunord.com/shows/2027-01-27-jon-bryant
+LOCATION:Cafe du Nord\, 2174 Market St (downstairs)\, San Francisco\, CA 9
+ 4114
+END:VEVENT
+BEGIN:VEVENT
+UID:ty-segall-27832b2f@sf-events
+DTSTAMP:20270130T043000Z
+DTSTART:20270130T043000Z
+DTEND:20270130T063000Z
+SUMMARY:Ty Segall
+DESCRIPTION:The prolific garage-rock hero\, an SF scene alumnus\, in a sma
+ ll room: the first of two nights at the Chapel (Sat Jan 30 too). All ages
+ \; doors 7:30pm.\nPrice: $33 adv / $38 day of show\nhttps://wl.seetickets
+ .us/event/ty-segall/707701?afflky=TheChapel
+URL:https://wl.seetickets.us/event/ty-segall/707701?afflky=TheChapel
+LOCATION:The Chapel\, 777 Valencia St\, San Francisco\, CA 94110
+END:VEVENT
+BEGIN:VEVENT
+UID:stamptown-at-sf-sketchfest-2027-hosted-by-zach-zucker-d1eb5d78@sf-even
+ ts
+DTSTAMP:20270131T030000Z
+DTSTART:20270131T030000Z
+DTEND:20270131T050000Z
+SUMMARY:Stamptown at SF Sketchfest 2027\, hosted by Zach Zucker
+DESCRIPTION:Zach Zucker's chaotic\, character-heavy alt-comedy showcase\, 
+ one of the first SF Sketchfest 2027 shows on sale. The festival runs Jan 
+ 14-31\, and its initial lineup drops Nov 13. 18+\; doors 6pm.\nPrice: $60
+ -$92\nhttps://thecastro.com/events/stamptown-with-zach-zucker-270130
+URL:https://thecastro.com/events/stamptown-with-zach-zucker-270130
+LOCATION:Castro Theatre\, 429 Castro St\, San Francisco\, CA 94114
 END:VEVENT
 END:VCALENDAR
