@@ -566,6 +566,42 @@
     "id": "kqed-live-happy-hour-showdown-bites-bevs-and-karaoke-3fd050de"
   },
   {
+    "title": "SF Wine Lovers Speed Date (24-35 age group)",
+    "start": "2026-11-05T19:00:00-08:00",
+    "end": "2026-11-05T22:00:00-08:00",
+    "venue": "Rye Cocktail Bar",
+    "address": "688 Geary St, San Francisco, CA 94102",
+    "url": "https://www.eventbrite.com/e/sf-wine-lovers-speed-date-millennials-and-gen-z-tickets-2003437247739",
+    "source": "aggregator:eventbrite",
+    "tags": [
+      "community"
+    ],
+    "price": "Up to $55",
+    "description": "A relaxed speed-dating night of 8-minute mini-dates split into two age groups (pick 24-35 when booking), followed by open mingling. Advance tickets only, plus a one-drink minimum.",
+    "neighbourhood": "Tenderloin",
+    "cycle_minutes": 8,
+    "added": "2026-10-31",
+    "id": "sf-wine-lovers-speed-date-24-35-age-group-e85ac9e4"
+  },
+  {
+    "title": "Daniel Kahn & Jake Shulman-Ment: UMRU/UNREST",
+    "start": "2026-11-05T19:00:00-08:00",
+    "end": "2026-11-05T21:00:00-08:00",
+    "venue": "Jewish Community Center of San Francisco",
+    "address": "3200 California St, San Francisco, CA 94118",
+    "url": "https://www.eventbrite.com/e/daniel-kahn-jake-shulman-ment-umruunrest-tickets-1998989523476",
+    "source": "aggregator:eventbrite",
+    "tags": [
+      "music"
+    ],
+    "price": "$44",
+    "description": "The klezmer/folk singer-songwriter and the virtuoso fiddler pair new songs with Yiddish renditions of Cohen, Dylan, Guthrie and more. It's intimate, political folk music in a seated hall.",
+    "neighbourhood": "Laurel Heights",
+    "cycle_minutes": 22,
+    "added": "2026-10-31",
+    "id": "daniel-kahn-jake-shulman-ment-umru-unrest-7a2c9291"
+  },
+  {
     "title": "Georgia Parker with Tashi T",
     "start": "2026-11-05T20:15:00-08:00",
     "end": "2026-11-05T22:30:00-08:00",
@@ -660,6 +696,25 @@
     "cycle_minutes": 14,
     "added": "2026-10-26",
     "id": "san-francisco-leonard-cohen-festival-poetry-song-28fb28d7"
+  },
+  {
+    "title": "Singles Walking Food Tour (Chinatown & North Beach)",
+    "start": "2026-11-07T08:30:00-08:00",
+    "end": "2026-11-07T11:30:00-08:00",
+    "venue": "Little Swan San Francisco Bakery (meeting point)",
+    "address": "1249 Stockton St, San Francisco, CA 94133",
+    "url": "https://www.eventbrite.com/e/singles-food-tour-tickets-2003647095399",
+    "source": "aggregator:eventbrite",
+    "tags": [
+      "food",
+      "community"
+    ],
+    "price": "$5 (plus food you buy)",
+    "description": "A self-guided morning food crawl for singles, starting at Little Swan Bakery and taking in dim sum, the Golden Gate Fortune Cookie Factory, Good Mong Kok and Bob's Donuts. You buy something at three of the stops. No age bracket is stated.",
+    "neighbourhood": "Chinatown",
+    "cycle_minutes": 10,
+    "added": "2026-10-31",
+    "id": "singles-walking-food-tour-chinatown-north-beach-f2845f7e"
   },
   {
     "title": "San Francisco Coffee Festival 2026 (10th annual)",
@@ -924,6 +979,25 @@
     "cycle_minutes": 5,
     "added": "2026-10-29",
     "id": "the-future-of-public-media-pbs-ceo-paula-kerger-with-kqed-ce-bfa6fe0c"
+  },
+  {
+    "title": "Figure drawing Mondays at Sin Miedo Gallery (Sketchboard)",
+    "start": "2026-11-09T18:30:00-08:00",
+    "end": "2026-11-09T20:30:00-08:00",
+    "venue": "Sin Miedo Gallery",
+    "address": "2831 Mission St, San Francisco, CA 94110",
+    "url": "https://book.squareup.com/classes/uj53t4hfgkzllp/location/DYSM7QRDVFWX7/classes",
+    "source": "venue:sketchboard",
+    "tags": [
+      "art",
+      "class"
+    ],
+    "price": "$25",
+    "description": "A drop-in life drawing session from Sketchboard Co. (the people behind the Wednesday Monument nights) at their new Mission gallery near 24th St. Bring your own supplies.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 16,
+    "added": "2026-10-31",
+    "id": "figure-drawing-mondays-at-sin-miedo-gallery-sketchboard-4ee8e5d8"
   },
   {
     "title": "ZYZZYVA Issue 133 celebration",
@@ -1356,6 +1430,24 @@
     "cycle_minutes": 3,
     "added": "2026-10-28",
     "id": "sf-city-guides-free-walking-tour-scandalous-murals-of-rincon-ad8c34b5"
+  },
+  {
+    "title": "Relish Speed Dating (ages 29-42)",
+    "start": "2026-11-14T17:00:00-08:00",
+    "end": "2026-11-14T19:00:00-08:00",
+    "venue": "The Jay, Autograph Collection",
+    "address": "433 Clay St, San Francisco, CA 94111",
+    "url": "https://www.eventbrite.com/e/relish-saturday-night-ages-29-42-san-francisco-speed-dating-tickets-2003945740655",
+    "source": "aggregator:eventbrite",
+    "tags": [
+      "community"
+    ],
+    "price": "$37-$40",
+    "description": "A Saturday-evening speed-dating round of 5-7 minute mini-dates with 8-12 singles aged 29-42, held in a FiDi hotel lounge. Picks go in on your phone and matches arrive the next day.",
+    "neighbourhood": "Financial District",
+    "cycle_minutes": 6,
+    "added": "2026-10-31",
+    "id": "relish-speed-dating-ages-29-42-725e0165"
   },
   {
     "title": "Abiogenesis: Philip Beesley & Casey Curran opening (SF Art Week)",
@@ -1856,8 +1948,8 @@
     "tags": [
       "film"
     ],
-    "price": null,
-    "description": "A Bay Area screening of the new film from Cannes-winning Spanish directors Javier Calvo and Javier Ambrossi ('Los Javis'). It follows three generations of men across turning points in Spanish history, and is shown in Spanish with English subtitles. Doors 6:30pm, rated R.",
+    "price": "Sold out",
+    "description": "A Bay Area screening of the new film from Cannes-winning Spanish directors Javier Calvo and Javier Ambrossi ('Los Javis'). It follows three generations of men across turning points in Spanish history, and is shown in Spanish with English subtitles. Doors 6:30pm, rated R. [SOLD OUT as of 31 Oct.]",
     "neighbourhood": "Castro",
     "cycle_minutes": 17,
     "added": "2026-10-30",
@@ -1880,6 +1972,25 @@
     "cycle_minutes": 12,
     "added": "2026-10-26",
     "id": "pedro-the-lion-with-karli-fairbanks-90c93a84"
+  },
+  {
+    "title": "Clay & Play: make your own bookends (air-dry clay)",
+    "start": "2026-11-24T18:00:00-08:00",
+    "end": "2026-11-24T20:00:00-08:00",
+    "venue": "The Love Potion Library",
+    "address": "284 Noe St, San Francisco, CA 94114",
+    "url": "https://luma.com/qozwef2n",
+    "source": "aggregator:luma",
+    "tags": [
+      "class",
+      "art"
+    ],
+    "price": "$50 early bird / $60",
+    "description": "A beginner hand-building workshop run by Piscola Studio in a Castro bookshop-bar, sculpting your own bookends from 2 lbs of air-dry clay. A short demo leads into 90 minutes of guided studio time. Bring your own snack or drink.",
+    "neighbourhood": "Castro",
+    "cycle_minutes": 16,
+    "added": "2026-10-31",
+    "id": "clay-play-make-your-own-bookends-air-dry-clay-9a4a500b"
   },
   {
     "title": "SF History Night (San Francisco History Association)",
@@ -2758,6 +2869,24 @@
     "id": "new-directions-90-6a2027e1"
   },
   {
+    "title": "Drop-In Circling Workshop (Berkeley)",
+    "start": "2026-12-15T19:00:00-08:00",
+    "end": "2026-12-15T22:00:00-08:00",
+    "venue": "Animal Rights Center",
+    "address": "2414 6th St, Berkeley, CA 94710",
+    "url": "https://www.tickettailor.com/events/thecirclinginsitute/2486228",
+    "source": "venue:circling-institute",
+    "tags": [
+      "workshop",
+      "community"
+    ],
+    "price": "$15-$30",
+    "description": "The Circling Institute's monthly in-person drop-in evening of authentic relating and the Original Circling approach, a guided practice in presence and honest connection with strangers. Register ahead: doors 6:45pm and close at 7:10pm sharp, and the last one sold out a week early. East Bay: BART from Montgomery to Downtown Berkeley (~25 min), then bus or bike to West Berkeley.",
+    "neighbourhood": "Berkeley",
+    "added": "2026-10-31",
+    "id": "drop-in-circling-workshop-berkeley-b7d1ce0e"
+  },
+  {
     "title": "The Velvet Teen with Shutups and Pocket Full of Crumbs",
     "start": "2026-12-15T20:00:00-08:00",
     "end": null,
@@ -2849,6 +2978,25 @@
     "cycle_minutes": 10,
     "added": "2026-10-29",
     "id": "exploratorium-after-dark-solstice-af312b2e"
+  },
+  {
+    "title": "Cooking class: Make Your Own Sushi",
+    "start": "2026-12-17T18:00:00-08:00",
+    "end": "2026-12-17T20:00:00-08:00",
+    "venue": "The Hotel Majestic",
+    "address": "1500 Sutter St, San Francisco, CA 94109",
+    "url": "https://www.cocusocial.com/newevent/San-Francisco_Make-Your-Own-Sushi_2026-Dec-17",
+    "source": "venue:cocusocial",
+    "tags": [
+      "class",
+      "food"
+    ],
+    "price": "$65",
+    "description": "A two-hour hands-on CocuSocial class rolling tuna maki, gunkan and California rolls, from making the sushi rice to cutting and rolling inside-out. It's beginner-friendly, for 12-26 people, and you eat what you make. Drinks are from the hotel bar.",
+    "neighbourhood": "Cathedral Hill",
+    "cycle_minutes": 14,
+    "added": "2026-10-31",
+    "id": "cooking-class-make-your-own-sushi-8c727f60"
   },
   {
     "title": "Laia Jufresa in conversation with Colin Winnette",
@@ -3380,6 +3528,82 @@
     "id": "hayes-valley-comedy-night-new-year-s-day-show-7b595a8b"
   },
   {
+    "title": "The Board Walks: Walk & Talk About Life's Big Questions",
+    "start": "2027-01-02T08:00:00-08:00",
+    "end": "2027-01-02T10:30:00-08:00",
+    "venue": "Coffee To The People (meeting point)",
+    "address": "1206 Masonic Ave, San Francisco, CA 94117",
+    "url": "https://www.meetup.com/the-board-walks-san-francisco/events/316871043/",
+    "source": "aggregator:meetup",
+    "tags": [
+      "outdoors",
+      "community"
+    ],
+    "price": "Free",
+    "description": "A weekly 5-mile walking conversation club for people who want depth over small talk. Everyone brings a question to explore, shares it in an opening circle, then drifts between small conversations on the walk. It's newcomer-friendly and runs rain or shine.",
+    "neighbourhood": "Haight-Ashbury",
+    "cycle_minutes": 22,
+    "added": "2026-10-31",
+    "id": "the-board-walks-walk-talk-about-life-s-big-questions-98e65e2f"
+  },
+  {
+    "title": "SF City Guides free walking tour: Castro, Tales of the Village",
+    "start": "2027-01-02T11:00:00-08:00",
+    "end": null,
+    "venue": "Jane Warner Plaza (meeting point)",
+    "address": "Castro St & Market St, San Francisco, CA 94114",
+    "url": "https://www.sfcityguides.org/find-your-tour/?visit=2027-01-02",
+    "source": "venue:sf-city-guides",
+    "tags": [
+      "outdoors",
+      "community"
+    ],
+    "price": "Free (donations welcome)",
+    "description": "A free volunteer-led two-hour history walk through the Castro, from Harvey Milk's camera-shop campaign to how the neighbourhood keeps evolving. It starts at Jane Warner Plaza.",
+    "neighbourhood": "Castro",
+    "cycle_minutes": 17,
+    "added": "2026-10-31",
+    "id": "sf-city-guides-free-walking-tour-castro-tales-of-the-village-cf346476"
+  },
+  {
+    "title": "Lindy in the Park: free swing dancing + beginner lesson",
+    "start": "2027-01-03T11:00:00-08:00",
+    "end": "2027-01-03T14:00:00-08:00",
+    "venue": "Golden Gate Park, JFK Drive (8th-10th Ave)",
+    "address": "JFK Dr between 8th & 10th Ave (behind the de Young), San Francisco, CA",
+    "url": "https://lindyinthepark.com/about/",
+    "source": "venue:lindy-in-the-park",
+    "tags": [
+      "dance",
+      "outdoors"
+    ],
+    "price": "Free",
+    "description": "Free outdoor swing dancing every Sunday since 1996 on car-free JFK Drive, with a free beginner lesson from Hep Jen at noon. Partners rotate, so you don't need to bring one. Weather permitting.",
+    "neighbourhood": "Golden Gate Park",
+    "cycle_minutes": 30,
+    "added": "2026-10-31",
+    "id": "lindy-in-the-park-free-swing-dancing-beginner-lesson-99fb5a59"
+  },
+  {
+    "title": "Contact Improvisation class + jam at The Castro Room",
+    "start": "2027-01-04T19:45:00-08:00",
+    "end": "2027-01-04T22:15:00-08:00",
+    "venue": "The Castro Room",
+    "address": "97 Collingwood St, San Francisco, CA 94114",
+    "url": "https://bay.dance/events/contact_improv/",
+    "source": "aggregator:bay.dance",
+    "tags": [
+      "dance",
+      "class"
+    ],
+    "price": null,
+    "description": "SF's 1st and 3rd Monday contact improv night: an hour's beginner-friendly class from 7:45pm flows into a jam with live music until 10:15pm. Teachers and hosts rotate; the SF CI WhatsApp group posts who's on. First Monday after New Year — confirm it's running in the SF CI WhatsApp group before going.",
+    "neighbourhood": "Castro",
+    "cycle_minutes": 17,
+    "added": "2026-10-31",
+    "id": "contact-improvisation-class-jam-at-the-castro-room-4bc5a05a"
+  },
+  {
     "title": "Woodchopper's Ball: live-band swing night",
     "start": "2027-01-05T21:00:00-08:00",
     "end": "2027-01-05T23:30:00-08:00",
@@ -3397,6 +3621,24 @@
     "cycle_minutes": 13,
     "added": "2026-10-30",
     "id": "woodchopper-s-ball-live-band-swing-night-7f424c8e"
+  },
+  {
+    "title": "Berkeley Wednesday Contra Dance",
+    "start": "2027-01-06T20:00:00-08:00",
+    "end": "2027-01-06T22:30:00-08:00",
+    "venue": "Christ Church East Bay",
+    "address": "2138 Cedar St, Berkeley, CA 94709",
+    "url": "https://bacds.org/series/contra/berkeley_wed/",
+    "source": "venue:bacds",
+    "tags": [
+      "dance",
+      "music"
+    ],
+    "price": "$20 ($15 members, $6 students; pay what you can)",
+    "description": "BACDS contra with caller Doe Taryn and live music from Leah Wollenberg and Jeremy Reinhard. The intro lesson is at 7:30pm and roles are gender-neutral. BART from Montgomery to Downtown Berkeley takes ~25 min, plus a 10-min walk.",
+    "neighbourhood": "Berkeley",
+    "added": "2026-10-31",
+    "id": "berkeley-wednesday-contra-dance-55e46a5e"
   },
   {
     "title": "The Loved Ones: Latest Hits record release, with The Vesuvians",
@@ -3490,6 +3732,25 @@
     "id": "nora-brown-with-stephanie-coleman-65eb5243"
   },
   {
+    "title": "SalsaCrazy Mondays: salsa lesson + salsa/bachata social",
+    "start": "2027-01-11T19:00:00-08:00",
+    "end": null,
+    "venue": "Neck of the Woods",
+    "address": "406 Clement St, San Francisco, CA 94118",
+    "url": "https://www.eventbrite.com/e/salsa-dance-classes-and-salsa-and-bachata-dancing-salsacrazy-mondays-tickets-1981014253961",
+    "source": "aggregator:eventbrite",
+    "tags": [
+      "dance",
+      "class"
+    ],
+    "price": "$10-$40",
+    "description": "A long-running Monday salsa night: a beginner lesson at 7pm (no partner or experience needed), intermediate at 7:45, then salsa and bachata social dancing from 8:30. 21+.",
+    "neighbourhood": "Inner Richmond",
+    "cycle_minutes": 27,
+    "added": "2026-10-31",
+    "id": "salsacrazy-mondays-salsa-lesson-salsa-bachata-social-37ffee5d"
+  },
+  {
     "title": "Woodchopper's Ball: live-band swing night",
     "start": "2027-01-12T21:00:00-08:00",
     "end": "2027-01-12T23:30:00-08:00",
@@ -3546,6 +3807,45 @@
     "id": "the-16th-annual-bowie-bash-ee5e1ce5"
   },
   {
+    "title": "Social & Economic Justice Music and the Arts Festival: evening concert",
+    "start": "2027-01-16T19:00:00-08:00",
+    "end": null,
+    "venue": "Victoria Theatre",
+    "address": "2961 16th St, San Francisco, CA 94103",
+    "url": "https://www.csej.org/music-festival/",
+    "source": "venue:csej",
+    "tags": [
+      "music",
+      "community",
+      "festival"
+    ],
+    "price": "$10 concert ($20 with daytime workshops)",
+    "description": "A one-day festival at the historic Victoria Theatre bringing musicians, poets and community organisers together. Workshops run 9am-7pm, then an all-genres concert at 7pm.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 12,
+    "added": "2026-10-31",
+    "id": "social-economic-justice-music-and-the-arts-festival-evening--93a93242"
+  },
+  {
+    "title": "The 16th Annual Bowie Bash (night 2: Band Picks)",
+    "start": "2027-01-16T21:30:00-08:00",
+    "end": null,
+    "venue": "Great American Music Hall",
+    "address": "859 O'Farrell St, San Francisco, CA 94109",
+    "url": "https://wl.seetickets.us/event/the-16th-annual-bowie-bash/707831?afflky=GreatAmericanMusicHall",
+    "source": "venue:gamh",
+    "tags": [
+      "music",
+      "dance"
+    ],
+    "price": "$20 early bird / $25 adv",
+    "description": "Night two of GAMH's annual Bowie birthday-month bash, where Bowie tribute band the First Church of the Sacred Silversexual plays the band's own favourite Bowie songs. Doors 8pm, show 9:30pm.",
+    "neighbourhood": "Tenderloin",
+    "cycle_minutes": 9,
+    "added": "2026-10-31",
+    "id": "the-16th-annual-bowie-bash-night-2-band-picks-e9b70c31"
+  },
+  {
     "title": "Mucha Salsa+ social (free beginner class)",
     "start": "2027-01-17T18:30:00-08:00",
     "end": "2027-01-17T23:00:00-08:00",
@@ -3563,6 +3863,42 @@
     "cycle_minutes": 13,
     "added": "2026-10-30",
     "id": "mucha-salsa-social-free-beginner-class-a1a610fb"
+  },
+  {
+    "title": "Tara Clerkin Trio",
+    "start": "2027-01-18T20:00:00-08:00",
+    "end": null,
+    "venue": "Rickshaw Stop",
+    "address": "155 Fell St, San Francisco, CA 94102",
+    "url": "https://wl.seetickets.us/event/tara-clerkin-trio/706437?afflky=RickshawStop",
+    "source": "venue:rickshaw-stop",
+    "tags": [
+      "music"
+    ],
+    "price": "$22 (+ fees, $29.79)",
+    "description": "The Bristol trio's hazy, hypnotic mix of avant-folk, dub-tinged jazz and chamber pop, co-presented by KALW in a 350-cap room on an MLK Day evening. Doors 7pm, all ages.",
+    "neighbourhood": "Hayes Valley",
+    "cycle_minutes": 9,
+    "added": "2026-10-31",
+    "id": "tara-clerkin-trio-334069e5"
+  },
+  {
+    "title": "Drop-In Circling Workshop (Berkeley)",
+    "start": "2027-01-19T19:00:00-08:00",
+    "end": "2027-01-19T22:00:00-08:00",
+    "venue": "Animal Rights Center",
+    "address": "2414 6th St, Berkeley, CA 94710",
+    "url": "https://www.tickettailor.com/events/thecirclinginsitute/2486230",
+    "source": "venue:circling-institute",
+    "tags": [
+      "workshop",
+      "community"
+    ],
+    "price": "$15-$30",
+    "description": "January's in-person drop-in circling and authentic relating evening from The Circling Institute, open to newcomers. Register ahead: doors 6:45pm and close at 7:10pm sharp. East Bay: BART from Montgomery to Downtown Berkeley (~25 min), then bus or bike to West Berkeley.",
+    "neighbourhood": "Berkeley",
+    "added": "2026-10-31",
+    "id": "drop-in-circling-workshop-berkeley-194034de"
   },
   {
     "title": "True Widow",
@@ -3600,6 +3936,43 @@
     "cycle_minutes": 13,
     "added": "2026-10-30",
     "id": "woodchopper-s-ball-live-band-swing-night-3f4a8bdd"
+  },
+  {
+    "title": "Berkeley Wednesday Contra Dance (The Flagstones)",
+    "start": "2027-01-20T20:00:00-08:00",
+    "end": "2027-01-20T22:30:00-08:00",
+    "venue": "Christ Church East Bay",
+    "address": "2138 Cedar St, Berkeley, CA 94709",
+    "url": "https://bacds.org/series/contra/berkeley_wed/",
+    "source": "venue:bacds",
+    "tags": [
+      "dance",
+      "music"
+    ],
+    "price": "$20 ($15 members, $6 students; pay what you can)",
+    "description": "BACDS contra with caller Charlie Fenton and live band The Flagstones (Anne Goess, Charlie Hancock, Will Wheeler). The intro lesson is at 7:30pm and roles are gender-neutral. BART from Montgomery to Downtown Berkeley takes ~25 min, plus a 10-min walk.",
+    "neighbourhood": "Berkeley",
+    "added": "2026-10-31",
+    "id": "berkeley-wednesday-contra-dance-the-flagstones-43b65fb3"
+  },
+  {
+    "title": "Milonga Malevaje (Thursday tango at the Verdi Club)",
+    "start": "2027-01-21T20:00:00-08:00",
+    "end": "2027-01-21T23:30:00-08:00",
+    "venue": "Verdi Club",
+    "address": "2424 Mariposa St, San Francisco, CA 94110",
+    "url": "https://www.verdiclub.net/events/milonga-malevaje-78-2-2-2-2/2027-01-21/",
+    "source": "venue:verdi-club",
+    "tags": [
+      "dance",
+      "music"
+    ],
+    "price": "$20",
+    "description": "The weekly Argentine tango milonga on the Verdi Club's historic sprung dance floor. It's a social dance for those who already know some tango, and also a good place to watch and meet the local scene.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 13,
+    "added": "2026-10-31",
+    "id": "milonga-malevaje-thursday-tango-at-the-verdi-club-0d8989dc"
   },
   {
     "title": "Eliane Elias Quartet: Antônio Carlos Jobim Centennial Celebration",
@@ -3657,6 +4030,25 @@
     "id": "the-brothers-comatose-8c50af57"
   },
   {
+    "title": "Irish trad seisiún at the Plough and Stars",
+    "start": "2027-01-24T13:00:00-08:00",
+    "end": "2027-01-24T16:00:00-08:00",
+    "venue": "The Plough and Stars",
+    "address": "116 Clement St, San Francisco, CA 94118",
+    "url": "https://www.sffmc.org/community-folk-calendar/",
+    "source": "listing:sffmc-folk-calendar",
+    "tags": [
+      "music",
+      "community"
+    ],
+    "price": "Free",
+    "description": "The weekly Sunday-afternoon instrumental Irish session at SF's best-known trad pub. Come to listen, or bring an instrument and join in.",
+    "neighbourhood": "Inner Richmond",
+    "cycle_minutes": 27,
+    "added": "2026-10-31",
+    "id": "irish-trad-seisi-n-at-the-plough-and-stars-3b86febb"
+  },
+  {
     "title": "Gerald Henig: Little-Known (and Shocking) Revelations About America's Presidents",
     "start": "2027-01-25T18:00:00-08:00",
     "end": "2027-01-25T19:30:00-08:00",
@@ -3712,6 +4104,25 @@
     "id": "jon-bryant-ec6c1dfe"
   },
   {
+    "title": "Milonga Malevaje (Thursday tango at the Verdi Club)",
+    "start": "2027-01-28T20:00:00-08:00",
+    "end": "2027-01-28T23:30:00-08:00",
+    "venue": "Verdi Club",
+    "address": "2424 Mariposa St, San Francisco, CA 94110",
+    "url": "https://www.verdiclub.net/events/milonga-malevaje-78-2-2-2-2/2027-01-28/",
+    "source": "venue:verdi-club",
+    "tags": [
+      "dance",
+      "music"
+    ],
+    "price": "$20",
+    "description": "The weekly Argentine tango milonga on the Verdi Club's historic sprung dance floor. It's a social dance for those who already know some tango, and also a good place to watch and meet the local scene.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 13,
+    "added": "2026-10-31",
+    "id": "milonga-malevaje-thursday-tango-at-the-verdi-club-674a950c"
+  },
+  {
     "title": "Ty Segall",
     "start": "2027-01-29T20:30:00-08:00",
     "end": null,
@@ -3746,5 +4157,24 @@
     "cycle_minutes": 17,
     "added": "2026-10-30",
     "id": "stamptown-at-sf-sketchfest-2027-hosted-by-zach-zucker-d1eb5d78"
+  },
+  {
+    "title": "Lindy in the Park: free swing dancing + beginner lesson",
+    "start": "2027-01-31T11:00:00-08:00",
+    "end": "2027-01-31T14:00:00-08:00",
+    "venue": "Golden Gate Park, JFK Drive (8th-10th Ave)",
+    "address": "JFK Dr between 8th & 10th Ave (behind the de Young), San Francisco, CA",
+    "url": "https://lindyinthepark.com/about/",
+    "source": "venue:lindy-in-the-park",
+    "tags": [
+      "dance",
+      "outdoors"
+    ],
+    "price": "Free",
+    "description": "Free outdoor swing dancing every Sunday since 1996 on car-free JFK Drive, with a free beginner lesson from Hep Jen at noon. Partners rotate, so you don't need to bring one. Weather permitting.",
+    "neighbourhood": "Golden Gate Park",
+    "cycle_minutes": 30,
+    "added": "2026-10-31",
+    "id": "lindy-in-the-park-free-swing-dancing-beginner-lesson-1e26935e"
   }
 ]

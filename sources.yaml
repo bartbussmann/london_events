@@ -211,6 +211,30 @@ listings:
     tags: [food, market]
     # Foodwise (ex-CUESA): https://foodwise.org/events
 
+  - name: The Circling Institute — in-person Berkeley drop-ins
+    url: https://www.tickettailor.com/events/thecirclinginsitute
+    tags: [workshop, community]
+    # monthly Tuesday evenings in West Berkeley (East Bay exception: the only in-person circling nearby); sells out ~a week ahead
+  - name: The Love Potion Library (Castro bookshop-bar)
+    url: https://lu.ma/calendar/cal-9xlm8rlcNcsBdxW
+    tags: [community, class]
+    # Booked readers' dating nights, clay/craft workshops, book clubs; ICS: https://api.lu.ma/ics/get?entity=calendar&id=cal-9xlm8rlcNcsBdxW
+  - name: CocuSocial — SF cooking classes
+    url: https://www.cocusocial.com/cooking-classes/SanFrancisco
+    tags: [class, food]
+    # cheaper than Classpop ($59-65); dated per-class pages
+  - name: Sketchboard Co. — figure drawing schedule
+    url: https://book.squareup.com/classes/uj53t4hfgkzllp/location/DYSM7QRDVFWX7/classes
+    tags: [art, class]
+    # Monument (140 9th St) Wednesdays + Sin Miedo Gallery (Mission) Mondays, $25
+  - name: The Board Walks SF (deep-conversation walks)
+    url: https://www.meetup.com/the-board-walks-san-francisco/
+    tags: [outdoors, community]
+    # weekly Saturday 8am walks; bring a big question
+  - name: SalsaCrazy Mondays (Neck of the Woods, Inner Richmond)
+    url: https://salsamondays.eventbrite.com
+    tags: [dance, class]
+
 keywords:
   - "contact improvisation jam San Francisco"
   - "contact improv class Bay Area beginners"

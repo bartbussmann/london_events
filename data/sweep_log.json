@@ -1,5 +1,11 @@
 [
   {
+    "ran_at": "2026-10-31T08:30:00-07:00",
+    "added": 23,
+    "considered": 118,
+    "notes": "Part 1: pruned 5, suppressed Frame 2.0 Media Showcase (Berkeley, Thu 4pm; both feed copies). Under-served interests: circling drop-ins 15 Dec + 19 Jan (Berkeley — still no in-person circling/AR in SF), Board Walks deep-conversation walk 2 Jan, Castro Room CI 4 Jan (pattern-dated; confirm), Relish speed dating 29-42 14 Nov, Wine Lovers speed date 24-35 5 Nov, singles food tour 7 Nov, CocuSocial sushi 17 Dec $65, Clay & Play 24 Nov $50, Sketchboard figure drawing at Sin Miedo 9 Nov $25. January gap-fill: all empty days filled except Wed 13 Jan (City Guides Castro walk, Lindy 3+31 Jan, Berkeley contra 6+20 Jan, SalsaCrazy 11 Jan, Bowie Bash night 2 + CSEJ festival concert 16 Jan, Tara Clerkin Trio 18 Jan (MLK Day), milongas 21+28 Jan, Plough session 24 Jan). Also Daniel Kahn + Jake Shulman-Ment at the JCC 5 Nov. FLAGGED: La Bola Negra 23 Nov now SOLD OUT. sources.yaml +6 (Circling Institute, Love Potion Library, CocuSocial, Sketchboard, Board Walks, SalsaCrazy). GAPS: no Alexander Technique group intro (Body Project has no winter dates yet); no SF AR games night; pottery tasters all over $80. Rickshaw Stop loaded headless today (AJAX pager page 5). WATCH: SF Sketchfest lineup 13 Nov; Winter Solstice unannounced."
+  },
+  {
     "ran_at": "2026-10-30T08:30:00-07:00",
     "added": 40,
     "considered": 118,

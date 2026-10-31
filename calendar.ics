@@ -441,6 +441,37 @@ URL:https://www.kqed.org/event/6821/happy-hour-showdown
 LOCATION:The Commons at KQED\, 2601 Mariposa St\, San Francisco\, CA 94110
 END:VEVENT
 BEGIN:VEVENT
+UID:sf-wine-lovers-speed-date-24-35-age-group-e85ac9e4@sf-events
+DTSTAMP:20261106T030000Z
+DTSTART:20261106T030000Z
+DTEND:20261106T060000Z
+SUMMARY:SF Wine Lovers Speed Date (24-35 age group)
+DESCRIPTION:A relaxed speed-dating night of 8-minute mini-dates split into
+  two age groups (pick 24-35 when booking)\, followed by open mingling. Ad
+ vance tickets only\, plus a one-drink minimum.\nPrice: Up to $55\nhttps:/
+ /www.eventbrite.com/e/sf-wine-lovers-speed-date-millennials-and-gen-z-tic
+ kets-2003437247739
+URL:https://www.eventbrite.com/e/sf-wine-lovers-speed-date-millennials-and
+ -gen-z-tickets-2003437247739
+LOCATION:Rye Cocktail Bar\, 688 Geary St\, San Francisco\, CA 94102
+END:VEVENT
+BEGIN:VEVENT
+UID:daniel-kahn-jake-shulman-ment-umru-unrest-7a2c9291@sf-events
+DTSTAMP:20261106T030000Z
+DTSTART:20261106T030000Z
+DTEND:20261106T050000Z
+SUMMARY:Daniel Kahn & Jake Shulman-Ment: UMRU/UNREST
+DESCRIPTION:The klezmer/folk singer-songwriter and the virtuoso fiddler pa
+ ir new songs with Yiddish renditions of Cohen\, Dylan\, Guthrie and more.
+  It's intimate\, political folk music in a seated hall.\nPrice: $44\nhttp
+ s://www.eventbrite.com/e/daniel-kahn-jake-shulman-ment-umruunrest-tickets
+ -1998989523476
+URL:https://www.eventbrite.com/e/daniel-kahn-jake-shulman-ment-umruunrest-
+ tickets-1998989523476
+LOCATION:Jewish Community Center of San Francisco\, 3200 California St\, S
+ an Francisco\, CA 94118
+END:VEVENT
+BEGIN:VEVENT
 UID:georgia-parker-with-tashi-t-6670e84e@sf-events
 DTSTAMP:20261106T041500Z
 DTSTART:20261106T041500Z
@@ -511,6 +542,21 @@ URL:https://cafedunord.com/shows/2026-11-06-san-francisco-leonard-cohen-fe
  stival
 LOCATION:Swedish American Hall\, 2174 Market St (upstairs)\, San Francisco
  \, CA 94114
+END:VEVENT
+BEGIN:VEVENT
+UID:singles-walking-food-tour-chinatown-north-beach-f2845f7e@sf-events
+DTSTAMP:20261107T163000Z
+DTSTART:20261107T163000Z
+DTEND:20261107T193000Z
+SUMMARY:Singles Walking Food Tour (Chinatown & North Beach)
+DESCRIPTION:A self-guided morning food crawl for singles\, starting at Lit
+ tle Swan Bakery and taking in dim sum\, the Golden Gate Fortune Cookie Fa
+ ctory\, Good Mong Kok and Bob's Donuts. You buy something at three of the
+  stops. No age bracket is stated.\nPrice: $5 (plus food you buy)\nhttps:/
+ /www.eventbrite.com/e/singles-food-tour-tickets-2003647095399
+URL:https://www.eventbrite.com/e/singles-food-tour-tickets-2003647095399
+LOCATION:Little Swan San Francisco Bakery (meeting point)\, 1249 Stockton 
+ St\, San Francisco\, CA 94133
 END:VEVENT
 BEGIN:VEVENT
 UID:san-francisco-coffee-festival-2026-10th-annual-b2551baf@sf-events
@@ -726,6 +772,21 @@ URL:https://www.commonwealthclub.org/events/2026-11-09/future-public-media
  -paula-kerger-and-michael-isip
 LOCATION:Commonwealth Club World Affairs\, 110 The Embarcadero\, San Franc
  isco\, CA 94105
+END:VEVENT
+BEGIN:VEVENT
+UID:figure-drawing-mondays-at-sin-miedo-gallery-sketchboard-4ee8e5d8@sf-ev
+ ents
+DTSTAMP:20261110T023000Z
+DTSTART:20261110T023000Z
+DTEND:20261110T043000Z
+SUMMARY:Figure drawing Mondays at Sin Miedo Gallery (Sketchboard)
+DESCRIPTION:A drop-in life drawing session from Sketchboard Co. (the peopl
+ e behind the Wednesday Monument nights) at their new Mission gallery near
+  24th St. Bring your own supplies.\nPrice: $25\nhttps://book.squareup.com
+ /classes/uj53t4hfgkzllp/location/DYSM7QRDVFWX7/classes
+URL:https://book.squareup.com/classes/uj53t4hfgkzllp/location/DYSM7QRDVFWX
+ 7/classes
+LOCATION:Sin Miedo Gallery\, 2831 Mission St\, San Francisco\, CA 94110
 END:VEVENT
 BEGIN:VEVENT
 UID:zyzzyva-issue-133-celebration-9abb735e@sf-events
@@ -1071,6 +1132,22 @@ DESCRIPTION:A free volunteer-led indoor tour of the controversial WPA-era
 URL:https://www.sfcityguides.org/find-your-tour/?visit=2026-11-14
 LOCATION:Rincon Center (historic lobby\, east end)\, 101 Spear St\, San Fr
  ancisco\, CA 94105
+END:VEVENT
+BEGIN:VEVENT
+UID:relish-speed-dating-ages-29-42-725e0165@sf-events
+DTSTAMP:20261115T010000Z
+DTSTART:20261115T010000Z
+DTEND:20261115T030000Z
+SUMMARY:Relish Speed Dating (ages 29-42)
+DESCRIPTION:A Saturday-evening speed-dating round of 5-7 minute mini-dates
+  with 8-12 singles aged 29-42\, held in a FiDi hotel lounge. Picks go in 
+ on your phone and matches arrive the next day.\nPrice: $37-$40\nhttps://w
+ ww.eventbrite.com/e/relish-saturday-night-ages-29-42-san-francisco-speed-
+ dating-tickets-2003945740655
+URL:https://www.eventbrite.com/e/relish-saturday-night-ages-29-42-san-fran
+ cisco-speed-dating-tickets-2003945740655
+LOCATION:The Jay\, Autograph Collection\, 433 Clay St\, San Francisco\, CA
+  94111
 END:VEVENT
 BEGIN:VEVENT
 UID:abiogenesis-philip-beesley-casey-curran-opening-sf-art-week-06cced09@s
@@ -1470,8 +1547,9 @@ SUMMARY:La Bola Negra (Los Javis)
 DESCRIPTION:A Bay Area screening of the new film from Cannes-winning Spani
  sh directors Javier Calvo and Javier Ambrossi ('Los Javis'). It follows t
  hree generations of men across turning points in Spanish history\, and is
-  shown in Spanish with English subtitles. Doors 6:30pm\, rated R.\nhttps:
- //thecastro.com/events/la-bola-negra-261123
+  shown in Spanish with English subtitles. Doors 6:30pm\, rated R. [SOLD O
+ UT as of 31 Oct.]\nPrice: Sold out\nhttps://thecastro.com/events/la-bola-
+ negra-261123
 URL:https://thecastro.com/events/la-bola-negra-261123
 LOCATION:Castro Theatre\, 429 Castro St\, San Francisco\, CA 94114
 END:VEVENT
@@ -1487,6 +1565,20 @@ DESCRIPTION:David Bazan's indie-rock/slowcore band Pedro the Lion in a sma
  mofthehill.com/20261123.html
 URL:http://www.bottomofthehill.com/20261123.html
 LOCATION:Bottom of the Hill\, 1233 17th St\, San Francisco\, CA 94107
+END:VEVENT
+BEGIN:VEVENT
+UID:clay-play-make-your-own-bookends-air-dry-clay-9a4a500b@sf-events
+DTSTAMP:20261125T020000Z
+DTSTART:20261125T020000Z
+DTEND:20261125T040000Z
+SUMMARY:Clay & Play: make your own bookends (air-dry clay)
+DESCRIPTION:A beginner hand-building workshop run by Piscola Studio in a C
+ astro bookshop-bar\, sculpting your own bookends from 2 lbs of air-dry cl
+ ay. A short demo leads into 90 minutes of guided studio time. Bring your 
+ own snack or drink.\nPrice: $50 early bird / $60\nhttps://luma.com/qozwef
+ 2n
+URL:https://luma.com/qozwef2n
+LOCATION:The Love Potion Library\, 284 Noe St\, San Francisco\, CA 94114
 END:VEVENT
 BEGIN:VEVENT
 UID:sf-history-night-san-francisco-history-association-56315659@sf-events
@@ -2197,6 +2289,22 @@ LOCATION:City Lights Booksellers\, 261 Columbus Ave\, San Francisco\, CA 9
  4133
 END:VEVENT
 BEGIN:VEVENT
+UID:drop-in-circling-workshop-berkeley-b7d1ce0e@sf-events
+DTSTAMP:20261216T030000Z
+DTSTART:20261216T030000Z
+DTEND:20261216T060000Z
+SUMMARY:Drop-In Circling Workshop (Berkeley)
+DESCRIPTION:The Circling Institute's monthly in-person drop-in evening of 
+ authentic relating and the Original Circling approach\, a guided practice
+  in presence and honest connection with strangers. Register ahead: doors 
+ 6:45pm and close at 7:10pm sharp\, and the last one sold out a week early
+ . East Bay: BART from Montgomery to Downtown Berkeley (~25 min)\, then bu
+ s or bike to West Berkeley.\nPrice: $15-$30\nhttps://www.tickettailor.com
+ /events/thecirclinginsitute/2486228
+URL:https://www.tickettailor.com/events/thecirclinginsitute/2486228
+LOCATION:Animal Rights Center\, 2414 6th St\, Berkeley\, CA 94710
+END:VEVENT
+BEGIN:VEVENT
 UID:the-velvet-teen-with-shutups-and-pocket-full-of-crumbs-0b1dab2e@sf-eve
  nts
 DTSTAMP:20261216T040000Z
@@ -2265,6 +2373,21 @@ DESCRIPTION:An adults-only (18+) winter-solstice night: light and shadow p
 URL:https://www.exploratorium.edu/visit/calendar/after-dark-solstice
 LOCATION:Exploratorium (Pier 15)\, Pier 15\, The Embarcadero at Green St\,
   San Francisco\, CA 94111
+END:VEVENT
+BEGIN:VEVENT
+UID:cooking-class-make-your-own-sushi-8c727f60@sf-events
+DTSTAMP:20261218T020000Z
+DTSTART:20261218T020000Z
+DTEND:20261218T040000Z
+SUMMARY:Cooking class: Make Your Own Sushi
+DESCRIPTION:A two-hour hands-on CocuSocial class rolling tuna maki\, gunka
+ n and California rolls\, from making the sushi rice to cutting and rollin
+ g inside-out. It's beginner-friendly\, for 12-26 people\, and you eat wha
+ t you make. Drinks are from the hotel bar.\nPrice: $65\nhttps://www.cocus
+ ocial.com/newevent/San-Francisco_Make-Your-Own-Sushi_2026-Dec-17
+URL:https://www.cocusocial.com/newevent/San-Francisco_Make-Your-Own-Sushi_
+ 2026-Dec-17
+LOCATION:The Hotel Majestic\, 1500 Sutter St\, San Francisco\, CA 94109
 END:VEVENT
 BEGIN:VEVENT
 UID:laia-jufresa-in-conversation-with-colin-winnette-7636679f@sf-events
@@ -2690,6 +2813,66 @@ LOCATION:The Function SF: Comedy Club & Cocktail Lounge\, 1414 Market St\,
   San Francisco\, CA 94102
 END:VEVENT
 BEGIN:VEVENT
+UID:the-board-walks-walk-talk-about-life-s-big-questions-98e65e2f@sf-event
+ s
+DTSTAMP:20270102T160000Z
+DTSTART:20270102T160000Z
+DTEND:20270102T183000Z
+SUMMARY:The Board Walks: Walk & Talk About Life's Big Questions
+DESCRIPTION:A weekly 5-mile walking conversation club for people who want 
+ depth over small talk. Everyone brings a question to explore\, shares it 
+ in an opening circle\, then drifts between small conversations on the wal
+ k. It's newcomer-friendly and runs rain or shine.\nPrice: Free\nhttps://w
+ ww.meetup.com/the-board-walks-san-francisco/events/316871043/
+URL:https://www.meetup.com/the-board-walks-san-francisco/events/316871043/
+LOCATION:Coffee To The People (meeting point)\, 1206 Masonic Ave\, San Fra
+ ncisco\, CA 94117
+END:VEVENT
+BEGIN:VEVENT
+UID:sf-city-guides-free-walking-tour-castro-tales-of-the-village-cf346476@
+ sf-events
+DTSTAMP:20270102T190000Z
+DTSTART:20270102T190000Z
+DTEND:20270102T210000Z
+SUMMARY:SF City Guides free walking tour: Castro\, Tales of the Village
+DESCRIPTION:A free volunteer-led two-hour history walk through the Castro\
+ , from Harvey Milk's camera-shop campaign to how the neighbourhood keeps 
+ evolving. It starts at Jane Warner Plaza.\nPrice: Free (donations welcome
+ )\nhttps://www.sfcityguides.org/find-your-tour/?visit=2027-01-02
+URL:https://www.sfcityguides.org/find-your-tour/?visit=2027-01-02
+LOCATION:Jane Warner Plaza (meeting point)\, Castro St & Market St\, San F
+ rancisco\, CA 94114
+END:VEVENT
+BEGIN:VEVENT
+UID:lindy-in-the-park-free-swing-dancing-beginner-lesson-99fb5a59@sf-event
+ s
+DTSTAMP:20270103T190000Z
+DTSTART:20270103T190000Z
+DTEND:20270103T220000Z
+SUMMARY:Lindy in the Park: free swing dancing + beginner lesson
+DESCRIPTION:Free outdoor swing dancing every Sunday since 1996 on car-free
+  JFK Drive\, with a free beginner lesson from Hep Jen at noon. Partners r
+ otate\, so you don't need to bring one. Weather permitting.\nPrice: Free\
+ nhttps://lindyinthepark.com/about/
+URL:https://lindyinthepark.com/about/
+LOCATION:Golden Gate Park\, JFK Drive (8th-10th Ave)\, JFK Dr between 8th 
+ & 10th Ave (behind the de Young)\, San Francisco\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:contact-improvisation-class-jam-at-the-castro-room-4bc5a05a@sf-events
+DTSTAMP:20270105T034500Z
+DTSTART:20270105T034500Z
+DTEND:20270105T061500Z
+SUMMARY:Contact Improvisation class + jam at The Castro Room
+DESCRIPTION:SF's 1st and 3rd Monday contact improv night: an hour's beginn
+ er-friendly class from 7:45pm flows into a jam with live music until 10:1
+ 5pm. Teachers and hosts rotate\; the SF CI WhatsApp group posts who's on.
+  First Monday after New Year — confirm it's running in the SF CI WhatsA
+ pp group before going.\nhttps://bay.dance/events/contact_improv/
+URL:https://bay.dance/events/contact_improv/
+LOCATION:The Castro Room\, 97 Collingwood St\, San Francisco\, CA 94114
+END:VEVENT
+BEGIN:VEVENT
 UID:woodchopper-s-ball-live-band-swing-night-7f424c8e@sf-events
 DTSTAMP:20270106T050000Z
 DTSTART:20270106T050000Z
@@ -2704,6 +2887,20 @@ DESCRIPTION:The weekly Tuesday live-band swing dance at the historic Verdi
 URL:https://www.verdiclub.net/events/the-woodchoppers-ball-42-3-2/2027-01-
  05/
 LOCATION:Verdi Club\, 2424 Mariposa St\, San Francisco\, CA 94110
+END:VEVENT
+BEGIN:VEVENT
+UID:berkeley-wednesday-contra-dance-55e46a5e@sf-events
+DTSTAMP:20270107T040000Z
+DTSTART:20270107T040000Z
+DTEND:20270107T063000Z
+SUMMARY:Berkeley Wednesday Contra Dance
+DESCRIPTION:BACDS contra with caller Doe Taryn and live music from Leah Wo
+ llenberg and Jeremy Reinhard. The intro lesson is at 7:30pm and roles are
+  gender-neutral. BART from Montgomery to Downtown Berkeley takes ~25 min\
+ , plus a 10-min walk.\nPrice: $20 ($15 members\, $6 students\; pay what y
+ ou can)\nhttps://bacds.org/series/contra/berkeley_wed/
+URL:https://bacds.org/series/contra/berkeley_wed/
+LOCATION:Christ Church East Bay\, 2138 Cedar St\, Berkeley\, CA 94709
 END:VEVENT
 BEGIN:VEVENT
 UID:the-loved-ones-latest-hits-record-release-with-the-vesuvians-b735b97a@
@@ -2781,6 +2978,22 @@ URL:https://wl.seetickets.us/event/nora-brown-with-stephanie-coleman/70655
 LOCATION:The Chapel\, 777 Valencia St\, San Francisco\, CA 94110
 END:VEVENT
 BEGIN:VEVENT
+UID:salsacrazy-mondays-salsa-lesson-salsa-bachata-social-37ffee5d@sf-event
+ s
+DTSTAMP:20270112T030000Z
+DTSTART:20270112T030000Z
+DTEND:20270112T050000Z
+SUMMARY:SalsaCrazy Mondays: salsa lesson + salsa/bachata social
+DESCRIPTION:A long-running Monday salsa night: a beginner lesson at 7pm (n
+ o partner or experience needed)\, intermediate at 7:45\, then salsa and b
+ achata social dancing from 8:30. 21+.\nPrice: $10-$40\nhttps://www.eventb
+ rite.com/e/salsa-dance-classes-and-salsa-and-bachata-dancing-salsacrazy-m
+ ondays-tickets-1981014253961
+URL:https://www.eventbrite.com/e/salsa-dance-classes-and-salsa-and-bachata
+ -dancing-salsacrazy-mondays-tickets-1981014253961
+LOCATION:Neck of the Woods\, 406 Clement St\, San Francisco\, CA 94118
+END:VEVENT
+BEGIN:VEVENT
 UID:woodchopper-s-ball-live-band-swing-night-5c88d5b5@sf-events
 DTSTAMP:20270113T050000Z
 DTSTART:20270113T050000Z
@@ -2828,6 +3041,37 @@ LOCATION:Great American Music Hall\, 859 O'Farrell St\, San Francisco\, CA
   94109
 END:VEVENT
 BEGIN:VEVENT
+UID:social-economic-justice-music-and-the-arts-festival-evening--93a93242@
+ sf-events
+DTSTAMP:20270117T030000Z
+DTSTART:20270117T030000Z
+DTEND:20270117T050000Z
+SUMMARY:Social & Economic Justice Music and the Arts Festival: evening con
+ cert
+DESCRIPTION:A one-day festival at the historic Victoria Theatre bringing m
+ usicians\, poets and community organisers together. Workshops run 9am-7pm
+ \, then an all-genres concert at 7pm.\nPrice: $10 concert ($20 with dayti
+ me workshops)\nhttps://www.csej.org/music-festival/
+URL:https://www.csej.org/music-festival/
+LOCATION:Victoria Theatre\, 2961 16th St\, San Francisco\, CA 94103
+END:VEVENT
+BEGIN:VEVENT
+UID:the-16th-annual-bowie-bash-night-2-band-picks-e9b70c31@sf-events
+DTSTAMP:20270117T053000Z
+DTSTART:20270117T053000Z
+DTEND:20270117T073000Z
+SUMMARY:The 16th Annual Bowie Bash (night 2: Band Picks)
+DESCRIPTION:Night two of GAMH's annual Bowie birthday-month bash\, where B
+ owie tribute band the First Church of the Sacred Silversexual plays the b
+ and's own favourite Bowie songs. Doors 8pm\, show 9:30pm.\nPrice: $20 ear
+ ly bird / $25 adv\nhttps://wl.seetickets.us/event/the-16th-annual-bowie-b
+ ash/707831?afflky=GreatAmericanMusicHall
+URL:https://wl.seetickets.us/event/the-16th-annual-bowie-bash/707831?afflk
+ y=GreatAmericanMusicHall
+LOCATION:Great American Music Hall\, 859 O'Farrell St\, San Francisco\, CA
+  94109
+END:VEVENT
+BEGIN:VEVENT
 UID:mucha-salsa-social-free-beginner-class-a1a610fb@sf-events
 DTSTAMP:20270118T023000Z
 DTSTART:20270118T023000Z
@@ -2839,6 +3083,34 @@ DESCRIPTION:A not-for-profit Sunday salsa social at the Verdi Club. Beginn
  15\nhttps://www.verdiclub.net/events/mucha-salsa-5-2/2027-01-17/
 URL:https://www.verdiclub.net/events/mucha-salsa-5-2/2027-01-17/
 LOCATION:Verdi Club\, 2424 Mariposa St\, San Francisco\, CA 94110
+END:VEVENT
+BEGIN:VEVENT
+UID:tara-clerkin-trio-334069e5@sf-events
+DTSTAMP:20270119T040000Z
+DTSTART:20270119T040000Z
+DTEND:20270119T060000Z
+SUMMARY:Tara Clerkin Trio
+DESCRIPTION:The Bristol trio's hazy\, hypnotic mix of avant-folk\, dub-tin
+ ged jazz and chamber pop\, co-presented by KALW in a 350-cap room on an M
+ LK Day evening. Doors 7pm\, all ages.\nPrice: $22 (+ fees\, $29.79)\nhttp
+ s://wl.seetickets.us/event/tara-clerkin-trio/706437?afflky=RickshawStop
+URL:https://wl.seetickets.us/event/tara-clerkin-trio/706437?afflky=Ricksha
+ wStop
+LOCATION:Rickshaw Stop\, 155 Fell St\, San Francisco\, CA 94102
+END:VEVENT
+BEGIN:VEVENT
+UID:drop-in-circling-workshop-berkeley-194034de@sf-events
+DTSTAMP:20270120T030000Z
+DTSTART:20270120T030000Z
+DTEND:20270120T060000Z
+SUMMARY:Drop-In Circling Workshop (Berkeley)
+DESCRIPTION:January's in-person drop-in circling and authentic relating ev
+ ening from The Circling Institute\, open to newcomers. Register ahead: do
+ ors 6:45pm and close at 7:10pm sharp. East Bay: BART from Montgomery to D
+ owntown Berkeley (~25 min)\, then bus or bike to West Berkeley.\nPrice: $
+ 15-$30\nhttps://www.tickettailor.com/events/thecirclinginsitute/2486230
+URL:https://www.tickettailor.com/events/thecirclinginsitute/2486230
+LOCATION:Animal Rights Center\, 2414 6th St\, Berkeley\, CA 94710
 END:VEVENT
 BEGIN:VEVENT
 UID:true-widow-d2a48ba9@sf-events
@@ -2868,6 +3140,36 @@ DESCRIPTION:The weekly Tuesday live-band swing dance at the historic Verdi
  ll-42-3-2/2027-01-19/
 URL:https://www.verdiclub.net/events/the-woodchoppers-ball-42-3-2/2027-01-
  19/
+LOCATION:Verdi Club\, 2424 Mariposa St\, San Francisco\, CA 94110
+END:VEVENT
+BEGIN:VEVENT
+UID:berkeley-wednesday-contra-dance-the-flagstones-43b65fb3@sf-events
+DTSTAMP:20270121T040000Z
+DTSTART:20270121T040000Z
+DTEND:20270121T063000Z
+SUMMARY:Berkeley Wednesday Contra Dance (The Flagstones)
+DESCRIPTION:BACDS contra with caller Charlie Fenton and live band The Flag
+ stones (Anne Goess\, Charlie Hancock\, Will Wheeler). The intro lesson is
+  at 7:30pm and roles are gender-neutral. BART from Montgomery to Downtown
+  Berkeley takes ~25 min\, plus a 10-min walk.\nPrice: $20 ($15 members\, 
+ $6 students\; pay what you can)\nhttps://bacds.org/series/contra/berkeley
+ _wed/
+URL:https://bacds.org/series/contra/berkeley_wed/
+LOCATION:Christ Church East Bay\, 2138 Cedar St\, Berkeley\, CA 94709
+END:VEVENT
+BEGIN:VEVENT
+UID:milonga-malevaje-thursday-tango-at-the-verdi-club-0d8989dc@sf-events
+DTSTAMP:20270122T040000Z
+DTSTART:20270122T040000Z
+DTEND:20270122T073000Z
+SUMMARY:Milonga Malevaje (Thursday tango at the Verdi Club)
+DESCRIPTION:The weekly Argentine tango milonga on the Verdi Club's histori
+ c sprung dance floor. It's a social dance for those who already know some
+  tango\, and also a good place to watch and meet the local scene.\nPrice:
+  $20\nhttps://www.verdiclub.net/events/milonga-malevaje-78-2-2-2-2/2027-0
+ 1-21/
+URL:https://www.verdiclub.net/events/milonga-malevaje-78-2-2-2-2/2027-01-2
+ 1/
 LOCATION:Verdi Club\, 2424 Mariposa St\, San Francisco\, CA 94110
 END:VEVENT
 BEGIN:VEVENT
@@ -2911,6 +3213,18 @@ DESCRIPTION:SF's own rowdy five-piece string band plays bluegrass\, countr
  /www.theindependentsf.com/tm-event/the-brothers-comatose-2/
 URL:https://www.theindependentsf.com/tm-event/the-brothers-comatose-2/
 LOCATION:The Independent\, 628 Divisadero St\, San Francisco\, CA 94117
+END:VEVENT
+BEGIN:VEVENT
+UID:irish-trad-seisi-n-at-the-plough-and-stars-3b86febb@sf-events
+DTSTAMP:20270124T210000Z
+DTSTART:20270124T210000Z
+DTEND:20270125T000000Z
+SUMMARY:Irish trad seisiún at the Plough and Stars
+DESCRIPTION:The weekly Sunday-afternoon instrumental Irish session at SF's
+  best-known trad pub. Come to listen\, or bring an instrument and join in
+ .\nPrice: Free\nhttps://www.sffmc.org/community-folk-calendar/
+URL:https://www.sffmc.org/community-folk-calendar/
+LOCATION:The Plough and Stars\, 116 Clement St\, San Francisco\, CA 94118
 END:VEVENT
 BEGIN:VEVENT
 UID:gerald-henig-little-known-and-shocking-revelations-about-ame-e5828c1c@
@@ -2961,6 +3275,21 @@ LOCATION:Cafe du Nord\, 2174 Market St (downstairs)\, San Francisco\, CA 9
  4114
 END:VEVENT
 BEGIN:VEVENT
+UID:milonga-malevaje-thursday-tango-at-the-verdi-club-674a950c@sf-events
+DTSTAMP:20270129T040000Z
+DTSTART:20270129T040000Z
+DTEND:20270129T073000Z
+SUMMARY:Milonga Malevaje (Thursday tango at the Verdi Club)
+DESCRIPTION:The weekly Argentine tango milonga on the Verdi Club's histori
+ c sprung dance floor. It's a social dance for those who already know some
+  tango\, and also a good place to watch and meet the local scene.\nPrice:
+  $20\nhttps://www.verdiclub.net/events/milonga-malevaje-78-2-2-2-2/2027-0
+ 1-28/
+URL:https://www.verdiclub.net/events/milonga-malevaje-78-2-2-2-2/2027-01-2
+ 8/
+LOCATION:Verdi Club\, 2424 Mariposa St\, San Francisco\, CA 94110
+END:VEVENT
+BEGIN:VEVENT
 UID:ty-segall-27832b2f@sf-events
 DTSTAMP:20270130T043000Z
 DTSTART:20270130T043000Z
@@ -2986,5 +3315,20 @@ DESCRIPTION:Zach Zucker's chaotic\, character-heavy alt-comedy showcase\,
  -$92\nhttps://thecastro.com/events/stamptown-with-zach-zucker-270130
 URL:https://thecastro.com/events/stamptown-with-zach-zucker-270130
 LOCATION:Castro Theatre\, 429 Castro St\, San Francisco\, CA 94114
+END:VEVENT
+BEGIN:VEVENT
+UID:lindy-in-the-park-free-swing-dancing-beginner-lesson-1e26935e@sf-event
+ s
+DTSTAMP:20270131T190000Z
+DTSTART:20270131T190000Z
+DTEND:20270131T220000Z
+SUMMARY:Lindy in the Park: free swing dancing + beginner lesson
+DESCRIPTION:Free outdoor swing dancing every Sunday since 1996 on car-free
+  JFK Drive\, with a free beginner lesson from Hep Jen at noon. Partners r
+ otate\, so you don't need to bring one. Weather permitting.\nPrice: Free\
+ nhttps://lindyinthepark.com/about/
+URL:https://lindyinthepark.com/about/
+LOCATION:Golden Gate Park\, JFK Drive (8th-10th Ave)\, JFK Dr between 8th 
+ & 10th Ave (behind the de Young)\, San Francisco\, CA
 END:VEVENT
 END:VCALENDAR
