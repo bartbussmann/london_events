@@ -1,5 +1,11 @@
 [
   {
+    "ran_at": "2026-11-01T08:30:00-08:00",
+    "added": 23,
+    "considered": 88,
+    "notes": "Clocks went back today (PST, -08:00). Part 1 pruned 7; feeds 0 new. FRESHNESS CHECK of all 63 events 2-15 Nov: SOLD OUT flagged — Booked readers' dating night 3 Nov, climate collage soiree 6 Nov, Moth GrandSLAM 13 Nov. MOVED: EA SF Discussion Salon 4 Nov -> 18 Nov (updated in place). Mox talent show moved 29 Oct -> 12 Nov (re-added under its feed id ics-e47b9bf006cd; AISF copies of both moved events pre-suppressed). Sketchboard Square page rendered no class list (4 + 9 Nov unconfirmed, left as is). NEW (23): Entangled Intelligences (Long Now: Eagleman/Lanier/Levin) 10 Nov — back IN STOCK after waitlist; Humanist Review of AI (Mustafa Suleyman, Sarah Guo) Commonwealth 18 Nov; Philosophy Talk Live on Kafka 17 Nov; Curiosity Guild six-talks night 3 Nov; Dia de los Muertos procession 2 Nov (Funcheap-only verification); Downtown First Thursdays w/ Big Freedia 5 Nov (2 min from home; listed from 8pm set, party 5-10pm); Loquat reunion + IAN SWEET 6 Nov; Greg Freeman 5 Nov; Silverada 17 Nov; Taylor Bickett Hotel Utah 3 Nov; KQED Object Stories 12 Nov; Presidio Dia de los Muertos/Diwali 7 Nov; Arion Press Alice talk 7 Nov; Jane Austen reader's theatre 19 Nov; Touki Bouki YBCA 21 Nov; Manny's election debrief 4 Nov + chocolate club 21 Nov; SF Civic Music free concert 15 Nov; Lindy 15 Nov; psychedelic film night 18 Nov; Marie Darrieussecq City Lights 18 Nov. SOLD OUT (not proposed): Connection Lab 7 Nov, LPL perfume + craft nights. CANCELLED: Prayers GAMH 16 Nov (not on calendar). Blocked: Rickshaw Stop (Cloudflare again), Cartoonist Conspiracy, Cyberpunk Cinema, Midnight Mystery Ride."
+  },
+  {
     "ran_at": "2026-10-31T08:30:00-07:00",
     "added": 23,
     "considered": 118,

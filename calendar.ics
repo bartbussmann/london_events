@@ -193,6 +193,22 @@ LOCATION:Ocean Beach (Great Highway at Balboa St)\, Great Highway & Balboa
   St\, San Francisco\, CA 94121
 END:VEVENT
 BEGIN:VEVENT
+UID:d-a-de-los-muertos-procession-45th-annual-in-the-mission-54f042ec@sf-e
+ vents
+DTSTAMP:20261103T020000Z
+DTSTART:20261103T020000Z
+DTEND:20261103T050000Z
+SUMMARY:Día de los Muertos Procession (45th annual) in the Mission
+DESCRIPTION:The Mission's 45th annual Day of the Dead procession\, with Az
+ tec dancers\, musicians and community groups looping Bryant\, 24th St and
+  Mission St. Dancers gather at 6pm and the procession steps off at 7pm.\n
+ Price: Free\nhttps://sf.funcheap.com/sf-dia-de-los-muertos-procession-mis
+ sion/
+URL:https://sf.funcheap.com/sf-dia-de-los-muertos-procession-mission/
+LOCATION:22nd St & Bryant St (procession start)\, 22nd St & Bryant St\, Sa
+ n Francisco\, CA 94110
+END:VEVENT
+BEGIN:VEVENT
 UID:los-gaiteros-de-san-jacinto-fruko-y-sus-tesos-carmelo-torres-bbf98821@
  sf-events
 DTSTAMP:20261103T033000Z
@@ -232,9 +248,38 @@ SUMMARY:Booked: Dating Night for Readers (ages 25-35)
 DESCRIPTION:A guided dating mixer for readers aged 25-35. Everyone brings 
  a book that matters to them\, and hosts move the room from group prompts 
  to one-on-one conversations\, so no cold approaches. It's curated for a b
- alanced room.\nPrice: $30\nhttps://luma.com/l7xbwkb3
+ alanced room. [SOLD OUT as of 1 Nov — waitlist only.]\nPrice: Sold out 
+ (waitlist)\nhttps://luma.com/l7xbwkb3
 URL:https://luma.com/l7xbwkb3
 LOCATION:The Love Potion Library\, 284 Noe St\, San Francisco\, CA 94114
+END:VEVENT
+BEGIN:VEVENT
+UID:taylor-bickett-with-fairhazel-an-evening-of-indie-pop-e4c697ca@sf-even
+ ts
+DTSTAMP:20261104T030000Z
+DTSTART:20261104T030000Z
+DTEND:20261104T050000Z
+SUMMARY:Taylor Bickett with Fairhazel (An Evening of Indie-Pop)
+DESCRIPTION:Indiana-born singer-songwriter Taylor Bickett brings her intim
+ ate\, lyric-driven indie pop to the tiny Hotel Utah room. It's 21+ and th
+ e closest small venue to home.\nPrice: $18 adv / $20 door\nhttps://wl.see
+ tickets.us/event/taylor-bickett/690933?afflky=HotelUtahSaloon
+URL:https://wl.seetickets.us/event/taylor-bickett/690933?afflky=HotelUtahS
+ aloon
+LOCATION:Hotel Utah Saloon\, 500 4th St\, San Francisco\, CA 94107
+END:VEVENT
+BEGIN:VEVENT
+UID:curiosity-guild-by-design-six-short-talks-024e880b@sf-events
+DTSTAMP:20261104T030000Z
+DTSTART:20261104T030000Z
+DTEND:20261104T060000Z
+SUMMARY:Curiosity Guild: By Design (six short talks)
+DESCRIPTION:A Nerd Nite-style evening of six short talks\, on planned obso
+ lescence\, tarot art\, William Morris\, missions around the Moon and more
+ . Doors at 7pm\, talks at 8pm\, 21+.\nPrice: $28.52-$49.87\nhttps://www.e
+ ventbrite.com/e/by-design-tickets-1989199060939
+URL:https://www.eventbrite.com/e/by-design-tickets-1989199060939
+LOCATION:Public Works\, 161 Erie St\, San Francisco\, CA 94103
 END:VEVENT
 BEGIN:VEVENT
 UID:blade-runner-the-final-cut-35mm-6ea82a3e@sf-events
@@ -282,16 +327,19 @@ URL:https://grayarea.org/event/patch-bay-interactive-worlds-ai-figma-works
 LOCATION:Gray Area\, 2665 Mission St\, San Francisco\, CA 94110
 END:VEVENT
 BEGIN:VEVENT
-UID:ics-d511beaed00f@sf-events
-DTSTAMP:20261105T023000Z
-DTSTART:20261105T023000Z
-DTEND:20261105T043000Z
-SUMMARY:EA SF Discussion Salon: Cause Prioritization
-DESCRIPTION:EA SF Discussion Salon on cause prioritization at Mox — smal
- l-group discussion format\, good for meeting the local EA community.\nPri
- ce: Free (register on Luma)\nhttps://luma.com/anw0fxzg
-URL:https://luma.com/anw0fxzg
-LOCATION:Mox\, 1680 Mission St\, San Francisco\, CA 94103
+UID:debriefing-the-2026-election-at-manny-s-b73b0a72@sf-events
+DTSTAMP:20261105T020000Z
+DTSTART:20261105T020000Z
+DTEND:20261105T030000Z
+SUMMARY:Debriefing the 2026 Election at Manny's
+DESCRIPTION:A community discussion the day after election night to talk th
+ rough the results with neighbours. It's Manny's usual civic-salon format\
+ , so it's easy to join conversations.\nPrice: $10-$20 (free on request)\n
+ https://www.eventbrite.com/e/debriefing-the-2026-election-tickets-2003637
+ 684250
+URL:https://www.eventbrite.com/e/debriefing-the-2026-election-tickets-2003
+ 637684250
+LOCATION:Manny's\, 3092 16th St\, San Francisco\, CA 94103
 END:VEVENT
 BEGIN:VEVENT
 UID:figure-drawing-at-monument-sf-sketchboard-8340ca3c@sf-events
@@ -369,6 +417,34 @@ LOCATION:Jewish Community Center of San Francisco\, 3200 California St\, S
  an Francisco\, CA 94118
 END:VEVENT
 BEGIN:VEVENT
+UID:greg-freeman-with-trinity-ace-8b625f82@sf-events
+DTSTAMP:20261106T040000Z
+DTSTART:20261106T040000Z
+DTEND:20261106T060000Z
+SUMMARY:Greg Freeman with Trinity Ace
+DESCRIPTION:The Vermont songwriter tours his new John Congleton-produced a
+ lbum All Set The Bone\, ragged indie rock in the line of early Modest Mou
+ se and Pavement. Doors 7:30pm\, all ages.\nPrice: $34\nhttps://www.theind
+ ependentsf.com/tm-event/greg-freeman/
+URL:https://www.theindependentsf.com/tm-event/greg-freeman/
+LOCATION:The Independent\, 628 Divisadero St\, San Francisco\, CA 94117
+END:VEVENT
+BEGIN:VEVENT
+UID:downtown-first-thursdays-street-party-big-freedia-headlines-88a837bc@s
+ f-events
+DTSTAMP:20261106T040000Z
+DTSTART:20261106T040000Z
+DTEND:20261106T060000Z
+SUMMARY:Downtown First Thursdays street party: Big Freedia headlines
+DESCRIPTION:Downtown SF's free monthly street party fills three blocks of 
+ 2nd St with stages\, DJs\, food trucks and outdoor bars\, and New Orleans
+  bounce queen Big Freedia headlines the Howard St stage 8-9pm. It's two b
+ locks from home.\nPrice: Free (RSVP)\nhttps://www.dftsf.com/
+URL:https://www.dftsf.com/
+LOCATION:2nd St between Market & Howard (Howard St stage)\, 2nd St & Howar
+ d St\, San Francisco\, CA 94105
+END:VEVENT
+BEGIN:VEVENT
 UID:georgia-parker-with-tashi-t-6670e84e@sf-events
 DTSTAMP:20261106T041500Z
 DTSTART:20261106T041500Z
@@ -404,8 +480,8 @@ DTEND:20261107T050000Z
 SUMMARY:Visioning the Future: A Climate Action Collage Soirée
 DESCRIPTION:Soapbox San Francisco hosts a dinner-and-collage party to imag
  ine a thriving\, carbon-free SF in 2050: housing\, transit\, green space.
-  It's billed as a way to make friends.\nPrice: $5-56 sliding scale\nhttps
- ://luma.com/u9l1w54q
+  It's billed as a way to make friends. [SOLD OUT as of 1 Nov — waitlist
+  only.]\nPrice: Sold out (waitlist)\nhttps://luma.com/u9l1w54q
 URL:https://luma.com/u9l1w54q
 LOCATION:The Faight Collective\, 473A Haight St\, San Francisco\, CA 94117
 END:VEVENT
@@ -441,6 +517,33 @@ LOCATION:Swedish American Hall\, 2174 Market St (upstairs)\, San Francisco
  \, CA 94114
 END:VEVENT
 BEGIN:VEVENT
+UID:ian-sweet-b27135ec@sf-events
+DTSTAMP:20261107T040000Z
+DTSTART:20261107T040000Z
+DTEND:20261107T060000Z
+SUMMARY:IAN SWEET
+DESCRIPTION:Jilian Medford's indie-rock project plays the intimate basemen
+ t room at Cafe du Nord. Doors 7pm\, show 8pm\, 21+.\nPrice: $28.30\nhttps
+ ://cafedunord.com/shows/2026-11-06-ian-sweet
+URL:https://cafedunord.com/shows/2026-11-06-ian-sweet
+LOCATION:Cafe du Nord\, 2174 Market St (downstairs)\, San Francisco\, CA 9
+ 4114
+END:VEVENT
+BEGIN:VEVENT
+UID:loquat-10-year-reunion-show-with-halou-and-steilacoom-96d61c30@sf-even
+ ts
+DTSTAMP:20261107T043000Z
+DTSTART:20261107T043000Z
+DTEND:20261107T063000Z
+SUMMARY:Loquat (10-year reunion show) with Halou and Steilacoom
+DESCRIPTION:SF dream-pop band Loquat reunites for a 10-year reunion show\,
+  with local dreampop/electrogaze veterans Halou in support. Doors 8pm\, m
+ usic 8:30pm\, all ages.\nPrice: $15 adv / $20 door\nhttps://www.bottomoft
+ hehill.com/calendar.html
+URL:https://www.bottomofthehill.com/calendar.html
+LOCATION:Bottom of the Hill\, 1233 17th St\, San Francisco\, CA 94107
+END:VEVENT
+BEGIN:VEVENT
 UID:singles-walking-food-tour-chinatown-north-beach-f2845f7e@sf-events
 DTSTAMP:20261107T163000Z
 DTSTART:20261107T163000Z
@@ -469,6 +572,22 @@ URL:https://www.eventbrite.com/e/san-francisco-coffee-festival-2026-ticket
  s-1977403325577
 LOCATION:Fort Mason Center Festival Pavilion\, 2 Marina Blvd\, San Francis
  co\, CA 94109
+END:VEVENT
+BEGIN:VEVENT
+UID:d-a-de-los-muertos-and-diwali-festival-at-presidio-tunnel-to-339ca4d7@
+ sf-events
+DTSTAMP:20261107T180000Z
+DTSTART:20261107T180000Z
+DTEND:20261107T230000Z
+SUMMARY:Día de los Muertos and Diwali Festival at Presidio Tunnel Tops
+DESCRIPTION:A free afternoon of live performances\, crafts and cultural ce
+ remonies marking both Día de los Muertos and Diwali\, on the Tunnel Tops
+  lawns above Crissy Field.\nPrice: Free\nhttps://presidio.gov/explore/eve
+ nts/dia-de-los-muertos-and-diwali-festival
+URL:https://presidio.gov/explore/events/dia-de-los-muertos-and-diwali-fest
+ ival
+LOCATION:Presidio Tunnel Tops\, 210 Lincoln Blvd\, San Francisco\, CA 9412
+ 9
 END:VEVENT
 BEGIN:VEVENT
 UID:the-san-francisco-fall-cider-fest-090d66ac@sf-events
@@ -500,6 +619,24 @@ DESCRIPTION:A free volunteer-led history walk along the flat northern wate
 URL:https://www.sfcityguides.org/find-your-tour/?visit=2026-11-07
 LOCATION:Ferry Building (meet under the clock tower)\, Ferry Building\, 1 
  Ferry Building\, San Francisco\, CA 94111
+END:VEVENT
+BEGIN:VEVENT
+UID:arion-press-alice-in-wonderland-talk-with-deena-chalabi-blak-4a013e80@
+ sf-events
+DTSTAMP:20261107T230000Z
+DTSTART:20261107T230000Z
+DTEND:20261108T000000Z
+SUMMARY:Arion Press: Alice in Wonderland talk with Deena Chalabi\, Blake R
+ iley and Rupy C. Tut
+DESCRIPTION:SF's letterpress fine-press house Arion Press talks through th
+ e making of its new illustrated Alice\, with the artist\, printer and a c
+ urator. An open house at the press downstairs runs just before.\nPrice: F
+ ree\nhttps://www.eventbrite.com/e/alice-in-wonderland-talk-with-deena-cha
+ labi-blake-riley-and-rupy-c-tut-tickets-2003785976797
+URL:https://www.eventbrite.com/e/alice-in-wonderland-talk-with-deena-chala
+ bi-blake-riley-and-rupy-c-tut-tickets-2003785976797
+LOCATION:Bayfront Theater\, Fort Mason Center\, 2 Marina Blvd\, Building B
+ \, 3rd Floor\, San Francisco\, CA 94123
 END:VEVENT
 BEGIN:VEVENT
 UID:1st-saturday-irish-trad-session-at-the-plough-and-stars-bf378747@sf-ev
@@ -762,6 +899,26 @@ URL:https://www.kqed.org/event/6827/paint-sip-play-a-mission-district-game
 LOCATION:The Commons at KQED\, 2601 Mariposa St\, San Francisco\, CA 94110
 END:VEVENT
 BEGIN:VEVENT
+UID:entangled-intelligences-long-now-eagleman-lanier-levin-and-m-bc5ede18@
+ sf-events
+DTSTAMP:20261111T030000Z
+DTSTART:20261111T030000Z
+DTEND:20261111T050000Z
+SUMMARY:Entangled Intelligences (Long Now: Eagleman\, Lanier\, Levin and m
+ ore)
+DESCRIPTION:A Long Now special evening on interspecies and synthetic intel
+ ligence\, with David Eagleman\, Jaron Lanier\, Michael Levin\, Sara Imari
+  Walker and others plus performers. It runs from microbes and ecosystems 
+ to AI agents and exoplanets. It was sold out with a waitlist in late Octo
+ ber\; Eventbrite showed tickets back in stock on 1 Nov — book promptly.
+ \nPrice: $44.52\nhttps://www.eventbrite.com/e/entangled-intelligences-tic
+ kets-1992365697434
+URL:https://www.eventbrite.com/e/entangled-intelligences-tickets-199236569
+ 7434
+LOCATION:Cowell Theater\, Fort Mason Center\, Pier 2\, Fort Mason Center\,
+  San Francisco\, CA 94123
+END:VEVENT
+BEGIN:VEVENT
 UID:claudio-simonetti-s-goblin-performs-the-live-score-to-tenebr-dda3a5b6@
  sf-events
 DTSTAMP:20261111T033000Z
@@ -910,6 +1067,34 @@ LOCATION:City Lights Booksellers\, 261 Columbus Ave\, San Francisco\, CA 9
  4133
 END:VEVENT
 BEGIN:VEVENT
+UID:ics-e47b9bf006cd@sf-events
+DTSTAMP:20261113T030000Z
+DTSTART:20261113T030000Z
+DTEND:20261113T050000Z
+SUMMARY:Talent Show: Has Mox Got Talent?
+DESCRIPTION:The rationalist/AI-safety community space hosts a talent show 
+ of music\, magic\, comedy and odd skills like speed-cubing and mental mat
+ h. All are welcome\, and it's an easy way to meet the Mox crowd. (Moved f
+ rom 29 Oct to 12 Nov.)\nPrice: Free (register on Luma)\nhttps://luma.com/
+ mox-inxx
+URL:https://luma.com/mox-inxx
+LOCATION:Mox\, 1680 Mission St\, San Francisco\, CA 94103
+END:VEVENT
+BEGIN:VEVENT
+UID:kqed-live-object-stories-san-francisco-62f26df7@sf-events
+DTSTAMP:20261113T030000Z
+DTSTART:20261113T030000Z
+DTEND:20261113T050000Z
+SUMMARY:KQED Live: Object Stories San Francisco
+DESCRIPTION:Bay Area artists\, makers and community voices each bring a ha
+ ndmade object that matters to them and tell its story. It's the American 
+ Craft Council's storytelling series\, co-presented by KQED.\nPrice: $30 (
+ $25 members)\nhttps://www.kqed.org/event/6829/object-stories-san-francisc
+ o
+URL:https://www.kqed.org/event/6829/object-stories-san-francisco
+LOCATION:The Commons at KQED\, 2601 Mariposa St\, San Francisco\, CA 94110
+END:VEVENT
+BEGIN:VEVENT
 UID:arab-film-festival-under-the-stars-spices-and-lies-free-outd-79d358ef@
  sf-events
 DTSTAMP:20261113T033000Z
@@ -979,7 +1164,8 @@ DTEND:20261114T060000Z
 SUMMARY:The Moth GrandSLAM Championship
 DESCRIPTION:Winners of the Bay Area's Moth StorySLAMs compete to be crowne
  d San Francisco GrandSLAM storytelling champion. True stories told live w
- ithout notes.\nhttps://thecastro.com/events/the-moth-261113
+ ithout notes. [SOLD OUT as of 1 Nov — waitlist only.]\nPrice: Sold out 
+ (waitlist)\nhttps://thecastro.com/events/the-moth-261113
 URL:https://thecastro.com/events/the-moth-261113
 LOCATION:Castro Theatre\, 429 Castro St\, San Francisco\, CA 94114
 END:VEVENT
@@ -1121,6 +1307,34 @@ LOCATION:Sacred Heart Church (MOVEMENT)\, 554 Fillmore St\, San Francisco\
  , CA 94117
 END:VEVENT
 BEGIN:VEVENT
+UID:lindy-in-the-park-free-swing-dancing-beginner-lesson-9697bc16@sf-event
+ s
+DTSTAMP:20261115T190000Z
+DTSTART:20261115T190000Z
+DTEND:20261115T220000Z
+SUMMARY:Lindy in the Park: free swing dancing + beginner lesson
+DESCRIPTION:Free outdoor swing dancing every Sunday since 1996 on car-free
+  JFK Drive\, with a free beginner lesson at noon. No partner needed\; wea
+ ther permitting.\nPrice: Free\nhttps://lindyinthepark.com/about/
+URL:https://lindyinthepark.com/about/
+LOCATION:Golden Gate Park\, JFK Drive (8th-10th Ave)\, JFK Dr between 8th 
+ & 10th Ave (behind the de Young)\, San Francisco\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:sf-civic-music-mozart-to-mendelssohn-with-chora-nova-99ba66c6@sf-event
+ s
+DTSTAMP:20261115T230000Z
+DTSTART:20261115T230000Z
+DTEND:20261116T010000Z
+SUMMARY:SF Civic Music: Mozart to Mendelssohn (with Chora Nova)
+DESCRIPTION:The community orchestra's free choral-orchestral program at th
+ e Herbst\, including Fanny Mendelssohn Hensel's rarely heard oratorio and
+  Grace Williams' The Dancers.\nPrice: Free (RSVP)\nhttps://www.sfcivicmus
+ ic.org/calendar
+URL:https://www.sfcivicmusic.org/calendar
+LOCATION:Herbst Theatre\, 401 Van Ness Ave\, San Francisco\, CA 94102
+END:VEVENT
+BEGIN:VEVENT
 UID:playful-sunset-ocean-dance-silent-disco-on-ocean-beach-c2a50176@sf-eve
  nts
 DTSTAMP:20261116T000000Z
@@ -1194,6 +1408,36 @@ LOCATION:Unbound Books and Coffee\, 38 Waverly Pl\, San Francisco\, CA 941
  08
 END:VEVENT
 BEGIN:VEVENT
+UID:philosophy-talk-live-franz-kafka-and-the-world-without-a-pat-20bb85e1@
+ sf-events
+DTSTAMP:20261118T030000Z
+DTSTART:20261118T030000Z
+DTEND:20261118T043000Z
+SUMMARY:Philosophy Talk Live: Franz Kafka and the World Without a Path
+DESCRIPTION:Be in the live audience as KALW's Philosophy Talk records an e
+ pisode on Kafka with Tulane scholar Karen Zumhagen-Yekplé. There's audie
+ nce Q&A and Ian Shoales' satirical 'Sixty-Second Philosopher' segment.\nP
+ rice: Free (donation optional)\nhttps://www.eventbrite.com/e/philosophy-t
+ alk-live-franz-kafka-and-the-world-without-a-path-tickets-2002896450199
+URL:https://www.eventbrite.com/e/philosophy-talk-live-franz-kafka-and-the-
+ world-without-a-path-tickets-2002896450199
+LOCATION:KALW event space\, 220 Montgomery St\, 220 Montgomery St\, San Fr
+ ancisco\, CA 94104
+END:VEVENT
+BEGIN:VEVENT
+UID:silverada-with-emily-nenni-be76b912@sf-events
+DTSTAMP:20261118T040000Z
+DTSTART:20261118T040000Z
+DTEND:20261118T060000Z
+SUMMARY:Silverada with Emily Nenni
+DESCRIPTION:The Texas country-rock band (formerly Mike and the Moonpies) t
+ ours its ninth album\, with honky-tonk songwriter Emily Nenni opening. Do
+ ors 7:30pm\, all ages.\nPrice: $34\nhttps://www.theindependentsf.com/tm-e
+ vent/silverada/
+URL:https://www.theindependentsf.com/tm-event/silverada/
+LOCATION:The Independent\, 628 Divisadero St\, San Francisco\, CA 94117
+END:VEVENT
+BEGIN:VEVENT
 UID:woodchopper-s-ball-san-francisco-medicine-ball-band-3543aee7@sf-events
 DTSTAMP:20261118T050000Z
 DTSTART:20261118T050000Z
@@ -1224,6 +1468,19 @@ URL:https://grayarea.org/event/patch-bay-interactive-worlds-ai-figma-works
 LOCATION:Gray Area\, 2665 Mission St\, San Francisco\, CA 94110
 END:VEVENT
 BEGIN:VEVENT
+UID:ics-d511beaed00f@sf-events
+DTSTAMP:20261119T023000Z
+DTSTART:20261119T023000Z
+DTEND:20261119T043000Z
+SUMMARY:EA SF Discussion Salon: Cause Prioritization
+DESCRIPTION:EA SF Discussion Salon on cause prioritization at Mox — smal
+ l-group discussion format\, good for meeting the local EA community. (Mov
+ ed from 4 Nov to 18 Nov.)\nPrice: Free (register on Luma)\nhttps://luma.c
+ om/anw0fxzg
+URL:https://luma.com/anw0fxzg
+LOCATION:Mox\, 1680 Mission St\, San Francisco\, CA 94103
+END:VEVENT
+BEGIN:VEVENT
 UID:casey-s-craft-club-beaded-necklaces-8a15b8b2@sf-events
 DTSTAMP:20261119T023000Z
 DTSTART:20261119T023000Z
@@ -1236,6 +1493,37 @@ DESCRIPTION:A drop-in evening craft club where you make a beaded necklace\
 URL:https://www.eventbrite.com/e/caseys-craft-club-beaded-necklaces-ticket
  s-2003249283533
 LOCATION:Common Space\, 3108B Fillmore St\, San Francisco\, CA 94123
+END:VEVENT
+BEGIN:VEVENT
+UID:marie-darrieussecq-in-conversation-with-rita-bullwinkel-1e704d68@sf-ev
+ ents
+DTSTAMP:20261119T030000Z
+DTSTART:20261119T030000Z
+DTEND:20261119T050000Z
+SUMMARY:Marie Darrieussecq in conversation with Rita Bullwinkel
+DESCRIPTION:The French novelist behind Pig Tales celebrates two new transl
+ ations\, How to Make a Woman and Our Life in the Forest\, in conversation
+  with Headshot author Rita Bullwinkel. It's in-store and streamed.\nPrice
+ : Free\nhttps://citylights.com/events/marie-darrieussecq-in-conversation-
+ with-rita-bullwinkel/
+URL:https://citylights.com/events/marie-darrieussecq-in-conversation-with-
+ rita-bullwinkel/
+LOCATION:City Lights Booksellers\, 261 Columbus Ave\, San Francisco\, CA 9
+ 4133
+END:VEVENT
+BEGIN:VEVENT
+UID:free-psychedelic-film-night-mondo-new-york-b88e352d@sf-events
+DTSTAMP:20261119T030000Z
+DTSTART:20261119T030000Z
+DTEND:20261119T050000Z
+SUMMARY:Free psychedelic film night: Mondo New York
+DESCRIPTION:A free 21+ screening of Mondo New York\, a dreamlike collage o
+ f New York's late-'80s downtown underground. It's part of a North Beach g
+ allery's ongoing psychedelic film series.\nPrice: Free\nhttps://www.event
+ brite.com/e/1989057550678
+URL:https://www.eventbrite.com/e/1989057550678
+LOCATION:The Church of Mother Gong\, 1345 Grant Ave\, San Francisco\, CA 9
+ 4133
 END:VEVENT
 BEGIN:VEVENT
 UID:jenny-tian-ripe-f07eadcf@sf-events
@@ -1252,6 +1540,25 @@ URL:https://www.ticketmaster.com/jenny-tian-ripe-san-francisco-california-
 LOCATION:Cobb's Comedy Club\, 915 Columbus Ave\, San Francisco\, CA 94133
 END:VEVENT
 BEGIN:VEVENT
+UID:the-humanist-review-of-ai-abundance-scarcity-mustafa-suleyma-d3e05490@
+ sf-events
+DTSTAMP:20261119T040000Z
+DTSTART:20261119T040000Z
+DTEND:20261119T050000Z
+SUMMARY:The Humanist Review of AI: Abundance & Scarcity (Mustafa Suleyman\
+ , Sarah Guo\, Aaron Bastani)
+DESCRIPTION:Microsoft AI CEO Mustafa Suleyman\, investor Sarah Guo and 'Fu
+ lly Automated Luxury Communism' author Aaron Bastani debate what becomes 
+ scarce when intelligence is abundant. Doors 7pm\; in-person attendees get
+  a copy of The Humanist Review of AI.\nPrice: $45 ($10 students)\nhttps:/
+ /www.commonwealthclub.org/events/2026-11-18/humanist-review-ai-abundance-
+ scarcity
+URL:https://www.commonwealthclub.org/events/2026-11-18/humanist-review-ai-
+ abundance-scarcity
+LOCATION:Commonwealth Club World Affairs\, 110 The Embarcadero\, San Franc
+ isco\, CA 94105
+END:VEVENT
+BEGIN:VEVENT
 UID:exploratorium-after-dark-glow-opening-621d3306@sf-events
 DTSTAMP:20261120T020000Z
 DTSTART:20261120T020000Z
@@ -1264,6 +1571,18 @@ DESCRIPTION:Opening night of Glow\, the Exploratorium's winter light-art e
 URL:https://www.exploratorium.edu/visit/calendar/after-dark-glow-opening
 LOCATION:Exploratorium (Pier 15)\, Pier 15\, The Embarcadero at Green St\,
   San Francisco\, CA 94111
+END:VEVENT
+BEGIN:VEVENT
+UID:jane-austen-reader-s-theatre-08e7d2f3@sf-events
+DTSTAMP:20261120T023000Z
+DTSTART:20261120T023000Z
+DTEND:20261120T040000Z
+SUMMARY:Jane Austen Reader's Theatre
+DESCRIPTION:A lively live reading of Austen that keeps her snarky narratio
+ n intact\, in the Castro's romance bookshop-bar. Doors 6:30pm\, reading s
+ tarts 7pm.\nPrice: Free (register on Luma)\nhttps://luma.com/m6nt9s43
+URL:https://luma.com/m6nt9s43
+LOCATION:The Love Potion Library\, 284 Noe St\, San Francisco\, CA 94114
 END:VEVENT
 BEGIN:VEVENT
 UID:micro-to-macro-microorganisms-sound-and-robots-07c39471@sf-events
@@ -1354,6 +1673,20 @@ URL:https://luma.com/b9n3leog
 LOCATION:Mox\, 1680 Mission St\, San Francisco\, CA 94103
 END:VEVENT
 BEGIN:VEVENT
+UID:ybca-world-of-black-film-touki-bouki-7cea1195@sf-events
+DTSTAMP:20261121T220000Z
+DTSTART:20261121T220000Z
+DTEND:20261122T000000Z
+SUMMARY:YBCA World of Black Film: Touki Bouki
+DESCRIPTION:Djibril Diop Mambéty's 1973 Senegalese classic\, part of Crit
+ erion curator Ashley Clark's 'World of Black Film: Revolutions' series. T
+ he ticket includes snacks and gallery admission.\nPrice: $15\nhttps://ybc
+ a.org/event/touki-bouki-world-of-black-film-revolutions-11-21-26/
+URL:https://ybca.org/event/touki-bouki-world-of-black-film-revolutions-11-
+ 21-26/
+LOCATION:YBCA Screening Room\, 701 Mission St\, San Francisco\, CA 94103
+END:VEVENT
+BEGIN:VEVENT
 UID:bats-improv-intro-to-improv-with-diana-brown-single-session-4aa26e59@s
  f-events
 DTSTAMP:20261121T223000Z
@@ -1369,6 +1702,20 @@ URL:https://www.eventbrite.com/e/intro-to-improv-with-diana-brown-sch-tick
  ets-1996317934682
 LOCATION:BATS Annex\, Fort Mason Center\, 2 Marina Blvd\, Bldg C\, Suite 3
  65\, San Francisco\, CA 94123
+END:VEVENT
+BEGIN:VEVENT
+UID:monthly-chocolate-club-at-manny-s-414ce6a6@sf-events
+DTSTAMP:20261121T233000Z
+DTSTART:20261121T233000Z
+DTEND:20261122T003000Z
+SUMMARY:Monthly Chocolate Club at Manny's
+DESCRIPTION:A round-table tasting and discussion led by a local chocolatie
+ r\, where everyone brings a chocolate to share. It's small and social\; s
+ eats are limited.\nPrice: From $15.45\nhttps://www.eventbrite.com/e/month
+ ly-chocolate-club-at-mannys-lets-explore-chocolate-tickets-1986920837712
+URL:https://www.eventbrite.com/e/monthly-chocolate-club-at-mannys-lets-exp
+ lore-chocolate-tickets-1986920837712
+LOCATION:Manny's\, 3092 16th St\, San Francisco\, CA 94103
 END:VEVENT
 BEGIN:VEVENT
 UID:movement-ecstatic-dance-sf-boogiemeister-50fb1dd1@sf-events

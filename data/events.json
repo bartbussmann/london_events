@@ -243,6 +243,26 @@
     "id": "full-moon-sunset-ocean-dance-silent-disco-on-ocean-beach-f44dc7ac"
   },
   {
+    "title": "Día de los Muertos Procession (45th annual) in the Mission",
+    "start": "2026-11-02T18:00:00-08:00",
+    "end": "2026-11-02T21:00:00-08:00",
+    "venue": "22nd St & Bryant St (procession start)",
+    "address": "22nd St & Bryant St, San Francisco, CA 94110",
+    "url": "https://sf.funcheap.com/sf-dia-de-los-muertos-procession-mission/",
+    "source": "aggregator:funcheap",
+    "tags": [
+      "festival",
+      "community",
+      "music"
+    ],
+    "price": "Free",
+    "description": "The Mission's 45th annual Day of the Dead procession, with Aztec dancers, musicians and community groups looping Bryant, 24th St and Mission St. Dancers gather at 6pm and the procession steps off at 7pm.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 15,
+    "added": "2026-11-01",
+    "id": "d-a-de-los-muertos-procession-45th-annual-in-the-mission-54f042ec"
+  },
+  {
     "title": "Los Gaiteros de San Jacinto, Fruko y sus Tesos & Carmelo Torres: Madre Cumbia",
     "start": "2026-11-02T19:30:00-08:00",
     "end": null,
@@ -291,12 +311,49 @@
     "tags": [
       "community"
     ],
-    "price": "$30",
-    "description": "A guided dating mixer for readers aged 25-35. Everyone brings a book that matters to them, and hosts move the room from group prompts to one-on-one conversations, so no cold approaches. It's curated for a balanced room.",
+    "price": "Sold out (waitlist)",
+    "description": "A guided dating mixer for readers aged 25-35. Everyone brings a book that matters to them, and hosts move the room from group prompts to one-on-one conversations, so no cold approaches. It's curated for a balanced room. [SOLD OUT as of 1 Nov — waitlist only.]",
     "neighbourhood": "Castro",
     "cycle_minutes": 16,
     "added": "2026-10-26",
     "id": "booked-dating-night-for-readers-ages-25-35-71edbb8b"
+  },
+  {
+    "title": "Taylor Bickett with Fairhazel (An Evening of Indie-Pop)",
+    "start": "2026-11-03T19:00:00-08:00",
+    "end": null,
+    "venue": "Hotel Utah Saloon",
+    "address": "500 4th St, San Francisco, CA 94107",
+    "url": "https://wl.seetickets.us/event/taylor-bickett/690933?afflky=HotelUtahSaloon",
+    "source": "venue:hotel-utah",
+    "tags": [
+      "music"
+    ],
+    "price": "$18 adv / $20 door",
+    "description": "Indiana-born singer-songwriter Taylor Bickett brings her intimate, lyric-driven indie pop to the tiny Hotel Utah room. It's 21+ and the closest small venue to home.",
+    "neighbourhood": "SoMa",
+    "cycle_minutes": 4,
+    "added": "2026-11-01",
+    "id": "taylor-bickett-with-fairhazel-an-evening-of-indie-pop-e4c697ca"
+  },
+  {
+    "title": "Curiosity Guild: By Design (six short talks)",
+    "start": "2026-11-03T19:00:00-08:00",
+    "end": "2026-11-03T22:00:00-08:00",
+    "venue": "Public Works",
+    "address": "161 Erie St, San Francisco, CA 94103",
+    "url": "https://www.eventbrite.com/e/by-design-tickets-1989199060939",
+    "source": "aggregator:eventbrite",
+    "tags": [
+      "talk",
+      "community"
+    ],
+    "price": "$28.52-$49.87",
+    "description": "A Nerd Nite-style evening of six short talks, on planned obsolescence, tarot art, William Morris, missions around the Moon and more. Doors at 7pm, talks at 8pm, 21+.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 12,
+    "added": "2026-11-01",
+    "id": "curiosity-guild-by-design-six-short-talks-024e880b"
   },
   {
     "title": "Blade Runner: The Final Cut (35mm)",
@@ -356,23 +413,23 @@
     "id": "patch-bay-workshop-translating-living-systems-into-robotics--bb07405a"
   },
   {
-    "id": "ics-d511beaed00f",
-    "title": "EA SF Discussion Salon: Cause Prioritization",
-    "start": "2026-11-04T18:30:00-08:00",
-    "end": "2026-11-04T20:30:00-08:00",
-    "venue": "Mox",
-    "address": "1680 Mission St, San Francisco, CA 94103",
-    "url": "https://luma.com/anw0fxzg",
-    "source": "ics:Mox",
+    "title": "Debriefing the 2026 Election at Manny's",
+    "start": "2026-11-04T18:00:00-08:00",
+    "end": "2026-11-04T19:00:00-08:00",
+    "venue": "Manny's",
+    "address": "3092 16th St, San Francisco, CA 94103",
+    "url": "https://www.eventbrite.com/e/debriefing-the-2026-election-tickets-2003637684250",
+    "source": "venue:mannys",
     "tags": [
       "talk",
       "community"
     ],
-    "price": "Free (register on Luma)",
-    "description": "EA SF Discussion Salon on cause prioritization at Mox — small-group discussion format, good for meeting the local EA community.",
-    "added": "2026-10-26",
+    "price": "$10-$20 (free on request)",
+    "description": "A community discussion the day after election night to talk through the results with neighbours. It's Manny's usual civic-salon format, so it's easy to join conversations.",
     "neighbourhood": "Mission",
-    "cycle_minutes": 13
+    "cycle_minutes": 13,
+    "added": "2026-11-01",
+    "id": "debriefing-the-2026-election-at-manny-s-b73b0a72"
   },
   {
     "title": "Figure Drawing at Monument SF (Sketchboard)",
@@ -468,6 +525,44 @@
     "id": "daniel-kahn-jake-shulman-ment-umru-unrest-7a2c9291"
   },
   {
+    "title": "Greg Freeman with Trinity Ace",
+    "start": "2026-11-05T20:00:00-08:00",
+    "end": null,
+    "venue": "The Independent",
+    "address": "628 Divisadero St, San Francisco, CA 94117",
+    "url": "https://www.theindependentsf.com/tm-event/greg-freeman/",
+    "source": "venue:independent",
+    "tags": [
+      "music"
+    ],
+    "price": "$34",
+    "description": "The Vermont songwriter tours his new John Congleton-produced album All Set The Bone, ragged indie rock in the line of early Modest Mouse and Pavement. Doors 7:30pm, all ages.",
+    "neighbourhood": "NoPa",
+    "cycle_minutes": 18,
+    "added": "2026-11-01",
+    "id": "greg-freeman-with-trinity-ace-8b625f82"
+  },
+  {
+    "title": "Downtown First Thursdays street party: Big Freedia headlines",
+    "start": "2026-11-05T20:00:00-08:00",
+    "end": "2026-11-05T22:00:00-08:00",
+    "venue": "2nd St between Market & Howard (Howard St stage)",
+    "address": "2nd St & Howard St, San Francisco, CA 94105",
+    "url": "https://www.dftsf.com/",
+    "source": "aggregator:funcheap",
+    "tags": [
+      "festival",
+      "music",
+      "dance"
+    ],
+    "price": "Free (RSVP)",
+    "description": "Downtown SF's free monthly street party fills three blocks of 2nd St with stages, DJs, food trucks and outdoor bars, and New Orleans bounce queen Big Freedia headlines the Howard St stage 8-9pm. It's two blocks from home.",
+    "neighbourhood": "SoMa",
+    "cycle_minutes": 2,
+    "added": "2026-11-01",
+    "id": "downtown-first-thursdays-street-party-big-freedia-headlines-88a837bc"
+  },
+  {
     "title": "Georgia Parker with Tashi T",
     "start": "2026-11-05T20:15:00-08:00",
     "end": "2026-11-05T22:30:00-08:00",
@@ -517,8 +612,8 @@
       "art",
       "food"
     ],
-    "price": "$5-56 sliding scale",
-    "description": "Soapbox San Francisco hosts a dinner-and-collage party to imagine a thriving, carbon-free SF in 2050: housing, transit, green space. It's billed as a way to make friends.",
+    "price": "Sold out (waitlist)",
+    "description": "Soapbox San Francisco hosts a dinner-and-collage party to imagine a thriving, carbon-free SF in 2050: housing, transit, green space. It's billed as a way to make friends. [SOLD OUT as of 1 Nov — waitlist only.]",
     "neighbourhood": "Lower Haight",
     "cycle_minutes": 15,
     "added": "2026-10-26",
@@ -564,6 +659,42 @@
     "id": "san-francisco-leonard-cohen-festival-poetry-song-28fb28d7"
   },
   {
+    "title": "IAN SWEET",
+    "start": "2026-11-06T20:00:00-08:00",
+    "end": null,
+    "venue": "Cafe du Nord",
+    "address": "2174 Market St (downstairs), San Francisco, CA 94114",
+    "url": "https://cafedunord.com/shows/2026-11-06-ian-sweet",
+    "source": "venue:cafedunord",
+    "tags": [
+      "music"
+    ],
+    "price": "$28.30",
+    "description": "Jilian Medford's indie-rock project plays the intimate basement room at Cafe du Nord. Doors 7pm, show 8pm, 21+.",
+    "neighbourhood": "Upper Market",
+    "cycle_minutes": 14,
+    "added": "2026-11-01",
+    "id": "ian-sweet-b27135ec"
+  },
+  {
+    "title": "Loquat (10-year reunion show) with Halou and Steilacoom",
+    "start": "2026-11-06T20:30:00-08:00",
+    "end": null,
+    "venue": "Bottom of the Hill",
+    "address": "1233 17th St, San Francisco, CA 94107",
+    "url": "https://www.bottomofthehill.com/calendar.html",
+    "source": "venue:bottomofthehill",
+    "tags": [
+      "music"
+    ],
+    "price": "$15 adv / $20 door",
+    "description": "SF dream-pop band Loquat reunites for a 10-year reunion show, with local dreampop/electrogaze veterans Halou in support. Doors 8pm, music 8:30pm, all ages.",
+    "neighbourhood": "Potrero Hill",
+    "cycle_minutes": 12,
+    "added": "2026-11-01",
+    "id": "loquat-10-year-reunion-show-with-halou-and-steilacoom-96d61c30"
+  },
+  {
     "title": "Singles Walking Food Tour (Chinatown & North Beach)",
     "start": "2026-11-07T08:30:00-08:00",
     "end": "2026-11-07T11:30:00-08:00",
@@ -602,6 +733,26 @@
     "id": "san-francisco-coffee-festival-2026-10th-annual-b2551baf"
   },
   {
+    "title": "Día de los Muertos and Diwali Festival at Presidio Tunnel Tops",
+    "start": "2026-11-07T10:00:00-08:00",
+    "end": "2026-11-07T15:00:00-08:00",
+    "venue": "Presidio Tunnel Tops",
+    "address": "210 Lincoln Blvd, San Francisco, CA 94129",
+    "url": "https://presidio.gov/explore/events/dia-de-los-muertos-and-diwali-festival",
+    "source": "venue:presidio",
+    "tags": [
+      "festival",
+      "outdoors",
+      "community"
+    ],
+    "price": "Free",
+    "description": "A free afternoon of live performances, crafts and cultural ceremonies marking both Día de los Muertos and Diwali, on the Tunnel Tops lawns above Crissy Field.",
+    "neighbourhood": "Presidio",
+    "cycle_minutes": 30,
+    "added": "2026-11-01",
+    "id": "d-a-de-los-muertos-and-diwali-festival-at-presidio-tunnel-to-339ca4d7"
+  },
+  {
     "title": "The San Francisco Fall Cider Fest",
     "start": "2026-11-07T12:00:00-08:00",
     "end": "2026-11-07T16:00:00-08:00",
@@ -638,6 +789,25 @@
     "cycle_minutes": 5,
     "added": "2026-10-28",
     "id": "sf-city-guides-free-walking-tour-making-waves-on-the-waterfr-ebf3100c"
+  },
+  {
+    "title": "Arion Press: Alice in Wonderland talk with Deena Chalabi, Blake Riley and Rupy C. Tut",
+    "start": "2026-11-07T15:00:00-08:00",
+    "end": "2026-11-07T16:00:00-08:00",
+    "venue": "Bayfront Theater, Fort Mason Center",
+    "address": "2 Marina Blvd, Building B, 3rd Floor, San Francisco, CA 94123",
+    "url": "https://www.eventbrite.com/e/alice-in-wonderland-talk-with-deena-chalabi-blake-riley-and-rupy-c-tut-tickets-2003785976797",
+    "source": "aggregator:eventbrite",
+    "tags": [
+      "talk",
+      "art"
+    ],
+    "price": "Free",
+    "description": "SF's letterpress fine-press house Arion Press talks through the making of its new illustrated Alice, with the artist, printer and a curator. An open house at the press downstairs runs just before.",
+    "neighbourhood": "Fort Mason",
+    "cycle_minutes": 22,
+    "added": "2026-11-01",
+    "id": "arion-press-alice-in-wonderland-talk-with-deena-chalabi-blak-4a013e80"
   },
   {
     "title": "1st Saturday Irish trad session at the Plough and Stars",
@@ -959,6 +1129,25 @@
     "id": "kqed-live-paint-sip-play-a-mission-district-loter-a-night-e5f2f96f"
   },
   {
+    "title": "Entangled Intelligences (Long Now: Eagleman, Lanier, Levin and more)",
+    "start": "2026-11-10T19:00:00-08:00",
+    "end": "2026-11-10T21:00:00-08:00",
+    "venue": "Cowell Theater, Fort Mason Center",
+    "address": "Pier 2, Fort Mason Center, San Francisco, CA 94123",
+    "url": "https://www.eventbrite.com/e/entangled-intelligences-tickets-1992365697434",
+    "source": "venue:longnow",
+    "tags": [
+      "talk",
+      "tech"
+    ],
+    "price": "$44.52",
+    "description": "A Long Now special evening on interspecies and synthetic intelligence, with David Eagleman, Jaron Lanier, Michael Levin, Sara Imari Walker and others plus performers. It runs from microbes and ecosystems to AI agents and exoplanets. It was sold out with a waitlist in late October; Eventbrite showed tickets back in stock on 1 Nov — book promptly.",
+    "neighbourhood": "Fort Mason",
+    "cycle_minutes": 22,
+    "added": "2026-11-01",
+    "id": "entangled-intelligences-long-now-eagleman-lanier-levin-and-m-bc5ede18"
+  },
+  {
     "title": "Claudio Simonetti's Goblin performs the live score to Tenebre",
     "start": "2026-11-10T19:30:00-08:00",
     "end": null,
@@ -1145,6 +1334,44 @@
     "id": "mark-danner-crossing-the-rubicon-in-conversation-with-guy-ma-a3aff1b1"
   },
   {
+    "title": "Talent Show: Has Mox Got Talent?",
+    "start": "2026-11-12T19:00:00-08:00",
+    "end": "2026-11-12T21:00:00-08:00",
+    "venue": "Mox",
+    "address": "1680 Mission St, San Francisco, CA 94103",
+    "url": "https://luma.com/mox-inxx",
+    "source": "ics:Mox",
+    "tags": [
+      "community",
+      "comedy"
+    ],
+    "price": "Free (register on Luma)",
+    "description": "The rationalist/AI-safety community space hosts a talent show of music, magic, comedy and odd skills like speed-cubing and mental math. All are welcome, and it's an easy way to meet the Mox crowd. (Moved from 29 Oct to 12 Nov.)",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 13,
+    "id": "ics-e47b9bf006cd",
+    "added": "2026-11-01"
+  },
+  {
+    "title": "KQED Live: Object Stories San Francisco",
+    "start": "2026-11-12T19:00:00-08:00",
+    "end": null,
+    "venue": "The Commons at KQED",
+    "address": "2601 Mariposa St, San Francisco, CA 94110",
+    "url": "https://www.kqed.org/event/6829/object-stories-san-francisco",
+    "source": "venue:kqed",
+    "tags": [
+      "talk",
+      "art"
+    ],
+    "price": "$30 ($25 members)",
+    "description": "Bay Area artists, makers and community voices each bring a handmade object that matters to them and tell its story. It's the American Craft Council's storytelling series, co-presented by KQED.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 13,
+    "added": "2026-11-01",
+    "id": "kqed-live-object-stories-san-francisco-62f26df7"
+  },
+  {
     "title": "Arab Film Festival Under the Stars: Spices and Lies (free outdoor screening)",
     "start": "2026-11-12T19:30:00-08:00",
     "end": null,
@@ -1232,8 +1459,8 @@
       "talk",
       "community"
     ],
-    "price": null,
-    "description": "Winners of the Bay Area's Moth StorySLAMs compete to be crowned San Francisco GrandSLAM storytelling champion. True stories told live without notes.",
+    "price": "Sold out (waitlist)",
+    "description": "Winners of the Bay Area's Moth StorySLAMs compete to be crowned San Francisco GrandSLAM storytelling champion. True stories told live without notes. [SOLD OUT as of 1 Nov — waitlist only.]",
     "neighbourhood": "Castro",
     "cycle_minutes": 17,
     "added": "2026-10-26",
@@ -1408,6 +1635,43 @@
     "id": "movement-ecstatic-dance-sf-sasha-rose-8deab1d9"
   },
   {
+    "title": "Lindy in the Park: free swing dancing + beginner lesson",
+    "start": "2026-11-15T11:00:00-08:00",
+    "end": "2026-11-15T14:00:00-08:00",
+    "venue": "Golden Gate Park, JFK Drive (8th-10th Ave)",
+    "address": "JFK Dr between 8th & 10th Ave (behind the de Young), San Francisco, CA",
+    "url": "https://lindyinthepark.com/about/",
+    "source": "venue:lindy-in-the-park",
+    "tags": [
+      "dance",
+      "outdoors"
+    ],
+    "price": "Free",
+    "description": "Free outdoor swing dancing every Sunday since 1996 on car-free JFK Drive, with a free beginner lesson at noon. No partner needed; weather permitting.",
+    "neighbourhood": "Golden Gate Park",
+    "cycle_minutes": 30,
+    "added": "2026-11-01",
+    "id": "lindy-in-the-park-free-swing-dancing-beginner-lesson-9697bc16"
+  },
+  {
+    "title": "SF Civic Music: Mozart to Mendelssohn (with Chora Nova)",
+    "start": "2026-11-15T15:00:00-08:00",
+    "end": "2026-11-15T17:00:00-08:00",
+    "venue": "Herbst Theatre",
+    "address": "401 Van Ness Ave, San Francisco, CA 94102",
+    "url": "https://www.sfcivicmusic.org/calendar",
+    "source": "aggregator:funcheap",
+    "tags": [
+      "music"
+    ],
+    "price": "Free (RSVP)",
+    "description": "The community orchestra's free choral-orchestral program at the Herbst, including Fanny Mendelssohn Hensel's rarely heard oratorio and Grace Williams' The Dancers.",
+    "neighbourhood": "Civic Center",
+    "cycle_minutes": 9,
+    "added": "2026-11-01",
+    "id": "sf-civic-music-mozart-to-mendelssohn-with-chora-nova-99ba66c6"
+  },
+  {
     "title": "Playful Sunset Ocean Dance (silent disco on Ocean Beach)",
     "start": "2026-11-15T16:00:00-08:00",
     "end": "2026-11-15T17:30:00-08:00",
@@ -1502,6 +1766,42 @@
     "id": "chinatalk-unbound-book-club-everyday-movement-0764727c"
   },
   {
+    "title": "Philosophy Talk Live: Franz Kafka and the World Without a Path",
+    "start": "2026-11-17T19:00:00-08:00",
+    "end": "2026-11-17T20:30:00-08:00",
+    "venue": "KALW event space, 220 Montgomery St",
+    "address": "220 Montgomery St, San Francisco, CA 94104",
+    "url": "https://www.eventbrite.com/e/philosophy-talk-live-franz-kafka-and-the-world-without-a-path-tickets-2002896450199",
+    "source": "aggregator:eventbrite",
+    "tags": [
+      "talk"
+    ],
+    "price": "Free (donation optional)",
+    "description": "Be in the live audience as KALW's Philosophy Talk records an episode on Kafka with Tulane scholar Karen Zumhagen-Yekplé. There's audience Q&A and Ian Shoales' satirical 'Sixty-Second Philosopher' segment.",
+    "neighbourhood": "Financial District",
+    "cycle_minutes": 6,
+    "added": "2026-11-01",
+    "id": "philosophy-talk-live-franz-kafka-and-the-world-without-a-pat-20bb85e1"
+  },
+  {
+    "title": "Silverada with Emily Nenni",
+    "start": "2026-11-17T20:00:00-08:00",
+    "end": null,
+    "venue": "The Independent",
+    "address": "628 Divisadero St, San Francisco, CA 94117",
+    "url": "https://www.theindependentsf.com/tm-event/silverada/",
+    "source": "venue:independent",
+    "tags": [
+      "music"
+    ],
+    "price": "$34",
+    "description": "The Texas country-rock band (formerly Mike and the Moonpies) tours its ninth album, with honky-tonk songwriter Emily Nenni opening. Doors 7:30pm, all ages.",
+    "neighbourhood": "NoPa",
+    "cycle_minutes": 18,
+    "added": "2026-11-01",
+    "id": "silverada-with-emily-nenni-be76b912"
+  },
+  {
     "title": "Woodchopper's Ball: San Francisco Medicine Ball Band",
     "start": "2026-11-17T21:00:00-08:00",
     "end": "2026-11-17T23:30:00-08:00",
@@ -1541,6 +1841,25 @@
     "id": "patch-bay-workshop-computational-poetry-f2f24a11"
   },
   {
+    "id": "ics-d511beaed00f",
+    "title": "EA SF Discussion Salon: Cause Prioritization",
+    "start": "2026-11-18T18:30:00-08:00",
+    "end": "2026-11-18T20:30:00-08:00",
+    "venue": "Mox",
+    "address": "1680 Mission St, San Francisco, CA 94103",
+    "url": "https://luma.com/anw0fxzg",
+    "source": "ics:Mox",
+    "tags": [
+      "talk",
+      "community"
+    ],
+    "price": "Free (register on Luma)",
+    "description": "EA SF Discussion Salon on cause prioritization at Mox — small-group discussion format, good for meeting the local EA community. (Moved from 4 Nov to 18 Nov.)",
+    "added": "2026-10-26",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 13
+  },
+  {
     "title": "Casey's Craft Club: Beaded Necklaces",
     "start": "2026-11-18T18:30:00-08:00",
     "end": "2026-11-18T21:30:00-08:00",
@@ -1558,6 +1877,42 @@
     "cycle_minutes": 22,
     "added": "2026-10-28",
     "id": "casey-s-craft-club-beaded-necklaces-8a15b8b2"
+  },
+  {
+    "title": "Marie Darrieussecq in conversation with Rita Bullwinkel",
+    "start": "2026-11-18T19:00:00-08:00",
+    "end": null,
+    "venue": "City Lights Booksellers",
+    "address": "261 Columbus Ave, San Francisco, CA 94133",
+    "url": "https://citylights.com/events/marie-darrieussecq-in-conversation-with-rita-bullwinkel/",
+    "source": "venue:citylights",
+    "tags": [
+      "talk"
+    ],
+    "price": "Free",
+    "description": "The French novelist behind Pig Tales celebrates two new translations, How to Make a Woman and Our Life in the Forest, in conversation with Headshot author Rita Bullwinkel. It's in-store and streamed.",
+    "neighbourhood": "North Beach",
+    "cycle_minutes": 10,
+    "added": "2026-11-01",
+    "id": "marie-darrieussecq-in-conversation-with-rita-bullwinkel-1e704d68"
+  },
+  {
+    "title": "Free psychedelic film night: Mondo New York",
+    "start": "2026-11-18T19:00:00-08:00",
+    "end": "2026-11-18T21:00:00-08:00",
+    "venue": "The Church of Mother Gong",
+    "address": "1345 Grant Ave, San Francisco, CA 94133",
+    "url": "https://www.eventbrite.com/e/1989057550678",
+    "source": "aggregator:funcheap",
+    "tags": [
+      "film"
+    ],
+    "price": "Free",
+    "description": "A free 21+ screening of Mondo New York, a dreamlike collage of New York's late-'80s downtown underground. It's part of a North Beach gallery's ongoing psychedelic film series.",
+    "neighbourhood": "North Beach",
+    "cycle_minutes": 10,
+    "added": "2026-11-01",
+    "id": "free-psychedelic-film-night-mondo-new-york-b88e352d"
   },
   {
     "title": "Jenny Tian: Ripe",
@@ -1578,6 +1933,25 @@
     "id": "jenny-tian-ripe-f07eadcf"
   },
   {
+    "title": "The Humanist Review of AI: Abundance & Scarcity (Mustafa Suleyman, Sarah Guo, Aaron Bastani)",
+    "start": "2026-11-18T20:00:00-08:00",
+    "end": "2026-11-18T21:00:00-08:00",
+    "venue": "Commonwealth Club World Affairs",
+    "address": "110 The Embarcadero, San Francisco, CA 94105",
+    "url": "https://www.commonwealthclub.org/events/2026-11-18/humanist-review-ai-abundance-scarcity",
+    "source": "venue:commonwealthclub",
+    "tags": [
+      "talk",
+      "tech"
+    ],
+    "price": "$45 ($10 students)",
+    "description": "Microsoft AI CEO Mustafa Suleyman, investor Sarah Guo and 'Fully Automated Luxury Communism' author Aaron Bastani debate what becomes scarce when intelligence is abundant. Doors 7pm; in-person attendees get a copy of The Humanist Review of AI.",
+    "neighbourhood": "Embarcadero",
+    "cycle_minutes": 5,
+    "added": "2026-11-01",
+    "id": "the-humanist-review-of-ai-abundance-scarcity-mustafa-suleyma-d3e05490"
+  },
+  {
     "title": "Exploratorium After Dark: Glow Opening",
     "start": "2026-11-19T18:00:00-08:00",
     "end": "2026-11-19T22:00:00-08:00",
@@ -1595,6 +1969,25 @@
     "cycle_minutes": 10,
     "added": "2026-10-26",
     "id": "exploratorium-after-dark-glow-opening-621d3306"
+  },
+  {
+    "title": "Jane Austen Reader's Theatre",
+    "start": "2026-11-19T18:30:00-08:00",
+    "end": "2026-11-19T20:00:00-08:00",
+    "venue": "The Love Potion Library",
+    "address": "284 Noe St, San Francisco, CA 94114",
+    "url": "https://luma.com/m6nt9s43",
+    "source": "aggregator:luma",
+    "tags": [
+      "theatre",
+      "community"
+    ],
+    "price": "Free (register on Luma)",
+    "description": "A lively live reading of Austen that keeps her snarky narration intact, in the Castro's romance bookshop-bar. Doors 6:30pm, reading starts 7pm.",
+    "neighbourhood": "Castro",
+    "cycle_minutes": 16,
+    "added": "2026-11-01",
+    "id": "jane-austen-reader-s-theatre-08e7d2f3"
   },
   {
     "title": "Micro To Macro: Microorganisms, Sound and Robots",
@@ -1709,6 +2102,24 @@
     "cycle_minutes": 13
   },
   {
+    "title": "YBCA World of Black Film: Touki Bouki",
+    "start": "2026-11-21T14:00:00-08:00",
+    "end": null,
+    "venue": "YBCA Screening Room",
+    "address": "701 Mission St, San Francisco, CA 94103",
+    "url": "https://ybca.org/event/touki-bouki-world-of-black-film-revolutions-11-21-26/",
+    "source": "aggregator:funcheap",
+    "tags": [
+      "film"
+    ],
+    "price": "$15",
+    "description": "Djibril Diop Mambéty's 1973 Senegalese classic, part of Criterion curator Ashley Clark's 'World of Black Film: Revolutions' series. The ticket includes snacks and gallery admission.",
+    "neighbourhood": "SoMa",
+    "cycle_minutes": 3,
+    "added": "2026-11-01",
+    "id": "ybca-world-of-black-film-touki-bouki-7cea1195"
+  },
+  {
     "title": "BATS Improv: Intro to Improv with Diana Brown (single session)",
     "start": "2026-11-21T14:30:00-08:00",
     "end": "2026-11-21T17:30:00-08:00",
@@ -1726,6 +2137,25 @@
     "cycle_minutes": 22,
     "added": "2026-10-28",
     "id": "bats-improv-intro-to-improv-with-diana-brown-single-session-4aa26e59"
+  },
+  {
+    "title": "Monthly Chocolate Club at Manny's",
+    "start": "2026-11-21T15:30:00-08:00",
+    "end": "2026-11-21T16:30:00-08:00",
+    "venue": "Manny's",
+    "address": "3092 16th St, San Francisco, CA 94103",
+    "url": "https://www.eventbrite.com/e/monthly-chocolate-club-at-mannys-lets-explore-chocolate-tickets-1986920837712",
+    "source": "venue:mannys",
+    "tags": [
+      "food",
+      "community"
+    ],
+    "price": "From $15.45",
+    "description": "A round-table tasting and discussion led by a local chocolatier, where everyone brings a chocolate to share. It's small and social; seats are limited.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 13,
+    "added": "2026-11-01",
+    "id": "monthly-chocolate-club-at-manny-s-414ce6a6"
   },
   {
     "title": "MOVEMENT Ecstatic Dance SF // Boogiemeister",
