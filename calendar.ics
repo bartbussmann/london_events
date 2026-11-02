@@ -298,6 +298,21 @@ URL:https://book.squareup.com/classes/uj53t4hfgkzllp/location/DYSM7QRDVFWX
 LOCATION:Monument\, 140 9th St\, San Francisco\, CA 94103
 END:VEVENT
 BEGIN:VEVENT
+UID:a-case-for-the-existence-of-god-samuel-d-hunter-at-nctc-e4854ff6@sf-ev
+ ents
+DTSTAMP:20261105T033000Z
+DTSTART:20261105T033000Z
+DTEND:20261105T050000Z
+SUMMARY:A Case for the Existence of God (Samuel D. Hunter) at NCTC
+DESCRIPTION:Samuel D. Hunter's acclaimed two-hander (NYT: 'a must-see hear
+ tbreaker'): two men in a cubicle trying to get a loan become unlikely fri
+ ends. Runs Oct 17-Nov 22\, Wed-Sun\; 90 minutes\, no interval.\nPrice: $4
+ 0-$80\nhttps://nctcsf.org/event/a-case-for-the-existence-of-god/
+URL:https://nctcsf.org/event/a-case-for-the-existence-of-god/
+LOCATION:New Conservatory Theatre Center (Walker Theatre)\, 25 Van Ness Av
+ e\, San Francisco\, CA 94102
+END:VEVENT
+BEGIN:VEVENT
 UID:exploratorium-after-dark-digest-this-0af04c0b@sf-events
 DTSTAMP:20261106T020000Z
 DTSTART:20261106T020000Z
@@ -384,6 +399,20 @@ DESCRIPTION:Downtown SF's free monthly street party fills three blocks of
 URL:https://www.dftsf.com/
 LOCATION:2nd St between Market & Howard (Howard St stage)\, 2nd St & Howar
  d St\, San Francisco\, CA 94105
+END:VEVENT
+BEGIN:VEVENT
+UID:thee-s-company-improvised-shakespeare-endgames-2534906c@sf-events
+DTSTAMP:20261106T040000Z
+DTSTART:20261106T040000Z
+DTEND:20261106T050000Z
+SUMMARY:Thee's Company: improvised Shakespeare (Endgames)
+DESCRIPTION:Brand-new Shakespeare-style plays improvised on the spot by En
+ dgames performers. Monthly\; the next one after this is Thu Dec 10.\nPric
+ e: $17.35\nhttps://www.eventbrite.com/e/thees-company-tickets-19879455596
+ 83
+URL:https://www.eventbrite.com/e/thees-company-tickets-1987945559683
+LOCATION:Endgames Training Center (ETC Prime)\, 2965 Mission St\, San Fran
+ cisco\, CA 94110
 END:VEVENT
 BEGIN:VEVENT
 UID:georgia-parker-with-tashi-t-6670e84e@sf-events
@@ -792,6 +821,20 @@ LOCATION:City Lights Booksellers\, 261 Columbus Ave\, San Francisco\, CA 9
  4133
 END:VEVENT
 BEGIN:VEVENT
+UID:sf-playhouse-free-play-reading-the-starters-by-laura-winters-4ffdab3c@
+ sf-events
+DTSTAMP:20261110T030000Z
+DTSTART:20261110T030000Z
+DTEND:20261110T050000Z
+SUMMARY:SF Playhouse free play reading: The Starters by Laura Winters
+DESCRIPTION:Free staged reading of a new play on the Playhouse mainstage\,
+  potluck-style: bring a treat or a bottle to share. The lobby opens at 6p
+ m. An easy way to meet SF's theatre crowd.\nPrice: Free\nhttps://sfplayho
+ use.org/play-reading-the-starters/
+URL:https://sfplayhouse.org/play-reading-the-starters/
+LOCATION:San Francisco Playhouse\, 450 Post St\, San Francisco\, CA 94102
+END:VEVENT
+BEGIN:VEVENT
 UID:san-francisco-singles-speed-dating-game-night-30s-40s-2d665573@sf-even
  ts
 DTSTAMP:20261111T030000Z
@@ -872,6 +915,19 @@ URL:https://www.eventbrite.com/e/entangled-intelligences-tickets-199236569
  7434
 LOCATION:Cowell Theater\, Fort Mason Center\, Pier 2\, Fort Mason Center\,
   San Francisco\, CA 94123
+END:VEVENT
+BEGIN:VEVENT
+UID:peter-pan-goes-wrong-at-sf-playhouse-a6eed664@sf-events
+DTSTAMP:20261111T030000Z
+DTSTART:20261111T030000Z
+DTEND:20261111T050000Z
+SUMMARY:Peter Pan Goes Wrong at SF Playhouse
+DESCRIPTION:The Mischief farce (from the makers of The Play That Goes Wron
+ g): an amateur troupe's Peter Pan collapses into slapstick chaos. Final r
+ un\, to Nov 28\; Tuesdays 7pm. Funcheap lists a $5-off code.\nPrice: $60-
+ $145\nhttps://sfplayhouse.org/2026-2027-season/peter-pan-goes-wrong/
+URL:https://sfplayhouse.org/2026-2027-season/peter-pan-goes-wrong/
+LOCATION:San Francisco Playhouse\, 450 Post St\, San Francisco\, CA 94102
 END:VEVENT
 BEGIN:VEVENT
 UID:claudio-simonetti-s-goblin-performs-the-live-score-to-tenebr-dda3a5b6@
@@ -1112,6 +1168,22 @@ LOCATION:Unitarian Universalist Society of San Francisco\, 1187 Franklin S
  t\, San Francisco\, CA 94109
 END:VEVENT
 BEGIN:VEVENT
+UID:janet-thornburg-s-cognitive-divine-solo-comedy-3ab2838d@sf-events
+DTSTAMP:20261114T033000Z
+DTSTART:20261114T033000Z
+DTEND:20261114T043000Z
+SUMMARY:Janet Thornburg's Cognitive Divine (solo comedy)
+DESCRIPTION:Solo show in which one performer plays seven sub-personalities
+  arguing over whether to stay in San Francisco. It won Best Full-Length C
+ omedy at the Marsh's 2026 In Front of Your Eyes festival. Fridays at 7:30
+ pm\, Nov 6-Dec 11\; 60 minutes.\nPrice: $25-$35 general seating\nhttps://
+ themarsh.org/shows_and_events/janet-thornburgs-cognitive-divine/
+URL:https://themarsh.org/shows_and_events/janet-thornburgs-cognitive-divin
+ e/
+LOCATION:The Marsh San Francisco (Studio)\, 1062 Valencia St\, San Francis
+ co\, CA 94110
+END:VEVENT
+BEGIN:VEVENT
 UID:the-moth-grandslam-championship-852406e1@sf-events
 DTSTAMP:20261114T040000Z
 DTSTART:20261114T040000Z
@@ -1219,6 +1291,21 @@ LOCATION:St. John's Presbyterian Church\, 25 Lake St\, San Francisco\, CA
  94118
 END:VEVENT
 BEGIN:VEVENT
+UID:bats-improv-theatresports-f2c44e8e@sf-events
+DTSTAMP:20261115T040000Z
+DTSTART:20261115T040000Z
+DTEND:20261115T060000Z
+SUMMARY:BATS Improv: Theatresports
+DESCRIPTION:BATS's long-running improv competition: teams battle through s
+ cenes and games judged by the audience. Saturdays at 8pm Nov 7\, 14\, 21 
+ and 28.\nPrice: $17.79-$28.45\nhttps://www.eventbrite.com/e/bats-improv-p
+ resents-theatresportstm-11726-112826-sho-tickets-1991873896444
+URL:https://www.eventbrite.com/e/bats-improv-presents-theatresportstm-1172
+ 6-112826-sho-tickets-1991873896444
+LOCATION:BATS Bayfront Theatre\, Fort Mason Center\, 2 Marina Blvd\, Build
+ ing B\, 3rd Floor\, San Francisco\, CA 94123
+END:VEVENT
+BEGIN:VEVENT
 UID:the-cactus-blossoms-with-margo-cilker-49b14cd6@sf-events
 DTSTAMP:20261115T050000Z
 DTSTART:20261115T050000Z
@@ -1276,6 +1363,22 @@ LOCATION:Golden Gate Park\, JFK Drive (8th-10th Ave)\, JFK Dr between 8th
  & 10th Ave (behind the de Young)\, San Francisco\, CA
 END:VEVENT
 BEGIN:VEVENT
+UID:improv-e-your-dating-life-workshop-endgames-f76a0ca8@sf-events
+DTSTAMP:20261115T223000Z
+DTSTART:20261115T223000Z
+DTEND:20261116T003000Z
+SUMMARY:Improv(e) Your Dating Life workshop (Endgames)
+DESCRIPTION:A two-hour workshop that mixes improv exercises with dating ti
+ ps from dating coach Dylan Garcia\, built around being present and wideni
+ ng your dating pool. A low-stakes way to try improv and meet people.\nPri
+ ce: $20-$40\nhttps://www.eventbrite.com/e/improve-your-dating-life-ticket
+ s-1246635784189
+URL:https://www.eventbrite.com/e/improve-your-dating-life-tickets-12466357
+ 84189
+LOCATION:Endgames Training Center (ETC Prime)\, 2965 Mission St\, San Fran
+ cisco\, CA 94110
+END:VEVENT
+BEGIN:VEVENT
 UID:sf-civic-music-mozart-to-mendelssohn-with-chora-nova-99ba66c6@sf-event
  s
 DTSTAMP:20261115T230000Z
@@ -1304,6 +1407,39 @@ URL:https://www.eventbrite.com/e/playful-sunset-ocean-dance-tickets-200171
  1492960
 LOCATION:Ocean Beach (Great Highway at Balboa St)\, Great Highway & Balboa
   St\, San Francisco\, CA 94121
+END:VEVENT
+BEGIN:VEVENT
+UID:the-secret-museum-by-lynne-kaufman-with-post-show-talkback-6cb230f6@sf
+ -events
+DTSTAMP:20261116T010000Z
+DTSTART:20261116T010000Z
+DTEND:20261116T021000Z
+SUMMARY:The Secret Museum by Lynne Kaufman (with post-show talkback)
+DESCRIPTION:New four-hander about a filmmaker documenting a newly excavate
+ d Pompeii fresco with startling evidence about sex and the sacred. This S
+ unday show is followed by a talkback with the playwright and cast. Runs N
+ ov 7-22\, Sat 8pm and Sun 5pm\; 70 minutes.\nPrice: $30-$40 general seati
+ ng\nhttps://themarsh.org/shows_and_events/lynne-kaufman-the-secret-museum
+ /
+URL:https://themarsh.org/shows_and_events/lynne-kaufman-the-secret-museum/
+LOCATION:The Marsh San Francisco (Mainstage)\, 1062 Valencia St\, San Fran
+ cisco\, CA 94110
+END:VEVENT
+BEGIN:VEVENT
+UID:fog-of-love-learn-and-play-night-at-the-love-potion-library-41ae1c4a@s
+ f-events
+DTSTAMP:20261117T020000Z
+DTSTART:20261117T020000Z
+DTEND:20261117T040000Z
+SUMMARY:Fog of Love learn-and-play night at The Love Potion Library
+DESCRIPTION:Dogpatch Games teaches Fog of Love\, a two-player romantic-com
+ edy board game in which you play characters who meet\, fall in love and t
+ ry to make it work\, at the Castro's romance bookshop and tea room. All w
+ elcome\; a playful way to meet someone.\nhttps://www.dogpatch.games/event
+ s1/love-potion-library-2026-11-16-zd5hb
+URL:https://www.dogpatch.games/events1/love-potion-library-2026-11-16-zd5h
+ b
+LOCATION:The Love Potion Library\, 284 Noe St\, San Francisco\, CA 94114
 END:VEVENT
 BEGIN:VEVENT
 UID:ben-buchanan-superintelligence-superpowers-and-the-fate-of-t-c475682b@
@@ -1348,6 +1484,23 @@ DESCRIPTION:Sharp guitar-driven indie songwriter Margaret Glaspy\, with Po
  l
 URL:https://wl.seetickets.us/event/margaret-glaspy/693371?afflky=TheChapel
 LOCATION:The Chapel\, 777 Valencia St\, San Francisco\, CA 94110
+END:VEVENT
+BEGIN:VEVENT
+UID:john-proctor-is-the-villain-a-c-t-preview-be6e91ef@sf-events
+DTSTAMP:20261118T023000Z
+DTSTART:20261118T023000Z
+DTEND:20261118T041500Z
+SUMMARY:John Proctor Is the Villain (A.C.T. preview)
+DESCRIPTION:West Coast premiere of Kimberly Belflower's Tony-nominated Bes
+ t Play: five Georgia high-schoolers studying The Crucible start questioni
+ ng who gets called a hero\, scored to pop music. Runs Nov 12-Dec 6. This 
+ Tuesday preview has cheaper preview pricing\; 1h45\, no interval.\nPrice:
+  From $41 (preview pricing\; $41-$103)\nhttps://www.act-sf.org/whats-on/2
+ 026-27-season/john-proctor-is-the-villain
+URL:https://www.act-sf.org/whats-on/2026-27-season/john-proctor-is-the-vil
+ lain
+LOCATION:A.C.T. Toni Rembe Theater\, 415 Geary St\, San Francisco\, CA 941
+ 02
 END:VEVENT
 BEGIN:VEVENT
 UID:chinatalk-unbound-book-club-everyday-movement-0764727c@sf-events
@@ -1421,6 +1574,20 @@ DESCRIPTION:Alicia Guo leads a hands-on workshop treating language as mate
 URL:https://grayarea.org/event/patch-bay-interactive-worlds-ai-figma-works
  hop-2-2-2/
 LOCATION:Gray Area\, 2665 Mission St\, San Francisco\, CA 94110
+END:VEVENT
+BEGIN:VEVENT
+UID:gullah-stick-pounding-workshop-with-melanie-demore-free-248e76d2@sf-ev
+ ents
+DTSTAMP:20261119T020000Z
+DTSTART:20261119T020000Z
+DTEND:20261119T040000Z
+SUMMARY:Gullah stick-pounding workshop with Melanie DeMore (free)
+DESCRIPTION:Free community workshop from Opera Parallele: learn Gullah sti
+ ck pounding with three-time Grammy nominee Melanie DeMore\, combining foo
+ t-stomping rhythm with spirituals and protest songs. Doors 5:30pm.\nPrice
+ : Free (RSVP)\nhttps://www.zspace.org/salt-and-spirit
+URL:https://www.zspace.org/salt-and-spirit
+LOCATION:Z Space\, 450 Florida St\, San Francisco\, CA 94110
 END:VEVENT
 BEGIN:VEVENT
 UID:ics-d511beaed00f@sf-events
@@ -1514,6 +1681,34 @@ LOCATION:Commonwealth Club World Affairs\, 110 The Embarcadero\, San Franc
  isco\, CA 94105
 END:VEVENT
 BEGIN:VEVENT
+UID:hamilton-leithauser-rostam-at-the-castro-5df1b100@sf-events
+DTSTAMP:20261119T040000Z
+DTSTART:20261119T040000Z
+DTEND:20261119T060000Z
+SUMMARY:Hamilton Leithauser + Rostam at the Castro
+DESCRIPTION:The Walkmen's singer and ex-Vampire Weekend co-writer Rostam r
+ eunite for their indie-rock collaboration I Had a Dream That You Were Min
+ e. Doors 7pm\, show 8pm\; all ages.\nhttps://thecastro.com/events/hamilto
+ n-leithauser-and-rostam-261118
+URL:https://thecastro.com/events/hamilton-leithauser-and-rostam-261118
+LOCATION:Castro Theatre\, 429 Castro St\, San Francisco\, CA 94114
+END:VEVENT
+BEGIN:VEVENT
+UID:john-carroll-kirby-at-the-chapel-14497fef@sf-events
+DTSTAMP:20261119T040000Z
+DTSTART:20261119T040000Z
+DTEND:20261119T060000Z
+SUMMARY:John Carroll Kirby at The Chapel
+DESCRIPTION:LA keyboardist-producer of lush\, jazzy instrumental music (So
+ lange\, Frank Ocean collaborator) plays the Mission's converted-mortuary 
+ venue\, presented by (((folkYEAH!))). Doors 7pm\, show 8pm.\nPrice: $30 s
+ tanding / $45 seated (+fees)\nhttps://wl.seetickets.us/event/john-carroll
+ -kirby/700565?afflky=TheChapel
+URL:https://wl.seetickets.us/event/john-carroll-kirby/700565?afflky=TheCha
+ pel
+LOCATION:The Chapel\, 777 Valencia St\, San Francisco\, CA 94110
+END:VEVENT
+BEGIN:VEVENT
 UID:exploratorium-after-dark-glow-opening-621d3306@sf-events
 DTSTAMP:20261120T020000Z
 DTSTART:20261120T020000Z
@@ -1572,6 +1767,37 @@ URL:https://booksmith.com/event/2026-11-19/booksmith-presents-daniel-duane
 LOCATION:The Booksmith\, 1727 Haight St\, San Francisco\, CA 94117
 END:VEVENT
 BEGIN:VEVENT
+UID:rae-armantrout-with-elizabeth-robinson-at-city-lights-df197c91@sf-even
+ ts
+DTSTAMP:20261120T030000Z
+DTSTART:20261120T030000Z
+DTEND:20261120T050000Z
+SUMMARY:Rae Armantrout with Elizabeth Robinson at City Lights
+DESCRIPTION:In-store reading by Pulitzer Prize-winning poet Rae Armantrout
+  to launch her new collection Safe Rooms (Wesleyan)\, with poet Elizabeth
+  Robinson. Co-presented with SF State's Poetry Center.\nPrice: Free\nhttp
+ s://citylights.com/events/rae-armantrout-with-elizabeth-robinson/
+URL:https://citylights.com/events/rae-armantrout-with-elizabeth-robinson/
+LOCATION:City Lights Booksellers\, 261 Columbus Ave\, San Francisco\, CA 9
+ 4133
+END:VEVENT
+BEGIN:VEVENT
+UID:salt-spirit-opera-parallele-world-premiere-at-z-space-98d8f7b4@sf-even
+ ts
+DTSTAMP:20261120T033000Z
+DTSTART:20261120T033000Z
+DTEND:20261120T053000Z
+SUMMARY:Salt & Spirit: Opera Parallele world premiere at Z Space
+DESCRIPTION:World-premiere operatic piece built from rare 19th-century Gul
+ lah-Geechee spirituals\, mixing classical\, jazz and traditional styles w
+ ith spoken word. Co-created by tenor Victor Ryan Robertson. Four performa
+ nces only\, Nov 14-21.\nPrice: $40 (Supported Access) / $70\nhttps://www.
+ zspace.org/salt-and-spirit
+URL:https://www.zspace.org/salt-and-spirit
+LOCATION:Z Space (Steindler Stage)\, 450 Florida St\, San Francisco\, CA 9
+ 4110
+END:VEVENT
+BEGIN:VEVENT
 UID:cannelle-popscene-a92ff22a@sf-events
 DTSTAMP:20261120T050000Z
 DTSTART:20261120T050000Z
@@ -1599,6 +1825,23 @@ LOCATION:SFJAZZ Center\, Joe Henderson Lab\, 201 Franklin St\, San Francis
  co\, CA 94102
 END:VEVENT
 BEGIN:VEVENT
+UID:a-rashomon-magic-theatre-campo-santo-world-premiere-preview-129faba8@s
+ f-events
+DTSTAMP:20261121T040000Z
+DTSTART:20261121T040000Z
+DTEND:20261121T060000Z
+SUMMARY:A Rashomon: Magic Theatre & Campo Santo world premiere (preview)
+DESCRIPTION:New play by Ashley Smiley inspired by Kurosawa's Rashomon: con
+ flicting accounts of a death at the Market St cable-car turnaround\, told
+  with video\, puppetry and dance. Previews Nov 18-20\, runs to Dec 6. Not
+ e: staged at the AAACC on Fulton St\, not Fort Mason\; no late seating.\n
+ Price: $35-$75 (sliding-scale general admission)\nhttps://magictheatre.or
+ g/calendar/a-rashomon
+URL:https://magictheatre.org/calendar/a-rashomon
+LOCATION:African American Art & Culture Complex (Magic Theatre production)
+ \, 762 Fulton St\, San Francisco\, CA 94102
+END:VEVENT
+BEGIN:VEVENT
 UID:sf-neo-futurists-the-infinite-wrench-30-plays-in-60-minutes-ffbbb4f2@s
  f-events
 DTSTAMP:20261121T050000Z
@@ -1613,6 +1856,20 @@ DESCRIPTION:The Neo-Futurists race to perform 30 short original plays in 6
 URL:https://www.eventbrite.com/e/sf-neo-futurists-the-infinite-wrench-tick
  ets-1987282527536
 LOCATION:447 Minna St\, 447 Minna St\, San Francisco\, CA 94103
+END:VEVENT
+BEGIN:VEVENT
+UID:secondhand-saturday-season-finale-sunset-mercantile-cc703fb7@sf-events
+DTSTAMP:20261121T180000Z
+DTSTART:20261121T180000Z
+DTEND:20261122T000000Z
+SUMMARY:Secondhand Saturday season finale (Sunset Mercantile)
+DESCRIPTION:Last outdoor vintage and makers' flea market of the year: 60-p
+ lus vendors\, food trucks\, live music\, and a record swap with guest DJ 
+ Baybesoul Records plus lawn games for the finale.\nPrice: Free\nhttps://s
+ unsetmercantilesf.com/secondhand/
+URL:https://sunsetmercantilesf.com/secondhand/
+LOCATION:Sunset Mercantile\, 37th Ave\, 37th Ave between Ortega & Quintara
+  St\, San Francisco\, CA 94122
 END:VEVENT
 BEGIN:VEVENT
 UID:ics-b8f18fea8a1d@sf-events
@@ -1671,6 +1928,20 @@ DESCRIPTION:A round-table tasting and discussion led by a local chocolatie
 URL:https://www.eventbrite.com/e/monthly-chocolate-club-at-mannys-lets-exp
  lore-chocolate-tickets-1986920837712
 LOCATION:Manny's\, 3092 16th St\, San Francisco\, CA 94103
+END:VEVENT
+BEGIN:VEVENT
+UID:poi-dog-pondering-with-archer-monk-746ad0e2@sf-events
+DTSTAMP:20261122T050000Z
+DTSTART:20261122T050000Z
+DTEND:20261122T070000Z
+SUMMARY:Poi Dog Pondering with Archer Monk
+DESCRIPTION:Frank Orrall's long-running\, Hawaii-rooted folk-pop collectiv
+ e returns with its 40-plus years of eclectic\, joyful songs. Doors 8pm\, 
+ show 9pm\; all ages.\nPrice: $28 advance / $33 day of show\nhttps://wl.se
+ etickets.us/event/poi-dog-pondering/705787?afflky=TheChapel
+URL:https://wl.seetickets.us/event/poi-dog-pondering/705787?afflky=TheChap
+ el
+LOCATION:The Chapel\, 777 Valencia St\, San Francisco\, CA 94110
 END:VEVENT
 BEGIN:VEVENT
 UID:movement-ecstatic-dance-sf-boogiemeister-50fb1dd1@sf-events
@@ -1736,6 +2007,24 @@ DESCRIPTION:A Breton 'night party' of easy line and circle dances\, all ta
 URL:https://www.farthershoreband.com/fest-noz-11-2026/
 LOCATION:Berkeley Fellowship of Unitarian Universalists\, 1606 Bonita Ave\
  , Berkeley\, CA 94709
+END:VEVENT
+BEGIN:VEVENT
+UID:divine-offering-celebrating-alice-coltrane-with-sita-michell-aa957866@
+ sf-events
+DTSTAMP:20261123T040000Z
+DTSTART:20261123T040000Z
+DTEND:20261123T060000Z
+SUMMARY:Divine Offering: Celebrating Alice Coltrane\, with Sita Michelle C
+ oltrane
+DESCRIPTION:Tribute to Alice Coltrane's spiritual jazz\, with her granddau
+ ghter Sita Michelle Coltrane\, in SF's ornate 1907 music hall. Moved from
+  Oct 11\; doors 7pm\, show 8pm.\nPrice: $39.50 advance / $45 door\nhttps:
+ //wl.seetickets.us/event/divine-offering-celebrating-the-legacy-of-alice-
+ coltrane/704843?afflky=GreatAmericanMusicHall
+URL:https://wl.seetickets.us/event/divine-offering-celebrating-the-legacy-
+ of-alice-coltrane/704843?afflky=GreatAmericanMusicHall
+LOCATION:Great American Music Hall\, 859 O'Farrell St\, San Francisco\, CA
+  94109
 END:VEVENT
 BEGIN:VEVENT
 UID:la-bola-negra-los-javis-30d59c1b@sf-events
@@ -2091,6 +2380,22 @@ LOCATION:Exploratorium (Pier 15)\, Pier 15\, The Embarcadero at Green St\,
   San Francisco\, CA 94111
 END:VEVENT
 BEGIN:VEVENT
+UID:the-death-of-meyerhold-shotgun-players-preview-d5d05294@sf-events
+DTSTAMP:20261204T030000Z
+DTSTART:20261204T030000Z
+DTEND:20261204T050000Z
+SUMMARY:The Death of Meyerhold (Shotgun Players preview)
+DESCRIPTION:Mark Jackson writes and directs this revival about the maveric
+ k Soviet theatre director Vsevolod Meyerhold and art under authoritariani
+ sm\, with choreography and a 12-person cast. Previews Nov 28-Dec 4\, open
+ s Dec 5\, runs to Jan 10. East Bay: BART from Montgomery to Ashby\, about
+  25 min\; the theatre is next to the station.\nPrice: Pay what you can (p
+ reviews)\; regular $40-$80\nhttps://shotgunplayers.org/show/meyerhold/
+URL:https://shotgunplayers.org/show/meyerhold/
+LOCATION:Shotgun Players\, The Ashby Stage\, 1901 Ashby Ave\, Berkeley\, C
+ A 94703
+END:VEVENT
+BEGIN:VEVENT
 UID:greg-fitzsimmons-a57f92c4@sf-events
 DTSTAMP:20261204T040000Z
 DTSTART:20261204T040000Z
@@ -2149,6 +2454,19 @@ DESCRIPTION:An all-local Bay Area folk and alt-country bill: Sonny & His R
  www.bottomofthehill.com/20261205.html
 URL:http://www.bottomofthehill.com/20261205.html
 LOCATION:Bottom of the Hill\, 1233 17th St\, San Francisco\, CA 94107
+END:VEVENT
+BEGIN:VEVENT
+UID:killing-my-lobster-sketch-on-speed-december-edition-9d207413@sf-events
+DTSTAMP:20261206T050000Z
+DTSTART:20261206T050000Z
+DTEND:20261206T060000Z
+SUMMARY:Killing My Lobster: Sketch on Speed (December edition)
+DESCRIPTION:SF's veteran sketch troupe writes\, rehearses and stages a who
+ le new show in 12 hours\, then performs it live in the 85-seat Z Below. E
+ very show has an all-new team.\nPrice: $10-$30 sliding scale\nhttps://www
+ .killingmylobster.com/shows-events
+URL:https://www.killingmylobster.com/shows-events
+LOCATION:Z Below (Z Space)\, 470 Florida St\, San Francisco\, CA 94110
 END:VEVENT
 BEGIN:VEVENT
 UID:lindy-in-the-park-free-swing-dancing-beginner-lesson-dc7186a2@sf-event
@@ -2355,6 +2673,22 @@ URL:https://thecastro.com/events/lucius-261211
 LOCATION:Castro Theatre\, 429 Castro St\, San Francisco\, CA 94114
 END:VEVENT
 BEGIN:VEVENT
+UID:bay-area-winter-solstice-2026-rationalist-community-5190812b@sf-events
+DTSTAMP:20261213T030000Z
+DTSTART:20261213T030000Z
+DTEND:20261213T050000Z
+SUMMARY:Bay Area Winter Solstice 2026 (rationalist community)
+DESCRIPTION:The Bay Area rationalist community's annual Secular Solstice: 
+ an evening of group singing and speeches about facing the dark\, held thi
+ s year at the Freight. Details and tickets 'coming soon'. East Bay: BART 
+ from Montgomery to Downtown Berkeley\, about 25 min\, then a 2-min walk.\
+ nhttps://www.lesswrong.com/events/umzGbxosnsxKPLQpX/bay-area-winter-solst
+ ice
+URL:https://www.lesswrong.com/events/umzGbxosnsxKPLQpX/bay-area-winter-sol
+ stice
+LOCATION:Freight & Salvage\, 2020 Addison St\, Berkeley\, CA 94704
+END:VEVENT
+BEGIN:VEVENT
 UID:san-francisco-english-country-dance-2nd-saturday-a7c0f0a0@sf-events
 DTSTAMP:20261213T033000Z
 DTSTART:20261213T033000Z
@@ -2388,6 +2722,22 @@ URL:https://www.oldfirstconcerts.org/performance/young-womens-chorus-of-sa
  -pm/
 LOCATION:Old First Church (Old First Concerts)\, 1751 Sacramento St\, San 
  Francisco\, CA 94109
+END:VEVENT
+BEGIN:VEVENT
+UID:bats-improv-an-improvised-dickens-musical-76db83a8@sf-events
+DTSTAMP:20261213T040000Z
+DTSTART:20261213T040000Z
+DTEND:20261213T060000Z
+SUMMARY:BATS Improv: An Improvised Dickens Musical
+DESCRIPTION:A fully improvised Victorian-London holiday musical with live 
+ accompaniment\, made up on the spot from audience suggestions. Saturdays 
+ at 8pm Dec 5\, 12\, 19 and 26.\nPrice: $17.79-$28.45\nhttps://www.eventbr
+ ite.com/e/bats-improv-presents-an-improvised-dickens-musical-127526-12262
+ 6-sho-tickets-1991874773066
+URL:https://www.eventbrite.com/e/bats-improv-presents-an-improvised-dicken
+ s-musical-127526-122626-sho-tickets-1991874773066
+LOCATION:BATS Bayfront Theatre\, Fort Mason Center\, 2 Marina Blvd\, Build
+ ing B\, 3rd Floor\, San Francisco\, CA 94123
 END:VEVENT
 BEGIN:VEVENT
 UID:susanna-kwan-awake-in-the-floating-city-with-becca-prowda-43a6315c@sf-
@@ -3472,6 +3822,20 @@ DESCRIPTION:Canadian indie-folk singer-songwriter Jon Bryant previews his
 URL:https://cafedunord.com/shows/2027-01-27-jon-bryant
 LOCATION:Cafe du Nord\, 2174 Market St (downstairs)\, San Francisco\, CA 9
  4114
+END:VEVENT
+BEGIN:VEVENT
+UID:bd-in-the-yuniverse-bd-wong-performs-charles-yu-stories-0ae14ba7@sf-ev
+ ents
+DTSTAMP:20270129T033000Z
+DTSTART:20270129T033000Z
+DTEND:20270129T053000Z
+SUMMARY:BD in the YUniverse: BD Wong performs Charles Yu stories
+DESCRIPTION:Tony winner and SF native BD Wong performs four funny\, moving
+  short stories by National Book Award winner Charles Yu. Four performance
+ s only\, Jan 28-31\, in A.C.T.'s experimental ACTivate series.\nPrice: $3
+ 5-$55\nhttps://www.act-sf.org/whats-on/activate/bd-in-the-yuniverse
+URL:https://www.act-sf.org/whats-on/activate/bd-in-the-yuniverse
+LOCATION:A.C.T. Strand Theater\, 1127 Market St\, San Francisco\, CA 94103
 END:VEVENT
 BEGIN:VEVENT
 UID:milonga-malevaje-thursday-tango-at-the-verdi-club-674a950c@sf-events

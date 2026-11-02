@@ -1,5 +1,11 @@
 [
   {
+    "ran_at": "2026-11-02T08:30:00-08:00",
+    "added": 25,
+    "considered": 195,
+    "notes": "Part 1: pruned 4; curated Knights of Molino punk release party (Mabuhay Gardens, 6 Nov) from the AISF feed; suppressed an AI Horizons Forum application deadline. WINTER SOLSTICE ANNOUNCED: LessWrong Bay Area Winter Solstice Sat 12 Dec 7pm at Freight & Salvage, Berkeley (no ticket link/price yet — watch). THEATRE VEIN OPENED (16): A.C.T. John Proctor Is the Villain preview 17 Nov + BD in the YUniverse (Strand) 28 Jan; NCTC A Case for the Existence of God 4 Nov; Magic Theatre A Rashomon preview 20 Nov (at AAACC, 762 Fulton); SF Playhouse Peter Pan Goes Wrong 10 Nov + free reading 9 Nov; Z Space Salt & Spirit opera 19 Nov + free Gullah stick-pounding workshop 18 Nov; The Marsh x2 (13 + 15 Nov); BATS Theatresports 14 Nov + Improvised Dickens Musical 12 Dec; Endgames improvised Shakespeare 5 Nov + improv dating workshop 15 Nov; Killing My Lobster 5 Dec; Shotgun Players Death of Meyerhold PWYC preview 3 Dec (East Bay). Late Nov: Hamilton Leithauser + Rostam at the Castro 18 Nov, John Carroll Kirby 18 Nov, Poi Dog Pondering 21 Nov, Alice Coltrane tribute w/ Sita Coltrane GAMH 22 Nov, Rae Armantrout City Lights 19 Nov, Fog of Love game night 16 Nov, Secondhand Saturday flea 21 Nov. SKIPPED: Alcatraz Thanksgiving sunrise gathering (Funcheap/third-party only, ferry page empty, likely sold out). sources.yaml +11 theatre/improv sources. SF Sketchfest lineup still due 13 Nov. Custom Made on hiatus; Golden Thread season over; EXIT fringe moved to Arcata; Club Fugazi box office blocks fetches."
+  },
+  {
     "ran_at": "2026-11-01T08:30:00-08:00",
     "added": 23,
     "considered": 88,

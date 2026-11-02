@@ -148,6 +148,44 @@ venues:
     url: https://www.improv.org/school/
     tags: [class, comedy]
 
+  # --- theatre & improv ---
+  - name: A.C.T. (Toni Rembe Theater + The Strand)
+    url: https://www.act-sf.org/whats-on/
+    tags: [theatre]
+    # all performances + buy links in the event feed: https://d1iqbcvjqb88zh.cloudfront.net/Prod/eventFeed/3/live
+  - name: SF Playhouse (incl. free Play Reading Series)
+    url: https://sfplayhouse.org/
+    tags: [theatre]
+  - name: New Conservatory Theatre Center
+    url: https://www.nctcsf.org/
+    tags: [theatre]
+  - name: Magic Theatre
+    url: https://magictheatre.org/calendar
+    tags: [theatre]
+    # autumn 2026 show staged at the African American Art & Culture Complex (762 Fulton), not Fort Mason
+  - name: Z Space
+    url: https://zspace.org/
+    tags: [theatre, music]
+    # OvationTix client 34231: web.ovationtix.com/trs/api/rest/Production(<id>)/performance (header clientId:34231)
+  - name: The Marsh (solo shows)
+    url: https://themarsh.org/
+    tags: [theatre, comedy]
+  - name: BATS Improv shows (Fort Mason)
+    url: https://www.improv.org/shows/
+    tags: [comedy, theatre]
+  - name: Endgames Improv
+    url: https://endgamesimprov.com/shows/
+    tags: [comedy, theatre]
+  - name: Killing My Lobster (sketch)
+    url: https://www.killingmylobster.com/shows-events
+    tags: [comedy]
+  - name: Shotgun Players (Berkeley — standouts only)
+    url: https://shotgunplayers.org/
+    tags: [theatre]
+  - name: Berkeley Rep (standouts only)
+    url: https://tickets.berkeleyrep.org/events
+    tags: [theatre]
+
 listings:
   - name: Funcheap SF
     url: https://sf.funcheap.com/

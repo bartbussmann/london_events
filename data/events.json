@@ -377,6 +377,24 @@
     "id": "figure-drawing-at-monument-sf-sketchboard-8340ca3c"
   },
   {
+    "title": "A Case for the Existence of God (Samuel D. Hunter) at NCTC",
+    "start": "2026-11-04T19:30:00-08:00",
+    "end": "2026-11-04T21:00:00-08:00",
+    "venue": "New Conservatory Theatre Center (Walker Theatre)",
+    "address": "25 Van Ness Ave, San Francisco, CA 94102",
+    "url": "https://nctcsf.org/event/a-case-for-the-existence-of-god/",
+    "source": "venue:nctc",
+    "tags": [
+      "theatre"
+    ],
+    "price": "$40-$80",
+    "description": "Samuel D. Hunter's acclaimed two-hander (NYT: 'a must-see heartbreaker'): two men in a cubicle trying to get a loan become unlikely friends. Runs Oct 17-Nov 22, Wed-Sun; 90 minutes, no interval.",
+    "neighbourhood": "Civic Center",
+    "cycle_minutes": 8,
+    "added": "2026-11-02",
+    "id": "a-case-for-the-existence-of-god-samuel-d-hunter-at-nctc-e4854ff6"
+  },
+  {
     "title": "Exploratorium After Dark: Digest This",
     "start": "2026-11-05T18:00:00-08:00",
     "end": "2026-11-05T22:00:00-08:00",
@@ -487,6 +505,25 @@
     "cycle_minutes": 2,
     "added": "2026-11-01",
     "id": "downtown-first-thursdays-street-party-big-freedia-headlines-88a837bc"
+  },
+  {
+    "title": "Thee's Company: improvised Shakespeare (Endgames)",
+    "start": "2026-11-05T20:00:00-08:00",
+    "end": "2026-11-05T21:00:00-08:00",
+    "venue": "Endgames Training Center (ETC Prime)",
+    "address": "2965 Mission St, San Francisco, CA 94110",
+    "url": "https://www.eventbrite.com/e/thees-company-tickets-1987945559683",
+    "source": "venue:endgames-improv",
+    "tags": [
+      "comedy",
+      "theatre"
+    ],
+    "price": "$17.35",
+    "description": "Brand-new Shakespeare-style plays improvised on the spot by Endgames performers. Monthly; the next one after this is Thu Dec 10.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 17,
+    "added": "2026-11-02",
+    "id": "thee-s-company-improvised-shakespeare-endgames-2534906c"
   },
   {
     "title": "Georgia Parker with Tashi T",
@@ -1001,6 +1038,25 @@
     "id": "zyzzyva-issue-133-celebration-9abb735e"
   },
   {
+    "title": "SF Playhouse free play reading: The Starters by Laura Winters",
+    "start": "2026-11-09T19:00:00-08:00",
+    "end": null,
+    "venue": "San Francisco Playhouse",
+    "address": "450 Post St, San Francisco, CA 94102",
+    "url": "https://sfplayhouse.org/play-reading-the-starters/",
+    "source": "venue:sf-playhouse",
+    "tags": [
+      "theatre",
+      "community"
+    ],
+    "price": "Free",
+    "description": "Free staged reading of a new play on the Playhouse mainstage, potluck-style: bring a treat or a bottle to share. The lobby opens at 6pm. An easy way to meet SF's theatre crowd.",
+    "neighbourhood": "Union Square",
+    "cycle_minutes": 6,
+    "added": "2026-11-02",
+    "id": "sf-playhouse-free-play-reading-the-starters-by-laura-winters-4ffdab3c"
+  },
+  {
     "title": "San Francisco Singles Speed Dating Game Night (30s/40s)",
     "start": "2026-11-10T19:00:00-08:00",
     "end": "2026-11-10T21:00:00-08:00",
@@ -1092,6 +1148,25 @@
     "cycle_minutes": 22,
     "added": "2026-11-01",
     "id": "entangled-intelligences-long-now-eagleman-lanier-levin-and-m-bc5ede18"
+  },
+  {
+    "title": "Peter Pan Goes Wrong at SF Playhouse",
+    "start": "2026-11-10T19:00:00-08:00",
+    "end": null,
+    "venue": "San Francisco Playhouse",
+    "address": "450 Post St, San Francisco, CA 94102",
+    "url": "https://sfplayhouse.org/2026-2027-season/peter-pan-goes-wrong/",
+    "source": "venue:sf-playhouse",
+    "tags": [
+      "theatre",
+      "comedy"
+    ],
+    "price": "$60-$145",
+    "description": "The Mischief farce (from the makers of The Play That Goes Wrong): an amateur troupe's Peter Pan collapses into slapstick chaos. Final run, to Nov 28; Tuesdays 7pm. Funcheap lists a $5-off code.",
+    "neighbourhood": "Union Square",
+    "cycle_minutes": 6,
+    "added": "2026-11-02",
+    "id": "peter-pan-goes-wrong-at-sf-playhouse-a6eed664"
   },
   {
     "title": "Claudio Simonetti's Goblin performs the live score to Tenebre",
@@ -1394,6 +1469,25 @@
     "id": "pyramid-dance-ean-golden-11cd6cf1"
   },
   {
+    "title": "Janet Thornburg's Cognitive Divine (solo comedy)",
+    "start": "2026-11-13T19:30:00-08:00",
+    "end": "2026-11-13T20:30:00-08:00",
+    "venue": "The Marsh San Francisco (Studio)",
+    "address": "1062 Valencia St, San Francisco, CA 94110",
+    "url": "https://themarsh.org/shows_and_events/janet-thornburgs-cognitive-divine/",
+    "source": "venue:the-marsh",
+    "tags": [
+      "theatre",
+      "comedy"
+    ],
+    "price": "$25-$35 general seating",
+    "description": "Solo show in which one performer plays seven sub-personalities arguing over whether to stay in San Francisco. It won Best Full-Length Comedy at the Marsh's 2026 In Front of Your Eyes festival. Fridays at 7:30pm, Nov 6-Dec 11; 60 minutes.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 15,
+    "added": "2026-11-02",
+    "id": "janet-thornburg-s-cognitive-divine-solo-comedy-3ab2838d"
+  },
+  {
     "title": "The Moth GrandSLAM Championship",
     "start": "2026-11-13T20:00:00-08:00",
     "end": null,
@@ -1526,6 +1620,25 @@
     "id": "san-francisco-english-country-dance-2nd-saturday-fac76861"
   },
   {
+    "title": "BATS Improv: Theatresports",
+    "start": "2026-11-14T20:00:00-08:00",
+    "end": null,
+    "venue": "BATS Bayfront Theatre, Fort Mason Center",
+    "address": "2 Marina Blvd, Building B, 3rd Floor, San Francisco, CA 94123",
+    "url": "https://www.eventbrite.com/e/bats-improv-presents-theatresportstm-11726-112826-sho-tickets-1991873896444",
+    "source": "venue:bats-improv",
+    "tags": [
+      "comedy",
+      "theatre"
+    ],
+    "price": "$17.79-$28.45",
+    "description": "BATS's long-running improv competition: teams battle through scenes and games judged by the audience. Saturdays at 8pm Nov 7, 14, 21 and 28.",
+    "neighbourhood": "Fort Mason",
+    "cycle_minutes": 22,
+    "added": "2026-11-02",
+    "id": "bats-improv-theatresports-f2c44e8e"
+  },
+  {
     "title": "The Cactus Blossoms with Margo Cilker",
     "start": "2026-11-14T21:00:00-08:00",
     "end": null,
@@ -1600,6 +1713,26 @@
     "id": "lindy-in-the-park-free-swing-dancing-beginner-lesson-9697bc16"
   },
   {
+    "title": "Improv(e) Your Dating Life workshop (Endgames)",
+    "start": "2026-11-15T14:30:00-08:00",
+    "end": "2026-11-15T16:30:00-08:00",
+    "venue": "Endgames Training Center (ETC Prime)",
+    "address": "2965 Mission St, San Francisco, CA 94110",
+    "url": "https://www.eventbrite.com/e/improve-your-dating-life-tickets-1246635784189",
+    "source": "venue:endgames-improv",
+    "tags": [
+      "workshop",
+      "comedy",
+      "community"
+    ],
+    "price": "$20-$40",
+    "description": "A two-hour workshop that mixes improv exercises with dating tips from dating coach Dylan Garcia, built around being present and widening your dating pool. A low-stakes way to try improv and meet people.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 17,
+    "added": "2026-11-02",
+    "id": "improv-e-your-dating-life-workshop-endgames-f76a0ca8"
+  },
+  {
     "title": "SF Civic Music: Mozart to Mendelssohn (with Chora Nova)",
     "start": "2026-11-15T15:00:00-08:00",
     "end": "2026-11-15T17:00:00-08:00",
@@ -1635,6 +1768,43 @@
     "cycle_minutes": 45,
     "added": "2026-10-28",
     "id": "playful-sunset-ocean-dance-silent-disco-on-ocean-beach-c2a50176"
+  },
+  {
+    "title": "The Secret Museum by Lynne Kaufman (with post-show talkback)",
+    "start": "2026-11-15T17:00:00-08:00",
+    "end": "2026-11-15T18:10:00-08:00",
+    "venue": "The Marsh San Francisco (Mainstage)",
+    "address": "1062 Valencia St, San Francisco, CA 94110",
+    "url": "https://themarsh.org/shows_and_events/lynne-kaufman-the-secret-museum/",
+    "source": "venue:the-marsh",
+    "tags": [
+      "theatre",
+      "talk"
+    ],
+    "price": "$30-$40 general seating",
+    "description": "New four-hander about a filmmaker documenting a newly excavated Pompeii fresco with startling evidence about sex and the sacred. This Sunday show is followed by a talkback with the playwright and cast. Runs Nov 7-22, Sat 8pm and Sun 5pm; 70 minutes.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 15,
+    "added": "2026-11-02",
+    "id": "the-secret-museum-by-lynne-kaufman-with-post-show-talkback-6cb230f6"
+  },
+  {
+    "title": "Fog of Love learn-and-play night at The Love Potion Library",
+    "start": "2026-11-16T18:00:00-08:00",
+    "end": "2026-11-16T20:00:00-08:00",
+    "venue": "The Love Potion Library",
+    "address": "284 Noe St, San Francisco, CA 94114",
+    "url": "https://www.dogpatch.games/events1/love-potion-library-2026-11-16-zd5hb",
+    "source": "listing:love-potion-library",
+    "tags": [
+      "community"
+    ],
+    "price": null,
+    "description": "Dogpatch Games teaches Fog of Love, a two-player romantic-comedy board game in which you play characters who meet, fall in love and try to make it work, at the Castro's romance bookshop and tea room. All welcome; a playful way to meet someone.",
+    "neighbourhood": "Castro",
+    "cycle_minutes": 17,
+    "added": "2026-11-02",
+    "id": "fog-of-love-learn-and-play-night-at-the-love-potion-library-41ae1c4a"
   },
   {
     "title": "Ben Buchanan: Superintelligence, Superpowers, and the Fate of the World",
@@ -1691,6 +1861,24 @@
     "cycle_minutes": 13,
     "added": "2026-10-26",
     "id": "margaret-glaspy-with-anna-tivel-4a72280f"
+  },
+  {
+    "title": "John Proctor Is the Villain (A.C.T. preview)",
+    "start": "2026-11-17T18:30:00-08:00",
+    "end": "2026-11-17T20:15:00-08:00",
+    "venue": "A.C.T. Toni Rembe Theater",
+    "address": "415 Geary St, San Francisco, CA 94102",
+    "url": "https://www.act-sf.org/whats-on/2026-27-season/john-proctor-is-the-villain",
+    "source": "venue:act",
+    "tags": [
+      "theatre"
+    ],
+    "price": "From $41 (preview pricing; $41-$103)",
+    "description": "West Coast premiere of Kimberly Belflower's Tony-nominated Best Play: five Georgia high-schoolers studying The Crucible start questioning who gets called a hero, scored to pop music. Runs Nov 12-Dec 6. This Tuesday preview has cheaper preview pricing; 1h45, no interval.",
+    "neighbourhood": "Union Square",
+    "cycle_minutes": 6,
+    "added": "2026-11-02",
+    "id": "john-proctor-is-the-villain-a-c-t-preview-be6e91ef"
   },
   {
     "title": "ChinaTalk & Unbound Book Club: Everyday Movement",
@@ -1785,6 +1973,26 @@
     "cycle_minutes": 15,
     "added": "2026-10-26",
     "id": "patch-bay-workshop-computational-poetry-f2f24a11"
+  },
+  {
+    "title": "Gullah stick-pounding workshop with Melanie DeMore (free)",
+    "start": "2026-11-18T18:00:00-08:00",
+    "end": null,
+    "venue": "Z Space",
+    "address": "450 Florida St, San Francisco, CA 94110",
+    "url": "https://www.zspace.org/salt-and-spirit",
+    "source": "venue:z-space",
+    "tags": [
+      "workshop",
+      "music",
+      "community"
+    ],
+    "price": "Free (RSVP)",
+    "description": "Free community workshop from Opera Parallele: learn Gullah stick pounding with three-time Grammy nominee Melanie DeMore, combining foot-stomping rhythm with spirituals and protest songs. Doors 5:30pm.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 12,
+    "added": "2026-11-02",
+    "id": "gullah-stick-pounding-workshop-with-melanie-demore-free-248e76d2"
   },
   {
     "id": "ics-d511beaed00f",
@@ -1898,6 +2106,42 @@
     "id": "the-humanist-review-of-ai-abundance-scarcity-mustafa-suleyma-d3e05490"
   },
   {
+    "title": "Hamilton Leithauser + Rostam at the Castro",
+    "start": "2026-11-18T20:00:00-08:00",
+    "end": null,
+    "venue": "Castro Theatre",
+    "address": "429 Castro St, San Francisco, CA 94114",
+    "url": "https://thecastro.com/events/hamilton-leithauser-and-rostam-261118",
+    "source": "venue:castro-theatre",
+    "tags": [
+      "music"
+    ],
+    "price": null,
+    "description": "The Walkmen's singer and ex-Vampire Weekend co-writer Rostam reunite for their indie-rock collaboration I Had a Dream That You Were Mine. Doors 7pm, show 8pm; all ages.",
+    "neighbourhood": "Castro",
+    "cycle_minutes": 17,
+    "added": "2026-11-02",
+    "id": "hamilton-leithauser-rostam-at-the-castro-5df1b100"
+  },
+  {
+    "title": "John Carroll Kirby at The Chapel",
+    "start": "2026-11-18T20:00:00-08:00",
+    "end": null,
+    "venue": "The Chapel",
+    "address": "777 Valencia St, San Francisco, CA 94110",
+    "url": "https://wl.seetickets.us/event/john-carroll-kirby/700565?afflky=TheChapel",
+    "source": "venue:the-chapel",
+    "tags": [
+      "music"
+    ],
+    "price": "$30 standing / $45 seated (+fees)",
+    "description": "LA keyboardist-producer of lush, jazzy instrumental music (Solange, Frank Ocean collaborator) plays the Mission's converted-mortuary venue, presented by (((folkYEAH!))). Doors 7pm, show 8pm.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 13,
+    "added": "2026-11-02",
+    "id": "john-carroll-kirby-at-the-chapel-14497fef"
+  },
+  {
     "title": "Exploratorium After Dark: Glow Opening",
     "start": "2026-11-19T18:00:00-08:00",
     "end": "2026-11-19T22:00:00-08:00",
@@ -1975,6 +2219,43 @@
     "id": "daniel-duane-yosemite-falls-reckoning-with-california-histor-b2aeb197"
   },
   {
+    "title": "Rae Armantrout with Elizabeth Robinson at City Lights",
+    "start": "2026-11-19T19:00:00-08:00",
+    "end": null,
+    "venue": "City Lights Booksellers",
+    "address": "261 Columbus Ave, San Francisco, CA 94133",
+    "url": "https://citylights.com/events/rae-armantrout-with-elizabeth-robinson/",
+    "source": "venue:city-lights",
+    "tags": [
+      "talk"
+    ],
+    "price": "Free",
+    "description": "In-store reading by Pulitzer Prize-winning poet Rae Armantrout to launch her new collection Safe Rooms (Wesleyan), with poet Elizabeth Robinson. Co-presented with SF State's Poetry Center.",
+    "neighbourhood": "North Beach",
+    "cycle_minutes": 10,
+    "added": "2026-11-02",
+    "id": "rae-armantrout-with-elizabeth-robinson-at-city-lights-df197c91"
+  },
+  {
+    "title": "Salt & Spirit: Opera Parallele world premiere at Z Space",
+    "start": "2026-11-19T19:30:00-08:00",
+    "end": null,
+    "venue": "Z Space (Steindler Stage)",
+    "address": "450 Florida St, San Francisco, CA 94110",
+    "url": "https://www.zspace.org/salt-and-spirit",
+    "source": "venue:z-space",
+    "tags": [
+      "music",
+      "theatre"
+    ],
+    "price": "$40 (Supported Access) / $70",
+    "description": "World-premiere operatic piece built from rare 19th-century Gullah-Geechee spirituals, mixing classical, jazz and traditional styles with spoken word. Co-created by tenor Victor Ryan Robertson. Four performances only, Nov 14-21.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 12,
+    "added": "2026-11-02",
+    "id": "salt-spirit-opera-parallele-world-premiere-at-z-space-98d8f7b4"
+  },
+  {
     "title": "Cannelle (Popscene)",
     "start": "2026-11-19T21:00:00-08:00",
     "end": "2026-11-19T23:45:00-08:00",
@@ -2011,6 +2292,25 @@
     "id": "brittany-davis-black-thunder-early-set-78aa60e6"
   },
   {
+    "title": "A Rashomon: Magic Theatre & Campo Santo world premiere (preview)",
+    "start": "2026-11-20T20:00:00-08:00",
+    "end": null,
+    "venue": "African American Art & Culture Complex (Magic Theatre production)",
+    "address": "762 Fulton St, San Francisco, CA 94102",
+    "url": "https://magictheatre.org/calendar/a-rashomon",
+    "source": "venue:magic-theatre",
+    "tags": [
+      "theatre",
+      "dance"
+    ],
+    "price": "$35-$75 (sliding-scale general admission)",
+    "description": "New play by Ashley Smiley inspired by Kurosawa's Rashomon: conflicting accounts of a death at the Market St cable-car turnaround, told with video, puppetry and dance. Previews Nov 18-20, runs to Dec 6. Note: staged at the AAACC on Fulton St, not Fort Mason; no late seating.",
+    "neighbourhood": "Western Addition",
+    "cycle_minutes": 13,
+    "added": "2026-11-02",
+    "id": "a-rashomon-magic-theatre-campo-santo-world-premiere-preview-129faba8"
+  },
+  {
     "title": "SF Neo-Futurists: The Infinite Wrench (30 plays in 60 minutes)",
     "start": "2026-11-20T21:00:00-08:00",
     "end": "2026-11-20T22:30:00-08:00",
@@ -2028,6 +2328,26 @@
     "cycle_minutes": 5,
     "added": "2026-10-27",
     "id": "sf-neo-futurists-the-infinite-wrench-30-plays-in-60-minutes-ffbbb4f2"
+  },
+  {
+    "title": "Secondhand Saturday season finale (Sunset Mercantile)",
+    "start": "2026-11-21T10:00:00-08:00",
+    "end": "2026-11-21T16:00:00-08:00",
+    "venue": "Sunset Mercantile, 37th Ave",
+    "address": "37th Ave between Ortega & Quintara St, San Francisco, CA 94122",
+    "url": "https://sunsetmercantilesf.com/secondhand/",
+    "source": "listing:funcheap",
+    "tags": [
+      "market",
+      "music",
+      "community"
+    ],
+    "price": "Free",
+    "description": "Last outdoor vintage and makers' flea market of the year: 60-plus vendors, food trucks, live music, and a record swap with guest DJ Baybesoul Records plus lawn games for the finale.",
+    "neighbourhood": "Outer Sunset",
+    "cycle_minutes": 45,
+    "added": "2026-11-02",
+    "id": "secondhand-saturday-season-finale-sunset-mercantile-cc703fb7"
   },
   {
     "id": "ics-b8f18fea8a1d",
@@ -2104,6 +2424,24 @@
     "id": "monthly-chocolate-club-at-manny-s-414ce6a6"
   },
   {
+    "title": "Poi Dog Pondering with Archer Monk",
+    "start": "2026-11-21T21:00:00-08:00",
+    "end": null,
+    "venue": "The Chapel",
+    "address": "777 Valencia St, San Francisco, CA 94110",
+    "url": "https://wl.seetickets.us/event/poi-dog-pondering/705787?afflky=TheChapel",
+    "source": "venue:the-chapel",
+    "tags": [
+      "music"
+    ],
+    "price": "$28 advance / $33 day of show",
+    "description": "Frank Orrall's long-running, Hawaii-rooted folk-pop collective returns with its 40-plus years of eclectic, joyful songs. Doors 8pm, show 9pm; all ages.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 13,
+    "added": "2026-11-02",
+    "id": "poi-dog-pondering-with-archer-monk-746ad0e2"
+  },
+  {
     "title": "MOVEMENT Ecstatic Dance SF // Boogiemeister",
     "start": "2026-11-22T10:00:00-08:00",
     "end": "2026-11-22T13:11:00-08:00",
@@ -2178,6 +2516,24 @@
     "neighbourhood": "Berkeley",
     "added": "2026-10-26",
     "id": "berkeley-fest-noz-breton-dance-party-with-live-band-2018cf5b"
+  },
+  {
+    "title": "Divine Offering: Celebrating Alice Coltrane, with Sita Michelle Coltrane",
+    "start": "2026-11-22T20:00:00-08:00",
+    "end": null,
+    "venue": "Great American Music Hall",
+    "address": "859 O'Farrell St, San Francisco, CA 94109",
+    "url": "https://wl.seetickets.us/event/divine-offering-celebrating-the-legacy-of-alice-coltrane/704843?afflky=GreatAmericanMusicHall",
+    "source": "listing:the-list",
+    "tags": [
+      "music"
+    ],
+    "price": "$39.50 advance / $45 door",
+    "description": "Tribute to Alice Coltrane's spiritual jazz, with her granddaughter Sita Michelle Coltrane, in SF's ornate 1907 music hall. Moved from Oct 11; doors 7pm, show 8pm.",
+    "neighbourhood": "Tenderloin",
+    "cycle_minutes": 9,
+    "added": "2026-11-02",
+    "id": "divine-offering-celebrating-alice-coltrane-with-sita-michell-aa957866"
   },
   {
     "title": "La Bola Negra (Los Javis)",
@@ -2631,6 +2987,23 @@
     "id": "exploratorium-after-dark-rule-breakers-1717e049"
   },
   {
+    "title": "The Death of Meyerhold (Shotgun Players preview)",
+    "start": "2026-12-03T19:00:00-08:00",
+    "end": null,
+    "venue": "Shotgun Players, The Ashby Stage",
+    "address": "1901 Ashby Ave, Berkeley, CA 94703",
+    "url": "https://shotgunplayers.org/show/meyerhold/",
+    "source": "venue:shotgun-players",
+    "tags": [
+      "theatre"
+    ],
+    "price": "Pay what you can (previews); regular $40-$80",
+    "description": "Mark Jackson writes and directs this revival about the maverick Soviet theatre director Vsevolod Meyerhold and art under authoritarianism, with choreography and a 12-person cast. Previews Nov 28-Dec 4, opens Dec 5, runs to Jan 10. East Bay: BART from Montgomery to Ashby, about 25 min; the theatre is next to the station.",
+    "neighbourhood": "Berkeley",
+    "added": "2026-11-02",
+    "id": "the-death-of-meyerhold-shotgun-players-preview-d5d05294"
+  },
+  {
     "title": "Greg Fitzsimmons",
     "start": "2026-12-03T20:00:00-08:00",
     "end": null,
@@ -2701,6 +3074,25 @@
     "cycle_minutes": 12,
     "added": "2026-10-26",
     "id": "sonny-his-rhinestone-sunsets-kelly-mcfarling-noelle-the-dese-adda0ee2"
+  },
+  {
+    "title": "Killing My Lobster: Sketch on Speed (December edition)",
+    "start": "2026-12-05T21:00:00-08:00",
+    "end": "2026-12-05T22:00:00-08:00",
+    "venue": "Z Below (Z Space)",
+    "address": "470 Florida St, San Francisco, CA 94110",
+    "url": "https://www.killingmylobster.com/shows-events",
+    "source": "venue:killing-my-lobster",
+    "tags": [
+      "comedy",
+      "theatre"
+    ],
+    "price": "$10-$30 sliding scale",
+    "description": "SF's veteran sketch troupe writes, rehearses and stages a whole new show in 12 hours, then performs it live in the 85-seat Z Below. Every show has an all-new team.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 12,
+    "added": "2026-11-02",
+    "id": "killing-my-lobster-sketch-on-speed-december-edition-9d207413"
   },
   {
     "title": "Lindy in the Park: free swing dancing + beginner lesson",
@@ -2963,6 +3355,25 @@
     "id": "lucius-4560896c"
   },
   {
+    "title": "Bay Area Winter Solstice 2026 (rationalist community)",
+    "start": "2026-12-12T19:00:00-08:00",
+    "end": null,
+    "venue": "Freight & Salvage",
+    "address": "2020 Addison St, Berkeley, CA 94704",
+    "url": "https://www.lesswrong.com/events/umzGbxosnsxKPLQpX/bay-area-winter-solstice",
+    "source": "listing:lesswrong",
+    "tags": [
+      "community",
+      "music",
+      "talk"
+    ],
+    "price": null,
+    "description": "The Bay Area rationalist community's annual Secular Solstice: an evening of group singing and speeches about facing the dark, held this year at the Freight. Details and tickets 'coming soon'. East Bay: BART from Montgomery to Downtown Berkeley, about 25 min, then a 2-min walk.",
+    "neighbourhood": "Berkeley",
+    "added": "2026-11-02",
+    "id": "bay-area-winter-solstice-2026-rationalist-community-5190812b"
+  },
+  {
     "title": "San Francisco English Country Dance (2nd Saturday)",
     "start": "2026-12-12T19:30:00-08:00",
     "end": "2026-12-12T22:00:00-08:00",
@@ -2998,6 +3409,26 @@
     "cycle_minutes": 15,
     "added": "2026-10-30",
     "id": "young-women-s-chorus-of-sf-lux-aeterna-carols-by-candlelight-936a9fab"
+  },
+  {
+    "title": "BATS Improv: An Improvised Dickens Musical",
+    "start": "2026-12-12T20:00:00-08:00",
+    "end": "2026-12-12T22:00:00-08:00",
+    "venue": "BATS Bayfront Theatre, Fort Mason Center",
+    "address": "2 Marina Blvd, Building B, 3rd Floor, San Francisco, CA 94123",
+    "url": "https://www.eventbrite.com/e/bats-improv-presents-an-improvised-dickens-musical-127526-122626-sho-tickets-1991874773066",
+    "source": "venue:bats-improv",
+    "tags": [
+      "comedy",
+      "theatre",
+      "music"
+    ],
+    "price": "$17.79-$28.45",
+    "description": "A fully improvised Victorian-London holiday musical with live accompaniment, made up on the spot from audience suggestions. Saturdays at 8pm Dec 5, 12, 19 and 26.",
+    "neighbourhood": "Fort Mason",
+    "cycle_minutes": 22,
+    "added": "2026-11-02",
+    "id": "bats-improv-an-improvised-dickens-musical-76db83a8"
   },
   {
     "title": "Susanna Kwan: Awake in the Floating City, with Becca Prowda",
@@ -4344,6 +4775,24 @@
     "cycle_minutes": 14,
     "added": "2026-10-30",
     "id": "jon-bryant-ec6c1dfe"
+  },
+  {
+    "title": "BD in the YUniverse: BD Wong performs Charles Yu stories",
+    "start": "2027-01-28T19:30:00-08:00",
+    "end": null,
+    "venue": "A.C.T. Strand Theater",
+    "address": "1127 Market St, San Francisco, CA 94103",
+    "url": "https://www.act-sf.org/whats-on/activate/bd-in-the-yuniverse",
+    "source": "venue:act",
+    "tags": [
+      "theatre"
+    ],
+    "price": "$35-$55",
+    "description": "Tony winner and SF native BD Wong performs four funny, moving short stories by National Book Award winner Charles Yu. Four performances only, Jan 28-31, in A.C.T.'s experimental ACTivate series.",
+    "neighbourhood": "Civic Center",
+    "cycle_minutes": 7,
+    "added": "2026-11-02",
+    "id": "bd-in-the-yuniverse-bd-wong-performs-charles-yu-stories-0ae14ba7"
   },
   {
     "title": "Milonga Malevaje (Thursday tango at the Verdi Club)",
