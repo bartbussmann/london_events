@@ -1,79 +1,5 @@
 [
   {
-    "title": "Kirk Lombard book release: The Shadow Stream",
-    "start": "2026-10-30T18:30:00-07:00",
-    "end": "2026-10-30T20:00:00-07:00",
-    "venue": "Sports Basement Presidio (The Dairy)",
-    "address": "610 Old Mason St, San Francisco, CA 94129",
-    "url": "https://presidio.gov/explore/events/book-release-with-green-apple-and-kirk-lombard-at-sports-basement/",
-    "source": "venue:green-apple-books",
-    "tags": [
-      "talk",
-      "food",
-      "music"
-    ],
-    "price": "Free (RSVP)",
-    "description": "Green Apple Books hosts Bay Area forager, angler and sustainable fishmonger Kirk Lombard (Sea Forager's Guide to the Northern California Coast) launching his new book. There are refreshments and live music before the talk.",
-    "neighbourhood": "Presidio",
-    "cycle_minutes": 27,
-    "added": "2026-10-28",
-    "id": "kirk-lombard-book-release-the-shadow-stream-20d071e2"
-  },
-  {
-    "title": "Cityswoon Halloween Eve Date Night (ages 28-42)",
-    "start": "2026-10-30T19:00:00-07:00",
-    "end": "2026-10-30T21:30:00-07:00",
-    "venue": "Indie Wine & Beer Bar (SF Wine Center)",
-    "address": "175 Green St, San Francisco, CA 94111",
-    "url": "https://www.eventbrite.com/e/halloween-eve-date-night-in-telegraph-hill-cityswoon-ages-28-42-tickets-2001392918094",
-    "source": "aggregator:eventbrite",
-    "tags": [
-      "community"
-    ],
-    "price": "$43.45",
-    "description": "A Halloween-eve matched speed-dating night for mixed singles aged 28-42, held at a wine bar below Telegraph Hill.",
-    "neighbourhood": "Telegraph Hill",
-    "cycle_minutes": 9,
-    "added": "2026-10-26",
-    "id": "cityswoon-halloween-eve-date-night-ages-28-42-95a5e5a4"
-  },
-  {
-    "title": "5Rhythms Wild Release (Friday night wave)",
-    "start": "2026-10-30T19:00:00-07:00",
-    "end": "2026-10-30T20:45:00-07:00",
-    "venue": "ABADA-Capoeira San Francisco",
-    "address": "3221 22nd St, San Francisco, CA 94110",
-    "url": "https://www.5rhythms.com/classes/WILDRELEASE-295070",
-    "source": "listing:5rhythms",
-    "tags": [
-      "dance"
-    ],
-    "price": "$25",
-    "description": "A weekly Friday 5Rhythms wave with Vehllia Tranne and Alessandro Moruzzi (sub this week: Bettina-Kira Neumann), billed as an alternative to a bar night. Arrive at 7pm; the door closes at 7:30. Drop-ins welcome.",
-    "neighbourhood": "Mission",
-    "cycle_minutes": 15,
-    "added": "2026-10-26",
-    "id": "5rhythms-wild-release-friday-night-wave-afd004da"
-  },
-  {
-    "title": "Michael Lewis in conversation with Lara Bazelon",
-    "start": "2026-10-30T19:30:00-07:00",
-    "end": null,
-    "venue": "Sydney Goldstein Theater",
-    "address": "275 Hayes St, San Francisco, CA 94102",
-    "url": "https://www.cityarts.net/event/michael-lewis-8/",
-    "source": "venue:cityarts",
-    "tags": [
-      "talk"
-    ],
-    "price": null,
-    "description": "City Arts & Lectures hosts the author of Moneyball, The Big Short and Going Infinite. He discusses his new book Blockers, an inside look at the early days of DOGE told by the public servants it targeted.",
-    "neighbourhood": "Hayes Valley",
-    "cycle_minutes": 10,
-    "added": "2026-10-26",
-    "id": "michael-lewis-in-conversation-with-lara-bazelon-8199207f"
-  },
-  {
     "id": "ics-e9ad9595f3aa",
     "title": "Vibecheck: Formal Methods Hackathon",
     "start": "2026-10-31T10:00:00-07:00",
@@ -618,6 +544,26 @@
     "cycle_minutes": 15,
     "added": "2026-10-26",
     "id": "visioning-the-future-a-climate-action-collage-soir-e-d4ccd43e"
+  },
+  {
+    "id": "ics-93b574aad568",
+    "title": "Punk Rock Youth of AI Safety: Knights of Molino Release Party",
+    "start": "2026-11-06T18:00:00-08:00",
+    "end": "2026-11-06T23:00:00-08:00",
+    "venue": "Mabuhay Gardens",
+    "address": "443 Broadway, San Francisco, CA 94133",
+    "url": "https://luma.com/ygp8ma7a",
+    "source": "ics:AI Safety San Francisco",
+    "tags": [
+      "music",
+      "tech",
+      "community"
+    ],
+    "price": "See Luma page",
+    "description": "Release party for 'Knights of Molino', the AI-safety community's punk rock project, at the legendary North Beach punk club Mabuhay Gardens. Listed on the AI Safety San Francisco calendar — a fun way to meet that crowd outside a talk.",
+    "added": "2026-11-02",
+    "neighbourhood": "North Beach",
+    "cycle_minutes": 10
   },
   {
     "title": "Improv(e) Your Dating Life",

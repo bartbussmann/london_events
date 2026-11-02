@@ -5,65 +5,6 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:San Francisco Events
 X-WR-TIMEZONE:America/Los_Angeles
 BEGIN:VEVENT
-UID:kirk-lombard-book-release-the-shadow-stream-20d071e2@sf-events
-DTSTAMP:20261031T013000Z
-DTSTART:20261031T013000Z
-DTEND:20261031T030000Z
-SUMMARY:Kirk Lombard book release: The Shadow Stream
-DESCRIPTION:Green Apple Books hosts Bay Area forager\, angler and sustaina
- ble fishmonger Kirk Lombard (Sea Forager's Guide to the Northern Californ
- ia Coast) launching his new book. There are refreshments and live music b
- efore the talk.\nPrice: Free (RSVP)\nhttps://presidio.gov/explore/events/
- book-release-with-green-apple-and-kirk-lombard-at-sports-basement/
-URL:https://presidio.gov/explore/events/book-release-with-green-apple-and-
- kirk-lombard-at-sports-basement/
-LOCATION:Sports Basement Presidio (The Dairy)\, 610 Old Mason St\, San Fra
- ncisco\, CA 94129
-END:VEVENT
-BEGIN:VEVENT
-UID:cityswoon-halloween-eve-date-night-ages-28-42-95a5e5a4@sf-events
-DTSTAMP:20261031T020000Z
-DTSTART:20261031T020000Z
-DTEND:20261031T043000Z
-SUMMARY:Cityswoon Halloween Eve Date Night (ages 28-42)
-DESCRIPTION:A Halloween-eve matched speed-dating night for mixed singles a
- ged 28-42\, held at a wine bar below Telegraph Hill.\nPrice: $43.45\nhttp
- s://www.eventbrite.com/e/halloween-eve-date-night-in-telegraph-hill-citys
- woon-ages-28-42-tickets-2001392918094
-URL:https://www.eventbrite.com/e/halloween-eve-date-night-in-telegraph-hil
- l-cityswoon-ages-28-42-tickets-2001392918094
-LOCATION:Indie Wine & Beer Bar (SF Wine Center)\, 175 Green St\, San Franc
- isco\, CA 94111
-END:VEVENT
-BEGIN:VEVENT
-UID:5rhythms-wild-release-friday-night-wave-afd004da@sf-events
-DTSTAMP:20261031T020000Z
-DTSTART:20261031T020000Z
-DTEND:20261031T034500Z
-SUMMARY:5Rhythms Wild Release (Friday night wave)
-DESCRIPTION:A weekly Friday 5Rhythms wave with Vehllia Tranne and Alessand
- ro Moruzzi (sub this week: Bettina-Kira Neumann)\, billed as an alternati
- ve to a bar night. Arrive at 7pm\; the door closes at 7:30. Drop-ins welc
- ome.\nPrice: $25\nhttps://www.5rhythms.com/classes/WILDRELEASE-295070
-URL:https://www.5rhythms.com/classes/WILDRELEASE-295070
-LOCATION:ABADA-Capoeira San Francisco\, 3221 22nd St\, San Francisco\, CA 
- 94110
-END:VEVENT
-BEGIN:VEVENT
-UID:michael-lewis-in-conversation-with-lara-bazelon-8199207f@sf-events
-DTSTAMP:20261031T023000Z
-DTSTART:20261031T023000Z
-DTEND:20261031T043000Z
-SUMMARY:Michael Lewis in conversation with Lara Bazelon
-DESCRIPTION:City Arts & Lectures hosts the author of Moneyball\, The Big S
- hort and Going Infinite. He discusses his new book Blockers\, an inside l
- ook at the early days of DOGE told by the public servants it targeted.\nh
- ttps://www.cityarts.net/event/michael-lewis-8/
-URL:https://www.cityarts.net/event/michael-lewis-8/
-LOCATION:Sydney Goldstein Theater\, 275 Hayes St\, San Francisco\, CA 9410
- 2
-END:VEVENT
-BEGIN:VEVENT
 UID:ics-e9ad9595f3aa@sf-events
 DTSTAMP:20261031T170000Z
 DTSTART:20261031T170000Z
@@ -484,6 +425,20 @@ DESCRIPTION:Soapbox San Francisco hosts a dinner-and-collage party to imag
   only.]\nPrice: Sold out (waitlist)\nhttps://luma.com/u9l1w54q
 URL:https://luma.com/u9l1w54q
 LOCATION:The Faight Collective\, 473A Haight St\, San Francisco\, CA 94117
+END:VEVENT
+BEGIN:VEVENT
+UID:ics-93b574aad568@sf-events
+DTSTAMP:20261107T020000Z
+DTSTART:20261107T020000Z
+DTEND:20261107T070000Z
+SUMMARY:Punk Rock Youth of AI Safety: Knights of Molino Release Party
+DESCRIPTION:Release party for 'Knights of Molino'\, the AI-safety communit
+ y's punk rock project\, at the legendary North Beach punk club Mabuhay Ga
+ rdens. Listed on the AI Safety San Francisco calendar — a fun way to me
+ et that crowd outside a talk.\nPrice: See Luma page\nhttps://luma.com/ygp
+ 8ma7a
+URL:https://luma.com/ygp8ma7a
+LOCATION:Mabuhay Gardens\, 443 Broadway\, San Francisco\, CA 94133
 END:VEVENT
 BEGIN:VEVENT
 UID:improv-e-your-dating-life-45570161@sf-events
