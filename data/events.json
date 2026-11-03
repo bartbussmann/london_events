@@ -378,6 +378,26 @@
     "id": "exploratorium-after-dark-digest-this-0af04c0b"
   },
   {
+    "title": "Caribbean Cocktails: migration, memory and making (First Thursday talk at MoAD)",
+    "start": "2026-11-05T18:00:00-08:00",
+    "end": "2026-11-05T20:00:00-08:00",
+    "venue": "Museum of the African Diaspora (MoAD)",
+    "address": "685 Mission St, San Francisco, CA 94105",
+    "url": "https://www.moadsf.org/event/caribbean-cocktails-migration-memory-and-making-across-the-diaspora",
+    "source": "venue:moad",
+    "tags": [
+      "art",
+      "talk",
+      "food"
+    ],
+    "price": "Free (register)",
+    "description": "Chef Nelson German and James Beard Award-winning writer Andrea Lawson Gray discuss rum, sugarcane and the Afro-Latino diaspora in a conversation tied to MoAD's Jamaican-diaspora ceramics show After the Island. Part of Downtown First Thursdays, so the galleries are free that evening too.",
+    "neighbourhood": "SoMa",
+    "cycle_minutes": 3,
+    "added": "2026-11-03",
+    "id": "caribbean-cocktails-migration-memory-and-making-first-thursd-debb53c5"
+  },
+  {
     "title": "KQED Live: Happy Hour Showdown (Bites, Bevs and Karaoke)",
     "start": "2026-11-05T19:00:00-08:00",
     "end": null,
@@ -431,6 +451,25 @@
     "cycle_minutes": 22,
     "added": "2026-10-31",
     "id": "daniel-kahn-jake-shulman-ment-umru-unrest-7a2c9291"
+  },
+  {
+    "title": "Marjorie Keller: Intimate Observer (experimental films)",
+    "start": "2026-11-05T19:00:00-08:00",
+    "end": "2026-11-05T21:00:00-08:00",
+    "venue": "The Lab",
+    "address": "2948 16th St, San Francisco, CA 94103",
+    "url": "https://www.thelab.org/projects/2026/11/5/marjorie-keller-intimate-observer",
+    "source": "venue:the-lab",
+    "tags": [
+      "film",
+      "art"
+    ],
+    "price": "$15",
+    "description": "Screening of the 8mm/16mm films of Marjorie Keller, a major figure in late-20th-century American experimental cinema. Doors 6:30pm, films 7pm, at the Mission's long-running experimental art space.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 12,
+    "added": "2026-11-03",
+    "id": "marjorie-keller-intimate-observer-experimental-films-a5062edc"
   },
   {
     "title": "Greg Freeman with Trinity Ace",
@@ -506,6 +545,25 @@
     "cycle_minutes": 13,
     "added": "2026-10-26",
     "id": "georgia-parker-with-tashi-t-6670e84e"
+  },
+  {
+    "title": "Arab Film Festival: El Sett encore screening (Umm Kulthum biopic)",
+    "start": "2026-11-05T22:15:00-08:00",
+    "end": "2026-11-06T01:00:00-08:00",
+    "venue": "AMC Kabuki 8",
+    "address": "1881 Post St, San Francisco, CA 94115",
+    "url": "https://aff30.arabfilmfestival.org/schedule",
+    "source": "aff30.arabfilmfestival.org",
+    "tags": [
+      "film",
+      "festival"
+    ],
+    "price": "$25",
+    "description": "Late encore of the 30th Arab Film Festival's opening-night film: Marwan Hamed's sweeping portrait of Umm Kulthum, the Arab world's most iconic singer, with Mona Zaki in the lead. Added because the 6pm gala is almost sold out; this one is film-only.",
+    "neighbourhood": "Japantown",
+    "cycle_minutes": 17,
+    "added": "2026-11-03",
+    "id": "arab-film-festival-el-sett-encore-screening-umm-kulthum-biop-3c66a6c2"
   },
   {
     "title": "In-Person Class: Fresh Pasta in Color",
@@ -587,6 +645,25 @@
     "id": "improv-e-your-dating-life-45570161"
   },
   {
+    "title": "Floating Features: Pacific Heights (film cruise on the Bay)",
+    "start": "2026-11-06T19:00:00-08:00",
+    "end": "2026-11-06T21:00:00-08:00",
+    "venue": "Red and White Fleet, Pier 43 1/2",
+    "address": "Pier 43 1/2, Fisherman's Wharf, San Francisco, CA 94133",
+    "url": "https://roxie.com/film/floating-features-pacific-heights/",
+    "source": "venue:roxie",
+    "tags": [
+      "film",
+      "outdoors"
+    ],
+    "price": null,
+    "description": "The Roxie and Red and White Fleet turn the quiet hybrid-electric vessel Enhydra into a sailing cinema: a two-hour twilight cruise on the Bay with a screening of the 1990 San Francisco landlord thriller Pacific Heights. Member discounts; book via the Roxie page.",
+    "neighbourhood": "Fisherman's Wharf",
+    "cycle_minutes": 15,
+    "added": "2026-11-03",
+    "id": "floating-features-pacific-heights-film-cruise-on-the-bay-9aeff729"
+  },
+  {
     "title": "San Francisco Leonard Cohen Festival: Poetry & Song",
     "start": "2026-11-06T19:30:00-08:00",
     "end": null,
@@ -606,6 +683,25 @@
     "id": "san-francisco-leonard-cohen-festival-poetry-song-28fb28d7"
   },
   {
+    "title": "Sandow Birk in person: Dante's Inferno + In Smog and Thunder double feature",
+    "start": "2026-11-06T19:30:00-08:00",
+    "end": "2026-11-06T22:15:00-08:00",
+    "venue": "Balboa Theatre",
+    "address": "3630 Balboa St, San Francisco, CA 94121",
+    "url": "https://www.balboamovies.com/calendar-of-events/double-feature-with-sandow-birk-november-6",
+    "source": "venue:balboa",
+    "tags": [
+      "art",
+      "film"
+    ],
+    "price": null,
+    "description": "Artist Sandow Birk presents his darkly comic films Dante's Inferno (2007) and In Smog and Thunder (2003), a mock-epic LA-vs-SF civil war, with a Q&A between them. Tied to his Catharine Clark Gallery survey, which closes Nov 7.",
+    "neighbourhood": "Outer Richmond",
+    "cycle_minutes": 40,
+    "added": "2026-11-03",
+    "id": "sandow-birk-in-person-dante-s-inferno-in-smog-and-thunder-do-dd7f9c79"
+  },
+  {
     "title": "IAN SWEET",
     "start": "2026-11-06T20:00:00-08:00",
     "end": null,
@@ -622,6 +718,24 @@
     "cycle_minutes": 14,
     "added": "2026-11-01",
     "id": "ian-sweet-b27135ec"
+  },
+  {
+    "title": "Ken Russell's The Devils (4K restoration, uncut)",
+    "start": "2026-11-06T20:15:00-08:00",
+    "end": "2026-11-06T22:15:00-08:00",
+    "venue": "Roxie Theater (Big Roxie)",
+    "address": "3125 16th St, San Francisco, CA 94103",
+    "url": "https://roxie.com/film/ken-russells-the-devils-4k-restoration/",
+    "source": "venue:roxie",
+    "tags": [
+      "film"
+    ],
+    "price": "$14",
+    "description": "First 4K restoration of Ken Russell's notorious 1971 film starring Vanessa Redgrave and Oliver Reed, presented in the uncut version Russell assembled in 2004. A rare chance to see one of cinema's most-censored films on the big screen. Also plays Tue 10 Nov at 8pm.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 12,
+    "added": "2026-11-03",
+    "id": "ken-russell-s-the-devils-4k-restoration-uncut-4c0b34d9"
   },
   {
     "title": "Loquat (10-year reunion show) with Halou and Steilacoom",
@@ -793,6 +907,25 @@
     "cycle_minutes": 27,
     "added": "2026-10-26",
     "id": "1st-saturday-irish-trad-session-at-the-plough-and-stars-bf378747"
+  },
+  {
+    "title": "Minnesota Street Project First Saturday: gallery opening receptions",
+    "start": "2026-11-07T17:00:00-08:00",
+    "end": "2026-11-07T19:00:00-08:00",
+    "venue": "Minnesota Street Project",
+    "address": "1275 Minnesota St, San Francisco, CA 94107",
+    "url": "https://minnesotastreetproject.com/exhibitions",
+    "source": "venue:minnesota-street-project",
+    "tags": [
+      "art",
+      "community"
+    ],
+    "price": "Free",
+    "description": "Dogpatch's gallery complex opens a batch of new shows at once: Mary Lai at Eleanor Harwood, Felix Butterwick and Toward Biomorphism at Municipal Bonds, Return, Return at Morgan Trumbull, and Conversations in Clay at Themes+Projects. Around the corner, di Rosa SF (1150 25th St) opens Invaders: Vallejo, Food and the Making of California.",
+    "neighbourhood": "Dogpatch",
+    "cycle_minutes": 11,
+    "added": "2026-11-03",
+    "id": "minnesota-street-project-first-saturday-gallery-opening-rece-3d527f6b"
   },
   {
     "title": "Chantey Sing at the SF Maritime Museum",
@@ -1059,6 +1192,26 @@
     "id": "sf-playhouse-free-play-reading-the-starters-by-laura-winters-4ffdab3c"
   },
   {
+    "title": "Multi-City Live Theater in VR: Uncanny Alley (Ferryman Collective)",
+    "start": "2026-11-10T18:00:00-08:00",
+    "end": "2026-11-10T21:00:00-08:00",
+    "venue": "Gray Area (Grand Theater)",
+    "address": "2665 Mission St, San Francisco, CA 94110",
+    "url": "https://grayarea.org/event/multi-city-live-theater-in-vr-with-ferryman-collective/",
+    "source": "venue:gray-area",
+    "tags": [
+      "theatre",
+      "tech",
+      "art"
+    ],
+    "price": "$28.52",
+    "description": "The Emmy-winning live VR show Uncanny Alley: A New Day plays at Gray Area and in Los Angeles at the same time, with one cast across both cities and audience members joining onstage in headsets. Afterwards there's a backstage tour of the tech. Hosted by the SF SIGGRAPH chapters.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 15,
+    "added": "2026-11-03",
+    "id": "multi-city-live-theater-in-vr-uncanny-alley-ferryman-collect-9ed8d7e9"
+  },
+  {
     "title": "San Francisco Singles Speed Dating Game Night (30s/40s)",
     "start": "2026-11-10T19:00:00-08:00",
     "end": "2026-11-10T21:00:00-08:00",
@@ -1282,6 +1435,25 @@
     "id": "jake-xerxes-fussell-with-dougie-poole-82339c22"
   },
   {
+    "title": "Arab Film Festival: Chronicle of a Disappearance (Elia Suleiman)",
+    "start": "2026-11-11T20:00:00-08:00",
+    "end": "2026-11-11T21:30:00-08:00",
+    "venue": "Roxie Theater",
+    "address": "3125 16th St, San Francisco, CA 94103",
+    "url": "https://roxie.com/film/arab-film-festival-2026/",
+    "source": "venue:roxie",
+    "tags": [
+      "film",
+      "festival"
+    ],
+    "price": null,
+    "description": "The Arab Film Festival's Roxie night closes with Elia Suleiman's deadpan, tableau-style 1996 classic about returning to Palestine. A 6pm Palestinian Voices shorts program plays the same evening.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 12,
+    "added": "2026-11-03",
+    "id": "arab-film-festival-chronicle-of-a-disappearance-elia-suleima-2ba525c9"
+  },
+  {
     "title": "Lila Forde: Life Can Still Be Sweet Tour, with Hazle Nova",
     "start": "2026-11-11T20:15:00-08:00",
     "end": "2026-11-11T22:30:00-08:00",
@@ -1339,6 +1511,25 @@
     "id": "cal-academy-nightlife-pajammy-jam-21-bdbcbe90"
   },
   {
+    "title": "Little Forest: screening + conversation with director Yim Soon-rye",
+    "start": "2026-11-12T18:30:00-08:00",
+    "end": null,
+    "venue": "SFMOMA, Phyllis Wattis Theater",
+    "address": "151 Third St, San Francisco, CA 94103",
+    "url": "https://www.sfmoma.org/event/little-forest-film-screening-conversation/",
+    "source": "venue:sfmoma",
+    "tags": [
+      "film",
+      "talk"
+    ],
+    "price": "Free RSVP or $10-$30 (tiered)",
+    "description": "Screening of the much-loved 2018 Korean foodie film Little Forest, followed by a conversation with director Yim Soon-rye in person, one of South Korea's leading auteurs. Presented with the Korean Cultural Center LA, alongside the RM x SFMOMA exhibition.",
+    "neighbourhood": "SoMa",
+    "cycle_minutes": 5,
+    "added": "2026-11-03",
+    "id": "little-forest-screening-conversation-with-director-yim-soon--742627d3"
+  },
+  {
     "title": "Mark Danner: Crossing the Rubicon, in conversation with Guy Marzorati",
     "start": "2026-11-12T19:00:00-08:00",
     "end": null,
@@ -1393,6 +1584,26 @@
     "cycle_minutes": 13,
     "added": "2026-11-01",
     "id": "kqed-live-object-stories-san-francisco-62f26df7"
+  },
+  {
+    "title": "Points of Departure: Life on the Water reunion (Fort Mason)",
+    "start": "2026-11-12T19:00:00-08:00",
+    "end": "2026-11-12T20:30:00-08:00",
+    "venue": "Bayfront Theater, Fort Mason Center (Building B, 3rd floor)",
+    "address": "2 Marina Blvd, San Francisco, CA 94123",
+    "url": "https://fortmason.org/event/fort-mason-art-points-of-departure-fall-2026-2/2026-11-12/",
+    "source": "venue:fort-mason",
+    "tags": [
+      "art",
+      "talk",
+      "theatre"
+    ],
+    "price": null,
+    "description": "The founders of Life on the Water, the experimental performance company that ran this stage from 1986 to 1993 (Ellen Sebastian Chang, Bill Talen aka Reverend Billy, Leonard Pitt, Joe Lambert), reunite for a conversation plus rare performance video. Reserve space on the Fort Mason page.",
+    "neighbourhood": "Marina",
+    "cycle_minutes": 22,
+    "added": "2026-11-03",
+    "id": "points-of-departure-life-on-the-water-reunion-fort-mason-99e3f1d7"
   },
   {
     "title": "Arab Film Festival Under the Stars: Spices and Lies (free outdoor screening)",
@@ -1585,6 +1796,25 @@
     "id": "relish-speed-dating-ages-29-42-725e0165"
   },
   {
+    "title": "Root Division: New Works 2026 opening reception",
+    "start": "2026-11-14T17:00:00-08:00",
+    "end": "2026-11-14T19:00:00-08:00",
+    "venue": "Root Division",
+    "address": "1131 Mission St, San Francisco, CA 94103",
+    "url": "https://rootdivision.org/events/event/new-works-2026/",
+    "source": "venue:root-division",
+    "tags": [
+      "art",
+      "community"
+    ],
+    "price": null,
+    "description": "Opening of Root Division's biennial survey of its studio artists: drawing, painting, sculpture, photography and multimedia. Itzel Rios-Ellis's solo show Under the Orchidian Beam opens in the mezzanine at the same time. A sociable SoMa opening a few minutes from home.",
+    "neighbourhood": "SoMa",
+    "cycle_minutes": 6,
+    "added": "2026-11-03",
+    "id": "root-division-new-works-2026-opening-reception-8d04b9d0"
+  },
+  {
     "title": "Abiogenesis: Philip Beesley & Casey Curran opening (SF Art Week)",
     "start": "2026-11-14T18:00:00-08:00",
     "end": "2026-11-14T21:00:00-08:00",
@@ -1772,6 +2002,26 @@
     "id": "playful-sunset-ocean-dance-silent-disco-on-ocean-beach-c2a50176"
   },
   {
+    "title": "Art in the Age of AI: Holly Herndon, Mat Dryhurst and Hans Ulrich Obrist",
+    "start": "2026-11-15T16:00:00-08:00",
+    "end": null,
+    "venue": "SFMOMA, Phyllis Wattis Theater",
+    "address": "151 Third St, San Francisco, CA 94103",
+    "url": "https://www.sfmoma.org/event/art-in-the-age-of-ai-a-conversation-between-holly-herndon-mat-dryhurst-and-hans-ulrich-obrist/",
+    "source": "venue:sfmoma",
+    "tags": [
+      "art",
+      "talk",
+      "tech"
+    ],
+    "price": "Free RSVP or $10-$30 (tiered)",
+    "description": "AI-art pioneers Holly Herndon and Mat Dryhurst talk with curator Hans Ulrich Obrist about protocol art, why artists need power over the systems they work within, and where art and AI go next. Co-presented with Villa Albertine.",
+    "neighbourhood": "SoMa",
+    "cycle_minutes": 5,
+    "added": "2026-11-03",
+    "id": "art-in-the-age-of-ai-holly-herndon-mat-dryhurst-and-hans-ulr-47cf94ac"
+  },
+  {
     "title": "The Secret Museum by Lynne Kaufman (with post-show talkback)",
     "start": "2026-11-15T17:00:00-08:00",
     "end": "2026-11-15T18:10:00-08:00",
@@ -1955,6 +2205,24 @@
     "cycle_minutes": 13,
     "added": "2026-10-27",
     "id": "woodchopper-s-ball-san-francisco-medicine-ball-band-3543aee7"
+  },
+  {
+    "title": "Terror Tuesday: The Exorcist (archival 35mm, original theatrical cut)",
+    "start": "2026-11-17T21:30:00-08:00",
+    "end": null,
+    "venue": "Alamo Drafthouse New Mission",
+    "address": "2550 Mission St, San Francisco, CA 94110",
+    "url": "https://drafthouse.com/sf/show/terror-tuesday-the-exorcist-on-35mm",
+    "source": "venue:alamo-new-mission",
+    "tags": [
+      "film"
+    ],
+    "price": null,
+    "description": "Alamo's weekly Terror Tuesday cult slot screens an archival 35mm print of the original theatrical cut of Friedkin's The Exorcist, long unavailable in theaters. Dinner-and-a-movie setup with food and drink served at your seat.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 14,
+    "added": "2026-11-03",
+    "id": "terror-tuesday-the-exorcist-archival-35mm-original-theatrica-ea860603"
   },
   {
     "title": "Patch Bay workshop: Computational Poetry",
@@ -2163,6 +2431,25 @@
     "id": "exploratorium-after-dark-glow-opening-621d3306"
   },
   {
+    "title": "The Art of Butoh: talk + performance at SFMOMA",
+    "start": "2026-11-19T18:00:00-08:00",
+    "end": null,
+    "venue": "SFMOMA, Phyllis Wattis Theater",
+    "address": "151 Third St, San Francisco, CA 94103",
+    "url": "https://www.sfmoma.org/event/the-art-of-butoh/",
+    "source": "venue:sfmoma",
+    "tags": [
+      "art",
+      "dance"
+    ],
+    "price": "Free (RSVP)",
+    "description": "Kumiko Uyeda traces Butoh from 1950s Japan to the Bay Area underground, followed by Judith Kajiwara's piece Uninterrupted Rest: A Butoh Awakening, with live flute and piano. Tied to the Feel the Beat dance-photography show; SFMOMA is open until 8pm on Thursdays.",
+    "neighbourhood": "SoMa",
+    "cycle_minutes": 5,
+    "added": "2026-11-03",
+    "id": "the-art-of-butoh-talk-performance-at-sfmoma-1ca8af9c"
+  },
+  {
     "title": "Jane Austen Reader's Theatre",
     "start": "2026-11-19T18:30:00-08:00",
     "end": "2026-11-19T20:00:00-08:00",
@@ -2292,6 +2579,24 @@
     "cycle_minutes": 11,
     "added": "2026-10-26",
     "id": "brittany-davis-black-thunder-early-set-78aa60e6"
+  },
+  {
+    "title": "CineSpin: He Who Gets Slapped with live jazz score (BAMPFA)",
+    "start": "2026-11-20T19:30:00-08:00",
+    "end": null,
+    "venue": "BAMPFA (Berkeley Art Museum and Pacific Film Archive)",
+    "address": "2155 Center St, Berkeley, CA 94704",
+    "url": "https://bampfa.org/event/cinespin",
+    "source": "venue:bampfa",
+    "tags": [
+      "film",
+      "music"
+    ],
+    "price": "Free",
+    "description": "The BAMPFA student committee's annual silent-film night: the Berkeley Nu Jazz Collective plays an original live score to Victor Sjostrom's 1924 Lon Chaney drama. Free tickets at the admissions desk from 6:30pm. BART from Montgomery to Downtown Berkeley, ~25 min; the museum is a block from the station.",
+    "neighbourhood": "Berkeley",
+    "added": "2026-11-03",
+    "id": "cinespin-he-who-gets-slapped-with-live-jazz-score-bampfa-629c6941"
   },
   {
     "title": "A Rashomon: Magic Theatre & Campo Santo world premiere (preview)",
@@ -2426,6 +2731,24 @@
     "id": "monthly-chocolate-club-at-manny-s-414ce6a6"
   },
   {
+    "title": "IT (1990) on VHS with director Tommy Lee Wallace in person",
+    "start": "2026-11-21T19:30:00-08:00",
+    "end": "2026-11-21T23:00:00-08:00",
+    "venue": "4 Star Theater",
+    "address": "2200 Clement St, San Francisco, CA 94121",
+    "url": "https://www.4-star-movies.com/calendar-of-events/basement-vhs-it",
+    "source": "venue:4-star",
+    "tags": [
+      "film"
+    ],
+    "price": null,
+    "description": "Basement VHS, a Mission-based VHS archive and art collective, projects the 1990 Stephen King miniseries from tape on the big screen, followed by an in-person Q&A with director Tommy Lee Wallace. Rescheduled from Oct 30.",
+    "neighbourhood": "Outer Richmond",
+    "cycle_minutes": 35,
+    "added": "2026-11-03",
+    "id": "it-1990-on-vhs-with-director-tommy-lee-wallace-in-person-a41a9b51"
+  },
+  {
     "title": "Poi Dog Pondering with Archer Monk",
     "start": "2026-11-21T21:00:00-08:00",
     "end": null,
@@ -2518,6 +2841,25 @@
     "neighbourhood": "Berkeley",
     "added": "2026-10-26",
     "id": "berkeley-fest-noz-breton-dance-party-with-live-band-2018cf5b"
+  },
+  {
+    "title": "WNP Film Club: Dark Passage (SF-shot Bogart/Bacall noir)",
+    "start": "2026-11-22T19:30:00-08:00",
+    "end": "2026-11-22T22:00:00-08:00",
+    "venue": "4 Star Theater",
+    "address": "2200 Clement St, San Francisco, CA 94121",
+    "url": "https://www.4-star-movies.com/calendar-of-events/wnp-film-club-dark-passage",
+    "source": "venue:4-star",
+    "tags": [
+      "film",
+      "community"
+    ],
+    "price": null,
+    "description": "Western Neighborhoods Project and Bay Area Movies screen the 1947 noir shot on location in San Francisco, with an intro on the filming locations and 'then and now' comparisons from SF in Film. Optional discussion afterwards, a good way to learn the city's history from locals.",
+    "neighbourhood": "Outer Richmond",
+    "cycle_minutes": 35,
+    "added": "2026-11-03",
+    "id": "wnp-film-club-dark-passage-sf-shot-bogart-bacall-noir-053e6307"
   },
   {
     "title": "Divine Offering: Celebrating Alice Coltrane, with Sita Michelle Coltrane",
@@ -2969,6 +3311,25 @@
     "id": "l-rain-with-zayallcaps-and-cole-pulice-5aaa0f46"
   },
   {
+    "title": "Cameron Winter at Carnegie Hall (35mm, late show)",
+    "start": "2026-12-02T21:45:00-08:00",
+    "end": "2026-12-02T23:00:00-08:00",
+    "venue": "Castro Theatre",
+    "address": "429 Castro St, San Francisco, CA 94114",
+    "url": "https://thecastro.com/events/cameron-winter-at-carnegie-hall-261202-late",
+    "source": "venue:castro",
+    "tags": [
+      "film",
+      "music"
+    ],
+    "price": null,
+    "description": "Paul Thomas Anderson's concert film of Geese frontman Cameron Winter's Carnegie Hall show, shot on 35mm and 16mm and projected in 35mm. The 7:30pm show sold out, so a 9:45pm screening was added (doors 9:15).",
+    "neighbourhood": "Castro",
+    "cycle_minutes": 17,
+    "added": "2026-11-03",
+    "id": "cameron-winter-at-carnegie-hall-35mm-late-show-24dd0c0b"
+  },
+  {
     "title": "Cal Academy NightLife: Naughty or Nice (21+)",
     "start": "2026-12-03T18:00:00-08:00",
     "end": "2026-12-03T22:00:00-08:00",
@@ -3006,6 +3367,45 @@
     "cycle_minutes": 10,
     "added": "2026-10-27",
     "id": "exploratorium-after-dark-rule-breakers-1717e049"
+  },
+  {
+    "title": "Post Atlantic: The Art of Dewey Crumpler (screening + artist in attendance)",
+    "start": "2026-12-03T18:00:00-08:00",
+    "end": "2026-12-03T19:30:00-08:00",
+    "venue": "Museum of the African Diaspora (MoAD)",
+    "address": "685 Mission St, San Francisco, CA 94105",
+    "url": "https://www.moadsf.org/event/film-screening-discussion-post-atlantic-the-art-of-dewey-crumpler",
+    "source": "venue:moad",
+    "tags": [
+      "art",
+      "film",
+      "talk"
+    ],
+    "price": "Free (register)",
+    "description": "Short documentary on Bay Area painter Dewey Crumpler, from Black Arts Movement murals to his Post Atlantic paintings, followed by a discussion with filmmakers Alan Snitow and Deborah Kaufman. Crumpler will attend. On a First Thursday, so MoAD's galleries are free too.",
+    "neighbourhood": "SoMa",
+    "cycle_minutes": 3,
+    "added": "2026-11-03",
+    "id": "post-atlantic-the-art-of-dewey-crumpler-screening-artist-in--2d840870"
+  },
+  {
+    "title": "SF First Thursday Art Walk (Tenderloin + Lower Nob Hill)",
+    "start": "2026-12-03T18:00:00-08:00",
+    "end": "2026-12-03T21:00:00-08:00",
+    "venue": "Galleries across the Tenderloin + Lower Nob Hill",
+    "address": "Tenderloin, San Francisco, CA",
+    "url": "https://tlcbd.org/event/sf-first-thursday-art-walks/2026-12-03/",
+    "source": "keyword-search",
+    "tags": [
+      "art",
+      "community"
+    ],
+    "price": "Free",
+    "description": "Monthly self-guided evening of open galleries, artist-run spaces and local businesses across the Tenderloin and Lower Nob Hill. An easy way to wander between openings and meet people.",
+    "neighbourhood": "Tenderloin",
+    "cycle_minutes": 8,
+    "added": "2026-11-03",
+    "id": "sf-first-thursday-art-walk-tenderloin-lower-nob-hill-b71b6ec2"
   },
   {
     "title": "The Death of Meyerhold (Shotgun Players preview)",
@@ -3077,6 +3477,26 @@
     "cycle_minutes": 8,
     "added": "2026-10-28",
     "id": "rosanna-xia-california-against-the-sea-in-conversation-with--d9754634"
+  },
+  {
+    "title": "di Rosa SF: Julio Cesar Morales artist talk + shared meal",
+    "start": "2026-12-05T17:00:00-08:00",
+    "end": "2026-12-05T19:00:00-08:00",
+    "venue": "di Rosa SF (Minnesota Street Project)",
+    "address": "1150 25th St, San Francisco, CA 94107",
+    "url": "https://minnesotastreetproject.com/exhibitions/1150-25th-st/invaders-vallejo-food-and-making-california",
+    "source": "venue:minnesota-street-project",
+    "tags": [
+      "art",
+      "talk",
+      "food"
+    ],
+    "price": "Free",
+    "description": "Artist Julio Cesar Morales talks about his food-based projects, radical hospitality, migration and food, tied to his show Invaders: Vallejo, Food and the Making of California. Visitors stay afterwards for homemade food around a shared table. It falls on Minnesota Street Project's First Saturday.",
+    "neighbourhood": "Dogpatch",
+    "cycle_minutes": 12,
+    "added": "2026-11-03",
+    "id": "di-rosa-sf-julio-cesar-morales-artist-talk-shared-meal-2f310883"
   },
   {
     "title": "Sonny & His Rhinestone Sunsets, Kelly McFarling, Noelle & the Deserters",
@@ -3283,6 +3703,26 @@
     "id": "woodchopper-s-ball-live-band-swing-night-17e21baf"
   },
   {
+    "title": "Mud Frontier: film screening + talkback with Rael San Fratello",
+    "start": "2026-12-09T18:30:00-08:00",
+    "end": null,
+    "venue": "YBCA Screening Room",
+    "address": "701 Mission St, San Francisco, CA 94103",
+    "url": "https://ybca.org/event/mud-frontier-film-screening-talkback-with-rael-san-fratello-1-9-26/",
+    "source": "venue:ybca",
+    "tags": [
+      "art",
+      "film",
+      "talk"
+    ],
+    "price": "Free (register)",
+    "description": "Screening and artist talk on Rael San Fratello's work combining 3D printing with traditional adobe architecture, tied to the design studio's YBCA survey Prototypes and Provocations.",
+    "neighbourhood": "SoMa",
+    "cycle_minutes": 3,
+    "added": "2026-11-03",
+    "id": "mud-frontier-film-screening-talkback-with-rael-san-fratello-71da395e"
+  },
+  {
     "title": "San Francisco Wednesday Contra Dance (beginner lesson 7:30)",
     "start": "2026-12-09T19:30:00-08:00",
     "end": "2026-12-09T22:00:00-08:00",
@@ -3338,6 +3778,25 @@
     "cycle_minutes": 13,
     "added": "2026-10-29",
     "id": "kqed-live-masa-making-party-with-bolita-masa-feaade7e"
+  },
+  {
+    "title": "Flaming Creatures: The Films of Jack Smith",
+    "start": "2026-12-10T19:00:00-08:00",
+    "end": null,
+    "venue": "The Lab",
+    "address": "2948 16th St, San Francisco, CA 94103",
+    "url": "https://www.thelab.org/projects/2026/12/10/flaming-creatures-the-films-of-jack-smith",
+    "source": "venue:the-lab",
+    "tags": [
+      "film",
+      "art"
+    ],
+    "price": "$15",
+    "description": "Bradford Nordeen (Dirty Looks) presents the underground films of Jack Smith, including the legendary, once-banned Flaming Creatures, with San Francisco Cinematheque. Doors 6:30pm, screening 7pm.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 12,
+    "added": "2026-11-03",
+    "id": "flaming-creatures-the-films-of-jack-smith-77651ad6"
   },
   {
     "title": "City Arts & Lectures: Marlon James with Shereen Marisol Meraji",
@@ -3783,6 +4242,24 @@
     "cycle_minutes": 14,
     "added": "2026-10-30",
     "id": "a-cathedral-christmas-saturday-matinee-grace-cathedral-choir-cec8c784"
+  },
+  {
+    "title": "Balboa Christmas Halloween Mystery Marathon (four secret horror films)",
+    "start": "2026-12-19T16:30:00-08:00",
+    "end": "2026-12-19T22:45:00-08:00",
+    "venue": "Balboa Theatre",
+    "address": "3630 Balboa St, San Francisco, CA 94121",
+    "url": "https://www.balboamovies.com/calendar-of-events/balboa-christmas-halloween-mystery-marathon-2026",
+    "source": "venue:balboa",
+    "tags": [
+      "film"
+    ],
+    "price": "$13",
+    "description": "Four mystery horror picks from the Balboa's programmers, unannounced until they roll, all rare and unscreened in the Bay Area in years. Costume contest, candy and hot chocolate; drop in any time. Moved from Halloween night.",
+    "neighbourhood": "Outer Richmond",
+    "cycle_minutes": 40,
+    "added": "2026-11-03",
+    "id": "balboa-christmas-halloween-mystery-marathon-four-secret-horr-4c9bd911"
   },
   {
     "title": "Holiday Dinner Dance Party with Halsey & The Hi-Hats",

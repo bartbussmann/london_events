@@ -1,5 +1,11 @@
 [
   {
+    "ran_at": "2026-11-03T08:30:00-08:00",
+    "added": 28,
+    "considered": 150,
+    "notes": "Part 1: pruned 2; curated 3 Mox imports (sociodynamics reading group 7 Nov, Animals x AI 7 Nov — venue on RSVP, Moxgiving potluck 25 Nov 5:30pm kept as drop-in). FILM + ART VEIN (25): Ken Russell's The Devils 4K uncut at the Roxie 6 Nov; Floating Features film cruise on the Bay 6 Nov; Arab Film Festival El Sett encore 5 Nov + Elia Suleiman 11 Nov; Marjorie Keller + Jack Smith experimental programmes at The Lab; Little Forest + director Yim Soon-rye at SFMOMA 12 Nov; Holly Herndon/Mat Dryhurst/Hans Ulrich Obrist on art and AI at SFMOMA 15 Nov (standout); Butoh talk+performance SFMOMA 19 Nov; Exorcist 35mm Terror Tuesday 17 Nov; BAMPFA silent film w/ live jazz score 20 Nov (East Bay); IT on VHS w/ director 21 Nov + SF-shot noir Dark Passage w/ locations talk 22 Nov at the 4 Star; Cameron Winter concert film late show Castro 2 Dec; Balboa horror mystery marathon 19 Dec; MoAD Caribbean Cocktails talk 5 Nov + Dewey Crumpler doc 3 Dec; Minnesota Street Project First Saturday openings 7 Nov + di Rosa artist talk with shared meal 5 Dec; Root Division New Works opening 14 Nov; live multi-city VR theatre at Gray Area 10 Nov; Life on the Water reunion Fort Mason 12 Nov; Tenderloin First Thursday art walk 3 Dec; Mud Frontier YBCA 9 Dec. sources.yaml +11 film/art sources. BLOCKED: famsf.org (de Young/Legion) Cloudflare — Friday Nights unverified (scout's stealth-bypass attempt was refused by the permission check; not retried). Contemporary Jewish Museum temporarily closed. SOLD OUT: William Kentridge SFMOMA 8 Nov, Cameron Winter early shows, Circle Jerks x Repo Man 6 Dec, several Alamo Almodovar nights."
+  },
+  {
     "ran_at": "2026-11-02T08:30:00-08:00",
     "added": 25,
     "considered": 195,

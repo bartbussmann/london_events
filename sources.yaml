@@ -186,6 +186,40 @@ venues:
     url: https://tickets.berkeleyrep.org/events
     tags: [theatre]
 
+  # --- film & art ---
+  - name: The Lab (Mission — experimental film/music)
+    url: https://www.thelab.org/projects
+    tags: [film, art, music]
+    # Squarespace JSON: ?format=json
+  - name: Alamo Drafthouse New Mission
+    url: https://drafthouse.com/sf
+    tags: [film]
+    # schedule JSON: https://drafthouse.com/s/mother/v2/schedule/market/sf (cinemaId 0801); skip 'first-run'; Terror Tuesday / Weird Wednesday / Q&As
+  - name: CinemaSF — Balboa, 4 Star, Vogue
+    url: https://www.balboamovies.com/calendar-of-events
+    tags: [film]
+    # Squarespace JSON (?format=json) also on 4-star-movies.com and voguemovies.com /calendar-of-events
+  - name: SFMOMA events
+    url: https://www.sfmoma.org/events/
+    tags: [art, talk, film]
+    # headless; Phyllis Wattis Theater talks/screenings, often free RSVP
+  - name: YBCA
+    url: https://ybca.org/whats-on/
+    tags: [art, film, talk]
+  - name: Museum of the African Diaspora (MoAD)
+    url: https://www.moadsf.org/events
+    tags: [art, talk]
+  - name: Minnesota Street Project (Dogpatch galleries)
+    url: https://minnesotastreetproject.com/exhibitions
+    tags: [art]
+    # First Saturday opening receptions 5-7pm
+  - name: Root Division
+    url: https://rootdivision.org/events/
+    tags: [art]
+  - name: Asian Art Museum
+    url: https://calendar.asianart.org/
+    tags: [art, talk]
+
 listings:
   - name: Funcheap SF
     url: https://sf.funcheap.com/
@@ -272,6 +306,15 @@ listings:
   - name: SalsaCrazy Mondays (Neck of the Woods, Inner Richmond)
     url: https://salsamondays.eventbrite.com
     tags: [dance, class]
+
+  - name: artbae.info — Bay Area gallery openings
+    url: https://www.artbae.info/
+    tags: [art]
+    # Squarespace API: /api/open/GetItemsByMonth?month=MM-YYYY&collectionId=<id from ?format=json>
+  - name: Tenderloin First Thursday art walk
+    url: "https://tlcbd.org/event/sf-first-thursday-art-walks/YYYY-MM-DD/"
+    tags: [art, community]
+    # substitute the first Thursday's date
 
 keywords:
   - "contact improvisation jam San Francisco"
