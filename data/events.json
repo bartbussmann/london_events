@@ -19,42 +19,6 @@
     "cycle_minutes": 8
   },
   {
-    "title": "Darkhaven: Halloween Gala at Lighthaven",
-    "start": "2026-10-31T20:00:00-07:00",
-    "end": "2026-11-01T02:00:00-08:00",
-    "venue": "Lighthaven",
-    "address": "2740 Telegraph Ave, Berkeley, CA 94705",
-    "url": "https://luma.com/halloweengala",
-    "source": "aggregator:luma",
-    "tags": [
-      "community",
-      "music"
-    ],
-    "price": "$50",
-    "description": "The Avalon Exposition's costumed Halloween gala on the rationalist community's Lighthaven campus. Expect dark stories and poetry, duels, live music, silent horror films, campus-wide hide and seek and a $1,000 costume contest. East Bay: BART from Montgomery to Ashby (~20 min), then a 10-min walk.",
-    "neighbourhood": "Berkeley",
-    "added": "2026-10-26",
-    "id": "darkhaven-halloween-gala-at-lighthaven-2cbabdc7"
-  },
-  {
-    "title": "Wild at Heart (4K) Halloween screening",
-    "start": "2026-10-31T21:15:00-07:00",
-    "end": "2026-10-31T23:20:00-07:00",
-    "venue": "Roxie Theater (Big Roxie)",
-    "address": "3125 16th St, San Francisco, CA 94103",
-    "url": "https://roxie.com/film/wild-at-heart/",
-    "source": "venue:roxie",
-    "tags": [
-      "film"
-    ],
-    "price": "$14",
-    "description": "A Halloween-night 4K restoration of David Lynch's Palme d'Or winner, part of the Roxie's Barry Gifford series. Come dressed as a character from the film and you get free popcorn.",
-    "neighbourhood": "Mission",
-    "cycle_minutes": 12,
-    "added": "2026-10-26",
-    "id": "wild-at-heart-4k-halloween-screening-4f502f7a"
-  },
-  {
     "title": "MOVEMENT Ecstatic Dance SF // King Kairos",
     "start": "2026-11-01T10:00:00-08:00",
     "end": "2026-11-01T13:11:00-08:00",
@@ -793,6 +757,25 @@
     "id": "arion-press-alice-in-wonderland-talk-with-deena-chalabi-blak-4a013e80"
   },
   {
+    "id": "ics-4b90148a0345",
+    "title": "Mathematical Sociodynamics reading group (Psychohistory but real)",
+    "start": "2026-11-07T15:30:00-08:00",
+    "end": "2026-11-07T17:00:00-08:00",
+    "venue": "Mox",
+    "address": "1680 Mission St, San Francisco, CA 94103",
+    "url": "https://luma.com/z4r92s41",
+    "source": "ics:Mox",
+    "tags": [
+      "talk",
+      "community"
+    ],
+    "price": "Free (register on Luma)",
+    "description": "Saturday-afternoon reading group at Mox on mathematical sociodynamics — 'psychohistory but real': models of how societies, opinions and institutions evolve. Easy-going way to meet the Mox crowd.",
+    "added": "2026-11-03",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 13
+  },
+  {
     "title": "1st Saturday Irish trad session at the Plough and Stars",
     "start": "2026-11-07T16:00:00-08:00",
     "end": null,
@@ -847,6 +830,25 @@
     "cycle_minutes": 11,
     "added": "2026-10-26",
     "id": "brandon-woody-s-upendo-gabrielle-cavassa-terence-blanchard-s-4b329245"
+  },
+  {
+    "id": "ics-beacaa3af443",
+    "title": "Animals x AI #13",
+    "start": "2026-11-07T19:00:00-08:00",
+    "end": "2026-11-07T23:00:00-08:00",
+    "venue": "San Francisco (address on Partiful after RSVP)",
+    "address": null,
+    "url": "https://partiful.com/e/sfz9cwShx0xlhHQyHHvL",
+    "source": "ics:Mox",
+    "tags": [
+      "talk",
+      "tech",
+      "community"
+    ],
+    "price": "Free (RSVP on Partiful)",
+    "description": "Animals x AI #13: the recurring meetup on animal minds, welfare and AI, listed on the Mox calendar. The venue is shared with RSVPs.",
+    "added": "2026-11-03",
+    "neighbourhood": "San Francisco"
   },
   {
     "title": "SF Leonard Cohen Festival: Conspiracy of Beards + Daniel Kahn & Jake Shulman-Ment",
@@ -2627,6 +2629,25 @@
     "cycle_minutes": 13,
     "added": "2026-10-27",
     "id": "woodchopper-s-ball-live-band-swing-night-caf90e3c"
+  },
+  {
+    "id": "ics-cdae8be23530",
+    "title": "Moxgiving Potluck",
+    "start": "2026-11-25T17:30:00-08:00",
+    "end": "2026-11-25T19:30:00-08:00",
+    "venue": "Mox",
+    "address": "1680 Mission St, San Francisco, CA 94103",
+    "url": "https://luma.com/mox-wweu",
+    "source": "ics:Mox",
+    "tags": [
+      "food",
+      "community"
+    ],
+    "price": "Free — bring a dish",
+    "description": "Moxgiving: the Thanksgiving-eve community potluck at Mox. Starts 5:30pm, but it's a potluck, so arriving after work is fine — a warm way to spend the holiday if you're new in town.",
+    "added": "2026-11-03",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 13
   },
   {
     "title": "San Francisco Wednesday Contra Dance (beginner lesson 7:30)",

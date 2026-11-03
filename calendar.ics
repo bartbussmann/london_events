@@ -17,34 +17,6 @@ URL:https://fmxai.org/vibecheck/
 LOCATION:Vibecheck (447 Battery St)\, 447 Battery St\, San Francisco\, CA
 END:VEVENT
 BEGIN:VEVENT
-UID:darkhaven-halloween-gala-at-lighthaven-2cbabdc7@sf-events
-DTSTAMP:20261101T030000Z
-DTSTART:20261101T030000Z
-DTEND:20261101T100000Z
-SUMMARY:Darkhaven: Halloween Gala at Lighthaven
-DESCRIPTION:The Avalon Exposition's costumed Halloween gala on the rationa
- list community's Lighthaven campus. Expect dark stories and poetry\, duel
- s\, live music\, silent horror films\, campus-wide hide and seek and a $1
- \,000 costume contest. East Bay: BART from Montgomery to Ashby (~20 min)\
- , then a 10-min walk.\nPrice: $50\nhttps://luma.com/halloweengala
-URL:https://luma.com/halloweengala
-LOCATION:Lighthaven\, 2740 Telegraph Ave\, Berkeley\, CA 94705
-END:VEVENT
-BEGIN:VEVENT
-UID:wild-at-heart-4k-halloween-screening-4f502f7a@sf-events
-DTSTAMP:20261101T041500Z
-DTSTART:20261101T041500Z
-DTEND:20261101T062000Z
-SUMMARY:Wild at Heart (4K) Halloween screening
-DESCRIPTION:A Halloween-night 4K restoration of David Lynch's Palme d'Or w
- inner\, part of the Roxie's Barry Gifford series. Come dressed as a chara
- cter from the film and you get free popcorn.\nPrice: $14\nhttps://roxie.c
- om/film/wild-at-heart/
-URL:https://roxie.com/film/wild-at-heart/
-LOCATION:Roxie Theater (Big Roxie)\, 3125 16th St\, San Francisco\, CA 941
- 03
-END:VEVENT
-BEGIN:VEVENT
 UID:movement-ecstatic-dance-sf-king-kairos-3a521b29@sf-events
 DTSTAMP:20261101T180000Z
 DTSTART:20261101T180000Z
@@ -623,6 +595,19 @@ LOCATION:Bayfront Theater\, Fort Mason Center\, 2 Marina Blvd\, Building B
  \, 3rd Floor\, San Francisco\, CA 94123
 END:VEVENT
 BEGIN:VEVENT
+UID:ics-4b90148a0345@sf-events
+DTSTAMP:20261107T233000Z
+DTSTART:20261107T233000Z
+DTEND:20261108T010000Z
+SUMMARY:Mathematical Sociodynamics reading group (Psychohistory but real)
+DESCRIPTION:Saturday-afternoon reading group at Mox on mathematical sociod
+ ynamics — 'psychohistory but real': models of how societies\, opinions 
+ and institutions evolve. Easy-going way to meet the Mox crowd.\nPrice: Fr
+ ee (register on Luma)\nhttps://luma.com/z4r92s41
+URL:https://luma.com/z4r92s41
+LOCATION:Mox\, 1680 Mission St\, San Francisco\, CA 94103
+END:VEVENT
+BEGIN:VEVENT
 UID:1st-saturday-irish-trad-session-at-the-plough-and-stars-bf378747@sf-ev
  ents
 DTSTAMP:20261108T000000Z
@@ -668,6 +653,19 @@ URL:https://www.sfjazz.org/tickets/productions/26-27/upswing-brandon-woody
  -gabrielle-cavassa/
 LOCATION:SFJAZZ Center\, Miner Auditorium\, 201 Franklin St\, San Francisc
  o\, CA 94102
+END:VEVENT
+BEGIN:VEVENT
+UID:ics-beacaa3af443@sf-events
+DTSTAMP:20261108T030000Z
+DTSTART:20261108T030000Z
+DTEND:20261108T070000Z
+SUMMARY:Animals x AI #13
+DESCRIPTION:Animals x AI #13: the recurring meetup on animal minds\, welfa
+ re and AI\, listed on the Mox calendar. The venue is shared with RSVPs.\n
+ Price: Free (RSVP on Partiful)\nhttps://partiful.com/e/sfz9cwShx0xlhHQyHH
+ vL
+URL:https://partiful.com/e/sfz9cwShx0xlhHQyHHvL
+LOCATION:San Francisco (address on Partiful after RSVP)
 END:VEVENT
 BEGIN:VEVENT
 UID:sf-leonard-cohen-festival-conspiracy-of-beards-daniel-kahn-j-0b93a5fe@
@@ -2097,6 +2095,19 @@ DESCRIPTION:The weekly Tuesday live-band swing dance at the historic Verdi
 URL:https://www.verdiclub.net/events/the-woodchoppers-ball-42-3-2/2026-11-
  24/
 LOCATION:Verdi Club\, 2424 Mariposa St\, San Francisco\, CA 94110
+END:VEVENT
+BEGIN:VEVENT
+UID:ics-cdae8be23530@sf-events
+DTSTAMP:20261126T013000Z
+DTSTART:20261126T013000Z
+DTEND:20261126T033000Z
+SUMMARY:Moxgiving Potluck
+DESCRIPTION:Moxgiving: the Thanksgiving-eve community potluck at Mox. Star
+ ts 5:30pm\, but it's a potluck\, so arriving after work is fine — a war
+ m way to spend the holiday if you're new in town.\nPrice: Free — bring 
+ a dish\nhttps://luma.com/mox-wweu
+URL:https://luma.com/mox-wweu
+LOCATION:Mox\, 1680 Mission St\, San Francisco\, CA 94103
 END:VEVENT
 BEGIN:VEVENT
 UID:san-francisco-wednesday-contra-dance-beginner-lesson-7-30-06d062b8@sf-
