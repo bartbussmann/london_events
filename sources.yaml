@@ -22,6 +22,11 @@ ics:
     tags: [tech, talk]
     # AI safety + EA events around SF; overlaps with Mox (build.py dedupes same title/day)
 
+  - name: Big Brain Lectures - Bay Area
+    url: "https://api.lu.ma/ics/get?entity=calendar&id=cal-oWJafai4qVBegex"
+    tags: [talk, tech]
+    # science/tech lectures in SF bars (~$27): Planted SF 473A Haight, Madrone Art Bar, The Sycamore, Hawthorn; suppress Oakland (New Parkway) ones
+
 venues:
   # --- small music rooms (top priority) ---
   - name: Hotel Utah Saloon (SoMa)
@@ -315,6 +320,28 @@ listings:
     url: "https://tlcbd.org/event/sf-first-thursday-art-walks/YYYY-MM-DD/"
     tags: [art, community]
     # substitute the first Thursday's date
+
+  - name: BayAreaScience.org calendar (best science-talk index)
+    url: "https://www.bayareascience.org/calendar/?d=YYYY-MM-DD"
+    tags: [talk]
+    # filter 'Where: San Francisco'
+  - name: Golden Gate National Parks Conservancy events (SF)
+    url: "https://www.parksconservancy.org/events?county%5B58%5D=58"
+    tags: [outdoors, community]
+    # volunteer days, ranger walks, Ocean Beach clean-ups
+  - name: SF Amateur Astronomers (free monthly Randall Museum lectures)
+    url: https://www.sfaa-astronomy.org/public-events/
+    tags: [talk, outdoors]
+  - name: Noisebridge hackerspace (Meetup)
+    url: https://www.meetup.com/noisebridge/events/
+    tags: [tech, workshop]
+    # Circuit Hacking Mondays 7pm; laser/woodshop trainings
+  - name: Shaping SF public talks
+    url: https://www.shapingsf.org/public-talks/index.html
+    tags: [talk, community]
+  - name: Spanish conversation meetup (Fridays 6pm, Muddy Waters, Valencia St)
+    url: https://www.meetup.com/spanish-language-meetup/
+    tags: [community]
 
 keywords:
   - "contact improvisation jam San Francisco"

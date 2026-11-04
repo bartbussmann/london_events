@@ -169,6 +169,19 @@ URL:https://book.squareup.com/classes/uj53t4hfgkzllp/location/DYSM7QRDVFWX
 LOCATION:Monument\, 140 9th St\, San Francisco\, CA 94103
 END:VEVENT
 BEGIN:VEVENT
+UID:ics-0174c09c8b65@sf-events
+DTSTAMP:20261105T030000Z
+DTSTART:20261105T030000Z
+DTEND:20261105T050000Z
+SUMMARY:Engineering Telekinesis: Restoring Movement with Brain-Computer In
+ terfaces
+DESCRIPTION:Big Brain lecture-in-a-bar: how brain-computer interfaces are 
+ restoring movement to people with paralysis — the engineering\, the tri
+ als and the ethics.\nPrice: ~$27 (Luma)\nhttps://luma.com/cha6cevv
+URL:https://luma.com/cha6cevv
+LOCATION:Madrone Art Bar\, 500 Divisadero St\, San Francisco\, CA 94117
+END:VEVENT
+BEGIN:VEVENT
 UID:a-case-for-the-existence-of-god-samuel-d-hunter-at-nctc-e4854ff6@sf-ev
  ents
 DTSTAMP:20261105T033000Z
@@ -277,6 +290,19 @@ DESCRIPTION:Screening of the 8mm/16mm films of Marjorie Keller\, a major f
 URL:https://www.thelab.org/projects/2026/11/5/marjorie-keller-intimate-obs
  erver
 LOCATION:The Lab\, 2948 16th St\, San Francisco\, CA 94103
+END:VEVENT
+BEGIN:VEVENT
+UID:ics-40068e02528a@sf-events
+DTSTAMP:20261106T030000Z
+DTSTART:20261106T030000Z
+DTEND:20261106T050000Z
+SUMMARY:The Side of San Francisco’s Homelessness Crisis We Don’t See
+DESCRIPTION:Big Brain lecture-in-a-bar on the less-visible side of San Fra
+ ncisco's homelessness crisis — research and policy beyond the headlines
+ \, six minutes from home.\nPrice: ~$27 (Luma)\nhttps://luma.com/6fs96uf4
+URL:https://luma.com/6fs96uf4
+LOCATION:Decentered Arts Studio\, 1175 Folsom St\, San Francisco\, CA 9410
+ 3
 END:VEVENT
 BEGIN:VEVENT
 UID:greg-freeman-with-trinity-ace-8b625f82@sf-events
@@ -848,6 +874,18 @@ URL:https://sfplayhouse.org/play-reading-the-starters/
 LOCATION:San Francisco Playhouse\, 450 Post St\, San Francisco\, CA 94102
 END:VEVENT
 BEGIN:VEVENT
+UID:ics-fa215336840a@sf-events
+DTSTAMP:20261110T030000Z
+DTSTART:20261110T030000Z
+DTEND:20261110T050000Z
+SUMMARY:Tripping Toward Recovery: Can Psychedelics Heal the Brain?
+DESCRIPTION:Big Brain lecture-in-a-bar on whether psychedelics can heal th
+ e brain — what the clinical trials actually show for depression\, PTSD 
+ and addiction.\nPrice: ~$27 (Luma)\nhttps://luma.com/70r8uuoz
+URL:https://luma.com/70r8uuoz
+LOCATION:Planted SF\, 473A Haight St\, San Francisco\, CA 94117
+END:VEVENT
+BEGIN:VEVENT
 UID:multi-city-live-theater-in-vr-uncanny-alley-ferryman-collect-9ed8d7e9@
  sf-events
 DTSTAMP:20261111T020000Z
@@ -961,6 +999,18 @@ URL:https://sfplayhouse.org/2026-2027-season/peter-pan-goes-wrong/
 LOCATION:San Francisco Playhouse\, 450 Post St\, San Francisco\, CA 94102
 END:VEVENT
 BEGIN:VEVENT
+UID:ics-bae91c19e637@sf-events
+DTSTAMP:20261111T030000Z
+DTSTART:20261111T030000Z
+DTEND:20261111T050000Z
+SUMMARY:Do I Want Kids? A Psychology-Based Guide to Figuring It Out
+DESCRIPTION:Big Brain lecture-in-a-bar: a psychology-based guide to decidi
+ ng whether you want kids — research on values\, regret and decision-mak
+ ing.\nPrice: ~$27 (Luma)\nhttps://luma.com/oybmw0hr
+URL:https://luma.com/oybmw0hr
+LOCATION:Hawthorn SF\, 46 Geary St\, San Francisco\, CA 94108
+END:VEVENT
+BEGIN:VEVENT
 UID:claudio-simonetti-s-goblin-performs-the-live-score-to-tenebr-dda3a5b6@
  sf-events
 DTSTAMP:20261111T033000Z
@@ -1015,6 +1065,22 @@ DESCRIPTION:Manny's free second-Wednesday pub-style trivia with drinks. It
 URL:https://www.eventbrite.com/e/trivia-night-at-mannys-tickets-1995988044
  973
 LOCATION:Manny's\, 3092 16th St\, San Francisco\, CA 94103
+END:VEVENT
+BEGIN:VEVENT
+UID:big-brain-bay-area-keeping-the-lights-on-when-cyberattacks-g-6dd28e20@
+ sf-events
+DTSTAMP:20261112T030000Z
+DTSTART:20261112T030000Z
+DTEND:20261112T050000Z
+SUMMARY:Big Brain Bay Area: Keeping the Lights On When Cyberattacks Go Phy
+ sical
+DESCRIPTION:A lecture-in-a-bar talk by Nate Gleason\, who leads Lawrence L
+ ivermore's cyber and infrastructure resilience programme. It covers how a
+ ttacks on grids\, water and ports become physical\, 'immune infrastructur
+ e'\, and how AI is changing both attack and defence.\nPrice: $27\nhttps:/
+ /luma.com/lprchbdo
+URL:https://luma.com/lprchbdo
+LOCATION:Planted SF\, 473A Haight St\, San Francisco\, CA 94117
 END:VEVENT
 BEGIN:VEVENT
 UID:san-francisco-wednesday-contra-dance-beginner-lesson-7-30-a244ba72@sf-
@@ -1647,6 +1713,19 @@ LOCATION:KALW event space\, 220 Montgomery St\, 220 Montgomery St\, San Fr
  ancisco\, CA 94104
 END:VEVENT
 BEGIN:VEVENT
+UID:ics-88bb408e0a28@sf-events
+DTSTAMP:20261118T030000Z
+DTSTART:20261118T030000Z
+DTEND:20261118T050000Z
+SUMMARY:Who’s That Under the Bridge? Patents\, Trolls\, and the Price of
+  Innovation
+DESCRIPTION:Big Brain lecture-in-a-bar on patent trolls: how the patent sy
+ stem gets gamed\, what it costs innovation\, and whether reform can work.
+ \nPrice: ~$27 (Luma)\nhttps://luma.com/yasrxsyk
+URL:https://luma.com/yasrxsyk
+LOCATION:Mr. Mahjong's\, 260 Kearny St\, San Francisco\, CA 94108
+END:VEVENT
+BEGIN:VEVENT
 UID:silverada-with-emily-nenni-be76b912@sf-events
 DTSTAMP:20261118T040000Z
 DTSTART:20261118T040000Z
@@ -1779,6 +1858,24 @@ LOCATION:The Church of Mother Gong\, 1345 Grant Ave\, San Francisco\, CA 9
  4133
 END:VEVENT
 BEGIN:VEVENT
+UID:sfaa-lecture-southern-skies-global-reach-chile-and-modern-as-91cb66f5@
+ sf-events
+DTSTAMP:20261119T030000Z
+DTSTART:20261119T030000Z
+DTEND:20261119T043000Z
+SUMMARY:SFAA lecture: Southern Skies\, Global Reach: Chile and Modern Astr
+ onomy
+DESCRIPTION:The San Francisco Amateur Astronomers' free monthly lecture. M
+ ission sidewalk-astronomy regular Brian 'Astro' Castro reports on his ACE
+ AP visit to ALMA\, Vera Rubin and Gemini South and why Chile became astro
+ nomy's capital. Come early for snacks and to meet the club. The museum is
+  up a steep hill above the Castro.\nPrice: Free\nhttps://www.sfaa-astrono
+ my.org/public-events/lectures/lectures_2026/nov18_2026
+URL:https://www.sfaa-astronomy.org/public-events/lectures/lectures_2026/no
+ v18_2026
+LOCATION:Randall Museum\, 199 Museum Way\, San Francisco\, CA 94114
+END:VEVENT
+BEGIN:VEVENT
 UID:jenny-tian-ripe-f07eadcf@sf-events
 DTSTAMP:20261119T033000Z
 DTSTART:20261119T033000Z
@@ -1869,6 +1966,23 @@ LOCATION:SFMOMA\, Phyllis Wattis Theater\, 151 Third St\, San Francisco\,
  CA 94103
 END:VEVENT
 BEGIN:VEVENT
+UID:ai-summit-2027-a-conversation-before-geneva-irene-solaiman-r-a1705a3b@
+ sf-events
+DTSTAMP:20261120T020000Z
+DTSTART:20261120T020000Z
+DTEND:20261120T050000Z
+SUMMARY:AI Summit 2027: A Conversation Before Geneva (Irene Solaiman + rou
+ ndtables)
+DESCRIPTION:Swissnex hosts Hugging Face's chief policy officer Irene Solai
+ man on the stakes ahead of the 2027 Geneva AI Summit. Attendees then join
+  one of six policy roundtables (AI safety and frontier risk\, governance\
+ , democracy and media\, oversight) whose input feeds the Swiss summit pre
+ p cohort.\nPrice: Free (registration approval required)\nhttps://luma.com
+ /fy8teprf
+URL:https://luma.com/fy8teprf
+LOCATION:House of AI\, 40 Boardman Pl\, San Francisco\, CA 94103
+END:VEVENT
+BEGIN:VEVENT
 UID:jane-austen-reader-s-theatre-08e7d2f3@sf-events
 DTSTAMP:20261120T023000Z
 DTSTART:20261120T023000Z
@@ -1926,6 +2040,20 @@ DESCRIPTION:In-store reading by Pulitzer Prize-winning poet Rae Armantrout
 URL:https://citylights.com/events/rae-armantrout-with-elizabeth-robinson/
 LOCATION:City Lights Booksellers\, 261 Columbus Ave\, San Francisco\, CA 9
  4133
+END:VEVENT
+BEGIN:VEVENT
+UID:ics-5fdf12c22645@sf-events
+DTSTAMP:20261120T030000Z
+DTSTART:20261120T030000Z
+DTEND:20261120T050000Z
+SUMMARY:To Be or Not to Be… Sustainable? How Shakespeare Takes On the Cl
+ imate Crisis
+DESCRIPTION:Big Brain lecture-in-a-bar on how Shakespeare's plays grapple 
+ with nature\, scarcity and sustainability — literature meets climate th
+ inking.\nPrice: ~$27 (Luma)\nhttps://luma.com/y461737s
+URL:https://luma.com/y461737s
+LOCATION:Decentered Arts Studio\, 1175 Folsom St\, San Francisco\, CA 9410
+ 3
 END:VEVENT
 BEGIN:VEVENT
 UID:salt-spirit-opera-parallele-world-premiere-at-z-space-98d8f7b4@sf-even
@@ -2545,6 +2673,23 @@ URL:https://longnow.org/talks/02026-prelinger/
 LOCATION:Herbst Theatre\, 401 Van Ness Ave\, San Francisco\, CA 94102
 END:VEVENT
 BEGIN:VEVENT
+UID:shaping-sf-talk-san-francisco-capital-of-the-nerd-reich-gil--bf895447@
+ sf-events
+DTSTAMP:20261203T033000Z
+DTSTART:20261203T033000Z
+DTEND:20261203T053000Z
+SUMMARY:Shaping SF talk: San Francisco\, Capital of the Nerd Reich? (Gil D
+ urán with Joe Eskenazi)
+DESCRIPTION:Gil Durán\, author of the bestselling The Nerd Reich on Silic
+ on Valley's political ambitions\, talks with Mission Local editor Joe Esk
+ enazi about tech billionaires' plans for San Francisco. It's a public tal
+ k in a small Mission community space.\nPrice: Free (donations welcome)\nh
+ ttps://www.shapingsf.org/public-talks/index.html
+URL:https://www.shapingsf.org/public-talks/index.html
+LOCATION:Eric Quezada Center for Culture and Politics\, 518 Valencia St\, 
+ San Francisco\, CA 94110
+END:VEVENT
+BEGIN:VEVENT
 UID:l-rain-with-zayallcaps-and-cole-pulice-5aaa0f46@sf-events
 DTSTAMP:20261203T040000Z
 DTSTART:20261203T040000Z
@@ -2667,6 +2812,54 @@ LOCATION:Punch Line San Francisco\, 444 Battery St\, San Francisco\, CA 94
  111
 END:VEVENT
 BEGIN:VEVENT
+UID:let-s-glow-sf-opening-night-free-holiday-projection-art-fest-4d2be980@
+ sf-events
+DTSTAMP:20261205T020000Z
+DTSTART:20261205T020000Z
+DTEND:20261205T060000Z
+SUMMARY:Let's Glow SF opening night: free holiday projection-art festival
+DESCRIPTION:Opening-night celebration (6-7pm) of the sixth Let's Glow SF\,
+  then animated projections by 19 international artists on downtown landma
+ rks from 7-10pm. It's an outdoor walk between buildings from the Ferry Bu
+ ilding to 101 California\, 301 Pine and 1 Post\, five minutes from home.\
+ nPrice: Free (RSVP)\nhttps://www.downtownsf.org/events/letsglowsf/
+URL:https://www.downtownsf.org/events/letsglowsf/
+LOCATION:Harry Bridges Plaza (in front of the Ferry Building)\, 1 Ferry Bu
+ ilding\, San Francisco\, CA 94111
+END:VEVENT
+BEGIN:VEVENT
+UID:cooking-class-authentic-asian-dumplings-0c7ea59e@sf-events
+DTSTAMP:20261205T020000Z
+DTSTART:20261205T020000Z
+DTEND:20261205T040000Z
+SUMMARY:Cooking class: Authentic Asian Dumplings
+DESCRIPTION:A two-hour hands-on CocuSocial class making\, folding and cook
+ ing Asian dumplings from scratch. It's beginner-friendly\, you work in sm
+ all groups and eat what you make\, and drinks are from the hotel bar.\nPr
+ ice: $59\nhttps://www.cocusocial.com/newevent/San-Francisco_Authentic-Asi
+ an-Dumplings_2026-Dec-10
+URL:https://www.cocusocial.com/newevent/San-Francisco_Authentic-Asian-Dump
+ lings_2026-Dec-10
+LOCATION:The Hotel Majestic\, 1500 Sutter St\, San Francisco\, CA 94109
+END:VEVENT
+BEGIN:VEVENT
+UID:sf-state-observatory-public-night-rooftop-telescope-stargazi-9ff8ffe6@
+ sf-events
+DTSTAMP:20261205T023000Z
+DTSTART:20261205T023000Z
+DTEND:20261205T050000Z
+SUMMARY:SF State Observatory public night: rooftop telescope stargazing (l
+ ast night of the semester)
+DESCRIPTION:Student docents run free rooftop telescope viewing of Saturn\,
+  the Andromeda galaxy and the Moon\, with short astronomy talks. It only 
+ opens when skies are clear (check SF State Observatory Instagram on the d
+ ay). It's a long ride to the far southwest corner\, so the Muni M line to
+  SF State is easier.\nPrice: Free\nhttps://physics.sfsu.edu/observatory
+URL:https://physics.sfsu.edu/observatory
+LOCATION:SF State Observatory\, Thornton Hall 10th floor\, 1600 Holloway A
+ ve\, San Francisco\, CA 94132
+END:VEVENT
+BEGIN:VEVENT
 UID:the-crooked-jades-beautiful-world-album-release-1daf5a18@sf-events
 DTSTAMP:20261205T040000Z
 DTSTART:20261205T040000Z
@@ -2678,6 +2871,41 @@ DESCRIPTION:SF's old-time and Americana string band celebrates its 10th al
  ice: $25\nhttps://crookedjades.com/beautiful-world-album-release-party/
 URL:https://crookedjades.com/beautiful-world-album-release-party/
 LOCATION:4 Star Theater\, 2200 Clement St\, San Francisco\, CA 94121
+END:VEVENT
+BEGIN:VEVENT
+UID:ocean-beach-clean-up-golden-gate-national-parks-volunteer-mo-fa51d364@
+ sf-events
+DTSTAMP:20261205T180000Z
+DTSTART:20261205T180000Z
+DTEND:20261205T210000Z
+SUMMARY:Ocean Beach Clean-up (Golden Gate National Parks volunteer morning
+ )
+DESCRIPTION:A monthly first-Saturday beach clean-up with the Parks Conserv
+ ancy. No experience is needed\, tools are provided\, and it runs rain or 
+ shine with the ocean in front of you. Registration is required\, and the 
+ exact meeting spot comes in the confirmation email.\nPrice: Free\nhttps:/
+ /www.parksconservancy.org/events/ocean-beach/ocean-beach-clean-ups
+URL:https://www.parksconservancy.org/events/ocean-beach/ocean-beach-clean-
+ ups
+LOCATION:Ocean Beach\, Stairwell 17\, Great Highway at Stairwell 17\, San 
+ Francisco\, CA 94121
+END:VEVENT
+BEGIN:VEVENT
+UID:sunset-holiday-mercantile-100-local-makers-food-trucks-and-l-9033f842@
+ sf-events
+DTSTAMP:20261205T190000Z
+DTSTART:20261205T190000Z
+DTEND:20261206T010000Z
+SUMMARY:Sunset Holiday Mercantile: 100+ local makers\, food trucks and liv
+ e music
+DESCRIPTION:The 11th annual Sunset Mercantile holiday fair\, with 100+ loc
+ al makers\, artists and food artisans\, live music and beer and wine tast
+ ing. The Inner Sunset Holiday Stroll follows on 9th Ave and Irving from 5
+ -9pm.\nPrice: Free\nhttps://sunsetmercantilesf.com/sunset-holiday-mercant
+ ile/
+URL:https://sunsetmercantilesf.com/sunset-holiday-mercantile/
+LOCATION:San Francisco County Fair Building (Golden Gate Park)\, 1199 9th 
+ Ave\, San Francisco\, CA 94122
 END:VEVENT
 BEGIN:VEVENT
 UID:rosanna-xia-california-against-the-sea-in-conversation-with--d9754634@
@@ -2965,6 +3193,34 @@ LOCATION:Sydney Goldstein Theater\, 275 Hayes St\, San Francisco\, CA 9410
  2
 END:VEVENT
 BEGIN:VEVENT
+UID:cooking-class-fresh-pasta-in-color-708b1073@sf-events
+DTSTAMP:20261212T020000Z
+DTSTART:20261212T020000Z
+DTEND:20261212T040000Z
+SUMMARY:Cooking class: Fresh Pasta in Color
+DESCRIPTION:A hands-on CocuSocial class making a classic and a beet-infuse
+ d pasta dough from scratch in pairs. The dishes are beet tagliatelle with
+  lemon\, feta and walnuts\, and pappardelle with butternut squash and bro
+ wn butter. No experience is needed.\nPrice: $59\nhttps://www.cocusocial.c
+ om/newevent/San-Francisco_Fresh-Pasta-in-Color_2026-Dec-11
+URL:https://www.cocusocial.com/newevent/San-Francisco_Fresh-Pasta-in-Color
+ _2026-Dec-11
+LOCATION:The Hotel Majestic\, 1500 Sutter St\, San Francisco\, CA 94109
+END:VEVENT
+BEGIN:VEVENT
+UID:love-potion-crafts-night-craft-along-book-club-732d85fc@sf-events
+DTSTAMP:20261212T020000Z
+DTSTART:20261212T020000Z
+DTEND:20261212T040000Z
+SUMMARY:Love Potion Crafts Night (craft-along book club)
+DESCRIPTION:A monthly meetup at the Castro bookshop-bar where people bring
+  a portable craft (knitting\, embroidery\, journaling) and chat about the
+  month's romance read over tea or wine. It's low-key and an easy way to m
+ eet people.\nPrice: $10\nhttps://luma.com/91wy23w9
+URL:https://luma.com/91wy23w9
+LOCATION:The Love Potion Library\, 284 Noe St\, San Francisco\, CA 94114
+END:VEVENT
+BEGIN:VEVENT
 UID:lucius-4560896c@sf-events
 DTSTAMP:20261212T040000Z
 DTSTART:20261212T040000Z
@@ -2976,6 +3232,22 @@ DESCRIPTION:Jess Wolfe and Holly Laessig's harmony-driven indie-pop band\,
  /events/lucius-261211
 URL:https://thecastro.com/events/lucius-261211
 LOCATION:Castro Theatre\, 429 Castro St\, San Francisco\, CA 94114
+END:VEVENT
+BEGIN:VEVENT
+UID:pop-ups-on-the-plaza-black-holiday-market-at-the-ferry-build-a8356bc6@
+ sf-events
+DTSTAMP:20261212T170000Z
+DTSTART:20261212T170000Z
+DTEND:20261212T220000Z
+SUMMARY:Pop-Ups on the Plaza: Black Holiday Market at the Ferry Building
+DESCRIPTION:A Foodwise holiday market of about 20 Black-owned Bay Area foo
+ d makers and designers inside the Saturday farmers market. It also has li
+ ve screenprinting with Serge Gay Jr. (free prints)\, ornament making\, ho
+ t cider and a BFF.fm DJ.\nPrice: Free entry\nhttps://foodwise.org/events/
+ pop-ups-on-the-plaza-black-holiday-market/
+URL:https://foodwise.org/events/pop-ups-on-the-plaza-black-holiday-market/
+LOCATION:Ferry Building south arcade (Ferry Plaza Farmers Market)\, 1 Ferr
+ y Building\, San Francisco\, CA 94111
 END:VEVENT
 BEGIN:VEVENT
 UID:bay-area-winter-solstice-2026-rationalist-community-5190812b@sf-events
@@ -3043,6 +3315,20 @@ URL:https://www.eventbrite.com/e/bats-improv-presents-an-improvised-dicken
  s-musical-127526-122626-sho-tickets-1991874773066
 LOCATION:BATS Bayfront Theatre\, Fort Mason Center\, 2 Marina Blvd\, Build
  ing B\, 3rd Floor\, San Francisco\, CA 94123
+END:VEVENT
+BEGIN:VEVENT
+UID:harvey-milk-center-for-the-arts-holiday-craft-fair-a0ce5050@sf-events
+DTSTAMP:20261213T190000Z
+DTSTART:20261213T190000Z
+DTEND:20261214T000000Z
+SUMMARY:Harvey Milk Center for the Arts Holiday Craft Fair
+DESCRIPTION:The ninth annual Rec & Park holiday fair of handmade gifts by 
+ local artists\, with free hot apple cider and a photo booth\, at the Dubo
+ ce Park arts center.\nPrice: Free\nhttps://www.harveymilkphotocenter.org/
+ events/holiday-craft-fair-3/
+URL:https://www.harveymilkphotocenter.org/events/holiday-craft-fair-3/
+LOCATION:Harvey Milk Center for the Arts\, 50 Scott St\, San Francisco\, C
+ A 94117
 END:VEVENT
 BEGIN:VEVENT
 UID:susanna-kwan-awake-in-the-floating-city-with-becca-prowda-43a6315c@sf-
@@ -3364,6 +3650,24 @@ LOCATION:Great American Music Hall\, 859 O'Farrell St\, San Francisco\, CA
   94109
 END:VEVENT
 BEGIN:VEVENT
+UID:green-exercise-ocean-hike-lands-end-coastal-trail-meetup-gro-0fb9b294@
+ sf-events
+DTSTAMP:20261220T210000Z
+DTSTART:20261220T210000Z
+DTEND:20261221T003000Z
+SUMMARY:Green Exercise ocean hike: Lands End coastal trail (Meetup group h
+ ike)
+DESCRIPTION:A public\, social Meetup group hike along the Lands End Coasta
+ l Trail past the Sutro Baths ruins\, with Golden Gate views. It's open to
+  newcomers and pitched as a way to meet new friends and get a workout.\nP
+ rice: Free\nhttps://www.meetup.com/bay-area-hiking-walking-wellness-club/
+ events/316836465/
+URL:https://www.meetup.com/bay-area-hiking-walking-wellness-club/events/31
+ 6836465/
+LOCATION:Beach-side parking lot across from Beach Chalet (meeting point)\,
+  Great Highway & John F Kennedy Dr\, San Francisco\, CA 94121
+END:VEVENT
+BEGIN:VEVENT
 UID:kitka-wintersongs-comfort-joy-b4a254c5@sf-events
 DTSTAMP:20261221T000000Z
 DTSTART:20261221T000000Z
@@ -3391,6 +3695,21 @@ DESCRIPTION:SF's Grammy-winning men's choir sings its candlelit Christmas
  $48-$98\nhttps://www.cityboxoffice.com/orderticketsvenue.asp?p=15911
 URL:https://www.cityboxoffice.com/orderticketsvenue.asp?p=15911
 LOCATION:St. Ignatius Church\, 650 Parker Ave\, San Francisco\, CA 94118
+END:VEVENT
+BEGIN:VEVENT
+UID:circuit-hacking-monday-open-electronics-workshop-at-noisebri-7bd205bc@
+ sf-events
+DTSTAMP:20261222T030000Z
+DTSTART:20261222T030000Z
+DTEND:20261222T050000Z
+SUMMARY:Circuit Hacking Monday: open electronics workshop at Noisebridge
+DESCRIPTION:Weekly open workshop at the Mission's volunteer-run hackerspac
+ e\, with soldering stations\, test equipment and people working on electr
+ onics\, robotics and embedded projects. You can bring a project or just c
+ ome and learn. It's a public event with no lectures.\nPrice: Free (donati
+ ons welcome)\nhttps://www.meetup.com/noisebridge/events/317172033/
+URL:https://www.meetup.com/noisebridge/events/317172033/
+LOCATION:Noisebridge hackerspace\, 272 Capp St\, San Francisco\, CA 94110
 END:VEVENT
 BEGIN:VEVENT
 UID:a-brass-and-organ-christmas-with-the-bay-brass-850db543@sf-events
@@ -3527,6 +3846,23 @@ LOCATION:Imperial Palace Restaurant\, 818 Washington St\, San Francisco\,
  CA 94108
 END:VEVENT
 BEGIN:VEVENT
+UID:the-board-walks-walk-talk-about-life-s-big-questions-ec695e7d@sf-event
+ s
+DTSTAMP:20261226T160000Z
+DTSTART:20261226T160000Z
+DTEND:20261226T183000Z
+SUMMARY:The Board Walks: Walk & Talk About Life's Big Questions
+DESCRIPTION:The weekly 5-mile deep-conversation walk on the day after Chri
+ stmas. Everyone brings one question or topic to explore\, shares it in an
+  opening circle\, then mixes into small conversations on the walk. It's n
+ ewcomer-friendly.\nPrice: Free\nhttps://www.meetup.com/the-board-walks-sa
+ n-francisco/events/bwxqxtyjcqbjc/
+URL:https://www.meetup.com/the-board-walks-san-francisco/events/bwxqxtyjcq
+ bjc/
+LOCATION:Coffee To The People (meeting point)\, 1206 Masonic Ave\, San Fra
+ ncisco\, CA 94117
+END:VEVENT
+BEGIN:VEVENT
 UID:bottom-of-the-hill-holiday-matinee-top-secret-robot-alliance-961eaeab@
  sf-events
 DTSTAMP:20261227T003000Z
@@ -3552,6 +3888,21 @@ DESCRIPTION:SF's own roots-rock songwriter (ex-Green on Red) plays a post-
  /event/chuck-prophet/706760?afflky=TheChapel
 URL:https://wl.seetickets.us/event/chuck-prophet/706760?afflky=TheChapel
 LOCATION:The Chapel\, 777 Valencia St\, San Francisco\, CA 94110
+END:VEVENT
+BEGIN:VEVENT
+UID:ranger-walk-250-years-on-the-presidio-31020b18@sf-events
+DTSTAMP:20261227T190000Z
+DTSTART:20261227T190000Z
+DTEND:20261227T200000Z
+SUMMARY:Ranger walk: 250 Years on the Presidio
+DESCRIPTION:A free one-hour\, flat half-mile walk with a National Park Ser
+ vice ranger over Presidio Tunnel Tops and the Main Post. It traces the si
+ te from the Ohlone through the Spanish and US Army years to a national pa
+ rk\, in its 250th year.\nPrice: Free\nhttps://www.parksconservancy.org/no
+ de/5047
+URL:https://www.parksconservancy.org/node/5047
+LOCATION:Presidio Visitor Center (meet near Anza)\, 210 Lincoln Blvd\, San
+  Francisco\, CA 94129
 END:VEVENT
 BEGIN:VEVENT
 UID:mark-eitzel-funeral-cake-strange-cities-devoted-fans-more-95db3a96@sf-
@@ -3581,6 +3932,21 @@ URL:https://wl.seetickets.us/event/Jerrys-Middle-Finger/701374?afflky=Grea
  tAmericanMusicHall
 LOCATION:Great American Music Hall\, 859 O'Farrell St\, San Francisco\, CA
   94109
+END:VEVENT
+BEGIN:VEVENT
+UID:circuit-hacking-monday-open-electronics-workshop-at-noisebri-e2fb2ba8@
+ sf-events
+DTSTAMP:20261229T030000Z
+DTSTART:20261229T030000Z
+DTEND:20261229T050000Z
+SUMMARY:Circuit Hacking Monday: open electronics workshop at Noisebridge
+DESCRIPTION:The same weekly open electronics night at the Mission hackersp
+ ace in the quiet week between Christmas and New Year: soldering stations\
+ , test gear and people tinkering on robotics and embedded projects. Begin
+ ners are welcome to come and learn.\nPrice: Free (donations welcome)\nhtt
+ ps://www.meetup.com/noisebridge/events/317172035/
+URL:https://www.meetup.com/noisebridge/events/317172035/
+LOCATION:Noisebridge hackerspace\, 272 Capp St\, San Francisco\, CA 94110
 END:VEVENT
 BEGIN:VEVENT
 UID:man-or-astro-man-with-the-subsonics-9124ba5d@sf-events
@@ -3790,6 +4156,21 @@ URL:https://wl.seetickets.us/event/the-loved-ones-latest-hits-record-relea
 LOCATION:The Chapel\, 777 Valencia St\, San Francisco\, CA 94110
 END:VEVENT
 BEGIN:VEVENT
+UID:la-hora-feliz-friday-spanish-conversation-meetup-1cf5a60e@sf-events
+DTSTAMP:20270109T020000Z
+DTSTART:20270109T020000Z
+DTEND:20270109T050000Z
+SUMMARY:La Hora Feliz: Friday Spanish conversation meetup
+DESCRIPTION:A relaxed weekly all-Spanish conversation hour for learners an
+ d native speakers at a Valencia St cafe. There's no cover. Newcomers are 
+ told to arrive around 6:30pm and ask at the counter for the group.\nPrice
+ : Free (buy a drink)\nhttps://www.meetup.com/spanish-language-meetup/even
+ ts/dhbgbvykccblb/
+URL:https://www.meetup.com/spanish-language-meetup/events/dhbgbvykccblb/
+LOCATION:Muddy Waters Coffee House\, 521 Valencia St\, San Francisco\, CA 
+ 94110
+END:VEVENT
+BEGIN:VEVENT
 UID:2001-a-space-odyssey-in-70mm-6eb7e131@sf-events
 DTSTAMP:20270109T040000Z
 DTSTART:20270109T040000Z
@@ -3801,6 +4182,23 @@ DESCRIPTION:Kubrick's masterpiece on a 70mm print in the restored 1922 Cas
  ts/2001-a-space-odyssey-270108
 URL:https://thecastro.com/events/2001-a-space-odyssey-270108
 LOCATION:Castro Theatre\, 429 Castro St\, San Francisco\, CA 94114
+END:VEVENT
+BEGIN:VEVENT
+UID:sf-city-guides-free-walking-tour-welcome-to-san-francisco-fo-4a4cd4a7@
+ sf-events
+DTSTAMP:20270109T173000Z
+DTSTART:20270109T173000Z
+DTEND:20270109T193000Z
+SUMMARY:SF City Guides free walking tour: Welcome to San Francisco (for ne
+ wcomers)
+DESCRIPTION:A volunteer-led two-hour introductory walk designed for people
+  new to the city. It goes from the Ferry Building to North Beach\, coveri
+ ng the Gold Rush\, cable cars\, the 1906 quake\, counterculture and food 
+ culture\, and ends near North Beach cafes.\nPrice: Free (donations welcom
+ e)\nhttps://www.sfcityguides.org/find-your-tour/?visit=2027-01-09
+URL:https://www.sfcityguides.org/find-your-tour/?visit=2027-01-09
+LOCATION:Harry Bridges Plaza (across from the Ferry Building)\, The Embarc
+ adero at Market St\, San Francisco\, CA 94111
 END:VEVENT
 BEGIN:VEVENT
 UID:anna-von-hausswolff-with-katzpascale-ee738c65@sf-events
@@ -3832,6 +4230,23 @@ DESCRIPTION:Free outdoor swing dancing every Sunday since 1996 on car-free
 URL:https://lindyinthepark.com/about/
 LOCATION:Golden Gate Park\, JFK Drive (8th-10th Ave)\, JFK Dr between 8th 
  & 10th Ave (behind the de Young)\, San Francisco\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:sf-city-guides-free-walking-tour-embarcadero-south-a-turbule-c41e5135@
+ sf-events
+DTSTAMP:20270110T190000Z
+DTSTART:20270110T190000Z
+DTEND:20270110T210000Z
+SUMMARY:SF City Guides free walking tour: Embarcadero South\, A Turbulent 
+ Port
+DESCRIPTION:A free two-hour waterfront history walk starting a few blocks 
+ from home. It covers the 150-year-old seawall\, the Hills Bros. Coffee bu
+ ilding\, Rincon Annex and the 1934 longshore strike memorials\, on the st
+ retch where the Embarcadero Freeway once stood.\nPrice: Free (donations w
+ elcome)\nhttps://www.sfcityguides.org/find-your-tour/?visit=2027-01-10
+URL:https://www.sfcityguides.org/find-your-tour/?visit=2027-01-10
+LOCATION:Mission & Steuart Streets\, by Rincon Center (meeting point)\, Mi
+ ssion St & Steuart St\, San Francisco\, CA 94105
 END:VEVENT
 BEGIN:VEVENT
 UID:nora-brown-with-stephanie-coleman-65eb5243@sf-events
@@ -3941,6 +4356,20 @@ URL:https://wl.seetickets.us/event/the-16th-annual-bowie-bash/707831?afflk
  y=GreatAmericanMusicHall
 LOCATION:Great American Music Hall\, 859 O'Farrell St\, San Francisco\, CA
   94109
+END:VEVENT
+BEGIN:VEVENT
+UID:laser-cutter-safety-training-at-noisebridge-798797eb@sf-events
+DTSTAMP:20270117T220000Z
+DTSTART:20270117T220000Z
+DTEND:20270118T000000Z
+SUMMARY:Laser cutter safety training at Noisebridge
+DESCRIPTION:A two-hour hands-on class on the hackerspace's 150W CO2 laser 
+ cutter\, covering hazards\, safe operation and fire response. Everyone cu
+ ts a cardboard piece\, and it's the prerequisite for using the cutter on 
+ your own projects. Seats are limited.\nPrice: $5 (+$20-30 suggested donat
+ ion)\nhttps://www.meetup.com/noisebridge/events/nsftwtykccbwb/
+URL:https://www.meetup.com/noisebridge/events/nsftwtykccbwb/
+LOCATION:Noisebridge hackerspace\, 272 Capp St\, San Francisco\, CA 94110
 END:VEVENT
 BEGIN:VEVENT
 UID:mucha-salsa-social-free-beginner-class-a1a610fb@sf-events
@@ -4071,6 +4500,22 @@ DESCRIPTION:The Portland string-band-turned-rock group's farewell tour\, w
  703540?afflky=TheChapel
 URL:https://wl.seetickets.us/event/fruition/703540?afflky=TheChapel
 LOCATION:The Chapel\, 777 Valencia St\, San Francisco\, CA 94110
+END:VEVENT
+BEGIN:VEVENT
+UID:sf-city-guides-free-walking-tour-golden-gate-park-west-end-bd76448a@sf
+ -events
+DTSTAMP:20270123T183000Z
+DTSTART:20270123T183000Z
+DTEND:20270123T203000Z
+SUMMARY:SF City Guides free walking tour: Golden Gate Park\, West End
+DESCRIPTION:A free volunteer-led walk at the ocean end of Golden Gate Park
+ \, from the Dutch Windmill past the Murphy Windmill to the Beach Chalet's
+  1930s murals. It covers how the sand dunes were turned into parkland and
+  a dune village built from retired cable cars.\nPrice: Free (donations we
+ lcome)\nhttps://www.sfcityguides.org/find-your-tour/?visit=2027-01-23
+URL:https://www.sfcityguides.org/find-your-tour/?visit=2027-01-23
+LOCATION:North (Dutch) Windmill\, Queen Wilhelmina Garden (meeting point)\
+ , JFK Dr at Great Highway\, San Francisco\, CA 94121
 END:VEVENT
 BEGIN:VEVENT
 UID:the-brothers-comatose-8c50af57@sf-events

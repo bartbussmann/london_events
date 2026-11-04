@@ -208,6 +208,25 @@
     "id": "figure-drawing-at-monument-sf-sketchboard-8340ca3c"
   },
   {
+    "id": "ics-0174c09c8b65",
+    "title": "Engineering Telekinesis: Restoring Movement with Brain-Computer Interfaces",
+    "start": "2026-11-04T19:00:00-08:00",
+    "end": "2026-11-04T21:00:00-08:00",
+    "venue": "Madrone Art Bar",
+    "address": "500 Divisadero St, San Francisco, CA 94117",
+    "url": "https://luma.com/cha6cevv",
+    "source": "ics:Big Brain Lectures - Bay Area",
+    "tags": [
+      "talk",
+      "tech"
+    ],
+    "price": "~$27 (Luma)",
+    "description": "Big Brain lecture-in-a-bar: how brain-computer interfaces are restoring movement to people with paralysis — the engineering, the trials and the ethics.",
+    "added": "2026-11-04",
+    "neighbourhood": "NoPa",
+    "cycle_minutes": 17
+  },
+  {
     "title": "A Case for the Existence of God (Samuel D. Hunter) at NCTC",
     "start": "2026-11-04T19:30:00-08:00",
     "end": "2026-11-04T21:00:00-08:00",
@@ -337,6 +356,25 @@
     "cycle_minutes": 12,
     "added": "2026-11-03",
     "id": "marjorie-keller-intimate-observer-experimental-films-a5062edc"
+  },
+  {
+    "id": "ics-40068e02528a",
+    "title": "The Side of San Francisco’s Homelessness Crisis We Don’t See",
+    "start": "2026-11-05T19:00:00-08:00",
+    "end": "2026-11-05T21:00:00-08:00",
+    "venue": "Decentered Arts Studio",
+    "address": "1175 Folsom St, San Francisco, CA 94103",
+    "url": "https://luma.com/6fs96uf4",
+    "source": "ics:Big Brain Lectures - Bay Area",
+    "tags": [
+      "talk",
+      "community"
+    ],
+    "price": "~$27 (Luma)",
+    "description": "Big Brain lecture-in-a-bar on the less-visible side of San Francisco's homelessness crisis — research and policy beyond the headlines, six minutes from home.",
+    "added": "2026-11-04",
+    "neighbourhood": "SoMa",
+    "cycle_minutes": 6
   },
   {
     "title": "Greg Freeman with Trinity Ace",
@@ -1059,6 +1097,25 @@
     "id": "sf-playhouse-free-play-reading-the-starters-by-laura-winters-4ffdab3c"
   },
   {
+    "id": "ics-fa215336840a",
+    "title": "Tripping Toward Recovery: Can Psychedelics Heal the Brain?",
+    "start": "2026-11-09T19:00:00-08:00",
+    "end": "2026-11-09T21:00:00-08:00",
+    "venue": "Planted SF",
+    "address": "473A Haight St, San Francisco, CA 94117",
+    "url": "https://luma.com/70r8uuoz",
+    "source": "ics:Big Brain Lectures - Bay Area",
+    "tags": [
+      "talk",
+      "community"
+    ],
+    "price": "~$27 (Luma)",
+    "description": "Big Brain lecture-in-a-bar on whether psychedelics can heal the brain — what the clinical trials actually show for depression, PTSD and addiction.",
+    "added": "2026-11-04",
+    "neighbourhood": "Lower Haight",
+    "cycle_minutes": 16
+  },
+  {
     "title": "Multi-City Live Theater in VR: Uncanny Alley (Ferryman Collective)",
     "start": "2026-11-10T18:00:00-08:00",
     "end": "2026-11-10T21:00:00-08:00",
@@ -1191,6 +1248,25 @@
     "id": "peter-pan-goes-wrong-at-sf-playhouse-a6eed664"
   },
   {
+    "id": "ics-bae91c19e637",
+    "title": "Do I Want Kids? A Psychology-Based Guide to Figuring It Out",
+    "start": "2026-11-10T19:00:00-08:00",
+    "end": "2026-11-10T21:00:00-08:00",
+    "venue": "Hawthorn SF",
+    "address": "46 Geary St, San Francisco, CA 94108",
+    "url": "https://luma.com/oybmw0hr",
+    "source": "ics:Big Brain Lectures - Bay Area",
+    "tags": [
+      "talk",
+      "community"
+    ],
+    "price": "~$27 (Luma)",
+    "description": "Big Brain lecture-in-a-bar: a psychology-based guide to deciding whether you want kids — research on values, regret and decision-making.",
+    "added": "2026-11-04",
+    "neighbourhood": "Union Square",
+    "cycle_minutes": 6
+  },
+  {
     "title": "Claudio Simonetti's Goblin performs the live score to Tenebre",
     "start": "2026-11-10T19:30:00-08:00",
     "end": null,
@@ -1263,6 +1339,25 @@
     "cycle_minutes": 13,
     "added": "2026-10-28",
     "id": "trivia-night-at-manny-s-0fa2e4e7"
+  },
+  {
+    "title": "Big Brain Bay Area: Keeping the Lights On When Cyberattacks Go Physical",
+    "start": "2026-11-11T19:00:00-08:00",
+    "end": "2026-11-11T21:00:00-08:00",
+    "venue": "Planted SF",
+    "address": "473A Haight St, San Francisco, CA 94117",
+    "url": "https://luma.com/lprchbdo",
+    "source": "aggregator:luma",
+    "tags": [
+      "talk",
+      "tech"
+    ],
+    "price": "$27",
+    "description": "A lecture-in-a-bar talk by Nate Gleason, who leads Lawrence Livermore's cyber and infrastructure resilience programme. It covers how attacks on grids, water and ports become physical, 'immune infrastructure', and how AI is changing both attack and defence.",
+    "neighbourhood": "Lower Haight",
+    "cycle_minutes": 16,
+    "added": "2026-11-04",
+    "id": "big-brain-bay-area-keeping-the-lights-on-when-cyberattacks-g-6dd28e20"
   },
   {
     "title": "San Francisco Wednesday Contra Dance (beginner lesson 7:30)",
@@ -2037,6 +2132,25 @@
     "id": "philosophy-talk-live-franz-kafka-and-the-world-without-a-pat-20bb85e1"
   },
   {
+    "id": "ics-88bb408e0a28",
+    "title": "Who’s That Under the Bridge? Patents, Trolls, and the Price of Innovation",
+    "start": "2026-11-17T19:00:00-08:00",
+    "end": "2026-11-17T21:00:00-08:00",
+    "venue": "Mr. Mahjong's",
+    "address": "260 Kearny St, San Francisco, CA 94108",
+    "url": "https://luma.com/yasrxsyk",
+    "source": "ics:Big Brain Lectures - Bay Area",
+    "tags": [
+      "talk",
+      "tech"
+    ],
+    "price": "~$27 (Luma)",
+    "description": "Big Brain lecture-in-a-bar on patent trolls: how the patent system gets gamed, what it costs innovation, and whether reform can work.",
+    "added": "2026-11-04",
+    "neighbourhood": "Financial District",
+    "cycle_minutes": 7
+  },
+  {
     "title": "Silverada with Emily Nenni",
     "start": "2026-11-17T20:00:00-08:00",
     "end": null,
@@ -2206,6 +2320,25 @@
     "id": "free-psychedelic-film-night-mondo-new-york-b88e352d"
   },
   {
+    "title": "SFAA lecture: Southern Skies, Global Reach: Chile and Modern Astronomy",
+    "start": "2026-11-18T19:00:00-08:00",
+    "end": "2026-11-18T20:30:00-08:00",
+    "venue": "Randall Museum",
+    "address": "199 Museum Way, San Francisco, CA 94114",
+    "url": "https://www.sfaa-astronomy.org/public-events/lectures/lectures_2026/nov18_2026",
+    "source": "venue:sfaa",
+    "tags": [
+      "talk",
+      "community"
+    ],
+    "price": "Free",
+    "description": "The San Francisco Amateur Astronomers' free monthly lecture. Mission sidewalk-astronomy regular Brian 'Astro' Castro reports on his ACEAP visit to ALMA, Vera Rubin and Gemini South and why Chile became astronomy's capital. Come early for snacks and to meet the club. The museum is up a steep hill above the Castro.",
+    "neighbourhood": "Corona Heights",
+    "cycle_minutes": 20,
+    "added": "2026-11-04",
+    "id": "sfaa-lecture-southern-skies-global-reach-chile-and-modern-as-91cb66f5"
+  },
+  {
     "title": "Jenny Tian: Ripe",
     "start": "2026-11-18T19:30:00-08:00",
     "end": null,
@@ -2317,6 +2450,25 @@
     "id": "the-art-of-butoh-talk-performance-at-sfmoma-1ca8af9c"
   },
   {
+    "title": "AI Summit 2027: A Conversation Before Geneva (Irene Solaiman + roundtables)",
+    "start": "2026-11-19T18:00:00-08:00",
+    "end": "2026-11-19T21:00:00-08:00",
+    "venue": "House of AI",
+    "address": "40 Boardman Pl, San Francisco, CA 94103",
+    "url": "https://luma.com/fy8teprf",
+    "source": "aggregator:luma",
+    "tags": [
+      "talk",
+      "tech"
+    ],
+    "price": "Free (registration approval required)",
+    "description": "Swissnex hosts Hugging Face's chief policy officer Irene Solaiman on the stakes ahead of the 2027 Geneva AI Summit. Attendees then join one of six policy roundtables (AI safety and frontier risk, governance, democracy and media, oversight) whose input feeds the Swiss summit prep cohort.",
+    "neighbourhood": "SoMa",
+    "cycle_minutes": 8,
+    "added": "2026-11-04",
+    "id": "ai-summit-2027-a-conversation-before-geneva-irene-solaiman-r-a1705a3b"
+  },
+  {
     "title": "Jane Austen Reader's Theatre",
     "start": "2026-11-19T18:30:00-08:00",
     "end": "2026-11-19T20:00:00-08:00",
@@ -2391,6 +2543,25 @@
     "cycle_minutes": 10,
     "added": "2026-11-02",
     "id": "rae-armantrout-with-elizabeth-robinson-at-city-lights-df197c91"
+  },
+  {
+    "id": "ics-5fdf12c22645",
+    "title": "To Be or Not to Be… Sustainable? How Shakespeare Takes On the Climate Crisis",
+    "start": "2026-11-19T19:00:00-08:00",
+    "end": "2026-11-19T21:00:00-08:00",
+    "venue": "Decentered Arts Studio",
+    "address": "1175 Folsom St, San Francisco, CA 94103",
+    "url": "https://luma.com/y461737s",
+    "source": "ics:Big Brain Lectures - Bay Area",
+    "tags": [
+      "talk",
+      "community"
+    ],
+    "price": "~$27 (Luma)",
+    "description": "Big Brain lecture-in-a-bar on how Shakespeare's plays grapple with nature, scarcity and sustainability — literature meets climate thinking.",
+    "added": "2026-11-04",
+    "neighbourhood": "SoMa",
+    "cycle_minutes": 6
   },
   {
     "title": "Salt & Spirit: Opera Parallele world premiere at Z Space",
@@ -3160,6 +3331,26 @@
     "id": "long-now-lost-landscapes-02026-with-rick-prelinger-second-ni-32a67372"
   },
   {
+    "title": "Shaping SF talk: San Francisco, Capital of the Nerd Reich? (Gil Durán with Joe Eskenazi)",
+    "start": "2026-12-02T19:30:00-08:00",
+    "end": null,
+    "venue": "Eric Quezada Center for Culture and Politics",
+    "address": "518 Valencia St, San Francisco, CA 94110",
+    "url": "https://www.shapingsf.org/public-talks/index.html",
+    "source": "keyword-search",
+    "tags": [
+      "talk",
+      "tech",
+      "community"
+    ],
+    "price": "Free (donations welcome)",
+    "description": "Gil Durán, author of the bestselling The Nerd Reich on Silicon Valley's political ambitions, talks with Mission Local editor Joe Eskenazi about tech billionaires' plans for San Francisco. It's a public talk in a small Mission community space.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 12,
+    "added": "2026-11-04",
+    "id": "shaping-sf-talk-san-francisco-capital-of-the-nerd-reich-gil--bf895447"
+  },
+  {
     "title": "L'Rain with ZAYALLCAPS and Cole Pulice",
     "start": "2026-12-02T20:00:00-08:00",
     "end": "2026-12-02T23:30:00-08:00",
@@ -3310,6 +3501,65 @@
     "id": "greg-fitzsimmons-a57f92c4"
   },
   {
+    "title": "Let's Glow SF opening night: free holiday projection-art festival",
+    "start": "2026-12-04T18:00:00-08:00",
+    "end": "2026-12-04T22:00:00-08:00",
+    "venue": "Harry Bridges Plaza (in front of the Ferry Building)",
+    "address": "1 Ferry Building, San Francisco, CA 94111",
+    "url": "https://www.downtownsf.org/events/letsglowsf/",
+    "source": "keyword-search",
+    "tags": [
+      "outdoors",
+      "art",
+      "festival"
+    ],
+    "price": "Free (RSVP)",
+    "description": "Opening-night celebration (6-7pm) of the sixth Let's Glow SF, then animated projections by 19 international artists on downtown landmarks from 7-10pm. It's an outdoor walk between buildings from the Ferry Building to 101 California, 301 Pine and 1 Post, five minutes from home.",
+    "neighbourhood": "Embarcadero",
+    "cycle_minutes": 5,
+    "added": "2026-11-04",
+    "id": "let-s-glow-sf-opening-night-free-holiday-projection-art-fest-4d2be980"
+  },
+  {
+    "title": "Cooking class: Authentic Asian Dumplings",
+    "start": "2026-12-04T18:00:00-08:00",
+    "end": "2026-12-04T20:00:00-08:00",
+    "venue": "The Hotel Majestic",
+    "address": "1500 Sutter St, San Francisco, CA 94109",
+    "url": "https://www.cocusocial.com/newevent/San-Francisco_Authentic-Asian-Dumplings_2026-Dec-10",
+    "source": "venue:cocusocial",
+    "tags": [
+      "class",
+      "food"
+    ],
+    "price": "$59",
+    "description": "A two-hour hands-on CocuSocial class making, folding and cooking Asian dumplings from scratch. It's beginner-friendly, you work in small groups and eat what you make, and drinks are from the hotel bar.",
+    "neighbourhood": "Cathedral Hill",
+    "cycle_minutes": 14,
+    "added": "2026-11-04",
+    "id": "cooking-class-authentic-asian-dumplings-0c7ea59e"
+  },
+  {
+    "title": "SF State Observatory public night: rooftop telescope stargazing (last night of the semester)",
+    "start": "2026-12-04T18:30:00-08:00",
+    "end": "2026-12-04T21:00:00-08:00",
+    "venue": "SF State Observatory, Thornton Hall 10th floor",
+    "address": "1600 Holloway Ave, San Francisco, CA 94132",
+    "url": "https://physics.sfsu.edu/observatory",
+    "source": "keyword-search",
+    "tags": [
+      "outdoors",
+      "talk",
+      "community"
+    ],
+    "price": "Free",
+    "description": "Student docents run free rooftop telescope viewing of Saturn, the Andromeda galaxy and the Moon, with short astronomy talks. It only opens when skies are clear (check SF State Observatory Instagram on the day). It's a long ride to the far southwest corner, so the Muni M line to SF State is easier.",
+    "neighbourhood": "Lakeshore (SF State)",
+    "cycle_minutes": 55,
+    "added": "2026-11-04",
+    "id": "sf-state-observatory-public-night-rooftop-telescope-stargazi-9ff8ffe6"
+  },
+  {
     "title": "The Crooked Jades: Beautiful World album release",
     "start": "2026-12-04T20:00:00-08:00",
     "end": null,
@@ -3326,6 +3576,45 @@
     "cycle_minutes": 35,
     "added": "2026-10-29",
     "id": "the-crooked-jades-beautiful-world-album-release-1daf5a18"
+  },
+  {
+    "title": "Ocean Beach Clean-up (Golden Gate National Parks volunteer morning)",
+    "start": "2026-12-05T10:00:00-08:00",
+    "end": "2026-12-05T13:00:00-08:00",
+    "venue": "Ocean Beach, Stairwell 17",
+    "address": "Great Highway at Stairwell 17, San Francisco, CA 94121",
+    "url": "https://www.parksconservancy.org/events/ocean-beach/ocean-beach-clean-ups",
+    "source": "venue:parksconservancy",
+    "tags": [
+      "outdoors",
+      "community"
+    ],
+    "price": "Free",
+    "description": "A monthly first-Saturday beach clean-up with the Parks Conservancy. No experience is needed, tools are provided, and it runs rain or shine with the ocean in front of you. Registration is required, and the exact meeting spot comes in the confirmation email.",
+    "neighbourhood": "Outer Sunset",
+    "cycle_minutes": 45,
+    "added": "2026-11-04",
+    "id": "ocean-beach-clean-up-golden-gate-national-parks-volunteer-mo-fa51d364"
+  },
+  {
+    "title": "Sunset Holiday Mercantile: 100+ local makers, food trucks and live music",
+    "start": "2026-12-05T11:00:00-08:00",
+    "end": "2026-12-05T17:00:00-08:00",
+    "venue": "San Francisco County Fair Building (Golden Gate Park)",
+    "address": "1199 9th Ave, San Francisco, CA 94122",
+    "url": "https://sunsetmercantilesf.com/sunset-holiday-mercantile/",
+    "source": "keyword-search",
+    "tags": [
+      "market",
+      "art",
+      "food"
+    ],
+    "price": "Free",
+    "description": "The 11th annual Sunset Mercantile holiday fair, with 100+ local makers, artists and food artisans, live music and beer and wine tasting. The Inner Sunset Holiday Stroll follows on 9th Ave and Irving from 5-9pm.",
+    "neighbourhood": "Inner Sunset",
+    "cycle_minutes": 27,
+    "added": "2026-11-04",
+    "id": "sunset-holiday-mercantile-100-local-makers-food-trucks-and-l-9033f842"
   },
   {
     "title": "Rosanna Xia: California Against the Sea, in conversation with Marina Psaros",
@@ -3684,6 +3973,44 @@
     "id": "city-arts-lectures-marlon-james-with-shereen-marisol-meraji-aa01b9fc"
   },
   {
+    "title": "Cooking class: Fresh Pasta in Color",
+    "start": "2026-12-11T18:00:00-08:00",
+    "end": "2026-12-11T20:00:00-08:00",
+    "venue": "The Hotel Majestic",
+    "address": "1500 Sutter St, San Francisco, CA 94109",
+    "url": "https://www.cocusocial.com/newevent/San-Francisco_Fresh-Pasta-in-Color_2026-Dec-11",
+    "source": "venue:cocusocial",
+    "tags": [
+      "class",
+      "food"
+    ],
+    "price": "$59",
+    "description": "A hands-on CocuSocial class making a classic and a beet-infused pasta dough from scratch in pairs. The dishes are beet tagliatelle with lemon, feta and walnuts, and pappardelle with butternut squash and brown butter. No experience is needed.",
+    "neighbourhood": "Cathedral Hill",
+    "cycle_minutes": 14,
+    "added": "2026-11-04",
+    "id": "cooking-class-fresh-pasta-in-color-708b1073"
+  },
+  {
+    "title": "Love Potion Crafts Night (craft-along book club)",
+    "start": "2026-12-11T18:00:00-08:00",
+    "end": "2026-12-11T20:00:00-08:00",
+    "venue": "The Love Potion Library",
+    "address": "284 Noe St, San Francisco, CA 94114",
+    "url": "https://luma.com/91wy23w9",
+    "source": "aggregator:luma",
+    "tags": [
+      "workshop",
+      "community"
+    ],
+    "price": "$10",
+    "description": "A monthly meetup at the Castro bookshop-bar where people bring a portable craft (knitting, embroidery, journaling) and chat about the month's romance read over tea or wine. It's low-key and an easy way to meet people.",
+    "neighbourhood": "Castro",
+    "cycle_minutes": 17,
+    "added": "2026-11-04",
+    "id": "love-potion-crafts-night-craft-along-book-club-732d85fc"
+  },
+  {
     "title": "Lucius",
     "start": "2026-12-11T20:00:00-08:00",
     "end": null,
@@ -3700,6 +4027,26 @@
     "cycle_minutes": 17,
     "added": "2026-10-29",
     "id": "lucius-4560896c"
+  },
+  {
+    "title": "Pop-Ups on the Plaza: Black Holiday Market at the Ferry Building",
+    "start": "2026-12-12T09:00:00-08:00",
+    "end": "2026-12-12T14:00:00-08:00",
+    "venue": "Ferry Building south arcade (Ferry Plaza Farmers Market)",
+    "address": "1 Ferry Building, San Francisco, CA 94111",
+    "url": "https://foodwise.org/events/pop-ups-on-the-plaza-black-holiday-market/",
+    "source": "venue:foodwise",
+    "tags": [
+      "market",
+      "food",
+      "community"
+    ],
+    "price": "Free entry",
+    "description": "A Foodwise holiday market of about 20 Black-owned Bay Area food makers and designers inside the Saturday farmers market. It also has live screenprinting with Serge Gay Jr. (free prints), ornament making, hot cider and a BFF.fm DJ.",
+    "neighbourhood": "Embarcadero",
+    "cycle_minutes": 5,
+    "added": "2026-11-04",
+    "id": "pop-ups-on-the-plaza-black-holiday-market-at-the-ferry-build-a8356bc6"
   },
   {
     "title": "Bay Area Winter Solstice 2026 (rationalist community)",
@@ -3776,6 +4123,26 @@
     "cycle_minutes": 22,
     "added": "2026-11-02",
     "id": "bats-improv-an-improvised-dickens-musical-76db83a8"
+  },
+  {
+    "title": "Harvey Milk Center for the Arts Holiday Craft Fair",
+    "start": "2026-12-13T11:00:00-08:00",
+    "end": "2026-12-13T16:00:00-08:00",
+    "venue": "Harvey Milk Center for the Arts",
+    "address": "50 Scott St, San Francisco, CA 94117",
+    "url": "https://www.harveymilkphotocenter.org/events/holiday-craft-fair-3/",
+    "source": "keyword-search",
+    "tags": [
+      "market",
+      "art",
+      "community"
+    ],
+    "price": "Free",
+    "description": "The ninth annual Rec & Park holiday fair of handmade gifts by local artists, with free hot apple cider and a photo booth, at the Duboce Park arts center.",
+    "neighbourhood": "Duboce Triangle",
+    "cycle_minutes": 16,
+    "added": "2026-11-04",
+    "id": "harvey-milk-center-for-the-arts-holiday-craft-fair-a0ce5050"
   },
   {
     "title": "Susanna Kwan: Awake in the Floating City, with Becca Prowda",
@@ -4167,6 +4534,25 @@
     "id": "the-mother-hips-annual-holiday-show-with-little-worth-71811bf9"
   },
   {
+    "title": "Green Exercise ocean hike: Lands End coastal trail (Meetup group hike)",
+    "start": "2026-12-20T13:00:00-08:00",
+    "end": "2026-12-20T16:30:00-08:00",
+    "venue": "Beach-side parking lot across from Beach Chalet (meeting point)",
+    "address": "Great Highway & John F Kennedy Dr, San Francisco, CA 94121",
+    "url": "https://www.meetup.com/bay-area-hiking-walking-wellness-club/events/316836465/",
+    "source": "aggregator:meetup",
+    "tags": [
+      "outdoors",
+      "community"
+    ],
+    "price": "Free",
+    "description": "A public, social Meetup group hike along the Lands End Coastal Trail past the Sutro Baths ruins, with Golden Gate views. It's open to newcomers and pitched as a way to meet new friends and get a workout.",
+    "neighbourhood": "Outer Richmond",
+    "cycle_minutes": 45,
+    "added": "2026-11-04",
+    "id": "green-exercise-ocean-hike-lands-end-coastal-trail-meetup-gro-0fb9b294"
+  },
+  {
     "title": "Kitka: Wintersongs, Comfort & Joy",
     "start": "2026-12-20T16:00:00-08:00",
     "end": "2026-12-20T18:00:00-08:00",
@@ -4201,6 +4587,25 @@
     "cycle_minutes": 25,
     "added": "2026-10-29",
     "id": "a-chanticleer-christmas-7f99ee32"
+  },
+  {
+    "title": "Circuit Hacking Monday: open electronics workshop at Noisebridge",
+    "start": "2026-12-21T19:00:00-08:00",
+    "end": "2026-12-21T21:00:00-08:00",
+    "venue": "Noisebridge hackerspace",
+    "address": "272 Capp St, San Francisco, CA 94110",
+    "url": "https://www.meetup.com/noisebridge/events/317172033/",
+    "source": "aggregator:meetup",
+    "tags": [
+      "workshop",
+      "tech"
+    ],
+    "price": "Free (donations welcome)",
+    "description": "Weekly open workshop at the Mission's volunteer-run hackerspace, with soldering stations, test equipment and people working on electronics, robotics and embedded projects. You can bring a project or just come and learn. It's a public event with no lectures.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 13,
+    "added": "2026-11-04",
+    "id": "circuit-hacking-monday-open-electronics-workshop-at-noisebri-7bd205bc"
   },
   {
     "title": "A Brass and Organ Christmas with The Bay Brass",
@@ -4366,6 +4771,25 @@
     "id": "kung-pao-kosher-comedy-christmas-day-cocktail-show-e5ad9968"
   },
   {
+    "title": "The Board Walks: Walk & Talk About Life's Big Questions",
+    "start": "2026-12-26T08:00:00-08:00",
+    "end": "2026-12-26T10:30:00-08:00",
+    "venue": "Coffee To The People (meeting point)",
+    "address": "1206 Masonic Ave, San Francisco, CA 94117",
+    "url": "https://www.meetup.com/the-board-walks-san-francisco/events/bwxqxtyjcqbjc/",
+    "source": "aggregator:meetup",
+    "tags": [
+      "outdoors",
+      "community"
+    ],
+    "price": "Free",
+    "description": "The weekly 5-mile deep-conversation walk on the day after Christmas. Everyone brings one question or topic to explore, shares it in an opening circle, then mixes into small conversations on the walk. It's newcomer-friendly.",
+    "neighbourhood": "Haight-Ashbury",
+    "cycle_minutes": 22,
+    "added": "2026-11-04",
+    "id": "the-board-walks-walk-talk-about-life-s-big-questions-ec695e7d"
+  },
+  {
     "title": "Bottom of the Hill holiday matinee: Top Secret Robot Alliance, Varona, Luke Sweeney, Matt Jaffe + more",
     "start": "2026-12-26T16:30:00-08:00",
     "end": null,
@@ -4400,6 +4824,25 @@
     "cycle_minutes": 13,
     "added": "2026-10-30",
     "id": "chuck-prophet-33325035"
+  },
+  {
+    "title": "Ranger walk: 250 Years on the Presidio",
+    "start": "2026-12-27T11:00:00-08:00",
+    "end": "2026-12-27T12:00:00-08:00",
+    "venue": "Presidio Visitor Center (meet near Anza)",
+    "address": "210 Lincoln Blvd, San Francisco, CA 94129",
+    "url": "https://www.parksconservancy.org/node/5047",
+    "source": "venue:presidio",
+    "tags": [
+      "outdoors",
+      "talk"
+    ],
+    "price": "Free",
+    "description": "A free one-hour, flat half-mile walk with a National Park Service ranger over Presidio Tunnel Tops and the Main Post. It traces the site from the Ohlone through the Spanish and US Army years to a national park, in its 250th year.",
+    "neighbourhood": "Presidio",
+    "cycle_minutes": 30,
+    "added": "2026-11-04",
+    "id": "ranger-walk-250-years-on-the-presidio-31020b18"
   },
   {
     "title": "Mark Eitzel, Funeral Cake, Strange Cities, Devoted Fans + more",
@@ -4437,6 +4880,25 @@
     "cycle_minutes": 9,
     "added": "2026-10-30",
     "id": "jerry-s-middle-finger-fd53971c"
+  },
+  {
+    "title": "Circuit Hacking Monday: open electronics workshop at Noisebridge",
+    "start": "2026-12-28T19:00:00-08:00",
+    "end": "2026-12-28T21:00:00-08:00",
+    "venue": "Noisebridge hackerspace",
+    "address": "272 Capp St, San Francisco, CA 94110",
+    "url": "https://www.meetup.com/noisebridge/events/317172035/",
+    "source": "aggregator:meetup",
+    "tags": [
+      "workshop",
+      "tech"
+    ],
+    "price": "Free (donations welcome)",
+    "description": "The same weekly open electronics night at the Mission hackerspace in the quiet week between Christmas and New Year: soldering stations, test gear and people tinkering on robotics and embedded projects. Beginners are welcome to come and learn.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 13,
+    "added": "2026-11-04",
+    "id": "circuit-hacking-monday-open-electronics-workshop-at-noisebri-e2fb2ba8"
   },
   {
     "title": "Man or Astro-man? with The Subsonics",
@@ -4697,6 +5159,25 @@
     "id": "the-loved-ones-latest-hits-record-release-with-the-vesuvians-b735b97a"
   },
   {
+    "title": "La Hora Feliz: Friday Spanish conversation meetup",
+    "start": "2027-01-08T18:00:00-08:00",
+    "end": "2027-01-08T21:00:00-08:00",
+    "venue": "Muddy Waters Coffee House",
+    "address": "521 Valencia St, San Francisco, CA 94110",
+    "url": "https://www.meetup.com/spanish-language-meetup/events/dhbgbvykccblb/",
+    "source": "aggregator:meetup",
+    "tags": [
+      "class",
+      "community"
+    ],
+    "price": "Free (buy a drink)",
+    "description": "A relaxed weekly all-Spanish conversation hour for learners and native speakers at a Valencia St cafe. There's no cover. Newcomers are told to arrive around 6:30pm and ask at the counter for the group.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 12,
+    "added": "2026-11-04",
+    "id": "la-hora-feliz-friday-spanish-conversation-meetup-1cf5a60e"
+  },
+  {
     "title": "2001: A Space Odyssey in 70mm",
     "start": "2027-01-08T20:00:00-08:00",
     "end": null,
@@ -4713,6 +5194,25 @@
     "cycle_minutes": 17,
     "added": "2026-10-30",
     "id": "2001-a-space-odyssey-in-70mm-6eb7e131"
+  },
+  {
+    "title": "SF City Guides free walking tour: Welcome to San Francisco (for newcomers)",
+    "start": "2027-01-09T09:30:00-08:00",
+    "end": "2027-01-09T11:30:00-08:00",
+    "venue": "Harry Bridges Plaza (across from the Ferry Building)",
+    "address": "The Embarcadero at Market St, San Francisco, CA 94111",
+    "url": "https://www.sfcityguides.org/find-your-tour/?visit=2027-01-09",
+    "source": "venue:sf-city-guides",
+    "tags": [
+      "outdoors",
+      "community"
+    ],
+    "price": "Free (donations welcome)",
+    "description": "A volunteer-led two-hour introductory walk designed for people new to the city. It goes from the Ferry Building to North Beach, covering the Gold Rush, cable cars, the 1906 quake, counterculture and food culture, and ends near North Beach cafes.",
+    "neighbourhood": "Embarcadero",
+    "cycle_minutes": 5,
+    "added": "2026-11-04",
+    "id": "sf-city-guides-free-walking-tour-welcome-to-san-francisco-fo-4a4cd4a7"
   },
   {
     "title": "Anna von Hausswolff with KatzPascale",
@@ -4750,6 +5250,25 @@
     "cycle_minutes": 30,
     "added": "2026-10-30",
     "id": "lindy-in-the-park-free-swing-dancing-beginner-lesson-d985a5fa"
+  },
+  {
+    "title": "SF City Guides free walking tour: Embarcadero South, A Turbulent Port",
+    "start": "2027-01-10T11:00:00-08:00",
+    "end": "2027-01-10T13:00:00-08:00",
+    "venue": "Mission & Steuart Streets, by Rincon Center (meeting point)",
+    "address": "Mission St & Steuart St, San Francisco, CA 94105",
+    "url": "https://www.sfcityguides.org/find-your-tour/?visit=2027-01-10",
+    "source": "venue:sf-city-guides",
+    "tags": [
+      "outdoors",
+      "community"
+    ],
+    "price": "Free (donations welcome)",
+    "description": "A free two-hour waterfront history walk starting a few blocks from home. It covers the 150-year-old seawall, the Hills Bros. Coffee building, Rincon Annex and the 1934 longshore strike memorials, on the stretch where the Embarcadero Freeway once stood.",
+    "neighbourhood": "SoMa",
+    "cycle_minutes": 3,
+    "added": "2026-11-04",
+    "id": "sf-city-guides-free-walking-tour-embarcadero-south-a-turbule-c41e5135"
   },
   {
     "title": "Nora Brown with Stephanie Coleman",
@@ -4882,6 +5401,26 @@
     "cycle_minutes": 9,
     "added": "2026-10-31",
     "id": "the-16th-annual-bowie-bash-night-2-band-picks-e9b70c31"
+  },
+  {
+    "title": "Laser cutter safety training at Noisebridge",
+    "start": "2027-01-17T14:00:00-08:00",
+    "end": "2027-01-17T16:00:00-08:00",
+    "venue": "Noisebridge hackerspace",
+    "address": "272 Capp St, San Francisco, CA 94110",
+    "url": "https://www.meetup.com/noisebridge/events/nsftwtykccbwb/",
+    "source": "aggregator:meetup",
+    "tags": [
+      "class",
+      "tech",
+      "workshop"
+    ],
+    "price": "$5 (+$20-30 suggested donation)",
+    "description": "A two-hour hands-on class on the hackerspace's 150W CO2 laser cutter, covering hazards, safe operation and fire response. Everyone cuts a cardboard piece, and it's the prerequisite for using the cutter on your own projects. Seats are limited.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 13,
+    "added": "2026-11-04",
+    "id": "laser-cutter-safety-training-at-noisebridge-798797eb"
   },
   {
     "title": "Mucha Salsa+ social (free beginner class)",
@@ -5047,6 +5586,25 @@
     "cycle_minutes": 13,
     "added": "2026-10-30",
     "id": "fruition-something-more-the-final-tour-with-rainbow-girls-79b0a721"
+  },
+  {
+    "title": "SF City Guides free walking tour: Golden Gate Park, West End",
+    "start": "2027-01-23T10:30:00-08:00",
+    "end": "2027-01-23T12:30:00-08:00",
+    "venue": "North (Dutch) Windmill, Queen Wilhelmina Garden (meeting point)",
+    "address": "JFK Dr at Great Highway, San Francisco, CA 94121",
+    "url": "https://www.sfcityguides.org/find-your-tour/?visit=2027-01-23",
+    "source": "venue:sf-city-guides",
+    "tags": [
+      "outdoors",
+      "community"
+    ],
+    "price": "Free (donations welcome)",
+    "description": "A free volunteer-led walk at the ocean end of Golden Gate Park, from the Dutch Windmill past the Murphy Windmill to the Beach Chalet's 1930s murals. It covers how the sand dunes were turned into parkland and a dune village built from retired cable cars.",
+    "neighbourhood": "Outer Richmond",
+    "cycle_minutes": 45,
+    "added": "2026-11-04",
+    "id": "sf-city-guides-free-walking-tour-golden-gate-park-west-end-bd76448a"
   },
   {
     "title": "The Brothers Comatose",

@@ -1,5 +1,11 @@
 [
   {
+    "ran_at": "2026-11-04T08:30:00-08:00",
+    "added": 29,
+    "considered": 171,
+    "notes": "Part 1: pruned 7; feeds 0 new. Targeted weakest tags (outdoors/market/workshop/class/tech) + thin Dec/Jan days. Scout adds (23): Big Brain cyberattack-resilience talk 11 Nov; SFAA astronomy lecture Randall Museum 18 Nov; Swissnex AI Summit pre-Geneva roundtables w/ Irene Solaiman 19 Nov; 'Nerd Reich' talk w/ Gil Duran (Shaping SF) 2 Dec; Let's Glow SF projection festival opening 4 Dec; SF State Observatory rooftop night 4 Dec (clear skies only); CocuSocial dumplings 4 Dec + pasta 11 Dec; Ocean Beach clean-up 5 Dec; Sunset Holiday Mercantile 5 Dec; Black Holiday Market Ferry Building 12 Dec; Harvey Milk Center craft fair 13 Dec; LPL craft-along 11 Dec; Lands End group hike 20 Dec; Noisebridge Circuit Hacking 21 + 28 Dec + laser training 17 Jan; Board Walks 26 Dec; Presidio ranger walk 27 Dec; Spanish conversation meetup 8 Jan; SF City Guides walks 9/10/23 Jan (incl. 'Welcome to SF' for newcomers). SKIPPED (judge): SFPL Spanish-language candle workshop, SFPL senior-led improv taster. NEW ICS FEED: Big Brain Lectures - Bay Area (cal-oWJafai4qVBegex) — first import kept 6 SF talks (BCI 4 Nov, SF homelessness 5 Nov, psychedelics 9 Nov, 'Do I Want Kids?' 10 Nov, patent trolls 17 Nov, Shakespeare & sustainability 19 Nov), suppressed 4 Oakland/Berkeley/San Jose + 1 duplicate. sources.yaml +6 listings (BayAreaScience, Parks Conservancy, SFAA, Noisebridge, Shaping SF, Spanish meetup). Still thin: 22/25/29 Dec. Blocked: sfbike.org (Cloudflare). Head West market Dec date conflicting — recheck."
+  },
+  {
     "ran_at": "2026-11-03T08:30:00-08:00",
     "added": 28,
     "considered": 150,
