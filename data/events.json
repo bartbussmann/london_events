@@ -511,6 +511,25 @@
     "id": "floating-features-pacific-heights-film-cruise-on-the-bay-9aeff729"
   },
   {
+    "title": "5Rhythms Wild Release (Friday night wave)",
+    "start": "2026-11-06T19:00:00-08:00",
+    "end": "2026-11-06T20:45:00-08:00",
+    "venue": "ABADA-Capoeira San Francisco",
+    "address": "3221 22nd St, San Francisco, CA 94110",
+    "url": "https://momence.com/s/138628743",
+    "source": "listing:5rhythms",
+    "tags": [
+      "dance",
+      "community"
+    ],
+    "price": "$35 drop-in ($20 first class)",
+    "description": "The City Waves' weekly Friday 5Rhythms class: a guided moving meditation through Flowing, Staccato, Chaos, Lyrical and Stillness, with no steps to learn. Arrive by 7pm; doors close at 7:30.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 15,
+    "added": "2026-11-05",
+    "id": "5rhythms-wild-release-friday-night-wave-f8b19ea4"
+  },
+  {
     "title": "San Francisco Leonard Cohen Festival: Poetry & Song",
     "start": "2026-11-06T19:30:00-08:00",
     "end": null,
@@ -849,6 +868,25 @@
     "id": "sf-leonard-cohen-festival-conspiracy-of-beards-daniel-kahn-j-0b93a5fe"
   },
   {
+    "title": "5Rhythms Sweat Your Prayers (Sunday morning)",
+    "start": "2026-11-08T09:00:00-08:00",
+    "end": "2026-11-08T10:45:00-08:00",
+    "venue": "ABADA-Capoeira San Francisco",
+    "address": "3221 22nd St, San Francisco, CA 94110",
+    "url": "https://momence.com/s/138669596",
+    "source": "listing:5rhythms",
+    "tags": [
+      "dance",
+      "community"
+    ],
+    "price": "$35 drop-in ($20 first class)",
+    "description": "The City Waves' Sunday-morning 5Rhythms practice, a sweaty dance meditation with minimal instruction. It's a real Bay Area 5Rhythms class just above Mission St at 22nd. Arrive by 9am.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 15,
+    "added": "2026-11-05",
+    "id": "5rhythms-sweat-your-prayers-sunday-morning-2c6f6a2e"
+  },
+  {
     "title": "MOVEMENT Ecstatic Dance SF // Tasha Rose",
     "start": "2026-11-08T10:00:00-08:00",
     "end": "2026-11-08T13:11:00-08:00",
@@ -905,6 +943,25 @@
     "added": "2026-10-26",
     "neighbourhood": "Mission Bay",
     "cycle_minutes": 10
+  },
+  {
+    "title": "Hello! Bachata & Kizomba Sunday: class + daytime dance party",
+    "start": "2026-11-08T15:00:00-08:00",
+    "end": "2026-11-08T20:30:00-08:00",
+    "venue": "Verdi Club",
+    "address": "2424 Mariposa St, San Francisco, CA 94110",
+    "url": "https://www.eventbrite.com/e/bachata-kizomba-sunday-hello-bachatakizomba-dance-party-and-class-tickets-1968374269427",
+    "source": "aggregator:eventbrite",
+    "tags": [
+      "dance",
+      "class"
+    ],
+    "price": "$19.98",
+    "description": "A daytime bachata and kizomba social with a class, at the Verdi Club ballroom. It's an easy way to meet people and still be home early.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 13,
+    "added": "2026-11-05",
+    "id": "hello-bachata-kizomba-sunday-class-daytime-dance-party-4fb9767a"
   },
   {
     "title": "New Moon Sunset Ocean Dance (silent disco on Ocean Beach)",
@@ -1302,6 +1359,24 @@
     "id": "big-brain-bay-area-keeping-the-lights-on-when-cyberattacks-g-6dd28e20"
   },
   {
+    "title": "2nd Wednesday Balkan Folk Dancing at Ashkenaz",
+    "start": "2026-11-11T19:00:00-08:00",
+    "end": "2026-11-11T22:00:00-08:00",
+    "venue": "Ashkenaz",
+    "address": "1317 San Pablo Ave, Berkeley, CA 94702",
+    "url": "https://www.ashkenaz.com/full-calendar#/events/201934",
+    "source": "venue:ashkenaz",
+    "tags": [
+      "dance",
+      "class"
+    ],
+    "price": "$10",
+    "description": "Ashkenaz's long-running Balkan line and circle dance night (Macedonian, Bulgarian, Romanian, Albanian, Romani). A beginner-friendly lesson at 7pm with Nadav Nur and Susie Shoaf, then open dancing until 10pm, and no partner needed. East Bay: BART to North Berkeley (~25 min from Montgomery), then a ~20 min walk or AC Transit 72.",
+    "neighbourhood": "Berkeley",
+    "added": "2026-11-05",
+    "id": "2nd-wednesday-balkan-folk-dancing-at-ashkenaz-5f3f9035"
+  },
+  {
     "title": "San Francisco Wednesday Contra Dance (beginner lesson 7:30)",
     "start": "2026-11-11T19:30:00-08:00",
     "end": "2026-11-11T22:00:00-08:00",
@@ -1584,6 +1659,25 @@
     "cycle_minutes": 11,
     "added": "2026-10-26",
     "id": "pyramid-dance-ean-golden-11cd6cf1"
+  },
+  {
+    "title": "5Rhythms Wild Release (Friday night wave)",
+    "start": "2026-11-13T19:00:00-08:00",
+    "end": "2026-11-13T20:45:00-08:00",
+    "venue": "ABADA-Capoeira San Francisco",
+    "address": "3221 22nd St, San Francisco, CA 94110",
+    "url": "https://momence.com/s/138993133",
+    "source": "listing:5rhythms",
+    "tags": [
+      "dance",
+      "community"
+    ],
+    "price": "$35 drop-in ($20 first class)",
+    "description": "Weekly Friday 5Rhythms wave in the Mission, taught this week by Alessandro Moruzzi. It's substance-free and barefoot, beginners welcome. Doors close at 7:30pm.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 15,
+    "added": "2026-11-05",
+    "id": "5rhythms-wild-release-friday-night-wave-f06f076d"
   },
   {
     "title": "Janet Thornburg's Cognitive Divine (solo comedy)",
@@ -2354,6 +2448,25 @@
     "id": "john-carroll-kirby-at-the-chapel-14497fef"
   },
   {
+    "title": "Cat's Corner: Wednesday swing dance with the Neil Angelo Band",
+    "start": "2026-11-18T21:00:00-08:00",
+    "end": "2026-11-18T23:30:00-08:00",
+    "venue": "Mabuhay Gardens (Cat's Corner)",
+    "address": "435 Broadway, San Francisco, CA 94133",
+    "url": "https://www.catscornersf.com/",
+    "source": "keyword-search",
+    "tags": [
+      "dance",
+      "music"
+    ],
+    "price": "$15 (incl. 9pm drop-in lesson; $10 before 8:30pm)",
+    "description": "SF's Wednesday-night lindy hop and swing party, now in North Beach. A free 9pm beginner drop-in lesson, then live band dancing until 11:30. It's very social, with lots of partner rotation.",
+    "neighbourhood": "North Beach",
+    "cycle_minutes": 9,
+    "added": "2026-11-05",
+    "id": "cat-s-corner-wednesday-swing-dance-with-the-neil-angelo-band-8da7bd03"
+  },
+  {
     "title": "Exploratorium After Dark: Glow Opening",
     "start": "2026-11-19T18:00:00-08:00",
     "end": "2026-11-19T22:00:00-08:00",
@@ -2783,6 +2896,25 @@
     "cycle_minutes": 27,
     "added": "2026-10-28",
     "id": "fall-holiday-chocolate-salon-and-festival-5e47cead"
+  },
+  {
+    "title": "intergalactic improvisations: dance improv workshop with Bhumi Patel",
+    "start": "2026-11-22T11:30:00-08:00",
+    "end": "2026-11-22T13:15:00-08:00",
+    "venue": "PUSH Dance Company (The Sanctuary)",
+    "address": "447 Minna St, 3rd Floor, San Francisco, CA 94103",
+    "url": "https://www.eventbrite.com/e/intergalactic-improvisations-tickets-2003988846586",
+    "source": "aggregator:eventbrite",
+    "tags": [
+      "dance",
+      "workshop"
+    ],
+    "price": "$12.51-$28.52 sliding scale",
+    "description": "A dance and movement improvisation workshop led by choreographer Bhumi Patel, for curious movers of any background. A near neighbour of contact improv, five minutes from home.",
+    "neighbourhood": "SoMa",
+    "cycle_minutes": 5,
+    "added": "2026-11-05",
+    "id": "intergalactic-improvisations-dance-improv-workshop-with-bhum-90d7c05d"
   },
   {
     "title": "Annalee Newitz in conversation with Soleil Ho: Automatic Noodle",
@@ -3311,6 +3443,44 @@
     "id": "l-rain-with-zayallcaps-and-cole-pulice-5aaa0f46"
   },
   {
+    "title": "Argentine tango intro class at La Pista (SF Tango Mentorship)",
+    "start": "2026-12-02T20:00:00-08:00",
+    "end": "2026-12-02T21:00:00-08:00",
+    "venue": "La Pista Tango School",
+    "address": "3450 3rd St #5H, San Francisco, CA 94124",
+    "url": "https://www.eventbrite.com/e/san-francisco-tango-mentorship-tickets-2001398423561",
+    "source": "aggregator:eventbrite",
+    "tags": [
+      "dance",
+      "class"
+    ],
+    "price": "$44 solo / $66 for two",
+    "description": "A one-off introductory Argentine tango class. Beginners are welcome, and you can come solo or with a partner. It's a low-commitment way to try tango before the Verdi Club milongas.",
+    "neighbourhood": "Bayview",
+    "cycle_minutes": 19,
+    "added": "2026-11-05",
+    "id": "argentine-tango-intro-class-at-la-pista-sf-tango-mentorship-1d49be8a"
+  },
+  {
+    "title": "Cat's Corner: Wednesday swing dance with Benny Amon",
+    "start": "2026-12-02T21:00:00-08:00",
+    "end": "2026-12-02T23:30:00-08:00",
+    "venue": "Mabuhay Gardens (Cat's Corner)",
+    "address": "435 Broadway, San Francisco, CA 94133",
+    "url": "https://www.catscornersf.com/",
+    "source": "keyword-search",
+    "tags": [
+      "dance",
+      "music"
+    ],
+    "price": "$15 (incl. 9pm drop-in lesson; $10 before 8:30pm)",
+    "description": "Live-band lindy hop and swing at Cat's Corner on Broadway. A 9pm drop-in beginner swing lesson, then social dancing to Benny Amon's band.",
+    "neighbourhood": "North Beach",
+    "cycle_minutes": 9,
+    "added": "2026-11-05",
+    "id": "cat-s-corner-wednesday-swing-dance-with-benny-amon-2840afe2"
+  },
+  {
     "title": "Cameron Winter at Carnegie Hall (35mm, late show)",
     "start": "2026-12-02T21:45:00-08:00",
     "end": "2026-12-02T23:00:00-08:00",
@@ -3653,6 +3823,25 @@
     "id": "lindy-in-the-park-free-swing-dancing-beginner-lesson-dc7186a2"
   },
   {
+    "title": "SF Salsa Social: beginner class + salsa & mambo dancing",
+    "start": "2026-12-06T19:00:00-08:00",
+    "end": "2026-12-06T23:30:00-08:00",
+    "venue": "Verdi Club",
+    "address": "2424 Mariposa St, San Francisco, CA 94110",
+    "url": "https://www.eventbrite.com/e/sf-salsa-social-salsa-dancing-lesson-at-verdi-club-san-francisco-tickets-2003023581452",
+    "source": "aggregator:eventbrite",
+    "tags": [
+      "dance",
+      "class"
+    ],
+    "price": "$17-$23.18",
+    "description": "First-Sunday salsa night at the Verdi Club: a beginner class at 7pm, then 100% salsa and mambo social dancing until 11:30.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 13,
+    "added": "2026-11-05",
+    "id": "sf-salsa-social-beginner-class-salsa-mambo-dancing-4704b328"
+  },
+  {
     "title": "Squirrel Nut Zippers: Christmas Caravan 2026",
     "start": "2026-12-06T20:00:00-08:00",
     "end": null,
@@ -3953,6 +4142,25 @@
     "id": "love-potion-crafts-night-craft-along-book-club-732d85fc"
   },
   {
+    "title": "Introduction to Bachata and Salsa (drop-in class)",
+    "start": "2026-12-11T18:00:00-08:00",
+    "end": "2026-12-11T19:00:00-08:00",
+    "venue": "Danzhaus Dance Center",
+    "address": "1275 Connecticut St, San Francisco, CA 94107",
+    "url": "https://www.eventbrite.com/e/introduction-to-bachata-and-salsa-tickets-2001639193711",
+    "source": "aggregator:eventbrite",
+    "tags": [
+      "dance",
+      "class"
+    ],
+    "price": "$28.52",
+    "description": "An hour-long beginner class with easy salsa and bachata steps, no partner or experience required. It's a quick on-ramp before trying the city's salsa and bachata socials.",
+    "neighbourhood": "Potrero Hill",
+    "cycle_minutes": 14,
+    "added": "2026-11-05",
+    "id": "introduction-to-bachata-and-salsa-drop-in-class-95104fa1"
+  },
+  {
     "title": "Lucius",
     "start": "2026-12-11T20:00:00-08:00",
     "end": null,
@@ -4045,6 +4253,25 @@
     "cycle_minutes": 15,
     "added": "2026-10-30",
     "id": "young-women-s-chorus-of-sf-lux-aeterna-carols-by-candlelight-936a9fab"
+  },
+  {
+    "title": "SALSON live salsa + live bachata: Dance Saturdays holiday party",
+    "start": "2026-12-12T19:45:00-08:00",
+    "end": "2026-12-13T01:30:00-08:00",
+    "venue": "Space 550",
+    "address": "550 Barneveld Ave, San Francisco, CA 94124",
+    "url": "https://www.eventbrite.com/e/salson-live-salsa-live-bachata-dance-saturdays-holiday-party-tickets-2002759987034",
+    "source": "aggregator:eventbrite",
+    "tags": [
+      "dance",
+      "music"
+    ],
+    "price": "$21.99-$40",
+    "description": "A holiday party with one big live band playing both salsa and bachata, beginner lessons at 8pm, and three dance rooms on big hardwood floors.",
+    "neighbourhood": "Bayview",
+    "cycle_minutes": 25,
+    "added": "2026-11-05",
+    "id": "salson-live-salsa-live-bachata-dance-saturdays-holiday-party-83970b53"
   },
   {
     "title": "BATS Improv: An Improvised Dickens Musical",
@@ -4402,6 +4629,24 @@
     "id": "tom-seen-foley-s-a-celtic-christmas-af765f70"
   },
   {
+    "title": "East Bay Square Dance: Round Top String Band, caller Evie Ladin",
+    "start": "2026-12-18T19:45:00-08:00",
+    "end": "2026-12-18T22:00:00-08:00",
+    "venue": "Hillside Club",
+    "address": "2286 Cedar St, Berkeley, CA 94709",
+    "url": "https://bacds.org/series/square/east-bay/",
+    "source": "venue:bacds",
+    "tags": [
+      "dance",
+      "music"
+    ],
+    "price": "$6-$25 sliding scale ($20 non-members)",
+    "description": "Pre-solstice old-time square dance with star caller Evie Ladin and the Round Top String Band. A beginner lesson at 7:45, all dances taught, and no partner or experience needed. East Bay: BART to Downtown Berkeley (~25 min from Montgomery), then a ~15 min walk.",
+    "neighbourhood": "Berkeley",
+    "added": "2026-11-05",
+    "id": "east-bay-square-dance-round-top-string-band-caller-evie-ladi-d9b0012e"
+  },
+  {
     "title": "A Cathedral Christmas: Saturday matinee (Grace Cathedral Choir of Men and Boys)",
     "start": "2026-12-19T15:00:00-08:00",
     "end": "2026-12-19T16:30:00-08:00",
@@ -4550,6 +4795,25 @@
     "id": "circuit-hacking-monday-open-electronics-workshop-at-noisebri-7bd205bc"
   },
   {
+    "title": "SalsaCrazy Mondays: holiday salsa lesson + salsa/bachata dancing",
+    "start": "2026-12-21T19:00:00-08:00",
+    "end": "2026-12-21T23:30:00-08:00",
+    "venue": "Neck of the Woods",
+    "address": "406 Clement St, San Francisco, CA 94118",
+    "url": "https://www.eventbrite.com/e/salsa-dance-classes-and-salsa-and-bachata-dancing-salsacrazy-mondays-tickets-1981014383348",
+    "source": "aggregator:eventbrite",
+    "tags": [
+      "dance",
+      "class"
+    ],
+    "price": "$10-$50 ($50 lesson drop-in incl. dancing)",
+    "description": "The last SalsaCrazy Monday of 2026 (closed Dec 28). Doors at 6:30, a beginner salsa lesson at 7pm with no partner needed, intermediate at 8, then salsa and bachata dancing from 9pm. 21+.",
+    "neighbourhood": "Inner Richmond",
+    "cycle_minutes": 27,
+    "added": "2026-11-05",
+    "id": "salsacrazy-mondays-holiday-salsa-lesson-salsa-bachata-dancin-0d9887f2"
+  },
+  {
     "title": "A Brass and Organ Christmas with The Bay Brass",
     "start": "2026-12-21T19:30:00-08:00",
     "end": "2026-12-21T21:00:00-08:00",
@@ -4566,6 +4830,24 @@
     "cycle_minutes": 14,
     "added": "2026-10-29",
     "id": "a-brass-and-organ-christmas-with-the-bay-brass-850db543"
+  },
+  {
+    "title": "Hayes Valley Comedy Night at The Function",
+    "start": "2026-12-22T19:30:00-08:00",
+    "end": "2026-12-22T21:00:00-08:00",
+    "venue": "The Function SF",
+    "address": "1414 Market St, San Francisco, CA 94102",
+    "url": "https://www.eventbrite.com/e/hayes-valley-comedy-night-san-francisco-tickets-1987864577463",
+    "source": "aggregator:eventbrite",
+    "tags": [
+      "comedy"
+    ],
+    "price": "Free with Eventbrite RSVP ($20-$30 at door; 2-drink minimum)",
+    "description": "A 70-90 minute stand-up showcase with 4-5 Bay Area comics at SF's only Black-owned comedy club, on Market at Van Ness. An easy pre-Christmas Tuesday night out.",
+    "neighbourhood": "Civic Center",
+    "cycle_minutes": 8,
+    "added": "2026-11-05",
+    "id": "hayes-valley-comedy-night-at-the-function-dc200657"
   },
   {
     "title": "Woodchopper's Ball: live-band swing night",
@@ -4693,6 +4975,26 @@
     "cycle_minutes": 9,
     "added": "2026-10-30",
     "id": "oakland-interfaith-gospel-choir-christmas-eve-late-show-30a44fb7"
+  },
+  {
+    "title": "San Francisco Critical Mass (Christmas Day ride)",
+    "start": "2026-12-25T18:00:00-08:00",
+    "end": "2026-12-25T21:00:00-08:00",
+    "venue": "Embarcadero Plaza",
+    "address": "1 Market St, San Francisco, CA",
+    "url": "https://sf.funcheap.com/san-francisco-critical-mass-last-friday-of-the-month-19/",
+    "source": "aggregator:funcheap",
+    "tags": [
+      "outdoors",
+      "community",
+      "sport"
+    ],
+    "price": "Free",
+    "description": "SF's famous last-Friday mass bike ride: meet at 6pm at the foot of Market St and roll out around 6:30. It falls on Christmas Day this month, a fun way to get out on the bike with a crowd. (Date from Funcheap's recurring last-Friday listing — Critical Mass has no official schedule.)",
+    "neighbourhood": "Embarcadero",
+    "cycle_minutes": 4,
+    "added": "2026-11-05",
+    "id": "san-francisco-critical-mass-christmas-day-ride-c28a6ca4"
   },
   {
     "title": "Kung Pao Kosher Comedy: Christmas Day cocktail show",
@@ -4861,6 +5163,25 @@
     "id": "man-or-astro-man-with-the-subsonics-9124ba5d"
   },
   {
+    "title": "Bachata Tuesday Class & Social (last Tuesday)",
+    "start": "2026-12-29T19:00:00-08:00",
+    "end": "2026-12-29T23:00:00-08:00",
+    "venue": "Danzhaus Dance Center",
+    "address": "1275 Connecticut St, San Francisco, CA 94107",
+    "url": "https://www.eventbrite.com/e/bachata-tuesday-class-social-tickets-1998925889144",
+    "source": "aggregator:eventbrite",
+    "tags": [
+      "dance",
+      "class"
+    ],
+    "price": "$25 class + social / $10 social only",
+    "description": "A monthly bachata night: a 7pm class (intermediate-leaning) with Bryon & Samm, then social dancing to DJ Thiencito until 11. No partner required.",
+    "neighbourhood": "Potrero Hill",
+    "cycle_minutes": 14,
+    "added": "2026-11-05",
+    "id": "bachata-tuesday-class-social-last-tuesday-73fcfc10"
+  },
+  {
     "title": "Woodchopper's Ball: live-band swing night",
     "start": "2026-12-29T21:00:00-08:00",
     "end": "2026-12-29T23:30:00-08:00",
@@ -5027,6 +5348,44 @@
     "id": "lindy-in-the-park-free-swing-dancing-beginner-lesson-99fb5a59"
   },
   {
+    "title": "SF Salsa Social: beginner class + salsa & mambo dancing",
+    "start": "2027-01-03T19:00:00-08:00",
+    "end": "2027-01-03T23:30:00-08:00",
+    "venue": "Verdi Club",
+    "address": "2424 Mariposa St, San Francisco, CA 94110",
+    "url": "https://www.eventbrite.com/e/sf-salsa-social-salsa-dancing-lesson-at-verdi-club-san-francisco-tickets-2003024345738",
+    "source": "aggregator:eventbrite",
+    "tags": [
+      "dance",
+      "class"
+    ],
+    "price": "$17-$23.18",
+    "description": "New Year's first-Sunday salsa social at the Verdi Club: a beginner class at 7pm, then salsa and mambo dancing until 11:30. A good fresh-start night out.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 13,
+    "added": "2026-11-05",
+    "id": "sf-salsa-social-beginner-class-salsa-mambo-dancing-758db7a0"
+  },
+  {
+    "title": "SalsaCrazy Mondays: salsa lesson + salsa/bachata dancing",
+    "start": "2027-01-04T19:00:00-08:00",
+    "end": "2027-01-04T23:30:00-08:00",
+    "venue": "Neck of the Woods",
+    "address": "406 Clement St, San Francisco, CA 94118",
+    "url": "https://www.eventbrite.com/e/salsa-dance-classes-and-salsa-and-bachata-dancing-salsacrazy-mondays-tickets-1981014385354",
+    "source": "aggregator:eventbrite",
+    "tags": [
+      "dance",
+      "class"
+    ],
+    "price": "$10-$40",
+    "description": "The first SalsaCrazy Monday of 2027 (and the start of the January progressive series). A beginner salsa lesson with no partner needed, then salsa and bachata dancing at a real club. 21+.",
+    "neighbourhood": "Inner Richmond",
+    "cycle_minutes": 27,
+    "added": "2026-11-05",
+    "id": "salsacrazy-mondays-salsa-lesson-salsa-bachata-dancing-201bcbfa"
+  },
+  {
     "title": "Contact Improvisation class + jam at The Castro Room",
     "start": "2027-01-04T19:45:00-08:00",
     "end": "2027-01-04T22:15:00-08:00",
@@ -5063,6 +5422,24 @@
     "cycle_minutes": 13,
     "added": "2026-10-30",
     "id": "woodchopper-s-ball-live-band-swing-night-7f424c8e"
+  },
+  {
+    "title": "Hayes Valley Comedy Night at The Function",
+    "start": "2027-01-06T19:30:00-08:00",
+    "end": "2027-01-06T21:00:00-08:00",
+    "venue": "The Function SF",
+    "address": "1414 Market St, San Francisco, CA 94102",
+    "url": "https://www.eventbrite.com/e/hayes-valley-comedy-night-san-francisco-tickets-1987864584484",
+    "source": "aggregator:eventbrite",
+    "tags": [
+      "comedy"
+    ],
+    "price": "Free with Eventbrite RSVP ($20-$30 at door; 2-drink minimum)",
+    "description": "A midweek stand-up showcase with 4-5 local comics at The Function on Market St.",
+    "neighbourhood": "Civic Center",
+    "cycle_minutes": 8,
+    "added": "2026-11-05",
+    "id": "hayes-valley-comedy-night-at-the-function-db2a9802"
   },
   {
     "title": "Berkeley Wednesday Contra Dance",
@@ -5285,6 +5662,25 @@
     "cycle_minutes": 9,
     "added": "2026-10-30",
     "id": "lsd-and-the-search-for-god-with-cryogeyser-6874123f"
+  },
+  {
+    "title": "Bachata Lab: Friday bachata classes (3 levels) + social",
+    "start": "2027-01-15T20:00:00-08:00",
+    "end": "2027-01-16T01:00:00-08:00",
+    "venue": "Bachata Lab",
+    "address": "1830 17th St, San Francisco, CA 94103",
+    "url": "https://www.eventbrite.com/e/bachata-lab-tickets-1543049064289",
+    "source": "aggregator:eventbrite",
+    "tags": [
+      "dance",
+      "class"
+    ],
+    "price": "from $15",
+    "description": "Weekly Friday bachata (sensual/fusion) with concurrent beginner, intermediate and advanced classes from 8pm, partners rotating every minute. Social dancing runs 9:30pm-1am.",
+    "neighbourhood": "Potrero Hill",
+    "cycle_minutes": 11,
+    "added": "2026-11-05",
+    "id": "bachata-lab-friday-bachata-classes-3-levels-social-966b0c0d"
   },
   {
     "title": "The 16th Annual Bowie Bash",
@@ -5605,6 +6001,25 @@
     "id": "gerald-henig-little-known-and-shocking-revelations-about-ame-e5828c1c"
   },
   {
+    "title": "SalsaCrazy Mondays: salsa lesson + salsa/bachata dancing",
+    "start": "2027-01-25T19:00:00-08:00",
+    "end": "2027-01-25T23:30:00-08:00",
+    "venue": "Neck of the Woods",
+    "address": "406 Clement St, San Francisco, CA 94118",
+    "url": "https://www.eventbrite.com/e/salsa-dance-classes-and-salsa-and-bachata-dancing-salsacrazy-mondays-tickets-1981014388363",
+    "source": "aggregator:eventbrite",
+    "tags": [
+      "dance",
+      "class"
+    ],
+    "price": "$10-$40",
+    "description": "A beginner salsa lesson (no partner or experience required), then salsa and bachata social dancing at the Inner Richmond's long-running Monday dance night. 21+.",
+    "neighbourhood": "Inner Richmond",
+    "cycle_minutes": 27,
+    "added": "2026-11-05",
+    "id": "salsacrazy-mondays-salsa-lesson-salsa-bachata-dancing-ce851bcb"
+  },
+  {
     "title": "Woodchopper's Ball: live-band swing night",
     "start": "2027-01-26T21:00:00-08:00",
     "end": "2027-01-26T23:30:00-08:00",
@@ -5677,6 +6092,25 @@
     "cycle_minutes": 13,
     "added": "2026-10-31",
     "id": "milonga-malevaje-thursday-tango-at-the-verdi-club-674a950c"
+  },
+  {
+    "title": "Bachata Lab: Friday bachata classes (3 levels) + social",
+    "start": "2027-01-29T20:00:00-08:00",
+    "end": "2027-01-30T01:00:00-08:00",
+    "venue": "Bachata Lab",
+    "address": "1830 17th St, San Francisco, CA 94103",
+    "url": "https://www.eventbrite.com/e/bachata-lab-tickets-1543049084349",
+    "source": "aggregator:eventbrite",
+    "tags": [
+      "dance",
+      "class"
+    ],
+    "price": "from $15",
+    "description": "Beginner, intermediate and advanced bachata classes at 8pm with constant partner rotation, then a social until 1am. A very easy place to meet people.",
+    "neighbourhood": "Potrero Hill",
+    "cycle_minutes": 11,
+    "added": "2026-11-05",
+    "id": "bachata-lab-friday-bachata-classes-3-levels-social-f44d7df1"
   },
   {
     "title": "Ty Segall",

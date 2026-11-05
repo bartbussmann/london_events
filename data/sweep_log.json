@@ -1,5 +1,11 @@
 [
   {
+    "ran_at": "2026-11-05T08:30:00-08:00",
+    "added": 23,
+    "considered": 165,
+    "notes": "Part 1: pruned 3; feeds 0 new. DANCE DEEP-DIVE (20 dance + 3 other): 5Rhythms City Waves Wild Release 6 + 13 Nov and Sweat Your Prayers 8 Nov; Hello! Bachata & Kizomba daytime social Verdi Club 8 Nov; Cat's Corner Wednesday swing (9pm lesson, live band, North Beach) 18 Nov + 2 Dec; Ashkenaz Balkan folk dance 11 Nov (East Bay exception); East Bay square dance w/ Evie Ladin 18 Dec (East Bay exception); dance-improv workshop PUSH (SoMa) 22 Nov; La Pista tango intro 2 Dec; SF Salsa Social Verdi Club 6 Dec + 3 Jan; Intro to Bachata & Salsa 11 Dec; SALSON live salsa/bachata holiday party 12 Dec; SalsaCrazy 21 Dec + 4 + 25 Jan; Bachata Tuesday 29 Dec; Bachata Lab Fridays 15 + 29 Jan. Gap-fill: Hayes Valley Comedy 22 Dec + 6 Jan; Critical Mass Christmas Day (Funcheap recurring listing only). JUDGE SKIPS: Dance Fridays Christmas night (auto-generated instance, may not run), Berkeley square dance 20 Nov + Ashkenaz tango 17 Dec (too many East Bay). sources.yaml +4 (City Waves 5Rhythms, Cat's Corner, Ashkenaz, Eventbrite Latin-dance organizer IDs). STILL EMPTY: Wed 13 Jan. NOT YET POSTED: MOVEMENT Dec/Jan, BACDS SF Dec 23/Jan contras, Cat's Corner after 2 Dec. No verifiable SF West Coast Swing social. Blocked: dancersgroup.org, sfsketchfest.com (HTTP/2), verdiclub.net API (resets today), lindylist.com."
+  },
+  {
     "ran_at": "2026-11-04T08:30:00-08:00",
     "added": 29,
     "considered": 171,

@@ -225,6 +225,20 @@ venues:
     url: https://calendar.asianart.org/
     tags: [art, talk]
 
+  # --- dance (more) ---
+  - name: The City Waves — 5Rhythms SF (Fri 7pm Wild Release, Sun 9am Sweat Your Prayers)
+    url: https://www.thecitywaves.com/class-schedule
+    tags: [dance]
+    # ABADA Capoeira, 3221 22nd St; dated sessions via Momence (host 13432), ~2 weeks ahead; $35 drop-in
+  - name: Cat's Corner — Wednesday swing (9pm lesson + live band)
+    url: https://www.catscornersf.com/
+    tags: [dance, music]
+    # Mabuhay Gardens, 435 Broadway; homepage names each date's band
+  - name: Ashkenaz (Berkeley — folk/world dance)
+    url: https://www.ashkenaz.com/full-calendar
+    tags: [dance, music]
+    # East Bay exception: 2nd-Wed Balkan folk dance, 3rd-Thu tango; VenuePilot widget (headless)
+
 listings:
   - name: Funcheap SF
     url: https://sf.funcheap.com/
@@ -342,6 +356,13 @@ listings:
   - name: Spanish conversation meetup (Fridays 6pm, Muddy Waters, Valencia St)
     url: https://www.meetup.com/spanish-language-meetup/
     tags: [community]
+
+  - name: SF Latin dance socials (Eventbrite organizers)
+    url: "https://www.eventbrite.com/api/v3/organizers/8106527232/events/?status=live&order_by=start_asc&expand=venue"
+    tags: [dance, class]
+    # public organizer API, no auth. 8106527232 = SalsaCrazy Mondays + Dance Fridays (Space 550);
+    # 121625335132 = SF Salsa Social (1st Sundays, Verdi Club); 114294925961 = Bachata Lab Fridays;
+    # 4692820393 = Bachata Tuesday (last Tue, Danzhaus)
 
 keywords:
   - "contact improvisation jam San Francisco"
