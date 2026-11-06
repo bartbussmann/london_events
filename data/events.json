@@ -776,6 +776,42 @@
     "id": "sf-leonard-cohen-festival-conspiracy-of-beards-daniel-kahn-j-0b93a5fe"
   },
   {
+    "title": "Hotel Utah Indie Pop Night: Starfish Prime, Charity Kiss, The Online Company",
+    "start": "2026-11-07T20:00:00-08:00",
+    "end": null,
+    "venue": "Hotel Utah Saloon",
+    "address": "500 4th St, San Francisco, CA 94107",
+    "url": "https://wl.seetickets.us/event/starfish-prime-charity-kiss-the-online-company/709755",
+    "source": "venue:hotel-utah",
+    "tags": [
+      "music"
+    ],
+    "price": "$12",
+    "description": "Three local indie-pop bands in the tiny 1908 saloon at 4th & Bryant, the closest music room to home. Cheap, loud and easy to wander into.",
+    "neighbourhood": "SoMa",
+    "cycle_minutes": 4,
+    "added": "2026-11-06",
+    "id": "hotel-utah-indie-pop-night-starfish-prime-charity-kiss-the-o-ed1d2c3e"
+  },
+  {
+    "title": "Alex Cameron with Josh da Costa",
+    "start": "2026-11-07T21:00:00-08:00",
+    "end": null,
+    "venue": "The Chapel",
+    "address": "777 Valencia St, San Francisco, CA 94110",
+    "url": "https://wl.seetickets.us/event/alex-cameron/691429?afflky=TheChapel",
+    "source": "venue:the-chapel",
+    "tags": [
+      "music"
+    ],
+    "price": "$25-$28",
+    "description": "The Australian songwriter's wry, synth-tinged crooner pop in the Chapel's former mortuary hall (folkYEAH! presents). Doors 8pm.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 13,
+    "added": "2026-11-06",
+    "id": "alex-cameron-with-josh-da-costa-10b97d5b"
+  },
+  {
     "title": "5Rhythms Sweat Your Prayers (Sunday morning)",
     "start": "2026-11-08T09:00:00-08:00",
     "end": "2026-11-08T10:45:00-08:00",
@@ -927,6 +963,42 @@
     "cycle_minutes": 17,
     "added": "2026-10-26",
     "id": "arab-film-festival-edward-said-between-worlds-ce673b1f"
+  },
+  {
+    "title": "Tell River + Tom Heyman & The Moonlighters",
+    "start": "2026-11-08T19:00:00-08:00",
+    "end": "2026-11-08T22:00:00-08:00",
+    "venue": "Make-Out Room",
+    "address": "3225 22nd St, San Francisco, CA 94110",
+    "url": "https://www.makeoutroom.com/events/sunday-november-8",
+    "source": "venue:make-out-room",
+    "tags": [
+      "music"
+    ],
+    "price": "$10",
+    "description": "An early Sunday roots/Americana bill at the Make-Out Room, with SF songwriter Tom Heyman's band. Done by 10pm.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 15,
+    "added": "2026-11-06",
+    "id": "tell-river-tom-heyman-the-moonlighters-6f2716cf"
+  },
+  {
+    "title": "Foy Vance with Bonnie Bishop and Ryan McMullan",
+    "start": "2026-11-08T19:00:00-08:00",
+    "end": null,
+    "venue": "Great American Music Hall",
+    "address": "859 O'Farrell St, San Francisco, CA 94109",
+    "url": "https://wl.seetickets.us/event/foy-vance/680313?afflky=GreatAmericanMusicHall",
+    "source": "venue:gamh",
+    "tags": [
+      "music"
+    ],
+    "price": "$40-$51",
+    "description": "Northern Irish singer-songwriter Foy Vance (soulful folk, Ed Sheeran's touring mate) on his world tour, in the ornate GAMH ballroom. Doors 6pm.",
+    "neighbourhood": "Tenderloin",
+    "cycle_minutes": 9,
+    "added": "2026-11-06",
+    "id": "foy-vance-with-bonnie-bishop-and-ryan-mcmullan-1188cd74"
   },
   {
     "title": "The Future of Public Media: PBS CEO Paula Kerger with KQED CEO Michael Isip",
@@ -1626,6 +1698,42 @@
     "id": "the-moth-grandslam-championship-852406e1"
   },
   {
+    "title": "Dos Bandoleros (and friends): rumba flamenca at The Lost Church",
+    "start": "2026-11-13T20:15:00-08:00",
+    "end": "2026-11-13T22:30:00-08:00",
+    "venue": "The Lost Church",
+    "address": "988 Columbus Ave, San Francisco, CA 94133",
+    "url": "https://thelostchurch.my.salesforce-sites.com/ticket#/instances/a0FUh00000C9Jm5MAF",
+    "source": "venue:the-lost-church",
+    "tags": [
+      "music"
+    ],
+    "price": "$20",
+    "description": "Bay Area Spanish-guitar duo playing Gipsy Kings-style rumba flamenca with Latin rhythms, then a second set with guests, in North Beach's listening room. Doors 7:30pm.",
+    "neighbourhood": "North Beach",
+    "cycle_minutes": 13,
+    "added": "2026-11-06",
+    "id": "dos-bandoleros-and-friends-rumba-flamenca-at-the-lost-church-f0b7c4e2"
+  },
+  {
+    "title": "Other Lives with Kelcey Ayer",
+    "start": "2026-11-13T21:00:00-08:00",
+    "end": null,
+    "venue": "The Chapel",
+    "address": "777 Valencia St, San Francisco, CA 94110",
+    "url": "https://wl.seetickets.us/event/other-lives/691433?afflky=TheChapel",
+    "source": "venue:the-chapel",
+    "tags": [
+      "music"
+    ],
+    "price": "$30-$35",
+    "description": "Oklahoma's cinematic indie-folk band, with Local Natives' Kelcey Ayer opening (folkYEAH! presents). Doors 8pm.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 13,
+    "added": "2026-11-06",
+    "id": "other-lives-with-kelcey-ayer-4a881821"
+  },
+  {
     "title": "Fall SF International Tea Festival",
     "start": "2026-11-14T10:00:00-08:00",
     "end": "2026-11-14T17:00:00-08:00",
@@ -1775,6 +1883,24 @@
     "cycle_minutes": 22,
     "added": "2026-11-02",
     "id": "bats-improv-theatresports-f2c44e8e"
+  },
+  {
+    "title": "A Night of Live Local Roots Music: Ben Grant, Magpie, The Spare Keys",
+    "start": "2026-11-14T20:00:00-08:00",
+    "end": null,
+    "venue": "Hotel Utah Saloon",
+    "address": "500 4th St, San Francisco, CA 94107",
+    "url": "https://wl.seetickets.us/event/ben-grant-magpie-the-spare-keys/709740",
+    "source": "venue:hotel-utah",
+    "tags": [
+      "music"
+    ],
+    "price": "$12",
+    "description": "Three local folk/roots acts at the Hotel Utah Saloon, a short walk from home. A cheap Saturday folk night in a historic bar.",
+    "neighbourhood": "SoMa",
+    "cycle_minutes": 4,
+    "added": "2026-11-06",
+    "id": "a-night-of-live-local-roots-music-ben-grant-magpie-the-spare-ea5f10d8"
   },
   {
     "title": "The Cactus Blossoms with Margo Cilker",
@@ -1947,6 +2073,60 @@
     "id": "the-secret-museum-by-lynne-kaufman-with-post-show-talkback-6cb230f6"
   },
   {
+    "title": "Julie Beth Napolin (NYC psych-folk) with Bob Bannister, Aux Meadows, Danny Paul Grody",
+    "start": "2026-11-15T18:30:00-08:00",
+    "end": "2026-11-15T22:00:00-08:00",
+    "venue": "Make-Out Room",
+    "address": "3225 22nd St, San Francisco, CA 94110",
+    "url": "https://www.makeoutroom.com/events/sunday-november-155531650",
+    "source": "venue:make-out-room",
+    "tags": [
+      "music"
+    ],
+    "price": "$15",
+    "description": "An early Sunday bill of psych-folk and guitar soundscapes at the Make-Out Room: Silver Current Records' Julie Beth Napolin plus local guitarist Danny Paul Grody.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 15,
+    "added": "2026-11-06",
+    "id": "julie-beth-napolin-nyc-psych-folk-with-bob-bannister-aux-mea-a0f8cf43"
+  },
+  {
+    "title": "Rodrigo y Gabriela: OurHome Tour",
+    "start": "2026-11-15T19:00:00-08:00",
+    "end": null,
+    "venue": "Castro Theatre",
+    "address": "429 Castro St, San Francisco, CA 94114",
+    "url": "https://thecastro.com/events/rodrigo-y-gabriela-261115",
+    "source": "venue:castro-theatre",
+    "tags": [
+      "music"
+    ],
+    "price": "~$65",
+    "description": "The Grammy-winning Mexican acoustic-guitar duo plays its new album in the restored Castro Theatre. Doors 6pm; price per The List ($64.75), confirm at checkout.",
+    "neighbourhood": "Castro",
+    "cycle_minutes": 17,
+    "added": "2026-11-06",
+    "id": "rodrigo-y-gabriela-ourhome-tour-28d632fc"
+  },
+  {
+    "title": "Kate Nash with Joh Chase",
+    "start": "2026-11-15T20:00:00-08:00",
+    "end": null,
+    "venue": "Swedish American Hall",
+    "address": "2174 Market St (upstairs), San Francisco, CA 94114",
+    "url": "https://cafedunord.com/shows/2026-11-15-kate-nash",
+    "source": "venue:cafe-du-nord",
+    "tags": [
+      "music"
+    ],
+    "price": "$45.81",
+    "description": "The British indie-pop songwriter in the wood-panelled upstairs hall at 2174 Market. Doors 7pm, all ages.",
+    "neighbourhood": "Upper Market",
+    "cycle_minutes": 14,
+    "added": "2026-11-06",
+    "id": "kate-nash-with-joh-chase-34093160"
+  },
+  {
     "title": "Fog of Love learn-and-play night at The Love Potion Library",
     "start": "2026-11-16T18:00:00-08:00",
     "end": "2026-11-16T20:00:00-08:00",
@@ -2111,6 +2291,24 @@
     "added": "2026-11-04",
     "neighbourhood": "Financial District",
     "cycle_minutes": 7
+  },
+  {
+    "title": "Jazz at the Make-Out Room",
+    "start": "2026-11-17T19:00:00-08:00",
+    "end": "2026-11-17T21:30:00-08:00",
+    "venue": "Make-Out Room",
+    "address": "3225 22nd St, San Francisco, CA 94110",
+    "url": "https://www.calendarwiz.com/calendars/calendar.php?crd=makeoutroom&cid[]=all",
+    "source": "venue:make-out-room",
+    "tags": [
+      "music"
+    ],
+    "price": "Free (donations)",
+    "description": "A free Tuesday jazz night in the Mission bar (doors 6pm, music 7pm). An easy weeknight drop-in.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 15,
+    "added": "2026-11-06",
+    "id": "jazz-at-the-make-out-room-a316739f"
   },
   {
     "title": "Silverada with Emily Nenni",
@@ -2637,6 +2835,24 @@
     "id": "a-rashomon-magic-theatre-campo-santo-world-premiere-preview-129faba8"
   },
   {
+    "title": "HUG feat. Gyan Riley, Devendra Banhart, Noah Georgeson (seated)",
+    "start": "2026-11-20T20:00:00-08:00",
+    "end": null,
+    "venue": "Bimbo's 365 Club",
+    "address": "1025 Columbus Ave, San Francisco, CA 94133",
+    "url": "https://bimbos365club.com/tm-event/hug-gyan-riley-devendra-banhart-noah-georgeson/",
+    "source": "venue:bimbos",
+    "tags": [
+      "music"
+    ],
+    "price": "$55-$72",
+    "description": "A fully seated night with HUG, the trio of guitarist Gyan Riley, Devendra Banhart and producer Noah Georgeson, at the retro North Beach supper club. 21+; price per The List.",
+    "neighbourhood": "North Beach",
+    "cycle_minutes": 12,
+    "added": "2026-11-06",
+    "id": "hug-feat-gyan-riley-devendra-banhart-noah-georgeson-seated-13956bc2"
+  },
+  {
     "title": "SF Neo-Futurists: The Infinite Wrench (30 plays in 60 minutes)",
     "start": "2026-11-20T21:00:00-08:00",
     "end": "2026-11-20T22:30:00-08:00",
@@ -2863,6 +3079,25 @@
     "id": "annalee-newitz-in-conversation-with-soleil-ho-automatic-nood-64ebbbf5"
   },
   {
+    "title": "Flamenco Libre (matinee)",
+    "start": "2026-11-22T16:45:00-08:00",
+    "end": "2026-11-22T19:00:00-08:00",
+    "venue": "The Lost Church",
+    "address": "988 Columbus Ave, San Francisco, CA 94133",
+    "url": "https://thelostchurch.my.salesforce-sites.com/ticket#/instances/a0FUh00000DcQhxMAF",
+    "source": "venue:the-lost-church",
+    "tags": [
+      "music",
+      "dance"
+    ],
+    "price": "$25",
+    "description": "Flamenco dance and music with dancers Damien Alvarez and Carola Zertuche (Theatre Flamenco), guitar, cante and cajon, in an intimate North Beach room. Doors 4pm, one intermission.",
+    "neighbourhood": "North Beach",
+    "cycle_minutes": 13,
+    "added": "2026-11-06",
+    "id": "flamenco-libre-matinee-21bab3c2"
+  },
+  {
     "title": "Berkeley Fest Noz: Breton dance party with live band",
     "start": "2026-11-22T18:30:00-08:00",
     "end": "2026-11-22T21:30:00-08:00",
@@ -2990,6 +3225,25 @@
     "cycle_minutes": 20,
     "added": "2026-10-30",
     "id": "sf-history-night-san-francisco-history-association-56315659"
+  },
+  {
+    "title": "Sad Bastard Club: songwriter round-robin hosted by Tom Heyman",
+    "start": "2026-11-24T19:30:00-08:00",
+    "end": "2026-11-24T21:30:00-08:00",
+    "venue": "Make-Out Room",
+    "address": "3225 22nd St, San Francisco, CA 94110",
+    "url": "https://www.calendarwiz.com/calendars/calendar.php?crd=makeoutroom&cid[]=all",
+    "source": "venue:make-out-room",
+    "tags": [
+      "music",
+      "community"
+    ],
+    "price": "Free",
+    "description": "A free Tuesday songwriters' circle at the Make-Out Room, with players trading songs in the round. A low-key folk night and a good way to meet the local scene.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 15,
+    "added": "2026-11-06",
+    "id": "sad-bastard-club-songwriter-round-robin-hosted-by-tom-heyman-93daac37"
   },
   {
     "title": "Woodchopper's Ball: live-band swing night",
@@ -3539,6 +3793,24 @@
     "id": "greg-fitzsimmons-a57f92c4"
   },
   {
+    "title": "Elijah Fox Trio (with Myles Martin and Solo Smith)",
+    "start": "2026-12-03T20:00:00-08:00",
+    "end": null,
+    "venue": "Swedish American Hall",
+    "address": "2174 Market St (upstairs), San Francisco, CA 94114",
+    "url": "https://cafedunord.com/shows/2026-12-03-elijah-fox",
+    "source": "venue:cafe-du-nord",
+    "tags": [
+      "music"
+    ],
+    "price": "$37.06",
+    "description": "Jazz-leaning pianist and songwriter Elijah Fox brings his trio to the Swedish American Hall. Doors 7pm, 21+.",
+    "neighbourhood": "Upper Market",
+    "cycle_minutes": 14,
+    "added": "2026-11-06",
+    "id": "elijah-fox-trio-with-myles-martin-and-solo-smith-d97595fc"
+  },
+  {
     "title": "Let's Glow SF opening night: free holiday projection-art festival",
     "start": "2026-12-04T18:00:00-08:00",
     "end": "2026-12-04T22:00:00-08:00",
@@ -3747,6 +4019,24 @@
     "cycle_minutes": 30,
     "added": "2026-10-29",
     "id": "lindy-in-the-park-free-swing-dancing-beginner-lesson-dc7186a2"
+  },
+  {
+    "title": "Zorn / Medeski / Lombardo: Awakening Ground (matinee)",
+    "start": "2026-12-06T16:00:00-08:00",
+    "end": null,
+    "venue": "Great American Music Hall",
+    "address": "859 O'Farrell St, San Francisco, CA 94109",
+    "url": "https://wl.seetickets.us/event/zorn-medeski-lombardo-awakening-ground-matinee/694421?afflky=GreatAmericanMusicHall",
+    "source": "venue:gamh",
+    "tags": [
+      "music"
+    ],
+    "price": "$67.30",
+    "description": "John Zorn's sax, John Medeski's organ and Dave Lombardo's drums: a rare Sunday-afternoon set of loud improvised avant-jazz. Doors 3pm.",
+    "neighbourhood": "Tenderloin",
+    "cycle_minutes": 9,
+    "added": "2026-11-06",
+    "id": "zorn-medeski-lombardo-awakening-ground-matinee-e80e74b6"
   },
   {
     "title": "SF Salsa Social: beginner class + salsa & mambo dancing",
@@ -4240,6 +4530,24 @@
     "id": "harvey-milk-center-for-the-arts-holiday-craft-fair-a0ce5050"
   },
   {
+    "title": "eggcorn, Meredith Edgar, Minor Birds (Sunday afternoon show)",
+    "start": "2026-12-13T13:30:00-08:00",
+    "end": null,
+    "venue": "Bottom of the Hill",
+    "address": "1233 17th St, San Francisco, CA 94107",
+    "url": "http://www.bottomofthehill.com/20261213A.html",
+    "source": "venue:bottom-of-the-hill",
+    "tags": [
+      "music"
+    ],
+    "price": "$15 ($19.81 adv incl. fees)",
+    "description": "A Sunday matinee of chamber folk, dark-jazz Americana and symphonic folk-rock at Bottom of the Hill, during its owners' farewell season. Doors 1pm, 21+.",
+    "neighbourhood": "Potrero Hill",
+    "cycle_minutes": 12,
+    "added": "2026-11-06",
+    "id": "eggcorn-meredith-edgar-minor-birds-sunday-afternoon-show-8a325813"
+  },
+  {
     "title": "Susanna Kwan: Awake in the Floating City, with Becca Prowda",
     "start": "2026-12-13T14:00:00-08:00",
     "end": "2026-12-13T15:30:00-08:00",
@@ -4311,6 +4619,24 @@
     "cycle_minutes": 10,
     "added": "2026-10-30",
     "id": "a-tribute-to-the-life-and-writing-of-pierre-joris-e613cdf5"
+  },
+  {
+    "title": "Willi Carlisle: The Universal Bubba Tour, with Amelia Day",
+    "start": "2026-12-14T20:00:00-08:00",
+    "end": null,
+    "venue": "The Independent",
+    "address": "628 Divisadero St, San Francisco, CA 94117",
+    "url": "https://www.theindependentsf.com/tm-event/willi-carlisle-2/",
+    "source": "venue:the-independent",
+    "tags": [
+      "music"
+    ],
+    "price": null,
+    "description": "The Ozarks folksinger and storyteller tours his new Tyler Childers-produced double album of old-time, Cajun and Americana. Doors 7:30pm, all ages.",
+    "neighbourhood": "NoPa",
+    "cycle_minutes": 18,
+    "added": "2026-11-06",
+    "id": "willi-carlisle-the-universal-bubba-tour-with-amelia-day-74a464a1"
   },
   {
     "title": "The Quantum Threat: What Happens When Our Digital Locks Stop Working?",
@@ -4515,6 +4841,24 @@
     "cycle_minutes": 12,
     "added": "2026-10-29",
     "id": "christopher-owens-94a88f51"
+  },
+  {
+    "title": "Deep Thicket Dwellers album release, with Scott Gates",
+    "start": "2026-12-17T20:15:00-08:00",
+    "end": "2026-12-17T22:00:00-08:00",
+    "venue": "The Lost Church",
+    "address": "988 Columbus Ave, San Francisco, CA 94133",
+    "url": "https://thelostchurch.my.salesforce-sites.com/ticket#/instances/a0FUh00000E71H3MAJ",
+    "source": "venue:the-lost-church",
+    "tags": [
+      "music"
+    ],
+    "price": "$20 ($17 early-bird)",
+    "description": "An Oakland fiddle-led string band (bluegrass, old-time, gypsy jazz) celebrates its first studio album, with mandolinist Scott Gates. Doors 7:30pm.",
+    "neighbourhood": "North Beach",
+    "cycle_minutes": 13,
+    "added": "2026-11-06",
+    "id": "deep-thicket-dwellers-album-release-with-scott-gates-a0829bde"
   },
   {
     "title": "Soulful Joy (Christmas at Grace Cathedral)",
@@ -5478,6 +5822,24 @@
     "id": "anna-von-hausswolff-with-katzpascale-ee738c65"
   },
   {
+    "title": "Swirlies with Seko",
+    "start": "2027-01-09T20:00:00-08:00",
+    "end": null,
+    "venue": "The Chapel",
+    "address": "777 Valencia St, San Francisco, CA 94110",
+    "url": "https://wl.seetickets.us/event/swirlies/706410?afflky=TheChapel",
+    "source": "venue:the-chapel",
+    "tags": [
+      "music"
+    ],
+    "price": "$32-$35",
+    "description": "The Boston shoegaze and indie-rock cult band at the Chapel (folkYEAH! presents). Doors 7pm.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 13,
+    "added": "2026-11-06",
+    "id": "swirlies-with-seko-69025660"
+  },
+  {
     "title": "Lindy in the Park: free swing dancing + beginner lesson",
     "start": "2027-01-10T11:00:00-08:00",
     "end": "2027-01-10T14:00:00-08:00",
@@ -5946,6 +6308,24 @@
     "id": "salsacrazy-mondays-salsa-lesson-salsa-bachata-dancing-ce851bcb"
   },
   {
+    "title": "Bebel Gilberto: 25 Years of Tanto Tempo",
+    "start": "2027-01-25T20:00:00-08:00",
+    "end": null,
+    "venue": "Bimbo's 365 Club",
+    "address": "1025 Columbus Ave, San Francisco, CA 94133",
+    "url": "https://bimbos365club.com/tm-event/bebel-gilberto-25-years-of-tanto-tempo/",
+    "source": "venue:bimbos",
+    "tags": [
+      "music"
+    ],
+    "price": null,
+    "description": "The Brazilian singer marks 25 years of her electronic bossa-nova classic Tanto Tempo. Doors 7pm, 21+; on sale Fri 11/6.",
+    "neighbourhood": "North Beach",
+    "cycle_minutes": 12,
+    "added": "2026-11-06",
+    "id": "bebel-gilberto-25-years-of-tanto-tempo-a156d95c"
+  },
+  {
     "title": "Woodchopper's Ball: live-band swing night",
     "start": "2027-01-26T21:00:00-08:00",
     "end": "2027-01-26T23:30:00-08:00",
@@ -6092,5 +6472,432 @@
     "cycle_minutes": 30,
     "added": "2026-10-31",
     "id": "lindy-in-the-park-free-swing-dancing-beginner-lesson-1e26935e"
+  },
+  {
+    "title": "Vansire with Eliza McLamb",
+    "start": "2027-02-01T20:00:00-08:00",
+    "end": null,
+    "venue": "Bimbo's 365 Club",
+    "address": "1025 Columbus Ave, San Francisco, CA 94133",
+    "url": "https://bimbos365club.com/tm-event/vansire/",
+    "source": "venue:bimbos",
+    "tags": [
+      "music"
+    ],
+    "price": "~$41",
+    "description": "The Minnesota dream-pop duo Vansire, with indie songwriter Eliza McLamb, at Bimbo's. Doors 7pm, all ages; price per The List.",
+    "neighbourhood": "North Beach",
+    "cycle_minutes": 12,
+    "added": "2026-11-06",
+    "id": "vansire-with-eliza-mclamb-a70cbeff"
+  },
+  {
+    "title": "Woodchopper's Ball: live-band swing night",
+    "start": "2027-02-02T21:00:00-08:00",
+    "end": "2027-02-02T23:30:00-08:00",
+    "venue": "Verdi Club",
+    "address": "2424 Mariposa St, San Francisco, CA 94110",
+    "url": "https://www.verdiclub.net/events/the-woodchoppers-ball-42-3-2/2027-02-02/",
+    "source": "venue:verdi-club",
+    "tags": [
+      "dance",
+      "music"
+    ],
+    "price": "$20",
+    "description": "The weekly Tuesday live-band swing dance on the Verdi Club's 2,500 sq ft floor. The drop-in beginner lesson at 9pm is included and no partner is needed.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 13,
+    "added": "2026-11-06",
+    "id": "woodchopper-s-ball-live-band-swing-night-a2aca028"
+  },
+  {
+    "title": "Cécile McLorin Salvant",
+    "start": "2027-02-04T19:30:00-08:00",
+    "end": null,
+    "venue": "SFJAZZ Center, Miner Auditorium",
+    "address": "201 Franklin St, San Francisco, CA 94102",
+    "url": "https://www.sfjazz.org/tickets/productions/26-27/cecile-mclorin-salvant/",
+    "source": "venue:sfjazz",
+    "tags": [
+      "music"
+    ],
+    "price": "$50-$155",
+    "description": "The Grammy-winning jazz vocalist opens a four-night SFJAZZ run (Feb 4-7). The cheapest seats ($50) fit the budget.",
+    "neighbourhood": "Hayes Valley",
+    "cycle_minutes": 11,
+    "added": "2026-11-06",
+    "id": "c-cile-mclorin-salvant-4edacc80"
+  },
+  {
+    "title": "SF Salsa Social: beginner class + salsa & mambo dancing",
+    "start": "2027-02-07T19:00:00-08:00",
+    "end": null,
+    "venue": "Verdi Club",
+    "address": "2424 Mariposa St, San Francisco, CA 94110",
+    "url": "https://www.eventbrite.com/e/sf-salsa-social-salsa-dancing-lesson-at-verdi-club-san-francisco-tickets-2003025044829",
+    "source": "aggregator:eventbrite",
+    "tags": [
+      "dance",
+      "class"
+    ],
+    "price": "$17-$23.18",
+    "description": "The first-Sunday salsa night at the Verdi Club: a beginner class at 7pm, then salsa and mambo social dancing. Easy to come solo.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 13,
+    "added": "2026-11-06",
+    "id": "sf-salsa-social-beginner-class-salsa-mambo-dancing-80acbaac"
+  },
+  {
+    "title": "Fat Tuesday Celebration with Rebirth Brass Band",
+    "start": "2027-02-09T20:00:00-08:00",
+    "end": null,
+    "venue": "The Chapel",
+    "address": "777 Valencia St, San Francisco, CA 94110",
+    "url": "https://wl.seetickets.us/event/fat-tuesday-celebration-with-rebirth-brass-band/701503?afflky=TheChapel",
+    "source": "venue:the-chapel",
+    "tags": [
+      "music",
+      "festival"
+    ],
+    "price": "$48-$53",
+    "description": "New Orleans' Rebirth Brass Band plays Mardi Gras night, with NOLA food and drink specials and the East Bay Brass Band in the Curio bar. Doors 7pm.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 13,
+    "added": "2026-11-06",
+    "id": "fat-tuesday-celebration-with-rebirth-brass-band-10712cbe"
+  },
+  {
+    "title": "16th Annual Salsa Rueda Festival",
+    "start": "2027-02-11T18:00:00-08:00",
+    "end": "2027-02-14T23:59:00-08:00",
+    "venue": "Grand Hyatt San Francisco",
+    "address": "345 Stockton St, San Francisco, CA 94108",
+    "url": "https://www.eventbrite.com/e/the-16th-annual-salsa-rueda-festival-in-san-francisco-feb-11-feb-14-2027-registration-2000233871354",
+    "source": "aggregator:eventbrite",
+    "tags": [
+      "dance",
+      "festival",
+      "class"
+    ],
+    "price": "From $44.52 (passes up to $535)",
+    "description": "A four-day Cuban salsa and rueda festival (Thu-Sun) with 60+ workshops, a beginner bootcamp and nightly parties with bands and DJs. Buy a party pass to keep within budget.",
+    "neighbourhood": "Union Square",
+    "cycle_minutes": 7,
+    "added": "2026-11-06",
+    "id": "16th-annual-salsa-rueda-festival-07480f94"
+  },
+  {
+    "title": "Milonga Malevaje (Thursday tango at the Verdi Club)",
+    "start": "2027-02-11T20:00:00-08:00",
+    "end": "2027-02-11T23:30:00-08:00",
+    "venue": "Verdi Club",
+    "address": "2424 Mariposa St, San Francisco, CA 94110",
+    "url": "https://www.verdiclub.net/events/milonga-malevaje-78-2-2-2-2/2027-02-11/",
+    "source": "venue:verdi-club",
+    "tags": [
+      "dance"
+    ],
+    "price": "$20",
+    "description": "The weekly Argentine tango milonga on the Verdi Club's historic floor, a good night to watch and meet the local tango scene.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 13,
+    "added": "2026-11-06",
+    "id": "milonga-malevaje-thursday-tango-at-the-verdi-club-991bf8af"
+  },
+  {
+    "title": "Lael Neale with Spacemoth (solo)",
+    "start": "2027-02-12T20:30:00-08:00",
+    "end": null,
+    "venue": "The Chapel",
+    "address": "777 Valencia St, San Francisco, CA 94110",
+    "url": "https://wl.seetickets.us/event/lael-neale/707903?afflky=TheChapel",
+    "source": "venue:the-chapel",
+    "tags": [
+      "music"
+    ],
+    "price": "$22-$25",
+    "description": "Sub Pop's Lael Neale plays her hypnotic, omnichord-driven indie folk (folkYEAH! presents). Doors 7:30pm.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 13,
+    "added": "2026-11-06",
+    "id": "lael-neale-with-spacemoth-solo-5ea3da75"
+  },
+  {
+    "title": "Richard Thompson & Band with Clayton Linthicum and Quinn Bachand",
+    "start": "2027-02-13T20:00:00-08:00",
+    "end": null,
+    "venue": "Castro Theatre",
+    "address": "429 Castro St, San Francisco, CA 94114",
+    "url": "https://thecastro.com/events/richard-thompson-270213",
+    "source": "venue:castro-theatre",
+    "tags": [
+      "music"
+    ],
+    "price": "From ~$54",
+    "description": "The Fairport Convention co-founder and British folk-rock guitar legend plays a seated show with his band. Doors 7pm; price per The List.",
+    "neighbourhood": "Castro",
+    "cycle_minutes": 17,
+    "added": "2026-11-06",
+    "id": "richard-thompson-band-with-clayton-linthicum-and-quinn-bacha-fcb9ecbb"
+  },
+  {
+    "title": "Lindy in the Park: free swing dancing + beginner lesson (Valentine's Day)",
+    "start": "2027-02-14T11:00:00-08:00",
+    "end": "2027-02-14T14:00:00-08:00",
+    "venue": "Golden Gate Park, JFK Drive (8th-10th Ave)",
+    "address": "JFK Dr between 8th & 10th Ave (behind the de Young), San Francisco, CA",
+    "url": "https://lindyinthepark.com/about/",
+    "source": "venue:lindy-in-the-park",
+    "tags": [
+      "dance",
+      "outdoors"
+    ],
+    "price": "Free",
+    "description": "Free outdoor swing dancing every Sunday since 1996 on car-free JFK Drive, with a free beginner lesson at noon. No partner needed; weather permitting.",
+    "neighbourhood": "Golden Gate Park",
+    "cycle_minutes": 30,
+    "added": "2026-11-06",
+    "id": "lindy-in-the-park-free-swing-dancing-beginner-lesson-valenti-cade29ff"
+  },
+  {
+    "title": "Hello! Bachata & Kizomba Sunday (Valentine's Day)",
+    "start": "2027-02-14T15:00:00-08:00",
+    "end": "2027-02-14T20:30:00-08:00",
+    "venue": "Verdi Club",
+    "address": "2424 Mariposa St, San Francisco, CA 94110",
+    "url": "https://www.verdiclub.net/events/hello-bachata-11-2/2027-02-14/",
+    "source": "venue:verdi-club",
+    "tags": [
+      "dance"
+    ],
+    "price": "$17 (Venmo) / $20 cash",
+    "description": "A daytime bachata social (and kizomba upstairs) on the Verdi Club's two floors on Valentine's Day. Social, easy to join solo, and over by evening.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 13,
+    "added": "2026-11-06",
+    "id": "hello-bachata-kizomba-sunday-valentine-s-day-4f204a71"
+  },
+  {
+    "title": "Jess Williamson with Andrew Sa (Noise Pop 2027)",
+    "start": "2027-02-18T20:00:00-08:00",
+    "end": null,
+    "venue": "Great American Music Hall",
+    "address": "859 O'Farrell St, San Francisco, CA 94109",
+    "url": "https://wl.seetickets.us/event/jess-williamson/707156?afflky=GreatAmericanMusicHall",
+    "source": "venue:gamh",
+    "tags": [
+      "music",
+      "festival"
+    ],
+    "price": "$35.39",
+    "description": "The Texan singer-songwriter's country-tinged indie folk, on the opening night of Noise Pop 2027 (Feb 18-28). Doors 7pm.",
+    "neighbourhood": "Tenderloin",
+    "cycle_minutes": 9,
+    "added": "2026-11-06",
+    "id": "jess-williamson-with-andrew-sa-noise-pop-2027-f7ac9e71"
+  },
+  {
+    "title": "Fink with Maggie Koerner",
+    "start": "2027-02-19T21:00:00-08:00",
+    "end": null,
+    "venue": "The Independent",
+    "address": "628 Divisadero St, San Francisco, CA 94117",
+    "url": "https://www.theindependentsf.com/tm-event/fink/",
+    "source": "venue:the-independent",
+    "tags": [
+      "music"
+    ],
+    "price": "~$38",
+    "description": "Fin Greenall's Fink plays his 1974-style folk album The City Is Coming to Erase It All, with New Orleans singer Maggie Koerner. Doors 8:30pm; price per The List.",
+    "neighbourhood": "NoPa",
+    "cycle_minutes": 18,
+    "added": "2026-11-06",
+    "id": "fink-with-maggie-koerner-c56a17fa"
+  },
+  {
+    "title": "San Francisco Chinese New Year Parade (Year of the Ram)",
+    "start": "2027-02-20T17:15:00-08:00",
+    "end": null,
+    "venue": "Parade route from 2nd & Market St",
+    "address": "Second St & Market St, San Francisco, CA 94105",
+    "url": "https://chineseparade.com/tickets/",
+    "source": "keyword-search",
+    "tags": [
+      "festival",
+      "community"
+    ],
+    "price": "Free (bleacher seats ticketed)",
+    "description": "The big Lunar New Year night parade of dragons, lion dancers, floats and drummers, stepping off at 2nd & Market a few minutes from home. Chinatown's Community Street Fair runs the same weekend (Sat-Sun Feb 20-21) on Grant Ave.",
+    "neighbourhood": "FiDi",
+    "cycle_minutes": 3,
+    "added": "2026-11-06",
+    "id": "san-francisco-chinese-new-year-parade-year-of-the-ram-c64dce24"
+  },
+  {
+    "title": "Mucha Salsa+ social (free beginner class)",
+    "start": "2027-02-21T18:30:00-08:00",
+    "end": "2027-02-21T23:00:00-08:00",
+    "venue": "Verdi Club",
+    "address": "2424 Mariposa St, San Francisco, CA 94110",
+    "url": "https://www.verdiclub.net/events/mucha-salsa-5-2/2027-02-21/",
+    "source": "venue:verdi-club",
+    "tags": [
+      "dance",
+      "class"
+    ],
+    "price": "$15",
+    "description": "A not-for-profit Sunday salsa social at the Verdi Club. Beginner and intermediate classes run 7-8pm and are included, then DJ social dancing until 11:30pm.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 13,
+    "added": "2026-11-06",
+    "id": "mucha-salsa-social-free-beginner-class-1e648ee9"
+  },
+  {
+    "title": "Cut Worms (solo) (Noise Pop 2027)",
+    "start": "2027-02-22T20:00:00-08:00",
+    "end": null,
+    "venue": "Swedish American Hall",
+    "address": "2174 Market St (upstairs), San Francisco, CA 94114",
+    "url": "https://www.noisepop.com/",
+    "source": "listing:noise-pop",
+    "tags": [
+      "music",
+      "festival"
+    ],
+    "price": null,
+    "description": "Max Clarke's Cut Worms plays a solo set of Everly Brothers-flavoured indie folk-pop in the Swedish American Hall, as part of Noise Pop 2027.",
+    "neighbourhood": "Upper Market",
+    "cycle_minutes": 14,
+    "added": "2026-11-06",
+    "id": "cut-worms-solo-noise-pop-2027-61ac35ee"
+  },
+  {
+    "title": "Sylvie",
+    "start": "2027-02-23T20:00:00-08:00",
+    "end": null,
+    "venue": "The Chapel",
+    "address": "777 Valencia St, San Francisco, CA 94110",
+    "url": "https://wl.seetickets.us/event/sylvie/710246?afflky=TheChapel",
+    "source": "venue:the-chapel",
+    "tags": [
+      "music"
+    ],
+    "price": "$22-$27",
+    "description": "LA band Sylvie's warm, '70s-style Laurel Canyon soft rock and folk (folkYEAH! presents). Doors 7pm, all ages.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 13,
+    "added": "2026-11-06",
+    "id": "sylvie-b1bee222"
+  },
+  {
+    "title": "Deerhoof with Earthball and Gumby's Junk",
+    "start": "2027-02-24T20:00:00-08:00",
+    "end": null,
+    "venue": "Great American Music Hall",
+    "address": "859 O'Farrell St, San Francisco, CA 94109",
+    "url": "https://wl.seetickets.us/event/deerhoof/707721?afflky=GreatAmericanMusicHall",
+    "source": "venue:gamh",
+    "tags": [
+      "music"
+    ],
+    "price": "$39.14",
+    "description": "SF-born art-rock band Deerhoof plays a hometown show at the Great American Music Hall. Doors 7pm.",
+    "neighbourhood": "Tenderloin",
+    "cycle_minutes": 9,
+    "added": "2026-11-06",
+    "id": "deerhoof-with-earthball-and-gumby-s-junk-267abd0c"
+  },
+  {
+    "title": "Timnit Gebru: The Rise of AI and the Radicalization of a Tech Idealist",
+    "start": "2027-02-25T19:00:00-08:00",
+    "end": null,
+    "venue": "Commonwealth Club World Affairs",
+    "address": "110 The Embarcadero, San Francisco, CA 94105",
+    "url": "https://www.commonwealthclub.org/events/2027-02-25/timnit-gebru-rise-ai-and-radicalization-tech-idealist",
+    "source": "venue:commonwealth-club",
+    "tags": [
+      "talk",
+      "tech"
+    ],
+    "price": "$25 ($55 with book)",
+    "description": "The AI-ethics researcher, who left Google's Ethical AI team after warning about large language models, talks about her career and the AI industry. Doors 6:30pm.",
+    "neighbourhood": "Embarcadero",
+    "cycle_minutes": 5,
+    "added": "2026-11-06",
+    "id": "timnit-gebru-the-rise-of-ai-and-the-radicalization-of-a-tech-27ab1685"
+  },
+  {
+    "title": "Asaf Avidan: Into the Great Abyss solo tour",
+    "start": "2027-02-25T20:00:00-08:00",
+    "end": null,
+    "venue": "The Independent",
+    "address": "628 Divisadero St, San Francisco, CA 94117",
+    "url": "https://www.theindependentsf.com/tm-event/asaf-avidan/",
+    "source": "venue:the-independent",
+    "tags": [
+      "music"
+    ],
+    "price": null,
+    "description": "The gravel-voiced Israeli singer-songwriter plays a solo show of folk, blues and jazz-tinged songs. Doors 7:30pm, all ages.",
+    "neighbourhood": "NoPa",
+    "cycle_minutes": 18,
+    "added": "2026-11-06",
+    "id": "asaf-avidan-into-the-great-abyss-solo-tour-9198d3b4"
+  },
+  {
+    "title": "Here We Go Magic: 15th Anniversary of A Different Ship (Noise Pop 2027)",
+    "start": "2027-02-26T20:00:00-08:00",
+    "end": null,
+    "venue": "Great American Music Hall",
+    "address": "859 O'Farrell St, San Francisco, CA 94109",
+    "url": "https://wl.seetickets.us/event/here-we-go-magic-15th-anniversary-of-a-different-ship/708437?afflky=GreatAmericanMusicHall",
+    "source": "venue:gamh",
+    "tags": [
+      "music",
+      "festival"
+    ],
+    "price": "$44.24",
+    "description": "Luke Temple's Brooklyn indie band revisits its Nigel Godrich-produced album A Different Ship, as part of Noise Pop. Doors 7pm.",
+    "neighbourhood": "Tenderloin",
+    "cycle_minutes": 9,
+    "added": "2026-11-06",
+    "id": "here-we-go-magic-15th-anniversary-of-a-different-ship-noise--f0a2a7e3"
+  },
+  {
+    "title": "Upswing Series: Tyreek McDole / Isaiah Collier",
+    "start": "2027-02-27T19:00:00-08:00",
+    "end": null,
+    "venue": "SFJAZZ Center, Miner Auditorium",
+    "address": "201 Franklin St, San Francisco, CA 94102",
+    "url": "https://www.sfjazz.org/tickets/productions/26-27/tyreek-mcdole-isaiah-collier/",
+    "source": "venue:sfjazz",
+    "tags": [
+      "music"
+    ],
+    "price": "$45-$95",
+    "description": "A double bill in Terence Blanchard's rising-stars series: vocalist Tyreek McDole and spiritual-jazz saxophonist Isaiah Collier.",
+    "neighbourhood": "Hayes Valley",
+    "cycle_minutes": 11,
+    "added": "2026-11-06",
+    "id": "upswing-series-tyreek-mcdole-isaiah-collier-5013876e"
+  },
+  {
+    "title": "Caroline Rose: Uncle Carol's World of Fun Tour (Noise Pop 2027)",
+    "start": "2027-02-27T20:00:00-08:00",
+    "end": null,
+    "venue": "Castro Theatre",
+    "address": "429 Castro St, San Francisco, CA 94114",
+    "url": "https://thecastro.com/events/caroline-rose-270227",
+    "source": "venue:castro-theatre",
+    "tags": [
+      "music",
+      "festival"
+    ],
+    "price": "~$49",
+    "description": "The genre-hopping indie songwriter plays the Castro Theatre for Noise Pop 2027. Doors 7pm, all ages; price per The List.",
+    "neighbourhood": "Castro",
+    "cycle_minutes": 17,
+    "added": "2026-11-06",
+    "id": "caroline-rose-uncle-carol-s-world-of-fun-tour-noise-pop-2027-362af5be"
   }
 ]

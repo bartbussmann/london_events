@@ -624,6 +624,35 @@ LOCATION:Swedish American Hall\, 2174 Market St (upstairs)\, San Francisco
  \, CA 94114
 END:VEVENT
 BEGIN:VEVENT
+UID:hotel-utah-indie-pop-night-starfish-prime-charity-kiss-the-o-ed1d2c3e@
+ sf-events
+DTSTAMP:20261108T040000Z
+DTSTART:20261108T040000Z
+DTEND:20261108T060000Z
+SUMMARY:Hotel Utah Indie Pop Night: Starfish Prime\, Charity Kiss\, The On
+ line Company
+DESCRIPTION:Three local indie-pop bands in the tiny 1908 saloon at 4th & B
+ ryant\, the closest music room to home. Cheap\, loud and easy to wander i
+ nto.\nPrice: $12\nhttps://wl.seetickets.us/event/starfish-prime-charity-k
+ iss-the-online-company/709755
+URL:https://wl.seetickets.us/event/starfish-prime-charity-kiss-the-online-
+ company/709755
+LOCATION:Hotel Utah Saloon\, 500 4th St\, San Francisco\, CA 94107
+END:VEVENT
+BEGIN:VEVENT
+UID:alex-cameron-with-josh-da-costa-10b97d5b@sf-events
+DTSTAMP:20261108T050000Z
+DTSTART:20261108T050000Z
+DTEND:20261108T070000Z
+SUMMARY:Alex Cameron with Josh da Costa
+DESCRIPTION:The Australian songwriter's wry\, synth-tinged crooner pop in 
+ the Chapel's former mortuary hall (folkYEAH! presents). Doors 8pm.\nPrice
+ : $25-$28\nhttps://wl.seetickets.us/event/alex-cameron/691429?afflky=TheC
+ hapel
+URL:https://wl.seetickets.us/event/alex-cameron/691429?afflky=TheChapel
+LOCATION:The Chapel\, 777 Valencia St\, San Francisco\, CA 94110
+END:VEVENT
+BEGIN:VEVENT
 UID:5rhythms-sweat-your-prayers-sunday-morning-2c6f6a2e@sf-events
 DTSTAMP:20261108T170000Z
 DTSTART:20261108T170000Z
@@ -737,6 +766,33 @@ DESCRIPTION:Centrepiece screening of the 30th Arab Film Festival. Maiken B
  rd-said-between-worlds
 URL:https://thecastro.com/events/edward-said-between-worlds
 LOCATION:Castro Theatre\, 429 Castro St\, San Francisco\, CA 94114
+END:VEVENT
+BEGIN:VEVENT
+UID:tell-river-tom-heyman-the-moonlighters-6f2716cf@sf-events
+DTSTAMP:20261109T030000Z
+DTSTART:20261109T030000Z
+DTEND:20261109T060000Z
+SUMMARY:Tell River + Tom Heyman & The Moonlighters
+DESCRIPTION:An early Sunday roots/Americana bill at the Make-Out Room\, wi
+ th SF songwriter Tom Heyman's band. Done by 10pm.\nPrice: $10\nhttps://ww
+ w.makeoutroom.com/events/sunday-november-8
+URL:https://www.makeoutroom.com/events/sunday-november-8
+LOCATION:Make-Out Room\, 3225 22nd St\, San Francisco\, CA 94110
+END:VEVENT
+BEGIN:VEVENT
+UID:foy-vance-with-bonnie-bishop-and-ryan-mcmullan-1188cd74@sf-events
+DTSTAMP:20261109T030000Z
+DTSTART:20261109T030000Z
+DTEND:20261109T050000Z
+SUMMARY:Foy Vance with Bonnie Bishop and Ryan McMullan
+DESCRIPTION:Northern Irish singer-songwriter Foy Vance (soulful folk\, Ed 
+ Sheeran's touring mate) on his world tour\, in the ornate GAMH ballroom. 
+ Doors 6pm.\nPrice: $40-$51\nhttps://wl.seetickets.us/event/foy-vance/6803
+ 13?afflky=GreatAmericanMusicHall
+URL:https://wl.seetickets.us/event/foy-vance/680313?afflky=GreatAmericanMu
+ sicHall
+LOCATION:Great American Music Hall\, 859 O'Farrell St\, San Francisco\, CA
+  94109
 END:VEVENT
 BEGIN:VEVENT
 UID:the-future-of-public-media-pbs-ceo-paula-kerger-with-kqed-ce-bfa6fe0c@
@@ -1299,6 +1355,33 @@ URL:https://thecastro.com/events/the-moth-261113
 LOCATION:Castro Theatre\, 429 Castro St\, San Francisco\, CA 94114
 END:VEVENT
 BEGIN:VEVENT
+UID:dos-bandoleros-and-friends-rumba-flamenca-at-the-lost-church-f0b7c4e2@
+ sf-events
+DTSTAMP:20261114T041500Z
+DTSTART:20261114T041500Z
+DTEND:20261114T063000Z
+SUMMARY:Dos Bandoleros (and friends): rumba flamenca at The Lost Church
+DESCRIPTION:Bay Area Spanish-guitar duo playing Gipsy Kings-style rumba fl
+ amenca with Latin rhythms\, then a second set with guests\, in North Beac
+ h's listening room. Doors 7:30pm.\nPrice: $20\nhttps://thelostchurch.my.s
+ alesforce-sites.com/ticket#/instances/a0FUh00000C9Jm5MAF
+URL:https://thelostchurch.my.salesforce-sites.com/ticket#/instances/a0FUh0
+ 0000C9Jm5MAF
+LOCATION:The Lost Church\, 988 Columbus Ave\, San Francisco\, CA 94133
+END:VEVENT
+BEGIN:VEVENT
+UID:other-lives-with-kelcey-ayer-4a881821@sf-events
+DTSTAMP:20261114T050000Z
+DTSTART:20261114T050000Z
+DTEND:20261114T070000Z
+SUMMARY:Other Lives with Kelcey Ayer
+DESCRIPTION:Oklahoma's cinematic indie-folk band\, with Local Natives' Kel
+ cey Ayer opening (folkYEAH! presents). Doors 8pm.\nPrice: $30-$35\nhttps:
+ //wl.seetickets.us/event/other-lives/691433?afflky=TheChapel
+URL:https://wl.seetickets.us/event/other-lives/691433?afflky=TheChapel
+LOCATION:The Chapel\, 777 Valencia St\, San Francisco\, CA 94110
+END:VEVENT
+BEGIN:VEVENT
 UID:fall-sf-international-tea-festival-56b250fa@sf-events
 DTSTAMP:20261114T180000Z
 DTSTART:20261114T180000Z
@@ -1420,6 +1503,20 @@ URL:https://www.eventbrite.com/e/bats-improv-presents-theatresportstm-1172
  6-112826-sho-tickets-1991873896444
 LOCATION:BATS Bayfront Theatre\, Fort Mason Center\, 2 Marina Blvd\, Build
  ing B\, 3rd Floor\, San Francisco\, CA 94123
+END:VEVENT
+BEGIN:VEVENT
+UID:a-night-of-live-local-roots-music-ben-grant-magpie-the-spare-ea5f10d8@
+ sf-events
+DTSTAMP:20261115T040000Z
+DTSTART:20261115T040000Z
+DTEND:20261115T060000Z
+SUMMARY:A Night of Live Local Roots Music: Ben Grant\, Magpie\, The Spare 
+ Keys
+DESCRIPTION:Three local folk/roots acts at the Hotel Utah Saloon\, a short
+  walk from home. A cheap Saturday folk night in a historic bar.\nPrice: $
+ 12\nhttps://wl.seetickets.us/event/ben-grant-magpie-the-spare-keys/709740
+URL:https://wl.seetickets.us/event/ben-grant-magpie-the-spare-keys/709740
+LOCATION:Hotel Utah Saloon\, 500 4th St\, San Francisco\, CA 94107
 END:VEVENT
 BEGIN:VEVENT
 UID:the-cactus-blossoms-with-margo-cilker-49b14cd6@sf-events
@@ -1561,6 +1658,47 @@ LOCATION:The Marsh San Francisco (Mainstage)\, 1062 Valencia St\, San Fran
  cisco\, CA 94110
 END:VEVENT
 BEGIN:VEVENT
+UID:julie-beth-napolin-nyc-psych-folk-with-bob-bannister-aux-mea-a0f8cf43@
+ sf-events
+DTSTAMP:20261116T023000Z
+DTSTART:20261116T023000Z
+DTEND:20261116T060000Z
+SUMMARY:Julie Beth Napolin (NYC psych-folk) with Bob Bannister\, Aux Meado
+ ws\, Danny Paul Grody
+DESCRIPTION:An early Sunday bill of psych-folk and guitar soundscapes at t
+ he Make-Out Room: Silver Current Records' Julie Beth Napolin plus local g
+ uitarist Danny Paul Grody.\nPrice: $15\nhttps://www.makeoutroom.com/event
+ s/sunday-november-155531650
+URL:https://www.makeoutroom.com/events/sunday-november-155531650
+LOCATION:Make-Out Room\, 3225 22nd St\, San Francisco\, CA 94110
+END:VEVENT
+BEGIN:VEVENT
+UID:rodrigo-y-gabriela-ourhome-tour-28d632fc@sf-events
+DTSTAMP:20261116T030000Z
+DTSTART:20261116T030000Z
+DTEND:20261116T050000Z
+SUMMARY:Rodrigo y Gabriela: OurHome Tour
+DESCRIPTION:The Grammy-winning Mexican acoustic-guitar duo plays its new a
+ lbum in the restored Castro Theatre. Doors 6pm\; price per The List ($64.
+ 75)\, confirm at checkout.\nPrice: ~$65\nhttps://thecastro.com/events/rod
+ rigo-y-gabriela-261115
+URL:https://thecastro.com/events/rodrigo-y-gabriela-261115
+LOCATION:Castro Theatre\, 429 Castro St\, San Francisco\, CA 94114
+END:VEVENT
+BEGIN:VEVENT
+UID:kate-nash-with-joh-chase-34093160@sf-events
+DTSTAMP:20261116T040000Z
+DTSTART:20261116T040000Z
+DTEND:20261116T060000Z
+SUMMARY:Kate Nash with Joh Chase
+DESCRIPTION:The British indie-pop songwriter in the wood-panelled upstairs
+  hall at 2174 Market. Doors 7pm\, all ages.\nPrice: $45.81\nhttps://cafed
+ unord.com/shows/2026-11-15-kate-nash
+URL:https://cafedunord.com/shows/2026-11-15-kate-nash
+LOCATION:Swedish American Hall\, 2174 Market St (upstairs)\, San Francisco
+ \, CA 94114
+END:VEVENT
+BEGIN:VEVENT
 UID:fog-of-love-learn-and-play-night-at-the-love-potion-library-41ae1c4a@s
  f-events
 DTSTAMP:20261117T020000Z
@@ -1693,6 +1831,19 @@ DESCRIPTION:Big Brain lecture-in-a-bar on patent trolls: how the patent sy
  \nPrice: ~$27 (Luma)\nhttps://luma.com/yasrxsyk
 URL:https://luma.com/yasrxsyk
 LOCATION:Mr. Mahjong's\, 260 Kearny St\, San Francisco\, CA 94108
+END:VEVENT
+BEGIN:VEVENT
+UID:jazz-at-the-make-out-room-a316739f@sf-events
+DTSTAMP:20261118T030000Z
+DTSTART:20261118T030000Z
+DTEND:20261118T053000Z
+SUMMARY:Jazz at the Make-Out Room
+DESCRIPTION:A free Tuesday jazz night in the Mission bar (doors 6pm\, musi
+ c 7pm). An easy weeknight drop-in.\nPrice: Free (donations)\nhttps://www.
+ calendarwiz.com/calendars/calendar.php?crd=makeoutroom&cid[]=all
+URL:https://www.calendarwiz.com/calendars/calendar.php?crd=makeoutroom&cid
+ []=all
+LOCATION:Make-Out Room\, 3225 22nd St\, San Francisco\, CA 94110
 END:VEVENT
 BEGIN:VEVENT
 UID:silverada-with-emily-nenni-be76b912@sf-events
@@ -2116,6 +2267,21 @@ LOCATION:African American Art & Culture Complex (Magic Theatre production)
  \, 762 Fulton St\, San Francisco\, CA 94102
 END:VEVENT
 BEGIN:VEVENT
+UID:hug-feat-gyan-riley-devendra-banhart-noah-georgeson-seated-13956bc2@sf
+ -events
+DTSTAMP:20261121T040000Z
+DTSTART:20261121T040000Z
+DTEND:20261121T060000Z
+SUMMARY:HUG feat. Gyan Riley\, Devendra Banhart\, Noah Georgeson (seated)
+DESCRIPTION:A fully seated night with HUG\, the trio of guitarist Gyan Ril
+ ey\, Devendra Banhart and producer Noah Georgeson\, at the retro North Be
+ ach supper club. 21+\; price per The List.\nPrice: $55-$72\nhttps://bimbo
+ s365club.com/tm-event/hug-gyan-riley-devendra-banhart-noah-georgeson/
+URL:https://bimbos365club.com/tm-event/hug-gyan-riley-devendra-banhart-noa
+ h-georgeson/
+LOCATION:Bimbo's 365 Club\, 1025 Columbus Ave\, San Francisco\, CA 94133
+END:VEVENT
+BEGIN:VEVENT
 UID:sf-neo-futurists-the-infinite-wrench-30-plays-in-60-minutes-ffbbb4f2@s
  f-events
 DTSTAMP:20261121T050000Z
@@ -2300,6 +2466,20 @@ LOCATION:San Francisco Main Library\, Koret Auditorium\, 100 Larkin St\, S
  an Francisco\, CA 94102
 END:VEVENT
 BEGIN:VEVENT
+UID:flamenco-libre-matinee-21bab3c2@sf-events
+DTSTAMP:20261123T004500Z
+DTSTART:20261123T004500Z
+DTEND:20261123T030000Z
+SUMMARY:Flamenco Libre (matinee)
+DESCRIPTION:Flamenco dance and music with dancers Damien Alvarez and Carol
+ a Zertuche (Theatre Flamenco)\, guitar\, cante and cajon\, in an intimate
+  North Beach room. Doors 4pm\, one intermission.\nPrice: $25\nhttps://the
+ lostchurch.my.salesforce-sites.com/ticket#/instances/a0FUh00000DcQhxMAF
+URL:https://thelostchurch.my.salesforce-sites.com/ticket#/instances/a0FUh0
+ 0000DcQhxMAF
+LOCATION:The Lost Church\, 988 Columbus Ave\, San Francisco\, CA 94133
+END:VEVENT
+BEGIN:VEVENT
 UID:berkeley-fest-noz-breton-dance-party-with-live-band-2018cf5b@sf-events
 DTSTAMP:20261123T023000Z
 DTSTART:20261123T023000Z
@@ -2406,6 +2586,21 @@ DESCRIPTION:The SF History Association's monthly last-Tuesday talk on an a
 URL:https://sf.funcheap.com/sf-history-night-pacific-heights-100/
 LOCATION:Newman Hall\, Congregation Sherith Israel\, 2266 California St\, 
  San Francisco\, CA 94115
+END:VEVENT
+BEGIN:VEVENT
+UID:sad-bastard-club-songwriter-round-robin-hosted-by-tom-heyman-93daac37@
+ sf-events
+DTSTAMP:20261125T033000Z
+DTSTART:20261125T033000Z
+DTEND:20261125T053000Z
+SUMMARY:Sad Bastard Club: songwriter round-robin hosted by Tom Heyman
+DESCRIPTION:A free Tuesday songwriters' circle at the Make-Out Room\, with
+  players trading songs in the round. A low-key folk night and a good way 
+ to meet the local scene.\nPrice: Free\nhttps://www.calendarwiz.com/calend
+ ars/calendar.php?crd=makeoutroom&cid[]=all
+URL:https://www.calendarwiz.com/calendars/calendar.php?crd=makeoutroom&cid
+ []=all
+LOCATION:Make-Out Room\, 3225 22nd St\, San Francisco\, CA 94110
 END:VEVENT
 BEGIN:VEVENT
 UID:woodchopper-s-ball-live-band-swing-night-caf90e3c@sf-events
@@ -2845,6 +3040,19 @@ LOCATION:Punch Line San Francisco\, 444 Battery St\, San Francisco\, CA 94
  111
 END:VEVENT
 BEGIN:VEVENT
+UID:elijah-fox-trio-with-myles-martin-and-solo-smith-d97595fc@sf-events
+DTSTAMP:20261204T040000Z
+DTSTART:20261204T040000Z
+DTEND:20261204T060000Z
+SUMMARY:Elijah Fox Trio (with Myles Martin and Solo Smith)
+DESCRIPTION:Jazz-leaning pianist and songwriter Elijah Fox brings his trio
+  to the Swedish American Hall. Doors 7pm\, 21+.\nPrice: $37.06\nhttps://c
+ afedunord.com/shows/2026-12-03-elijah-fox
+URL:https://cafedunord.com/shows/2026-12-03-elijah-fox
+LOCATION:Swedish American Hall\, 2174 Market St (upstairs)\, San Francisco
+ \, CA 94114
+END:VEVENT
+BEGIN:VEVENT
 UID:let-s-glow-sf-opening-night-free-holiday-projection-art-fest-4d2be980@
  sf-events
 DTSTAMP:20261205T020000Z
@@ -3017,6 +3225,21 @@ DESCRIPTION:Free outdoor swing dancing every Sunday since 1996 on car-free
 URL:https://lindyinthepark.com/about/
 LOCATION:Golden Gate Park\, JFK Drive (8th-10th Ave)\, JFK Dr between 8th 
  & 10th Ave (behind the de Young)\, San Francisco\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:zorn-medeski-lombardo-awakening-ground-matinee-e80e74b6@sf-events
+DTSTAMP:20261207T000000Z
+DTSTART:20261207T000000Z
+DTEND:20261207T020000Z
+SUMMARY:Zorn / Medeski / Lombardo: Awakening Ground (matinee)
+DESCRIPTION:John Zorn's sax\, John Medeski's organ and Dave Lombardo's dru
+ ms: a rare Sunday-afternoon set of loud improvised avant-jazz. Doors 3pm.
+ \nPrice: $67.30\nhttps://wl.seetickets.us/event/zorn-medeski-lombardo-awa
+ kening-ground-matinee/694421?afflky=GreatAmericanMusicHall
+URL:https://wl.seetickets.us/event/zorn-medeski-lombardo-awakening-ground-
+ matinee/694421?afflky=GreatAmericanMusicHall
+LOCATION:Great American Music Hall\, 859 O'Farrell St\, San Francisco\, CA
+  94109
 END:VEVENT
 BEGIN:VEVENT
 UID:sf-salsa-social-beginner-class-salsa-mambo-dancing-4704b328@sf-events
@@ -3408,6 +3631,20 @@ LOCATION:Harvey Milk Center for the Arts\, 50 Scott St\, San Francisco\, C
  A 94117
 END:VEVENT
 BEGIN:VEVENT
+UID:eggcorn-meredith-edgar-minor-birds-sunday-afternoon-show-8a325813@sf-e
+ vents
+DTSTAMP:20261213T213000Z
+DTSTART:20261213T213000Z
+DTEND:20261213T233000Z
+SUMMARY:eggcorn\, Meredith Edgar\, Minor Birds (Sunday afternoon show)
+DESCRIPTION:A Sunday matinee of chamber folk\, dark-jazz Americana and sym
+ phonic folk-rock at Bottom of the Hill\, during its owners' farewell seas
+ on. Doors 1pm\, 21+.\nPrice: $15 ($19.81 adv incl. fees)\nhttp://www.bott
+ omofthehill.com/20261213A.html
+URL:http://www.bottomofthehill.com/20261213A.html
+LOCATION:Bottom of the Hill\, 1233 17th St\, San Francisco\, CA 94107
+END:VEVENT
+BEGIN:VEVENT
 UID:susanna-kwan-awake-in-the-floating-city-with-becca-prowda-43a6315c@sf-
  events
 DTSTAMP:20261213T220000Z
@@ -3471,6 +3708,20 @@ URL:https://citylights.com/events/a-tribute-to-the-life-and-writing-of-pie
  rre-joris/
 LOCATION:City Lights Booksellers\, 261 Columbus Ave\, San Francisco\, CA 9
  4133
+END:VEVENT
+BEGIN:VEVENT
+UID:willi-carlisle-the-universal-bubba-tour-with-amelia-day-74a464a1@sf-ev
+ ents
+DTSTAMP:20261215T040000Z
+DTSTART:20261215T040000Z
+DTEND:20261215T060000Z
+SUMMARY:Willi Carlisle: The Universal Bubba Tour\, with Amelia Day
+DESCRIPTION:The Ozarks folksinger and storyteller tours his new Tyler Chil
+ ders-produced double album of old-time\, Cajun and Americana. Doors 7:30p
+ m\, all ages.\nhttps://www.theindependentsf.com/tm-event/willi-carlisle-2
+ /
+URL:https://www.theindependentsf.com/tm-event/willi-carlisle-2/
+LOCATION:The Independent\, 628 Divisadero St\, San Francisco\, CA 94117
 END:VEVENT
 BEGIN:VEVENT
 UID:the-quantum-threat-what-happens-when-our-digital-locks-stop--84d54e20@
@@ -3632,6 +3883,21 @@ DESCRIPTION:The former Girls frontman\, an SF indie songwriter\, plays a h
  adv / $30 door\nhttp://www.bottomofthehill.com/20261217.html
 URL:http://www.bottomofthehill.com/20261217.html
 LOCATION:Bottom of the Hill\, 1233 17th St\, San Francisco\, CA 94107
+END:VEVENT
+BEGIN:VEVENT
+UID:deep-thicket-dwellers-album-release-with-scott-gates-a0829bde@sf-event
+ s
+DTSTAMP:20261218T041500Z
+DTSTART:20261218T041500Z
+DTEND:20261218T060000Z
+SUMMARY:Deep Thicket Dwellers album release\, with Scott Gates
+DESCRIPTION:An Oakland fiddle-led string band (bluegrass\, old-time\, gyps
+ y jazz) celebrates its first studio album\, with mandolinist Scott Gates.
+  Doors 7:30pm.\nPrice: $20 ($17 early-bird)\nhttps://thelostchurch.my.sal
+ esforce-sites.com/ticket#/instances/a0FUh00000E71H3MAJ
+URL:https://thelostchurch.my.salesforce-sites.com/ticket#/instances/a0FUh0
+ 0000E71H3MAJ
+LOCATION:The Lost Church\, 988 Columbus Ave\, San Francisco\, CA 94133
 END:VEVENT
 BEGIN:VEVENT
 UID:soulful-joy-christmas-at-grace-cathedral-a5090ed0@sf-events
@@ -4417,6 +4683,18 @@ LOCATION:Great American Music Hall\, 859 O'Farrell St\, San Francisco\, CA
   94109
 END:VEVENT
 BEGIN:VEVENT
+UID:swirlies-with-seko-69025660@sf-events
+DTSTAMP:20270110T040000Z
+DTSTART:20270110T040000Z
+DTEND:20270110T060000Z
+SUMMARY:Swirlies with Seko
+DESCRIPTION:The Boston shoegaze and indie-rock cult band at the Chapel (fo
+ lkYEAH! presents). Doors 7pm.\nPrice: $32-$35\nhttps://wl.seetickets.us/e
+ vent/swirlies/706410?afflky=TheChapel
+URL:https://wl.seetickets.us/event/swirlies/706410?afflky=TheChapel
+LOCATION:The Chapel\, 777 Valencia St\, San Francisco\, CA 94110
+END:VEVENT
+BEGIN:VEVENT
 UID:lindy-in-the-park-free-swing-dancing-beginner-lesson-d985a5fa@sf-event
  s
 DTSTAMP:20270110T190000Z
@@ -4791,6 +5069,19 @@ URL:https://www.eventbrite.com/e/salsa-dance-classes-and-salsa-and-bachata
 LOCATION:Neck of the Woods\, 406 Clement St\, San Francisco\, CA 94118
 END:VEVENT
 BEGIN:VEVENT
+UID:bebel-gilberto-25-years-of-tanto-tempo-a156d95c@sf-events
+DTSTAMP:20270126T040000Z
+DTSTART:20270126T040000Z
+DTEND:20270126T060000Z
+SUMMARY:Bebel Gilberto: 25 Years of Tanto Tempo
+DESCRIPTION:The Brazilian singer marks 25 years of her electronic bossa-no
+ va classic Tanto Tempo. Doors 7pm\, 21+\; on sale Fri 11/6.\nhttps://bimb
+ os365club.com/tm-event/bebel-gilberto-25-years-of-tanto-tempo/
+URL:https://bimbos365club.com/tm-event/bebel-gilberto-25-years-of-tanto-te
+ mpo/
+LOCATION:Bimbo's 365 Club\, 1025 Columbus Ave\, San Francisco\, CA 94133
+END:VEVENT
+BEGIN:VEVENT
 UID:woodchopper-s-ball-live-band-swing-night-c9c122f3@sf-events
 DTSTAMP:20270127T050000Z
 DTSTART:20270127T050000Z
@@ -4902,5 +5193,328 @@ DESCRIPTION:Free outdoor swing dancing every Sunday since 1996 on car-free
 URL:https://lindyinthepark.com/about/
 LOCATION:Golden Gate Park\, JFK Drive (8th-10th Ave)\, JFK Dr between 8th 
  & 10th Ave (behind the de Young)\, San Francisco\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:vansire-with-eliza-mclamb-a70cbeff@sf-events
+DTSTAMP:20270202T040000Z
+DTSTART:20270202T040000Z
+DTEND:20270202T060000Z
+SUMMARY:Vansire with Eliza McLamb
+DESCRIPTION:The Minnesota dream-pop duo Vansire\, with indie songwriter El
+ iza McLamb\, at Bimbo's. Doors 7pm\, all ages\; price per The List.\nPric
+ e: ~$41\nhttps://bimbos365club.com/tm-event/vansire/
+URL:https://bimbos365club.com/tm-event/vansire/
+LOCATION:Bimbo's 365 Club\, 1025 Columbus Ave\, San Francisco\, CA 94133
+END:VEVENT
+BEGIN:VEVENT
+UID:woodchopper-s-ball-live-band-swing-night-a2aca028@sf-events
+DTSTAMP:20270203T050000Z
+DTSTART:20270203T050000Z
+DTEND:20270203T073000Z
+SUMMARY:Woodchopper's Ball: live-band swing night
+DESCRIPTION:The weekly Tuesday live-band swing dance on the Verdi Club's 2
+ \,500 sq ft floor. The drop-in beginner lesson at 9pm is included and no 
+ partner is needed.\nPrice: $20\nhttps://www.verdiclub.net/events/the-wood
+ choppers-ball-42-3-2/2027-02-02/
+URL:https://www.verdiclub.net/events/the-woodchoppers-ball-42-3-2/2027-02-
+ 02/
+LOCATION:Verdi Club\, 2424 Mariposa St\, San Francisco\, CA 94110
+END:VEVENT
+BEGIN:VEVENT
+UID:c-cile-mclorin-salvant-4edacc80@sf-events
+DTSTAMP:20270205T033000Z
+DTSTART:20270205T033000Z
+DTEND:20270205T053000Z
+SUMMARY:Cécile McLorin Salvant
+DESCRIPTION:The Grammy-winning jazz vocalist opens a four-night SFJAZZ run
+  (Feb 4-7). The cheapest seats ($50) fit the budget.\nPrice: $50-$155\nht
+ tps://www.sfjazz.org/tickets/productions/26-27/cecile-mclorin-salvant/
+URL:https://www.sfjazz.org/tickets/productions/26-27/cecile-mclorin-salvan
+ t/
+LOCATION:SFJAZZ Center\, Miner Auditorium\, 201 Franklin St\, San Francisc
+ o\, CA 94102
+END:VEVENT
+BEGIN:VEVENT
+UID:sf-salsa-social-beginner-class-salsa-mambo-dancing-80acbaac@sf-events
+DTSTAMP:20270208T030000Z
+DTSTART:20270208T030000Z
+DTEND:20270208T050000Z
+SUMMARY:SF Salsa Social: beginner class + salsa & mambo dancing
+DESCRIPTION:The first-Sunday salsa night at the Verdi Club: a beginner cla
+ ss at 7pm\, then salsa and mambo social dancing. Easy to come solo.\nPric
+ e: $17-$23.18\nhttps://www.eventbrite.com/e/sf-salsa-social-salsa-dancing
+ -lesson-at-verdi-club-san-francisco-tickets-2003025044829
+URL:https://www.eventbrite.com/e/sf-salsa-social-salsa-dancing-lesson-at-v
+ erdi-club-san-francisco-tickets-2003025044829
+LOCATION:Verdi Club\, 2424 Mariposa St\, San Francisco\, CA 94110
+END:VEVENT
+BEGIN:VEVENT
+UID:fat-tuesday-celebration-with-rebirth-brass-band-10712cbe@sf-events
+DTSTAMP:20270210T040000Z
+DTSTART:20270210T040000Z
+DTEND:20270210T060000Z
+SUMMARY:Fat Tuesday Celebration with Rebirth Brass Band
+DESCRIPTION:New Orleans' Rebirth Brass Band plays Mardi Gras night\, with 
+ NOLA food and drink specials and the East Bay Brass Band in the Curio bar
+ . Doors 7pm.\nPrice: $48-$53\nhttps://wl.seetickets.us/event/fat-tuesday-
+ celebration-with-rebirth-brass-band/701503?afflky=TheChapel
+URL:https://wl.seetickets.us/event/fat-tuesday-celebration-with-rebirth-br
+ ass-band/701503?afflky=TheChapel
+LOCATION:The Chapel\, 777 Valencia St\, San Francisco\, CA 94110
+END:VEVENT
+BEGIN:VEVENT
+UID:16th-annual-salsa-rueda-festival-07480f94@sf-events
+DTSTAMP:20270212T020000Z
+DTSTART:20270212T020000Z
+DTEND:20270215T075900Z
+SUMMARY:16th Annual Salsa Rueda Festival
+DESCRIPTION:A four-day Cuban salsa and rueda festival (Thu-Sun) with 60+ w
+ orkshops\, a beginner bootcamp and nightly parties with bands and DJs. Bu
+ y a party pass to keep within budget.\nPrice: From $44.52 (passes up to $
+ 535)\nhttps://www.eventbrite.com/e/the-16th-annual-salsa-rueda-festival-i
+ n-san-francisco-feb-11-feb-14-2027-registration-2000233871354
+URL:https://www.eventbrite.com/e/the-16th-annual-salsa-rueda-festival-in-s
+ an-francisco-feb-11-feb-14-2027-registration-2000233871354
+LOCATION:Grand Hyatt San Francisco\, 345 Stockton St\, San Francisco\, CA 
+ 94108
+END:VEVENT
+BEGIN:VEVENT
+UID:milonga-malevaje-thursday-tango-at-the-verdi-club-991bf8af@sf-events
+DTSTAMP:20270212T040000Z
+DTSTART:20270212T040000Z
+DTEND:20270212T073000Z
+SUMMARY:Milonga Malevaje (Thursday tango at the Verdi Club)
+DESCRIPTION:The weekly Argentine tango milonga on the Verdi Club's histori
+ c floor\, a good night to watch and meet the local tango scene.\nPrice: $
+ 20\nhttps://www.verdiclub.net/events/milonga-malevaje-78-2-2-2-2/2027-02-
+ 11/
+URL:https://www.verdiclub.net/events/milonga-malevaje-78-2-2-2-2/2027-02-1
+ 1/
+LOCATION:Verdi Club\, 2424 Mariposa St\, San Francisco\, CA 94110
+END:VEVENT
+BEGIN:VEVENT
+UID:lael-neale-with-spacemoth-solo-5ea3da75@sf-events
+DTSTAMP:20270213T043000Z
+DTSTART:20270213T043000Z
+DTEND:20270213T063000Z
+SUMMARY:Lael Neale with Spacemoth (solo)
+DESCRIPTION:Sub Pop's Lael Neale plays her hypnotic\, omnichord-driven ind
+ ie folk (folkYEAH! presents). Doors 7:30pm.\nPrice: $22-$25\nhttps://wl.s
+ eetickets.us/event/lael-neale/707903?afflky=TheChapel
+URL:https://wl.seetickets.us/event/lael-neale/707903?afflky=TheChapel
+LOCATION:The Chapel\, 777 Valencia St\, San Francisco\, CA 94110
+END:VEVENT
+BEGIN:VEVENT
+UID:richard-thompson-band-with-clayton-linthicum-and-quinn-bacha-fcb9ecbb@
+ sf-events
+DTSTAMP:20270214T040000Z
+DTSTART:20270214T040000Z
+DTEND:20270214T060000Z
+SUMMARY:Richard Thompson & Band with Clayton Linthicum and Quinn Bachand
+DESCRIPTION:The Fairport Convention co-founder and British folk-rock guita
+ r legend plays a seated show with his band. Doors 7pm\; price per The Lis
+ t.\nPrice: From ~$54\nhttps://thecastro.com/events/richard-thompson-27021
+ 3
+URL:https://thecastro.com/events/richard-thompson-270213
+LOCATION:Castro Theatre\, 429 Castro St\, San Francisco\, CA 94114
+END:VEVENT
+BEGIN:VEVENT
+UID:lindy-in-the-park-free-swing-dancing-beginner-lesson-valenti-cade29ff@
+ sf-events
+DTSTAMP:20270214T190000Z
+DTSTART:20270214T190000Z
+DTEND:20270214T220000Z
+SUMMARY:Lindy in the Park: free swing dancing + beginner lesson (Valentine
+ 's Day)
+DESCRIPTION:Free outdoor swing dancing every Sunday since 1996 on car-free
+  JFK Drive\, with a free beginner lesson at noon. No partner needed\; wea
+ ther permitting.\nPrice: Free\nhttps://lindyinthepark.com/about/
+URL:https://lindyinthepark.com/about/
+LOCATION:Golden Gate Park\, JFK Drive (8th-10th Ave)\, JFK Dr between 8th 
+ & 10th Ave (behind the de Young)\, San Francisco\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:hello-bachata-kizomba-sunday-valentine-s-day-4f204a71@sf-events
+DTSTAMP:20270214T230000Z
+DTSTART:20270214T230000Z
+DTEND:20270215T043000Z
+SUMMARY:Hello! Bachata & Kizomba Sunday (Valentine's Day)
+DESCRIPTION:A daytime bachata social (and kizomba upstairs) on the Verdi C
+ lub's two floors on Valentine's Day. Social\, easy to join solo\, and ove
+ r by evening.\nPrice: $17 (Venmo) / $20 cash\nhttps://www.verdiclub.net/e
+ vents/hello-bachata-11-2/2027-02-14/
+URL:https://www.verdiclub.net/events/hello-bachata-11-2/2027-02-14/
+LOCATION:Verdi Club\, 2424 Mariposa St\, San Francisco\, CA 94110
+END:VEVENT
+BEGIN:VEVENT
+UID:jess-williamson-with-andrew-sa-noise-pop-2027-f7ac9e71@sf-events
+DTSTAMP:20270219T040000Z
+DTSTART:20270219T040000Z
+DTEND:20270219T060000Z
+SUMMARY:Jess Williamson with Andrew Sa (Noise Pop 2027)
+DESCRIPTION:The Texan singer-songwriter's country-tinged indie folk\, on t
+ he opening night of Noise Pop 2027 (Feb 18-28). Doors 7pm.\nPrice: $35.39
+ \nhttps://wl.seetickets.us/event/jess-williamson/707156?afflky=GreatAmeri
+ canMusicHall
+URL:https://wl.seetickets.us/event/jess-williamson/707156?afflky=GreatAmer
+ icanMusicHall
+LOCATION:Great American Music Hall\, 859 O'Farrell St\, San Francisco\, CA
+  94109
+END:VEVENT
+BEGIN:VEVENT
+UID:fink-with-maggie-koerner-c56a17fa@sf-events
+DTSTAMP:20270220T050000Z
+DTSTART:20270220T050000Z
+DTEND:20270220T070000Z
+SUMMARY:Fink with Maggie Koerner
+DESCRIPTION:Fin Greenall's Fink plays his 1974-style folk album The City I
+ s Coming to Erase It All\, with New Orleans singer Maggie Koerner. Doors 
+ 8:30pm\; price per The List.\nPrice: ~$38\nhttps://www.theindependentsf.c
+ om/tm-event/fink/
+URL:https://www.theindependentsf.com/tm-event/fink/
+LOCATION:The Independent\, 628 Divisadero St\, San Francisco\, CA 94117
+END:VEVENT
+BEGIN:VEVENT
+UID:san-francisco-chinese-new-year-parade-year-of-the-ram-c64dce24@sf-even
+ ts
+DTSTAMP:20270221T011500Z
+DTSTART:20270221T011500Z
+DTEND:20270221T031500Z
+SUMMARY:San Francisco Chinese New Year Parade (Year of the Ram)
+DESCRIPTION:The big Lunar New Year night parade of dragons\, lion dancers\
+ , floats and drummers\, stepping off at 2nd & Market a few minutes from h
+ ome. Chinatown's Community Street Fair runs the same weekend (Sat-Sun Feb
+  20-21) on Grant Ave.\nPrice: Free (bleacher seats ticketed)\nhttps://chi
+ neseparade.com/tickets/
+URL:https://chineseparade.com/tickets/
+LOCATION:Parade route from 2nd & Market St\, Second St & Market St\, San F
+ rancisco\, CA 94105
+END:VEVENT
+BEGIN:VEVENT
+UID:mucha-salsa-social-free-beginner-class-1e648ee9@sf-events
+DTSTAMP:20270222T023000Z
+DTSTART:20270222T023000Z
+DTEND:20270222T070000Z
+SUMMARY:Mucha Salsa+ social (free beginner class)
+DESCRIPTION:A not-for-profit Sunday salsa social at the Verdi Club. Beginn
+ er and intermediate classes run 7-8pm and are included\, then DJ social d
+ ancing until 11:30pm.\nPrice: $15\nhttps://www.verdiclub.net/events/mucha
+ -salsa-5-2/2027-02-21/
+URL:https://www.verdiclub.net/events/mucha-salsa-5-2/2027-02-21/
+LOCATION:Verdi Club\, 2424 Mariposa St\, San Francisco\, CA 94110
+END:VEVENT
+BEGIN:VEVENT
+UID:cut-worms-solo-noise-pop-2027-61ac35ee@sf-events
+DTSTAMP:20270223T040000Z
+DTSTART:20270223T040000Z
+DTEND:20270223T060000Z
+SUMMARY:Cut Worms (solo) (Noise Pop 2027)
+DESCRIPTION:Max Clarke's Cut Worms plays a solo set of Everly Brothers-fla
+ voured indie folk-pop in the Swedish American Hall\, as part of Noise Pop
+  2027.\nhttps://www.noisepop.com/
+URL:https://www.noisepop.com/
+LOCATION:Swedish American Hall\, 2174 Market St (upstairs)\, San Francisco
+ \, CA 94114
+END:VEVENT
+BEGIN:VEVENT
+UID:sylvie-b1bee222@sf-events
+DTSTAMP:20270224T040000Z
+DTSTART:20270224T040000Z
+DTEND:20270224T060000Z
+SUMMARY:Sylvie
+DESCRIPTION:LA band Sylvie's warm\, '70s-style Laurel Canyon soft rock and
+  folk (folkYEAH! presents). Doors 7pm\, all ages.\nPrice: $22-$27\nhttps:
+ //wl.seetickets.us/event/sylvie/710246?afflky=TheChapel
+URL:https://wl.seetickets.us/event/sylvie/710246?afflky=TheChapel
+LOCATION:The Chapel\, 777 Valencia St\, San Francisco\, CA 94110
+END:VEVENT
+BEGIN:VEVENT
+UID:deerhoof-with-earthball-and-gumby-s-junk-267abd0c@sf-events
+DTSTAMP:20270225T040000Z
+DTSTART:20270225T040000Z
+DTEND:20270225T060000Z
+SUMMARY:Deerhoof with Earthball and Gumby's Junk
+DESCRIPTION:SF-born art-rock band Deerhoof plays a hometown show at the Gr
+ eat American Music Hall. Doors 7pm.\nPrice: $39.14\nhttps://wl.seetickets
+ .us/event/deerhoof/707721?afflky=GreatAmericanMusicHall
+URL:https://wl.seetickets.us/event/deerhoof/707721?afflky=GreatAmericanMus
+ icHall
+LOCATION:Great American Music Hall\, 859 O'Farrell St\, San Francisco\, CA
+  94109
+END:VEVENT
+BEGIN:VEVENT
+UID:timnit-gebru-the-rise-of-ai-and-the-radicalization-of-a-tech-27ab1685@
+ sf-events
+DTSTAMP:20270226T030000Z
+DTSTART:20270226T030000Z
+DTEND:20270226T050000Z
+SUMMARY:Timnit Gebru: The Rise of AI and the Radicalization of a Tech Idea
+ list
+DESCRIPTION:The AI-ethics researcher\, who left Google's Ethical AI team a
+ fter warning about large language models\, talks about her career and the
+  AI industry. Doors 6:30pm.\nPrice: $25 ($55 with book)\nhttps://www.comm
+ onwealthclub.org/events/2027-02-25/timnit-gebru-rise-ai-and-radicalizatio
+ n-tech-idealist
+URL:https://www.commonwealthclub.org/events/2027-02-25/timnit-gebru-rise-a
+ i-and-radicalization-tech-idealist
+LOCATION:Commonwealth Club World Affairs\, 110 The Embarcadero\, San Franc
+ isco\, CA 94105
+END:VEVENT
+BEGIN:VEVENT
+UID:asaf-avidan-into-the-great-abyss-solo-tour-9198d3b4@sf-events
+DTSTAMP:20270226T040000Z
+DTSTART:20270226T040000Z
+DTEND:20270226T060000Z
+SUMMARY:Asaf Avidan: Into the Great Abyss solo tour
+DESCRIPTION:The gravel-voiced Israeli singer-songwriter plays a solo show 
+ of folk\, blues and jazz-tinged songs. Doors 7:30pm\, all ages.\nhttps://
+ www.theindependentsf.com/tm-event/asaf-avidan/
+URL:https://www.theindependentsf.com/tm-event/asaf-avidan/
+LOCATION:The Independent\, 628 Divisadero St\, San Francisco\, CA 94117
+END:VEVENT
+BEGIN:VEVENT
+UID:here-we-go-magic-15th-anniversary-of-a-different-ship-noise--f0a2a7e3@
+ sf-events
+DTSTAMP:20270227T040000Z
+DTSTART:20270227T040000Z
+DTEND:20270227T060000Z
+SUMMARY:Here We Go Magic: 15th Anniversary of A Different Ship (Noise Pop 
+ 2027)
+DESCRIPTION:Luke Temple's Brooklyn indie band revisits its Nigel Godrich-p
+ roduced album A Different Ship\, as part of Noise Pop. Doors 7pm.\nPrice:
+  $44.24\nhttps://wl.seetickets.us/event/here-we-go-magic-15th-anniversary
+ -of-a-different-ship/708437?afflky=GreatAmericanMusicHall
+URL:https://wl.seetickets.us/event/here-we-go-magic-15th-anniversary-of-a-
+ different-ship/708437?afflky=GreatAmericanMusicHall
+LOCATION:Great American Music Hall\, 859 O'Farrell St\, San Francisco\, CA
+  94109
+END:VEVENT
+BEGIN:VEVENT
+UID:upswing-series-tyreek-mcdole-isaiah-collier-5013876e@sf-events
+DTSTAMP:20270228T030000Z
+DTSTART:20270228T030000Z
+DTEND:20270228T050000Z
+SUMMARY:Upswing Series: Tyreek McDole / Isaiah Collier
+DESCRIPTION:A double bill in Terence Blanchard's rising-stars series: voca
+ list Tyreek McDole and spiritual-jazz saxophonist Isaiah Collier.\nPrice:
+  $45-$95\nhttps://www.sfjazz.org/tickets/productions/26-27/tyreek-mcdole-
+ isaiah-collier/
+URL:https://www.sfjazz.org/tickets/productions/26-27/tyreek-mcdole-isaiah-
+ collier/
+LOCATION:SFJAZZ Center\, Miner Auditorium\, 201 Franklin St\, San Francisc
+ o\, CA 94102
+END:VEVENT
+BEGIN:VEVENT
+UID:caroline-rose-uncle-carol-s-world-of-fun-tour-noise-pop-2027-362af5be@
+ sf-events
+DTSTAMP:20270228T040000Z
+DTSTART:20270228T040000Z
+DTEND:20270228T060000Z
+SUMMARY:Caroline Rose: Uncle Carol's World of Fun Tour (Noise Pop 2027)
+DESCRIPTION:The genre-hopping indie songwriter plays the Castro Theatre fo
+ r Noise Pop 2027. Doors 7pm\, all ages\; price per The List.\nPrice: ~$49
+ \nhttps://thecastro.com/events/caroline-rose-270227
+URL:https://thecastro.com/events/caroline-rose-270227
+LOCATION:Castro Theatre\, 429 Castro St\, San Francisco\, CA 94114
 END:VEVENT
 END:VCALENDAR
