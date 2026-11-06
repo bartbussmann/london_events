@@ -1,97 +1,5 @@
 [
   {
-    "title": "Booked: Dating Night for Readers (ages 25-35)",
-    "start": "2026-11-03T19:00:00-08:00",
-    "end": "2026-11-03T21:00:00-08:00",
-    "venue": "The Love Potion Library",
-    "address": "284 Noe St, San Francisco, CA 94114",
-    "url": "https://luma.com/l7xbwkb3",
-    "source": "aggregator:luma",
-    "tags": [
-      "community"
-    ],
-    "price": "Sold out (waitlist)",
-    "description": "A guided dating mixer for readers aged 25-35. Everyone brings a book that matters to them, and hosts move the room from group prompts to one-on-one conversations, so no cold approaches. It's curated for a balanced room. [SOLD OUT as of 1 Nov — waitlist only.]",
-    "neighbourhood": "Castro",
-    "cycle_minutes": 16,
-    "added": "2026-10-26",
-    "id": "booked-dating-night-for-readers-ages-25-35-71edbb8b"
-  },
-  {
-    "title": "Taylor Bickett with Fairhazel (An Evening of Indie-Pop)",
-    "start": "2026-11-03T19:00:00-08:00",
-    "end": null,
-    "venue": "Hotel Utah Saloon",
-    "address": "500 4th St, San Francisco, CA 94107",
-    "url": "https://wl.seetickets.us/event/taylor-bickett/690933?afflky=HotelUtahSaloon",
-    "source": "venue:hotel-utah",
-    "tags": [
-      "music"
-    ],
-    "price": "$18 adv / $20 door",
-    "description": "Indiana-born singer-songwriter Taylor Bickett brings her intimate, lyric-driven indie pop to the tiny Hotel Utah room. It's 21+ and the closest small venue to home.",
-    "neighbourhood": "SoMa",
-    "cycle_minutes": 4,
-    "added": "2026-11-01",
-    "id": "taylor-bickett-with-fairhazel-an-evening-of-indie-pop-e4c697ca"
-  },
-  {
-    "title": "Curiosity Guild: By Design (six short talks)",
-    "start": "2026-11-03T19:00:00-08:00",
-    "end": "2026-11-03T22:00:00-08:00",
-    "venue": "Public Works",
-    "address": "161 Erie St, San Francisco, CA 94103",
-    "url": "https://www.eventbrite.com/e/by-design-tickets-1989199060939",
-    "source": "aggregator:eventbrite",
-    "tags": [
-      "talk",
-      "community"
-    ],
-    "price": "$28.52-$49.87",
-    "description": "A Nerd Nite-style evening of six short talks, on planned obsolescence, tarot art, William Morris, missions around the Moon and more. Doors at 7pm, talks at 8pm, 21+.",
-    "neighbourhood": "Mission",
-    "cycle_minutes": 12,
-    "added": "2026-11-01",
-    "id": "curiosity-guild-by-design-six-short-talks-024e880b"
-  },
-  {
-    "title": "Blade Runner: The Final Cut (35mm)",
-    "start": "2026-11-03T20:40:00-08:00",
-    "end": "2026-11-03T22:37:00-08:00",
-    "venue": "Roxie Theater (Big Roxie)",
-    "address": "3125 16th St, San Francisco, CA 94103",
-    "url": "https://roxie.com/film/blade-runner-the-final-cut/",
-    "source": "venue:roxie",
-    "tags": [
-      "film"
-    ],
-    "price": "$14",
-    "description": "A one-night 35mm print of Ridley Scott's sci-fi noir, part of the Roxie's 'The Future According to Syd Mead' series. The series runs alongside the Syd Mead exhibition at the Transamerica Pyramid Annex Gallery.",
-    "neighbourhood": "Mission",
-    "cycle_minutes": 12,
-    "added": "2026-10-26",
-    "id": "blade-runner-the-final-cut-35mm-6ea82a3e"
-  },
-  {
-    "title": "Woodchopper's Ball: The Budhrani Brothers Sextet",
-    "start": "2026-11-03T21:00:00-08:00",
-    "end": "2026-11-03T23:30:00-08:00",
-    "venue": "Verdi Club",
-    "address": "2424 Mariposa St, San Francisco, CA 94110",
-    "url": "https://www.verdiclub.net/events/the-woodchoppers-ball-42-3-2/2026-11-03/",
-    "source": "venue:verdi-club",
-    "tags": [
-      "dance",
-      "music"
-    ],
-    "price": "$20 (cash only)",
-    "description": "The weekly Tuesday live-band swing dance at the historic Verdi Club, this week with the Budhrani Brothers Sextet. The drop-in beginner lesson at 9pm is included.",
-    "neighbourhood": "Mission",
-    "cycle_minutes": 13,
-    "added": "2026-10-26",
-    "id": "woodchopper-s-ball-the-budhrani-brothers-sextet-d7d6c2ea"
-  },
-  {
     "title": "Patch Bay workshop: Translating Living Systems into Robotics and Music",
     "start": "2026-11-04T18:00:00-08:00",
     "end": "2026-11-04T20:00:00-08:00",
@@ -2129,6 +2037,24 @@
     "cycle_minutes": 6,
     "added": "2026-11-02",
     "id": "john-proctor-is-the-villain-a-c-t-preview-be6e91ef"
+  },
+  {
+    "id": "ics-9f8d398ba263",
+    "title": "Let’s Talk About Swarms: After the Hugging Face × OpenAI Hack",
+    "start": "2026-11-17T18:30:00-08:00",
+    "end": "2026-11-17T20:30:00-08:00",
+    "venue": "San Francisco (address on Luma after registering)",
+    "address": null,
+    "url": "https://luma.com/aisafety-myrt",
+    "source": "ics:Mox",
+    "tags": [
+      "talk",
+      "tech"
+    ],
+    "price": "Free (register on Luma)",
+    "description": "Discussion evening on AI agent swarms and multi-agent safety, following the Hugging Face × OpenAI hackathon. Listed on both the Mox and AI Safety SF calendars; address shared with registrants (likely Mox in the Mission).",
+    "added": "2026-11-06",
+    "neighbourhood": "San Francisco"
   },
   {
     "title": "ChinaTalk & Unbound Book Club: Everyday Movement",

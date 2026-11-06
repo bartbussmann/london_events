@@ -5,76 +5,6 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:San Francisco Events
 X-WR-TIMEZONE:America/Los_Angeles
 BEGIN:VEVENT
-UID:booked-dating-night-for-readers-ages-25-35-71edbb8b@sf-events
-DTSTAMP:20261104T030000Z
-DTSTART:20261104T030000Z
-DTEND:20261104T050000Z
-SUMMARY:Booked: Dating Night for Readers (ages 25-35)
-DESCRIPTION:A guided dating mixer for readers aged 25-35. Everyone brings 
- a book that matters to them\, and hosts move the room from group prompts 
- to one-on-one conversations\, so no cold approaches. It's curated for a b
- alanced room. [SOLD OUT as of 1 Nov — waitlist only.]\nPrice: Sold out 
- (waitlist)\nhttps://luma.com/l7xbwkb3
-URL:https://luma.com/l7xbwkb3
-LOCATION:The Love Potion Library\, 284 Noe St\, San Francisco\, CA 94114
-END:VEVENT
-BEGIN:VEVENT
-UID:taylor-bickett-with-fairhazel-an-evening-of-indie-pop-e4c697ca@sf-even
- ts
-DTSTAMP:20261104T030000Z
-DTSTART:20261104T030000Z
-DTEND:20261104T050000Z
-SUMMARY:Taylor Bickett with Fairhazel (An Evening of Indie-Pop)
-DESCRIPTION:Indiana-born singer-songwriter Taylor Bickett brings her intim
- ate\, lyric-driven indie pop to the tiny Hotel Utah room. It's 21+ and th
- e closest small venue to home.\nPrice: $18 adv / $20 door\nhttps://wl.see
- tickets.us/event/taylor-bickett/690933?afflky=HotelUtahSaloon
-URL:https://wl.seetickets.us/event/taylor-bickett/690933?afflky=HotelUtahS
- aloon
-LOCATION:Hotel Utah Saloon\, 500 4th St\, San Francisco\, CA 94107
-END:VEVENT
-BEGIN:VEVENT
-UID:curiosity-guild-by-design-six-short-talks-024e880b@sf-events
-DTSTAMP:20261104T030000Z
-DTSTART:20261104T030000Z
-DTEND:20261104T060000Z
-SUMMARY:Curiosity Guild: By Design (six short talks)
-DESCRIPTION:A Nerd Nite-style evening of six short talks\, on planned obso
- lescence\, tarot art\, William Morris\, missions around the Moon and more
- . Doors at 7pm\, talks at 8pm\, 21+.\nPrice: $28.52-$49.87\nhttps://www.e
- ventbrite.com/e/by-design-tickets-1989199060939
-URL:https://www.eventbrite.com/e/by-design-tickets-1989199060939
-LOCATION:Public Works\, 161 Erie St\, San Francisco\, CA 94103
-END:VEVENT
-BEGIN:VEVENT
-UID:blade-runner-the-final-cut-35mm-6ea82a3e@sf-events
-DTSTAMP:20261104T044000Z
-DTSTART:20261104T044000Z
-DTEND:20261104T063700Z
-SUMMARY:Blade Runner: The Final Cut (35mm)
-DESCRIPTION:A one-night 35mm print of Ridley Scott's sci-fi noir\, part of
-  the Roxie's 'The Future According to Syd Mead' series. The series runs a
- longside the Syd Mead exhibition at the Transamerica Pyramid Annex Galler
- y.\nPrice: $14\nhttps://roxie.com/film/blade-runner-the-final-cut/
-URL:https://roxie.com/film/blade-runner-the-final-cut/
-LOCATION:Roxie Theater (Big Roxie)\, 3125 16th St\, San Francisco\, CA 941
- 03
-END:VEVENT
-BEGIN:VEVENT
-UID:woodchopper-s-ball-the-budhrani-brothers-sextet-d7d6c2ea@sf-events
-DTSTAMP:20261104T050000Z
-DTSTART:20261104T050000Z
-DTEND:20261104T073000Z
-SUMMARY:Woodchopper's Ball: The Budhrani Brothers Sextet
-DESCRIPTION:The weekly Tuesday live-band swing dance at the historic Verdi
-  Club\, this week with the Budhrani Brothers Sextet. The drop-in beginner
-  lesson at 9pm is included.\nPrice: $20 (cash only)\nhttps://www.verdiclu
- b.net/events/the-woodchoppers-ball-42-3-2/2026-11-03/
-URL:https://www.verdiclub.net/events/the-woodchoppers-ball-42-3-2/2026-11-
- 03/
-LOCATION:Verdi Club\, 2424 Mariposa St\, San Francisco\, CA 94110
-END:VEVENT
-BEGIN:VEVENT
 UID:patch-bay-workshop-translating-living-systems-into-robotics--bb07405a@
  sf-events
 DTSTAMP:20261105T020000Z
@@ -1706,6 +1636,20 @@ URL:https://www.act-sf.org/whats-on/2026-27-season/john-proctor-is-the-vil
  lain
 LOCATION:A.C.T. Toni Rembe Theater\, 415 Geary St\, San Francisco\, CA 941
  02
+END:VEVENT
+BEGIN:VEVENT
+UID:ics-9f8d398ba263@sf-events
+DTSTAMP:20261118T023000Z
+DTSTART:20261118T023000Z
+DTEND:20261118T043000Z
+SUMMARY:Let’s Talk About Swarms: After the Hugging Face × OpenAI Hack
+DESCRIPTION:Discussion evening on AI agent swarms and multi-agent safety\,
+  following the Hugging Face × OpenAI hackathon. Listed on both the Mox a
+ nd AI Safety SF calendars\; address shared with registrants (likely Mox i
+ n the Mission).\nPrice: Free (register on Luma)\nhttps://luma.com/aisafet
+ y-myrt
+URL:https://luma.com/aisafety-myrt
+LOCATION:San Francisco (address on Luma after registering)
 END:VEVENT
 BEGIN:VEVENT
 UID:chinatalk-unbound-book-club-everyday-movement-0764727c@sf-events
