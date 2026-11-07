@@ -239,6 +239,22 @@ venues:
     tags: [dance, music]
     # East Bay exception: 2nd-Wed Balkan folk dance, 3rd-Thu tango; VenuePilot widget (headless)
 
+  # --- craft, art spaces, theatre (added 2026-11-07) ---
+  - name: Museum of Craft and Design (Dogpatch)
+    url: https://sfmcd.org/
+    tags: [art, workshop]
+    # hands-on workshops with exhibiting artists, booked on Eventbrite
+  - name: RedBrick Ceramic Studio (Mission)
+    url: https://www.redbrickceramicstudio.com/
+    tags: [workshop, art]
+  - name: PlayGround SF (Potrero Stage)
+    url: https://playground-sf.org/
+    tags: [theatre]
+    # Twisted Holiday Festival 4-20 Dec 2026
+  - name: 1890 Bryant Street Studios (open studios / markets)
+    url: https://www.1890bryant.com/events
+    tags: [art, market]
+
 listings:
   - name: Funcheap SF
     url: https://sf.funcheap.com/
@@ -363,6 +379,16 @@ listings:
     # public organizer API, no auth. 8106527232 = SalsaCrazy Mondays + Dance Fridays (Space 550);
     # 121625335132 = SF Salsa Social (1st Sundays, Verdi Club); 114294925961 = Bachata Lab Fridays;
     # 4692820393 = Bachata Tuesday (last Tue, Danzhaus)
+
+  - name: MAPP — Mission Arts & Performance Project (bi-monthly crawl)
+    url: https://www.mappsf.com/events
+    tags: [art, music, community]
+  - name: Head West Marketplace (Ferry Building makers' market)
+    url: https://headwestmarketplace.com/ferrybuilding
+    tags: [market, art]
+  - name: Cityswoon speed dating (check age bracket includes 31)
+    url: https://www.eventbrite.com/d/ca--san-francisco/cityswoon/
+    tags: [community]
 
 keywords:
   - "contact improvisation jam San Francisco"

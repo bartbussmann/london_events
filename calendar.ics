@@ -911,9 +911,9 @@ DTSTAMP:20261111T030000Z
 DTSTART:20261111T030000Z
 DTEND:20261111T050000Z
 SUMMARY:Do I Want Kids? A Psychology-Based Guide to Figuring It Out
-DESCRIPTION:Big Brain lecture-in-a-bar: a psychology-based guide to decidi
- ng whether you want kids — research on values\, regret and decision-mak
- ing.\nPrice: ~$27 (Luma)\nhttps://luma.com/oybmw0hr
+DESCRIPTION:SOLD OUT. Big Brain lecture-in-a-bar: a psychology-based guide
+  to deciding whether you want kids — research on values\, regret and de
+ cision-making.\nPrice: ~$27 (Luma)\nhttps://luma.com/oybmw0hr
 URL:https://luma.com/oybmw0hr
 LOCATION:Hawthorn SF\, 46 Geary St\, San Francisco\, CA 94108
 END:VEVENT
@@ -1720,9 +1720,10 @@ DTSTAMP:20261118T030000Z
 DTSTART:20261118T030000Z
 DTEND:20261118T050000Z
 SUMMARY:ChinaTalk & Unbound Book Club: Everyday Movement
-DESCRIPTION:ChinaTalk's monthly China Reads book club in a Chinatown books
- hop-café. This month's book is Gigi Leung Lee-chi's Hong Kong protest no
- vel Everyday Movement.\nPrice: Free\nhttps://luma.com/sguni0ck
+DESCRIPTION:SOLD OUT (waitlist only). ChinaTalk's monthly China Reads book
+  club in a Chinatown bookshop-café. This month's book is Gigi Leung Lee-
+ chi's Hong Kong protest novel Everyday Movement.\nPrice: Free\nhttps://lu
+ ma.com/sguni0ck
 URL:https://luma.com/sguni0ck
 LOCATION:Unbound Books and Coffee\, 38 Waverly Pl\, San Francisco\, CA 941
  08
@@ -1982,6 +1983,33 @@ URL:https://wl.seetickets.us/event/john-carroll-kirby/700565?afflky=TheCha
 LOCATION:The Chapel\, 777 Valencia St\, San Francisco\, CA 94110
 END:VEVENT
 BEGIN:VEVENT
+UID:jamila-woods-10-years-of-heavn-with-hannah-mayree-fe61345f@sf-events
+DTSTAMP:20261119T040000Z
+DTSTART:20261119T040000Z
+DTEND:20261119T060000Z
+SUMMARY:Jamila Woods: 10 Years of HEAVN\, with Hannah Mayree
+DESCRIPTION:The Chicago poet-singer marks ten years of her soul/R&B debut 
+ HEAVN in a small room (moved here from August Hall). Doors 7pm\, show 8pm
+ \, all ages.\nPrice: $44.76 (incl. fees)\nhttps://wl.eventim.us/event/jam
+ ila-woods-10-years-of-heavn/709496?afflky=RickshawStop
+URL:https://wl.eventim.us/event/jamila-woods-10-years-of-heavn/709496?affl
+ ky=RickshawStop
+LOCATION:Rickshaw Stop\, 155 Fell St\, San Francisco\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:mild-universe-with-joel-robinow-and-pateka-8e62eb0a@sf-events
+DTSTAMP:20261119T043000Z
+DTSTART:20261119T043000Z
+DTEND:20261119T063000Z
+SUMMARY:Mild Universe with Joel Robinow and Pateka
+DESCRIPTION:SF six-piece indie-dance collective mixing 90s house\, disco\,
+  soul and post-punk with horns and synths\, plus psych-funk and neo-soul 
+ openers. Doors 8pm\, music 8:30pm\, all ages.\nPrice: $15 adv / $18 door\
+ nhttp://www.bottomofthehill.com/20261118.html
+URL:http://www.bottomofthehill.com/20261118.html
+LOCATION:Bottom of the Hill\, 1233 17th St\, San Francisco\, CA
+END:VEVENT
+BEGIN:VEVENT
 UID:cat-s-corner-wednesday-swing-dance-with-the-neil-angelo-band-8da7bd03@
  sf-events
 DTSTAMP:20261119T050000Z
@@ -2053,7 +2081,7 @@ DESCRIPTION:Nobel laureate and 'godfather of AI' Geoffrey Hinton walks thr
  ough eight scenarios for how advanced AI could pose an existential risk. 
  Hosted by the Existential Risk Observatory at the Commonwealth Club's Tau
  be Auditorium\, five minutes from home. Likely to fill fast — register 
- early.\nPrice: See Luma page\nhttps://luma.com/zcbrxhsr
+ early.\nPrice: Free (register on Luma)\nhttps://luma.com/zcbrxhsr
 URL:https://luma.com/zcbrxhsr
 LOCATION:Commonwealth Club World Affairs (Taube Auditorium)\, 110 The Emba
  rcadero\, San Francisco\, CA 94105
@@ -2223,6 +2251,19 @@ URL:https://bimbos365club.com/tm-event/hug-gyan-riley-devendra-banhart-noa
 LOCATION:Bimbo's 365 Club\, 1025 Columbus Ave\, San Francisco\, CA 94133
 END:VEVENT
 BEGIN:VEVENT
+UID:babehoven-with-pileup-f11885c1@sf-events
+DTSTAMP:20261121T040000Z
+DTSTART:20261121T040000Z
+DTEND:20261121T070000Z
+SUMMARY:Babehoven with Pileup
+DESCRIPTION:Hudson NY indie-folk duo (Maya Bon and Ryan Albert) with count
+ ry-tinged songs\, live in the old Clement St cinema\; Eventbrite shows fe
+ w tickets left. Doors 7pm\, music 8pm.\nPrice: $20-$25\nhttps://www.4-sta
+ r-movies.com/calendar-of-events/live-music-babehoven
+URL:https://www.4-star-movies.com/calendar-of-events/live-music-babehoven
+LOCATION:4 Star Theater\, 2200 Clement St\, San Francisco\, CA
+END:VEVENT
+BEGIN:VEVENT
 UID:sf-neo-futurists-the-infinite-wrench-30-plays-in-60-minutes-ffbbb4f2@s
  f-events
 DTSTAMP:20261121T050000Z
@@ -2253,17 +2294,64 @@ LOCATION:Sunset Mercantile\, 37th Ave\, 37th Ave between Ortega & Quintara
   St\, San Francisco\, CA 94122
 END:VEVENT
 BEGIN:VEVENT
+UID:sabado-gigante-native-american-heritage-celebration-at-the-b-c2afbb19@
+ sf-events
+DTSTAMP:20261121T190000Z
+DTSTART:20261121T190000Z
+DTEND:20261122T000000Z
+SUMMARY:Sabado Gigante: Native American Heritage celebration at the BART p
+ lazas
+DESCRIPTION:Mission Loteria's free street fest with Native American perfor
+ mers\, local artisan vendors and a live DJ across the 16th and 24th St BA
+ RT plazas.\nPrice: Free\nhttps://www.eventbrite.com/e/sabado-gigante-nati
+ ve-american-heritage-celebration-tickets-2004454603678
+URL:https://www.eventbrite.com/e/sabado-gigante-native-american-heritage-c
+ elebration-tickets-2004454603678
+LOCATION:16th St Mission BART Plaza\, 2000 Mission St\, San Francisco\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:fall-native-plant-fest-free-wildflower-seeds-15e72a46@sf-events
+DTSTAMP:20261121T190000Z
+DTSTART:20261121T190000Z
+DTEND:20261121T220000Z
+SUMMARY:Fall Native Plant Fest (free wildflower seeds)
+DESCRIPTION:Free autumn native-plant fair in the hillside gardens above Fo
+ rt Mason\, with wildflower seed giveaways and gardening volunteers to cha
+ t with.\nPrice: Free\nhttps://sf.funcheap.com/2026-fall-native-plant-fest
+ -free-wildflower-seeds-fort-mason-gardens-sf/
+URL:https://sf.funcheap.com/2026-fall-native-plant-fest-free-wildflower-se
+ eds-fort-mason-gardens-sf/
+LOCATION:Black Point Historic Gardens\, Fort Mason\, Fort Mason\, San Fran
+ cisco\, CA
+END:VEVENT
+BEGIN:VEVENT
 UID:ics-b8f18fea8a1d@sf-events
 DTSTAMP:20261121T210000Z
 DTSTART:20261121T210000Z
 DTEND:20261122T030000Z
 SUMMARY:The Commons Problem - Playtest 3
-DESCRIPTION:Playtest #3 of 'The Commons Problem'\, a new game about collec
- tive-action dilemmas — Saturday afternoon at Mox\; play\, give feedback
- \, meet people.\nPrice: Free (register on Luma)\nhttps://luma.com/b9n3leo
- g
+DESCRIPTION:SOLD OUT (waitlist only). Playtest #3 of 'The Commons Problem'
+ \, a new game about collective-action dilemmas — Saturday afternoon at 
+ Mox\; play\, give feedback\, meet people.\nPrice: Free (register on Luma)
+ \nhttps://luma.com/b9n3leog
 URL:https://luma.com/b9n3leog
 LOCATION:Mox\, 1680 Mission St\, San Francisco\, CA 94103
+END:VEVENT
+BEGIN:VEVENT
+UID:woodcarving-workshop-with-exhibiting-artist-nik-gelormino-032ffd08@sf-
+ events
+DTSTAMP:20261121T210000Z
+DTSTART:20261121T210000Z
+DTEND:20261121T230000Z
+SUMMARY:Woodcarving workshop with exhibiting artist Nik Gelormino
+DESCRIPTION:Hands-on knife-carving intro in the galleries with an OBJECTS:
+  USA artist: learn grain and technique and shape a rough block into a tac
+ tile form. No experience needed\, tools provided.\nPrice: $70-$80\nhttps:
+ //www.eventbrite.com/e/woodcarving-workshop-with-exhibiting-artist-nik-ge
+ lormino-tickets-2004323804454
+URL:https://www.eventbrite.com/e/woodcarving-workshop-with-exhibiting-arti
+ st-nik-gelormino-tickets-2004323804454
+LOCATION:Museum of Craft and Design\, 2569 3rd St\, San Francisco\, CA
 END:VEVENT
 BEGIN:VEVENT
 UID:ybca-world-of-black-film-touki-bouki-7cea1195@sf-events
@@ -2278,6 +2366,22 @@ DESCRIPTION:Djibril Diop Mambéty's 1973 Senegalese classic\, part of Crit
 URL:https://ybca.org/event/touki-bouki-world-of-black-film-revolutions-11-
  21-26/
 LOCATION:YBCA Screening Room\, 701 Mission St\, San Francisco\, CA 94103
+END:VEVENT
+BEGIN:VEVENT
+UID:baon-stories-and-struggles-of-filipino-migrants-premiere-fil-c6962255@
+ sf-events
+DTSTAMP:20261121T220000Z
+DTSTART:20261121T220000Z
+DTEND:20261122T000000Z
+SUMMARY:Baon: Stories and Struggles of Filipino Migrants (premiere + filmm
+ aker talk)
+DESCRIPTION:Premiere of Rachel Bundoc Lucero's film cooking home dishes wi
+ th Filipino migrants around the Bay\, followed by a conversation\; presen
+ ted with SOMA Pilipinas.\nPrice: Free (RSVP)\nhttps://www.sfmoma.org/even
+ t/baon-stories-and-struggles-of-filipino-migrants/
+URL:https://www.sfmoma.org/event/baon-stories-and-struggles-of-filipino-mi
+ grants/
+LOCATION:SFMOMA\, Phyllis Wattis Theater\, 151 3rd St\, San Francisco\, CA
 END:VEVENT
 BEGIN:VEVENT
 UID:bats-improv-intro-to-improv-with-diana-brown-single-session-4aa26e59@s
@@ -2302,13 +2406,27 @@ DTSTAMP:20261121T233000Z
 DTSTART:20261121T233000Z
 DTEND:20261122T003000Z
 SUMMARY:Monthly Chocolate Club at Manny's
-DESCRIPTION:A round-table tasting and discussion led by a local chocolatie
- r\, where everyone brings a chocolate to share. It's small and social\; s
- eats are limited.\nPrice: From $15.45\nhttps://www.eventbrite.com/e/month
- ly-chocolate-club-at-mannys-lets-explore-chocolate-tickets-1986920837712
+DESCRIPTION:POSSIBLY CANCELLED: the Eventbrite listing was withdrawn and i
+ t no longer appears on Manny's calendar. A round-table tasting and discus
+ sion led by a local chocolatier\, where everyone brings a chocolate to sh
+ are. It's small and social\; seats are limited.\nPrice: From $15.45\nhttp
+ s://www.eventbrite.com/e/monthly-chocolate-club-at-mannys-lets-explore-ch
+ ocolate-tickets-1986920837712
 URL:https://www.eventbrite.com/e/monthly-chocolate-club-at-mannys-lets-exp
  lore-chocolate-tickets-1986920837712
 LOCATION:Manny's\, 3092 16th St\, San Francisco\, CA 94103
+END:VEVENT
+BEGIN:VEVENT
+UID:bedazzling-night-at-the-love-potion-library-2ac7b04c@sf-events
+DTSTAMP:20261122T030000Z
+DTSTART:20261122T030000Z
+DTEND:20261122T050000Z
+SUMMARY:Bedazzling Night at The Love Potion Library
+DESCRIPTION:Relaxed glitter-craft social at the Castro romance bookshop an
+ d tea room: bedazzle a book you bring or one from the shelves\, supplies 
+ and help provided.\nPrice: $10\nhttps://luma.com/4pahhbua
+URL:https://luma.com/4pahhbua
+LOCATION:The Love Potion Library\, 284 Noe St\, San Francisco\, CA
 END:VEVENT
 BEGIN:VEVENT
 UID:it-1990-on-vhs-with-director-tommy-lee-wallace-in-person-a41a9b51@sf-e
@@ -2338,6 +2456,19 @@ DESCRIPTION:Frank Orrall's long-running\, Hawaii-rooted folk-pop collectiv
 URL:https://wl.seetickets.us/event/poi-dog-pondering/705787?afflky=TheChap
  el
 LOCATION:The Chapel\, 777 Valencia St\, San Francisco\, CA 94110
+END:VEVENT
+BEGIN:VEVENT
+UID:frances-whitney-with-abby-walker-daisy-s-mixtape-tour-fd8d3d21@sf-even
+ ts
+DTSTAMP:20261122T050000Z
+DTSTART:20261122T050000Z
+DTEND:20261122T070000Z
+SUMMARY:Frances Whitney with Abby Walker (Daisy's Mixtape Tour)
+DESCRIPTION:Indie-pop singer-songwriter in the intimate basement room unde
+ r the Swedish American Hall. Doors 8pm\, show 9pm\, all ages.\nPrice: $32
+ .42\nhttps://cafedunord.com/shows/2026-11-21-frances-whitney
+URL:https://cafedunord.com/shows/2026-11-21-frances-whitney
+LOCATION:Cafe du Nord\, 2170 Market St\, San Francisco\, CA
 END:VEVENT
 BEGIN:VEVENT
 UID:movement-ecstatic-dance-sf-boogiemeister-50fb1dd1@sf-events
@@ -2405,6 +2536,23 @@ URL:https://sfpl.org/events/2026/11/22/author-annalee-newitz-conversation-
  soleil-ho
 LOCATION:San Francisco Main Library\, Koret Auditorium\, 100 Larkin St\, S
  an Francisco\, CA 94102
+END:VEVENT
+BEGIN:VEVENT
+UID:redbrick-ceramic-studio-tasha-colby-artist-talk-clay-demo-e13c3d39@sf-
+ events
+DTSTAMP:20261122T220000Z
+DTSTART:20261122T220000Z
+DTEND:20261123T000000Z
+SUMMARY:RedBrick Ceramic Studio: Tasha Colby artist talk + clay demo
+DESCRIPTION:Self-taught ceramicist Tasha Colby talks about learning clay t
+ hrough curiosity and community\, then gives a demonstration\; refreshment
+ s provided. Good way to scope out a Mission pottery studio.\nPrice: Free\
+ nhttps://www.eventbrite.com/e/tasha-colby-artist-talk-pop-up-at-redbrick-
+ ceramic-studio-tickets-2002985500551
+URL:https://www.eventbrite.com/e/tasha-colby-artist-talk-pop-up-at-redbric
+ k-ceramic-studio-tickets-2002985500551
+LOCATION:RedBrick Ceramic Studio\, 2111 Mission St (3rd floor)\, San Franc
+ isco\, CA
 END:VEVENT
 BEGIN:VEVENT
 UID:flamenco-libre-matinee-21bab3c2@sf-events
@@ -2492,10 +2640,10 @@ DTSTAMP:20261124T043000Z
 DTSTART:20261124T043000Z
 DTEND:20261124T063000Z
 SUMMARY:Pedro the Lion with Karli Fairbanks
-DESCRIPTION:David Bazan's indie-rock/slowcore band Pedro the Lion in a sma
- ll Potrero Hill club\, with folky singer-songwriter Karli Fairbanks openi
- ng. Doors 7:30pm\, all ages.\nPrice: $30 adv / $35 door\nhttp://www.botto
- mofthehill.com/20261123.html
+DESCRIPTION:Reportedly SOLD OUT (per The List). David Bazan's indie-rock/s
+ lowcore band Pedro the Lion in a small Potrero Hill club\, with folky sin
+ ger-songwriter Karli Fairbanks opening. Doors 7:30pm\, all ages.\nPrice: 
+ $30 adv / $35 door\nhttp://www.bottomofthehill.com/20261123.html
 URL:http://www.bottomofthehill.com/20261123.html
 LOCATION:Bottom of the Hill\, 1233 17th St\, San Francisco\, CA 94107
 END:VEVENT
@@ -2570,6 +2718,21 @@ DESCRIPTION:Moxgiving: the Thanksgiving-eve community potluck at Mox. Star
  a dish\nhttps://luma.com/mox-wweu
 URL:https://luma.com/mox-wweu
 LOCATION:Mox\, 1680 Mission St\, San Francisco\, CA 94103
+END:VEVENT
+BEGIN:VEVENT
+UID:thanksgiving-eve-speed-dating-cityswoon-ages-29-49-73cbc30b@sf-events
+DTSTAMP:20261126T030000Z
+DTSTART:20261126T030000Z
+DTEND:20261126T053000Z
+SUMMARY:Thanksgiving Eve Speed Dating (Cityswoon\, ages 29-49)
+DESCRIPTION:App-matched speed dating (about 8 mini-dates) for mixed men an
+ d women aged 29-49 at a FiDi cocktail lounge\, with mingling afterwards. 
+ Needs a completed Cityswoon profile with photo.\nPrice: $43.45\nhttps://w
+ ww.eventbrite.com/e/thanksgiving-eve-speed-dating-rm212-cityswoon-ages-29
+ -49-tickets-2001156450814
+URL:https://www.eventbrite.com/e/thanksgiving-eve-speed-dating-rm212-citys
+ woon-ages-29-49-tickets-2001156450814
+LOCATION:RM 212\, 690 Sacramento St\, San Francisco\, CA
 END:VEVENT
 BEGIN:VEVENT
 UID:san-francisco-wednesday-contra-dance-beginner-lesson-7-30-06d062b8@sf-
@@ -2674,6 +2837,20 @@ DESCRIPTION:The 75th Kolo Festival has a day of Balkan and international f
 URL:https://kolofestival.org/
 LOCATION:Croatian American Cultural Center\, 60 Onondaga Ave\, San Francis
  co\, CA 94112
+END:VEVENT
+BEGIN:VEVENT
+UID:ybca-world-of-black-film-black-girl-ousmane-sembene-1966-3edc6dd1@sf-e
+ vents
+DTSTAMP:20261128T220000Z
+DTSTART:20261128T220000Z
+DTEND:20261129T000000Z
+SUMMARY:YBCA World of Black Film: Black Girl (Ousmane Sembene\, 1966)
+DESCRIPTION:Afternoon screening of Sembene's landmark debut feature\, co-p
+ resented with curator Ashley Clark\; ticket includes snacks and gallery a
+ dmission.\nPrice: $15\nhttps://ybca.org/event/black-girl-world-of-black-f
+ ilm-11-28-26/
+URL:https://ybca.org/event/black-girl-world-of-black-film-11-28-26/
+LOCATION:YBCA Screening Room\, 701 Mission St\, San Francisco\, CA
 END:VEVENT
 BEGIN:VEVENT
 UID:edmar-castaneda-german-lopez-terence-blanchard-s-upswing-ser-8c725add@
@@ -2795,6 +2972,23 @@ DESCRIPTION:The weekly Tuesday live-band swing dance at the historic Verdi
 URL:https://www.verdiclub.net/events/the-woodchoppers-ball-42-3-2/2026-12-
  01/
 LOCATION:Verdi Club\, 2424 Mariposa St\, San Francisco\, CA 94110
+END:VEVENT
+BEGIN:VEVENT
+UID:who-is-san-francisco-s-recovery-for-trust-fairness-the-next--fd044592@
+ sf-events
+DTSTAMP:20261203T023000Z
+DTSTART:20261203T023000Z
+DTEND:20261203T040000Z
+SUMMARY:Who Is San Francisco's Recovery For? Trust\, Fairness & the Next G
+ old Rush
+DESCRIPTION:Interactive civic conversation with psychologist Billy Vaughn 
+ and Jen Randle on who benefits from SF's rebound and how to rebuild trust
+  across divides. Doors 6pm.\nPrice: From $8.24 (free on request)\nhttps:/
+ /www.eventbrite.com/e/who-is-san-franciscos-recovery-for-trust-fairness-t
+ he-next-gold-rush-tickets-2004311894832
+URL:https://www.eventbrite.com/e/who-is-san-franciscos-recovery-for-trust-
+ fairness-the-next-gold-rush-tickets-2004311894832
+LOCATION:Manny's\, 3092 16th St\, San Francisco\, CA
 END:VEVENT
 BEGIN:VEVENT
 UID:long-now-lost-landscapes-02026-with-rick-prelinger-second-ni-32a67372@
@@ -2950,6 +3144,52 @@ LOCATION:Galleries across the Tenderloin + Lower Nob Hill\, Tenderloin\, S
  an Francisco\, CA
 END:VEVENT
 BEGIN:VEVENT
+UID:50-years-of-mother-jones-with-adam-hochschild-and-monika-bau-a76d67cd@
+ sf-events
+DTSTAMP:20261204T020000Z
+DTSTART:20261204T020000Z
+DTEND:20261204T040000Z
+SUMMARY:50 Years of Mother Jones\, with Adam Hochschild and Monika Bauerle
+ in
+DESCRIPTION:Mother Jones co-founder Adam Hochschild and CIR CEO Monika Bau
+ erlein on the SF-born outlet's big investigations\, its lawsuit against O
+ penAI\, and nonprofit news.\nPrice: $25 (students free)\nhttps://www.comm
+ onwealthclub.org/events/2026-12-03/50-years-mother-jones-adam-hochschild-
+ and-monika-bauerlein
+URL:https://www.commonwealthclub.org/events/2026-12-03/50-years-mother-jon
+ es-adam-hochschild-and-monika-bauerlein
+LOCATION:Commonwealth Club World Affairs (Toni Rembe Rock Auditorium)\, 11
+ 0 The Embarcadero\, San Francisco\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:kqed-live-tiles-tonics-a-mahjong-soiree-84b84e51@sf-events
+DTSTAMP:20261204T020000Z
+DTSTART:20261204T020000Z
+DTEND:20261204T040000Z
+SUMMARY:KQED Live: Tiles & Tonics\, a mahjong soiree
+DESCRIPTION:Mahjong for all levels with friendly guidance and handcrafted 
+ mocktails. A low-key social way to meet people.\nPrice: $25 + fees\nhttps
+ ://www.kqed.org/event/7000/mahjong-mocktails
+URL:https://www.kqed.org/event/7000/mahjong-mocktails
+LOCATION:County Fair Building\, Golden Gate Park\, 1199 9th Ave\, San Fran
+ cisco\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:sydney-cash-makes-too-much-art-screening-filmmaker-conversat-5c8ef00e@
+ sf-events
+DTSTAMP:20261204T020000Z
+DTSTART:20261204T020000Z
+DTEND:20261204T040000Z
+SUMMARY:Sydney Cash Makes Too Much Art: screening + filmmaker conversation
+DESCRIPTION:Documentary about an 80-year-old artist who can't stop making 
+ art and his family's dilemma over his lifetime of work\, followed by a co
+ nversation with filmmaker Ivan Cash and Sydney Cash.\nPrice: $0-$30 tiere
+ d ($10 general)\nhttps://www.sfmoma.org/event/sydney-cash-makes-too-much-
+ art/
+URL:https://www.sfmoma.org/event/sydney-cash-makes-too-much-art/
+LOCATION:SFMOMA\, Phyllis Wattis Theater\, 151 3rd St\, San Francisco\, CA
+END:VEVENT
+BEGIN:VEVENT
 UID:the-death-of-meyerhold-shotgun-players-preview-d5d05294@sf-events
 DTSTAMP:20261204T030000Z
 DTSTART:20261204T030000Z
@@ -2964,6 +3204,21 @@ DESCRIPTION:Mark Jackson writes and directs this revival about the maveric
 URL:https://shotgunplayers.org/show/meyerhold/
 LOCATION:Shotgun Players\, The Ashby Stage\, 1901 Ashby Ave\, Berkeley\, C
  A 94703
+END:VEVENT
+BEGIN:VEVENT
+UID:we-live-in-public-encampments-as-resistance-panel-39d16dc2@sf-events
+DTSTAMP:20261204T030000Z
+DTSTART:20261204T030000Z
+DTEND:20261204T050000Z
+SUMMARY:We Live In Public: encampments as resistance (panel)
+DESCRIPTION:In-store panel and readings from editors and contributors of a
+  new book written by unhoused people and allies about LA encampments. Sea
+ ting is first come.\nPrice: Free\nhttps://citylights.com/events/panel-dis
+ cussion-we-live-in-public-encampments-as-resistance-and-revolutionary-car
+ e-in-los-angeles/
+URL:https://citylights.com/events/panel-discussion-we-live-in-public-encam
+ pments-as-resistance-and-revolutionary-care-in-los-angeles/
+LOCATION:City Lights Booksellers\, 261 Columbus Ave\, San Francisco\, CA
 END:VEVENT
 BEGIN:VEVENT
 UID:greg-fitzsimmons-a57f92c4@sf-events
@@ -3042,6 +3297,21 @@ LOCATION:SF State Observatory\, Thornton Hall 10th floor\, 1600 Holloway A
  ve\, San Francisco\, CA 94132
 END:VEVENT
 BEGIN:VEVENT
+UID:playground-twisted-holiday-festival-opening-night-to-bah-or--bb4b7012@
+ sf-events
+DTSTAMP:20261205T030000Z
+DTSTART:20261205T030000Z
+DTEND:20261205T050000Z
+SUMMARY:PlayGround Twisted Holiday Festival opening night: To Bah or Not t
+ o Bah Humbug
+DESCRIPTION:First night of PlayGround's new fringe-style festival of holid
+ ay plays with a twist (8 productions\, 24 shows through Dec 20). The Long
+  Christmas Dinner follows at 8:30pm.\nPrice: Free at the door (suggested 
+ donation $10-$30)\nhttps://playground-sf.org/twistedholiday
+URL:https://playground-sf.org/twistedholiday
+LOCATION:Potrero Stage\, 1695 18th St\, San Francisco\, CA
+END:VEVENT
+BEGIN:VEVENT
 UID:the-crooked-jades-beautiful-world-album-release-1daf5a18@sf-events
 DTSTAMP:20261205T040000Z
 DTSTART:20261205T040000Z
@@ -3088,6 +3358,33 @@ DESCRIPTION:The 11th annual Sunset Mercantile holiday fair\, with 100+ loc
 URL:https://sunsetmercantilesf.com/sunset-holiday-mercantile/
 LOCATION:San Francisco County Fair Building (Golden Gate Park)\, 1199 9th 
  Ave\, San Francisco\, CA 94122
+END:VEVENT
+BEGIN:VEVENT
+UID:mapp-mission-arts-performance-project-december-crawl-ac47bed8@sf-event
+ s
+DTSTAMP:20261205T200000Z
+DTSTART:20261205T200000Z
+DTEND:20261205T220000Z
+SUMMARY:MAPP: Mission Arts & Performance Project (December crawl)
+DESCRIPTION:The every-two-months free crawl of music\, poetry\, film and p
+ erformance in cafes\, bars\, gardens and BART plazas around the Mission. 
+ MAPP lists it from noon\; most performances run about 6-10pm.\nPrice: Fre
+ e\nhttps://www.mappsf.com/events
+URL:https://www.mappsf.com/events
+LOCATION:Venues across the Mission District\, Mission St & 20th St area\, 
+ San Francisco\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:1890-bryant-street-studios-holiday-market-be8c6d56@sf-events
+DTSTAMP:20261205T200000Z
+DTSTART:20261205T200000Z
+DTEND:20261206T010000Z
+SUMMARY:1890 Bryant Street Studios Holiday Market
+DESCRIPTION:Open studios and holiday sale across a building of working art
+ ists' studios on the Mission/Potrero border (also Sun 6 Dec\, 12-5pm).\nP
+ rice: Free\nhttps://www.1890bryant.com/events
+URL:https://www.1890bryant.com/events
+LOCATION:1890 Bryant Street Studios\, 1890 Bryant St\, San Francisco\, CA
 END:VEVENT
 BEGIN:VEVENT
 UID:rosanna-xia-california-against-the-sea-in-conversation-with--d9754634@
@@ -3153,6 +3450,19 @@ URL:https://www.killingmylobster.com/shows-events
 LOCATION:Z Below (Z Space)\, 470 Florida St\, San Francisco\, CA 94110
 END:VEVENT
 BEGIN:VEVENT
+UID:sfmoma-holiday-makers-market-2263132d@sf-events
+DTSTAMP:20261206T180000Z
+DTSTART:20261206T180000Z
+DTEND:20261207T010000Z
+SUMMARY:SFMOMA Holiday Makers Market
+DESCRIPTION:A one-day curated market of 20 Bay Area makers selling ceramic
+ s\, jewelry\, prints and more\, a few minutes from home.\nPrice: Free (no
+  museum ticket needed)\nhttps://www.sfmoma.org/event/sfmoma-holiday-maker
+ s-market/
+URL:https://www.sfmoma.org/event/sfmoma-holiday-makers-market/
+LOCATION:SFMOMA\, Schwab Hall (Floor 2)\, 151 3rd St\, San Francisco\, CA
+END:VEVENT
+BEGIN:VEVENT
 UID:lindy-in-the-park-free-swing-dancing-beginner-lesson-dc7186a2@sf-event
  s
 DTSTAMP:20261206T190000Z
@@ -3168,6 +3478,18 @@ LOCATION:Golden Gate Park\, JFK Drive (8th-10th Ave)\, JFK Dr between 8th
  & 10th Ave (behind the de Young)\, San Francisco\, CA
 END:VEVENT
 BEGIN:VEVENT
+UID:head-west-marketplace-at-the-ferry-building-b442ffcc@sf-events
+DTSTAMP:20261206T190000Z
+DTSTART:20261206T190000Z
+DTEND:20261207T000000Z
+SUMMARY:Head West Marketplace at the Ferry Building
+DESCRIPTION:Outdoor makers' market of independent Bay Area designers and a
+ rtists on the waterfront plaza behind the Ferry Building.\nPrice: Free\nh
+ ttps://headwestmarketplace.com/ferrybuilding
+URL:https://headwestmarketplace.com/ferrybuilding
+LOCATION:Ferry Building back plaza\, 1 Ferry Building\, San Francisco\, CA
+END:VEVENT
+BEGIN:VEVENT
 UID:zorn-medeski-lombardo-awakening-ground-matinee-e80e74b6@sf-events
 DTSTAMP:20261207T000000Z
 DTSTART:20261207T000000Z
@@ -3181,6 +3503,21 @@ URL:https://wl.seetickets.us/event/zorn-medeski-lombardo-awakening-ground-
  matinee/694421?afflky=GreatAmericanMusicHall
 LOCATION:Great American Music Hall\, 859 O'Farrell St\, San Francisco\, CA
   94109
+END:VEVENT
+BEGIN:VEVENT
+UID:sf-dada-do-salon-13th-annual-maintenant-20-launch-52761351@sf-events
+DTSTAMP:20261207T020000Z
+DTSTART:20261207T020000Z
+DTEND:20261207T040000Z
+SUMMARY:SF Dada Do Salon (13th annual) + MAINTENANT 20 launch
+DESCRIPTION:An evening of eccentric Dada performance and poetry from Bay A
+ rea artists in North Beach's classic bar\, launching the international Da
+ da journal MAINTENANT. Costumes encouraged\, with live piano and bass 8-9
+ :30pm.\nPrice: Free\nhttps://threeroomspress.com/event/13th-annual-sf-dad
+ a-do-salon/
+URL:https://threeroomspress.com/event/13th-annual-sf-dada-do-salon/
+LOCATION:Spec's Twelve Adler Museum Cafe\, 12 William Saroyan Pl\, San Fra
+ ncisco\, CA
 END:VEVENT
 BEGIN:VEVENT
 UID:sf-salsa-social-beginner-class-salsa-mambo-dancing-4704b328@sf-events

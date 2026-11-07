@@ -1145,7 +1145,7 @@
       "community"
     ],
     "price": "~$27 (Luma)",
-    "description": "Big Brain lecture-in-a-bar: a psychology-based guide to deciding whether you want kids — research on values, regret and decision-making.",
+    "description": "SOLD OUT. Big Brain lecture-in-a-bar: a psychology-based guide to deciding whether you want kids — research on values, regret and decision-making.",
     "added": "2026-11-04",
     "neighbourhood": "Union Square",
     "cycle_minutes": 6
@@ -2154,7 +2154,7 @@
       "community"
     ],
     "price": "Free",
-    "description": "ChinaTalk's monthly China Reads book club in a Chinatown bookshop-café. This month's book is Gigi Leung Lee-chi's Hong Kong protest novel Everyday Movement.",
+    "description": "SOLD OUT (waitlist only). ChinaTalk's monthly China Reads book club in a Chinatown bookshop-café. This month's book is Gigi Leung Lee-chi's Hong Kong protest novel Everyday Movement.",
     "neighbourhood": "Chinatown",
     "cycle_minutes": 9,
     "added": "2026-10-26",
@@ -2477,6 +2477,42 @@
     "id": "john-carroll-kirby-at-the-chapel-14497fef"
   },
   {
+    "id": "jamila-woods-10-years-of-heavn-with-hannah-mayree-fe61345f",
+    "title": "Jamila Woods: 10 Years of HEAVN, with Hannah Mayree",
+    "start": "2026-11-18T20:00:00-08:00",
+    "end": null,
+    "venue": "Rickshaw Stop",
+    "address": "155 Fell St, San Francisco, CA",
+    "url": "https://wl.eventim.us/event/jamila-woods-10-years-of-heavn/709496?afflky=RickshawStop",
+    "source": "venue:rickshawstop",
+    "tags": [
+      "music"
+    ],
+    "price": "$44.76 (incl. fees)",
+    "description": "The Chicago poet-singer marks ten years of her soul/R&B debut HEAVN in a small room (moved here from August Hall). Doors 7pm, show 8pm, all ages.",
+    "neighbourhood": "Hayes Valley",
+    "cycle_minutes": 10,
+    "added": "2026-11-07"
+  },
+  {
+    "id": "mild-universe-with-joel-robinow-and-pateka-8e62eb0a",
+    "title": "Mild Universe with Joel Robinow and Pateka",
+    "start": "2026-11-18T20:30:00-08:00",
+    "end": null,
+    "venue": "Bottom of the Hill",
+    "address": "1233 17th St, San Francisco, CA",
+    "url": "http://www.bottomofthehill.com/20261118.html",
+    "source": "venue:bottomofthehill",
+    "tags": [
+      "music"
+    ],
+    "price": "$15 adv / $18 door",
+    "description": "SF six-piece indie-dance collective mixing 90s house, disco, soul and post-punk with horns and synths, plus psych-funk and neo-soul openers. Doors 8pm, music 8:30pm, all ages.",
+    "neighbourhood": "Potrero Hill",
+    "cycle_minutes": 12,
+    "added": "2026-11-07"
+  },
+  {
     "title": "Cat's Corner: Wednesday swing dance with the Neil Angelo Band",
     "start": "2026-11-18T21:00:00-08:00",
     "end": "2026-11-18T23:30:00-08:00",
@@ -2565,7 +2601,7 @@
       "talk",
       "tech"
     ],
-    "price": "See Luma page",
+    "price": "Free (register on Luma)",
     "description": "Nobel laureate and 'godfather of AI' Geoffrey Hinton walks through eight scenarios for how advanced AI could pose an existential risk. Hosted by the Existential Risk Observatory at the Commonwealth Club's Taube Auditorium, five minutes from home. Likely to fill fast — register early.",
     "added": "2026-11-07",
     "neighbourhood": "Embarcadero",
@@ -2777,6 +2813,24 @@
     "id": "hug-feat-gyan-riley-devendra-banhart-noah-georgeson-seated-13956bc2"
   },
   {
+    "id": "babehoven-with-pileup-f11885c1",
+    "title": "Babehoven with Pileup",
+    "start": "2026-11-20T20:00:00-08:00",
+    "end": "2026-11-20T23:00:00-08:00",
+    "venue": "4 Star Theater",
+    "address": "2200 Clement St, San Francisco, CA",
+    "url": "https://www.4-star-movies.com/calendar-of-events/live-music-babehoven",
+    "source": "venue:4star",
+    "tags": [
+      "music"
+    ],
+    "price": "$20-$25",
+    "description": "Hudson NY indie-folk duo (Maya Bon and Ryan Albert) with country-tinged songs, live in the old Clement St cinema; Eventbrite shows few tickets left. Doors 7pm, music 8pm.",
+    "neighbourhood": "Outer Richmond",
+    "cycle_minutes": 35,
+    "added": "2026-11-07"
+  },
+  {
     "title": "SF Neo-Futurists: The Infinite Wrench (30 plays in 60 minutes)",
     "start": "2026-11-20T21:00:00-08:00",
     "end": "2026-11-20T22:30:00-08:00",
@@ -2816,6 +2870,45 @@
     "id": "secondhand-saturday-season-finale-sunset-mercantile-cc703fb7"
   },
   {
+    "id": "sabado-gigante-native-american-heritage-celebration-at-the-b-c2afbb19",
+    "title": "Sabado Gigante: Native American Heritage celebration at the BART plazas",
+    "start": "2026-11-21T11:00:00-08:00",
+    "end": "2026-11-21T16:00:00-08:00",
+    "venue": "16th St Mission BART Plaza",
+    "address": "2000 Mission St, San Francisco, CA",
+    "url": "https://www.eventbrite.com/e/sabado-gigante-native-american-heritage-celebration-tickets-2004454603678",
+    "source": "aggregator:funcheap",
+    "tags": [
+      "festival",
+      "community",
+      "market"
+    ],
+    "price": "Free",
+    "description": "Mission Loteria's free street fest with Native American performers, local artisan vendors and a live DJ across the 16th and 24th St BART plazas.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 12,
+    "added": "2026-11-07"
+  },
+  {
+    "id": "fall-native-plant-fest-free-wildflower-seeds-15e72a46",
+    "title": "Fall Native Plant Fest (free wildflower seeds)",
+    "start": "2026-11-21T11:00:00-08:00",
+    "end": "2026-11-21T14:00:00-08:00",
+    "venue": "Black Point Historic Gardens, Fort Mason",
+    "address": "Fort Mason, San Francisco, CA",
+    "url": "https://sf.funcheap.com/2026-fall-native-plant-fest-free-wildflower-seeds-fort-mason-gardens-sf/",
+    "source": "aggregator:funcheap",
+    "tags": [
+      "outdoors",
+      "community"
+    ],
+    "price": "Free",
+    "description": "Free autumn native-plant fair in the hillside gardens above Fort Mason, with wildflower seed giveaways and gardening volunteers to chat with.",
+    "neighbourhood": "Fort Mason",
+    "cycle_minutes": 22,
+    "added": "2026-11-07"
+  },
+  {
     "id": "ics-b8f18fea8a1d",
     "title": "The Commons Problem - Playtest 3",
     "start": "2026-11-21T13:00:00-08:00",
@@ -2828,10 +2921,30 @@
       "community"
     ],
     "price": "Free (register on Luma)",
-    "description": "Playtest #3 of 'The Commons Problem', a new game about collective-action dilemmas — Saturday afternoon at Mox; play, give feedback, meet people.",
+    "description": "SOLD OUT (waitlist only). Playtest #3 of 'The Commons Problem', a new game about collective-action dilemmas — Saturday afternoon at Mox; play, give feedback, meet people.",
     "added": "2026-10-26",
     "neighbourhood": "Mission",
     "cycle_minutes": 13
+  },
+  {
+    "id": "woodcarving-workshop-with-exhibiting-artist-nik-gelormino-032ffd08",
+    "title": "Woodcarving workshop with exhibiting artist Nik Gelormino",
+    "start": "2026-11-21T13:00:00-08:00",
+    "end": "2026-11-21T15:00:00-08:00",
+    "venue": "Museum of Craft and Design",
+    "address": "2569 3rd St, San Francisco, CA",
+    "url": "https://www.eventbrite.com/e/woodcarving-workshop-with-exhibiting-artist-nik-gelormino-tickets-2004323804454",
+    "source": "aggregator:eventbrite",
+    "tags": [
+      "workshop",
+      "class",
+      "art"
+    ],
+    "price": "$70-$80",
+    "description": "Hands-on knife-carving intro in the galleries with an OBJECTS: USA artist: learn grain and technique and shape a rough block into a tactile form. No experience needed, tools provided.",
+    "neighbourhood": "Dogpatch",
+    "cycle_minutes": 12,
+    "added": "2026-11-07"
   },
   {
     "title": "YBCA World of Black Film: Touki Bouki",
@@ -2850,6 +2963,26 @@
     "cycle_minutes": 3,
     "added": "2026-11-01",
     "id": "ybca-world-of-black-film-touki-bouki-7cea1195"
+  },
+  {
+    "id": "baon-stories-and-struggles-of-filipino-migrants-premiere-fil-c6962255",
+    "title": "Baon: Stories and Struggles of Filipino Migrants (premiere + filmmaker talk)",
+    "start": "2026-11-21T14:00:00-08:00",
+    "end": null,
+    "venue": "SFMOMA, Phyllis Wattis Theater",
+    "address": "151 3rd St, San Francisco, CA",
+    "url": "https://www.sfmoma.org/event/baon-stories-and-struggles-of-filipino-migrants/",
+    "source": "venue:sfmoma",
+    "tags": [
+      "film",
+      "food",
+      "community"
+    ],
+    "price": "Free (RSVP)",
+    "description": "Premiere of Rachel Bundoc Lucero's film cooking home dishes with Filipino migrants around the Bay, followed by a conversation; presented with SOMA Pilipinas.",
+    "neighbourhood": "SoMa",
+    "cycle_minutes": 5,
+    "added": "2026-11-07"
   },
   {
     "title": "BATS Improv: Intro to Improv with Diana Brown (single session)",
@@ -2883,11 +3016,30 @@
       "community"
     ],
     "price": "From $15.45",
-    "description": "A round-table tasting and discussion led by a local chocolatier, where everyone brings a chocolate to share. It's small and social; seats are limited.",
+    "description": "POSSIBLY CANCELLED: the Eventbrite listing was withdrawn and it no longer appears on Manny's calendar. A round-table tasting and discussion led by a local chocolatier, where everyone brings a chocolate to share. It's small and social; seats are limited.",
     "neighbourhood": "Mission",
     "cycle_minutes": 13,
     "added": "2026-11-01",
     "id": "monthly-chocolate-club-at-manny-s-414ce6a6"
+  },
+  {
+    "id": "bedazzling-night-at-the-love-potion-library-2ac7b04c",
+    "title": "Bedazzling Night at The Love Potion Library",
+    "start": "2026-11-21T19:00:00-08:00",
+    "end": "2026-11-21T21:00:00-08:00",
+    "venue": "The Love Potion Library",
+    "address": "284 Noe St, San Francisco, CA",
+    "url": "https://luma.com/4pahhbua",
+    "source": "ics:Love Potion Library",
+    "tags": [
+      "workshop",
+      "community"
+    ],
+    "price": "$10",
+    "description": "Relaxed glitter-craft social at the Castro romance bookshop and tea room: bedazzle a book you bring or one from the shelves, supplies and help provided.",
+    "neighbourhood": "Castro",
+    "cycle_minutes": 17,
+    "added": "2026-11-07"
   },
   {
     "title": "IT (1990) on VHS with director Tommy Lee Wallace in person",
@@ -2924,6 +3076,24 @@
     "cycle_minutes": 13,
     "added": "2026-11-02",
     "id": "poi-dog-pondering-with-archer-monk-746ad0e2"
+  },
+  {
+    "id": "frances-whitney-with-abby-walker-daisy-s-mixtape-tour-fd8d3d21",
+    "title": "Frances Whitney with Abby Walker (Daisy's Mixtape Tour)",
+    "start": "2026-11-21T21:00:00-08:00",
+    "end": null,
+    "venue": "Cafe du Nord",
+    "address": "2170 Market St, San Francisco, CA",
+    "url": "https://cafedunord.com/shows/2026-11-21-frances-whitney",
+    "source": "venue:cafedunord",
+    "tags": [
+      "music"
+    ],
+    "price": "$32.42",
+    "description": "Indie-pop singer-songwriter in the intimate basement room under the Swedish American Hall. Doors 8pm, show 9pm, all ages.",
+    "neighbourhood": "Upper Market",
+    "cycle_minutes": 15,
+    "added": "2026-11-07"
   },
   {
     "title": "MOVEMENT Ecstatic Dance SF // Boogiemeister",
@@ -3001,6 +3171,26 @@
     "cycle_minutes": 8,
     "added": "2026-10-28",
     "id": "annalee-newitz-in-conversation-with-soleil-ho-automatic-nood-64ebbbf5"
+  },
+  {
+    "id": "redbrick-ceramic-studio-tasha-colby-artist-talk-clay-demo-e13c3d39",
+    "title": "RedBrick Ceramic Studio: Tasha Colby artist talk + clay demo",
+    "start": "2026-11-22T14:00:00-08:00",
+    "end": "2026-11-22T16:00:00-08:00",
+    "venue": "RedBrick Ceramic Studio",
+    "address": "2111 Mission St (3rd floor), San Francisco, CA",
+    "url": "https://www.eventbrite.com/e/tasha-colby-artist-talk-pop-up-at-redbrick-ceramic-studio-tickets-2002985500551",
+    "source": "aggregator:funcheap",
+    "tags": [
+      "art",
+      "talk",
+      "community"
+    ],
+    "price": "Free",
+    "description": "Self-taught ceramicist Tasha Colby talks about learning clay through curiosity and community, then gives a demonstration; refreshments provided. Good way to scope out a Mission pottery studio.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 13,
+    "added": "2026-11-07"
   },
   {
     "title": "Flamenco Libre (matinee)",
@@ -3106,7 +3296,7 @@
       "music"
     ],
     "price": "$30 adv / $35 door",
-    "description": "David Bazan's indie-rock/slowcore band Pedro the Lion in a small Potrero Hill club, with folky singer-songwriter Karli Fairbanks opening. Doors 7:30pm, all ages.",
+    "description": "Reportedly SOLD OUT (per The List). David Bazan's indie-rock/slowcore band Pedro the Lion in a small Potrero Hill club, with folky singer-songwriter Karli Fairbanks opening. Doors 7:30pm, all ages.",
     "neighbourhood": "Potrero Hill",
     "cycle_minutes": 12,
     "added": "2026-10-26",
@@ -3206,6 +3396,24 @@
     "added": "2026-11-03",
     "neighbourhood": "Mission",
     "cycle_minutes": 13
+  },
+  {
+    "id": "thanksgiving-eve-speed-dating-cityswoon-ages-29-49-73cbc30b",
+    "title": "Thanksgiving Eve Speed Dating (Cityswoon, ages 29-49)",
+    "start": "2026-11-25T19:00:00-08:00",
+    "end": "2026-11-25T21:30:00-08:00",
+    "venue": "RM 212",
+    "address": "690 Sacramento St, San Francisco, CA",
+    "url": "https://www.eventbrite.com/e/thanksgiving-eve-speed-dating-rm212-cityswoon-ages-29-49-tickets-2001156450814",
+    "source": "aggregator:eventbrite",
+    "tags": [
+      "community"
+    ],
+    "price": "$43.45",
+    "description": "App-matched speed dating (about 8 mini-dates) for mixed men and women aged 29-49 at a FiDi cocktail lounge, with mingling afterwards. Needs a completed Cityswoon profile with photo.",
+    "neighbourhood": "Financial District",
+    "cycle_minutes": 7,
+    "added": "2026-11-07"
   },
   {
     "title": "San Francisco Wednesday Contra Dance (beginner lesson 7:30)",
@@ -3337,6 +3545,24 @@
     "cycle_minutes": 35,
     "added": "2026-10-29",
     "id": "kolo-festival-balkan-music-dance-weekend-saturday-9f7a8113"
+  },
+  {
+    "id": "ybca-world-of-black-film-black-girl-ousmane-sembene-1966-3edc6dd1",
+    "title": "YBCA World of Black Film: Black Girl (Ousmane Sembene, 1966)",
+    "start": "2026-11-28T14:00:00-08:00",
+    "end": null,
+    "venue": "YBCA Screening Room",
+    "address": "701 Mission St, San Francisco, CA",
+    "url": "https://ybca.org/event/black-girl-world-of-black-film-11-28-26/",
+    "source": "venue:ybca",
+    "tags": [
+      "film"
+    ],
+    "price": "$15",
+    "description": "Afternoon screening of Sembene's landmark debut feature, co-presented with curator Ashley Clark; ticket includes snacks and gallery admission.",
+    "neighbourhood": "SoMa",
+    "cycle_minutes": 3,
+    "added": "2026-11-07"
   },
   {
     "title": "Edmar Castaneda / German Lopez (Terence Blanchard's UpSwing series)",
@@ -3488,6 +3714,25 @@
     "cycle_minutes": 13,
     "added": "2026-10-27",
     "id": "woodchopper-s-ball-live-band-swing-night-5904beea"
+  },
+  {
+    "id": "who-is-san-francisco-s-recovery-for-trust-fairness-the-next--fd044592",
+    "title": "Who Is San Francisco's Recovery For? Trust, Fairness & the Next Gold Rush",
+    "start": "2026-12-02T18:30:00-08:00",
+    "end": "2026-12-02T20:00:00-08:00",
+    "venue": "Manny's",
+    "address": "3092 16th St, San Francisco, CA",
+    "url": "https://www.eventbrite.com/e/who-is-san-franciscos-recovery-for-trust-fairness-the-next-gold-rush-tickets-2004311894832",
+    "source": "venue:mannys",
+    "tags": [
+      "talk",
+      "community"
+    ],
+    "price": "From $8.24 (free on request)",
+    "description": "Interactive civic conversation with psychologist Billy Vaughn and Jen Randle on who benefits from SF's rebound and how to rebuild trust across divides. Doors 6pm.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 13,
+    "added": "2026-11-07"
   },
   {
     "title": "Long Now: Lost Landscapes 02026 with Rick Prelinger (second night)",
@@ -3682,6 +3927,61 @@
     "id": "sf-first-thursday-art-walk-tenderloin-lower-nob-hill-b71b6ec2"
   },
   {
+    "id": "50-years-of-mother-jones-with-adam-hochschild-and-monika-bau-a76d67cd",
+    "title": "50 Years of Mother Jones, with Adam Hochschild and Monika Bauerlein",
+    "start": "2026-12-03T18:00:00-08:00",
+    "end": null,
+    "venue": "Commonwealth Club World Affairs (Toni Rembe Rock Auditorium)",
+    "address": "110 The Embarcadero, San Francisco, CA",
+    "url": "https://www.commonwealthclub.org/events/2026-12-03/50-years-mother-jones-adam-hochschild-and-monika-bauerlein",
+    "source": "venue:commonwealthclub",
+    "tags": [
+      "talk"
+    ],
+    "price": "$25 (students free)",
+    "description": "Mother Jones co-founder Adam Hochschild and CIR CEO Monika Bauerlein on the SF-born outlet's big investigations, its lawsuit against OpenAI, and nonprofit news.",
+    "neighbourhood": "Embarcadero",
+    "cycle_minutes": 5,
+    "added": "2026-11-07"
+  },
+  {
+    "id": "kqed-live-tiles-tonics-a-mahjong-soiree-84b84e51",
+    "title": "KQED Live: Tiles & Tonics, a mahjong soiree",
+    "start": "2026-12-03T18:00:00-08:00",
+    "end": null,
+    "venue": "County Fair Building, Golden Gate Park",
+    "address": "1199 9th Ave, San Francisco, CA",
+    "url": "https://www.kqed.org/event/7000/mahjong-mocktails",
+    "source": "venue:kqed",
+    "tags": [
+      "community"
+    ],
+    "price": "$25 + fees",
+    "description": "Mahjong for all levels with friendly guidance and handcrafted mocktails. A low-key social way to meet people.",
+    "neighbourhood": "Inner Sunset",
+    "cycle_minutes": 27,
+    "added": "2026-11-07"
+  },
+  {
+    "id": "sydney-cash-makes-too-much-art-screening-filmmaker-conversat-5c8ef00e",
+    "title": "Sydney Cash Makes Too Much Art: screening + filmmaker conversation",
+    "start": "2026-12-03T18:00:00-08:00",
+    "end": null,
+    "venue": "SFMOMA, Phyllis Wattis Theater",
+    "address": "151 3rd St, San Francisco, CA",
+    "url": "https://www.sfmoma.org/event/sydney-cash-makes-too-much-art/",
+    "source": "venue:sfmoma",
+    "tags": [
+      "film",
+      "art"
+    ],
+    "price": "$0-$30 tiered ($10 general)",
+    "description": "Documentary about an 80-year-old artist who can't stop making art and his family's dilemma over his lifetime of work, followed by a conversation with filmmaker Ivan Cash and Sydney Cash.",
+    "neighbourhood": "SoMa",
+    "cycle_minutes": 5,
+    "added": "2026-11-07"
+  },
+  {
     "title": "The Death of Meyerhold (Shotgun Players preview)",
     "start": "2026-12-03T19:00:00-08:00",
     "end": null,
@@ -3697,6 +3997,24 @@
     "neighbourhood": "Berkeley",
     "added": "2026-11-02",
     "id": "the-death-of-meyerhold-shotgun-players-preview-d5d05294"
+  },
+  {
+    "id": "we-live-in-public-encampments-as-resistance-panel-39d16dc2",
+    "title": "We Live In Public: encampments as resistance (panel)",
+    "start": "2026-12-03T19:00:00-08:00",
+    "end": null,
+    "venue": "City Lights Booksellers",
+    "address": "261 Columbus Ave, San Francisco, CA",
+    "url": "https://citylights.com/events/panel-discussion-we-live-in-public-encampments-as-resistance-and-revolutionary-care-in-los-angeles/",
+    "source": "venue:citylights",
+    "tags": [
+      "talk"
+    ],
+    "price": "Free",
+    "description": "In-store panel and readings from editors and contributors of a new book written by unhoused people and allies about LA encampments. Seating is first come.",
+    "neighbourhood": "North Beach",
+    "cycle_minutes": 10,
+    "added": "2026-11-07"
   },
   {
     "title": "Greg Fitzsimmons",
@@ -3794,6 +4112,24 @@
     "id": "sf-state-observatory-public-night-rooftop-telescope-stargazi-9ff8ffe6"
   },
   {
+    "id": "playground-twisted-holiday-festival-opening-night-to-bah-or--bb4b7012",
+    "title": "PlayGround Twisted Holiday Festival opening night: To Bah or Not to Bah Humbug",
+    "start": "2026-12-04T19:00:00-08:00",
+    "end": null,
+    "venue": "Potrero Stage",
+    "address": "1695 18th St, San Francisco, CA",
+    "url": "https://playground-sf.org/twistedholiday",
+    "source": "venue:playground",
+    "tags": [
+      "theatre"
+    ],
+    "price": "Free at the door (suggested donation $10-$30)",
+    "description": "First night of PlayGround's new fringe-style festival of holiday plays with a twist (8 productions, 24 shows through Dec 20). The Long Christmas Dinner follows at 8:30pm.",
+    "neighbourhood": "Potrero Hill",
+    "cycle_minutes": 13,
+    "added": "2026-11-07"
+  },
+  {
     "title": "The Crooked Jades: Beautiful World album release",
     "start": "2026-12-04T20:00:00-08:00",
     "end": null,
@@ -3849,6 +4185,45 @@
     "cycle_minutes": 27,
     "added": "2026-11-04",
     "id": "sunset-holiday-mercantile-100-local-makers-food-trucks-and-l-9033f842"
+  },
+  {
+    "id": "mapp-mission-arts-performance-project-december-crawl-ac47bed8",
+    "title": "MAPP: Mission Arts & Performance Project (December crawl)",
+    "start": "2026-12-05T12:00:00-08:00",
+    "end": null,
+    "venue": "Venues across the Mission District",
+    "address": "Mission St & 20th St area, San Francisco, CA",
+    "url": "https://www.mappsf.com/events",
+    "source": "aggregator:funcheap",
+    "tags": [
+      "art",
+      "music",
+      "community"
+    ],
+    "price": "Free",
+    "description": "The every-two-months free crawl of music, poetry, film and performance in cafes, bars, gardens and BART plazas around the Mission. MAPP lists it from noon; most performances run about 6-10pm.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 15,
+    "added": "2026-11-07"
+  },
+  {
+    "id": "1890-bryant-street-studios-holiday-market-be8c6d56",
+    "title": "1890 Bryant Street Studios Holiday Market",
+    "start": "2026-12-05T12:00:00-08:00",
+    "end": "2026-12-05T17:00:00-08:00",
+    "venue": "1890 Bryant Street Studios",
+    "address": "1890 Bryant St, San Francisco, CA",
+    "url": "https://www.1890bryant.com/events",
+    "source": "venue:1890bryant",
+    "tags": [
+      "art",
+      "market"
+    ],
+    "price": "Free",
+    "description": "Open studios and holiday sale across a building of working artists' studios on the Mission/Potrero border (also Sun 6 Dec, 12-5pm).",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 13,
+    "added": "2026-11-07"
   },
   {
     "title": "Rosanna Xia: California Against the Sea, in conversation with Marina Psaros",
@@ -3926,6 +4301,25 @@
     "id": "killing-my-lobster-sketch-on-speed-december-edition-9d207413"
   },
   {
+    "id": "sfmoma-holiday-makers-market-2263132d",
+    "title": "SFMOMA Holiday Makers Market",
+    "start": "2026-12-06T10:00:00-08:00",
+    "end": "2026-12-06T17:00:00-08:00",
+    "venue": "SFMOMA, Schwab Hall (Floor 2)",
+    "address": "151 3rd St, San Francisco, CA",
+    "url": "https://www.sfmoma.org/event/sfmoma-holiday-makers-market/",
+    "source": "venue:sfmoma",
+    "tags": [
+      "market",
+      "art"
+    ],
+    "price": "Free (no museum ticket needed)",
+    "description": "A one-day curated market of 20 Bay Area makers selling ceramics, jewelry, prints and more, a few minutes from home.",
+    "neighbourhood": "SoMa",
+    "cycle_minutes": 5,
+    "added": "2026-11-07"
+  },
+  {
     "title": "Lindy in the Park: free swing dancing + beginner lesson",
     "start": "2026-12-06T11:00:00-08:00",
     "end": "2026-12-06T14:00:00-08:00",
@@ -3945,6 +4339,25 @@
     "id": "lindy-in-the-park-free-swing-dancing-beginner-lesson-dc7186a2"
   },
   {
+    "id": "head-west-marketplace-at-the-ferry-building-b442ffcc",
+    "title": "Head West Marketplace at the Ferry Building",
+    "start": "2026-12-06T11:00:00-08:00",
+    "end": "2026-12-06T16:00:00-08:00",
+    "venue": "Ferry Building back plaza",
+    "address": "1 Ferry Building, San Francisco, CA",
+    "url": "https://headwestmarketplace.com/ferrybuilding",
+    "source": "listing:headwest",
+    "tags": [
+      "market",
+      "art"
+    ],
+    "price": "Free",
+    "description": "Outdoor makers' market of independent Bay Area designers and artists on the waterfront plaza behind the Ferry Building.",
+    "neighbourhood": "Embarcadero",
+    "cycle_minutes": 5,
+    "added": "2026-11-07"
+  },
+  {
     "title": "Zorn / Medeski / Lombardo: Awakening Ground (matinee)",
     "start": "2026-12-06T16:00:00-08:00",
     "end": null,
@@ -3961,6 +4374,26 @@
     "cycle_minutes": 9,
     "added": "2026-11-06",
     "id": "zorn-medeski-lombardo-awakening-ground-matinee-e80e74b6"
+  },
+  {
+    "id": "sf-dada-do-salon-13th-annual-maintenant-20-launch-52761351",
+    "title": "SF Dada Do Salon (13th annual) + MAINTENANT 20 launch",
+    "start": "2026-12-06T18:00:00-08:00",
+    "end": "2026-12-06T20:00:00-08:00",
+    "venue": "Spec's Twelve Adler Museum Cafe",
+    "address": "12 William Saroyan Pl, San Francisco, CA",
+    "url": "https://threeroomspress.com/event/13th-annual-sf-dada-do-salon/",
+    "source": "aggregator:funcheap",
+    "tags": [
+      "art",
+      "talk",
+      "community"
+    ],
+    "price": "Free",
+    "description": "An evening of eccentric Dada performance and poetry from Bay Area artists in North Beach's classic bar, launching the international Dada journal MAINTENANT. Costumes encouraged, with live piano and bass 8-9:30pm.",
+    "neighbourhood": "North Beach",
+    "cycle_minutes": 9,
+    "added": "2026-11-07"
   },
   {
     "title": "SF Salsa Social: beginner class + salsa & mambo dancing",
