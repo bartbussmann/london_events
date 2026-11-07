@@ -5,81 +5,6 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:San Francisco Events
 X-WR-TIMEZONE:America/Los_Angeles
 BEGIN:VEVENT
-UID:patch-bay-workshop-translating-living-systems-into-robotics--bb07405a@
- sf-events
-DTSTAMP:20261105T020000Z
-DTSTART:20261105T020000Z
-DTEND:20261105T040000Z
-SUMMARY:Patch Bay workshop: Translating Living Systems into Robotics and M
- usic
-DESCRIPTION:Hands-on workshop with bio-artists Scott Kildall and Kal Spell
- etich. They show how to sense biological activity\, hack electronics and 
- turn plant and microbe signals into sound and robotic movement\, and you 
- get to play with working examples.\nPrice: $25\nhttps://grayarea.org/even
- t/patch-bay-interactive-worlds-ai-figma-workshop-2-2/
-URL:https://grayarea.org/event/patch-bay-interactive-worlds-ai-figma-works
- hop-2-2/
-LOCATION:Gray Area\, 2665 Mission St\, San Francisco\, CA 94110
-END:VEVENT
-BEGIN:VEVENT
-UID:debriefing-the-2026-election-at-manny-s-b73b0a72@sf-events
-DTSTAMP:20261105T020000Z
-DTSTART:20261105T020000Z
-DTEND:20261105T030000Z
-SUMMARY:Debriefing the 2026 Election at Manny's
-DESCRIPTION:A community discussion the day after election night to talk th
- rough the results with neighbours. It's Manny's usual civic-salon format\
- , so it's easy to join conversations.\nPrice: $10-$20 (free on request)\n
- https://www.eventbrite.com/e/debriefing-the-2026-election-tickets-2003637
- 684250
-URL:https://www.eventbrite.com/e/debriefing-the-2026-election-tickets-2003
- 637684250
-LOCATION:Manny's\, 3092 16th St\, San Francisco\, CA 94103
-END:VEVENT
-BEGIN:VEVENT
-UID:figure-drawing-at-monument-sf-sketchboard-8340ca3c@sf-events
-DTSTAMP:20261105T023000Z
-DTSTART:20261105T023000Z
-DTEND:20261105T043000Z
-SUMMARY:Figure Drawing at Monument SF (Sketchboard)
-DESCRIPTION:Sketchboard Co.'s weekly Wednesday life drawing: an uninstruct
- ed session running from short gesture poses to longer ones\, with partial
- ly costumed to nude models and live music. Bring your own supplies.\nPric
- e: $25\nhttps://book.squareup.com/classes/uj53t4hfgkzllp/location/DYSM7QR
- DVFWX7/classes
-URL:https://book.squareup.com/classes/uj53t4hfgkzllp/location/DYSM7QRDVFWX
- 7/classes
-LOCATION:Monument\, 140 9th St\, San Francisco\, CA 94103
-END:VEVENT
-BEGIN:VEVENT
-UID:ics-0174c09c8b65@sf-events
-DTSTAMP:20261105T030000Z
-DTSTART:20261105T030000Z
-DTEND:20261105T050000Z
-SUMMARY:Engineering Telekinesis: Restoring Movement with Brain-Computer In
- terfaces
-DESCRIPTION:Big Brain lecture-in-a-bar: how brain-computer interfaces are 
- restoring movement to people with paralysis — the engineering\, the tri
- als and the ethics.\nPrice: ~$27 (Luma)\nhttps://luma.com/cha6cevv
-URL:https://luma.com/cha6cevv
-LOCATION:Madrone Art Bar\, 500 Divisadero St\, San Francisco\, CA 94117
-END:VEVENT
-BEGIN:VEVENT
-UID:a-case-for-the-existence-of-god-samuel-d-hunter-at-nctc-e4854ff6@sf-ev
- ents
-DTSTAMP:20261105T033000Z
-DTSTART:20261105T033000Z
-DTEND:20261105T050000Z
-SUMMARY:A Case for the Existence of God (Samuel D. Hunter) at NCTC
-DESCRIPTION:Samuel D. Hunter's acclaimed two-hander (NYT: 'a must-see hear
- tbreaker'): two men in a cubicle trying to get a loan become unlikely fri
- ends. Runs Oct 17-Nov 22\, Wed-Sun\; 90 minutes\, no interval.\nPrice: $4
- 0-$80\nhttps://nctcsf.org/event/a-case-for-the-existence-of-god/
-URL:https://nctcsf.org/event/a-case-for-the-existence-of-god/
-LOCATION:New Conservatory Theatre Center (Walker Theatre)\, 25 Van Ness Av
- e\, San Francisco\, CA 94102
-END:VEVENT
-BEGIN:VEVENT
 UID:exploratorium-after-dark-digest-this-0af04c0b@sf-events
 DTSTAMP:20261106T020000Z
 DTSTART:20261106T020000Z
@@ -2116,6 +2041,22 @@ DESCRIPTION:Swissnex hosts Hugging Face's chief policy officer Irene Solai
  /fy8teprf
 URL:https://luma.com/fy8teprf
 LOCATION:House of AI\, 40 Boardman Pl\, San Francisco\, CA 94103
+END:VEVENT
+BEGIN:VEVENT
+UID:ics-cbcddb68cfee@sf-events
+DTSTAMP:20261120T021500Z
+DTSTART:20261120T021500Z
+DTEND:20261120T034500Z
+SUMMARY:How can AI kill us all? Eight existential risk scenarios with Prof
+ . Geoffrey Hinton
+DESCRIPTION:Nobel laureate and 'godfather of AI' Geoffrey Hinton walks thr
+ ough eight scenarios for how advanced AI could pose an existential risk. 
+ Hosted by the Existential Risk Observatory at the Commonwealth Club's Tau
+ be Auditorium\, five minutes from home. Likely to fill fast — register 
+ early.\nPrice: See Luma page\nhttps://luma.com/zcbrxhsr
+URL:https://luma.com/zcbrxhsr
+LOCATION:Commonwealth Club World Affairs (Taube Auditorium)\, 110 The Emba
+ rcadero\, San Francisco\, CA 94105
 END:VEVENT
 BEGIN:VEVENT
 UID:jane-austen-reader-s-theatre-08e7d2f3@sf-events

@@ -1,100 +1,5 @@
 [
   {
-    "title": "Patch Bay workshop: Translating Living Systems into Robotics and Music",
-    "start": "2026-11-04T18:00:00-08:00",
-    "end": "2026-11-04T20:00:00-08:00",
-    "venue": "Gray Area",
-    "address": "2665 Mission St, San Francisco, CA 94110",
-    "url": "https://grayarea.org/event/patch-bay-interactive-worlds-ai-figma-workshop-2-2/",
-    "source": "venue:grayarea",
-    "tags": [
-      "workshop",
-      "tech",
-      "art"
-    ],
-    "price": "$25",
-    "description": "Hands-on workshop with bio-artists Scott Kildall and Kal Spelletich. They show how to sense biological activity, hack electronics and turn plant and microbe signals into sound and robotic movement, and you get to play with working examples.",
-    "neighbourhood": "Mission",
-    "cycle_minutes": 15,
-    "added": "2026-10-26",
-    "id": "patch-bay-workshop-translating-living-systems-into-robotics--bb07405a"
-  },
-  {
-    "title": "Debriefing the 2026 Election at Manny's",
-    "start": "2026-11-04T18:00:00-08:00",
-    "end": "2026-11-04T19:00:00-08:00",
-    "venue": "Manny's",
-    "address": "3092 16th St, San Francisco, CA 94103",
-    "url": "https://www.eventbrite.com/e/debriefing-the-2026-election-tickets-2003637684250",
-    "source": "venue:mannys",
-    "tags": [
-      "talk",
-      "community"
-    ],
-    "price": "$10-$20 (free on request)",
-    "description": "A community discussion the day after election night to talk through the results with neighbours. It's Manny's usual civic-salon format, so it's easy to join conversations.",
-    "neighbourhood": "Mission",
-    "cycle_minutes": 13,
-    "added": "2026-11-01",
-    "id": "debriefing-the-2026-election-at-manny-s-b73b0a72"
-  },
-  {
-    "title": "Figure Drawing at Monument SF (Sketchboard)",
-    "start": "2026-11-04T18:30:00-08:00",
-    "end": "2026-11-04T20:30:00-08:00",
-    "venue": "Monument",
-    "address": "140 9th St, San Francisco, CA 94103",
-    "url": "https://book.squareup.com/classes/uj53t4hfgkzllp/location/DYSM7QRDVFWX7/classes",
-    "source": "keyword-search",
-    "tags": [
-      "art",
-      "class"
-    ],
-    "price": "$25",
-    "description": "Sketchboard Co.'s weekly Wednesday life drawing: an uninstructed session running from short gesture poses to longer ones, with partially costumed to nude models and live music. Bring your own supplies.",
-    "neighbourhood": "SoMa",
-    "cycle_minutes": 7,
-    "added": "2026-10-27",
-    "id": "figure-drawing-at-monument-sf-sketchboard-8340ca3c"
-  },
-  {
-    "id": "ics-0174c09c8b65",
-    "title": "Engineering Telekinesis: Restoring Movement with Brain-Computer Interfaces",
-    "start": "2026-11-04T19:00:00-08:00",
-    "end": "2026-11-04T21:00:00-08:00",
-    "venue": "Madrone Art Bar",
-    "address": "500 Divisadero St, San Francisco, CA 94117",
-    "url": "https://luma.com/cha6cevv",
-    "source": "ics:Big Brain Lectures - Bay Area",
-    "tags": [
-      "talk",
-      "tech"
-    ],
-    "price": "~$27 (Luma)",
-    "description": "Big Brain lecture-in-a-bar: how brain-computer interfaces are restoring movement to people with paralysis — the engineering, the trials and the ethics.",
-    "added": "2026-11-04",
-    "neighbourhood": "NoPa",
-    "cycle_minutes": 17
-  },
-  {
-    "title": "A Case for the Existence of God (Samuel D. Hunter) at NCTC",
-    "start": "2026-11-04T19:30:00-08:00",
-    "end": "2026-11-04T21:00:00-08:00",
-    "venue": "New Conservatory Theatre Center (Walker Theatre)",
-    "address": "25 Van Ness Ave, San Francisco, CA 94102",
-    "url": "https://nctcsf.org/event/a-case-for-the-existence-of-god/",
-    "source": "venue:nctc",
-    "tags": [
-      "theatre"
-    ],
-    "price": "$40-$80",
-    "description": "Samuel D. Hunter's acclaimed two-hander (NYT: 'a must-see heartbreaker'): two men in a cubicle trying to get a loan become unlikely friends. Runs Oct 17-Nov 22, Wed-Sun; 90 minutes, no interval.",
-    "neighbourhood": "Civic Center",
-    "cycle_minutes": 8,
-    "added": "2026-11-02",
-    "id": "a-case-for-the-existence-of-god-samuel-d-hunter-at-nctc-e4854ff6"
-  },
-  {
     "title": "Exploratorium After Dark: Digest This",
     "start": "2026-11-05T18:00:00-08:00",
     "end": "2026-11-05T22:00:00-08:00",
@@ -2646,6 +2551,25 @@
     "cycle_minutes": 8,
     "added": "2026-11-04",
     "id": "ai-summit-2027-a-conversation-before-geneva-irene-solaiman-r-a1705a3b"
+  },
+  {
+    "id": "ics-cbcddb68cfee",
+    "title": "How can AI kill us all? Eight existential risk scenarios with Prof. Geoffrey Hinton",
+    "start": "2026-11-19T18:15:00-08:00",
+    "end": "2026-11-19T19:45:00-08:00",
+    "venue": "Commonwealth Club World Affairs (Taube Auditorium)",
+    "address": "110 The Embarcadero, San Francisco, CA 94105",
+    "url": "https://luma.com/zcbrxhsr",
+    "source": "ics:AI Safety San Francisco",
+    "tags": [
+      "talk",
+      "tech"
+    ],
+    "price": "See Luma page",
+    "description": "Nobel laureate and 'godfather of AI' Geoffrey Hinton walks through eight scenarios for how advanced AI could pose an existential risk. Hosted by the Existential Risk Observatory at the Commonwealth Club's Taube Auditorium, five minutes from home. Likely to fill fast — register early.",
+    "added": "2026-11-07",
+    "neighbourhood": "Embarcadero",
+    "cycle_minutes": 5
   },
   {
     "title": "Jane Austen Reader's Theatre",
