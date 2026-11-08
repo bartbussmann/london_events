@@ -3041,6 +3041,44 @@
     "id": "divine-offering-celebrating-alice-coltrane-with-sita-michell-aa957866"
   },
   {
+    "id": "salsacrazy-mondays-salsa-lesson-salsa-bachata-dancing-b207830a",
+    "title": "SalsaCrazy Mondays: salsa lesson + salsa/bachata dancing",
+    "start": "2026-11-23T19:00:00-08:00",
+    "end": "2026-11-23T23:30:00-08:00",
+    "venue": "Neck of the Woods",
+    "address": "406 Clement St, San Francisco, CA 94118",
+    "url": "https://www.eventbrite.com/e/salsa-dance-classes-and-salsa-and-bachata-dancing-salsacrazy-mondays-tickets-1981014379336",
+    "source": "aggregator:eventbrite",
+    "tags": [
+      "dance",
+      "class"
+    ],
+    "price": "$10-$40",
+    "description": "Monday salsa night on Clement St. Doors open at 6:30, a beginner salsa lesson with no partner needed runs at 7pm, then there's salsa and bachata social dancing until late. 21+.",
+    "neighbourhood": "Inner Richmond",
+    "cycle_minutes": 27,
+    "added": "2026-11-08"
+  },
+  {
+    "id": "circuit-hacking-monday-open-electronics-workshop-at-noisebri-3766ff94",
+    "title": "Circuit Hacking Monday: open electronics workshop at Noisebridge",
+    "start": "2026-11-23T19:00:00-08:00",
+    "end": "2026-11-23T21:00:00-08:00",
+    "venue": "Noisebridge hackerspace",
+    "address": "272 Capp St, San Francisco, CA 94110",
+    "url": "https://www.meetup.com/noisebridge/events/317172029/",
+    "source": "aggregator:meetup",
+    "tags": [
+      "workshop",
+      "tech"
+    ],
+    "price": "Free (donations welcome)",
+    "description": "The weekly open electronics night at the Mission's volunteer-run hackerspace, with soldering stations and people working on robotics and embedded projects. Bring a project or just come and learn.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 13,
+    "added": "2026-11-08"
+  },
+  {
     "title": "La Bola Negra (Los Javis)",
     "start": "2026-11-23T19:30:00-08:00",
     "end": null,
@@ -3070,7 +3108,7 @@
       "music"
     ],
     "price": "$30 adv / $35 door",
-    "description": "Reportedly SOLD OUT (per The List). David Bazan's indie-rock/slowcore band Pedro the Lion in a small Potrero Hill club, with folky singer-songwriter Karli Fairbanks opening. Doors 7:30pm, all ages.",
+    "description": "SOLD OUT (per The List). David Bazan's indie-rock/slowcore band Pedro the Lion in a small Potrero Hill club, with folky singer-songwriter Karli Fairbanks opening. Doors 7:30pm, all ages.",
     "neighbourhood": "Potrero Hill",
     "cycle_minutes": 12,
     "added": "2026-10-26",
@@ -3227,6 +3265,25 @@
     "id": "moonalice-with-mad-alchemy-liquid-light-show-0a99055d"
   },
   {
+    "id": "cat-s-corner-thanksgiving-eve-swing-dance-with-the-cosmo-all-29706d1c",
+    "title": "Cat's Corner: Thanksgiving Eve swing dance with the Cosmo Alleycats",
+    "start": "2026-11-25T21:00:00-08:00",
+    "end": "2026-11-25T23:30:00-08:00",
+    "venue": "Mabuhay Gardens (Cat's Corner)",
+    "address": "435 Broadway, San Francisco, CA 94133",
+    "url": "https://www.catscornersf.com/",
+    "source": "venue:cats-corner",
+    "tags": [
+      "dance",
+      "music"
+    ],
+    "price": "$15 (incl. 9pm drop-in lesson; $10 before 8:30pm)",
+    "description": "Live-band lindy hop and swing on Broadway the night before Thanksgiving. A 9pm drop-in beginner swing lesson, then social dancing to the Cosmo Alleycats.",
+    "neighbourhood": "North Beach",
+    "cycle_minutes": 9,
+    "added": "2026-11-08"
+  },
+  {
     "title": "Dancegiving & Community Ocean Dance (Thanksgiving morning)",
     "start": "2026-11-26T10:30:00-08:00",
     "end": "2026-11-26T12:00:00-08:00",
@@ -3247,6 +3304,43 @@
     "id": "dancegiving-community-ocean-dance-thanksgiving-morning-b0cc4476"
   },
   {
+    "id": "thanksgiving-volunteering-deliver-meals-visit-older-adults-l-e9a9c3ca",
+    "title": "Thanksgiving volunteering: deliver meals + visit older adults (Little Brothers)",
+    "start": "2026-11-26T10:30:00-08:00",
+    "end": "2026-11-26T12:30:00-08:00",
+    "venue": "Little Brothers - Friends of the Elderly (pick-up point downtown)",
+    "address": "909 Hyde St, San Francisco, CA 94109",
+    "url": "https://www.littlebrotherssf.org/holiday-opportunities",
+    "source": "aggregator:funcheap",
+    "tags": [
+      "community"
+    ],
+    "price": "Free (register as a volunteer in advance)",
+    "description": "Pick up Thanksgiving meals downtown and deliver them to older adults around SF, with the option to stay and share the visit. It's a meaningful way to spend the holiday when your family is far away. Register ahead: the pick-up details are emailed to volunteers.",
+    "neighbourhood": "Nob Hill",
+    "cycle_minutes": 12,
+    "added": "2026-11-08"
+  },
+  {
+    "id": "sf-city-guides-free-walking-tour-welcome-to-san-francisco-th-4385c1fb",
+    "title": "SF City Guides free walking tour: Welcome to San Francisco (Thanksgiving Day)",
+    "start": "2026-11-26T11:00:00-08:00",
+    "end": "2026-11-26T13:00:00-08:00",
+    "venue": "Harry Bridges Plaza (across from the Ferry Building)",
+    "address": "The Embarcadero at Market St, San Francisco, CA 94111",
+    "url": "https://www.sfcityguides.org/find-your-tour/?visit=2026-11-26",
+    "source": "venue:sf-city-guides",
+    "tags": [
+      "outdoors",
+      "community"
+    ],
+    "price": "Free (donations welcome)",
+    "description": "A volunteer-led two-hour walk made for people new to the city, running on Thanksgiving morning. It goes from the Ferry Building to North Beach and covers the Gold Rush, cable cars, the 1906 quake and the counterculture.",
+    "neighbourhood": "Embarcadero",
+    "cycle_minutes": 5,
+    "added": "2026-11-08"
+  },
+  {
     "title": "Milonga Malevaje (Thanksgiving-night tango)",
     "start": "2026-11-26T20:00:00-08:00",
     "end": "2026-11-26T23:30:00-08:00",
@@ -3263,6 +3357,25 @@
     "cycle_minutes": 13,
     "added": "2026-10-29",
     "id": "milonga-malevaje-thanksgiving-night-tango-292716a0"
+  },
+  {
+    "id": "mc5-a-true-testimonial-chuck-prophet-s-cinema-discotheque-526e6c9f",
+    "title": "MC5: A True Testimonial (Chuck Prophet's Cinema Discotheque)",
+    "start": "2026-11-27T19:30:00-08:00",
+    "end": "2026-11-27T22:00:00-08:00",
+    "venue": "4 Star Theater",
+    "address": "2200 Clement St, San Francisco, CA 94121",
+    "url": "https://www.4-star-movies.com/calendar-of-events/mc5-chuck-prophet",
+    "source": "venue:cinemasf",
+    "tags": [
+      "film",
+      "music"
+    ],
+    "price": null,
+    "description": "SF rocker Chuck Prophet presents the acclaimed documentary on the MC5, the Detroit band whose garage-rock roots and 60s protest energy paved the way for the Stooges and punk. It's a music-nerd night at a neighbourhood single-screen cinema.",
+    "neighbourhood": "Outer Richmond",
+    "cycle_minutes": 35,
+    "added": "2026-11-08"
   },
   {
     "title": "Sleepless Nights XX: A Tribute to Gram Parsons",
@@ -3321,6 +3434,25 @@
     "id": "kolo-festival-balkan-music-dance-weekend-saturday-9f7a8113"
   },
   {
+    "id": "sf-city-guides-free-walking-tour-telegraph-hill-stairway-hik-61fb61f1",
+    "title": "SF City Guides free walking tour: Telegraph Hill Stairway Hike",
+    "start": "2026-11-28T12:00:00-08:00",
+    "end": "2026-11-28T14:00:00-08:00",
+    "venue": "Marconi Monument (meeting point)",
+    "address": "Lombard St at Telegraph Hill Blvd (opposite 290 Lombard), San Francisco, CA 94133",
+    "url": "https://www.sfcityguides.org/find-your-tour/?visit=2026-11-28",
+    "source": "venue:sf-city-guides",
+    "tags": [
+      "outdoors",
+      "community"
+    ],
+    "price": "Free (donations welcome)",
+    "description": "A volunteer-guided walk down the Filbert and Greenwich steps, past hidden wooden cottages and gardens with Bay views (and maybe the wild parrots). It covers the hill's history from Gold Rush lookouts to artists. It's steep, so wear sturdy shoes. Rain may cancel.",
+    "neighbourhood": "Telegraph Hill",
+    "cycle_minutes": 14,
+    "added": "2026-11-08"
+  },
+  {
     "id": "ybca-world-of-black-film-black-girl-ousmane-sembene-1966-3edc6dd1",
     "title": "YBCA World of Black Film: Black Girl (Ousmane Sembene, 1966)",
     "start": "2026-11-28T14:00:00-08:00",
@@ -3355,6 +3487,25 @@
     "cycle_minutes": 11,
     "added": "2026-10-26",
     "id": "edmar-castaneda-german-lopez-terence-blanchard-s-upswing-ser-8c725add"
+  },
+  {
+    "id": "sf-neo-futurists-the-infinite-wrench-30-plays-in-60-minutes-8f41a104",
+    "title": "SF Neo-Futurists: The Infinite Wrench (30 plays in 60 minutes)",
+    "start": "2026-11-28T21:00:00-08:00",
+    "end": "2026-11-28T22:30:00-08:00",
+    "venue": "447 Minna St",
+    "address": "447 Minna St, San Francisco, CA 94103",
+    "url": "https://www.eventbrite.com/e/sf-neo-futurists-the-infinite-wrench-tickets-1987282908676",
+    "source": "aggregator:eventbrite",
+    "tags": [
+      "theatre",
+      "comedy"
+    ],
+    "price": "$12-$28 online",
+    "description": "The Neo-Futurists race to perform 30 short original plays in 60 minutes, in an order the audience shouts out. They range from personal to political to absurd, and the set changes every week.",
+    "neighbourhood": "SoMa",
+    "cycle_minutes": 5,
+    "added": "2026-11-08"
   },
   {
     "title": "MOVEMENT Ecstatic Dance SF // Aguamayyim",
@@ -3396,6 +3547,44 @@
     "id": "the-great-dickens-christmas-fair-1df311e0"
   },
   {
+    "id": "contact-improvisation-class-with-dai-wei-at-odc-6c7a979c",
+    "title": "Contact Improvisation class with Dai & Wei at ODC",
+    "start": "2026-11-29T12:15:00-08:00",
+    "end": "2026-11-29T14:00:00-08:00",
+    "venue": "ODC Dance Commons",
+    "address": "351 Shotwell St, San Francisco, CA 94110",
+    "url": "https://bay.dance/events/contact_improv/",
+    "source": "aggregator:bay.dance",
+    "tags": [
+      "dance",
+      "class"
+    ],
+    "price": null,
+    "description": "A Sunday-afternoon contact improvisation class at ODC in the Mission taught by Daiane Lopes da Silva and Weidong Yang. It's a good way into SF's CI scene during Thanksgiving weekend.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 13,
+    "added": "2026-11-08"
+  },
+  {
+    "id": "castro-holiday-tree-lighting-2026-25b3164d",
+    "title": "Castro Holiday Tree Lighting 2026",
+    "start": "2026-11-30T18:00:00-08:00",
+    "end": "2026-11-30T18:30:00-08:00",
+    "venue": "Bank of America Plaza",
+    "address": "501 Castro St, San Francisco, CA 94114",
+    "url": "https://castromerchants.com/events/",
+    "source": "venue:castro-merchants",
+    "tags": [
+      "community",
+      "festival"
+    ],
+    "price": "Free",
+    "description": "The Castro Merchants Association lights the neighbourhood's big holiday tree to kick off the season. It's a short, free community gathering at 18th & Castro.",
+    "neighbourhood": "Castro",
+    "cycle_minutes": 17,
+    "added": "2026-11-08"
+  },
+  {
     "title": "Of Poetry & Protest: 10th Anniversary Celebration",
     "start": "2026-11-30T19:00:00-08:00",
     "end": "2026-11-30T20:30:00-08:00",
@@ -3413,6 +3602,25 @@
     "cycle_minutes": 10,
     "added": "2026-10-29",
     "id": "of-poetry-protest-10th-anniversary-celebration-3e5280f0"
+  },
+  {
+    "id": "national-theatre-live-golden-boy-josh-o-connor-a6b159b2",
+    "title": "National Theatre Live: Golden Boy (Josh O'Connor)",
+    "start": "2026-11-30T19:00:00-08:00",
+    "end": "2026-11-30T22:15:00-08:00",
+    "venue": "Vogue Theatre",
+    "address": "3290 Sacramento St, San Francisco, CA 94115",
+    "url": "https://www.voguemovies.com/calendar-of-events/national-theatre-live-golden-boy-november-30",
+    "source": "venue:cinemasf",
+    "tags": [
+      "theatre",
+      "film"
+    ],
+    "price": null,
+    "description": "A screening of the Almeida Theatre's revival of Clifford Odets' Depression-era drama, filmed live, with Josh O'Connor as the violinist lured into prizefighting. London theatre on a Monday night (it repeats on Dec 14).",
+    "neighbourhood": "Presidio Heights",
+    "cycle_minutes": 25,
+    "added": "2026-11-08"
   },
   {
     "title": "A John Waters Christmas",
@@ -4227,6 +4435,43 @@
     "id": "daniel-lieberman-fed-up-what-evolution-reveals-about-food-an-f87be57e"
   },
   {
+    "id": "inner-richmond-board-game-night-at-the-plough-and-stars-39688492",
+    "title": "Inner Richmond Board Game Night at the Plough and Stars",
+    "start": "2026-12-07T18:30:00-08:00",
+    "end": null,
+    "venue": "The Plough and Stars",
+    "address": "116 Clement St, San Francisco, CA 94118",
+    "url": "https://theploughandstars.com/",
+    "source": "venue:plough-and-stars",
+    "tags": [
+      "community"
+    ],
+    "price": "Free",
+    "description": "Gather & Game SF runs a 1st and 3rd Monday board-game night at SF's best-known Irish pub. Turn up, join a table and meet the neighbours over a pint.",
+    "neighbourhood": "Inner Richmond",
+    "cycle_minutes": 27,
+    "added": "2026-11-08"
+  },
+  {
+    "id": "contact-improvisation-class-jam-at-the-castro-room-6483d0f4",
+    "title": "Contact Improvisation class + jam at The Castro Room",
+    "start": "2026-12-07T19:45:00-08:00",
+    "end": "2026-12-07T22:15:00-08:00",
+    "venue": "The Castro Room",
+    "address": "97 Collingwood St, San Francisco, CA 94114",
+    "url": "https://bay.dance/events/contact_improv/",
+    "source": "aggregator:bay.dance",
+    "tags": [
+      "dance",
+      "class"
+    ],
+    "price": null,
+    "description": "SF's 1st and 3rd Monday contact improv night: an hour's beginner-friendly class from 7:45pm flows into a jam with live music until 10:15pm. Teachers and hosts rotate, and the SF CI WhatsApp group posts who's on.",
+    "neighbourhood": "Castro",
+    "cycle_minutes": 17,
+    "added": "2026-11-08"
+  },
+  {
     "title": "Buck Meek with Kisser",
     "start": "2026-12-07T20:00:00-08:00",
     "end": null,
@@ -4357,6 +4602,24 @@
     "id": "mud-frontier-film-screening-talkback-with-rael-san-fratello-71da395e"
   },
   {
+    "id": "manny-s-trivia-night-71607dec",
+    "title": "Manny's Trivia Night",
+    "start": "2026-12-09T19:00:00-08:00",
+    "end": "2026-12-09T21:00:00-08:00",
+    "venue": "Manny's",
+    "address": "3092 16th St, San Francisco, CA 94103",
+    "url": "https://www.eventbrite.com/e/trivia-night-at-mannys-tickets-1995988045976",
+    "source": "venue:mannys",
+    "tags": [
+      "community"
+    ],
+    "price": "Free (RSVP)",
+    "description": "The second-Wednesday trivia night at the Mission's civic cafe and events space. Join a team or bring one for drinks and friendly competition.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 13,
+    "added": "2026-11-08"
+  },
+  {
     "title": "San Francisco Wednesday Contra Dance (beginner lesson 7:30)",
     "start": "2026-12-09T19:30:00-08:00",
     "end": "2026-12-09T22:00:00-08:00",
@@ -4374,6 +4637,24 @@
     "cycle_minutes": 15,
     "added": "2026-10-27",
     "id": "san-francisco-wednesday-contra-dance-beginner-lesson-7-30-70c5ccb9"
+  },
+  {
+    "id": "feeble-little-horse-with-mop-2nd-show-19e295b1",
+    "title": "feeble little horse with MOP (2nd show)",
+    "start": "2026-12-09T20:00:00-08:00",
+    "end": null,
+    "venue": "The Independent",
+    "address": "628 Divisadero St, San Francisco, CA 94117",
+    "url": "https://www.theindependentsf.com/tm-event/feeble-little-horse/",
+    "source": "venue:the-independent",
+    "tags": [
+      "music"
+    ],
+    "price": "$36",
+    "description": "The Pittsburgh indie-rock band touring their third LP, bitknot, which mixes fuzzed-out guitars with sweet, off-kilter pop. A second show was added after Dec 10 sold out. All ages.",
+    "neighbourhood": "NoPa",
+    "cycle_minutes": 18,
+    "added": "2026-11-08"
   },
   {
     "title": "Exploratorium After Dark: Unplug and Play",
@@ -4433,6 +4714,26 @@
     "id": "flaming-creatures-the-films-of-jack-smith-77651ad6"
   },
   {
+    "id": "silent-skate-at-the-union-square-ice-rink-541a00fe",
+    "title": "Silent Skate at the Union Square Ice Rink",
+    "start": "2026-12-10T19:00:00-08:00",
+    "end": "2026-12-10T20:15:00-08:00",
+    "venue": "Union Square Ice Rink",
+    "address": "333 Post St, San Francisco, CA 94108",
+    "url": "https://unionsquareicerink.com/special-events/",
+    "source": "venue:union-square-rink",
+    "tags": [
+      "sport",
+      "music",
+      "community"
+    ],
+    "price": "$35",
+    "description": "Headphone skate session under the Union Square holiday lights with DJs. A festive weeknight outing (a later 8:30pm session too).",
+    "neighbourhood": "Union Square",
+    "cycle_minutes": 6,
+    "added": "2026-11-08"
+  },
+  {
     "title": "City Arts & Lectures: Marlon James with Shereen Marisol Meraji",
     "start": "2026-12-10T19:30:00-08:00",
     "end": null,
@@ -4449,6 +4750,25 @@
     "cycle_minutes": 10,
     "added": "2026-10-29",
     "id": "city-arts-lectures-marlon-james-with-shereen-marisol-meraji-aa01b9fc"
+  },
+  {
+    "id": "irish-set-dancing-with-the-county-yolo-band-at-the-plough-an-5f4acb5f",
+    "title": "Irish set dancing with the County Yolo Band at the Plough and Stars",
+    "start": "2026-12-10T20:30:00-08:00",
+    "end": "2026-12-10T22:30:00-08:00",
+    "venue": "The Plough and Stars",
+    "address": "116 Clement St, San Francisco, CA 94118",
+    "url": "https://theploughandstars.com/",
+    "source": "venue:plough-and-stars",
+    "tags": [
+      "dance",
+      "music"
+    ],
+    "price": "No cover (the pub charges only on Fri/Sat)",
+    "description": "Thursday-night Irish set dancing to a live céilí band at SF's home of traditional Irish music. These are the social figure dances cousin to a ceilidh, and regulars help newcomers through the figures.",
+    "neighbourhood": "Inner Richmond",
+    "cycle_minutes": 27,
+    "added": "2026-11-08"
   },
   {
     "title": "Cooking class: Fresh Pasta in Color",
@@ -4548,21 +4868,22 @@
   {
     "title": "Bay Area Winter Solstice 2026 (rationalist community)",
     "start": "2026-12-12T19:00:00-08:00",
-    "end": null,
+    "end": "2026-12-12T21:00:00-08:00",
     "venue": "Freight & Salvage",
     "address": "2020 Addison St, Berkeley, CA 94704",
-    "url": "https://www.lesswrong.com/events/umzGbxosnsxKPLQpX/bay-area-winter-solstice",
+    "url": "https://www.eventbrite.com/e/bay-area-secular-solstice-2026-tickets-2004527583964",
     "source": "listing:lesswrong",
     "tags": [
       "community",
       "music",
       "talk"
     ],
-    "price": null,
-    "description": "The Bay Area rationalist community's annual Secular Solstice: an evening of group singing and speeches about facing the dark, held this year at the Freight. Details and tickets 'coming soon'. East Bay: BART from Montgomery to Downtown Berkeley, about 25 min, then a 2-min walk.",
+    "price": "Pay what you can (from $0)",
+    "description": "The Bay Area rationalist community's annual Secular Solstice: an evening of group singing and speeches about facing the dark, held this year at the Freight. Tickets are on Eventbrite. East Bay: BART from Montgomery to Downtown Berkeley, about 25 min, then a 2-min walk.",
     "neighbourhood": "Berkeley",
     "added": "2026-11-02",
-    "id": "bay-area-winter-solstice-2026-rationalist-community-5190812b"
+    "id": "bay-area-winter-solstice-2026-rationalist-community-5190812b",
+    "cycle_minutes": null
   },
   {
     "title": "San Francisco English Country Dance (2nd Saturday)",
@@ -4716,22 +5037,22 @@
     "id": "jd-mcpherson-socks-a-rock-n-roll-christmas-tour-with-melissa-ed0c4ecf"
   },
   {
-    "title": "Out of the Darkness: Classic Swedish Short Fiction (Vendela Vida, David Katznelson, Ulf Olsson)",
-    "start": "2026-12-14T18:00:00-08:00",
-    "end": null,
-    "venue": "Commonwealth Club World Affairs",
-    "address": "110 The Embarcadero, San Francisco, CA 94105",
-    "url": "https://www.commonwealthclub.org/events/2026-12-14/out-darkness-rediscovering-classic-swedish-literature",
-    "source": "venue:commonwealth-club",
+    "id": "cyberpunk-cinema-night-at-the-knockout-707f958a",
+    "title": "Cyberpunk Cinema Night at The Knockout",
+    "start": "2026-12-14T18:30:00-08:00",
+    "end": "2026-12-14T21:00:00-08:00",
+    "venue": "The Knockout",
+    "address": "3223 Mission St, San Francisco, CA 94110",
+    "url": "https://sf.funcheap.com/cyberpunk-cinema-night-mission-dist-149/",
+    "source": "aggregator:funcheap",
     "tags": [
-      "talk"
+      "film"
     ],
-    "price": "$25",
-    "description": "Novelist Vendela Vida and the anthology's co-editors celebrate a new collection of classic Swedish short fiction. It's a wintry, literary Monday-night talk on the waterfront.",
-    "neighbourhood": "Embarcadero",
-    "cycle_minutes": 5,
-    "added": "2026-10-29",
-    "id": "out-of-the-darkness-classic-swedish-short-fiction-vendela-vi-6ffc2513"
+    "price": "Free",
+    "description": "Thrillhouse Records' second-Monday free screening of a cyberpunk classic at a Mission dive bar, with an episode of Cowboy Bebop at 6:30pm before the feature.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 18,
+    "added": "2026-11-08"
   },
   {
     "title": "A Tribute to the Life and Writing of Pierre Joris",
@@ -4787,6 +5108,25 @@
     "cycle_minutes": 5,
     "added": "2026-10-30",
     "id": "the-quantum-threat-what-happens-when-our-digital-locks-stop--84d54e20"
+  },
+  {
+    "id": "is-there-really-a-global-ai-race-bebo-white-at-manny-s-1c6d5fd4",
+    "title": "Is There Really a Global AI Race? (Bebo White at Manny's)",
+    "start": "2026-12-15T18:00:00-08:00",
+    "end": "2026-12-15T19:00:00-08:00",
+    "venue": "Manny's",
+    "address": "3092 16th St, San Francisco, CA 94103",
+    "url": "https://www.eventbrite.com/e/is-there-really-a-global-ai-race-tickets-2004247499223",
+    "source": "venue:mannys",
+    "tags": [
+      "talk",
+      "tech"
+    ],
+    "price": "$9-$15",
+    "description": "Science communicator Bebo White looks at whether the 'AI race' framing holds up, at the Mission's civic events space. It's a one-hour talk with Q&A.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 13,
+    "added": "2026-11-08"
   },
   {
     "title": "New Directions @ 90",
@@ -4882,6 +5222,24 @@
     "id": "richie-unterberger-the-velvet-underground-talk-audiovisual-p-7d50845c"
   },
   {
+    "id": "arlie-russell-hochschild-in-conversation-with-andrew-keen-wh-b9a6227a",
+    "title": "Arlie Russell Hochschild in conversation with Andrew Keen: Who Stole America's Pride?",
+    "start": "2026-12-16T18:00:00-08:00",
+    "end": "2026-12-16T19:00:00-08:00",
+    "venue": "Manny's",
+    "address": "3092 16th St, San Francisco, CA 94103",
+    "url": "https://www.eventbrite.com/e/how-to-see-america-who-stole-americas-pride-tickets-2003996604791",
+    "source": "venue:mannys",
+    "tags": [
+      "talk"
+    ],
+    "price": "$9-$19",
+    "description": "The Berkeley sociologist behind Strangers in Their Own Land talks with Andrew Keen about pride, shame and American politics. It's an intimate talk in Manny's 'How To See America' series.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 13,
+    "added": "2026-11-08"
+  },
+  {
     "title": "Pokey LaFarge with Cicada Rhythm",
     "start": "2026-12-16T20:00:00-08:00",
     "end": null,
@@ -4898,6 +5256,24 @@
     "cycle_minutes": 12,
     "added": "2026-10-29",
     "id": "pokey-lafarge-with-cicada-rhythm-33090193"
+  },
+  {
+    "id": "amigo-the-devil-solo-with-nate-bergman-3235e4f9",
+    "title": "Amigo the Devil (solo) with Nate Bergman",
+    "start": "2026-12-16T20:00:00-08:00",
+    "end": null,
+    "venue": "Great American Music Hall",
+    "address": "859 O'Farrell St, San Francisco, CA 94109",
+    "url": "https://wl.seetickets.us/event/amigo-the-devil-solo/708933?afflky=GreatAmericanMusicHall",
+    "source": "venue:gamh",
+    "tags": [
+      "music"
+    ],
+    "price": "$35 + fees",
+    "description": "Danny Kiranos' dark-folk and murder-ballad project plays a stripped-back solo set: banjo, gallows humour and big singalongs in the gilded music hall.",
+    "neighbourhood": "Tenderloin",
+    "cycle_minutes": 9,
+    "added": "2026-11-08"
   },
   {
     "title": "Exploratorium After Dark: Solstice",
@@ -4992,6 +5368,25 @@
     "id": "deep-thicket-dwellers-album-release-with-scott-gates-a0829bde"
   },
   {
+    "id": "playground-twisted-holiday-festival-same-time-next-christmas-78fa8bb3",
+    "title": "PlayGround Twisted Holiday Festival: Same Time, Next Christmas + Whenever You're Ready",
+    "start": "2026-12-18T19:00:00-08:00",
+    "end": "2026-12-18T22:00:00-08:00",
+    "venue": "Potrero Stage",
+    "address": "1695 18th St, San Francisco, CA 94107",
+    "url": "https://playground-sf.org/twistedholiday/",
+    "source": "venue:playground-sf",
+    "tags": [
+      "theatre",
+      "comedy"
+    ],
+    "price": "Free (suggested donation $10-$30)",
+    "description": "A double bill of new holiday plays with a twist in PlayGround's fringe-style festival: 'Same Time, Next Christmas' at 7pm, then Bel Mehaffy's darkly funny solo show about loneliness and reinvention, 'Whenever You're Ready', at 8:30pm.",
+    "neighbourhood": "Potrero Hill",
+    "cycle_minutes": 13,
+    "added": "2026-11-08"
+  },
+  {
     "title": "Soulful Joy (Christmas at Grace Cathedral)",
     "start": "2026-12-18T19:30:00-08:00",
     "end": "2026-12-18T20:45:00-08:00",
@@ -5048,6 +5443,25 @@
     "id": "east-bay-square-dance-round-top-string-band-caller-evie-ladi-d9b0012e"
   },
   {
+    "id": "the-confessional-improv-built-from-the-audience-s-anonymous--8ce73b86",
+    "title": "The Confessional: improv built from the audience's anonymous sins (Endgames)",
+    "start": "2026-12-18T20:00:00-08:00",
+    "end": "2026-12-18T21:00:00-08:00",
+    "venue": "Endgames Improv (ETC Prime)",
+    "address": "2965 Mission St, San Francisco, CA 94110",
+    "url": "https://sf.funcheap.com/5-off-the-confessional-sfs-wild-sins-secrets-improv-comedy-show-205/",
+    "source": "aggregator:funcheap",
+    "tags": [
+      "comedy",
+      "theatre"
+    ],
+    "price": "$11 (Funcheap discount)",
+    "description": "Audiences anonymously write down sins and secrets, and Endgames' improvisers weave them into a fully improvised comedy show. It's a cheap, sociable Friday night in the Mission.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 17,
+    "added": "2026-11-08"
+  },
+  {
     "title": "A Cathedral Christmas: Saturday matinee (Grace Cathedral Choir of Men and Boys)",
     "start": "2026-12-19T15:00:00-08:00",
     "end": "2026-12-19T16:30:00-08:00",
@@ -5102,6 +5516,26 @@
     "cycle_minutes": 13,
     "added": "2026-10-29",
     "id": "holiday-dinner-dance-party-with-halsey-the-hi-hats-32517817"
+  },
+  {
+    "id": "dance-along-nutcracker-2026-a-dance-along-toy-story-evening--2ae6e218",
+    "title": "Dance-Along Nutcracker 2026: A Dance-Along Toy Story (evening show)",
+    "start": "2026-12-19T19:00:00-08:00",
+    "end": "2026-12-19T21:00:00-08:00",
+    "venue": "YBCA Forum",
+    "address": "701 Mission St, San Francisco, CA 94103",
+    "url": "https://sfprideband.org/performances-and-events/dance-along-nutcracker-2026-a-dance-along-toy-story-dec-19-700-pm/",
+    "source": "keyword-search",
+    "tags": [
+      "dance",
+      "music",
+      "theatre"
+    ],
+    "price": null,
+    "description": "SF's 40-year-old irreverent alternative to the Nutcracker. The 75-piece SF Pride Band plays Tchaikovsky mashed up with Toy Story and Barbie tunes, and the audience waltzes and pirouettes along from their seats or the dance floor. The evening show is the least kid-heavy.",
+    "neighbourhood": "SoMa",
+    "cycle_minutes": 3,
+    "added": "2026-11-08"
   },
   {
     "title": "The Mother Hips Annual Holiday Show, with Little Worth",
@@ -5249,6 +5683,25 @@
     "cycle_minutes": 8,
     "added": "2026-11-05",
     "id": "hayes-valley-comedy-night-at-the-function-dc200657"
+  },
+  {
+    "id": "sad-bastard-club-songwriter-round-robin-hosted-by-tom-heyman-9b4fa05d",
+    "title": "Sad Bastard Club: songwriter round-robin hosted by Tom Heyman",
+    "start": "2026-12-22T19:30:00-08:00",
+    "end": "2026-12-22T21:30:00-08:00",
+    "venue": "Make-Out Room",
+    "address": "3225 22nd St, San Francisco, CA 94110",
+    "url": "https://www.calendarwiz.com/calendars/calendar.php?crd=makeoutroom&op=cal&month=12&year=2026",
+    "source": "venue:make-out-room",
+    "tags": [
+      "music",
+      "community"
+    ],
+    "price": "Free",
+    "description": "A free songwriters' circle at the Make-Out Room, with players trading songs in the round. A low-key folk night in the quiet week before Christmas.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 15,
+    "added": "2026-11-08"
   },
   {
     "title": "Woodchopper's Ball: live-band swing night",
@@ -5672,6 +6125,25 @@
     "cycle_minutes": 13,
     "added": "2026-10-29",
     "id": "the-lemon-twigs-new-year-s-eve-with-tchotchke-931c641a"
+  },
+  {
+    "id": "a-very-purple-new-year-s-eve-purple-rain-4k-sign-o-the-times-c05ac003",
+    "title": "A Very Purple New Year's Eve: Purple Rain (4K) + Sign O' the Times at the Vogue",
+    "start": "2026-12-31T21:00:00-08:00",
+    "end": "2027-01-01T01:00:00-08:00",
+    "venue": "Vogue Theatre",
+    "address": "3290 Sacramento St, San Francisco, CA 94115",
+    "url": "https://sf.funcheap.com/3rd-annual-purple-nye-purple-rain-sign-times-vogue-theatre/",
+    "source": "aggregator:funcheap",
+    "tags": [
+      "film",
+      "music"
+    ],
+    "price": "$25",
+    "description": "The Vogue's third annual Prince-themed NYE: doors at 9pm with Prince videos, a 4K restoration of Purple Rain at 10pm, a midnight countdown with complimentary champagne, then the Sign O' the Times concert film. A New Year's Eve that isn't a club night.",
+    "neighbourhood": "Presidio Heights",
+    "cycle_minutes": 25,
+    "added": "2026-11-08"
   },
   {
     "title": "Hayes Valley Comedy Night: New Year's Day show",

@@ -39,6 +39,7 @@ venues:
   - name: Make-Out Room (Mission)
     url: https://www.makeoutroom.com/
     tags: [music, comedy]
+    # full month: https://www.calendarwiz.com/calendars/calendar.php?crd=makeoutroom&op=cal&month=MM&year=YYYY (headless)
   - name: Café du Nord / Swedish American Hall (Upper Market)
     url: https://cafedunord.com/
     tags: [music]
@@ -70,6 +71,7 @@ venues:
     url: https://www.theploughandstars.com/
     tags: [music, community]
     # Irish pub with trad sessions
+    # full monthly calendar on homepage: Sun seisiún 1-4pm, Thu set dancing 8:30pm, 1st/3rd Mon board games
   # --- talks, science, ideas ---
   - name: Exploratorium After Dark (Thursdays, Pier 15)
     url: https://www.exploratorium.edu/visit/calendar/after-dark
@@ -92,6 +94,7 @@ venues:
   - name: Manny's (Mission — civic talks + community)
     url: https://welcometomannys.com/
     tags: [talk, community]
+    # cleaner: Eventbrite organizer API https://www.eventbrite.com/api/v3/organizers/15114280512/events/?status=live&order_by=start_asc&expand=venue
   - name: Lighthaven (Berkeley — rationalist campus)
     url: https://www.lighthaven.space/
     tags: [talk, community]
@@ -108,6 +111,7 @@ venues:
     url: https://www.bacds.org/calendars/
     tags: [dance]
     # SF / Palo Alto / Berkeley dances; prefer SF venues
+    # per-series iCal: https://bacds.org/ical-series/SF-WED-CONTRA , https://bacds.org/ical-series/SF-ENGLISH
 
   - name: Verdi Club — Woodchopper's Ball (Tuesday swing, Mission)
     url: https://www.verdiclub.net/events/
@@ -118,6 +122,7 @@ venues:
     url: https://move.love/
     tags: [dance, community]
     # JS-rendered; exact times/prices via the Eventbrite JSON-LD of each weekly event
+    # Eventbrite organizer 13303876779 (also occasional Friday-night dances)
   - name: Lindy in the Park (Sundays 11-2, Golden Gate Park JFK Dr)
     url: https://lindyinthepark.com/
     tags: [dance, outdoors]
@@ -388,6 +393,19 @@ listings:
     tags: [market, art]
   - name: Cityswoon speed dating (check age bracket includes 31)
     url: https://www.eventbrite.com/d/ca--san-francisco/cityswoon/
+    tags: [community]
+
+  - name: SF Neo-Futurists — The Infinite Wrench (447 Minna St)
+    url: "https://www.eventbrite.com/api/v3/organizers/6706701567/events/?status=live&order_by=start_asc&expand=venue"
+    tags: [theatre, comedy]
+  - name: Irish trad sessions meetup (Plough, Mad Dog in the Fog)
+    url: https://www.meetup.com/irish-music-trad-session/events/
+    tags: [music]
+  - name: Union Square Ice Rink special events (silent skate etc.)
+    url: https://unionsquareicerink.com/special-events/
+    tags: [sport, community]
+  - name: Little Brothers - Friends of the Elderly holiday volunteering
+    url: https://www.littlebrotherssf.org/holiday-opportunities
     tags: [community]
 
 keywords:

@@ -2441,6 +2441,37 @@ LOCATION:Great American Music Hall\, 859 O'Farrell St\, San Francisco\, CA
   94109
 END:VEVENT
 BEGIN:VEVENT
+UID:salsacrazy-mondays-salsa-lesson-salsa-bachata-dancing-b207830a@sf-even
+ ts
+DTSTAMP:20261124T030000Z
+DTSTART:20261124T030000Z
+DTEND:20261124T073000Z
+SUMMARY:SalsaCrazy Mondays: salsa lesson + salsa/bachata dancing
+DESCRIPTION:Monday salsa night on Clement St. Doors open at 6:30\, a begin
+ ner salsa lesson with no partner needed runs at 7pm\, then there's salsa 
+ and bachata social dancing until late. 21+.\nPrice: $10-$40\nhttps://www.
+ eventbrite.com/e/salsa-dance-classes-and-salsa-and-bachata-dancing-salsac
+ razy-mondays-tickets-1981014379336
+URL:https://www.eventbrite.com/e/salsa-dance-classes-and-salsa-and-bachata
+ -dancing-salsacrazy-mondays-tickets-1981014379336
+LOCATION:Neck of the Woods\, 406 Clement St\, San Francisco\, CA 94118
+END:VEVENT
+BEGIN:VEVENT
+UID:circuit-hacking-monday-open-electronics-workshop-at-noisebri-3766ff94@
+ sf-events
+DTSTAMP:20261124T030000Z
+DTSTART:20261124T030000Z
+DTEND:20261124T050000Z
+SUMMARY:Circuit Hacking Monday: open electronics workshop at Noisebridge
+DESCRIPTION:The weekly open electronics night at the Mission's volunteer-r
+ un hackerspace\, with soldering stations and people working on robotics a
+ nd embedded projects. Bring a project or just come and learn.\nPrice: Fre
+ e (donations welcome)\nhttps://www.meetup.com/noisebridge/events/31717202
+ 9/
+URL:https://www.meetup.com/noisebridge/events/317172029/
+LOCATION:Noisebridge hackerspace\, 272 Capp St\, San Francisco\, CA 94110
+END:VEVENT
+BEGIN:VEVENT
 UID:la-bola-negra-los-javis-30d59c1b@sf-events
 DTSTAMP:20261124T033000Z
 DTSTART:20261124T033000Z
@@ -2461,10 +2492,10 @@ DTSTAMP:20261124T043000Z
 DTSTART:20261124T043000Z
 DTEND:20261124T063000Z
 SUMMARY:Pedro the Lion with Karli Fairbanks
-DESCRIPTION:Reportedly SOLD OUT (per The List). David Bazan's indie-rock/s
- lowcore band Pedro the Lion in a small Potrero Hill club\, with folky sin
- ger-songwriter Karli Fairbanks opening. Doors 7:30pm\, all ages.\nPrice: 
- $30 adv / $35 door\nhttp://www.bottomofthehill.com/20261123.html
+DESCRIPTION:SOLD OUT (per The List). David Bazan's indie-rock/slowcore ban
+ d Pedro the Lion in a small Potrero Hill club\, with folky singer-songwri
+ ter Karli Fairbanks opening. Doors 7:30pm\, all ages.\nPrice: $30 adv / $
+ 35 door\nhttp://www.bottomofthehill.com/20261123.html
 URL:http://www.bottomofthehill.com/20261123.html
 LOCATION:Bottom of the Hill\, 1233 17th St\, San Francisco\, CA 94107
 END:VEVENT
@@ -2585,6 +2616,22 @@ URL:https://wl.seetickets.us/event/moonalice/708306?afflky=TheChapel
 LOCATION:The Chapel\, 777 Valencia St\, San Francisco\, CA 94110
 END:VEVENT
 BEGIN:VEVENT
+UID:cat-s-corner-thanksgiving-eve-swing-dance-with-the-cosmo-all-29706d1c@
+ sf-events
+DTSTAMP:20261126T050000Z
+DTSTART:20261126T050000Z
+DTEND:20261126T073000Z
+SUMMARY:Cat's Corner: Thanksgiving Eve swing dance with the Cosmo Alleycat
+ s
+DESCRIPTION:Live-band lindy hop and swing on Broadway the night before Tha
+ nksgiving. A 9pm drop-in beginner swing lesson\, then social dancing to t
+ he Cosmo Alleycats.\nPrice: $15 (incl. 9pm drop-in lesson\; $10 before 8:
+ 30pm)\nhttps://www.catscornersf.com/
+URL:https://www.catscornersf.com/
+LOCATION:Mabuhay Gardens (Cat's Corner)\, 435 Broadway\, San Francisco\, C
+ A 94133
+END:VEVENT
+BEGIN:VEVENT
 UID:dancegiving-community-ocean-dance-thanksgiving-morning-b0cc4476@sf-eve
  nts
 DTSTAMP:20261126T183000Z
@@ -2601,6 +2648,41 @@ LOCATION:Ocean Beach (Great Highway at Balboa St)\, Great Highway & Balboa
   St\, San Francisco\, CA 94121
 END:VEVENT
 BEGIN:VEVENT
+UID:thanksgiving-volunteering-deliver-meals-visit-older-adults-l-e9a9c3ca@
+ sf-events
+DTSTAMP:20261126T183000Z
+DTSTART:20261126T183000Z
+DTEND:20261126T203000Z
+SUMMARY:Thanksgiving volunteering: deliver meals + visit older adults (Lit
+ tle Brothers)
+DESCRIPTION:Pick up Thanksgiving meals downtown and deliver them to older 
+ adults around SF\, with the option to stay and share the visit. It's a me
+ aningful way to spend the holiday when your family is far away. Register 
+ ahead: the pick-up details are emailed to volunteers.\nPrice: Free (regis
+ ter as a volunteer in advance)\nhttps://www.littlebrotherssf.org/holiday-
+ opportunities
+URL:https://www.littlebrotherssf.org/holiday-opportunities
+LOCATION:Little Brothers - Friends of the Elderly (pick-up point downtown)
+ \, 909 Hyde St\, San Francisco\, CA 94109
+END:VEVENT
+BEGIN:VEVENT
+UID:sf-city-guides-free-walking-tour-welcome-to-san-francisco-th-4385c1fb@
+ sf-events
+DTSTAMP:20261126T190000Z
+DTSTART:20261126T190000Z
+DTEND:20261126T210000Z
+SUMMARY:SF City Guides free walking tour: Welcome to San Francisco (Thanks
+ giving Day)
+DESCRIPTION:A volunteer-led two-hour walk made for people new to the city\
+ , running on Thanksgiving morning. It goes from the Ferry Building to Nor
+ th Beach and covers the Gold Rush\, cable cars\, the 1906 quake and the c
+ ounterculture.\nPrice: Free (donations welcome)\nhttps://www.sfcityguides
+ .org/find-your-tour/?visit=2026-11-26
+URL:https://www.sfcityguides.org/find-your-tour/?visit=2026-11-26
+LOCATION:Harry Bridges Plaza (across from the Ferry Building)\, The Embarc
+ adero at Market St\, San Francisco\, CA 94111
+END:VEVENT
+BEGIN:VEVENT
 UID:milonga-malevaje-thanksgiving-night-tango-292716a0@sf-events
 DTSTAMP:20261127T040000Z
 DTSTART:20261127T040000Z
@@ -2613,6 +2695,21 @@ DESCRIPTION:The Verdi Club's weekly Thursday Argentine tango milonga on it
 URL:https://www.verdiclub.net/events/milonga-malevaje-78-2-2-2-2/2026-11-2
  6/
 LOCATION:Verdi Club\, 2424 Mariposa St\, San Francisco\, CA 94110
+END:VEVENT
+BEGIN:VEVENT
+UID:mc5-a-true-testimonial-chuck-prophet-s-cinema-discotheque-526e6c9f@sf-
+ events
+DTSTAMP:20261128T033000Z
+DTSTART:20261128T033000Z
+DTEND:20261128T060000Z
+SUMMARY:MC5: A True Testimonial (Chuck Prophet's Cinema Discotheque)
+DESCRIPTION:SF rocker Chuck Prophet presents the acclaimed documentary on 
+ the MC5\, the Detroit band whose garage-rock roots and 60s protest energy
+  paved the way for the Stooges and punk. It's a music-nerd night at a nei
+ ghbourhood single-screen cinema.\nhttps://www.4-star-movies.com/calendar-
+ of-events/mc5-chuck-prophet
+URL:https://www.4-star-movies.com/calendar-of-events/mc5-chuck-prophet
+LOCATION:4 Star Theater\, 2200 Clement St\, San Francisco\, CA 94121
 END:VEVENT
 BEGIN:VEVENT
 UID:sleepless-nights-xx-a-tribute-to-gram-parsons-32b44499@sf-events
@@ -2660,6 +2757,23 @@ LOCATION:Croatian American Cultural Center\, 60 Onondaga Ave\, San Francis
  co\, CA 94112
 END:VEVENT
 BEGIN:VEVENT
+UID:sf-city-guides-free-walking-tour-telegraph-hill-stairway-hik-61fb61f1@
+ sf-events
+DTSTAMP:20261128T200000Z
+DTSTART:20261128T200000Z
+DTEND:20261128T220000Z
+SUMMARY:SF City Guides free walking tour: Telegraph Hill Stairway Hike
+DESCRIPTION:A volunteer-guided walk down the Filbert and Greenwich steps\,
+  past hidden wooden cottages and gardens with Bay views (and maybe the wi
+ ld parrots). It covers the hill's history from Gold Rush lookouts to arti
+ sts. It's steep\, so wear sturdy shoes. Rain may cancel.\nPrice: Free (do
+ nations welcome)\nhttps://www.sfcityguides.org/find-your-tour/?visit=2026
+ -11-28
+URL:https://www.sfcityguides.org/find-your-tour/?visit=2026-11-28
+LOCATION:Marconi Monument (meeting point)\, Lombard St at Telegraph Hill B
+ lvd (opposite 290 Lombard)\, San Francisco\, CA 94133
+END:VEVENT
+BEGIN:VEVENT
 UID:ybca-world-of-black-film-black-girl-ousmane-sembene-1966-3edc6dd1@sf-e
  vents
 DTSTAMP:20261128T220000Z
@@ -2691,6 +2805,22 @@ LOCATION:SFJAZZ Center\, Miner Auditorium\, 201 Franklin St\, San Francisc
  o\, CA 94102
 END:VEVENT
 BEGIN:VEVENT
+UID:sf-neo-futurists-the-infinite-wrench-30-plays-in-60-minutes-8f41a104@s
+ f-events
+DTSTAMP:20261129T050000Z
+DTSTART:20261129T050000Z
+DTEND:20261129T063000Z
+SUMMARY:SF Neo-Futurists: The Infinite Wrench (30 plays in 60 minutes)
+DESCRIPTION:The Neo-Futurists race to perform 30 short original plays in 6
+ 0 minutes\, in an order the audience shouts out. They range from personal
+  to political to absurd\, and the set changes every week.\nPrice: $12-$28
+  online\nhttps://www.eventbrite.com/e/sf-neo-futurists-the-infinite-wrenc
+ h-tickets-1987282908676
+URL:https://www.eventbrite.com/e/sf-neo-futurists-the-infinite-wrench-tick
+ ets-1987282908676
+LOCATION:447 Minna St\, 447 Minna St\, San Francisco\, CA 94103
+END:VEVENT
+BEGIN:VEVENT
 UID:movement-ecstatic-dance-sf-aguamayyim-ad6532f9@sf-events
 DTSTAMP:20261129T180000Z
 DTSTART:20261129T180000Z
@@ -2720,6 +2850,31 @@ URL:https://dickensfair.com/
 LOCATION:Cow Palace\, 2600 Geneva Ave\, Daly City\, CA 94014
 END:VEVENT
 BEGIN:VEVENT
+UID:contact-improvisation-class-with-dai-wei-at-odc-6c7a979c@sf-events
+DTSTAMP:20261129T201500Z
+DTSTART:20261129T201500Z
+DTEND:20261129T220000Z
+SUMMARY:Contact Improvisation class with Dai & Wei at ODC
+DESCRIPTION:A Sunday-afternoon contact improvisation class at ODC in the M
+ ission taught by Daiane Lopes da Silva and Weidong Yang. It's a good way 
+ into SF's CI scene during Thanksgiving weekend.\nhttps://bay.dance/events
+ /contact_improv/
+URL:https://bay.dance/events/contact_improv/
+LOCATION:ODC Dance Commons\, 351 Shotwell St\, San Francisco\, CA 94110
+END:VEVENT
+BEGIN:VEVENT
+UID:castro-holiday-tree-lighting-2026-25b3164d@sf-events
+DTSTAMP:20261201T020000Z
+DTSTART:20261201T020000Z
+DTEND:20261201T023000Z
+SUMMARY:Castro Holiday Tree Lighting 2026
+DESCRIPTION:The Castro Merchants Association lights the neighbourhood's bi
+ g holiday tree to kick off the season. It's a short\, free community gath
+ ering at 18th & Castro.\nPrice: Free\nhttps://castromerchants.com/events/
+URL:https://castromerchants.com/events/
+LOCATION:Bank of America Plaza\, 501 Castro St\, San Francisco\, CA 94114
+END:VEVENT
+BEGIN:VEVENT
 UID:of-poetry-protest-10th-anniversary-celebration-3e5280f0@sf-events
 DTSTAMP:20261201T030000Z
 DTSTART:20261201T030000Z
@@ -2733,6 +2888,21 @@ URL:https://citylights.com/events/of-poetry-protest-10th-anniversary-celeb
  ration/
 LOCATION:City Lights Booksellers\, 261 Columbus Ave\, San Francisco\, CA 9
  4133
+END:VEVENT
+BEGIN:VEVENT
+UID:national-theatre-live-golden-boy-josh-o-connor-a6b159b2@sf-events
+DTSTAMP:20261201T030000Z
+DTSTART:20261201T030000Z
+DTEND:20261201T061500Z
+SUMMARY:National Theatre Live: Golden Boy (Josh O'Connor)
+DESCRIPTION:A screening of the Almeida Theatre's revival of Clifford Odets
+ ' Depression-era drama\, filmed live\, with Josh O'Connor as the violinis
+ t lured into prizefighting. London theatre on a Monday night (it repeats 
+ on Dec 14).\nhttps://www.voguemovies.com/calendar-of-events/national-thea
+ tre-live-golden-boy-november-30
+URL:https://www.voguemovies.com/calendar-of-events/national-theatre-live-g
+ olden-boy-november-30
+LOCATION:Vogue Theatre\, 3290 Sacramento St\, San Francisco\, CA 94115
 END:VEVENT
 BEGIN:VEVENT
 UID:a-john-waters-christmas-4519cb2a@sf-events
@@ -3385,6 +3555,32 @@ LOCATION:Commonwealth Club World Affairs\, 110 The Embarcadero\, San Franc
  isco\, CA 94105
 END:VEVENT
 BEGIN:VEVENT
+UID:inner-richmond-board-game-night-at-the-plough-and-stars-39688492@sf-ev
+ ents
+DTSTAMP:20261208T023000Z
+DTSTART:20261208T023000Z
+DTEND:20261208T043000Z
+SUMMARY:Inner Richmond Board Game Night at the Plough and Stars
+DESCRIPTION:Gather & Game SF runs a 1st and 3rd Monday board-game night at
+  SF's best-known Irish pub. Turn up\, join a table and meet the neighbour
+ s over a pint.\nPrice: Free\nhttps://theploughandstars.com/
+URL:https://theploughandstars.com/
+LOCATION:The Plough and Stars\, 116 Clement St\, San Francisco\, CA 94118
+END:VEVENT
+BEGIN:VEVENT
+UID:contact-improvisation-class-jam-at-the-castro-room-6483d0f4@sf-events
+DTSTAMP:20261208T034500Z
+DTSTART:20261208T034500Z
+DTEND:20261208T061500Z
+SUMMARY:Contact Improvisation class + jam at The Castro Room
+DESCRIPTION:SF's 1st and 3rd Monday contact improv night: an hour's beginn
+ er-friendly class from 7:45pm flows into a jam with live music until 10:1
+ 5pm. Teachers and hosts rotate\, and the SF CI WhatsApp group posts who's
+  on.\nhttps://bay.dance/events/contact_improv/
+URL:https://bay.dance/events/contact_improv/
+LOCATION:The Castro Room\, 97 Collingwood St\, San Francisco\, CA 94114
+END:VEVENT
+BEGIN:VEVENT
 UID:buck-meek-with-kisser-9a218df7@sf-events
 DTSTAMP:20261208T040000Z
 DTSTART:20261208T040000Z
@@ -3489,6 +3685,20 @@ URL:https://ybca.org/event/mud-frontier-film-screening-talkback-with-rael-
 LOCATION:YBCA Screening Room\, 701 Mission St\, San Francisco\, CA 94103
 END:VEVENT
 BEGIN:VEVENT
+UID:manny-s-trivia-night-71607dec@sf-events
+DTSTAMP:20261210T030000Z
+DTSTART:20261210T030000Z
+DTEND:20261210T050000Z
+SUMMARY:Manny's Trivia Night
+DESCRIPTION:The second-Wednesday trivia night at the Mission's civic cafe 
+ and events space. Join a team or bring one for drinks and friendly compet
+ ition.\nPrice: Free (RSVP)\nhttps://www.eventbrite.com/e/trivia-night-at-
+ mannys-tickets-1995988045976
+URL:https://www.eventbrite.com/e/trivia-night-at-mannys-tickets-1995988045
+ 976
+LOCATION:Manny's\, 3092 16th St\, San Francisco\, CA 94103
+END:VEVENT
+BEGIN:VEVENT
 UID:san-francisco-wednesday-contra-dance-beginner-lesson-7-30-70c5ccb9@sf-
  events
 DTSTAMP:20261210T033000Z
@@ -3502,6 +3712,19 @@ DESCRIPTION:BACDS's 2nd & 4th Wednesday contra with caller Doe Taryn and l
  d/
 URL:https://bacds.org/series/contra/san_francisco_wed/
 LOCATION:The Polish Club\, 3040 22nd St\, San Francisco\, CA 94110
+END:VEVENT
+BEGIN:VEVENT
+UID:feeble-little-horse-with-mop-2nd-show-19e295b1@sf-events
+DTSTAMP:20261210T040000Z
+DTSTART:20261210T040000Z
+DTEND:20261210T060000Z
+SUMMARY:feeble little horse with MOP (2nd show)
+DESCRIPTION:The Pittsburgh indie-rock band touring their third LP\, bitkno
+ t\, which mixes fuzzed-out guitars with sweet\, off-kilter pop. A second 
+ show was added after Dec 10 sold out. All ages.\nPrice: $36\nhttps://www.
+ theindependentsf.com/tm-event/feeble-little-horse/
+URL:https://www.theindependentsf.com/tm-event/feeble-little-horse/
+LOCATION:The Independent\, 628 Divisadero St\, San Francisco\, CA 94117
 END:VEVENT
 BEGIN:VEVENT
 UID:exploratorium-after-dark-unplug-and-play-fa3478a6@sf-events
@@ -3547,6 +3770,18 @@ URL:https://www.thelab.org/projects/2026/12/10/flaming-creatures-the-films
 LOCATION:The Lab\, 2948 16th St\, San Francisco\, CA 94103
 END:VEVENT
 BEGIN:VEVENT
+UID:silent-skate-at-the-union-square-ice-rink-541a00fe@sf-events
+DTSTAMP:20261211T030000Z
+DTSTART:20261211T030000Z
+DTEND:20261211T041500Z
+SUMMARY:Silent Skate at the Union Square Ice Rink
+DESCRIPTION:Headphone skate session under the Union Square holiday lights 
+ with DJs. A festive weeknight outing (a later 8:30pm session too).\nPrice
+ : $35\nhttps://unionsquareicerink.com/special-events/
+URL:https://unionsquareicerink.com/special-events/
+LOCATION:Union Square Ice Rink\, 333 Post St\, San Francisco\, CA 94108
+END:VEVENT
+BEGIN:VEVENT
 UID:city-arts-lectures-marlon-james-with-shereen-marisol-meraji-aa01b9fc@s
  f-events
 DTSTAMP:20261211T033000Z
@@ -3560,6 +3795,22 @@ DESCRIPTION:Booker-winning novelist Marlon James (A Brief History of Seven
 URL:https://www.cityarts.net/event/marlon-james-2/
 LOCATION:Sydney Goldstein Theater\, 275 Hayes St\, San Francisco\, CA 9410
  2
+END:VEVENT
+BEGIN:VEVENT
+UID:irish-set-dancing-with-the-county-yolo-band-at-the-plough-an-5f4acb5f@
+ sf-events
+DTSTAMP:20261211T043000Z
+DTSTART:20261211T043000Z
+DTEND:20261211T063000Z
+SUMMARY:Irish set dancing with the County Yolo Band at the Plough and Star
+ s
+DESCRIPTION:Thursday-night Irish set dancing to a live céilí band at SF'
+ s home of traditional Irish music. These are the social figure dances cou
+ sin to a ceilidh\, and regulars help newcomers through the figures.\nPric
+ e: No cover (the pub charges only on Fri/Sat)\nhttps://theploughandstars.
+ com/
+URL:https://theploughandstars.com/
+LOCATION:The Plough and Stars\, 116 Clement St\, San Francisco\, CA 94118
 END:VEVENT
 BEGIN:VEVENT
 UID:cooking-class-fresh-pasta-in-color-708b1073@sf-events
@@ -3641,12 +3892,12 @@ DTEND:20261213T050000Z
 SUMMARY:Bay Area Winter Solstice 2026 (rationalist community)
 DESCRIPTION:The Bay Area rationalist community's annual Secular Solstice: 
  an evening of group singing and speeches about facing the dark\, held thi
- s year at the Freight. Details and tickets 'coming soon'. East Bay: BART 
- from Montgomery to Downtown Berkeley\, about 25 min\, then a 2-min walk.\
- nhttps://www.lesswrong.com/events/umzGbxosnsxKPLQpX/bay-area-winter-solst
- ice
-URL:https://www.lesswrong.com/events/umzGbxosnsxKPLQpX/bay-area-winter-sol
- stice
+ s year at the Freight. Tickets are on Eventbrite. East Bay: BART from Mon
+ tgomery to Downtown Berkeley\, about 25 min\, then a 2-min walk.\nPrice: 
+ Pay what you can (from $0)\nhttps://www.eventbrite.com/e/bay-area-secular
+ -solstice-2026-tickets-2004527583964
+URL:https://www.eventbrite.com/e/bay-area-secular-solstice-2026-tickets-20
+ 04527583964
 LOCATION:Freight & Salvage\, 2020 Addison St\, Berkeley\, CA 94704
 END:VEVENT
 BEGIN:VEVENT
@@ -3775,22 +4026,17 @@ URL:https://apeconcerts.com/events/jd-mcpherson-261213/
 LOCATION:Bimbo's 365 Club\, 1025 Columbus Ave\, San Francisco\, CA 94133
 END:VEVENT
 BEGIN:VEVENT
-UID:out-of-the-darkness-classic-swedish-short-fiction-vendela-vi-6ffc2513@
- sf-events
-DTSTAMP:20261215T020000Z
-DTSTART:20261215T020000Z
-DTEND:20261215T040000Z
-SUMMARY:Out of the Darkness: Classic Swedish Short Fiction (Vendela Vida\,
-  David Katznelson\, Ulf Olsson)
-DESCRIPTION:Novelist Vendela Vida and the anthology's co-editors celebrate
-  a new collection of classic Swedish short fiction. It's a wintry\, liter
- ary Monday-night talk on the waterfront.\nPrice: $25\nhttps://www.commonw
- ealthclub.org/events/2026-12-14/out-darkness-rediscovering-classic-swedis
- h-literature
-URL:https://www.commonwealthclub.org/events/2026-12-14/out-darkness-redisc
- overing-classic-swedish-literature
-LOCATION:Commonwealth Club World Affairs\, 110 The Embarcadero\, San Franc
- isco\, CA 94105
+UID:cyberpunk-cinema-night-at-the-knockout-707f958a@sf-events
+DTSTAMP:20261215T023000Z
+DTSTART:20261215T023000Z
+DTEND:20261215T050000Z
+SUMMARY:Cyberpunk Cinema Night at The Knockout
+DESCRIPTION:Thrillhouse Records' second-Monday free screening of a cyberpu
+ nk classic at a Mission dive bar\, with an episode of Cowboy Bebop at 6:3
+ 0pm before the feature.\nPrice: Free\nhttps://sf.funcheap.com/cyberpunk-c
+ inema-night-mission-dist-149/
+URL:https://sf.funcheap.com/cyberpunk-cinema-night-mission-dist-149/
+LOCATION:The Knockout\, 3223 Mission St\, San Francisco\, CA 94110
 END:VEVENT
 BEGIN:VEVENT
 UID:a-tribute-to-the-life-and-writing-of-pierre-joris-e613cdf5@sf-events
@@ -3840,6 +4086,21 @@ URL:https://www.commonwealthclub.org/events/2026-12-15/quantum-threat-what
  -happens-when-our-digital-locks-stop-working
 LOCATION:Commonwealth Club World Affairs\, 110 The Embarcadero\, San Franc
  isco\, CA 94105
+END:VEVENT
+BEGIN:VEVENT
+UID:is-there-really-a-global-ai-race-bebo-white-at-manny-s-1c6d5fd4@sf-eve
+ nts
+DTSTAMP:20261216T020000Z
+DTSTART:20261216T020000Z
+DTEND:20261216T030000Z
+SUMMARY:Is There Really a Global AI Race? (Bebo White at Manny's)
+DESCRIPTION:Science communicator Bebo White looks at whether the 'AI race'
+  framing holds up\, at the Mission's civic events space. It's a one-hour 
+ talk with Q&A.\nPrice: $9-$15\nhttps://www.eventbrite.com/e/is-there-real
+ ly-a-global-ai-race-tickets-2004247499223
+URL:https://www.eventbrite.com/e/is-there-really-a-global-ai-race-tickets-
+ 2004247499223
+LOCATION:Manny's\, 3092 16th St\, San Francisco\, CA 94103
 END:VEVENT
 BEGIN:VEVENT
 UID:new-directions-90-6a2027e1@sf-events
@@ -3916,6 +4177,23 @@ LOCATION:San Francisco Main Library\, Koret Auditorium\, 100 Larkin St\, S
  an Francisco\, CA 94102
 END:VEVENT
 BEGIN:VEVENT
+UID:arlie-russell-hochschild-in-conversation-with-andrew-keen-wh-b9a6227a@
+ sf-events
+DTSTAMP:20261217T020000Z
+DTSTART:20261217T020000Z
+DTEND:20261217T030000Z
+SUMMARY:Arlie Russell Hochschild in conversation with Andrew Keen: Who Sto
+ le America's Pride?
+DESCRIPTION:The Berkeley sociologist behind Strangers in Their Own Land ta
+ lks with Andrew Keen about pride\, shame and American politics. It's an i
+ ntimate talk in Manny's 'How To See America' series.\nPrice: $9-$19\nhttp
+ s://www.eventbrite.com/e/how-to-see-america-who-stole-americas-pride-tick
+ ets-2003996604791
+URL:https://www.eventbrite.com/e/how-to-see-america-who-stole-americas-pri
+ de-tickets-2003996604791
+LOCATION:Manny's\, 3092 16th St\, San Francisco\, CA 94103
+END:VEVENT
+BEGIN:VEVENT
 UID:pokey-lafarge-with-cicada-rhythm-33090193@sf-events
 DTSTAMP:20261217T040000Z
 DTSTART:20261217T040000Z
@@ -3926,6 +4204,21 @@ DESCRIPTION:Roots troubadour Pokey LaFarge (old-time\, swing\, country blu
  nPrice: $46.36\nhttps://apeconcerts.com/events/pokey-lafarge-261216/
 URL:https://apeconcerts.com/events/pokey-lafarge-261216/
 LOCATION:Bimbo's 365 Club\, 1025 Columbus Ave\, San Francisco\, CA 94133
+END:VEVENT
+BEGIN:VEVENT
+UID:amigo-the-devil-solo-with-nate-bergman-3235e4f9@sf-events
+DTSTAMP:20261217T040000Z
+DTSTART:20261217T040000Z
+DTEND:20261217T060000Z
+SUMMARY:Amigo the Devil (solo) with Nate Bergman
+DESCRIPTION:Danny Kiranos' dark-folk and murder-ballad project plays a str
+ ipped-back solo set: banjo\, gallows humour and big singalongs in the gil
+ ded music hall.\nPrice: $35 + fees\nhttps://wl.seetickets.us/event/amigo-
+ the-devil-solo/708933?afflky=GreatAmericanMusicHall
+URL:https://wl.seetickets.us/event/amigo-the-devil-solo/708933?afflky=Grea
+ tAmericanMusicHall
+LOCATION:Great American Music Hall\, 859 O'Farrell St\, San Francisco\, CA
+  94109
 END:VEVENT
 BEGIN:VEVENT
 UID:exploratorium-after-dark-solstice-af312b2e@sf-events
@@ -3999,6 +4292,22 @@ URL:https://thelostchurch.my.salesforce-sites.com/ticket#/instances/a0FUh0
 LOCATION:The Lost Church\, 988 Columbus Ave\, San Francisco\, CA 94133
 END:VEVENT
 BEGIN:VEVENT
+UID:playground-twisted-holiday-festival-same-time-next-christmas-78fa8bb3@
+ sf-events
+DTSTAMP:20261219T030000Z
+DTSTART:20261219T030000Z
+DTEND:20261219T060000Z
+SUMMARY:PlayGround Twisted Holiday Festival: Same Time\, Next Christmas + 
+ Whenever You're Ready
+DESCRIPTION:A double bill of new holiday plays with a twist in PlayGround'
+ s fringe-style festival: 'Same Time\, Next Christmas' at 7pm\, then Bel M
+ ehaffy's darkly funny solo show about loneliness and reinvention\, 'Whene
+ ver You're Ready'\, at 8:30pm.\nPrice: Free (suggested donation $10-$30)\
+ nhttps://playground-sf.org/twistedholiday/
+URL:https://playground-sf.org/twistedholiday/
+LOCATION:Potrero Stage\, 1695 18th St\, San Francisco\, CA 94107
+END:VEVENT
+BEGIN:VEVENT
 UID:soulful-joy-christmas-at-grace-cathedral-a5090ed0@sf-events
 DTSTAMP:20261219T033000Z
 DTSTART:20261219T033000Z
@@ -4039,6 +4348,24 @@ DESCRIPTION:Pre-solstice old-time square dance with star caller Evie Ladin
  iding scale ($20 non-members)\nhttps://bacds.org/series/square/east-bay/
 URL:https://bacds.org/series/square/east-bay/
 LOCATION:Hillside Club\, 2286 Cedar St\, Berkeley\, CA 94709
+END:VEVENT
+BEGIN:VEVENT
+UID:the-confessional-improv-built-from-the-audience-s-anonymous--8ce73b86@
+ sf-events
+DTSTAMP:20261219T040000Z
+DTSTART:20261219T040000Z
+DTEND:20261219T050000Z
+SUMMARY:The Confessional: improv built from the audience's anonymous sins 
+ (Endgames)
+DESCRIPTION:Audiences anonymously write down sins and secrets\, and Endgam
+ es' improvisers weave them into a fully improvised comedy show. It's a ch
+ eap\, sociable Friday night in the Mission.\nPrice: $11 (Funcheap discoun
+ t)\nhttps://sf.funcheap.com/5-off-the-confessional-sfs-wild-sins-secrets-
+ improv-comedy-show-205/
+URL:https://sf.funcheap.com/5-off-the-confessional-sfs-wild-sins-secrets-i
+ mprov-comedy-show-205/
+LOCATION:Endgames Improv (ETC Prime)\, 2965 Mission St\, San Francisco\, C
+ A 94110
 END:VEVENT
 BEGIN:VEVENT
 UID:a-cathedral-christmas-saturday-matinee-grace-cathedral-choir-cec8c784@
@@ -4087,6 +4414,24 @@ DESCRIPTION:A dinner and dance night with a vintage-style jazz and swing b
 URL:https://www.verdiclub.net/events/holiday-dinner-dance-party-w-halsey-t
  he-hi-hats-4/
 LOCATION:Verdi Club\, 2424 Mariposa St\, San Francisco\, CA 94110
+END:VEVENT
+BEGIN:VEVENT
+UID:dance-along-nutcracker-2026-a-dance-along-toy-story-evening--2ae6e218@
+ sf-events
+DTSTAMP:20261220T030000Z
+DTSTART:20261220T030000Z
+DTEND:20261220T050000Z
+SUMMARY:Dance-Along Nutcracker 2026: A Dance-Along Toy Story (evening show
+ )
+DESCRIPTION:SF's 40-year-old irreverent alternative to the Nutcracker. The
+  75-piece SF Pride Band plays Tchaikovsky mashed up with Toy Story and Ba
+ rbie tunes\, and the audience waltzes and pirouettes along from their sea
+ ts or the dance floor. The evening show is the least kid-heavy.\nhttps://
+ sfprideband.org/performances-and-events/dance-along-nutcracker-2026-a-dan
+ ce-along-toy-story-dec-19-700-pm/
+URL:https://sfprideband.org/performances-and-events/dance-along-nutcracker
+ -2026-a-dance-along-toy-story-dec-19-700-pm/
+LOCATION:YBCA Forum\, 701 Mission St\, San Francisco\, CA 94103
 END:VEVENT
 BEGIN:VEVENT
 UID:the-mother-hips-annual-holiday-show-with-little-worth-71811bf9@sf-even
@@ -4212,6 +4557,21 @@ DESCRIPTION:A 70-90 minute stand-up showcase with 4-5 Bay Area comics at S
 URL:https://www.eventbrite.com/e/hayes-valley-comedy-night-san-francisco-t
  ickets-1987864577463
 LOCATION:The Function SF\, 1414 Market St\, San Francisco\, CA 94102
+END:VEVENT
+BEGIN:VEVENT
+UID:sad-bastard-club-songwriter-round-robin-hosted-by-tom-heyman-9b4fa05d@
+ sf-events
+DTSTAMP:20261223T033000Z
+DTSTART:20261223T033000Z
+DTEND:20261223T053000Z
+SUMMARY:Sad Bastard Club: songwriter round-robin hosted by Tom Heyman
+DESCRIPTION:A free songwriters' circle at the Make-Out Room\, with players
+  trading songs in the round. A low-key folk night in the quiet week befor
+ e Christmas.\nPrice: Free\nhttps://www.calendarwiz.com/calendars/calendar
+ .php?crd=makeoutroom&op=cal&month=12&year=2026
+URL:https://www.calendarwiz.com/calendars/calendar.php?crd=makeoutroom&op=
+ cal&month=12&year=2026
+LOCATION:Make-Out Room\, 3225 22nd St\, San Francisco\, CA 94110
 END:VEVENT
 BEGIN:VEVENT
 UID:woodchopper-s-ball-live-band-swing-night-55863843@sf-events
@@ -4552,6 +4912,23 @@ DESCRIPTION:The D'Addario brothers' '60s/'70s-style power-pop band ring in
  kets.us/event/the-lemon-twigs/707220?afflky=TheChapel
 URL:https://wl.seetickets.us/event/the-lemon-twigs/707220?afflky=TheChapel
 LOCATION:The Chapel\, 777 Valencia St\, San Francisco\, CA 94110
+END:VEVENT
+BEGIN:VEVENT
+UID:a-very-purple-new-year-s-eve-purple-rain-4k-sign-o-the-times-c05ac003@
+ sf-events
+DTSTAMP:20270101T050000Z
+DTSTART:20270101T050000Z
+DTEND:20270101T090000Z
+SUMMARY:A Very Purple New Year's Eve: Purple Rain (4K) + Sign O' the Times
+  at the Vogue
+DESCRIPTION:The Vogue's third annual Prince-themed NYE: doors at 9pm with 
+ Prince videos\, a 4K restoration of Purple Rain at 10pm\, a midnight coun
+ tdown with complimentary champagne\, then the Sign O' the Times concert f
+ ilm. A New Year's Eve that isn't a club night.\nPrice: $25\nhttps://sf.fu
+ ncheap.com/3rd-annual-purple-nye-purple-rain-sign-times-vogue-theatre/
+URL:https://sf.funcheap.com/3rd-annual-purple-nye-purple-rain-sign-times-v
+ ogue-theatre/
+LOCATION:Vogue Theatre\, 3290 Sacramento St\, San Francisco\, CA 94115
 END:VEVENT
 BEGIN:VEVENT
 UID:hayes-valley-comedy-night-new-year-s-day-show-7b595a8b@sf-events
