@@ -2690,9 +2690,9 @@ LOCATION:Cow Palace\, 2600 Geneva Ave\, Daly City\, CA 94014
 END:VEVENT
 BEGIN:VEVENT
 UID:contact-improvisation-class-with-dai-wei-at-odc-6c7a979c@sf-events
-DTSTAMP:20261129T201500Z
-DTSTART:20261129T201500Z
-DTEND:20261129T220000Z
+DTSTAMP:20261129T211500Z
+DTSTART:20261129T211500Z
+DTEND:20261129T230000Z
 SUMMARY:Contact Improvisation class with Dai & Wei at ODC
 DESCRIPTION:A Sunday-afternoon contact improvisation class at ODC in the M
  ission taught by Daiane Lopes da Silva and Weidong Yang. It's a good way 
@@ -3820,6 +3820,20 @@ LOCATION:Harvey Milk Center for the Arts\, 50 Scott St\, San Francisco\, C
  A 94117
 END:VEVENT
 BEGIN:VEVENT
+UID:irish-trad-seisi-n-in-the-parklet-at-the-plough-and-stars-3533edc1@sf-
+ events
+DTSTAMP:20261213T210000Z
+DTSTART:20261213T210000Z
+DTEND:20261214T000000Z
+SUMMARY:Irish trad seisiún in the parklet at the Plough and Stars
+DESCRIPTION:The Plough's Sunday-afternoon Irish session\, listed on the pu
+ b's December calendar as a seisiún in the parklet. Musicians play in a c
+ ircle and listeners are welcome\; bring an instrument if you play.\nPrice
+ : Free\nhttps://www.theploughandstars.com/
+URL:https://www.theploughandstars.com/
+LOCATION:The Plough and Stars\, 116 Clement St\, San Francisco\, CA 94118
+END:VEVENT
+BEGIN:VEVENT
 UID:eggcorn-meredith-edgar-minor-birds-sunday-afternoon-show-8a325813@sf-e
  vents
 DTSTAMP:20261213T213000Z
@@ -3892,6 +3906,21 @@ URL:https://citylights.com/events/a-tribute-to-the-life-and-writing-of-pie
  rre-joris/
 LOCATION:City Lights Booksellers\, 261 Columbus Ave\, San Francisco\, CA 9
  4133
+END:VEVENT
+BEGIN:VEVENT
+UID:national-theatre-live-golden-boy-josh-o-connor-3a2f2275@sf-events
+DTSTAMP:20261215T030000Z
+DTSTART:20261215T030000Z
+DTEND:20261215T050000Z
+SUMMARY:National Theatre Live: Golden Boy (Josh O'Connor)
+DESCRIPTION:A screening of the National Theatre's revival of Clifford Odet
+ s' Depression-era boxing drama\, with Josh O'Connor (Challengers\, The Cr
+ own) as the violinist turned prizefighter. It plays at the neighbourhood 
+ single-screen Vogue.\nhttps://www.voguemovies.com/calendar-of-events/nati
+ onal-theatre-live-golden-boy-december-14
+URL:https://www.voguemovies.com/calendar-of-events/national-theatre-live-g
+ olden-boy-december-14
+LOCATION:Vogue Theatre\, 3290 Sacramento St\, San Francisco\, CA 94115
 END:VEVENT
 BEGIN:VEVENT
 UID:willi-carlisle-the-universal-bubba-tour-with-amelia-day-74a464a1@sf-ev
@@ -4033,6 +4062,20 @@ URL:https://www.eventbrite.com/e/how-to-see-america-who-stole-americas-pri
 LOCATION:Manny's\, 3092 16th St\, San Francisco\, CA 94103
 END:VEVENT
 BEGIN:VEVENT
+UID:rent-at-san-francisco-playhouse-preview-performance-30b541b4@sf-events
+DTSTAMP:20261217T030000Z
+DTSTART:20261217T030000Z
+DTEND:20261217T053000Z
+SUMMARY:RENT at San Francisco Playhouse (preview performance)
+DESCRIPTION:A preview of the Playhouse's new production of Jonathan Larson
+ 's musical about young artists in the East Village\, directed by Bill Eng
+ lish. It runs 2.5 hours in an intimate theatre off Union Square.\nPrice: 
+ $58.75-$89.50 (seat tiers\; varies by date)\nhttps://sfplayhouse.org/2026
+ -2027-season/rent/
+URL:https://sfplayhouse.org/2026-2027-season/rent/
+LOCATION:San Francisco Playhouse\, 450 Post St\, San Francisco\, CA 94102
+END:VEVENT
+BEGIN:VEVENT
 UID:pokey-lafarge-with-cicada-rhythm-33090193@sf-events
 DTSTAMP:20261217T040000Z
 DTSTART:20261217T040000Z
@@ -4058,6 +4101,22 @@ URL:https://wl.seetickets.us/event/amigo-the-devil-solo/708933?afflky=Grea
  tAmericanMusicHall
 LOCATION:Great American Music Hall\, 859 O'Farrell St\, San Francisco\, CA
   94109
+END:VEVENT
+BEGIN:VEVENT
+UID:robber-robber-with-bloodsports-throwin-bo-s-live-music-at-th-31f80fbb@
+ sf-events
+DTSTAMP:20261217T040000Z
+DTSTART:20261217T040000Z
+DTEND:20261217T060000Z
+SUMMARY:Robber Robber with Bloodsports (Throwin' Bo's live music at the 4 
+ Star)
+DESCRIPTION:Indie rock band Robber Robber\, led by Nina Cates\, play a gig
+  inside the Outer Richmond's old 4 Star cinema\, presented by Throwin' Bo
+ 's. Doors at 7pm and music at 8pm.\nhttps://www.4-star-movies.com/calenda
+ r-of-events/live-music-robber-robber
+URL:https://www.4-star-movies.com/calendar-of-events/live-music-robber-rob
+ ber
+LOCATION:4 Star Theater\, 2200 Clement St\, San Francisco\, CA 94121
 END:VEVENT
 BEGIN:VEVENT
 UID:exploratorium-after-dark-solstice-af312b2e@sf-events
@@ -4383,6 +4442,34 @@ URL:https://www.cityboxoffice.com/eventperformances.asp?evt=3349
 LOCATION:Grace Cathedral\, 1100 California St\, San Francisco\, CA 94108
 END:VEVENT
 BEGIN:VEVENT
+UID:contact-improvisation-class-jam-at-the-castro-room-5e044ff2@sf-events
+DTSTAMP:20261222T034500Z
+DTSTART:20261222T034500Z
+DTEND:20261222T061500Z
+SUMMARY:Contact Improvisation class + jam at The Castro Room
+DESCRIPTION:SF's 1st and 3rd Monday contact improv night: an hour's beginn
+ er-friendly class from 7:45pm flows into a jam with live music until 10:1
+ 5pm. It falls the week of Christmas\, so check the SF CI WhatsApp group t
+ hat it's running.\nhttps://bay.dance/events/contact_improv/
+URL:https://bay.dance/events/contact_improv/
+LOCATION:The Castro Room\, 97 Collingwood St\, San Francisco\, CA 94114
+END:VEVENT
+BEGIN:VEVENT
+UID:4th-annual-saturnalia-ball-voodoo-dolly-siouxsie-tribute-deb-dcebc569@
+ sf-events
+DTSTAMP:20261222T040000Z
+DTSTART:20261222T040000Z
+DTEND:20261222T060000Z
+SUMMARY:4th Annual Saturnalia Ball: Voodoo Dolly (Siouxsie tribute) + Deba
+ sed (Pixies tribute)
+DESCRIPTION:A winter-solstice-night goth and post-punk party at Bottom of 
+ the Hill\, with tribute sets to Siouxsie and the Banshees and the Pixies.
+  Doors 7:30pm\, music 8pm\, 21+.\nPrice: $20 ($25.31 advance incl. fees)\
+ nhttp://www.bottomofthehill.com/20261221.html
+URL:http://www.bottomofthehill.com/20261221.html
+LOCATION:Bottom of the Hill\, 1233 17th St\, San Francisco\, CA 94107
+END:VEVENT
+BEGIN:VEVENT
 UID:hayes-valley-comedy-night-at-the-function-dc200657@sf-events
 DTSTAMP:20261223T033000Z
 DTSTART:20261223T033000Z
@@ -4411,6 +4498,19 @@ DESCRIPTION:A free songwriters' circle at the Make-Out Room\, with players
 URL:https://www.calendarwiz.com/calendars/calendar.php?crd=makeoutroom&op=
  cal&month=12&year=2026
 LOCATION:Make-Out Room\, 3225 22nd St\, San Francisco\, CA 94110
+END:VEVENT
+BEGIN:VEVENT
+UID:the-hooks-the-greasy-gills-the-ultra-sounds-da37d038@sf-events
+DTSTAMP:20261223T043000Z
+DTSTART:20261223T043000Z
+DTEND:20261223T063000Z
+SUMMARY:The Hooks\, The Greasy Gills\, The Ultra Sounds
+DESCRIPTION:A cheap pre-Christmas local bill: Irish-style folk-punk from T
+ he Hooks\, surf rock from The Greasy Gills and pop/post-punk from The Ult
+ ra Sounds. Doors 8pm\, all ages.\nPrice: $15 ($19.81 advance incl. fees)\
+ nhttp://www.bottomofthehill.com/20261222.html
+URL:http://www.bottomofthehill.com/20261222.html
+LOCATION:Bottom of the Hill\, 1233 17th St\, San Francisco\, CA 94107
 END:VEVENT
 BEGIN:VEVENT
 UID:woodchopper-s-ball-live-band-swing-night-55863843@sf-events
@@ -4472,6 +4572,19 @@ URL:https://www.theindependentsf.com/tm-event/ray-and-paul-2/
 LOCATION:The Independent\, 628 Divisadero St\, San Francisco\, CA 94117
 END:VEVENT
 BEGIN:VEVENT
+UID:the-fabulous-bud-e-luv-christmas-extravaganza-with-lady-oflo-b5d64bde@
+ sf-events
+DTSTAMP:20261224T040000Z
+DTSTART:20261224T040000Z
+DTEND:20261224T060000Z
+SUMMARY:The Fabulous Bud E. Luv Christmas Extravaganza\, with Lady OFLO
+DESCRIPTION:SF lounge crooner Bud E. Luv's annual Christmas show\, a tongu
+ e-in-cheek holiday cabaret in the Chapel's converted mortuary hall. Doors
+  7pm\, all ages.\nPrice: $28-$33\nhttps://thechapelsf.com/music/
+URL:https://thechapelsf.com/music/
+LOCATION:The Chapel\, 777 Valencia St\, San Francisco\, CA 94110
+END:VEVENT
+BEGIN:VEVENT
 UID:oakland-interfaith-gospel-choir-christmas-eve-early-show-8e927c98@sf-e
  vents
 DTSTAMP:20261225T030000Z
@@ -4520,6 +4633,22 @@ LOCATION:Great American Music Hall\, 859 O'Farrell St\, San Francisco\, CA
   94109
 END:VEVENT
 BEGIN:VEVENT
+UID:sf-city-guides-free-walking-tour-gold-rush-city-christmas-da-fc7c39d3@
+ sf-events
+DTSTAMP:20261225T213000Z
+DTSTART:20261225T213000Z
+DTEND:20261225T233000Z
+SUMMARY:SF City Guides free walking tour: Gold Rush City (Christmas Day)
+DESCRIPTION:A volunteer-led 1.5-2 hour walk through the Financial District
+ 's Gold Rush history\, ending at Gold and Balance streets. It's an easy w
+ ay to meet people on Christmas Day if you have no family in town.\nPrice:
+  Free (donations welcome)\nhttps://www.sfcityguides.org/find-your-tour/?v
+ isit=2026-12-25
+URL:https://www.sfcityguides.org/find-your-tour/?visit=2026-12-25
+LOCATION:Transamerica Pyramid\, Clay St side (meeting point)\, Clay St\, n
+ orth side of the Transamerica Pyramid\, San Francisco\, CA 94111
+END:VEVENT
+BEGIN:VEVENT
 UID:san-francisco-critical-mass-christmas-day-ride-c28a6ca4@sf-events
 DTSTAMP:20261226T020000Z
 DTSTART:20261226T020000Z
@@ -4534,6 +4663,23 @@ DESCRIPTION:SF's famous last-Friday mass bike ride: meet at 6pm at the foo
 URL:https://sf.funcheap.com/san-francisco-critical-mass-last-friday-of-the
  -month-19/
 LOCATION:Embarcadero Plaza\, 1 Market St\, San Francisco\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:dance-fridays-at-space-550-salsa-bachata-lessons-and-social--1fcb8e8b@
+ sf-events
+DTSTAMP:20261226T034500Z
+DTSTART:20261226T034500Z
+DTEND:20261226T093000Z
+SUMMARY:Dance Fridays at Space 550: salsa + bachata lessons and social (Ch
+ ristmas night)
+DESCRIPTION:SalsaCrazy's weekly Friday salsa and bachata night runs on Chr
+ istmas night too\, with lessons\, a full bar and a patio. 21+. A sociable
+  option for anyone without family plans.\nPrice: $16.74-$27.24\nhttps://w
+ ww.eventbrite.com/e/salsa-and-bachata-dancing-dance-fridays-dance-lessons
+ -bar-nightclub-tickets-1979106050473
+URL:https://www.eventbrite.com/e/salsa-and-bachata-dancing-dance-fridays-d
+ ance-lessons-bar-nightclub-tickets-1979106050473
+LOCATION:Space 550\, 550 Barneveld Ave\, San Francisco\, CA 94124
 END:VEVENT
 BEGIN:VEVENT
 UID:kung-pao-kosher-comedy-christmas-day-cocktail-show-e5ad9968@sf-events
@@ -4609,6 +4755,19 @@ LOCATION:Presidio Visitor Center (meet near Anza)\, 210 Lincoln Blvd\, San
   Francisco\, CA 94129
 END:VEVENT
 BEGIN:VEVENT
+UID:irish-trad-seisi-n-at-the-plough-and-stars-3e02d160@sf-events
+DTSTAMP:20261227T210000Z
+DTSTART:20261227T210000Z
+DTEND:20261228T000000Z
+SUMMARY:Irish trad seisiún at the Plough and Stars
+DESCRIPTION:The Plough's Sunday-afternoon Irish session (listed on the pub
+ 's December calendar)\, a relaxed post-Christmas afternoon of fiddles\, f
+ lutes and pints. Listeners welcome\; bring an instrument if you play.\nPr
+ ice: Free\nhttps://www.theploughandstars.com/
+URL:https://www.theploughandstars.com/
+LOCATION:The Plough and Stars\, 116 Clement St\, San Francisco\, CA 94118
+END:VEVENT
+BEGIN:VEVENT
 UID:mark-eitzel-funeral-cake-strange-cities-devoted-fans-more-95db3a96@sf-
  events
 DTSTAMP:20261228T003000Z
@@ -4653,6 +4812,34 @@ URL:https://www.meetup.com/noisebridge/events/317172035/
 LOCATION:Noisebridge hackerspace\, 272 Capp St\, San Francisco\, CA 94110
 END:VEVENT
 BEGIN:VEVENT
+UID:alamo-drafthouse-the-apartment-3f26c176@sf-events
+DTSTAMP:20261229T030000Z
+DTSTART:20261229T030000Z
+DTEND:20261229T050000Z
+SUMMARY:Alamo Drafthouse: The Apartment
+DESCRIPTION:Billy Wilder's 1960 Oscar-winner with Jack Lemmon and Shirley 
+ MacLaine\, set over Christmas and New Year's Eve\, as a one-off big-scree
+ n repertory show at the New Mission.\nhttps://drafthouse.com/sf/show/the-
+ apartment
+URL:https://drafthouse.com/sf/show/the-apartment
+LOCATION:Alamo Drafthouse New Mission\, 2550 Mission St\, San Francisco\, 
+ CA 94110
+END:VEVENT
+BEGIN:VEVENT
+UID:national-theatre-live-fleabag-0038c429@sf-events
+DTSTAMP:20261229T030000Z
+DTSTART:20261229T030000Z
+DTEND:20261229T050000Z
+SUMMARY:National Theatre Live: Fleabag
+DESCRIPTION:Phoebe Waller-Bridge's original one-woman stage show of Fleaba
+ g\, filmed live in London\, on the Vogue's big screen in the quiet week a
+ fter Christmas.\nhttps://www.voguemovies.com/calendar-of-events/national-
+ theatre-live-fleabag-december-28
+URL:https://www.voguemovies.com/calendar-of-events/national-theatre-live-f
+ leabag-december-28
+LOCATION:Vogue Theatre\, 3290 Sacramento St\, San Francisco\, CA 94115
+END:VEVENT
+BEGIN:VEVENT
 UID:man-or-astro-man-with-the-subsonics-9124ba5d@sf-events
 DTSTAMP:20261229T050000Z
 DTSTART:20261229T050000Z
@@ -4693,6 +4880,20 @@ DESCRIPTION:The year's last Woodchopper's Ball at the Verdi Club: live swi
 URL:https://www.verdiclub.net/events/the-woodchoppers-ball-42-3-2/2026-12-
  29/
 LOCATION:Verdi Club\, 2424 Mariposa St\, San Francisco\, CA 94110
+END:VEVENT
+BEGIN:VEVENT
+UID:alamo-drafthouse-when-harry-met-sally-8a65eabb@sf-events
+DTSTAMP:20261231T030000Z
+DTSTART:20261231T030000Z
+DTEND:20261231T050000Z
+SUMMARY:Alamo Drafthouse: When Harry Met Sally...
+DESCRIPTION:Alamo's ring-in-the-new-year screening of the Nora Ephron/Rob 
+ Reiner rom-com\, which builds to its famous New Year's Eve party. It's a 
+ low-key night out between the holidays.\nhttps://drafthouse.com/sf/show/w
+ hen-harry-met-sally
+URL:https://drafthouse.com/sf/show/when-harry-met-sally
+LOCATION:Alamo Drafthouse New Mission\, 2550 Mission St\, San Francisco\, 
+ CA 94110
 END:VEVENT
 BEGIN:VEVENT
 UID:hayes-valley-comedy-night-at-the-function-dabf6f4c@sf-events
@@ -4740,6 +4941,22 @@ LOCATION:First United Methodist Church of Palo Alto\, 625 Hamilton Ave\, P
  alo Alto\, CA 94301
 END:VEVENT
 BEGIN:VEVENT
+UID:bats-improv-noir-new-year-s-4bc60f57@sf-events
+DTSTAMP:20270101T040000Z
+DTSTART:20270101T040000Z
+DTEND:20270101T060000Z
+SUMMARY:BATS Improv: Noir New Year's
+DESCRIPTION:A one-night-only\, fully improvised film-noir comedy caper wit
+ h champagne for New Year's Eve. It's done by 10pm\, so there's time to he
+ ad to the Embarcadero fireworks after.\nPrice: $23.11-$28.45\nhttps://www
+ .eventbrite.com/e/bats-improv-presents-noir-new-years-123126-sho-tickets-
+ 1999541033056
+URL:https://www.eventbrite.com/e/bats-improv-presents-noir-new-years-12312
+ 6-sho-tickets-1999541033056
+LOCATION:BATS Bayfront Theatre\, Fort Mason Center\, 2 Marina Blvd\, Build
+ ing B\, 3rd Floor\, San Francisco\, CA 94123
+END:VEVENT
+BEGIN:VEVENT
 UID:the-lemon-twigs-new-year-s-eve-with-tchotchke-931c641a@sf-events
 DTSTAMP:20270101T050000Z
 DTSTART:20270101T050000Z
@@ -4770,6 +4987,23 @@ URL:https://sf.funcheap.com/3rd-annual-purple-nye-purple-rain-sign-times-v
 LOCATION:Vogue Theatre\, 3290 Sacramento St\, San Francisco\, CA 94115
 END:VEVENT
 BEGIN:VEVENT
+UID:sf-city-guides-free-walking-tour-making-waves-on-the-waterfr-ee90a50c@
+ sf-events
+DTSTAMP:20270101T220000Z
+DTSTART:20270101T220000Z
+DTEND:20270102T000000Z
+SUMMARY:SF City Guides free walking tour: Making Waves on the Waterfront (
+ New Year's Day)
+DESCRIPTION:A flat 1.5-2 hour New Year's Day walk along the northern water
+ front covering Gold Rush pioneers\, inventors and labor organizers\, endi
+ ng at Levi Plaza. It meets in front of the Ferry Building under the clock
+  tower.\nPrice: Free (donations welcome)\nhttps://www.sfcityguides.org/fi
+ nd-your-tour/?visit=2027-01-01
+URL:https://www.sfcityguides.org/find-your-tour/?visit=2027-01-01
+LOCATION:Ferry Building clock tower (meeting point)\, Foot of Market St at
+  The Embarcadero\, San Francisco\, CA 94111
+END:VEVENT
+BEGIN:VEVENT
 UID:hayes-valley-comedy-night-new-year-s-day-show-7b595a8b@sf-events
 DTSTAMP:20270102T030000Z
 DTSTART:20270102T030000Z
@@ -4784,6 +5018,35 @@ URL:https://www.eventbrite.com/e/hayes-valley-comedy-night-san-francisco-t
  ickets-1987864284587
 LOCATION:The Function SF: Comedy Club & Cocktail Lounge\, 1414 Market St\,
   San Francisco\, CA 94102
+END:VEVENT
+BEGIN:VEVENT
+UID:about-last-night-one-night-stand-storytelling-show-6e906e9b@sf-events
+DTSTAMP:20270102T040000Z
+DTSTART:20270102T040000Z
+DTEND:20270102T053000Z
+SUMMARY:About Last Night: one-night-stand storytelling show
+DESCRIPTION:Real people tell true stories about horrifying one-night stand
+ s\, awkward hookups and regrettable romps\, which suits New Year's Day. D
+ oors 7pm\, show 8pm.\nPrice: $20 advance / $25 door\nhttps://www.calendar
+ wiz.com/calendars/popup.php?op=view&id=191495634&crd=makeoutroom
+URL:https://www.calendarwiz.com/calendars/popup.php?op=view&id=191495634&c
+ rd=makeoutroom
+LOCATION:Make-Out Room\, 3225 22nd St\, San Francisco\, CA 94110
+END:VEVENT
+BEGIN:VEVENT
+UID:bachata-lab-friday-bachata-classes-3-levels-social-new-year--69a725a4@
+ sf-events
+DTSTAMP:20270102T040000Z
+DTSTART:20270102T040000Z
+DTEND:20270102T090000Z
+SUMMARY:Bachata Lab: Friday bachata classes (3 levels) + social (New Year'
+ s Day)
+DESCRIPTION:The weekly Friday bachata night runs on New Year's Day: concur
+ rent beginner\, intermediate and advanced classes from 8pm with partner r
+ otation\, then social dancing until 1am.\nPrice: from $15\nhttps://www.ev
+ entbrite.com/e/bachata-lab-tickets-1543049044229
+URL:https://www.eventbrite.com/e/bachata-lab-tickets-1543049044229
+LOCATION:Bachata Lab\, 1830 17th St\, San Francisco\, CA 94103
 END:VEVENT
 BEGIN:VEVENT
 UID:the-board-walks-walk-talk-about-life-s-big-questions-98e65e2f@sf-event
@@ -4965,6 +5228,20 @@ URL:https://thecastro.com/events/2001-a-space-odyssey-270108
 LOCATION:Castro Theatre\, 429 Castro St\, San Francisco\, CA 94114
 END:VEVENT
 BEGIN:VEVENT
+UID:western-standard-time-ska-orchestra-featuring-karina-denik-67d1f69a@sf
+ -events
+DTSTAMP:20270109T050000Z
+DTSTART:20270109T050000Z
+DTEND:20270109T070000Z
+SUMMARY:Western Standard Time Ska Orchestra featuring Karina Deniké
+DESCRIPTION:A big-band ska\, rocksteady and early-reggae orchestra with si
+ nger Karina Deniké\, made for dancing in the Chapel's converted mortuary
+  hall. Doors 8pm\, show 9pm.\nPrice: $25 adv / $28 door\nhttps://thechape
+ lsf.com/music/
+URL:https://thechapelsf.com/music/
+LOCATION:The Chapel\, 777 Valencia St\, San Francisco\, CA 94110
+END:VEVENT
+BEGIN:VEVENT
 UID:sf-city-guides-free-walking-tour-welcome-to-san-francisco-fo-4a4cd4a7@
  sf-events
 DTSTAMP:20270109T173000Z
@@ -4987,11 +5264,10 @@ DTSTAMP:20270110T040000Z
 DTSTART:20270110T040000Z
 DTEND:20270110T060000Z
 SUMMARY:Anna von Hausswolff with KatzPascale
-DESCRIPTION:The Swedish singer and organist plays towering\, cathedral-siz
- ed drone-pop. The List marks it 'sold out'\, but the official ticket page
-  was still selling GA tickets on Oct 30. Mostly standing\; doors 7pm.\nPr
- ice: $25 adv / $30 week of show\nhttps://wl.seetickets.us/event/anna-von-
- hausswolff/683672?afflky=GreatAmericanMusicHall
+DESCRIPTION:SOLD OUT (per The List\, 9 Nov). The Swedish singer and organi
+ st plays towering\, cathedral-sized drone-pop. Mostly standing\; doors 7p
+ m.\nPrice: $25 adv / $30 week of show\nhttps://wl.seetickets.us/event/ann
+ a-von-hausswolff/683672?afflky=GreatAmericanMusicHall
 URL:https://wl.seetickets.us/event/anna-von-hausswolff/683672?afflky=Great
  AmericanMusicHall
 LOCATION:Great American Music Hall\, 859 O'Farrell St\, San Francisco\, CA
@@ -5073,6 +5349,36 @@ URL:https://www.eventbrite.com/e/salsa-dance-classes-and-salsa-and-bachata
 LOCATION:Neck of the Woods\, 406 Clement St\, San Francisco\, CA 94118
 END:VEVENT
 BEGIN:VEVENT
+UID:national-theatre-live-the-audience-helen-mirren-c86d0d6f@sf-events
+DTSTAMP:20270112T030000Z
+DTSTART:20270112T030000Z
+DTEND:20270112T050000Z
+SUMMARY:National Theatre Live: The Audience (Helen Mirren)
+DESCRIPTION:Helen Mirren as Elizabeth II in Peter Morgan's Olivier- and To
+ ny-winning play about the Queen's private weekly meetings with her prime 
+ ministers. It's back in cinemas for the first time in over a decade.\nhtt
+ ps://www.voguemovies.com/calendar-of-events/national-theatre-live-the-aud
+ ience-january-11
+URL:https://www.voguemovies.com/calendar-of-events/national-theatre-live-t
+ he-audience-january-11
+LOCATION:Vogue Theatre\, 3290 Sacramento St\, San Francisco\, CA 94115
+END:VEVENT
+BEGIN:VEVENT
+UID:happy-endings-writers-showdown-at-the-make-out-room-c4a91262@sf-events
+DTSTAMP:20270113T030000Z
+DTSTART:20270113T030000Z
+DTEND:20270113T050000Z
+SUMMARY:Happy Endings: writers' showdown at the Make-Out Room
+DESCRIPTION:Five writers perform new work on a shared theme\, competing fo
+ r the approval of an appointed committee. A literary night with a comedy 
+ edge in a Mission bar.\nPrice: Pay what you can ($10-$15 suggested)\nhttp
+ s://www.calendarwiz.com/calendars/popup.php?op=view&id=184885114&crd=make
+ outroom
+URL:https://www.calendarwiz.com/calendars/popup.php?op=view&id=184885114&c
+ rd=makeoutroom
+LOCATION:Make-Out Room\, 3225 22nd St\, San Francisco\, CA 94110
+END:VEVENT
+BEGIN:VEVENT
 UID:woodchopper-s-ball-live-band-swing-night-5c88d5b5@sf-events
 DTSTAMP:20270113T050000Z
 DTSTART:20270113T050000Z
@@ -5086,6 +5392,35 @@ DESCRIPTION:The weekly Tuesday live-band swing dance at the historic Verdi
 URL:https://www.verdiclub.net/events/the-woodchoppers-ball-42-3-2/2027-01-
  12/
 LOCATION:Verdi Club\, 2424 Mariposa St\, San Francisco\, CA 94110
+END:VEVENT
+BEGIN:VEVENT
+UID:figure-drawing-at-monument-sf-sketchboard-co-2d1bbf10@sf-events
+DTSTAMP:20270114T023000Z
+DTSTART:20270114T023000Z
+DTEND:20270114T043000Z
+SUMMARY:Figure drawing at Monument SF (Sketchboard Co.)
+DESCRIPTION:A two-hour drop-in life drawing session with a model\, run by 
+ Sketchboard Co. in SoMa. All levels are welcome\; bring your own material
+ s and book ahead on Square.\nPrice: $25\nhttps://book.squareup.com/classe
+ s/uj53t4hfgkzllp/location/DYSM7QRDVFWX7/classes
+URL:https://book.squareup.com/classes/uj53t4hfgkzllp/location/DYSM7QRDVFWX
+ 7/classes
+LOCATION:Monument SF\, 140 9th St\, San Francisco\, CA 94103
+END:VEVENT
+BEGIN:VEVENT
+UID:second-thursdays-figure-drawing-at-el-rio-sketchboard-co-db153cc5@sf-e
+ vents
+DTSTAMP:20270115T023000Z
+DTSTART:20270115T023000Z
+DTEND:20270115T043000Z
+SUMMARY:Second Thursdays figure drawing at El Rio (Sketchboard Co.)
+DESCRIPTION:Sketchboard's monthly life drawing night at the Mission's El R
+ io bar costs $15. It's more social than a studio session\, so you can dra
+ w with a drink in hand.\nPrice: $15\nhttps://book.squareup.com/classes/uj
+ 53t4hfgkzllp/location/DYSM7QRDVFWX7/classes
+URL:https://book.squareup.com/classes/uj53t4hfgkzllp/location/DYSM7QRDVFWX
+ 7/classes
+LOCATION:El Rio\, 3158 Mission St\, San Francisco\, CA 94110
 END:VEVENT
 BEGIN:VEVENT
 UID:lsd-and-the-search-for-god-with-cryogeyser-6874123f@sf-events
@@ -5164,6 +5499,18 @@ LOCATION:Great American Music Hall\, 859 O'Farrell St\, San Francisco\, CA
   94109
 END:VEVENT
 BEGIN:VEVENT
+UID:contact-improvisation-class-with-dai-wei-at-odc-44906eab@sf-events
+DTSTAMP:20270117T211500Z
+DTSTART:20270117T211500Z
+DTEND:20270117T230000Z
+SUMMARY:Contact Improvisation class with Dai & Wei at ODC
+DESCRIPTION:A weekly Sunday-afternoon contact improvisation class at ODC i
+ n the Mission\, taught by Daiane Lopes da Silva and Weidong Yang. A good 
+ way into SF's CI scene.\nhttps://bay.dance/events/contact_improv/
+URL:https://bay.dance/events/contact_improv/
+LOCATION:ODC Dance Commons\, 351 Shotwell St\, San Francisco\, CA 94110
+END:VEVENT
+BEGIN:VEVENT
 UID:laser-cutter-safety-training-at-noisebridge-798797eb@sf-events
 DTSTAMP:20270117T220000Z
 DTSTART:20270117T220000Z
@@ -5189,6 +5536,21 @@ DESCRIPTION:A not-for-profit Sunday salsa social at the Verdi Club. Beginn
  15\nhttps://www.verdiclub.net/events/mucha-salsa-5-2/2027-01-17/
 URL:https://www.verdiclub.net/events/mucha-salsa-5-2/2027-01-17/
 LOCATION:Verdi Club\, 2424 Mariposa St\, San Francisco\, CA 94110
+END:VEVENT
+BEGIN:VEVENT
+UID:sf-city-guides-free-walking-tour-beat-generation-in-sf-mlk-d-58029d00@
+ sf-events
+DTSTAMP:20270118T210000Z
+DTSTART:20270118T210000Z
+DTEND:20270118T223000Z
+SUMMARY:SF City Guides free walking tour: Beat Generation in SF (MLK Day)
+DESCRIPTION:A 1.5-hour holiday-Monday walk through the North Beach haunts 
+ of Ginsberg\, Kerouac and Ferlinghetti\, ending at Caffe Trieste. It pass
+ es City Lights on the way.\nPrice: Free (donations welcome)\nhttps://www.
+ sfcityguides.org/find-your-tour/?visit=2027-01-18
+URL:https://www.sfcityguides.org/find-your-tour/?visit=2027-01-18
+LOCATION:Transamerica Pyramid plaza (meeting point)\, 600 Montgomery St (N
+ W corner of plaza\, by the flagpoles)\, San Francisco\, CA 94111
 END:VEVENT
 BEGIN:VEVENT
 UID:tara-clerkin-trio-334069e5@sf-events
@@ -5337,6 +5699,20 @@ URL:https://www.theindependentsf.com/tm-event/the-brothers-comatose-2/
 LOCATION:The Independent\, 628 Divisadero St\, San Francisco\, CA 94117
 END:VEVENT
 BEGIN:VEVENT
+UID:sf-city-guides-free-walking-tour-haight-ashbury-b0c295ae@sf-events
+DTSTAMP:20270124T190000Z
+DTSTART:20270124T190000Z
+DTEND:20270124T210000Z
+SUMMARY:SF City Guides free walking tour: Haight-Ashbury
+DESCRIPTION:A two-hour walk through the 1967 Summer of Love neighbourhood\
+ , past the Straight Theater and the Grateful Dead's old haunts\, ending n
+ ear Waller and Ashbury.\nPrice: Free (donations welcome)\nhttps://www.sfc
+ ityguides.org/find-your-tour/?visit=2027-01-24
+URL:https://www.sfcityguides.org/find-your-tour/?visit=2027-01-24
+LOCATION:Park Branch Library (meeting point)\, 1833 Page St\, San Francisc
+ o\, CA 94117
+END:VEVENT
+BEGIN:VEVENT
 UID:irish-trad-seisi-n-at-the-plough-and-stars-3b86febb@sf-events
 DTSTAMP:20270124T210000Z
 DTSTART:20270124T210000Z
@@ -5347,6 +5723,20 @@ DESCRIPTION:The weekly Sunday-afternoon instrumental Irish session at SF's
  .\nPrice: Free\nhttps://www.sffmc.org/community-folk-calendar/
 URL:https://www.sffmc.org/community-folk-calendar/
 LOCATION:The Plough and Stars\, 116 Clement St\, San Francisco\, CA 94118
+END:VEVENT
+BEGIN:VEVENT
+UID:angela-autumn-throwin-bo-s-live-music-at-the-4-star-3ff24b21@sf-events
+DTSTAMP:20270125T040000Z
+DTSTART:20270125T040000Z
+DTEND:20270125T060000Z
+SUMMARY:Angela Autumn (Throwin' Bo's live music at the 4 Star)
+DESCRIPTION:Appalachian-rooted country-folk singer Angela Autumn\, 'The Ro
+ se of Appalachia'\, plays an intimate Sunday show inside the Outer Richmo
+ nd's old cinema. Doors 7pm\, music 8pm.\nhttps://www.4-star-movies.com/ca
+ lendar-of-events/live-music-angela-autumn
+URL:https://www.4-star-movies.com/calendar-of-events/live-music-angela-aut
+ umn
+LOCATION:4 Star Theater\, 2200 Clement St\, San Francisco\, CA 94121
 END:VEVENT
 BEGIN:VEVENT
 UID:gerald-henig-little-known-and-shocking-revelations-about-ame-e5828c1c@

@@ -408,6 +408,17 @@ listings:
     url: https://www.littlebrotherssf.org/holiday-opportunities
     tags: [community]
 
+  - name: bay.dance contact improv Google Calendar (all Bay Area CI; skip non-SF series)
+    url: "https://calendar.google.com/calendar/ical/15f89ae13845855e86a0f2ccce444b15e39250ff4e79cb1f03456ee71347dc64%40group.calendar.google.com/public/basic.ics"
+    tags: [dance]
+  - name: Sketchboard Co. figure drawing (Square booking schedule)
+    url: https://book.squareup.com/classes/uj53t4hfgkzllp/location/DYSM7QRDVFWX7/classes
+    tags: [art, class]
+    # Monument SF Wednesdays $25, Second Thursdays at El Rio $15, Sin Miedo Mondays
+  - name: Vogue Theatre — National Theatre Live (Mondays)
+    url: "https://www.voguemovies.com/calendar-of-events?format=json"
+    tags: [theatre, film]
+
 keywords:
   - "contact improvisation jam San Francisco"
   - "contact improv class Bay Area beginners"

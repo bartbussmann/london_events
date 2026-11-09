@@ -3340,8 +3340,8 @@
   {
     "id": "contact-improvisation-class-with-dai-wei-at-odc-6c7a979c",
     "title": "Contact Improvisation class with Dai & Wei at ODC",
-    "start": "2026-11-29T12:15:00-08:00",
-    "end": "2026-11-29T14:00:00-08:00",
+    "start": "2026-11-29T13:15:00-08:00",
+    "end": "2026-11-29T15:00:00-08:00",
     "venue": "ODC Dance Commons",
     "address": "351 Shotwell St, San Francisco, CA 94110",
     "url": "https://bay.dance/events/contact_improv/",
@@ -4773,6 +4773,25 @@
     "id": "harvey-milk-center-for-the-arts-holiday-craft-fair-a0ce5050"
   },
   {
+    "id": "irish-trad-seisi-n-in-the-parklet-at-the-plough-and-stars-3533edc1",
+    "title": "Irish trad seisiún in the parklet at the Plough and Stars",
+    "start": "2026-12-13T13:00:00-08:00",
+    "end": "2026-12-13T16:00:00-08:00",
+    "venue": "The Plough and Stars",
+    "address": "116 Clement St, San Francisco, CA 94118",
+    "url": "https://www.theploughandstars.com/",
+    "source": "venue:plough-and-stars",
+    "tags": [
+      "music",
+      "community"
+    ],
+    "price": "Free",
+    "description": "The Plough's Sunday-afternoon Irish session, listed on the pub's December calendar as a seisiún in the parklet. Musicians play in a circle and listeners are welcome; bring an instrument if you play.",
+    "neighbourhood": "Inner Richmond",
+    "cycle_minutes": 27,
+    "added": "2026-11-09"
+  },
+  {
     "title": "eggcorn, Meredith Edgar, Minor Birds (Sunday afternoon show)",
     "start": "2026-12-13T13:30:00-08:00",
     "end": null,
@@ -4862,6 +4881,25 @@
     "cycle_minutes": 10,
     "added": "2026-10-30",
     "id": "a-tribute-to-the-life-and-writing-of-pierre-joris-e613cdf5"
+  },
+  {
+    "id": "national-theatre-live-golden-boy-josh-o-connor-3a2f2275",
+    "title": "National Theatre Live: Golden Boy (Josh O'Connor)",
+    "start": "2026-12-14T19:00:00-08:00",
+    "end": null,
+    "venue": "Vogue Theatre",
+    "address": "3290 Sacramento St, San Francisco, CA 94115",
+    "url": "https://www.voguemovies.com/calendar-of-events/national-theatre-live-golden-boy-december-14",
+    "source": "venue:cinemasf-vogue",
+    "tags": [
+      "theatre",
+      "film"
+    ],
+    "price": null,
+    "description": "A screening of the National Theatre's revival of Clifford Odets' Depression-era boxing drama, with Josh O'Connor (Challengers, The Crown) as the violinist turned prizefighter. It plays at the neighbourhood single-screen Vogue.",
+    "neighbourhood": "Presidio Heights",
+    "cycle_minutes": 25,
+    "added": "2026-11-09"
   },
   {
     "title": "Willi Carlisle: The Universal Bubba Tour, with Amelia Day",
@@ -5031,6 +5069,25 @@
     "added": "2026-11-08"
   },
   {
+    "id": "rent-at-san-francisco-playhouse-preview-performance-30b541b4",
+    "title": "RENT at San Francisco Playhouse (preview performance)",
+    "start": "2026-12-16T19:00:00-08:00",
+    "end": "2026-12-16T21:30:00-08:00",
+    "venue": "San Francisco Playhouse",
+    "address": "450 Post St, San Francisco, CA 94102",
+    "url": "https://sfplayhouse.org/2026-2027-season/rent/",
+    "source": "venue:sf-playhouse",
+    "tags": [
+      "theatre",
+      "music"
+    ],
+    "price": "$58.75-$89.50 (seat tiers; varies by date)",
+    "description": "A preview of the Playhouse's new production of Jonathan Larson's musical about young artists in the East Village, directed by Bill English. It runs 2.5 hours in an intimate theatre off Union Square.",
+    "neighbourhood": "Union Square",
+    "cycle_minutes": 6,
+    "added": "2026-11-09"
+  },
+  {
     "title": "Pokey LaFarge with Cicada Rhythm",
     "start": "2026-12-16T20:00:00-08:00",
     "end": null,
@@ -5065,6 +5122,24 @@
     "neighbourhood": "Tenderloin",
     "cycle_minutes": 9,
     "added": "2026-11-08"
+  },
+  {
+    "id": "robber-robber-with-bloodsports-throwin-bo-s-live-music-at-th-31f80fbb",
+    "title": "Robber Robber with Bloodsports (Throwin' Bo's live music at the 4 Star)",
+    "start": "2026-12-16T20:00:00-08:00",
+    "end": null,
+    "venue": "4 Star Theater",
+    "address": "2200 Clement St, San Francisco, CA 94121",
+    "url": "https://www.4-star-movies.com/calendar-of-events/live-music-robber-robber",
+    "source": "venue:cinemasf-4star",
+    "tags": [
+      "music"
+    ],
+    "price": null,
+    "description": "Indie rock band Robber Robber, led by Nina Cates, play a gig inside the Outer Richmond's old 4 Star cinema, presented by Throwin' Bo's. Doors at 7pm and music at 8pm.",
+    "neighbourhood": "Outer Richmond",
+    "cycle_minutes": 35,
+    "added": "2026-11-09"
   },
   {
     "title": "Exploratorium After Dark: Solstice",
@@ -5458,6 +5533,43 @@
     "id": "a-brass-and-organ-christmas-with-the-bay-brass-850db543"
   },
   {
+    "id": "contact-improvisation-class-jam-at-the-castro-room-5e044ff2",
+    "title": "Contact Improvisation class + jam at The Castro Room",
+    "start": "2026-12-21T19:45:00-08:00",
+    "end": "2026-12-21T22:15:00-08:00",
+    "venue": "The Castro Room",
+    "address": "97 Collingwood St, San Francisco, CA 94114",
+    "url": "https://bay.dance/events/contact_improv/",
+    "source": "aggregator:bay.dance",
+    "tags": [
+      "dance",
+      "class"
+    ],
+    "price": null,
+    "description": "SF's 1st and 3rd Monday contact improv night: an hour's beginner-friendly class from 7:45pm flows into a jam with live music until 10:15pm. It falls the week of Christmas, so check the SF CI WhatsApp group that it's running.",
+    "neighbourhood": "Castro",
+    "cycle_minutes": 17,
+    "added": "2026-11-09"
+  },
+  {
+    "id": "4th-annual-saturnalia-ball-voodoo-dolly-siouxsie-tribute-deb-dcebc569",
+    "title": "4th Annual Saturnalia Ball: Voodoo Dolly (Siouxsie tribute) + Debased (Pixies tribute)",
+    "start": "2026-12-21T20:00:00-08:00",
+    "end": null,
+    "venue": "Bottom of the Hill",
+    "address": "1233 17th St, San Francisco, CA 94107",
+    "url": "http://www.bottomofthehill.com/20261221.html",
+    "source": "venue:bottom-of-the-hill",
+    "tags": [
+      "music"
+    ],
+    "price": "$20 ($25.31 advance incl. fees)",
+    "description": "A winter-solstice-night goth and post-punk party at Bottom of the Hill, with tribute sets to Siouxsie and the Banshees and the Pixies. Doors 7:30pm, music 8pm, 21+.",
+    "neighbourhood": "Potrero Hill",
+    "cycle_minutes": 12,
+    "added": "2026-11-09"
+  },
+  {
     "title": "Hayes Valley Comedy Night at The Function",
     "start": "2026-12-22T19:30:00-08:00",
     "end": "2026-12-22T21:00:00-08:00",
@@ -5493,6 +5605,24 @@
     "neighbourhood": "Mission",
     "cycle_minutes": 15,
     "added": "2026-11-08"
+  },
+  {
+    "id": "the-hooks-the-greasy-gills-the-ultra-sounds-da37d038",
+    "title": "The Hooks, The Greasy Gills, The Ultra Sounds",
+    "start": "2026-12-22T20:30:00-08:00",
+    "end": null,
+    "venue": "Bottom of the Hill",
+    "address": "1233 17th St, San Francisco, CA 94107",
+    "url": "http://www.bottomofthehill.com/20261222.html",
+    "source": "venue:bottom-of-the-hill",
+    "tags": [
+      "music"
+    ],
+    "price": "$15 ($19.81 advance incl. fees)",
+    "description": "A cheap pre-Christmas local bill: Irish-style folk-punk from The Hooks, surf rock from The Greasy Gills and pop/post-punk from The Ultra Sounds. Doors 8pm, all ages.",
+    "neighbourhood": "Potrero Hill",
+    "cycle_minutes": 12,
+    "added": "2026-11-09"
   },
   {
     "title": "Woodchopper's Ball: live-band swing night",
@@ -5568,6 +5698,24 @@
     "id": "ray-and-paul-9b2caf4e"
   },
   {
+    "id": "the-fabulous-bud-e-luv-christmas-extravaganza-with-lady-oflo-b5d64bde",
+    "title": "The Fabulous Bud E. Luv Christmas Extravaganza, with Lady OFLO",
+    "start": "2026-12-23T20:00:00-08:00",
+    "end": null,
+    "venue": "The Chapel",
+    "address": "777 Valencia St, San Francisco, CA 94110",
+    "url": "https://thechapelsf.com/music/",
+    "source": "venue:the-chapel",
+    "tags": [
+      "music"
+    ],
+    "price": "$28-$33",
+    "description": "SF lounge crooner Bud E. Luv's annual Christmas show, a tongue-in-cheek holiday cabaret in the Chapel's converted mortuary hall. Doors 7pm, all ages.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 13,
+    "added": "2026-11-09"
+  },
+  {
     "title": "Oakland Interfaith Gospel Choir: Christmas Eve (early show)",
     "start": "2026-12-24T19:00:00-08:00",
     "end": null,
@@ -5622,6 +5770,25 @@
     "id": "oakland-interfaith-gospel-choir-christmas-eve-late-show-30a44fb7"
   },
   {
+    "id": "sf-city-guides-free-walking-tour-gold-rush-city-christmas-da-fc7c39d3",
+    "title": "SF City Guides free walking tour: Gold Rush City (Christmas Day)",
+    "start": "2026-12-25T13:30:00-08:00",
+    "end": "2026-12-25T15:30:00-08:00",
+    "venue": "Transamerica Pyramid, Clay St side (meeting point)",
+    "address": "Clay St, north side of the Transamerica Pyramid, San Francisco, CA 94111",
+    "url": "https://www.sfcityguides.org/find-your-tour/?visit=2026-12-25",
+    "source": "aggregator:sfcityguides",
+    "tags": [
+      "outdoors",
+      "community"
+    ],
+    "price": "Free (donations welcome)",
+    "description": "A volunteer-led 1.5-2 hour walk through the Financial District's Gold Rush history, ending at Gold and Balance streets. It's an easy way to meet people on Christmas Day if you have no family in town.",
+    "neighbourhood": "Financial District",
+    "cycle_minutes": 6,
+    "added": "2026-11-09"
+  },
+  {
     "title": "San Francisco Critical Mass (Christmas Day ride)",
     "start": "2026-12-25T18:00:00-08:00",
     "end": "2026-12-25T21:00:00-08:00",
@@ -5640,6 +5807,25 @@
     "cycle_minutes": 4,
     "added": "2026-11-05",
     "id": "san-francisco-critical-mass-christmas-day-ride-c28a6ca4"
+  },
+  {
+    "id": "dance-fridays-at-space-550-salsa-bachata-lessons-and-social--1fcb8e8b",
+    "title": "Dance Fridays at Space 550: salsa + bachata lessons and social (Christmas night)",
+    "start": "2026-12-25T19:45:00-08:00",
+    "end": "2026-12-26T01:30:00-08:00",
+    "venue": "Space 550",
+    "address": "550 Barneveld Ave, San Francisco, CA 94124",
+    "url": "https://www.eventbrite.com/e/salsa-and-bachata-dancing-dance-fridays-dance-lessons-bar-nightclub-tickets-1979106050473",
+    "source": "aggregator:eventbrite",
+    "tags": [
+      "dance",
+      "class"
+    ],
+    "price": "$16.74-$27.24",
+    "description": "SalsaCrazy's weekly Friday salsa and bachata night runs on Christmas night too, with lessons, a full bar and a patio. 21+. A sociable option for anyone without family plans.",
+    "neighbourhood": "Bayview",
+    "cycle_minutes": 25,
+    "added": "2026-11-09"
   },
   {
     "title": "Kung Pao Kosher Comedy: Christmas Day cocktail show",
@@ -5734,6 +5920,25 @@
     "id": "ranger-walk-250-years-on-the-presidio-31020b18"
   },
   {
+    "id": "irish-trad-seisi-n-at-the-plough-and-stars-3e02d160",
+    "title": "Irish trad seisiún at the Plough and Stars",
+    "start": "2026-12-27T13:00:00-08:00",
+    "end": "2026-12-27T16:00:00-08:00",
+    "venue": "The Plough and Stars",
+    "address": "116 Clement St, San Francisco, CA 94118",
+    "url": "https://www.theploughandstars.com/",
+    "source": "venue:plough-and-stars",
+    "tags": [
+      "music",
+      "community"
+    ],
+    "price": "Free",
+    "description": "The Plough's Sunday-afternoon Irish session (listed on the pub's December calendar), a relaxed post-Christmas afternoon of fiddles, flutes and pints. Listeners welcome; bring an instrument if you play.",
+    "neighbourhood": "Inner Richmond",
+    "cycle_minutes": 27,
+    "added": "2026-11-09"
+  },
+  {
     "title": "Mark Eitzel, Funeral Cake, Strange Cities, Devoted Fans + more",
     "start": "2026-12-27T16:30:00-08:00",
     "end": "2026-12-27T23:00:00-08:00",
@@ -5788,6 +5993,44 @@
     "cycle_minutes": 13,
     "added": "2026-11-04",
     "id": "circuit-hacking-monday-open-electronics-workshop-at-noisebri-e2fb2ba8"
+  },
+  {
+    "id": "alamo-drafthouse-the-apartment-3f26c176",
+    "title": "Alamo Drafthouse: The Apartment",
+    "start": "2026-12-28T19:00:00-08:00",
+    "end": null,
+    "venue": "Alamo Drafthouse New Mission",
+    "address": "2550 Mission St, San Francisco, CA 94110",
+    "url": "https://drafthouse.com/sf/show/the-apartment",
+    "source": "venue:alamo-new-mission",
+    "tags": [
+      "film"
+    ],
+    "price": null,
+    "description": "Billy Wilder's 1960 Oscar-winner with Jack Lemmon and Shirley MacLaine, set over Christmas and New Year's Eve, as a one-off big-screen repertory show at the New Mission.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 14,
+    "added": "2026-11-09"
+  },
+  {
+    "id": "national-theatre-live-fleabag-0038c429",
+    "title": "National Theatre Live: Fleabag",
+    "start": "2026-12-28T19:00:00-08:00",
+    "end": null,
+    "venue": "Vogue Theatre",
+    "address": "3290 Sacramento St, San Francisco, CA 94115",
+    "url": "https://www.voguemovies.com/calendar-of-events/national-theatre-live-fleabag-december-28",
+    "source": "venue:cinemasf-vogue",
+    "tags": [
+      "theatre",
+      "film",
+      "comedy"
+    ],
+    "price": null,
+    "description": "Phoebe Waller-Bridge's original one-woman stage show of Fleabag, filmed live in London, on the Vogue's big screen in the quiet week after Christmas.",
+    "neighbourhood": "Presidio Heights",
+    "cycle_minutes": 25,
+    "added": "2026-11-09"
   },
   {
     "title": "Man or Astro-man? with The Subsonics",
@@ -5846,6 +6089,24 @@
     "id": "woodchopper-s-ball-live-band-swing-night-39d48e02"
   },
   {
+    "id": "alamo-drafthouse-when-harry-met-sally-8a65eabb",
+    "title": "Alamo Drafthouse: When Harry Met Sally...",
+    "start": "2026-12-30T19:00:00-08:00",
+    "end": null,
+    "venue": "Alamo Drafthouse New Mission",
+    "address": "2550 Mission St, San Francisco, CA 94110",
+    "url": "https://drafthouse.com/sf/show/when-harry-met-sally",
+    "source": "venue:alamo-new-mission",
+    "tags": [
+      "film"
+    ],
+    "price": null,
+    "description": "Alamo's ring-in-the-new-year screening of the Nora Ephron/Rob Reiner rom-com, which builds to its famous New Year's Eve party. It's a low-key night out between the holidays.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 14,
+    "added": "2026-11-09"
+  },
+  {
     "title": "Hayes Valley Comedy Night at The Function",
     "start": "2026-12-30T19:30:00-08:00",
     "end": "2026-12-30T21:00:00-08:00",
@@ -5900,6 +6161,25 @@
     "id": "bacds-new-year-s-eve-contra-ball-c0b84f36"
   },
   {
+    "id": "bats-improv-noir-new-year-s-4bc60f57",
+    "title": "BATS Improv: Noir New Year's",
+    "start": "2026-12-31T20:00:00-08:00",
+    "end": "2026-12-31T22:00:00-08:00",
+    "venue": "BATS Bayfront Theatre, Fort Mason Center",
+    "address": "2 Marina Blvd, Building B, 3rd Floor, San Francisco, CA 94123",
+    "url": "https://www.eventbrite.com/e/bats-improv-presents-noir-new-years-123126-sho-tickets-1999541033056",
+    "source": "venue:bats-improv",
+    "tags": [
+      "comedy",
+      "theatre"
+    ],
+    "price": "$23.11-$28.45",
+    "description": "A one-night-only, fully improvised film-noir comedy caper with champagne for New Year's Eve. It's done by 10pm, so there's time to head to the Embarcadero fireworks after.",
+    "neighbourhood": "Fort Mason",
+    "cycle_minutes": 22,
+    "added": "2026-11-09"
+  },
+  {
     "title": "The Lemon Twigs New Year's Eve, with Tchotchke",
     "start": "2026-12-31T21:00:00-08:00",
     "end": null,
@@ -5937,6 +6217,25 @@
     "added": "2026-11-08"
   },
   {
+    "id": "sf-city-guides-free-walking-tour-making-waves-on-the-waterfr-ee90a50c",
+    "title": "SF City Guides free walking tour: Making Waves on the Waterfront (New Year's Day)",
+    "start": "2027-01-01T14:00:00-08:00",
+    "end": "2027-01-01T16:00:00-08:00",
+    "venue": "Ferry Building clock tower (meeting point)",
+    "address": "Foot of Market St at The Embarcadero, San Francisco, CA 94111",
+    "url": "https://www.sfcityguides.org/find-your-tour/?visit=2027-01-01",
+    "source": "aggregator:sfcityguides",
+    "tags": [
+      "outdoors",
+      "community"
+    ],
+    "price": "Free (donations welcome)",
+    "description": "A flat 1.5-2 hour New Year's Day walk along the northern waterfront covering Gold Rush pioneers, inventors and labor organizers, ending at Levi Plaza. It meets in front of the Ferry Building under the clock tower.",
+    "neighbourhood": "Embarcadero",
+    "cycle_minutes": 5,
+    "added": "2026-11-09"
+  },
+  {
     "title": "Hayes Valley Comedy Night: New Year's Day show",
     "start": "2027-01-01T19:00:00-08:00",
     "end": "2027-01-01T20:30:00-08:00",
@@ -5953,6 +6252,44 @@
     "cycle_minutes": 9,
     "added": "2026-10-30",
     "id": "hayes-valley-comedy-night-new-year-s-day-show-7b595a8b"
+  },
+  {
+    "id": "about-last-night-one-night-stand-storytelling-show-6e906e9b",
+    "title": "About Last Night: one-night-stand storytelling show",
+    "start": "2027-01-01T20:00:00-08:00",
+    "end": "2027-01-01T21:30:00-08:00",
+    "venue": "Make-Out Room",
+    "address": "3225 22nd St, San Francisco, CA 94110",
+    "url": "https://www.calendarwiz.com/calendars/popup.php?op=view&id=191495634&crd=makeoutroom",
+    "source": "venue:make-out-room",
+    "tags": [
+      "comedy",
+      "community"
+    ],
+    "price": "$20 advance / $25 door",
+    "description": "Real people tell true stories about horrifying one-night stands, awkward hookups and regrettable romps, which suits New Year's Day. Doors 7pm, show 8pm.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 15,
+    "added": "2026-11-09"
+  },
+  {
+    "id": "bachata-lab-friday-bachata-classes-3-levels-social-new-year--69a725a4",
+    "title": "Bachata Lab: Friday bachata classes (3 levels) + social (New Year's Day)",
+    "start": "2027-01-01T20:00:00-08:00",
+    "end": "2027-01-02T01:00:00-08:00",
+    "venue": "Bachata Lab",
+    "address": "1830 17th St, San Francisco, CA 94103",
+    "url": "https://www.eventbrite.com/e/bachata-lab-tickets-1543049044229",
+    "source": "aggregator:eventbrite",
+    "tags": [
+      "dance",
+      "class"
+    ],
+    "price": "from $15",
+    "description": "The weekly Friday bachata night runs on New Year's Day: concurrent beginner, intermediate and advanced classes from 8pm with partner rotation, then social dancing until 1am.",
+    "neighbourhood": "Potrero Hill",
+    "cycle_minutes": 11,
+    "added": "2026-11-09"
   },
   {
     "title": "The Board Walks: Walk & Talk About Life's Big Questions",
@@ -6179,6 +6516,25 @@
     "id": "2001-a-space-odyssey-in-70mm-6eb7e131"
   },
   {
+    "id": "western-standard-time-ska-orchestra-featuring-karina-denik-67d1f69a",
+    "title": "Western Standard Time Ska Orchestra featuring Karina Deniké",
+    "start": "2027-01-08T21:00:00-08:00",
+    "end": null,
+    "venue": "The Chapel",
+    "address": "777 Valencia St, San Francisco, CA 94110",
+    "url": "https://thechapelsf.com/music/",
+    "source": "venue:the-chapel",
+    "tags": [
+      "music",
+      "dance"
+    ],
+    "price": "$25 adv / $28 door",
+    "description": "A big-band ska, rocksteady and early-reggae orchestra with singer Karina Deniké, made for dancing in the Chapel's converted mortuary hall. Doors 8pm, show 9pm.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 13,
+    "added": "2026-11-09"
+  },
+  {
     "title": "SF City Guides free walking tour: Welcome to San Francisco (for newcomers)",
     "start": "2027-01-09T09:30:00-08:00",
     "end": "2027-01-09T11:30:00-08:00",
@@ -6209,7 +6565,7 @@
       "music"
     ],
     "price": "$25 adv / $30 week of show",
-    "description": "The Swedish singer and organist plays towering, cathedral-sized drone-pop. The List marks it 'sold out', but the official ticket page was still selling GA tickets on Oct 30. Mostly standing; doors 7pm.",
+    "description": "SOLD OUT (per The List, 9 Nov). The Swedish singer and organist plays towering, cathedral-sized drone-pop. Mostly standing; doors 7pm.",
     "neighbourhood": "Tenderloin",
     "cycle_minutes": 9,
     "added": "2026-10-30",
@@ -6309,6 +6665,44 @@
     "id": "salsacrazy-mondays-salsa-lesson-salsa-bachata-social-37ffee5d"
   },
   {
+    "id": "national-theatre-live-the-audience-helen-mirren-c86d0d6f",
+    "title": "National Theatre Live: The Audience (Helen Mirren)",
+    "start": "2027-01-11T19:00:00-08:00",
+    "end": null,
+    "venue": "Vogue Theatre",
+    "address": "3290 Sacramento St, San Francisco, CA 94115",
+    "url": "https://www.voguemovies.com/calendar-of-events/national-theatre-live-the-audience-january-11",
+    "source": "venue:cinemasf-vogue",
+    "tags": [
+      "theatre",
+      "film"
+    ],
+    "price": null,
+    "description": "Helen Mirren as Elizabeth II in Peter Morgan's Olivier- and Tony-winning play about the Queen's private weekly meetings with her prime ministers. It's back in cinemas for the first time in over a decade.",
+    "neighbourhood": "Presidio Heights",
+    "cycle_minutes": 25,
+    "added": "2026-11-09"
+  },
+  {
+    "id": "happy-endings-writers-showdown-at-the-make-out-room-c4a91262",
+    "title": "Happy Endings: writers' showdown at the Make-Out Room",
+    "start": "2027-01-12T19:00:00-08:00",
+    "end": "2027-01-12T21:00:00-08:00",
+    "venue": "Make-Out Room",
+    "address": "3225 22nd St, San Francisco, CA 94110",
+    "url": "https://www.calendarwiz.com/calendars/popup.php?op=view&id=184885114&crd=makeoutroom",
+    "source": "venue:make-out-room",
+    "tags": [
+      "talk",
+      "comedy"
+    ],
+    "price": "Pay what you can ($10-$15 suggested)",
+    "description": "Five writers perform new work on a shared theme, competing for the approval of an appointed committee. A literary night with a comedy edge in a Mission bar.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 15,
+    "added": "2026-11-09"
+  },
+  {
     "title": "Woodchopper's Ball: live-band swing night",
     "start": "2027-01-12T21:00:00-08:00",
     "end": "2027-01-12T23:30:00-08:00",
@@ -6326,6 +6720,44 @@
     "cycle_minutes": 13,
     "added": "2026-10-30",
     "id": "woodchopper-s-ball-live-band-swing-night-5c88d5b5"
+  },
+  {
+    "id": "figure-drawing-at-monument-sf-sketchboard-co-2d1bbf10",
+    "title": "Figure drawing at Monument SF (Sketchboard Co.)",
+    "start": "2027-01-13T18:30:00-08:00",
+    "end": "2027-01-13T20:30:00-08:00",
+    "venue": "Monument SF",
+    "address": "140 9th St, San Francisco, CA 94103",
+    "url": "https://book.squareup.com/classes/uj53t4hfgkzllp/location/DYSM7QRDVFWX7/classes",
+    "source": "aggregator:square",
+    "tags": [
+      "art",
+      "class"
+    ],
+    "price": "$25",
+    "description": "A two-hour drop-in life drawing session with a model, run by Sketchboard Co. in SoMa. All levels are welcome; bring your own materials and book ahead on Square.",
+    "neighbourhood": "SoMa",
+    "cycle_minutes": 8,
+    "added": "2026-11-09"
+  },
+  {
+    "id": "second-thursdays-figure-drawing-at-el-rio-sketchboard-co-db153cc5",
+    "title": "Second Thursdays figure drawing at El Rio (Sketchboard Co.)",
+    "start": "2027-01-14T18:30:00-08:00",
+    "end": "2027-01-14T20:30:00-08:00",
+    "venue": "El Rio",
+    "address": "3158 Mission St, San Francisco, CA 94110",
+    "url": "https://book.squareup.com/classes/uj53t4hfgkzllp/location/DYSM7QRDVFWX7/classes",
+    "source": "aggregator:square",
+    "tags": [
+      "art",
+      "class"
+    ],
+    "price": "$15",
+    "description": "Sketchboard's monthly life drawing night at the Mission's El Rio bar costs $15. It's more social than a studio session, so you can draw with a drink in hand.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 18,
+    "added": "2026-11-09"
   },
   {
     "title": "LSD and the Search for God with Cryogeyser",
@@ -6423,6 +6855,25 @@
     "id": "the-16th-annual-bowie-bash-night-2-band-picks-e9b70c31"
   },
   {
+    "id": "contact-improvisation-class-with-dai-wei-at-odc-44906eab",
+    "title": "Contact Improvisation class with Dai & Wei at ODC",
+    "start": "2027-01-17T13:15:00-08:00",
+    "end": "2027-01-17T15:00:00-08:00",
+    "venue": "ODC Dance Commons",
+    "address": "351 Shotwell St, San Francisco, CA 94110",
+    "url": "https://bay.dance/events/contact_improv/",
+    "source": "aggregator:bay.dance",
+    "tags": [
+      "dance",
+      "class"
+    ],
+    "price": null,
+    "description": "A weekly Sunday-afternoon contact improvisation class at ODC in the Mission, taught by Daiane Lopes da Silva and Weidong Yang. A good way into SF's CI scene.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 13,
+    "added": "2026-11-09"
+  },
+  {
     "title": "Laser cutter safety training at Noisebridge",
     "start": "2027-01-17T14:00:00-08:00",
     "end": "2027-01-17T16:00:00-08:00",
@@ -6460,6 +6911,25 @@
     "cycle_minutes": 13,
     "added": "2026-10-30",
     "id": "mucha-salsa-social-free-beginner-class-a1a610fb"
+  },
+  {
+    "id": "sf-city-guides-free-walking-tour-beat-generation-in-sf-mlk-d-58029d00",
+    "title": "SF City Guides free walking tour: Beat Generation in SF (MLK Day)",
+    "start": "2027-01-18T13:00:00-08:00",
+    "end": "2027-01-18T14:30:00-08:00",
+    "venue": "Transamerica Pyramid plaza (meeting point)",
+    "address": "600 Montgomery St (NW corner of plaza, by the flagpoles), San Francisco, CA 94111",
+    "url": "https://www.sfcityguides.org/find-your-tour/?visit=2027-01-18",
+    "source": "aggregator:sfcityguides",
+    "tags": [
+      "outdoors",
+      "community"
+    ],
+    "price": "Free (donations welcome)",
+    "description": "A 1.5-hour holiday-Monday walk through the North Beach haunts of Ginsberg, Kerouac and Ferlinghetti, ending at Caffe Trieste. It passes City Lights on the way.",
+    "neighbourhood": "Financial District",
+    "cycle_minutes": 6,
+    "added": "2026-11-09"
   },
   {
     "title": "Tara Clerkin Trio",
@@ -6646,6 +7116,25 @@
     "id": "the-brothers-comatose-8c50af57"
   },
   {
+    "id": "sf-city-guides-free-walking-tour-haight-ashbury-b0c295ae",
+    "title": "SF City Guides free walking tour: Haight-Ashbury",
+    "start": "2027-01-24T11:00:00-08:00",
+    "end": "2027-01-24T13:00:00-08:00",
+    "venue": "Park Branch Library (meeting point)",
+    "address": "1833 Page St, San Francisco, CA 94117",
+    "url": "https://www.sfcityguides.org/find-your-tour/?visit=2027-01-24",
+    "source": "aggregator:sfcityguides",
+    "tags": [
+      "outdoors",
+      "community"
+    ],
+    "price": "Free (donations welcome)",
+    "description": "A two-hour walk through the 1967 Summer of Love neighbourhood, past the Straight Theater and the Grateful Dead's old haunts, ending near Waller and Ashbury.",
+    "neighbourhood": "Haight-Ashbury",
+    "cycle_minutes": 22,
+    "added": "2026-11-09"
+  },
+  {
     "title": "Irish trad seisiún at the Plough and Stars",
     "start": "2027-01-24T13:00:00-08:00",
     "end": "2027-01-24T16:00:00-08:00",
@@ -6663,6 +7152,24 @@
     "cycle_minutes": 27,
     "added": "2026-10-31",
     "id": "irish-trad-seisi-n-at-the-plough-and-stars-3b86febb"
+  },
+  {
+    "id": "angela-autumn-throwin-bo-s-live-music-at-the-4-star-3ff24b21",
+    "title": "Angela Autumn (Throwin' Bo's live music at the 4 Star)",
+    "start": "2027-01-24T20:00:00-08:00",
+    "end": null,
+    "venue": "4 Star Theater",
+    "address": "2200 Clement St, San Francisco, CA 94121",
+    "url": "https://www.4-star-movies.com/calendar-of-events/live-music-angela-autumn",
+    "source": "venue:cinemasf-4star",
+    "tags": [
+      "music"
+    ],
+    "price": null,
+    "description": "Appalachian-rooted country-folk singer Angela Autumn, 'The Rose of Appalachia', plays an intimate Sunday show inside the Outer Richmond's old cinema. Doors 7pm, music 8pm.",
+    "neighbourhood": "Outer Richmond",
+    "cycle_minutes": 35,
+    "added": "2026-11-09"
   },
   {
     "title": "Gerald Henig: Little-Known (and Shocking) Revelations About America's Presidents",

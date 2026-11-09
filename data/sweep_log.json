@@ -1,5 +1,11 @@
 [
   {
+    "ran_at": "2026-11-09T06:45:00-08:00",
+    "added": 27,
+    "considered": 108,
+    "notes": "Part 1: no new feed imports; pruned 11. Part 2: 27 adds for the thin 13 Dec-24 Jan stretch (Wed 13 Jan no longer empty): Christmas Day City Guides walk + salsa night, BATS 'Noir New Year's', New Year's Day walk/storytelling/bachata, Alamo holiday classics, NT Live x3 at the Vogue, figure drawing x2, contact improv x2, Irish sessions x2, gigs at BOTH, Chapel, 4 Star, RENT preview. Fixes: ODC contact improv 29 Nov moved to 1:15-3pm; Anna von Hausswolff (9 Jan) sold out. Re-verified that Commonwealth Club 'Out of the Darkness' (14 Dec) is cancelled and kept it off. Blocked: rickshawstop.com, sfjazz.org, sfiaf.org (MLK Day Castro concert unverified), seetickets, booksmith; sffirstthursday.com TLS error."
+  },
+  {
     "ran_at": "2026-11-08T06:30:00-08:00",
     "added": 26,
     "considered": 119,
