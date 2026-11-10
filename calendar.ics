@@ -423,8 +423,8 @@ UID:big-brain-bay-area-keeping-the-lights-on-when-cyberattacks-g-6dd28e20@
 DTSTAMP:20261112T030000Z
 DTSTART:20261112T030000Z
 DTEND:20261112T050000Z
-SUMMARY:Big Brain Bay Area: Keeping the Lights On When Cyberattacks Go Phy
- sical
+SUMMARY:Big Brain Bay Area: What Happens When a Country Gets Hacked? Cyber
+ war and the Systems We Depend On
 DESCRIPTION:A lecture-in-a-bar talk by Nate Gleason\, who leads Lawrence L
  ivermore's cyber and infrastructure resilience programme. It covers how a
  ttacks on grids\, water and ports become physical\, 'immune infrastructur
@@ -1294,7 +1294,8 @@ UID:ics-d511beaed00f@sf-events
 DTSTAMP:20261119T023000Z
 DTSTART:20261119T023000Z
 DTEND:20261119T043000Z
-SUMMARY:EA SF Discussion Salon: Cause Prioritization
+SUMMARY:EA SF Discussion Salon: What are the world's most pressing problem
+ s?
 DESCRIPTION:EA SF Discussion Salon on cause prioritization at Mox — smal
  l-group discussion format\, good for meeting the local EA community. (Mov
  ed from 4 Nov to 18 Nov.)\nPrice: Free (register on Luma)\nhttps://luma.c
@@ -1515,6 +1516,21 @@ URL:https://luma.com/fy8teprf
 LOCATION:House of AI\, 40 Boardman Pl\, San Francisco\, CA 94103
 END:VEVENT
 BEGIN:VEVENT
+UID:cal-academy-nightlife-november-19-21-3d7d3a9f@sf-events
+DTSTAMP:20261120T020000Z
+DTSTART:20261120T020000Z
+DTEND:20261120T060000Z
+SUMMARY:Cal Academy NightLife: November 19 (21+)
+DESCRIPTION:The Academy's adults-only Thursday night\, with live venomous 
+ animals\, the coral reef and the new Timescapes planetarium show ($7 extr
+ a\, at 6:30\, 7:30\, 8:30 and 9:30). It's a relaxed way to see the museum
+  with a drink in hand.\nhttps://www.calacademy.org/nightlife/nightlife-no
+ vember-19
+URL:https://www.calacademy.org/nightlife/nightlife-november-19
+LOCATION:California Academy of Sciences\, 55 Music Concourse Dr\, Golden G
+ ate Park\, San Francisco\, CA 94118
+END:VEVENT
+BEGIN:VEVENT
 UID:ics-cbcddb68cfee@sf-events
 DTSTAMP:20261120T021500Z
 DTSTART:20261120T021500Z
@@ -1647,6 +1663,21 @@ LOCATION:SFJAZZ Center\, Joe Henderson Lab\, 201 Franklin St\, San Francis
  co\, CA 94102
 END:VEVENT
 BEGIN:VEVENT
+UID:5rhythms-wild-release-with-vehllia-tranne-friday-night-wave-3f69c890@s
+ f-events
+DTSTAMP:20261121T030000Z
+DTSTART:20261121T030000Z
+DTEND:20261121T044500Z
+SUMMARY:5Rhythms Wild Release with Vehllia Tranne (Friday night wave)
+DESCRIPTION:The City Waves' Friday-night 5Rhythms wave\, a 105-minute movi
+ ng meditation through flowing\, staccato\, chaos\, lyrical and stillness\
+ , with no steps to learn. Arrive at 7pm\; last entry is 7:30.\nPrice: $35
+  drop-in ($20 first class)\nhttps://momence.com/s/139403145
+URL:https://momence.com/s/139403145
+LOCATION:ABADA-Capoeira San Francisco\, 3221 22nd St\, San Francisco\, CA 
+ 94110
+END:VEVENT
+BEGIN:VEVENT
 UID:cinespin-he-who-gets-slapped-with-live-jazz-score-bampfa-629c6941@sf-e
  vents
 DTSTAMP:20261121T033000Z
@@ -1706,6 +1737,22 @@ DESCRIPTION:Hudson NY indie-folk duo (Maya Bon and Ryan Albert) with count
  r-movies.com/calendar-of-events/live-music-babehoven
 URL:https://www.4-star-movies.com/calendar-of-events/live-music-babehoven
 LOCATION:4 Star Theater\, 2200 Clement St\, San Francisco\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:a-night-of-surf-psychobilly-and-punk-the-surf-creeps-the-tin-4123debb@
+ sf-events
+DTSTAMP:20261121T040000Z
+DTSTART:20261121T040000Z
+DTEND:20261121T060000Z
+SUMMARY:A Night of Surf\, Psychobilly and Punk: The Surf Creeps\, The Ting
+ lerz\, Lost Puppy Forever
+DESCRIPTION:Three local bands play reverb-soaked surf and psychobilly in t
+ he tiny saloon at 4th & Bryant\, the closest music room to home. 21+.\nPr
+ ice: $12\nhttps://wl.seetickets.us/event/the-surf-creeps-the-tinglerz-los
+ t-puppy-forever/705914?afflky=HotelUtahSaloon
+URL:https://wl.seetickets.us/event/the-surf-creeps-the-tinglerz-lost-puppy
+ -forever/705914?afflky=HotelUtahSaloon
+LOCATION:Hotel Utah Saloon\, 500 4th St\, San Francisco\, CA 94107
 END:VEVENT
 BEGIN:VEVENT
 UID:sf-neo-futurists-the-infinite-wrench-30-plays-in-60-minutes-ffbbb4f2@s
@@ -2064,6 +2111,21 @@ LOCATION:Great American Music Hall\, 859 O'Farrell St\, San Francisco\, CA
   94109
 END:VEVENT
 BEGIN:VEVENT
+UID:figure-drawing-mondays-at-sin-miedo-gallery-sketchboard-7d9d7e8e@sf-ev
+ ents
+DTSTAMP:20261124T023000Z
+DTSTART:20261124T023000Z
+DTEND:20261124T043000Z
+SUMMARY:Figure drawing Mondays at Sin Miedo Gallery (Sketchboard)
+DESCRIPTION:A two-hour drop-in life drawing session with a model\, run by 
+ Sketchboard Co. at their Mission gallery near 24th St. Bring your own sup
+ plies and book on Square.\nPrice: $25\nhttps://book.squareup.com/classes/
+ uj53t4hfgkzllp/location/DYSM7QRDVFWX7/classes
+URL:https://book.squareup.com/classes/uj53t4hfgkzllp/location/DYSM7QRDVFWX
+ 7/classes
+LOCATION:Sin Miedo Gallery\, 2831 Mission St\, San Francisco\, CA 94110
+END:VEVENT
+BEGIN:VEVENT
 UID:salsacrazy-mondays-salsa-lesson-salsa-bachata-dancing-b207830a@sf-even
  ts
 DTSTAMP:20261124T030000Z
@@ -2152,6 +2214,21 @@ LOCATION:Newman Hall\, Congregation Sherith Israel\, 2266 California St\,
  San Francisco\, CA 94115
 END:VEVENT
 BEGIN:VEVENT
+UID:bachata-tuesday-class-social-at-danzhaus-da971260@sf-events
+DTSTAMP:20261125T030000Z
+DTSTART:20261125T030000Z
+DTEND:20261125T070000Z
+SUMMARY:Bachata Tuesday: class + social at Danzhaus
+DESCRIPTION:The monthly last-Tuesday bachata night at a Potrero Hill dance
+  studio. It opens with a class\, then social dancing\, so it's easy to co
+ me alone.\nPrice: from $12.51\nhttps://www.eventbrite.com/e/bachata-tuesd
+ ay-class-social-tickets-1998925887138
+URL:https://www.eventbrite.com/e/bachata-tuesday-class-social-tickets-1998
+ 925887138
+LOCATION:Danzhaus Dance Center\, 1275 Connecticut St\, San Francisco\, CA 
+ 94107
+END:VEVENT
+BEGIN:VEVENT
 UID:sad-bastard-club-songwriter-round-robin-hosted-by-tom-heyman-93daac37@
  sf-events
 DTSTAMP:20261125T033000Z
@@ -2180,6 +2257,20 @@ DESCRIPTION:The weekly Tuesday live-band swing dance at the historic Verdi
 URL:https://www.verdiclub.net/events/the-woodchoppers-ball-42-3-2/2026-11-
  24/
 LOCATION:Verdi Club\, 2424 Mariposa St\, San Francisco\, CA 94110
+END:VEVENT
+BEGIN:VEVENT
+UID:terror-tuesday-the-ninth-configuration-1980-36f2c1f2@sf-events
+DTSTAMP:20261125T053000Z
+DTSTART:20261125T053000Z
+DTEND:20261125T073000Z
+SUMMARY:Terror Tuesday: The Ninth Configuration (1980)
+DESCRIPTION:Alamo's cult-horror slot screens William Peter Blatty's strang
+ e 1980 asylum film\, billed as his 'real' Exorcist II. Food and drinks ar
+ e served at your seat.\nhttps://drafthouse.com/sf/show/terror-tuesday-the
+ -ninth-configuration
+URL:https://drafthouse.com/sf/show/terror-tuesday-the-ninth-configuration
+LOCATION:Alamo Drafthouse New Mission\, 2550 Mission St\, San Francisco\, 
+ CA 94110
 END:VEVENT
 BEGIN:VEVENT
 UID:ics-cdae8be23530@sf-events
@@ -2335,6 +2426,22 @@ URL:https://www.4-star-movies.com/calendar-of-events/mc5-chuck-prophet
 LOCATION:4 Star Theater\, 2200 Clement St\, San Francisco\, CA 94121
 END:VEVENT
 BEGIN:VEVENT
+UID:jason-marsalis-quartet-with-vanisha-gould-a4905a86@sf-events
+DTSTAMP:20261128T033000Z
+DTSTART:20261128T033000Z
+DTEND:20261128T053000Z
+SUMMARY:Jason Marsalis Quartet with Vanisha Gould
+DESCRIPTION:NEA Jazz Master and vibraphonist Jason Marsalis brings his cha
+ mber-precise quartet together with the New York singer-songwriter Vanisha
+  Gould. A good post-Thanksgiving Friday night out.\nPrice: $35-$85\nhttps
+ ://www.sfjazz.org/tickets/productions/26-27/jason-marsalis-quartet-w-vani
+ sha-gould/
+URL:https://www.sfjazz.org/tickets/productions/26-27/jason-marsalis-quarte
+ t-w-vanisha-gould/
+LOCATION:SFJAZZ Center\, Miner Auditorium\, 201 Franklin St\, San Francisc
+ o\, CA 94102
+END:VEVENT
+BEGIN:VEVENT
 UID:sleepless-nights-xx-a-tribute-to-gram-parsons-32b44499@sf-events
 DTSTAMP:20261128T040000Z
 DTSTART:20261128T040000Z
@@ -2363,6 +2470,19 @@ URL:https://wl.seetickets.us/event/emma-ruth-rundle/699875?afflky=GreatAme
  ricanMusicHall
 LOCATION:Great American Music Hall\, 859 O'Farrell St\, San Francisco\, CA
   94109
+END:VEVENT
+BEGIN:VEVENT
+UID:bachata-lab-friday-bachata-classes-3-levels-social-f1e82012@sf-events
+DTSTAMP:20261128T040000Z
+DTSTART:20261128T040000Z
+DTEND:20261128T090000Z
+SUMMARY:Bachata Lab: Friday bachata classes (3 levels) + social
+DESCRIPTION:The weekly Friday bachata night runs on Thanksgiving weekend: 
+ beginner\, intermediate and advanced classes from 8pm with partner rotati
+ on\, then social dancing until 1am.\nPrice: from $15\nhttps://www.eventbr
+ ite.com/e/bachata-lab-tickets-1543048994079
+URL:https://www.eventbrite.com/e/bachata-lab-tickets-1543048994079
+LOCATION:Bachata Lab\, 1830 17th St\, San Francisco\, CA 94103
 END:VEVENT
 BEGIN:VEVENT
 UID:kolo-festival-balkan-music-dance-weekend-saturday-9f7a8113@sf-events
@@ -2409,6 +2529,21 @@ DESCRIPTION:Afternoon screening of Sembene's landmark debut feature\, co-p
  ilm-11-28-26/
 URL:https://ybca.org/event/black-girl-world-of-black-film-11-28-26/
 LOCATION:YBCA Screening Room\, 701 Mission St\, San Francisco\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:speedcalifornia-speed-dating-ages-25-39-482f2c17@sf-events
+DTSTAMP:20261129T010000Z
+DTSTART:20261129T010000Z
+DTEND:20261129T030000Z
+SUMMARY:SpeedCalifornia speed dating (ages 25-39)
+DESCRIPTION:A Saturday-evening speed-dating round where you meet 8-12 loca
+ l singles aged 25-39\, held in a FiDi hotel.\nPrice: $37-$40\nhttps://www
+ .eventbrite.com/e/speedcalifornia-saturday-night-ages-25-39-san-francisco
+ -speed-dating-tickets-2003947881057
+URL:https://www.eventbrite.com/e/speedcalifornia-saturday-night-ages-25-39
+ -san-francisco-speed-dating-tickets-2003947881057
+LOCATION:The Jay\, Autograph Collection\, 433 Clay St\, San Francisco\, CA
+  94111
 END:VEVENT
 BEGIN:VEVENT
 UID:edmar-castaneda-german-lopez-terence-blanchard-s-upswing-ser-8c725add@
@@ -2473,6 +2608,39 @@ URL:https://dickensfair.com/
 LOCATION:Cow Palace\, 2600 Geneva Ave\, Daly City\, CA 94014
 END:VEVENT
 BEGIN:VEVENT
+UID:sf-city-guides-free-walking-tour-dogpatch-east-past-present--97ae313b@
+ sf-events
+DTSTAMP:20261129T190000Z
+DTSTART:20261129T190000Z
+DTEND:20261129T203000Z
+SUMMARY:SF City Guides free walking tour: Dogpatch East\, Past\, Present a
+ nd Future Industries
+DESCRIPTION:A volunteer-led walk through Potrero Point and Pier 70: steel\
+ , gas\, sugar and shipbuilding\, and what's being built on the southern w
+ aterfront now. It ends at Crane Cove Park.\nPrice: Free (donations welcom
+ e)\nhttps://www.sfcityguides.org/find-your-tour/?visit=2026-11-29
+URL:https://www.sfcityguides.org/find-your-tour/?visit=2026-11-29
+LOCATION:Illinois & 20th Streets (meeting point)\, Illinois St at 20th St\
+ , San Francisco\, CA 94107
+END:VEVENT
+BEGIN:VEVENT
+UID:sf-city-guides-free-walking-tour-alfred-hitchcock-s-san-fran-94d3d861@
+ sf-events
+DTSTAMP:20261129T190000Z
+DTSTART:20261129T190000Z
+DTEND:20261129T210000Z
+SUMMARY:SF City Guides free walking tour: Alfred Hitchcock's San Francisco
+DESCRIPTION:A free volunteer-led walk past the landmarks Hitchcock filmed\
+ , Vertigo's among them\, and how he used the city's look to build suspens
+ e. It runs from Nob Hill down to Union Square\, including a steep downhil
+ l stretch.\nPrice: Free (donations welcome)\nhttps://www.sfcityguides.org
+ /find-your-tour/?visit=2026-11-29#hitchcock
+URL:https://www.sfcityguides.org/find-your-tour/?visit=2026-11-29#hitchcoc
+ k
+LOCATION:Huntington Park fountain (meeting point)\, Sacramento St between 
+ Taylor & Mason\, San Francisco\, CA 94108
+END:VEVENT
+BEGIN:VEVENT
 UID:contact-improvisation-class-with-dai-wei-at-odc-6c7a979c@sf-events
 DTSTAMP:20261129T211500Z
 DTSTART:20261129T211500Z
@@ -2484,6 +2652,37 @@ DESCRIPTION:A Sunday-afternoon contact improvisation class at ODC in the M
  /contact_improv/
 URL:https://bay.dance/events/contact_improv/
 LOCATION:ODC Dance Commons\, 351 Shotwell St\, San Francisco\, CA 94110
+END:VEVENT
+BEGIN:VEVENT
+UID:swing-into-the-holidays-with-caity-gyorgy-christian-wiggs-1c10eb4e@sf-
+ events
+DTSTAMP:20261129T230000Z
+DTSTART:20261129T230000Z
+DTEND:20261130T010000Z
+SUMMARY:Swing Into the Holidays with Caity Gyorgy & Christian Wiggs
+DESCRIPTION:A Sunday-afternoon holiday swing concert with jazz singer Cait
+ y Gyorgy and Christian Wiggs.\nPrice: $45-$95\nhttps://www.sfjazz.org/tic
+ kets/productions/26-27/swing-into-the-holidays-caity-gyorgy-christian-wig
+ gs/
+URL:https://www.sfjazz.org/tickets/productions/26-27/swing-into-the-holida
+ ys-caity-gyorgy-christian-wiggs/
+LOCATION:SFJAZZ Center\, Miner Auditorium\, 201 Franklin St\, San Francisc
+ o\, CA 94102
+END:VEVENT
+BEGIN:VEVENT
+UID:macerator-record-release-danny-pearson-your-stranger-strange-37bfbda0@
+ sf-events
+DTSTAMP:20261130T023000Z
+DTSTART:20261130T023000Z
+DTEND:20261130T060000Z
+SUMMARY:Macerator record release + Danny Pearson + Your Stranger Stranger
+DESCRIPTION:A Sunday-evening record-release show by Macerator\, with The I
+ ncorrigible Danny Pearson and Your Stranger Stranger\, in the Make-Out Ro
+ om on 22nd St.\nPrice: $15\nhttps://www.calendarwiz.com/calendars/calenda
+ r.php?crd=makeoutroom&op=cal&month=11&year=2026
+URL:https://www.calendarwiz.com/calendars/calendar.php?crd=makeoutroom&op=
+ cal&month=11&year=2026
+LOCATION:Make-Out Room\, 3225 22nd St\, San Francisco\, CA 94110
 END:VEVENT
 BEGIN:VEVENT
 UID:castro-holiday-tree-lighting-2026-25b3164d@sf-events
@@ -2573,6 +2772,21 @@ LOCATION:City Lights Booksellers\, 261 Columbus Ave\, San Francisco\, CA 9
  4133
 END:VEVENT
 BEGIN:VEVENT
+UID:jalen-ngonda-doctrine-of-love-tour-with-brooke-combe-2faa54ea@sf-event
+ s
+DTSTAMP:20261202T040000Z
+DTSTART:20261202T040000Z
+DTEND:20261202T060000Z
+SUMMARY:Jalen Ngonda: Doctrine of Love Tour\, with Brooke Combe
+DESCRIPTION:Soul singer Jalen Ngonda brings his Doctrine of Love tour to a
+  mid-size Union Square room\, with Brooke Combe opening. Doors 7pm\; ages
+  5+.\nPrice: $34.70\nhttps://www.augusthallsf.com/tm-event/jalen-ngonda-d
+ octrine-of-love-tour/
+URL:https://www.augusthallsf.com/tm-event/jalen-ngonda-doctrine-of-love-to
+ ur/
+LOCATION:August Hall\, 420 Mason St\, San Francisco\, CA 94102
+END:VEVENT
+BEGIN:VEVENT
 UID:woodchopper-s-ball-live-band-swing-night-5904beea@sf-events
 DTSTAMP:20261202T050000Z
 DTSTART:20261202T050000Z
@@ -2586,6 +2800,20 @@ DESCRIPTION:The weekly Tuesday live-band swing dance at the historic Verdi
 URL:https://www.verdiclub.net/events/the-woodchoppers-ball-42-3-2/2026-12-
  01/
 LOCATION:Verdi Club\, 2424 Mariposa St\, San Francisco\, CA 94110
+END:VEVENT
+BEGIN:VEVENT
+UID:terror-tuesday-the-exorcist-iii-35mm-78b6464e@sf-events
+DTSTAMP:20261202T053000Z
+DTSTART:20261202T053000Z
+DTEND:20261202T073000Z
+SUMMARY:Terror Tuesday: The Exorcist III (35mm)
+DESCRIPTION:A 35mm screening of William Peter Blatty's overlooked 1990 seq
+ uel\, with George C. Scott hunting the Gemini Killer\, in Alamo's weekly 
+ cult-horror slot. It follows on from the Terror Tuesday Exorcist screenin
+ g on 17 Nov.\nhttps://drafthouse.com/sf/show/terror-tuesday-exorcist-iii
+URL:https://drafthouse.com/sf/show/terror-tuesday-exorcist-iii
+LOCATION:Alamo Drafthouse New Mission\, 2550 Mission St\, San Francisco\, 
+ CA 94110
 END:VEVENT
 BEGIN:VEVENT
 UID:who-is-san-francisco-s-recovery-for-trust-fairness-the-next--fd044592@
@@ -4999,6 +5227,20 @@ LOCATION:Muddy Waters Coffee House\, 521 Valencia St\, San Francisco\, CA
  94110
 END:VEVENT
 BEGIN:VEVENT
+UID:cooking-class-make-your-own-sushi-cocusocial-adebfa06@sf-events
+DTSTAMP:20270109T020000Z
+DTSTART:20270109T020000Z
+DTEND:20270109T040000Z
+SUMMARY:Cooking class: Make Your Own Sushi (CocuSocial)
+DESCRIPTION:A hands-on two-hour class with Chef Huong: you make sushi rice
+ \, then cut and roll your own maki. It's for groups of 12-26\, and drinks
+  are sold at the hotel bar (not BYOB).\nPrice: $65\nhttps://www.cocusocia
+ l.com/newevent/San-Francisco_Make-Your-Own-Sushi_2027-Jan-8
+URL:https://www.cocusocial.com/newevent/San-Francisco_Make-Your-Own-Sushi_
+ 2027-Jan-8
+LOCATION:The Hotel Majestic\, 1500 Sutter St\, San Francisco\, CA 94109
+END:VEVENT
+BEGIN:VEVENT
 UID:2001-a-space-odyssey-in-70mm-6eb7e131@sf-events
 DTSTAMP:20270109T040000Z
 DTSTART:20270109T040000Z
@@ -5322,6 +5564,23 @@ URL:https://www.verdiclub.net/events/mucha-salsa-5-2/2027-01-17/
 LOCATION:Verdi Club\, 2424 Mariposa St\, San Francisco\, CA 94110
 END:VEVENT
 BEGIN:VEVENT
+UID:sf-city-guides-free-walking-tour-russian-hill-stairways-mlk--21b5c524@
+ sf-events
+DTSTAMP:20270118T190000Z
+DTSTART:20270118T190000Z
+DTEND:20270118T210000Z
+SUMMARY:SF City Guides free walking tour: Russian Hill Stairways (MLK Day)
+DESCRIPTION:A knee-testing stairway walk over Russian Hill on the MLK Day 
+ holiday\, with big views and stories of Willis Polk and Ina Coolbrith. It
+  usually ends at Francisco Park\; wear sturdy shoes.\nPrice: Free (donati
+ ons welcome)\nhttps://www.sfcityguides.org/find-your-tour/?visit=2027-01-
+ 18#russian-hill
+URL:https://www.sfcityguides.org/find-your-tour/?visit=2027-01-18#russian-
+ hill
+LOCATION:Mason & Vallejo\, bottom of the Vallejo Street Steps (meeting poi
+ nt)\, Mason St at Vallejo St\, San Francisco\, CA 94133
+END:VEVENT
+BEGIN:VEVENT
 UID:sf-city-guides-free-walking-tour-beat-generation-in-sf-mlk-d-58029d00@
  sf-events
 DTSTAMP:20270118T210000Z
@@ -5408,6 +5667,21 @@ DESCRIPTION:BACDS contra with caller Charlie Fenton and live band The Flag
  _wed/
 URL:https://bacds.org/series/contra/berkeley_wed/
 LOCATION:Christ Church East Bay\, 2138 Cedar St\, Berkeley\, CA 94709
+END:VEVENT
+BEGIN:VEVENT
+UID:vijay-iyer-wadada-leo-smith-an-evening-of-duets-682f4146@sf-events
+DTSTAMP:20270122T033000Z
+DTSTART:20270122T033000Z
+DTEND:20270122T053000Z
+SUMMARY:Vijay Iyer & Wadada Leo Smith: an evening of duets
+DESCRIPTION:Pianist Vijay Iyer (a MacArthur fellow) and avant-garde trumpe
+ ter Wadada Leo Smith play duets from their two ECM albums\, including 202
+ 5's Defiant Life.\nPrice: $45-$105\nhttps://www.sfjazz.org/tickets/produc
+ tions/26-27/vijay-iyer-wadada-leo-smith/
+URL:https://www.sfjazz.org/tickets/productions/26-27/vijay-iyer-wadada-leo
+ -smith/
+LOCATION:SFJAZZ Center\, Miner Auditorium\, 201 Franklin St\, San Francisc
+ o\, CA 94102
 END:VEVENT
 BEGIN:VEVENT
 UID:milonga-malevaje-thursday-tango-at-the-verdi-club-0d8989dc@sf-events
@@ -5571,6 +5845,21 @@ URL:https://bimbos365club.com/tm-event/bebel-gilberto-25-years-of-tanto-te
 LOCATION:Bimbo's 365 Club\, 1025 Columbus Ave\, San Francisco\, CA 94133
 END:VEVENT
 BEGIN:VEVENT
+UID:long-now-talk-dakota-gruener-on-sunlight-reflection-research-03cc2d4d@
+ sf-events
+DTSTAMP:20270127T030000Z
+DTSTART:20270127T030000Z
+DTEND:20270127T050000Z
+SUMMARY:Long Now Talk: Dakota Gruener on sunlight reflection research
+DESCRIPTION:Dakota Gruener leads Reflective\, a nonprofit speeding up rigo
+ rous\, transparent research on sunlight reflection (solar geoengineering)
+ \; she was previously founding director of ID2020. Tickets weren't on sal
+ e yet when checked.\nhttps://longnow.org/talks/02027-gruener/
+URL:https://longnow.org/talks/02027-gruener/
+LOCATION:Cowell Theater\, Fort Mason Center\, Pier 2\, Fort Mason Center\,
+  San Francisco\, CA 94123
+END:VEVENT
+BEGIN:VEVENT
 UID:woodchopper-s-ball-live-band-swing-night-c9c122f3@sf-events
 DTSTAMP:20270127T050000Z
 DTSTART:20270127T050000Z
@@ -5684,6 +5973,18 @@ LOCATION:Golden Gate Park\, JFK Drive (8th-10th Ave)\, JFK Dr between 8th
  & 10th Ave (behind the de Young)\, San Francisco\, CA
 END:VEVENT
 BEGIN:VEVENT
+UID:contact-improvisation-class-jam-at-the-castro-room-851fae3f@sf-events
+DTSTAMP:20270202T034500Z
+DTSTART:20270202T034500Z
+DTEND:20270202T061500Z
+SUMMARY:Contact Improvisation class + jam at The Castro Room
+DESCRIPTION:The 1st-Monday SF contact improv night: a class from 7:45 to 8
+ :45pm\, then an open jam with live music until 10:15. Beginners are welco
+ me.\nhttps://bay.dance/events/contact_improv/
+URL:https://bay.dance/events/contact_improv/
+LOCATION:The Castro Room\, 97 Collingwood St\, San Francisco\, CA 94114
+END:VEVENT
+BEGIN:VEVENT
 UID:vansire-with-eliza-mclamb-a70cbeff@sf-events
 DTSTAMP:20270202T040000Z
 DTSTART:20270202T040000Z
@@ -5710,6 +6011,20 @@ URL:https://www.verdiclub.net/events/the-woodchoppers-ball-42-3-2/2027-02-
 LOCATION:Verdi Club\, 2424 Mariposa St\, San Francisco\, CA 94110
 END:VEVENT
 BEGIN:VEVENT
+UID:figure-drawing-at-monument-sf-sketchboard-co-8dcb1a9f@sf-events
+DTSTAMP:20270204T023000Z
+DTSTART:20270204T023000Z
+DTEND:20270204T043000Z
+SUMMARY:Figure drawing at Monument SF (Sketchboard Co.)
+DESCRIPTION:A two-hour drop-in life drawing session with a model\, run by 
+ Sketchboard Co. in SoMa. All levels are welcome\; bring your own material
+ s and book ahead on Square.\nPrice: $25\nhttps://book.squareup.com/classe
+ s/uj53t4hfgkzllp/location/DYSM7QRDVFWX7/classes
+URL:https://book.squareup.com/classes/uj53t4hfgkzllp/location/DYSM7QRDVFWX
+ 7/classes
+LOCATION:Monument SF\, 140 9th St\, San Francisco\, CA 94103
+END:VEVENT
+BEGIN:VEVENT
 UID:c-cile-mclorin-salvant-4edacc80@sf-events
 DTSTAMP:20270205T033000Z
 DTSTART:20270205T033000Z
@@ -5722,6 +6037,34 @@ URL:https://www.sfjazz.org/tickets/productions/26-27/cecile-mclorin-salvan
  t/
 LOCATION:SFJAZZ Center\, Miner Auditorium\, 201 Franklin St\, San Francisc
  o\, CA 94102
+END:VEVENT
+BEGIN:VEVENT
+UID:bachata-lab-friday-bachata-classes-3-levels-social-a055d717@sf-events
+DTSTAMP:20270206T040000Z
+DTSTART:20270206T040000Z
+DTEND:20270206T090000Z
+SUMMARY:Bachata Lab: Friday bachata classes (3 levels) + social
+DESCRIPTION:The weekly Friday bachata night: concurrent beginner\, interme
+ diate and advanced classes from 8pm with partner rotation\, then social d
+ ancing until 1am.\nPrice: from $15\nhttps://www.eventbrite.com/e/bachata-
+ lab-tickets-1543049094379
+URL:https://www.eventbrite.com/e/bachata-lab-tickets-1543049094379
+LOCATION:Bachata Lab\, 1830 17th St\, San Francisco\, CA 94103
+END:VEVENT
+BEGIN:VEVENT
+UID:about-last-night-one-night-stand-storytelling-show-2a225e38@sf-events
+DTSTAMP:20270206T040000Z
+DTSTART:20270206T040000Z
+DTEND:20270206T053000Z
+SUMMARY:About Last Night: one-night-stand storytelling show
+DESCRIPTION:Real people tell true stories about horrifying one-night stand
+ s\, awkward hookups and regrettable romps at this monthly Mission storyte
+ lling night. Doors 7pm\, show 8pm.\nPrice: $20 advance / $25 door\nhttps:
+ //www.calendarwiz.com/calendars/calendar.php?crd=makeoutroom&op=cal&month
+ =02&year=2027
+URL:https://www.calendarwiz.com/calendars/calendar.php?crd=makeoutroom&op=
+ cal&month=02&year=2027
+LOCATION:Make-Out Room\, 3225 22nd St\, San Francisco\, CA 94110
 END:VEVENT
 BEGIN:VEVENT
 UID:sf-salsa-social-beginner-class-salsa-mambo-dancing-80acbaac@sf-events

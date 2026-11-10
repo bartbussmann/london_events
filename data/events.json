@@ -528,7 +528,7 @@
     "id": "trivia-night-at-manny-s-0fa2e4e7"
   },
   {
-    "title": "Big Brain Bay Area: Keeping the Lights On When Cyberattacks Go Physical",
+    "title": "Big Brain Bay Area: What Happens When a Country Gets Hacked? Cyberwar and the Systems We Depend On",
     "start": "2026-11-11T19:00:00-08:00",
     "end": "2026-11-11T21:00:00-08:00",
     "venue": "Planted SF",
@@ -1615,7 +1615,7 @@
   },
   {
     "id": "ics-d511beaed00f",
-    "title": "EA SF Discussion Salon: Cause Prioritization",
+    "title": "EA SF Discussion Salon: What are the world's most pressing problems?",
     "start": "2026-11-18T18:30:00-08:00",
     "end": "2026-11-18T20:30:00-08:00",
     "venue": "Mox",
@@ -1892,6 +1892,25 @@
     "id": "ai-summit-2027-a-conversation-before-geneva-irene-solaiman-r-a1705a3b"
   },
   {
+    "id": "cal-academy-nightlife-november-19-21-3d7d3a9f",
+    "title": "Cal Academy NightLife: November 19 (21+)",
+    "start": "2026-11-19T18:00:00-08:00",
+    "end": "2026-11-19T22:00:00-08:00",
+    "venue": "California Academy of Sciences",
+    "address": "55 Music Concourse Dr, Golden Gate Park, San Francisco, CA 94118",
+    "url": "https://www.calacademy.org/nightlife/nightlife-november-19",
+    "source": "venue:cal-academy",
+    "tags": [
+      "talk",
+      "community"
+    ],
+    "price": null,
+    "description": "The Academy's adults-only Thursday night, with live venomous animals, the coral reef and the new Timescapes planetarium show ($7 extra, at 6:30, 7:30, 8:30 and 9:30). It's a relaxed way to see the museum with a drink in hand.",
+    "neighbourhood": "Golden Gate Park",
+    "cycle_minutes": 27,
+    "added": "2026-11-10"
+  },
+  {
     "id": "ics-cbcddb68cfee",
     "title": "How can AI kill us all? Eight existential risk scenarios with Prof. Geoffrey Hinton",
     "start": "2026-11-19T18:15:00-08:00",
@@ -2061,6 +2080,24 @@
     "id": "brittany-davis-black-thunder-early-set-78aa60e6"
   },
   {
+    "id": "5rhythms-wild-release-with-vehllia-tranne-friday-night-wave-3f69c890",
+    "title": "5Rhythms Wild Release with Vehllia Tranne (Friday night wave)",
+    "start": "2026-11-20T19:00:00-08:00",
+    "end": "2026-11-20T20:45:00-08:00",
+    "venue": "ABADA-Capoeira San Francisco",
+    "address": "3221 22nd St, San Francisco, CA 94110",
+    "url": "https://momence.com/s/139403145",
+    "source": "venue:the-city-waves",
+    "tags": [
+      "dance"
+    ],
+    "price": "$35 drop-in ($20 first class)",
+    "description": "The City Waves' Friday-night 5Rhythms wave, a 105-minute moving meditation through flowing, staccato, chaos, lyrical and stillness, with no steps to learn. Arrive at 7pm; last entry is 7:30.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 15,
+    "added": "2026-11-10"
+  },
+  {
     "title": "CineSpin: He Who Gets Slapped with live jazz score (BAMPFA)",
     "start": "2026-11-20T19:30:00-08:00",
     "end": null,
@@ -2132,6 +2169,24 @@
     "neighbourhood": "Outer Richmond",
     "cycle_minutes": 35,
     "added": "2026-11-07"
+  },
+  {
+    "id": "a-night-of-surf-psychobilly-and-punk-the-surf-creeps-the-tin-4123debb",
+    "title": "A Night of Surf, Psychobilly and Punk: The Surf Creeps, The Tinglerz, Lost Puppy Forever",
+    "start": "2026-11-20T20:00:00-08:00",
+    "end": null,
+    "venue": "Hotel Utah Saloon",
+    "address": "500 4th St, San Francisco, CA 94107",
+    "url": "https://wl.seetickets.us/event/the-surf-creeps-the-tinglerz-lost-puppy-forever/705914?afflky=HotelUtahSaloon",
+    "source": "venue:hotel-utah",
+    "tags": [
+      "music"
+    ],
+    "price": "$12",
+    "description": "Three local bands play reverb-soaked surf and psychobilly in the tiny saloon at 4th & Bryant, the closest music room to home. 21+.",
+    "neighbourhood": "SoMa",
+    "cycle_minutes": 4,
+    "added": "2026-11-10"
   },
   {
     "title": "SF Neo-Futurists: The Infinite Wrench (30 plays in 60 minutes)",
@@ -2570,6 +2625,25 @@
     "id": "divine-offering-celebrating-alice-coltrane-with-sita-michell-aa957866"
   },
   {
+    "id": "figure-drawing-mondays-at-sin-miedo-gallery-sketchboard-7d9d7e8e",
+    "title": "Figure drawing Mondays at Sin Miedo Gallery (Sketchboard)",
+    "start": "2026-11-23T18:30:00-08:00",
+    "end": "2026-11-23T20:30:00-08:00",
+    "venue": "Sin Miedo Gallery",
+    "address": "2831 Mission St, San Francisco, CA 94110",
+    "url": "https://book.squareup.com/classes/uj53t4hfgkzllp/location/DYSM7QRDVFWX7/classes",
+    "source": "venue:sketchboard",
+    "tags": [
+      "art",
+      "class"
+    ],
+    "price": "$25",
+    "description": "A two-hour drop-in life drawing session with a model, run by Sketchboard Co. at their Mission gallery near 24th St. Bring your own supplies and book on Square.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 16,
+    "added": "2026-11-10"
+  },
+  {
     "id": "salsacrazy-mondays-salsa-lesson-salsa-bachata-dancing-b207830a",
     "title": "SalsaCrazy Mondays: salsa lesson + salsa/bachata dancing",
     "start": "2026-11-23T19:00:00-08:00",
@@ -2682,6 +2756,25 @@
     "id": "sf-history-night-san-francisco-history-association-56315659"
   },
   {
+    "id": "bachata-tuesday-class-social-at-danzhaus-da971260",
+    "title": "Bachata Tuesday: class + social at Danzhaus",
+    "start": "2026-11-24T19:00:00-08:00",
+    "end": "2026-11-24T23:00:00-08:00",
+    "venue": "Danzhaus Dance Center",
+    "address": "1275 Connecticut St, San Francisco, CA 94107",
+    "url": "https://www.eventbrite.com/e/bachata-tuesday-class-social-tickets-1998925887138",
+    "source": "aggregator:eventbrite",
+    "tags": [
+      "dance",
+      "class"
+    ],
+    "price": "from $12.51",
+    "description": "The monthly last-Tuesday bachata night at a Potrero Hill dance studio. It opens with a class, then social dancing, so it's easy to come alone.",
+    "neighbourhood": "Potrero Hill",
+    "cycle_minutes": 14,
+    "added": "2026-11-10"
+  },
+  {
     "title": "Sad Bastard Club: songwriter round-robin hosted by Tom Heyman",
     "start": "2026-11-24T19:30:00-08:00",
     "end": "2026-11-24T21:30:00-08:00",
@@ -2718,6 +2811,24 @@
     "cycle_minutes": 13,
     "added": "2026-10-27",
     "id": "woodchopper-s-ball-live-band-swing-night-caf90e3c"
+  },
+  {
+    "id": "terror-tuesday-the-ninth-configuration-1980-36f2c1f2",
+    "title": "Terror Tuesday: The Ninth Configuration (1980)",
+    "start": "2026-11-24T21:30:00-08:00",
+    "end": null,
+    "venue": "Alamo Drafthouse New Mission",
+    "address": "2550 Mission St, San Francisco, CA 94110",
+    "url": "https://drafthouse.com/sf/show/terror-tuesday-the-ninth-configuration",
+    "source": "venue:alamo-new-mission",
+    "tags": [
+      "film"
+    ],
+    "price": null,
+    "description": "Alamo's cult-horror slot screens William Peter Blatty's strange 1980 asylum film, billed as his 'real' Exorcist II. Food and drinks are served at your seat.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 14,
+    "added": "2026-11-10"
   },
   {
     "id": "ics-cdae8be23530",
@@ -2907,6 +3018,24 @@
     "added": "2026-11-08"
   },
   {
+    "id": "jason-marsalis-quartet-with-vanisha-gould-a4905a86",
+    "title": "Jason Marsalis Quartet with Vanisha Gould",
+    "start": "2026-11-27T19:30:00-08:00",
+    "end": null,
+    "venue": "SFJAZZ Center, Miner Auditorium",
+    "address": "201 Franklin St, San Francisco, CA 94102",
+    "url": "https://www.sfjazz.org/tickets/productions/26-27/jason-marsalis-quartet-w-vanisha-gould/",
+    "source": "venue:sfjazz",
+    "tags": [
+      "music"
+    ],
+    "price": "$35-$85",
+    "description": "NEA Jazz Master and vibraphonist Jason Marsalis brings his chamber-precise quartet together with the New York singer-songwriter Vanisha Gould. A good post-Thanksgiving Friday night out.",
+    "neighbourhood": "Hayes Valley",
+    "cycle_minutes": 11,
+    "added": "2026-11-10"
+  },
+  {
     "title": "Sleepless Nights XX: A Tribute to Gram Parsons",
     "start": "2026-11-27T20:00:00-08:00",
     "end": null,
@@ -2941,6 +3070,25 @@
     "cycle_minutes": 9,
     "added": "2026-10-29",
     "id": "emma-ruth-rundle-with-cinder-well-bebec913"
+  },
+  {
+    "id": "bachata-lab-friday-bachata-classes-3-levels-social-f1e82012",
+    "title": "Bachata Lab: Friday bachata classes (3 levels) + social",
+    "start": "2026-11-27T20:00:00-08:00",
+    "end": "2026-11-28T01:00:00-08:00",
+    "venue": "Bachata Lab",
+    "address": "1830 17th St, San Francisco, CA 94103",
+    "url": "https://www.eventbrite.com/e/bachata-lab-tickets-1543048994079",
+    "source": "aggregator:eventbrite",
+    "tags": [
+      "dance",
+      "class"
+    ],
+    "price": "from $15",
+    "description": "The weekly Friday bachata night runs on Thanksgiving weekend: beginner, intermediate and advanced classes from 8pm with partner rotation, then social dancing until 1am.",
+    "neighbourhood": "Potrero Hill",
+    "cycle_minutes": 11,
+    "added": "2026-11-10"
   },
   {
     "title": "Kolo Festival: Balkan music & dance weekend (Saturday)",
@@ -2998,6 +3146,24 @@
     "neighbourhood": "SoMa",
     "cycle_minutes": 3,
     "added": "2026-11-07"
+  },
+  {
+    "id": "speedcalifornia-speed-dating-ages-25-39-482f2c17",
+    "title": "SpeedCalifornia speed dating (ages 25-39)",
+    "start": "2026-11-28T17:00:00-08:00",
+    "end": "2026-11-28T19:00:00-08:00",
+    "venue": "The Jay, Autograph Collection",
+    "address": "433 Clay St, San Francisco, CA 94111",
+    "url": "https://www.eventbrite.com/e/speedcalifornia-saturday-night-ages-25-39-san-francisco-speed-dating-tickets-2003947881057",
+    "source": "aggregator:eventbrite",
+    "tags": [
+      "community"
+    ],
+    "price": "$37-$40",
+    "description": "A Saturday-evening speed-dating round where you meet 8-12 local singles aged 25-39, held in a FiDi hotel.",
+    "neighbourhood": "Financial District",
+    "cycle_minutes": 6,
+    "added": "2026-11-10"
   },
   {
     "title": "Edmar Castaneda / German Lopez (Terence Blanchard's UpSwing series)",
@@ -3076,6 +3242,44 @@
     "id": "the-great-dickens-christmas-fair-1df311e0"
   },
   {
+    "id": "sf-city-guides-free-walking-tour-dogpatch-east-past-present--97ae313b",
+    "title": "SF City Guides free walking tour: Dogpatch East, Past, Present and Future Industries",
+    "start": "2026-11-29T11:00:00-08:00",
+    "end": "2026-11-29T12:30:00-08:00",
+    "venue": "Illinois & 20th Streets (meeting point)",
+    "address": "Illinois St at 20th St, San Francisco, CA 94107",
+    "url": "https://www.sfcityguides.org/find-your-tour/?visit=2026-11-29",
+    "source": "venue:sf-city-guides",
+    "tags": [
+      "outdoors",
+      "community"
+    ],
+    "price": "Free (donations welcome)",
+    "description": "A volunteer-led walk through Potrero Point and Pier 70: steel, gas, sugar and shipbuilding, and what's being built on the southern waterfront now. It ends at Crane Cove Park.",
+    "neighbourhood": "Dogpatch",
+    "cycle_minutes": 11,
+    "added": "2026-11-10"
+  },
+  {
+    "id": "sf-city-guides-free-walking-tour-alfred-hitchcock-s-san-fran-94d3d861",
+    "title": "SF City Guides free walking tour: Alfred Hitchcock's San Francisco",
+    "start": "2026-11-29T11:00:00-08:00",
+    "end": "2026-11-29T13:00:00-08:00",
+    "venue": "Huntington Park fountain (meeting point)",
+    "address": "Sacramento St between Taylor & Mason, San Francisco, CA 94108",
+    "url": "https://www.sfcityguides.org/find-your-tour/?visit=2026-11-29#hitchcock",
+    "source": "venue:sf-city-guides",
+    "tags": [
+      "outdoors",
+      "film"
+    ],
+    "price": "Free (donations welcome)",
+    "description": "A free volunteer-led walk past the landmarks Hitchcock filmed, Vertigo's among them, and how he used the city's look to build suspense. It runs from Nob Hill down to Union Square, including a steep downhill stretch.",
+    "neighbourhood": "Nob Hill",
+    "cycle_minutes": 12,
+    "added": "2026-11-10"
+  },
+  {
     "id": "contact-improvisation-class-with-dai-wei-at-odc-6c7a979c",
     "title": "Contact Improvisation class with Dai & Wei at ODC",
     "start": "2026-11-29T13:15:00-08:00",
@@ -3093,6 +3297,42 @@
     "neighbourhood": "Mission",
     "cycle_minutes": 13,
     "added": "2026-11-08"
+  },
+  {
+    "id": "swing-into-the-holidays-with-caity-gyorgy-christian-wiggs-1c10eb4e",
+    "title": "Swing Into the Holidays with Caity Gyorgy & Christian Wiggs",
+    "start": "2026-11-29T15:00:00-08:00",
+    "end": null,
+    "venue": "SFJAZZ Center, Miner Auditorium",
+    "address": "201 Franklin St, San Francisco, CA 94102",
+    "url": "https://www.sfjazz.org/tickets/productions/26-27/swing-into-the-holidays-caity-gyorgy-christian-wiggs/",
+    "source": "venue:sfjazz",
+    "tags": [
+      "music"
+    ],
+    "price": "$45-$95",
+    "description": "A Sunday-afternoon holiday swing concert with jazz singer Caity Gyorgy and Christian Wiggs.",
+    "neighbourhood": "Hayes Valley",
+    "cycle_minutes": 11,
+    "added": "2026-11-10"
+  },
+  {
+    "id": "macerator-record-release-danny-pearson-your-stranger-strange-37bfbda0",
+    "title": "Macerator record release + Danny Pearson + Your Stranger Stranger",
+    "start": "2026-11-29T18:30:00-08:00",
+    "end": "2026-11-29T22:00:00-08:00",
+    "venue": "Make-Out Room",
+    "address": "3225 22nd St, San Francisco, CA 94110",
+    "url": "https://www.calendarwiz.com/calendars/calendar.php?crd=makeoutroom&op=cal&month=11&year=2026",
+    "source": "venue:make-out-room",
+    "tags": [
+      "music"
+    ],
+    "price": "$15",
+    "description": "A Sunday-evening record-release show by Macerator, with The Incorrigible Danny Pearson and Your Stranger Stranger, in the Make-Out Room on 22nd St.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 15,
+    "added": "2026-11-10"
   },
   {
     "id": "castro-holiday-tree-lighting-2026-25b3164d",
@@ -3208,6 +3448,24 @@
     "id": "julia-harte-americans-without-borders-81b44f80"
   },
   {
+    "id": "jalen-ngonda-doctrine-of-love-tour-with-brooke-combe-2faa54ea",
+    "title": "Jalen Ngonda: Doctrine of Love Tour, with Brooke Combe",
+    "start": "2026-12-01T20:00:00-08:00",
+    "end": null,
+    "venue": "August Hall",
+    "address": "420 Mason St, San Francisco, CA 94102",
+    "url": "https://www.augusthallsf.com/tm-event/jalen-ngonda-doctrine-of-love-tour/",
+    "source": "venue:august-hall",
+    "tags": [
+      "music"
+    ],
+    "price": "$34.70",
+    "description": "Soul singer Jalen Ngonda brings his Doctrine of Love tour to a mid-size Union Square room, with Brooke Combe opening. Doors 7pm; ages 5+.",
+    "neighbourhood": "Union Square",
+    "cycle_minutes": 6,
+    "added": "2026-11-10"
+  },
+  {
     "title": "Woodchopper's Ball: live-band swing night",
     "start": "2026-12-01T21:00:00-08:00",
     "end": "2026-12-01T23:30:00-08:00",
@@ -3225,6 +3483,24 @@
     "cycle_minutes": 13,
     "added": "2026-10-27",
     "id": "woodchopper-s-ball-live-band-swing-night-5904beea"
+  },
+  {
+    "id": "terror-tuesday-the-exorcist-iii-35mm-78b6464e",
+    "title": "Terror Tuesday: The Exorcist III (35mm)",
+    "start": "2026-12-01T21:30:00-08:00",
+    "end": null,
+    "venue": "Alamo Drafthouse New Mission",
+    "address": "2550 Mission St, San Francisco, CA 94110",
+    "url": "https://drafthouse.com/sf/show/terror-tuesday-exorcist-iii",
+    "source": "venue:alamo-new-mission",
+    "tags": [
+      "film"
+    ],
+    "price": null,
+    "description": "A 35mm screening of William Peter Blatty's overlooked 1990 sequel, with George C. Scott hunting the Gemini Killer, in Alamo's weekly cult-horror slot. It follows on from the Terror Tuesday Exorcist screening on 17 Nov.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 14,
+    "added": "2026-11-10"
   },
   {
     "id": "who-is-san-francisco-s-recovery-for-trust-fairness-the-next--fd044592",
@@ -6236,6 +6512,25 @@
     "id": "la-hora-feliz-friday-spanish-conversation-meetup-1cf5a60e"
   },
   {
+    "id": "cooking-class-make-your-own-sushi-cocusocial-adebfa06",
+    "title": "Cooking class: Make Your Own Sushi (CocuSocial)",
+    "start": "2027-01-08T18:00:00-08:00",
+    "end": "2027-01-08T20:00:00-08:00",
+    "venue": "The Hotel Majestic",
+    "address": "1500 Sutter St, San Francisco, CA 94109",
+    "url": "https://www.cocusocial.com/newevent/San-Francisco_Make-Your-Own-Sushi_2027-Jan-8",
+    "source": "aggregator:cocusocial",
+    "tags": [
+      "class",
+      "food"
+    ],
+    "price": "$65",
+    "description": "A hands-on two-hour class with Chef Huong: you make sushi rice, then cut and roll your own maki. It's for groups of 12-26, and drinks are sold at the hotel bar (not BYOB).",
+    "neighbourhood": "Cathedral Hill",
+    "cycle_minutes": 14,
+    "added": "2026-11-10"
+  },
+  {
     "title": "2001: A Space Odyssey in 70mm",
     "start": "2027-01-08T20:00:00-08:00",
     "end": null,
@@ -6651,6 +6946,25 @@
     "id": "mucha-salsa-social-free-beginner-class-a1a610fb"
   },
   {
+    "id": "sf-city-guides-free-walking-tour-russian-hill-stairways-mlk--21b5c524",
+    "title": "SF City Guides free walking tour: Russian Hill Stairways (MLK Day)",
+    "start": "2027-01-18T11:00:00-08:00",
+    "end": null,
+    "venue": "Mason & Vallejo, bottom of the Vallejo Street Steps (meeting point)",
+    "address": "Mason St at Vallejo St, San Francisco, CA 94133",
+    "url": "https://www.sfcityguides.org/find-your-tour/?visit=2027-01-18#russian-hill",
+    "source": "venue:sf-city-guides",
+    "tags": [
+      "outdoors",
+      "community"
+    ],
+    "price": "Free (donations welcome)",
+    "description": "A knee-testing stairway walk over Russian Hill on the MLK Day holiday, with big views and stories of Willis Polk and Ina Coolbrith. It usually ends at Francisco Park; wear sturdy shoes.",
+    "neighbourhood": "Russian Hill",
+    "cycle_minutes": 14,
+    "added": "2026-11-10"
+  },
+  {
     "id": "sf-city-guides-free-walking-tour-beat-generation-in-sf-mlk-d-58029d00",
     "title": "SF City Guides free walking tour: Beat Generation in SF (MLK Day)",
     "start": "2027-01-18T13:00:00-08:00",
@@ -6759,6 +7073,24 @@
     "neighbourhood": "Berkeley",
     "added": "2026-10-31",
     "id": "berkeley-wednesday-contra-dance-the-flagstones-43b65fb3"
+  },
+  {
+    "id": "vijay-iyer-wadada-leo-smith-an-evening-of-duets-682f4146",
+    "title": "Vijay Iyer & Wadada Leo Smith: an evening of duets",
+    "start": "2027-01-21T19:30:00-08:00",
+    "end": null,
+    "venue": "SFJAZZ Center, Miner Auditorium",
+    "address": "201 Franklin St, San Francisco, CA 94102",
+    "url": "https://www.sfjazz.org/tickets/productions/26-27/vijay-iyer-wadada-leo-smith/",
+    "source": "venue:sfjazz",
+    "tags": [
+      "music"
+    ],
+    "price": "$45-$105",
+    "description": "Pianist Vijay Iyer (a MacArthur fellow) and avant-garde trumpeter Wadada Leo Smith play duets from their two ECM albums, including 2025's Defiant Life.",
+    "neighbourhood": "Hayes Valley",
+    "cycle_minutes": 11,
+    "added": "2026-11-10"
   },
   {
     "title": "Milonga Malevaje (Thursday tango at the Verdi Club)",
@@ -6965,6 +7297,24 @@
     "id": "bebel-gilberto-25-years-of-tanto-tempo-a156d95c"
   },
   {
+    "id": "long-now-talk-dakota-gruener-on-sunlight-reflection-research-03cc2d4d",
+    "title": "Long Now Talk: Dakota Gruener on sunlight reflection research",
+    "start": "2027-01-26T19:00:00-08:00",
+    "end": null,
+    "venue": "Cowell Theater, Fort Mason Center",
+    "address": "Pier 2, Fort Mason Center, San Francisco, CA 94123",
+    "url": "https://longnow.org/talks/02027-gruener/",
+    "source": "venue:long-now",
+    "tags": [
+      "talk"
+    ],
+    "price": null,
+    "description": "Dakota Gruener leads Reflective, a nonprofit speeding up rigorous, transparent research on sunlight reflection (solar geoengineering); she was previously founding director of ID2020. Tickets weren't on sale yet when checked.",
+    "neighbourhood": "Fort Mason",
+    "cycle_minutes": 22,
+    "added": "2026-11-10"
+  },
+  {
     "title": "Woodchopper's Ball: live-band swing night",
     "start": "2027-01-26T21:00:00-08:00",
     "end": "2027-01-26T23:30:00-08:00",
@@ -7113,6 +7463,25 @@
     "id": "lindy-in-the-park-free-swing-dancing-beginner-lesson-1e26935e"
   },
   {
+    "id": "contact-improvisation-class-jam-at-the-castro-room-851fae3f",
+    "title": "Contact Improvisation class + jam at The Castro Room",
+    "start": "2027-02-01T19:45:00-08:00",
+    "end": "2027-02-01T22:15:00-08:00",
+    "venue": "The Castro Room",
+    "address": "97 Collingwood St, San Francisco, CA 94114",
+    "url": "https://bay.dance/events/contact_improv/",
+    "source": "aggregator:bay.dance",
+    "tags": [
+      "dance",
+      "class"
+    ],
+    "price": null,
+    "description": "The 1st-Monday SF contact improv night: a class from 7:45 to 8:45pm, then an open jam with live music until 10:15. Beginners are welcome.",
+    "neighbourhood": "Castro",
+    "cycle_minutes": 17,
+    "added": "2026-11-10"
+  },
+  {
     "title": "Vansire with Eliza McLamb",
     "start": "2027-02-01T20:00:00-08:00",
     "end": null,
@@ -7150,6 +7519,25 @@
     "id": "woodchopper-s-ball-live-band-swing-night-a2aca028"
   },
   {
+    "id": "figure-drawing-at-monument-sf-sketchboard-co-8dcb1a9f",
+    "title": "Figure drawing at Monument SF (Sketchboard Co.)",
+    "start": "2027-02-03T18:30:00-08:00",
+    "end": "2027-02-03T20:30:00-08:00",
+    "venue": "Monument SF",
+    "address": "140 9th St, San Francisco, CA 94103",
+    "url": "https://book.squareup.com/classes/uj53t4hfgkzllp/location/DYSM7QRDVFWX7/classes",
+    "source": "aggregator:square",
+    "tags": [
+      "art",
+      "class"
+    ],
+    "price": "$25",
+    "description": "A two-hour drop-in life drawing session with a model, run by Sketchboard Co. in SoMa. All levels are welcome; bring your own materials and book ahead on Square.",
+    "neighbourhood": "SoMa",
+    "cycle_minutes": 8,
+    "added": "2026-11-10"
+  },
+  {
     "title": "Cécile McLorin Salvant",
     "start": "2027-02-04T19:30:00-08:00",
     "end": null,
@@ -7166,6 +7554,44 @@
     "cycle_minutes": 11,
     "added": "2026-11-06",
     "id": "c-cile-mclorin-salvant-4edacc80"
+  },
+  {
+    "id": "bachata-lab-friday-bachata-classes-3-levels-social-a055d717",
+    "title": "Bachata Lab: Friday bachata classes (3 levels) + social",
+    "start": "2027-02-05T20:00:00-08:00",
+    "end": "2027-02-06T01:00:00-08:00",
+    "venue": "Bachata Lab",
+    "address": "1830 17th St, San Francisco, CA 94103",
+    "url": "https://www.eventbrite.com/e/bachata-lab-tickets-1543049094379",
+    "source": "aggregator:eventbrite",
+    "tags": [
+      "dance",
+      "class"
+    ],
+    "price": "from $15",
+    "description": "The weekly Friday bachata night: concurrent beginner, intermediate and advanced classes from 8pm with partner rotation, then social dancing until 1am.",
+    "neighbourhood": "Potrero Hill",
+    "cycle_minutes": 11,
+    "added": "2026-11-10"
+  },
+  {
+    "id": "about-last-night-one-night-stand-storytelling-show-2a225e38",
+    "title": "About Last Night: one-night-stand storytelling show",
+    "start": "2027-02-05T20:00:00-08:00",
+    "end": "2027-02-05T21:30:00-08:00",
+    "venue": "Make-Out Room",
+    "address": "3225 22nd St, San Francisco, CA 94110",
+    "url": "https://www.calendarwiz.com/calendars/calendar.php?crd=makeoutroom&op=cal&month=02&year=2027",
+    "source": "venue:make-out-room",
+    "tags": [
+      "comedy",
+      "community"
+    ],
+    "price": "$20 advance / $25 door",
+    "description": "Real people tell true stories about horrifying one-night stands, awkward hookups and regrettable romps at this monthly Mission storytelling night. Doors 7pm, show 8pm.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 15,
+    "added": "2026-11-10"
   },
   {
     "title": "SF Salsa Social: beginner class + salsa & mambo dancing",

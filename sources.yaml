@@ -419,6 +419,10 @@ listings:
     url: "https://www.voguemovies.com/calendar-of-events?format=json"
     tags: [theatre, film]
 
+  - name: SpeedCalifornia speed dating (age-banded; check bracket includes 31)
+    url: "https://www.eventbrite.com/api/v3/organizers/41187074383/events/?status=live&order_by=start_asc&expand=venue"
+    tags: [community]
+
 keywords:
   - "contact improvisation jam San Francisco"
   - "contact improv class Bay Area beginners"
