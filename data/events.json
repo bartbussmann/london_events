@@ -1,287 +1,5 @@
 [
   {
-    "title": "Singles Walking Food Tour (Chinatown & North Beach)",
-    "start": "2026-11-07T08:30:00-08:00",
-    "end": "2026-11-07T11:30:00-08:00",
-    "venue": "Little Swan San Francisco Bakery (meeting point)",
-    "address": "1249 Stockton St, San Francisco, CA 94133",
-    "url": "https://www.eventbrite.com/e/singles-food-tour-tickets-2003647095399",
-    "source": "aggregator:eventbrite",
-    "tags": [
-      "food",
-      "community"
-    ],
-    "price": "$5 (plus food you buy)",
-    "description": "A self-guided morning food crawl for singles, starting at Little Swan Bakery and taking in dim sum, the Golden Gate Fortune Cookie Factory, Good Mong Kok and Bob's Donuts. You buy something at three of the stops. No age bracket is stated.",
-    "neighbourhood": "Chinatown",
-    "cycle_minutes": 10,
-    "added": "2026-10-31",
-    "id": "singles-walking-food-tour-chinatown-north-beach-f2845f7e"
-  },
-  {
-    "title": "San Francisco Coffee Festival 2026 (10th annual)",
-    "start": "2026-11-07T09:00:00-08:00",
-    "end": null,
-    "venue": "Fort Mason Center Festival Pavilion",
-    "address": "2 Marina Blvd, San Francisco, CA 94109",
-    "url": "https://www.eventbrite.com/e/san-francisco-coffee-festival-2026-tickets-1977403325577",
-    "source": "aggregator:funcheap",
-    "tags": [
-      "food",
-      "festival"
-    ],
-    "price": "$44-109",
-    "description": "The 10th annual coffee festival, with tastings from Bay Area and visiting roasters across the Festival Pavilion. It runs Sat-Sun Nov 7-8.",
-    "neighbourhood": "Fort Mason",
-    "cycle_minutes": 22,
-    "added": "2026-10-26",
-    "id": "san-francisco-coffee-festival-2026-10th-annual-b2551baf"
-  },
-  {
-    "title": "Día de los Muertos and Diwali Festival at Presidio Tunnel Tops",
-    "start": "2026-11-07T10:00:00-08:00",
-    "end": "2026-11-07T15:00:00-08:00",
-    "venue": "Presidio Tunnel Tops",
-    "address": "210 Lincoln Blvd, San Francisco, CA 94129",
-    "url": "https://presidio.gov/explore/events/dia-de-los-muertos-and-diwali-festival",
-    "source": "venue:presidio",
-    "tags": [
-      "festival",
-      "outdoors",
-      "community"
-    ],
-    "price": "Free",
-    "description": "A free afternoon of live performances, crafts and cultural ceremonies marking both Día de los Muertos and Diwali, on the Tunnel Tops lawns above Crissy Field.",
-    "neighbourhood": "Presidio",
-    "cycle_minutes": 30,
-    "added": "2026-11-01",
-    "id": "d-a-de-los-muertos-and-diwali-festival-at-presidio-tunnel-to-339ca4d7"
-  },
-  {
-    "title": "The San Francisco Fall Cider Fest",
-    "start": "2026-11-07T12:00:00-08:00",
-    "end": "2026-11-07T16:00:00-08:00",
-    "venue": "SPARK Social SF",
-    "address": "601 Mission Bay Blvd North, San Francisco, CA 94158",
-    "url": "https://www.eventbrite.com/e/the-san-francisco-fall-cider-fest-tickets-1998827487823",
-    "source": "aggregator:eventbrite",
-    "tags": [
-      "food",
-      "festival"
-    ],
-    "price": "$30-$60",
-    "description": "An afternoon cider-tasting festival at the SPARK Social food-truck park in Mission Bay, with a 'Camp SPARK' autumn theme. It's strictly 21+.",
-    "neighbourhood": "Mission Bay",
-    "cycle_minutes": 8,
-    "added": "2026-10-28",
-    "id": "the-san-francisco-fall-cider-fest-090d66ac"
-  },
-  {
-    "title": "SF City Guides free walking tour: Making Waves on the Waterfront",
-    "start": "2026-11-07T14:00:00-08:00",
-    "end": null,
-    "venue": "Ferry Building (meet under the clock tower)",
-    "address": "Ferry Building, 1 Ferry Building, San Francisco, CA 94111",
-    "url": "https://www.sfcityguides.org/find-your-tour/?visit=2026-11-07",
-    "source": "venue:sf-city-guides",
-    "tags": [
-      "outdoors",
-      "community"
-    ],
-    "price": "Free (donations welcome)",
-    "description": "A free volunteer-led history walk along the flat northern waterfront, covering the inventors (denim jeans, TV) and labor and human-rights organizers who shaped the city. It ends at Levi Plaza after about 1.5-2 hours.",
-    "neighbourhood": "Embarcadero",
-    "cycle_minutes": 5,
-    "added": "2026-10-28",
-    "id": "sf-city-guides-free-walking-tour-making-waves-on-the-waterfr-ebf3100c"
-  },
-  {
-    "title": "Arion Press: Alice in Wonderland talk with Deena Chalabi, Blake Riley and Rupy C. Tut",
-    "start": "2026-11-07T15:00:00-08:00",
-    "end": "2026-11-07T16:00:00-08:00",
-    "venue": "Bayfront Theater, Fort Mason Center",
-    "address": "2 Marina Blvd, Building B, 3rd Floor, San Francisco, CA 94123",
-    "url": "https://www.eventbrite.com/e/alice-in-wonderland-talk-with-deena-chalabi-blake-riley-and-rupy-c-tut-tickets-2003785976797",
-    "source": "aggregator:eventbrite",
-    "tags": [
-      "talk",
-      "art"
-    ],
-    "price": "Free",
-    "description": "SF's letterpress fine-press house Arion Press talks through the making of its new illustrated Alice, with the artist, printer and a curator. An open house at the press downstairs runs just before.",
-    "neighbourhood": "Fort Mason",
-    "cycle_minutes": 22,
-    "added": "2026-11-01",
-    "id": "arion-press-alice-in-wonderland-talk-with-deena-chalabi-blak-4a013e80"
-  },
-  {
-    "id": "ics-4b90148a0345",
-    "title": "Mathematical Sociodynamics reading group (Psychohistory but real)",
-    "start": "2026-11-07T15:30:00-08:00",
-    "end": "2026-11-07T17:00:00-08:00",
-    "venue": "Mox",
-    "address": "1680 Mission St, San Francisco, CA 94103",
-    "url": "https://luma.com/z4r92s41",
-    "source": "ics:Mox",
-    "tags": [
-      "talk",
-      "community"
-    ],
-    "price": "Free (register on Luma)",
-    "description": "Saturday-afternoon reading group at Mox on mathematical sociodynamics — 'psychohistory but real': models of how societies, opinions and institutions evolve. Easy-going way to meet the Mox crowd.",
-    "added": "2026-11-03",
-    "neighbourhood": "Mission",
-    "cycle_minutes": 13
-  },
-  {
-    "title": "1st Saturday Irish trad session at the Plough and Stars",
-    "start": "2026-11-07T16:00:00-08:00",
-    "end": null,
-    "venue": "The Plough and Stars",
-    "address": "116 Clement St, San Francisco, CA 94118",
-    "url": "https://www.meetup.com/irish-music-trad-session/events/317040714/",
-    "source": "aggregator:meetup",
-    "tags": [
-      "music",
-      "community"
-    ],
-    "price": "Free",
-    "description": "A monthly Saturday-afternoon session with tunes, songs and a few set dances. Bring an instrument or your voice, or just listen with a pint.",
-    "neighbourhood": "Inner Richmond",
-    "cycle_minutes": 27,
-    "added": "2026-10-26",
-    "id": "1st-saturday-irish-trad-session-at-the-plough-and-stars-bf378747"
-  },
-  {
-    "title": "Minnesota Street Project First Saturday: gallery opening receptions",
-    "start": "2026-11-07T17:00:00-08:00",
-    "end": "2026-11-07T19:00:00-08:00",
-    "venue": "Minnesota Street Project",
-    "address": "1275 Minnesota St, San Francisco, CA 94107",
-    "url": "https://minnesotastreetproject.com/exhibitions",
-    "source": "venue:minnesota-street-project",
-    "tags": [
-      "art",
-      "community"
-    ],
-    "price": "Free",
-    "description": "Dogpatch's gallery complex opens a batch of new shows at once: Mary Lai at Eleanor Harwood, Felix Butterwick and Toward Biomorphism at Municipal Bonds, Return, Return at Morgan Trumbull, and Conversations in Clay at Themes+Projects. Around the corner, di Rosa SF (1150 25th St) opens Invaders: Vallejo, Food and the Making of California.",
-    "neighbourhood": "Dogpatch",
-    "cycle_minutes": 11,
-    "added": "2026-11-03",
-    "id": "minnesota-street-project-first-saturday-gallery-opening-rece-3d527f6b"
-  },
-  {
-    "title": "Chantey Sing at the SF Maritime Museum",
-    "start": "2026-11-07T18:00:00-08:00",
-    "end": "2026-11-07T19:00:00-08:00",
-    "venue": "Maritime Museum Building, SF Maritime National Historical Park",
-    "address": "900 Beach St, San Francisco, CA 94109",
-    "url": "https://maritime.org/events/event-three-mz467-9slf2-t8mp6-hfa3t-4zd6s-gp65j",
-    "source": "keyword-search",
-    "tags": [
-      "music",
-      "community"
-    ],
-    "price": "Free",
-    "description": "A free first-Saturday sea-shanty singalong at the Aquatic Park Maritime Museum, the closest thing in SF to a folk-club singaround. No experience is needed.",
-    "neighbourhood": "Fisherman's Wharf",
-    "cycle_minutes": 17,
-    "added": "2026-10-26",
-    "id": "chantey-sing-at-the-sf-maritime-museum-5fc564d9"
-  },
-  {
-    "title": "Brandon Woody's Upendo / Gabrielle Cavassa (Terence Blanchard's UpSwing series)",
-    "start": "2026-11-07T19:00:00-08:00",
-    "end": null,
-    "venue": "SFJAZZ Center, Miner Auditorium",
-    "address": "201 Franklin St, San Francisco, CA 94102",
-    "url": "https://www.sfjazz.org/tickets/productions/26-27/upswing-brandon-woody-gabrielle-cavassa/",
-    "source": "venue:sfjazz",
-    "tags": [
-      "music"
-    ],
-    "price": "$45-$105",
-    "description": "Two rising Blue Note artists on one bill: Baltimore trumpeter Brandon Woody with his band Upendo, and vocalist Gabrielle Cavassa, who started out in SF's jazz scene. Cheapest seats are $45.",
-    "neighbourhood": "Hayes Valley",
-    "cycle_minutes": 11,
-    "added": "2026-10-26",
-    "id": "brandon-woody-s-upendo-gabrielle-cavassa-terence-blanchard-s-4b329245"
-  },
-  {
-    "id": "ics-beacaa3af443",
-    "title": "Animals x AI #13",
-    "start": "2026-11-07T19:00:00-08:00",
-    "end": "2026-11-07T23:00:00-08:00",
-    "venue": "San Francisco (address on Partiful after RSVP)",
-    "address": null,
-    "url": "https://partiful.com/e/sfz9cwShx0xlhHQyHHvL",
-    "source": "ics:Mox",
-    "tags": [
-      "talk",
-      "tech",
-      "community"
-    ],
-    "price": "Free (RSVP on Partiful)",
-    "description": "Animals x AI #13: the recurring meetup on animal minds, welfare and AI, listed on the Mox calendar. The venue is shared with RSVPs.",
-    "added": "2026-11-03",
-    "neighbourhood": "San Francisco"
-  },
-  {
-    "title": "SF Leonard Cohen Festival: Conspiracy of Beards + Daniel Kahn & Jake Shulman-Ment",
-    "start": "2026-11-07T19:30:00-08:00",
-    "end": null,
-    "venue": "Swedish American Hall",
-    "address": "2174 Market St (upstairs), San Francisco, CA 94114",
-    "url": "https://cafedunord.com/shows/2026-11-07-san-francisco-leonard-cohen-festival",
-    "source": "venue:cafe-du-nord",
-    "tags": [
-      "music"
-    ],
-    "price": "$56.11",
-    "description": "SF's a cappella Cohen choir Conspiracy of Beards premieres 'The Song & Spirit of Leonard Cohen'. Guests are klezmer-folk-punk troubadour Daniel Kahn and New York fiddler Jake Shulman-Ment. Doors 6:30pm, 21+.",
-    "neighbourhood": "Upper Market",
-    "cycle_minutes": 14,
-    "added": "2026-10-26",
-    "id": "sf-leonard-cohen-festival-conspiracy-of-beards-daniel-kahn-j-0b93a5fe"
-  },
-  {
-    "title": "Hotel Utah Indie Pop Night: Starfish Prime, Charity Kiss, The Online Company",
-    "start": "2026-11-07T20:00:00-08:00",
-    "end": null,
-    "venue": "Hotel Utah Saloon",
-    "address": "500 4th St, San Francisco, CA 94107",
-    "url": "https://wl.seetickets.us/event/starfish-prime-charity-kiss-the-online-company/709755",
-    "source": "venue:hotel-utah",
-    "tags": [
-      "music"
-    ],
-    "price": "$12",
-    "description": "Three local indie-pop bands in the tiny 1908 saloon at 4th & Bryant, the closest music room to home. Cheap, loud and easy to wander into.",
-    "neighbourhood": "SoMa",
-    "cycle_minutes": 4,
-    "added": "2026-11-06",
-    "id": "hotel-utah-indie-pop-night-starfish-prime-charity-kiss-the-o-ed1d2c3e"
-  },
-  {
-    "title": "Alex Cameron with Josh da Costa",
-    "start": "2026-11-07T21:00:00-08:00",
-    "end": null,
-    "venue": "The Chapel",
-    "address": "777 Valencia St, San Francisco, CA 94110",
-    "url": "https://wl.seetickets.us/event/alex-cameron/691429?afflky=TheChapel",
-    "source": "venue:the-chapel",
-    "tags": [
-      "music"
-    ],
-    "price": "$25-$28",
-    "description": "The Australian songwriter's wry, synth-tinged crooner pop in the Chapel's former mortuary hall (folkYEAH! presents). Doors 8pm.",
-    "neighbourhood": "Mission",
-    "cycle_minutes": 13,
-    "added": "2026-11-06",
-    "id": "alex-cameron-with-josh-da-costa-10b97d5b"
-  },
-  {
     "title": "5Rhythms Sweat Your Prayers (Sunday morning)",
     "start": "2026-11-08T09:00:00-08:00",
     "end": "2026-11-08T10:45:00-08:00",
@@ -752,6 +470,26 @@
     "cycle_minutes": 13,
     "added": "2026-10-27",
     "id": "woodchopper-s-ball-neil-fontano-jazz-band-7e74fbd1"
+  },
+  {
+    "id": "ics-7f738b0c9264",
+    "title": "Dinner: Let's talk about the AI crisis (talk by Prof. David Krueger)",
+    "start": "2026-11-11T18:00:00-08:00",
+    "end": "2026-11-11T21:00:00-08:00",
+    "venue": "1335 Fourth St (West Berkeley)",
+    "address": "1335 Fourth St, Berkeley, CA 94710",
+    "url": "https://partiful.com/e/BspXCadkfktfBazXwOr3",
+    "source": "ics:AI Safety San Francisco",
+    "tags": [
+      "talk",
+      "food",
+      "community"
+    ],
+    "price": "Free (RSVP on Partiful)",
+    "description": "Free dumplings-and-discussion evening from Firebell, a new AI-risk society: a 6:15pm talk by AI professor David Krueger on the state of AI risk, Q&A, then dinner and open discussion (veg/vegan/GF options). East Bay: BART from Montgomery to Downtown Berkeley (~25 min), then ~10 min by bike to Fourth St.",
+    "added": "2026-11-10",
+    "neighbourhood": "Berkeley",
+    "cycle_minutes": null
   },
   {
     "id": "ics-c440877e8faa",

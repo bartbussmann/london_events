@@ -5,239 +5,6 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:San Francisco Events
 X-WR-TIMEZONE:America/Los_Angeles
 BEGIN:VEVENT
-UID:singles-walking-food-tour-chinatown-north-beach-f2845f7e@sf-events
-DTSTAMP:20261107T163000Z
-DTSTART:20261107T163000Z
-DTEND:20261107T193000Z
-SUMMARY:Singles Walking Food Tour (Chinatown & North Beach)
-DESCRIPTION:A self-guided morning food crawl for singles\, starting at Lit
- tle Swan Bakery and taking in dim sum\, the Golden Gate Fortune Cookie Fa
- ctory\, Good Mong Kok and Bob's Donuts. You buy something at three of the
-  stops. No age bracket is stated.\nPrice: $5 (plus food you buy)\nhttps:/
- /www.eventbrite.com/e/singles-food-tour-tickets-2003647095399
-URL:https://www.eventbrite.com/e/singles-food-tour-tickets-2003647095399
-LOCATION:Little Swan San Francisco Bakery (meeting point)\, 1249 Stockton 
- St\, San Francisco\, CA 94133
-END:VEVENT
-BEGIN:VEVENT
-UID:san-francisco-coffee-festival-2026-10th-annual-b2551baf@sf-events
-DTSTAMP:20261107T170000Z
-DTSTART:20261107T170000Z
-DTEND:20261107T190000Z
-SUMMARY:San Francisco Coffee Festival 2026 (10th annual)
-DESCRIPTION:The 10th annual coffee festival\, with tastings from Bay Area 
- and visiting roasters across the Festival Pavilion. It runs Sat-Sun Nov 7
- -8.\nPrice: $44-109\nhttps://www.eventbrite.com/e/san-francisco-coffee-fe
- stival-2026-tickets-1977403325577
-URL:https://www.eventbrite.com/e/san-francisco-coffee-festival-2026-ticket
- s-1977403325577
-LOCATION:Fort Mason Center Festival Pavilion\, 2 Marina Blvd\, San Francis
- co\, CA 94109
-END:VEVENT
-BEGIN:VEVENT
-UID:d-a-de-los-muertos-and-diwali-festival-at-presidio-tunnel-to-339ca4d7@
- sf-events
-DTSTAMP:20261107T180000Z
-DTSTART:20261107T180000Z
-DTEND:20261107T230000Z
-SUMMARY:Día de los Muertos and Diwali Festival at Presidio Tunnel Tops
-DESCRIPTION:A free afternoon of live performances\, crafts and cultural ce
- remonies marking both Día de los Muertos and Diwali\, on the Tunnel Tops
-  lawns above Crissy Field.\nPrice: Free\nhttps://presidio.gov/explore/eve
- nts/dia-de-los-muertos-and-diwali-festival
-URL:https://presidio.gov/explore/events/dia-de-los-muertos-and-diwali-fest
- ival
-LOCATION:Presidio Tunnel Tops\, 210 Lincoln Blvd\, San Francisco\, CA 9412
- 9
-END:VEVENT
-BEGIN:VEVENT
-UID:the-san-francisco-fall-cider-fest-090d66ac@sf-events
-DTSTAMP:20261107T200000Z
-DTSTART:20261107T200000Z
-DTEND:20261108T000000Z
-SUMMARY:The San Francisco Fall Cider Fest
-DESCRIPTION:An afternoon cider-tasting festival at the SPARK Social food-t
- ruck park in Mission Bay\, with a 'Camp SPARK' autumn theme. It's strictl
- y 21+.\nPrice: $30-$60\nhttps://www.eventbrite.com/e/the-san-francisco-fa
- ll-cider-fest-tickets-1998827487823
-URL:https://www.eventbrite.com/e/the-san-francisco-fall-cider-fest-tickets
- -1998827487823
-LOCATION:SPARK Social SF\, 601 Mission Bay Blvd North\, San Francisco\, CA
-  94158
-END:VEVENT
-BEGIN:VEVENT
-UID:sf-city-guides-free-walking-tour-making-waves-on-the-waterfr-ebf3100c@
- sf-events
-DTSTAMP:20261107T220000Z
-DTSTART:20261107T220000Z
-DTEND:20261108T000000Z
-SUMMARY:SF City Guides free walking tour: Making Waves on the Waterfront
-DESCRIPTION:A free volunteer-led history walk along the flat northern wate
- rfront\, covering the inventors (denim jeans\, TV) and labor and human-ri
- ghts organizers who shaped the city. It ends at Levi Plaza after about 1.
- 5-2 hours.\nPrice: Free (donations welcome)\nhttps://www.sfcityguides.org
- /find-your-tour/?visit=2026-11-07
-URL:https://www.sfcityguides.org/find-your-tour/?visit=2026-11-07
-LOCATION:Ferry Building (meet under the clock tower)\, Ferry Building\, 1 
- Ferry Building\, San Francisco\, CA 94111
-END:VEVENT
-BEGIN:VEVENT
-UID:arion-press-alice-in-wonderland-talk-with-deena-chalabi-blak-4a013e80@
- sf-events
-DTSTAMP:20261107T230000Z
-DTSTART:20261107T230000Z
-DTEND:20261108T000000Z
-SUMMARY:Arion Press: Alice in Wonderland talk with Deena Chalabi\, Blake R
- iley and Rupy C. Tut
-DESCRIPTION:SF's letterpress fine-press house Arion Press talks through th
- e making of its new illustrated Alice\, with the artist\, printer and a c
- urator. An open house at the press downstairs runs just before.\nPrice: F
- ree\nhttps://www.eventbrite.com/e/alice-in-wonderland-talk-with-deena-cha
- labi-blake-riley-and-rupy-c-tut-tickets-2003785976797
-URL:https://www.eventbrite.com/e/alice-in-wonderland-talk-with-deena-chala
- bi-blake-riley-and-rupy-c-tut-tickets-2003785976797
-LOCATION:Bayfront Theater\, Fort Mason Center\, 2 Marina Blvd\, Building B
- \, 3rd Floor\, San Francisco\, CA 94123
-END:VEVENT
-BEGIN:VEVENT
-UID:ics-4b90148a0345@sf-events
-DTSTAMP:20261107T233000Z
-DTSTART:20261107T233000Z
-DTEND:20261108T010000Z
-SUMMARY:Mathematical Sociodynamics reading group (Psychohistory but real)
-DESCRIPTION:Saturday-afternoon reading group at Mox on mathematical sociod
- ynamics — 'psychohistory but real': models of how societies\, opinions 
- and institutions evolve. Easy-going way to meet the Mox crowd.\nPrice: Fr
- ee (register on Luma)\nhttps://luma.com/z4r92s41
-URL:https://luma.com/z4r92s41
-LOCATION:Mox\, 1680 Mission St\, San Francisco\, CA 94103
-END:VEVENT
-BEGIN:VEVENT
-UID:1st-saturday-irish-trad-session-at-the-plough-and-stars-bf378747@sf-ev
- ents
-DTSTAMP:20261108T000000Z
-DTSTART:20261108T000000Z
-DTEND:20261108T020000Z
-SUMMARY:1st Saturday Irish trad session at the Plough and Stars
-DESCRIPTION:A monthly Saturday-afternoon session with tunes\, songs and a 
- few set dances. Bring an instrument or your voice\, or just listen with a
-  pint.\nPrice: Free\nhttps://www.meetup.com/irish-music-trad-session/even
- ts/317040714/
-URL:https://www.meetup.com/irish-music-trad-session/events/317040714/
-LOCATION:The Plough and Stars\, 116 Clement St\, San Francisco\, CA 94118
-END:VEVENT
-BEGIN:VEVENT
-UID:minnesota-street-project-first-saturday-gallery-opening-rece-3d527f6b@
- sf-events
-DTSTAMP:20261108T010000Z
-DTSTART:20261108T010000Z
-DTEND:20261108T030000Z
-SUMMARY:Minnesota Street Project First Saturday: gallery opening reception
- s
-DESCRIPTION:Dogpatch's gallery complex opens a batch of new shows at once:
-  Mary Lai at Eleanor Harwood\, Felix Butterwick and Toward Biomorphism at
-  Municipal Bonds\, Return\, Return at Morgan Trumbull\, and Conversations
-  in Clay at Themes+Projects. Around the corner\, di Rosa SF (1150 25th St
- ) opens Invaders: Vallejo\, Food and the Making of California.\nPrice: Fr
- ee\nhttps://minnesotastreetproject.com/exhibitions
-URL:https://minnesotastreetproject.com/exhibitions
-LOCATION:Minnesota Street Project\, 1275 Minnesota St\, San Francisco\, CA
-  94107
-END:VEVENT
-BEGIN:VEVENT
-UID:chantey-sing-at-the-sf-maritime-museum-5fc564d9@sf-events
-DTSTAMP:20261108T020000Z
-DTSTART:20261108T020000Z
-DTEND:20261108T030000Z
-SUMMARY:Chantey Sing at the SF Maritime Museum
-DESCRIPTION:A free first-Saturday sea-shanty singalong at the Aquatic Park
-  Maritime Museum\, the closest thing in SF to a folk-club singaround. No 
- experience is needed.\nPrice: Free\nhttps://maritime.org/events/event-thr
- ee-mz467-9slf2-t8mp6-hfa3t-4zd6s-gp65j
-URL:https://maritime.org/events/event-three-mz467-9slf2-t8mp6-hfa3t-4zd6s-
- gp65j
-LOCATION:Maritime Museum Building\, SF Maritime National Historical Park\,
-  900 Beach St\, San Francisco\, CA 94109
-END:VEVENT
-BEGIN:VEVENT
-UID:brandon-woody-s-upendo-gabrielle-cavassa-terence-blanchard-s-4b329245@
- sf-events
-DTSTAMP:20261108T030000Z
-DTSTART:20261108T030000Z
-DTEND:20261108T050000Z
-SUMMARY:Brandon Woody's Upendo / Gabrielle Cavassa (Terence Blanchard's Up
- Swing series)
-DESCRIPTION:Two rising Blue Note artists on one bill: Baltimore trumpeter 
- Brandon Woody with his band Upendo\, and vocalist Gabrielle Cavassa\, who
-  started out in SF's jazz scene. Cheapest seats are $45.\nPrice: $45-$105
- \nhttps://www.sfjazz.org/tickets/productions/26-27/upswing-brandon-woody-
- gabrielle-cavassa/
-URL:https://www.sfjazz.org/tickets/productions/26-27/upswing-brandon-woody
- -gabrielle-cavassa/
-LOCATION:SFJAZZ Center\, Miner Auditorium\, 201 Franklin St\, San Francisc
- o\, CA 94102
-END:VEVENT
-BEGIN:VEVENT
-UID:ics-beacaa3af443@sf-events
-DTSTAMP:20261108T030000Z
-DTSTART:20261108T030000Z
-DTEND:20261108T070000Z
-SUMMARY:Animals x AI #13
-DESCRIPTION:Animals x AI #13: the recurring meetup on animal minds\, welfa
- re and AI\, listed on the Mox calendar. The venue is shared with RSVPs.\n
- Price: Free (RSVP on Partiful)\nhttps://partiful.com/e/sfz9cwShx0xlhHQyHH
- vL
-URL:https://partiful.com/e/sfz9cwShx0xlhHQyHHvL
-LOCATION:San Francisco (address on Partiful after RSVP)
-END:VEVENT
-BEGIN:VEVENT
-UID:sf-leonard-cohen-festival-conspiracy-of-beards-daniel-kahn-j-0b93a5fe@
- sf-events
-DTSTAMP:20261108T033000Z
-DTSTART:20261108T033000Z
-DTEND:20261108T053000Z
-SUMMARY:SF Leonard Cohen Festival: Conspiracy of Beards + Daniel Kahn & Ja
- ke Shulman-Ment
-DESCRIPTION:SF's a cappella Cohen choir Conspiracy of Beards premieres 'Th
- e Song & Spirit of Leonard Cohen'. Guests are klezmer-folk-punk troubadou
- r Daniel Kahn and New York fiddler Jake Shulman-Ment. Doors 6:30pm\, 21+.
- \nPrice: $56.11\nhttps://cafedunord.com/shows/2026-11-07-san-francisco-le
- onard-cohen-festival
-URL:https://cafedunord.com/shows/2026-11-07-san-francisco-leonard-cohen-fe
- stival
-LOCATION:Swedish American Hall\, 2174 Market St (upstairs)\, San Francisco
- \, CA 94114
-END:VEVENT
-BEGIN:VEVENT
-UID:hotel-utah-indie-pop-night-starfish-prime-charity-kiss-the-o-ed1d2c3e@
- sf-events
-DTSTAMP:20261108T040000Z
-DTSTART:20261108T040000Z
-DTEND:20261108T060000Z
-SUMMARY:Hotel Utah Indie Pop Night: Starfish Prime\, Charity Kiss\, The On
- line Company
-DESCRIPTION:Three local indie-pop bands in the tiny 1908 saloon at 4th & B
- ryant\, the closest music room to home. Cheap\, loud and easy to wander i
- nto.\nPrice: $12\nhttps://wl.seetickets.us/event/starfish-prime-charity-k
- iss-the-online-company/709755
-URL:https://wl.seetickets.us/event/starfish-prime-charity-kiss-the-online-
- company/709755
-LOCATION:Hotel Utah Saloon\, 500 4th St\, San Francisco\, CA 94107
-END:VEVENT
-BEGIN:VEVENT
-UID:alex-cameron-with-josh-da-costa-10b97d5b@sf-events
-DTSTAMP:20261108T050000Z
-DTSTART:20261108T050000Z
-DTEND:20261108T070000Z
-SUMMARY:Alex Cameron with Josh da Costa
-DESCRIPTION:The Australian songwriter's wry\, synth-tinged crooner pop in 
- the Chapel's former mortuary hall (folkYEAH! presents). Doors 8pm.\nPrice
- : $25-$28\nhttps://wl.seetickets.us/event/alex-cameron/691429?afflky=TheC
- hapel
-URL:https://wl.seetickets.us/event/alex-cameron/691429?afflky=TheChapel
-LOCATION:The Chapel\, 777 Valencia St\, San Francisco\, CA 94110
-END:VEVENT
-BEGIN:VEVENT
 UID:5rhythms-sweat-your-prayers-sunday-morning-2c6f6a2e@sf-events
 DTSTAMP:20261108T170000Z
 DTSTART:20261108T170000Z
@@ -605,6 +372,23 @@ DESCRIPTION:The weekly Tuesday live-band swing dance at the historic Verdi
 URL:https://www.verdiclub.net/events/the-woodchoppers-ball-42-3-2/2026-11-
  10/
 LOCATION:Verdi Club\, 2424 Mariposa St\, San Francisco\, CA 94110
+END:VEVENT
+BEGIN:VEVENT
+UID:ics-7f738b0c9264@sf-events
+DTSTAMP:20261112T020000Z
+DTSTART:20261112T020000Z
+DTEND:20261112T050000Z
+SUMMARY:Dinner: Let's talk about the AI crisis (talk by Prof. David Kruege
+ r)
+DESCRIPTION:Free dumplings-and-discussion evening from Firebell\, a new AI
+ -risk society: a 6:15pm talk by AI professor David Krueger on the state o
+ f AI risk\, Q&A\, then dinner and open discussion (veg/vegan/GF options).
+  East Bay: BART from Montgomery to Downtown Berkeley (~25 min)\, then ~10
+  min by bike to Fourth St.\nPrice: Free (RSVP on Partiful)\nhttps://parti
+ ful.com/e/BspXCadkfktfBazXwOr3
+URL:https://partiful.com/e/BspXCadkfktfBazXwOr3
+LOCATION:1335 Fourth St (West Berkeley)\, 1335 Fourth St\, Berkeley\, CA 9
+ 4710
 END:VEVENT
 BEGIN:VEVENT
 UID:ics-c440877e8faa@sf-events
