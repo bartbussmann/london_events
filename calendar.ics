@@ -503,8 +503,8 @@ DESCRIPTION:UNDSCVRD SF unveils two large new murals in the Filipino Cultu
  fashion show and love-song karaoke.\nPrice: Free (RSVP)\nhttps://luma.com
  /uvfqed21
 URL:https://luma.com/uvfqed21
-LOCATION:Jessie West Street (at 5th & Mission)\, Jessie West St at 5th St\
- , San Francisco\, CA 94103
+LOCATION:Sentro Filipino (moved indoors for rain)\, 814 Mission St\, San F
+ rancisco\, CA 94103
 END:VEVENT
 BEGIN:VEVENT
 UID:kevin-starr-lecture-re-interpreting-anza-250-sf-historical-s-5262b5d2@
@@ -1395,11 +1395,12 @@ DTSTART:20261120T021500Z
 DTEND:20261120T034500Z
 SUMMARY:How can AI kill us all? Eight existential risk scenarios with Prof
  . Geoffrey Hinton
-DESCRIPTION:Nobel laureate and 'godfather of AI' Geoffrey Hinton walks thr
- ough eight scenarios for how advanced AI could pose an existential risk. 
- Hosted by the Existential Risk Observatory at the Commonwealth Club's Tau
- be Auditorium\, five minutes from home. Likely to fill fast — register 
- early.\nPrice: Free (register on Luma)\nhttps://luma.com/zcbrxhsr
+DESCRIPTION:SOLD OUT (waitlist open on Luma). Nobel laureate and 'godfathe
+ r of AI' Geoffrey Hinton walks through eight scenarios for how advanced A
+ I could pose an existential risk. Hosted by the Existential Risk Observat
+ ory at the Commonwealth Club's Taube Auditorium\, five minutes from home.
+  Likely to fill fast — register early.\nPrice: Free (sold out\; waitlis
+ t on Luma)\nhttps://luma.com/zcbrxhsr
 URL:https://luma.com/zcbrxhsr
 LOCATION:Commonwealth Club World Affairs (Taube Auditorium)\, 110 The Emba
  rcadero\, San Francisco\, CA 94105
@@ -1410,9 +1411,10 @@ DTSTAMP:20261120T023000Z
 DTSTART:20261120T023000Z
 DTEND:20261120T040000Z
 SUMMARY:Jane Austen Reader's Theatre
-DESCRIPTION:A lively live reading of Austen that keeps her snarky narratio
- n intact\, in the Castro's romance bookshop-bar. Doors 6:30pm\, reading s
- tarts 7pm.\nPrice: Free (register on Luma)\nhttps://luma.com/m6nt9s43
+DESCRIPTION:SOLD OUT (waitlist open on Luma). A lively live reading of Aus
+ ten that keeps her snarky narration intact\, in the Castro's romance book
+ shop-bar. Doors 6:30pm\, reading starts 7pm.\nPrice: Free (register on Lu
+ ma)\nhttps://luma.com/m6nt9s43
 URL:https://luma.com/m6nt9s43
 LOCATION:The Love Potion Library\, 284 Noe St\, San Francisco\, CA 94114
 END:VEVENT
@@ -1750,30 +1752,15 @@ LOCATION:BATS Annex\, Fort Mason Center\, 2 Marina Blvd\, Bldg C\, Suite 3
  65\, San Francisco\, CA 94123
 END:VEVENT
 BEGIN:VEVENT
-UID:monthly-chocolate-club-at-manny-s-414ce6a6@sf-events
-DTSTAMP:20261121T233000Z
-DTSTART:20261121T233000Z
-DTEND:20261122T003000Z
-SUMMARY:Monthly Chocolate Club at Manny's
-DESCRIPTION:POSSIBLY CANCELLED: the Eventbrite listing was withdrawn and i
- t no longer appears on Manny's calendar. A round-table tasting and discus
- sion led by a local chocolatier\, where everyone brings a chocolate to sh
- are. It's small and social\; seats are limited.\nPrice: From $15.45\nhttp
- s://www.eventbrite.com/e/monthly-chocolate-club-at-mannys-lets-explore-ch
- ocolate-tickets-1986920837712
-URL:https://www.eventbrite.com/e/monthly-chocolate-club-at-mannys-lets-exp
- lore-chocolate-tickets-1986920837712
-LOCATION:Manny's\, 3092 16th St\, San Francisco\, CA 94103
-END:VEVENT
-BEGIN:VEVENT
 UID:bedazzling-night-at-the-love-potion-library-2ac7b04c@sf-events
 DTSTAMP:20261122T030000Z
 DTSTART:20261122T030000Z
 DTEND:20261122T050000Z
 SUMMARY:Bedazzling Night at The Love Potion Library
-DESCRIPTION:Relaxed glitter-craft social at the Castro romance bookshop an
- d tea room: bedazzle a book you bring or one from the shelves\, supplies 
- and help provided.\nPrice: $10\nhttps://luma.com/4pahhbua
+DESCRIPTION:SOLD OUT (waitlist open on Luma). Relaxed glitter-craft social
+  at the Castro romance bookshop and tea room: bedazzle a book you bring o
+ r one from the shelves\, supplies and help provided.\nPrice: $10\nhttps:/
+ /luma.com/4pahhbua
 URL:https://luma.com/4pahhbua
 LOCATION:The Love Potion Library\, 284 Noe St\, San Francisco\, CA
 END:VEVENT
@@ -2051,8 +2038,7 @@ SUMMARY:Clay & Play: make your own bookends (air-dry clay)
 DESCRIPTION:A beginner hand-building workshop run by Piscola Studio in a C
  astro bookshop-bar\, sculpting your own bookends from 2 lbs of air-dry cl
  ay. A short demo leads into 90 minutes of guided studio time. Bring your 
- own snack or drink.\nPrice: $50 early bird / $60\nhttps://luma.com/qozwef
- 2n
+ own snack or drink.\nPrice: $60\nhttps://luma.com/qozwef2n
 URL:https://luma.com/qozwef2n
 LOCATION:The Love Potion Library\, 284 Noe St\, San Francisco\, CA 94114
 END:VEVENT
@@ -5054,6 +5040,34 @@ URL:https://bacds.org/series/contra/berkeley_wed/
 LOCATION:Christ Church East Bay\, 2138 Cedar St\, Berkeley\, CA 94709
 END:VEVENT
 BEGIN:VEVENT
+UID:sab-star-with-gloomhead-and-swell-foop-438d280d@sf-events
+DTSTAMP:20270107T040000Z
+DTSTART:20270107T040000Z
+DTEND:20270107T060000Z
+SUMMARY:Sab Star with Gloomhead and swell foop
+DESCRIPTION:An all-Bay Area indie bill: San Jose shoegaze/dream-pop projec
+ t Sab Star\, SF post-rock five-piece Gloomhead and Berkeley indie-rock tr
+ io swell foop. Doors 7:30pm\, show 8pm\, all ages.\nhttps://www.theindepe
+ ndentsf.com/tm-event/sab-star/
+URL:https://www.theindependentsf.com/tm-event/sab-star/
+LOCATION:The Independent\, 628 Divisadero St\, San Francisco\, CA 94117
+END:VEVENT
+BEGIN:VEVENT
+UID:sf-first-thursday-art-walk-tenderloin-lower-nob-hill-93d02965@sf-event
+ s
+DTSTAMP:20270108T020000Z
+DTSTART:20270108T020000Z
+DTEND:20270108T050000Z
+SUMMARY:SF First Thursday Art Walk (Tenderloin + Lower Nob Hill)
+DESCRIPTION:A monthly self-guided evening of open galleries\, artist-run s
+ paces and local businesses across the Tenderloin and Lower Nob Hill. It's
+  free and easy to drop in and out of.\nPrice: Free\nhttps://tlcbd.org/eve
+ nt/sf-first-thursday-art-walks/2027-01-07/
+URL:https://tlcbd.org/event/sf-first-thursday-art-walks/2027-01-07/
+LOCATION:Galleries across the Tenderloin + Lower Nob Hill\, Tenderloin\, S
+ an Francisco\, CA
+END:VEVENT
+BEGIN:VEVENT
 UID:the-loved-ones-latest-hits-record-release-with-the-vesuvians-b735b97a@
  sf-events
 DTSTAMP:20270108T040000Z
@@ -5307,6 +5321,21 @@ URL:https://book.squareup.com/classes/uj53t4hfgkzllp/location/DYSM7QRDVFWX
 LOCATION:El Rio\, 3158 Mission St\, San Francisco\, CA 94110
 END:VEVENT
 BEGIN:VEVENT
+UID:immersion-colin-newman-of-wire-malka-spigel-at-gray-area-42bf09ff@sf-e
+ vents
+DTSTAMP:20270115T033000Z
+DTSTART:20270115T033000Z
+DTEND:20270115T053000Z
+SUMMARY:Immersion (Colin Newman of Wire + Malka Spigel) at Gray Area
+DESCRIPTION:Electronic duo Immersion\, made up of Wire's Colin Newman and 
+ Minimal Compact's Malka Spigel\, play the Mission's restored Grand Theate
+ r art-and-tech space.\nPrice: $23.60 early bird / $35.40 GA (incl. fees)\
+ nhttps://grayarea.org/event/immersion-malka-spigel-and-colin-newman/
+URL:https://grayarea.org/event/immersion-malka-spigel-and-colin-newman/
+LOCATION:Gray Area (Grand Theater)\, 2665 Mission St\, San Francisco\, CA 
+ 94110
+END:VEVENT
+BEGIN:VEVENT
 UID:lsd-and-the-search-for-god-with-cryogeyser-6874123f@sf-events
 DTSTAMP:20270115T040000Z
 DTSTART:20270115T040000Z
@@ -5350,6 +5379,22 @@ URL:https://wl.seetickets.us/event/the-16th-annual-bowie-bash/707829?afflk
  y=GreatAmericanMusicHall
 LOCATION:Great American Music Hall\, 859 O'Farrell St\, San Francisco\, CA
   94109
+END:VEVENT
+BEGIN:VEVENT
+UID:ybca-world-of-black-film-burning-an-illusion-free-sf-art-wee-f77931e2@
+ sf-events
+DTSTAMP:20270116T220000Z
+DTSTART:20270116T220000Z
+DTEND:20270117T000000Z
+SUMMARY:YBCA World of Black Film: Burning an Illusion (free\, SF Art Week)
+DESCRIPTION:A free screening of Menelik Shabazz's 1981 London-set drama ab
+ out a young Black woman's political awakening. It's part of Ashley Clark'
+ s curated series\, with snacks and gallery entry included.\nPrice: Free (
+ RSVP)\nhttps://ybca.org/event/burning-an-illusion-world-of-black-film-1-1
+ 6-27/
+URL:https://ybca.org/event/burning-an-illusion-world-of-black-film-1-16-27
+ /
+LOCATION:YBCA Screening Room\, 701 Mission St\, San Francisco\, CA 94103
 END:VEVENT
 BEGIN:VEVENT
 UID:social-economic-justice-music-and-the-arts-festival-evening--93a93242@
@@ -5557,6 +5602,20 @@ URL:https://www.verdiclub.net/events/milonga-malevaje-78-2-2-2-2/2027-01-2
 LOCATION:Verdi Club\, 2424 Mariposa St\, San Francisco\, CA 94110
 END:VEVENT
 BEGIN:VEVENT
+UID:trestles-santa-cruz-surf-psych-at-cafe-du-nord-9a6a804c@sf-events
+DTSTAMP:20270122T040000Z
+DTSTART:20270122T040000Z
+DTEND:20270122T060000Z
+SUMMARY:Trestles (Santa Cruz surf-psych) at Cafe du Nord
+DESCRIPTION:Santa Cruz surf/psych/garage band steeped in 1960s West Coast 
+ sounds\, in the basement room under the Swedish American Hall. Doors 7pm\
+ , show 8pm\, all ages.\nPrice: $28.30\nhttps://cafedunord.com/shows/2027-
+ 01-21-trestles
+URL:https://cafedunord.com/shows/2027-01-21-trestles
+LOCATION:Cafe du Nord\, 2174 Market St (downstairs)\, San Francisco\, CA 9
+ 4114
+END:VEVENT
+BEGIN:VEVENT
 UID:eliane-elias-quartet-ant-nio-carlos-jobim-centennial-celebra-b808515e@
  sf-events
 DTSTAMP:20270123T033000Z
@@ -5733,6 +5792,21 @@ URL:https://www.verdiclub.net/events/the-woodchoppers-ball-42-3-2/2027-01-
 LOCATION:Verdi Club\, 2424 Mariposa St\, San Francisco\, CA 94110
 END:VEVENT
 BEGIN:VEVENT
+UID:pollinated-magic-theatre-salon-cross-disciplinary-conversati-fff8bd17@
+ sf-events
+DTSTAMP:20270128T030000Z
+DTSTART:20270128T030000Z
+DTEND:20270128T053000Z
+SUMMARY:Pollinated: Magic Theatre salon (cross-disciplinary conversation)
+DESCRIPTION:A new monthly salon for 75–100 guests with cocktails\, a sho
+ rt live artistic piece and a conversation among four or five people from 
+ very different fields. It's built for mingling across disciplines. Venue 
+ is listed only as Magic Theatre\, so check the ticket for the exact locat
+ ion.\nPrice: $65\nhttps://magictheatre.org/calendar/pollinated
+URL:https://magictheatre.org/calendar/pollinated
+LOCATION:Magic Theatre (exact venue on ticket)
+END:VEVENT
+BEGIN:VEVENT
 UID:jon-bryant-ec6c1dfe@sf-events
 DTSTAMP:20270128T040000Z
 DTSTART:20270128T040000Z
@@ -5776,6 +5850,19 @@ URL:https://www.verdiclub.net/events/milonga-malevaje-78-2-2-2-2/2027-01-2
 LOCATION:Verdi Club\, 2424 Mariposa St\, San Francisco\, CA 94110
 END:VEVENT
 BEGIN:VEVENT
+UID:city-of-the-sun-with-valley-wolf-f34524f2@sf-events
+DTSTAMP:20270129T040000Z
+DTSTART:20270129T040000Z
+DTEND:20270129T060000Z
+SUMMARY:City of the Sun with Valley Wolf
+DESCRIPTION:NYC instrumental guitar band City of the Sun play cinematic\, 
+ surf and desert-rock songs from their Phil Ek-produced album Under the Mo
+ on. Modesto Latin-psych band Valley Wolf open. The show was rescheduled f
+ rom Oct 21.\nhttps://www.theindependentsf.com/tm-event/city-of-the-sun-2/
+URL:https://www.theindependentsf.com/tm-event/city-of-the-sun-2/
+LOCATION:The Independent\, 628 Divisadero St\, San Francisco\, CA 94117
+END:VEVENT
+BEGIN:VEVENT
 UID:bachata-lab-friday-bachata-classes-3-levels-social-f44d7df1@sf-events
 DTSTAMP:20270130T040000Z
 DTSTART:20270130T040000Z
@@ -5814,6 +5901,36 @@ DESCRIPTION:Zach Zucker's chaotic\, character-heavy alt-comedy showcase\,
  -$92\nhttps://thecastro.com/events/stamptown-with-zach-zucker-270130
 URL:https://thecastro.com/events/stamptown-with-zach-zucker-270130
 LOCATION:Castro Theatre\, 429 Castro St\, San Francisco\, CA 94114
+END:VEVENT
+BEGIN:VEVENT
+UID:the-arcadian-wild-make-it-out-alive-tour-8ece3ae0@sf-events
+DTSTAMP:20270131T050000Z
+DTSTART:20270131T050000Z
+DTEND:20270131T070000Z
+SUMMARY:The Arcadian Wild: Make It Out Alive Tour
+DESCRIPTION:Nashville indie-folk trio with close harmonies and acoustic st
+ rings\, in the wood-panelled upstairs hall. Doors 8pm\, show 9pm\, 21+.\n
+ Price: $33.45\nhttps://cafedunord.com/shows/2027-01-30-the-arcadian-wild
+URL:https://cafedunord.com/shows/2027-01-30-the-arcadian-wild
+LOCATION:Swedish American Hall\, 2174 Market St (upstairs)\, San Francisco
+ \, CA 94114
+END:VEVENT
+BEGIN:VEVENT
+UID:vietnamese-new-year-t-t-street-festival-in-little-saigon-46343fa6@sf-e
+ vents
+DTSTAMP:20270131T160000Z
+DTSTART:20270131T160000Z
+DTEND:20270201T010000Z
+SUMMARY:Vietnamese New Year (Tết) Street Festival in Little Saigon
+DESCRIPTION:The Southeast Asian Community Center's free Lunar New Year str
+ eet festival\, with lion dances\, traditional music\, an Áo Dài pageant
+  and Vietnamese food stalls. It runs a week before Lunar New Year (6 Feb)
+ .\nPrice: Free\nhttps://www.eventbrite.com/e/vietnamese-new-year-tet-fest
+ ival-xuan-an-lanh-tickets-2003019614587
+URL:https://www.eventbrite.com/e/vietnamese-new-year-tet-festival-xuan-an-
+ lanh-tickets-2003019614587
+LOCATION:Little Saigon (607 Larkin St)\, 607 Larkin St\, San Francisco\, C
+ A 94109
 END:VEVENT
 BEGIN:VEVENT
 UID:lindy-in-the-park-free-swing-dancing-beginner-lesson-1e26935e@sf-event
@@ -5897,6 +6014,21 @@ LOCATION:SFJAZZ Center\, Miner Auditorium\, 201 Franklin St\, San Francisc
  o\, CA 94102
 END:VEVENT
 BEGIN:VEVENT
+UID:ajj-at-great-american-music-hall-b9dcfb29@sf-events
+DTSTAMP:20270205T040000Z
+DTSTART:20270205T040000Z
+DTEND:20270205T060000Z
+SUMMARY:AJJ at Great American Music Hall
+DESCRIPTION:Phoenix folk-punk band AJJ (formerly Andrew Jackson Jihad) bri
+ ng their wry\, literate songs to SF's ornate 1907 music hall. Doors 7pm\,
+  show 8pm\, all ages.\nPrice: $29 adv / $33 door\nhttps://wl.seetickets.u
+ s/event/ajj/701175?afflky=GreatAmericanMusicHall
+URL:https://wl.seetickets.us/event/ajj/701175?afflky=GreatAmericanMusicHal
+ l
+LOCATION:Great American Music Hall\, 859 O'Farrell St\, San Francisco\, CA
+  94109
+END:VEVENT
+BEGIN:VEVENT
 UID:bachata-lab-friday-bachata-classes-3-levels-social-a055d717@sf-events
 DTSTAMP:20270206T040000Z
 DTSTART:20270206T040000Z
@@ -5925,6 +6057,34 @@ URL:https://www.calendarwiz.com/calendars/calendar.php?crd=makeoutroom&op=
 LOCATION:Make-Out Room\, 3225 22nd St\, San Francisco\, CA 94110
 END:VEVENT
 BEGIN:VEVENT
+UID:the-sways-arizona-folk-rock-trio-at-cafe-du-nord-f57734f5@sf-events
+DTSTAMP:20270207T040000Z
+DTSTART:20270207T040000Z
+DTEND:20270207T060000Z
+SUMMARY:The Sways (Arizona folk-rock trio) at Cafe du Nord
+DESCRIPTION:A rising indie folk-rock trio from the mountains of Northern A
+ rizona\, playing songs about friendship\, fatherhood and everyday life in
+  the basement room. Doors 7pm\, show 8pm\, 21+.\nPrice: $28.30\nhttps://c
+ afedunord.com/shows/2027-02-06-the-sways
+URL:https://cafedunord.com/shows/2027-02-06-the-sways
+LOCATION:Cafe du Nord\, 2174 Market St (downstairs)\, San Francisco\, CA 9
+ 4114
+END:VEVENT
+BEGIN:VEVENT
+UID:rent-at-san-francisco-playhouse-closing-night-55ece16e@sf-events
+DTSTAMP:20270207T040000Z
+DTSTART:20270207T040000Z
+DTEND:20270207T060000Z
+SUMMARY:RENT at San Francisco Playhouse (closing night)
+DESCRIPTION:The final performance of Bill English's production of Jonathan
+  Larson's rock musical about young artists in New York's East Village. Th
+ e theatre calendar lists two performances on Feb 6\, and Saturday evening
+ s start at 8pm.\nPrice: $60-$145\nhttps://sfplayhouse.org/2026-2027-seaso
+ n/rent/
+URL:https://sfplayhouse.org/2026-2027-season/rent/
+LOCATION:San Francisco Playhouse\, 450 Post St\, San Francisco\, CA 94102
+END:VEVENT
+BEGIN:VEVENT
 UID:sf-salsa-social-beginner-class-salsa-mambo-dancing-80acbaac@sf-events
 DTSTAMP:20270208T030000Z
 DTSTART:20270208T030000Z
@@ -5939,6 +6099,66 @@ URL:https://www.eventbrite.com/e/sf-salsa-social-salsa-dancing-lesson-at-v
 LOCATION:Verdi Club\, 2424 Mariposa St\, San Francisco\, CA 94110
 END:VEVENT
 BEGIN:VEVENT
+UID:wolf-parade-with-prairie-princess-5bebeab5@sf-events
+DTSTAMP:20270208T030000Z
+DTSTART:20270208T030000Z
+DTEND:20270208T050000Z
+SUMMARY:Wolf Parade with Prairie Princess
+DESCRIPTION:The Montreal indie-rock band behind Apologies to the Queen Mar
+ y play the restored Castro Theatre. Doors 6pm\, show 7pm\, all ages. Gene
+ ral sale opens Fri 13 Nov at 10am.\nhttps://thecastro.com/events/wolf-par
+ ade
+URL:https://thecastro.com/events/wolf-parade
+LOCATION:Castro Theatre\, 429 Castro St\, San Francisco\, CA 94114
+END:VEVENT
+BEGIN:VEVENT
+UID:salsacrazy-mondays-salsa-lesson-salsa-bachata-dancing-fa90192e@sf-even
+ ts
+DTSTAMP:20270209T023000Z
+DTSTART:20270209T023000Z
+DTEND:20270209T073000Z
+SUMMARY:SalsaCrazy Mondays: salsa lesson + salsa/bachata dancing
+DESCRIPTION:A weekly Monday salsa night on Clement St: a beginner lesson w
+ ith no partner needed\, then social salsa and bachata dancing.\nPrice: $1
+ 0-$40\nhttps://www.eventbrite.com/e/salsa-dance-classes-and-salsa-and-bac
+ hata-dancing-salsacrazy-mondays-tickets-1981014390369
+URL:https://www.eventbrite.com/e/salsa-dance-classes-and-salsa-and-bachata
+ -dancing-salsacrazy-mondays-tickets-1981014390369
+LOCATION:Neck of the Woods\, 406 Clement St\, San Francisco\, CA 94118
+END:VEVENT
+BEGIN:VEVENT
+UID:national-theatre-live-hay-fever-christine-baranski-richard-e-ae5973f0@
+ sf-events
+DTSTAMP:20270209T030000Z
+DTSTART:20270209T030000Z
+DTEND:20270209T051500Z
+SUMMARY:National Theatre Live: Hay Fever (Christine Baranski\, Richard E. 
+ Grant)
+DESCRIPTION:A screening of the West End production of Noël Coward's comed
+ y\, filmed live\, with Christine Baranski and Richard E. Grant. It plays 
+ in a 1910 neighbourhood cinema.\nhttps://www.voguemovies.com/calendar-of-
+ events/national-theatre-live-hay-fever-february-8
+URL:https://www.voguemovies.com/calendar-of-events/national-theatre-live-h
+ ay-fever-february-8
+LOCATION:Vogue Theatre\, 3290 Sacramento St\, San Francisco\, CA 94115
+END:VEVENT
+BEGIN:VEVENT
+UID:andrea-gibson-s-love-letter-from-the-afterlife-film-live-orc-24ca2485@
+ sf-events
+DTSTAMP:20270210T033000Z
+DTSTART:20270210T033000Z
+DTEND:20270210T053000Z
+SUMMARY:Andrea Gibson's Love Letter From The Afterlife (film + live orches
+ tra)
+DESCRIPTION:A screening of the late poet Andrea Gibson's final live perfor
+ mance\, with the Goosebump Orchestra playing Blake Neely's score live\, p
+ lus poet Megan Falley and guests. It comes from the team behind Come See 
+ Me in the Good Light. General sale opens Fri 13 Nov.\nhttps://thecastro.c
+ om/events/andrea-gibson-270209
+URL:https://thecastro.com/events/andrea-gibson-270209
+LOCATION:Castro Theatre\, 429 Castro St\, San Francisco\, CA 94114
+END:VEVENT
+BEGIN:VEVENT
 UID:fat-tuesday-celebration-with-rebirth-brass-band-10712cbe@sf-events
 DTSTAMP:20270210T040000Z
 DTSTART:20270210T040000Z
@@ -5951,6 +6171,32 @@ DESCRIPTION:New Orleans' Rebirth Brass Band plays Mardi Gras night\, with
 URL:https://wl.seetickets.us/event/fat-tuesday-celebration-with-rebirth-br
  ass-band/701503?afflky=TheChapel
 LOCATION:The Chapel\, 777 Valencia St\, San Francisco\, CA 94110
+END:VEVENT
+BEGIN:VEVENT
+UID:trivia-night-at-manny-s-210ee1e4@sf-events
+DTSTAMP:20270211T030000Z
+DTSTART:20270211T030000Z
+DTEND:20270211T050000Z
+SUMMARY:Trivia Night at Manny's
+DESCRIPTION:Monthly team trivia night with prizes at the Mission's civic-m
+ inded café and event space. Solo arrivals can easily join a team and mee
+ t people.\nPrice: Free\nhttps://www.eventbrite.com/e/trivia-night-mannys-
+ tickets-1996185926843
+URL:https://www.eventbrite.com/e/trivia-night-mannys-tickets-1996185926843
+LOCATION:Manny's\, 3092 16th St\, San Francisco\, CA 94103
+END:VEVENT
+BEGIN:VEVENT
+UID:open-jazz-jam-at-the-lucky-horseshoe-f02b7747@sf-events
+DTSTAMP:20270211T040000Z
+DTSTART:20270211T040000Z
+DTEND:20270211T070000Z
+SUMMARY:Open Jazz Jam at The Lucky Horseshoe
+DESCRIPTION:A free open jazz jam in a Bernal Heights neighbourhood bar. Mu
+ sicians sit in and everyone else listens over a drink.\nPrice: Free\nhttp
+ s://www.eventbrite.com/e/open-jazz-jam-the-shoe-tickets-1997613006276
+URL:https://www.eventbrite.com/e/open-jazz-jam-the-shoe-tickets-1997613006
+ 276
+LOCATION:The Lucky Horseshoe\, 453 Cortland Ave\, San Francisco\, CA 94110
 END:VEVENT
 BEGIN:VEVENT
 UID:16th-annual-salsa-rueda-festival-07480f94@sf-events

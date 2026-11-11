@@ -1,5 +1,11 @@
 [
   {
+    "ran_at": "2026-11-11T06:45:00-08:00",
+    "added": 18,
+    "considered": 168,
+    "notes": "Part 1: no new feed imports; pruned 10. Part 2: freshness check of 117 events (12-24 Nov): newly sold out - Geoffrey Hinton talk 19 Nov (Luma waitlist), Jane Austen Reader's Theatre 19 Nov, Bedazzling Night 21 Nov; Mahal mural party 13 Nov moved indoors to Sentro Filipino (rain); Clay & Play now $60; removed Manny's Chocolate Club 21 Nov (listing gone, cancelled). 18 adds for 2 Jan-14 Feb filling empty 6, 8, 10 Feb (gigs at Cafe du Nord, Independent, GAMH, Swedish American Hall, Castro; Gray Area; YBCA; Magic Theatre salon; Tet festival; First Thursday; NT Live; SalsaCrazy; Manny's trivia; jazz jam). Blocked: SFJAZZ, Rickshaw Stop, Freight & Salvage, Booksmith."
+  },
+  {
     "ran_at": "2026-11-10T06:45:00-08:00",
     "added": 24,
     "considered": 97,

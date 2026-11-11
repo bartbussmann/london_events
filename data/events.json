@@ -607,8 +607,8 @@
     "title": "Mahal Mural Unveiling + mini block party (SoMa Filipinas)",
     "start": "2026-11-13T18:00:00-08:00",
     "end": "2026-11-13T22:00:00-08:00",
-    "venue": "Jessie West Street (at 5th & Mission)",
-    "address": "Jessie West St at 5th St, San Francisco, CA 94103",
+    "venue": "Sentro Filipino (moved indoors for rain)",
+    "address": "814 Mission St, San Francisco, CA 94103",
     "url": "https://luma.com/uvfqed21",
     "source": "aggregator:funcheap",
     "tags": [
@@ -1734,8 +1734,8 @@
       "talk",
       "tech"
     ],
-    "price": "Free (register on Luma)",
-    "description": "Nobel laureate and 'godfather of AI' Geoffrey Hinton walks through eight scenarios for how advanced AI could pose an existential risk. Hosted by the Existential Risk Observatory at the Commonwealth Club's Taube Auditorium, five minutes from home. Likely to fill fast — register early.",
+    "price": "Free (sold out; waitlist on Luma)",
+    "description": "SOLD OUT (waitlist open on Luma). Nobel laureate and 'godfather of AI' Geoffrey Hinton walks through eight scenarios for how advanced AI could pose an existential risk. Hosted by the Existential Risk Observatory at the Commonwealth Club's Taube Auditorium, five minutes from home. Likely to fill fast — register early.",
     "added": "2026-11-07",
     "neighbourhood": "Embarcadero",
     "cycle_minutes": 5
@@ -1753,7 +1753,7 @@
       "community"
     ],
     "price": "Free (register on Luma)",
-    "description": "A lively live reading of Austen that keeps her snarky narration intact, in the Castro's romance bookshop-bar. Doors 6:30pm, reading starts 7pm.",
+    "description": "SOLD OUT (waitlist open on Luma). A lively live reading of Austen that keeps her snarky narration intact, in the Castro's romance bookshop-bar. Doors 6:30pm, reading starts 7pm.",
     "neighbourhood": "Castro",
     "cycle_minutes": 16,
     "added": "2026-11-01",
@@ -2173,25 +2173,6 @@
     "id": "bats-improv-intro-to-improv-with-diana-brown-single-session-4aa26e59"
   },
   {
-    "title": "Monthly Chocolate Club at Manny's",
-    "start": "2026-11-21T15:30:00-08:00",
-    "end": "2026-11-21T16:30:00-08:00",
-    "venue": "Manny's",
-    "address": "3092 16th St, San Francisco, CA 94103",
-    "url": "https://www.eventbrite.com/e/monthly-chocolate-club-at-mannys-lets-explore-chocolate-tickets-1986920837712",
-    "source": "venue:mannys",
-    "tags": [
-      "food",
-      "community"
-    ],
-    "price": "From $15.45",
-    "description": "POSSIBLY CANCELLED: the Eventbrite listing was withdrawn and it no longer appears on Manny's calendar. A round-table tasting and discussion led by a local chocolatier, where everyone brings a chocolate to share. It's small and social; seats are limited.",
-    "neighbourhood": "Mission",
-    "cycle_minutes": 13,
-    "added": "2026-11-01",
-    "id": "monthly-chocolate-club-at-manny-s-414ce6a6"
-  },
-  {
     "id": "bedazzling-night-at-the-love-potion-library-2ac7b04c",
     "title": "Bedazzling Night at The Love Potion Library",
     "start": "2026-11-21T19:00:00-08:00",
@@ -2205,7 +2186,7 @@
       "community"
     ],
     "price": "$10",
-    "description": "Relaxed glitter-craft social at the Castro romance bookshop and tea room: bedazzle a book you bring or one from the shelves, supplies and help provided.",
+    "description": "SOLD OUT (waitlist open on Luma). Relaxed glitter-craft social at the Castro romance bookshop and tea room: bedazzle a book you bring or one from the shelves, supplies and help provided.",
     "neighbourhood": "Castro",
     "cycle_minutes": 17,
     "added": "2026-11-07"
@@ -2540,7 +2521,7 @@
       "class",
       "art"
     ],
-    "price": "$50 early bird / $60",
+    "price": "$60",
     "description": "A beginner hand-building workshop run by Piscola Studio in a Castro bookshop-bar, sculpting your own bookends from 2 lbs of air-dry clay. A short demo leads into 90 minutes of guided studio time. Bring your own snack or drink.",
     "neighbourhood": "Castro",
     "cycle_minutes": 16,
@@ -6286,6 +6267,43 @@
     "id": "berkeley-wednesday-contra-dance-55e46a5e"
   },
   {
+    "id": "sab-star-with-gloomhead-and-swell-foop-438d280d",
+    "title": "Sab Star with Gloomhead and swell foop",
+    "start": "2027-01-06T20:00:00-08:00",
+    "end": null,
+    "venue": "The Independent",
+    "address": "628 Divisadero St, San Francisco, CA 94117",
+    "url": "https://www.theindependentsf.com/tm-event/sab-star/",
+    "source": "venue:the-independent",
+    "tags": [
+      "music"
+    ],
+    "price": null,
+    "description": "An all-Bay Area indie bill: San Jose shoegaze/dream-pop project Sab Star, SF post-rock five-piece Gloomhead and Berkeley indie-rock trio swell foop. Doors 7:30pm, show 8pm, all ages.",
+    "neighbourhood": "NoPa",
+    "cycle_minutes": 18,
+    "added": "2026-11-11"
+  },
+  {
+    "id": "sf-first-thursday-art-walk-tenderloin-lower-nob-hill-93d02965",
+    "title": "SF First Thursday Art Walk (Tenderloin + Lower Nob Hill)",
+    "start": "2027-01-07T18:00:00-08:00",
+    "end": "2027-01-07T21:00:00-08:00",
+    "venue": "Galleries across the Tenderloin + Lower Nob Hill",
+    "address": "Tenderloin, San Francisco, CA",
+    "url": "https://tlcbd.org/event/sf-first-thursday-art-walks/2027-01-07/",
+    "source": "listing:tlcbd",
+    "tags": [
+      "art",
+      "community"
+    ],
+    "price": "Free",
+    "description": "A monthly self-guided evening of open galleries, artist-run spaces and local businesses across the Tenderloin and Lower Nob Hill. It's free and easy to drop in and out of.",
+    "neighbourhood": "Tenderloin",
+    "cycle_minutes": 8,
+    "added": "2026-11-11"
+  },
+  {
     "title": "The Loved Ones: Latest Hits record release, with The Vesuvians",
     "start": "2027-01-07T20:00:00-08:00",
     "end": null,
@@ -6604,6 +6622,25 @@
     "added": "2026-11-09"
   },
   {
+    "id": "immersion-colin-newman-of-wire-malka-spigel-at-gray-area-42bf09ff",
+    "title": "Immersion (Colin Newman of Wire + Malka Spigel) at Gray Area",
+    "start": "2027-01-14T19:30:00-08:00",
+    "end": null,
+    "venue": "Gray Area (Grand Theater)",
+    "address": "2665 Mission St, San Francisco, CA 94110",
+    "url": "https://grayarea.org/event/immersion-malka-spigel-and-colin-newman/",
+    "source": "venue:gray-area",
+    "tags": [
+      "music",
+      "art"
+    ],
+    "price": "$23.60 early bird / $35.40 GA (incl. fees)",
+    "description": "Electronic duo Immersion, made up of Wire's Colin Newman and Minimal Compact's Malka Spigel, play the Mission's restored Grand Theater art-and-tech space.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 15,
+    "added": "2026-11-11"
+  },
+  {
     "title": "LSD and the Search for God with Cryogeyser",
     "start": "2027-01-14T20:00:00-08:00",
     "end": null,
@@ -6658,6 +6695,24 @@
     "cycle_minutes": 9,
     "added": "2026-10-30",
     "id": "the-16th-annual-bowie-bash-ee5e1ce5"
+  },
+  {
+    "id": "ybca-world-of-black-film-burning-an-illusion-free-sf-art-wee-f77931e2",
+    "title": "YBCA World of Black Film: Burning an Illusion (free, SF Art Week)",
+    "start": "2027-01-16T14:00:00-08:00",
+    "end": null,
+    "venue": "YBCA Screening Room",
+    "address": "701 Mission St, San Francisco, CA 94103",
+    "url": "https://ybca.org/event/burning-an-illusion-world-of-black-film-1-16-27/",
+    "source": "venue:ybca",
+    "tags": [
+      "film"
+    ],
+    "price": "Free (RSVP)",
+    "description": "A free screening of Menelik Shabazz's 1981 London-set drama about a young Black woman's political awakening. It's part of Ashley Clark's curated series, with snacks and gallery entry included.",
+    "neighbourhood": "SoMa",
+    "cycle_minutes": 3,
+    "added": "2026-11-11"
   },
   {
     "title": "Social & Economic Justice Music and the Arts Festival: evening concert",
@@ -6923,6 +6978,24 @@
     "id": "milonga-malevaje-thursday-tango-at-the-verdi-club-0d8989dc"
   },
   {
+    "id": "trestles-santa-cruz-surf-psych-at-cafe-du-nord-9a6a804c",
+    "title": "Trestles (Santa Cruz surf-psych) at Cafe du Nord",
+    "start": "2027-01-21T20:00:00-08:00",
+    "end": null,
+    "venue": "Cafe du Nord",
+    "address": "2174 Market St (downstairs), San Francisco, CA 94114",
+    "url": "https://cafedunord.com/shows/2027-01-21-trestles",
+    "source": "venue:cafe-du-nord",
+    "tags": [
+      "music"
+    ],
+    "price": "$28.30",
+    "description": "Santa Cruz surf/psych/garage band steeped in 1960s West Coast sounds, in the basement room under the Swedish American Hall. Doors 7pm, show 8pm, all ages.",
+    "neighbourhood": "Upper Market",
+    "cycle_minutes": 15,
+    "added": "2026-11-11"
+  },
+  {
     "title": "Eliane Elias Quartet: Antônio Carlos Jobim Centennial Celebration",
     "start": "2027-01-22T19:30:00-08:00",
     "end": null,
@@ -7145,6 +7218,26 @@
     "id": "woodchopper-s-ball-live-band-swing-night-c9c122f3"
   },
   {
+    "id": "pollinated-magic-theatre-salon-cross-disciplinary-conversati-fff8bd17",
+    "title": "Pollinated: Magic Theatre salon (cross-disciplinary conversation)",
+    "start": "2027-01-27T19:00:00-08:00",
+    "end": "2027-01-27T21:30:00-08:00",
+    "venue": "Magic Theatre (exact venue on ticket)",
+    "address": null,
+    "url": "https://magictheatre.org/calendar/pollinated",
+    "source": "venue:magic-theatre",
+    "tags": [
+      "talk",
+      "theatre",
+      "community"
+    ],
+    "price": "$65",
+    "description": "A new monthly salon for 75–100 guests with cocktails, a short live artistic piece and a conversation among four or five people from very different fields. It's built for mingling across disciplines. Venue is listed only as Magic Theatre, so check the ticket for the exact location.",
+    "neighbourhood": "Marina",
+    "cycle_minutes": 22,
+    "added": "2026-11-11"
+  },
+  {
     "title": "Jon Bryant",
     "start": "2027-01-27T20:00:00-08:00",
     "end": null,
@@ -7200,6 +7293,24 @@
     "id": "milonga-malevaje-thursday-tango-at-the-verdi-club-674a950c"
   },
   {
+    "id": "city-of-the-sun-with-valley-wolf-f34524f2",
+    "title": "City of the Sun with Valley Wolf",
+    "start": "2027-01-28T20:00:00-08:00",
+    "end": null,
+    "venue": "The Independent",
+    "address": "628 Divisadero St, San Francisco, CA 94117",
+    "url": "https://www.theindependentsf.com/tm-event/city-of-the-sun-2/",
+    "source": "venue:the-independent",
+    "tags": [
+      "music"
+    ],
+    "price": null,
+    "description": "NYC instrumental guitar band City of the Sun play cinematic, surf and desert-rock songs from their Phil Ek-produced album Under the Moon. Modesto Latin-psych band Valley Wolf open. The show was rescheduled from Oct 21.",
+    "neighbourhood": "NoPa",
+    "cycle_minutes": 18,
+    "added": "2026-11-11"
+  },
+  {
     "title": "Bachata Lab: Friday bachata classes (3 levels) + social",
     "start": "2027-01-29T20:00:00-08:00",
     "end": "2027-01-30T01:00:00-08:00",
@@ -7253,6 +7364,44 @@
     "cycle_minutes": 17,
     "added": "2026-10-30",
     "id": "stamptown-at-sf-sketchfest-2027-hosted-by-zach-zucker-d1eb5d78"
+  },
+  {
+    "id": "the-arcadian-wild-make-it-out-alive-tour-8ece3ae0",
+    "title": "The Arcadian Wild: Make It Out Alive Tour",
+    "start": "2027-01-30T21:00:00-08:00",
+    "end": null,
+    "venue": "Swedish American Hall",
+    "address": "2174 Market St (upstairs), San Francisco, CA 94114",
+    "url": "https://cafedunord.com/shows/2027-01-30-the-arcadian-wild",
+    "source": "venue:cafe-du-nord",
+    "tags": [
+      "music"
+    ],
+    "price": "$33.45",
+    "description": "Nashville indie-folk trio with close harmonies and acoustic strings, in the wood-panelled upstairs hall. Doors 8pm, show 9pm, 21+.",
+    "neighbourhood": "Upper Market",
+    "cycle_minutes": 14,
+    "added": "2026-11-11"
+  },
+  {
+    "id": "vietnamese-new-year-t-t-street-festival-in-little-saigon-46343fa6",
+    "title": "Vietnamese New Year (Tết) Street Festival in Little Saigon",
+    "start": "2027-01-31T08:00:00-08:00",
+    "end": "2027-01-31T17:00:00-08:00",
+    "venue": "Little Saigon (607 Larkin St)",
+    "address": "607 Larkin St, San Francisco, CA 94109",
+    "url": "https://www.eventbrite.com/e/vietnamese-new-year-tet-festival-xuan-an-lanh-tickets-2003019614587",
+    "source": "aggregator:eventbrite",
+    "tags": [
+      "festival",
+      "food",
+      "community"
+    ],
+    "price": "Free",
+    "description": "The Southeast Asian Community Center's free Lunar New Year street festival, with lion dances, traditional music, an Áo Dài pageant and Vietnamese food stalls. It runs a week before Lunar New Year (6 Feb).",
+    "neighbourhood": "Tenderloin",
+    "cycle_minutes": 8,
+    "added": "2026-11-11"
   },
   {
     "title": "Lindy in the Park: free swing dancing + beginner lesson",
@@ -7367,6 +7516,24 @@
     "id": "c-cile-mclorin-salvant-4edacc80"
   },
   {
+    "id": "ajj-at-great-american-music-hall-b9dcfb29",
+    "title": "AJJ at Great American Music Hall",
+    "start": "2027-02-04T20:00:00-08:00",
+    "end": null,
+    "venue": "Great American Music Hall",
+    "address": "859 O'Farrell St, San Francisco, CA 94109",
+    "url": "https://wl.seetickets.us/event/ajj/701175?afflky=GreatAmericanMusicHall",
+    "source": "venue:gamh",
+    "tags": [
+      "music"
+    ],
+    "price": "$29 adv / $33 door",
+    "description": "Phoenix folk-punk band AJJ (formerly Andrew Jackson Jihad) bring their wry, literate songs to SF's ornate 1907 music hall. Doors 7pm, show 8pm, all ages.",
+    "neighbourhood": "Tenderloin",
+    "cycle_minutes": 9,
+    "added": "2026-11-11"
+  },
+  {
     "id": "bachata-lab-friday-bachata-classes-3-levels-social-a055d717",
     "title": "Bachata Lab: Friday bachata classes (3 levels) + social",
     "start": "2027-02-05T20:00:00-08:00",
@@ -7405,6 +7572,43 @@
     "added": "2026-11-10"
   },
   {
+    "id": "the-sways-arizona-folk-rock-trio-at-cafe-du-nord-f57734f5",
+    "title": "The Sways (Arizona folk-rock trio) at Cafe du Nord",
+    "start": "2027-02-06T20:00:00-08:00",
+    "end": null,
+    "venue": "Cafe du Nord",
+    "address": "2174 Market St (downstairs), San Francisco, CA 94114",
+    "url": "https://cafedunord.com/shows/2027-02-06-the-sways",
+    "source": "venue:cafe-du-nord",
+    "tags": [
+      "music"
+    ],
+    "price": "$28.30",
+    "description": "A rising indie folk-rock trio from the mountains of Northern Arizona, playing songs about friendship, fatherhood and everyday life in the basement room. Doors 7pm, show 8pm, 21+.",
+    "neighbourhood": "Upper Market",
+    "cycle_minutes": 15,
+    "added": "2026-11-11"
+  },
+  {
+    "id": "rent-at-san-francisco-playhouse-closing-night-55ece16e",
+    "title": "RENT at San Francisco Playhouse (closing night)",
+    "start": "2027-02-06T20:00:00-08:00",
+    "end": null,
+    "venue": "San Francisco Playhouse",
+    "address": "450 Post St, San Francisco, CA 94102",
+    "url": "https://sfplayhouse.org/2026-2027-season/rent/",
+    "source": "venue:sf-playhouse",
+    "tags": [
+      "theatre",
+      "music"
+    ],
+    "price": "$60-$145",
+    "description": "The final performance of Bill English's production of Jonathan Larson's rock musical about young artists in New York's East Village. The theatre calendar lists two performances on Feb 6, and Saturday evenings start at 8pm.",
+    "neighbourhood": "Union Square",
+    "cycle_minutes": 6,
+    "added": "2026-11-11"
+  },
+  {
     "title": "SF Salsa Social: beginner class + salsa & mambo dancing",
     "start": "2027-02-07T19:00:00-08:00",
     "end": null,
@@ -7424,6 +7628,82 @@
     "id": "sf-salsa-social-beginner-class-salsa-mambo-dancing-80acbaac"
   },
   {
+    "id": "wolf-parade-with-prairie-princess-5bebeab5",
+    "title": "Wolf Parade with Prairie Princess",
+    "start": "2027-02-07T19:00:00-08:00",
+    "end": null,
+    "venue": "Castro Theatre",
+    "address": "429 Castro St, San Francisco, CA 94114",
+    "url": "https://thecastro.com/events/wolf-parade",
+    "source": "venue:castro",
+    "tags": [
+      "music"
+    ],
+    "price": null,
+    "description": "The Montreal indie-rock band behind Apologies to the Queen Mary play the restored Castro Theatre. Doors 6pm, show 7pm, all ages. General sale opens Fri 13 Nov at 10am.",
+    "neighbourhood": "Castro",
+    "cycle_minutes": 17,
+    "added": "2026-11-11"
+  },
+  {
+    "id": "salsacrazy-mondays-salsa-lesson-salsa-bachata-dancing-fa90192e",
+    "title": "SalsaCrazy Mondays: salsa lesson + salsa/bachata dancing",
+    "start": "2027-02-08T18:30:00-08:00",
+    "end": "2027-02-08T23:30:00-08:00",
+    "venue": "Neck of the Woods",
+    "address": "406 Clement St, San Francisco, CA 94118",
+    "url": "https://www.eventbrite.com/e/salsa-dance-classes-and-salsa-and-bachata-dancing-salsacrazy-mondays-tickets-1981014390369",
+    "source": "aggregator:eventbrite",
+    "tags": [
+      "dance",
+      "class"
+    ],
+    "price": "$10-$40",
+    "description": "A weekly Monday salsa night on Clement St: a beginner lesson with no partner needed, then social salsa and bachata dancing.",
+    "neighbourhood": "Inner Richmond",
+    "cycle_minutes": 27,
+    "added": "2026-11-11"
+  },
+  {
+    "id": "national-theatre-live-hay-fever-christine-baranski-richard-e-ae5973f0",
+    "title": "National Theatre Live: Hay Fever (Christine Baranski, Richard E. Grant)",
+    "start": "2027-02-08T19:00:00-08:00",
+    "end": "2027-02-08T21:15:00-08:00",
+    "venue": "Vogue Theatre",
+    "address": "3290 Sacramento St, San Francisco, CA 94115",
+    "url": "https://www.voguemovies.com/calendar-of-events/national-theatre-live-hay-fever-february-8",
+    "source": "venue:vogue",
+    "tags": [
+      "theatre",
+      "film"
+    ],
+    "price": null,
+    "description": "A screening of the West End production of Noël Coward's comedy, filmed live, with Christine Baranski and Richard E. Grant. It plays in a 1910 neighbourhood cinema.",
+    "neighbourhood": "Presidio Heights",
+    "cycle_minutes": 25,
+    "added": "2026-11-11"
+  },
+  {
+    "id": "andrea-gibson-s-love-letter-from-the-afterlife-film-live-orc-24ca2485",
+    "title": "Andrea Gibson's Love Letter From The Afterlife (film + live orchestra)",
+    "start": "2027-02-09T19:30:00-08:00",
+    "end": null,
+    "venue": "Castro Theatre",
+    "address": "429 Castro St, San Francisco, CA 94114",
+    "url": "https://thecastro.com/events/andrea-gibson-270209",
+    "source": "venue:castro",
+    "tags": [
+      "film",
+      "music",
+      "talk"
+    ],
+    "price": null,
+    "description": "A screening of the late poet Andrea Gibson's final live performance, with the Goosebump Orchestra playing Blake Neely's score live, plus poet Megan Falley and guests. It comes from the team behind Come See Me in the Good Light. General sale opens Fri 13 Nov.",
+    "neighbourhood": "Castro",
+    "cycle_minutes": 17,
+    "added": "2026-11-11"
+  },
+  {
     "title": "Fat Tuesday Celebration with Rebirth Brass Band",
     "start": "2027-02-09T20:00:00-08:00",
     "end": null,
@@ -7441,6 +7721,43 @@
     "cycle_minutes": 13,
     "added": "2026-11-06",
     "id": "fat-tuesday-celebration-with-rebirth-brass-band-10712cbe"
+  },
+  {
+    "id": "trivia-night-at-manny-s-210ee1e4",
+    "title": "Trivia Night at Manny's",
+    "start": "2027-02-10T19:00:00-08:00",
+    "end": "2027-02-10T21:00:00-08:00",
+    "venue": "Manny's",
+    "address": "3092 16th St, San Francisco, CA 94103",
+    "url": "https://www.eventbrite.com/e/trivia-night-mannys-tickets-1996185926843",
+    "source": "venue:mannys",
+    "tags": [
+      "community"
+    ],
+    "price": "Free",
+    "description": "Monthly team trivia night with prizes at the Mission's civic-minded café and event space. Solo arrivals can easily join a team and meet people.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 13,
+    "added": "2026-11-11"
+  },
+  {
+    "id": "open-jazz-jam-at-the-lucky-horseshoe-f02b7747",
+    "title": "Open Jazz Jam at The Lucky Horseshoe",
+    "start": "2027-02-10T20:00:00-08:00",
+    "end": "2027-02-10T23:00:00-08:00",
+    "venue": "The Lucky Horseshoe",
+    "address": "453 Cortland Ave, San Francisco, CA 94110",
+    "url": "https://www.eventbrite.com/e/open-jazz-jam-the-shoe-tickets-1997613006276",
+    "source": "aggregator:eventbrite",
+    "tags": [
+      "music",
+      "community"
+    ],
+    "price": "Free",
+    "description": "A free open jazz jam in a Bernal Heights neighbourhood bar. Musicians sit in and everyone else listens over a drink.",
+    "neighbourhood": "Bernal Heights",
+    "cycle_minutes": 22,
+    "added": "2026-11-11"
   },
   {
     "title": "16th Annual Salsa Rueda Festival",
