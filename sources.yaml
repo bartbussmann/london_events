@@ -235,6 +235,7 @@ venues:
     url: https://www.thecitywaves.com/class-schedule
     tags: [dance]
     # ABADA Capoeira, 3221 22nd St; dated sessions via Momence (host 13432), ~2 weeks ahead; $35 drop-in
+    # public API: https://api.momence.com/host-plugins/host/13432/host-schedule/sessions?fromDate=...&toDate=...&pageSize=100&page=0
   - name: Cat's Corner — Wednesday swing (9pm lesson + live band)
     url: https://www.catscornersf.com/
     tags: [dance, music]
@@ -422,6 +423,29 @@ listings:
   - name: SpeedCalifornia speed dating (age-banded; check bracket includes 31)
     url: "https://www.eventbrite.com/api/v3/organizers/41187074383/events/?status=live&order_by=start_asc&expand=venue"
     tags: [community]
+
+  - name: Jigsaw Dating (age-banded singles trivia/happy hours; check bracket includes 31)
+    url: "https://www.eventbrite.com/api/v3/organizers/55647876343/events/?status=live&order_by=start_asc&expand=venue"
+    tags: [community]
+  - name: Bay Area Speed Dating, Mixers & Matchmaking (ERIA Marina, 25-39)
+    url: "https://www.eventbrite.com/api/v3/organizers/45664146033/events/?status=live&order_by=start_asc&expand=venue"
+    tags: [community]
+  - name: Singles Mingle (free 21+ mixers)
+    url: "https://www.eventbrite.com/api/v3/organizers/78148938893/events/?status=live&order_by=start_asc&expand=venue"
+    tags: [community]
+  - name: Cityswoon SF (dates + age bands)
+    url: https://cityswoon.com/speed-dating-sanfrancisco.jsp
+    tags: [community]
+  - name: The Living Room on 9th — Mindful Tuesdays (embodiment intros, Inner Sunset)
+    url: "https://www.eventbrite.com/api/v3/organizers/121951895162/events/?status=live&order_by=start_asc&expand=venue"
+    tags: [workshop, community]
+  - name: Death and Taxes Swing Band (swing dances)
+    url: "https://www.eventbrite.com/api/v3/organizers/72297765393/events/?status=live&order_by=start_asc&expand=venue"
+    tags: [dance, music]
+  - name: Mission City Swing — West Coast Swing Wednesdays (2460 Sutter St)
+    url: https://www.missioncityswing.com/
+    tags: [dance]
+    # rate-limits (429); no dated schedule seen yet
 
 keywords:
   - "contact improvisation jam San Francisco"

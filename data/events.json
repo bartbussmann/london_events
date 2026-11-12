@@ -2171,6 +2171,24 @@
     "added": "2026-11-07"
   },
   {
+    "id": "5rhythms-sweat-your-prayers-with-majica-alba-sunday-morning--0c505c93",
+    "title": "5Rhythms Sweat Your Prayers with Majica Alba (Sunday morning wave)",
+    "start": "2026-11-22T09:00:00-08:00",
+    "end": "2026-11-22T10:45:00-08:00",
+    "venue": "ABADA-Capoeira San Francisco",
+    "address": "3221 22nd St, San Francisco, CA 94110",
+    "url": "https://momence.com/s/139444037",
+    "source": "venue:the-city-waves",
+    "tags": [
+      "dance"
+    ],
+    "price": "$35 drop-in",
+    "description": "The City Waves' Sunday-morning 5Rhythms wave, led this week by Majica Alba. It's a guided, no-steps moving meditation through the five rhythms, and no experience or partner is needed.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 15,
+    "added": "2026-11-12"
+  },
+  {
     "title": "MOVEMENT Ecstatic Dance SF // Boogiemeister",
     "start": "2026-11-22T10:00:00-08:00",
     "end": "2026-11-22T13:11:00-08:00",
@@ -3768,6 +3786,24 @@
     "id": "di-rosa-sf-julio-cesar-morales-artist-talk-shared-meal-2f310883"
   },
   {
+    "id": "singles-travel-trivia-night-ages-30-45-jigsaw-dating-0d0bc498",
+    "title": "Singles Travel Trivia Night (ages 30-45, Jigsaw Dating)",
+    "start": "2026-12-05T19:00:00-08:00",
+    "end": "2026-12-05T21:00:00-08:00",
+    "venue": "Azúcar Lounge",
+    "address": "299 9th St, San Francisco, CA 94103",
+    "url": "https://www.eventbrite.com/e/san-francisco-singles-event-travel-trivia-night-ages-30-45-tickets-2004419080427",
+    "source": "aggregator:eventbrite",
+    "tags": [
+      "community"
+    ],
+    "price": "$26.30",
+    "description": "A hosted singles mixer built around team travel trivia (four categories plus a bonus round), for ages 30-45. The activity gives you something to talk about from the start, which makes it easier to meet people than a plain mixer.",
+    "neighbourhood": "SoMa",
+    "cycle_minutes": 7,
+    "added": "2026-11-12"
+  },
+  {
     "title": "Sonny & His Rhinestone Sunsets, Kelly McFarling, Noelle & the Deserters",
     "start": "2026-12-05T20:30:00-08:00",
     "end": null,
@@ -3975,6 +4011,44 @@
     "added": "2026-11-08"
   },
   {
+    "id": "salsacrazy-mondays-salsa-lesson-salsa-bachata-dancing-2f40f48f",
+    "title": "SalsaCrazy Mondays: salsa lesson + salsa/bachata dancing",
+    "start": "2026-12-07T18:30:00-08:00",
+    "end": "2026-12-07T23:30:00-08:00",
+    "venue": "Neck of the Woods",
+    "address": "406 Clement St, San Francisco, CA 94118",
+    "url": "https://www.eventbrite.com/e/salsa-dance-classes-and-salsa-and-bachata-dancing-salsacrazy-mondays-tickets-1981014381342",
+    "source": "aggregator:eventbrite",
+    "tags": [
+      "dance",
+      "class"
+    ],
+    "price": "$10-$40",
+    "description": "SF's long-running Monday salsa night: beginner and intermediate lessons early in the evening, then salsa and bachata social dancing until late. Lots of people come solo, so it's an easy way to meet people.",
+    "neighbourhood": "Inner Richmond",
+    "cycle_minutes": 27,
+    "added": "2026-11-12"
+  },
+  {
+    "id": "figure-drawing-mondays-at-sin-miedo-gallery-sketchboard-69e2c45d",
+    "title": "Figure drawing Mondays at Sin Miedo Gallery (Sketchboard)",
+    "start": "2026-12-07T18:30:00-08:00",
+    "end": "2026-12-07T20:30:00-08:00",
+    "venue": "Sin Miedo Gallery",
+    "address": "2831 Mission St, San Francisco, CA 94110",
+    "url": "https://book.squareup.com/classes/uj53t4hfgkzllp/location/DYSM7QRDVFWX7/classes",
+    "source": "venue:sketchboard",
+    "tags": [
+      "art",
+      "class"
+    ],
+    "price": "$25",
+    "description": "Sketchboard Co.'s two-hour drop-in life drawing session with a live model in a Mission gallery. All levels are welcome; bring your own paper and pencils.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 16,
+    "added": "2026-11-12"
+  },
+  {
     "id": "contact-improvisation-class-jam-at-the-castro-room-6483d0f4",
     "title": "Contact Improvisation class + jam at The Castro Room",
     "start": "2026-12-07T19:45:00-08:00",
@@ -4028,6 +4102,25 @@
     "cycle_minutes": 5,
     "added": "2026-10-29",
     "id": "daniel-swain-2026-stephen-schneider-award-for-climate-scienc-b8d70b21"
+  },
+  {
+    "id": "mindful-tuesdays-discovering-authentic-movement-free-intro-e76fdf0e",
+    "title": "Mindful Tuesdays: Discovering Authentic Movement (free intro)",
+    "start": "2026-12-08T18:30:00-08:00",
+    "end": "2026-12-08T19:30:00-08:00",
+    "venue": "The Living Room on 9th",
+    "address": "1383 9th Ave, San Francisco, CA 94122",
+    "url": "https://www.eventbrite.com/e/mindful-tuesdays-embodied-mindfulness-discovering-authentic-movement-tickets-2004448052082",
+    "source": "aggregator:eventbrite",
+    "tags": [
+      "workshop",
+      "community"
+    ],
+    "price": "Free",
+    "description": "A small, one-hour introduction to Authentic Movement, an embodiment practice of listening to the body and moving from inner impulse, led by board-certified dance/movement therapist Forest Franken. No experience is needed, and you can take part seated if you like.",
+    "neighbourhood": "Inner Sunset",
+    "cycle_minutes": 28,
+    "added": "2026-11-12"
   },
   {
     "title": "D. Leah Steinberg on Clyde Stubblefield: Rhythms of the Funky Drummer",
@@ -4124,6 +4217,25 @@
     "id": "mud-frontier-film-screening-talkback-with-rael-san-fratello-71da395e"
   },
   {
+    "id": "cooking-class-handmade-pasta-101-cocusocial-ffa7e47c",
+    "title": "Cooking class: Handmade Pasta 101 (CocuSocial)",
+    "start": "2026-12-09T18:30:00-08:00",
+    "end": null,
+    "venue": "The Hotel Majestic",
+    "address": "1500 Sutter St, San Francisco, CA 94109",
+    "url": "https://www.cocusocial.com/newevent/San-Francisco_Handmade-Pasta-101_2026-Dec-9",
+    "source": "venue:cocusocial",
+    "tags": [
+      "class",
+      "food"
+    ],
+    "price": "$59",
+    "description": "A hands-on class where you mix, knead and roll tagliatelle from scratch while the chef makes a spring-green soubise sauce, then you eat what you made. Students work in small groups, and the class is 21+.",
+    "neighbourhood": "Cathedral Hill",
+    "cycle_minutes": 14,
+    "added": "2026-11-12"
+  },
+  {
     "id": "manny-s-trivia-night-71607dec",
     "title": "Manny's Trivia Night",
     "start": "2026-12-09T19:00:00-08:00",
@@ -4140,6 +4252,24 @@
     "neighbourhood": "Mission",
     "cycle_minutes": 13,
     "added": "2026-11-08"
+  },
+  {
+    "id": "merry-speed-dating-sf-ages-25-39-cc3d98a9",
+    "title": "Merry Speed Dating SF (ages 25-39)",
+    "start": "2026-12-09T19:00:00-08:00",
+    "end": "2026-12-09T21:00:00-08:00",
+    "venue": "ERIA Marina",
+    "address": "2300 Chestnut St, San Francisco, CA 94123",
+    "url": "https://www.eventbrite.com/e/merry-speed-dating-sf-singles-ages-25-39-tickets-2004689307684",
+    "source": "aggregator:eventbrite",
+    "tags": [
+      "community"
+    ],
+    "price": "$28.52-$33.85",
+    "description": "A holiday-themed hosted speed-dating night for singles aged 25-39, with 5-7 minute dates after a mingle from 6:45pm. Wearing red or green is optional.",
+    "neighbourhood": "Marina",
+    "cycle_minutes": 24,
+    "added": "2026-11-12"
   },
   {
     "title": "San Francisco Wednesday Contra Dance (beginner lesson 7:30)",
@@ -4177,6 +4307,25 @@
     "neighbourhood": "NoPa",
     "cycle_minutes": 18,
     "added": "2026-11-08"
+  },
+  {
+    "id": "cat-s-corner-wednesday-swing-dance-with-the-alpha-rhythm-kin-0cdcf4a9",
+    "title": "Cat's Corner: Wednesday swing dance with the Alpha Rhythm Kings",
+    "start": "2026-12-09T21:00:00-08:00",
+    "end": "2026-12-09T23:30:00-08:00",
+    "venue": "Mabuhay Gardens (Cat's Corner)",
+    "address": "435 Broadway, San Francisco, CA 94133",
+    "url": "https://www.catscornersf.com/",
+    "source": "venue:cats-corner",
+    "tags": [
+      "dance",
+      "music"
+    ],
+    "price": "$15 (incl. 9pm drop-in lesson; $10 before 8:30pm)",
+    "description": "SF's Wednesday swing and Lindy Hop party, with a beginner drop-in lesson at 9pm and then live music from the Alpha Rhythm Kings until 11:30pm. No partner needed.",
+    "neighbourhood": "North Beach",
+    "cycle_minutes": 9,
+    "added": "2026-11-12"
   },
   {
     "title": "Exploratorium After Dark: Unplug and Play",
@@ -4368,6 +4517,25 @@
     "id": "lucius-4560896c"
   },
   {
+    "id": "bachata-lab-friday-bachata-classes-3-levels-social-2726f086",
+    "title": "Bachata Lab: Friday bachata classes (3 levels) + social",
+    "start": "2026-12-11T20:00:00-08:00",
+    "end": "2026-12-12T01:00:00-08:00",
+    "venue": "Bachata Lab",
+    "address": "1830 17th St, San Francisco, CA 94103",
+    "url": "https://www.eventbrite.com/e/bachata-lab-tickets-1543049014139",
+    "source": "aggregator:eventbrite",
+    "tags": [
+      "dance",
+      "class"
+    ],
+    "price": "from $15",
+    "description": "Friday-night bachata: classes at three levels, including a true beginner class, then a social dance until 1am. Partners rotate, so you can come solo.",
+    "neighbourhood": "Potrero Hill",
+    "cycle_minutes": 11,
+    "added": "2026-11-12"
+  },
+  {
     "title": "Pop-Ups on the Plaza: Black Holiday Market at the Ferry Building",
     "start": "2026-12-12T09:00:00-08:00",
     "end": "2026-12-12T14:00:00-08:00",
@@ -4406,6 +4574,24 @@
     "added": "2026-11-02",
     "id": "bay-area-winter-solstice-2026-rationalist-community-5190812b",
     "cycle_minutes": null
+  },
+  {
+    "id": "singles-mingle-at-house-of-shields-free-21-5e9be1e7",
+    "title": "Singles Mingle at House of Shields (free, 21+)",
+    "start": "2026-12-12T19:00:00-08:00",
+    "end": "2026-12-12T22:00:00-08:00",
+    "venue": "House of Shields",
+    "address": "39 New Montgomery St, San Francisco, CA 94105",
+    "url": "https://www.eventbrite.com/e/singles-mingle-house-of-shields-in-sf-21-free-entry-tickets-2004568937654",
+    "source": "aggregator:eventbrite",
+    "tags": [
+      "community"
+    ],
+    "price": "Free",
+    "description": "A free singles mixer (not speed dating) in a 1908 bar with no TVs or clocks, with wristbands for singles and icebreaker games. The minimum age is 21 and the host says crowds are mostly 30-65. It's a 4-minute walk from home.",
+    "neighbourhood": "SoMa",
+    "cycle_minutes": 4,
+    "added": "2026-11-12"
   },
   {
     "title": "San Francisco English Country Dance (2nd Saturday)",
@@ -4819,6 +5005,24 @@
     "added": "2026-11-09"
   },
   {
+    "id": "cityswoon-speed-dating-2-0-in-the-mission-ages-30-45-f52e74de",
+    "title": "Cityswoon Speed Dating 2.0 in the Mission (ages 30-45)",
+    "start": "2026-12-16T19:00:00-08:00",
+    "end": "2026-12-16T21:00:00-08:00",
+    "venue": "Elixir",
+    "address": "3200 16th St, San Francisco, CA 94103",
+    "url": "https://cityswoon.com/speed-dating-san-francisco-elixir-bar-9231",
+    "source": "aggregator:cityswoon",
+    "tags": [
+      "community"
+    ],
+    "price": "$39",
+    "description": "Cityswoon's app-matched speed dating for ages 30-45: about eight mini-dates picked for you live, then a mingle afterwards, in one of SF's oldest saloons. The listing says it's nearly sold out.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 12,
+    "added": "2026-11-12"
+  },
+  {
     "title": "Pokey LaFarge with Cicada Rhythm",
     "start": "2026-12-16T20:00:00-08:00",
     "end": null,
@@ -5172,6 +5376,25 @@
     "id": "green-exercise-ocean-hike-lands-end-coastal-trail-meetup-gro-0fb9b294"
   },
   {
+    "id": "contact-improvisation-class-with-dai-wei-at-odc-826050b6",
+    "title": "Contact Improvisation class with Dai & Wei at ODC",
+    "start": "2026-12-20T13:15:00-08:00",
+    "end": "2026-12-20T15:00:00-08:00",
+    "venue": "ODC Dance Commons",
+    "address": "351 Shotwell St, San Francisco, CA 94110",
+    "url": "https://bay.dance/events/contact_improv/",
+    "source": "ics:bay.dance-contact-improv",
+    "tags": [
+      "dance",
+      "class"
+    ],
+    "price": null,
+    "description": "A weekly Sunday contact improvisation class taught by Daiane Lopes da Silva and Weidong Yang, covering weight-sharing, rolling and partnered improvised movement. Beginners are welcome.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 13,
+    "added": "2026-11-12"
+  },
+  {
     "title": "Kitka: Wintersongs, Comfort & Joy",
     "start": "2026-12-20T16:00:00-08:00",
     "end": "2026-12-20T18:00:00-08:00",
@@ -5188,6 +5411,25 @@
     "cycle_minutes": 15,
     "added": "2026-10-29",
     "id": "kitka-wintersongs-comfort-joy-b4a254c5"
+  },
+  {
+    "id": "mucha-salsa-social-free-beginner-class-cec59c5b",
+    "title": "Mucha Salsa+ social (free beginner class)",
+    "start": "2026-12-20T18:30:00-08:00",
+    "end": "2026-12-20T23:00:00-08:00",
+    "venue": "Verdi Club",
+    "address": "2424 Mariposa St, San Francisco, CA 94110",
+    "url": "https://www.verdiclub.net/events/mucha-salsa-5-2/2026-12-20/",
+    "source": "venue:verdi-club",
+    "tags": [
+      "dance",
+      "class"
+    ],
+    "price": "$15",
+    "description": "A not-for-profit salsa social: beginner and intermediate salsa classes 7-8pm are included, then social dancing to a DJ until 11:30pm on the Verdi Club's historic hardwood floor.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 13,
+    "added": "2026-11-12"
   },
   {
     "title": "A Chanticleer Christmas",
@@ -5447,6 +5689,25 @@
     "added": "2026-11-09"
   },
   {
+    "id": "sf-city-guides-free-walking-tour-gardens-in-the-sky-salesfor-48a267b2",
+    "title": "SF City Guides free walking tour: Gardens in the Sky, Salesforce Transit Center (Christmas Eve)",
+    "start": "2026-12-24T11:00:00-08:00",
+    "end": "2026-12-24T13:00:00-08:00",
+    "venue": "Salesforce Plaza (meeting point)",
+    "address": "Mission St at Fremont St (SW corner, by the gondola), San Francisco, CA 94105",
+    "url": "https://www.sfcityguides.org/find-your-tour/?visit=2026-12-24",
+    "source": "listing:sf-city-guides",
+    "tags": [
+      "outdoors",
+      "community"
+    ],
+    "price": "Free (donations welcome)",
+    "description": "A volunteer-led walk through the Transit Center's Grand Hall, public art and the rooftop park's botanical gardens, with stories about one of SF's oldest neighbourhoods. It's on your doorstep, rain may cancel it, and you meet by the sky gondola.",
+    "neighbourhood": "SoMa",
+    "cycle_minutes": 2,
+    "added": "2026-11-12"
+  },
+  {
     "title": "Oakland Interfaith Gospel Choir: Christmas Eve (early show)",
     "start": "2026-12-24T19:00:00-08:00",
     "end": null,
@@ -5594,6 +5855,25 @@
     "cycle_minutes": 22,
     "added": "2026-11-04",
     "id": "the-board-walks-walk-talk-about-life-s-big-questions-ec695e7d"
+  },
+  {
+    "id": "sf-city-guides-free-walking-tour-mission-murals-de5f154e",
+    "title": "SF City Guides free walking tour: Mission Murals",
+    "start": "2026-12-26T10:00:00-08:00",
+    "end": "2026-12-26T12:00:00-08:00",
+    "venue": "Charlie's Deli Cafe (meeting point)",
+    "address": "3202 Folsom St at Precita Ave, San Francisco, CA 94110",
+    "url": "https://www.sfcityguides.org/find-your-tour/?visit=2026-12-26",
+    "source": "listing:sf-city-guides",
+    "tags": [
+      "art",
+      "outdoors"
+    ],
+    "price": "Free (donations welcome)",
+    "description": "A free guided walk from Precita Park to Balmy Alley, telling the stories behind the Mission's murals (immigration, gentrification, healing and more). It takes 1.5-2 hours and ends at 24th St.",
+    "neighbourhood": "Bernal Heights",
+    "cycle_minutes": 20,
+    "added": "2026-11-12"
   },
   {
     "title": "Bottom of the Hill holiday matinee: Top Secret Robot Alliance, Varona, Luke Sweeney, Matt Jaffe + more",
@@ -5818,6 +6098,25 @@
     "cycle_minutes": 13,
     "added": "2026-10-29",
     "id": "woodchopper-s-ball-live-band-swing-night-39d48e02"
+  },
+  {
+    "id": "figure-drawing-at-monument-sf-sketchboard-co-7be68a41",
+    "title": "Figure drawing at Monument SF (Sketchboard Co.)",
+    "start": "2026-12-30T18:30:00-08:00",
+    "end": "2026-12-30T20:30:00-08:00",
+    "venue": "Monument SF",
+    "address": "140 9th St, San Francisco, CA 94103",
+    "url": "https://book.squareup.com/classes/uj53t4hfgkzllp/location/DYSM7QRDVFWX7/classes",
+    "source": "venue:sketchboard",
+    "tags": [
+      "art",
+      "class"
+    ],
+    "price": "$25",
+    "description": "Sketchboard Co.'s Wednesday drop-in life drawing session with a live model at Monument in SoMa, running two hours with short and long poses. All levels are welcome.",
+    "neighbourhood": "SoMa",
+    "cycle_minutes": 8,
+    "added": "2026-11-12"
   },
   {
     "id": "alamo-drafthouse-when-harry-met-sally-8a65eabb",
@@ -6848,6 +7147,25 @@
     "id": "woodchopper-s-ball-live-band-swing-night-3f4a8bdd"
   },
   {
+    "id": "figure-drawing-at-monument-sf-sketchboard-co-99f5ec8c",
+    "title": "Figure drawing at Monument SF (Sketchboard Co.)",
+    "start": "2027-01-20T18:30:00-08:00",
+    "end": "2027-01-20T20:30:00-08:00",
+    "venue": "Monument SF",
+    "address": "140 9th St, San Francisco, CA 94103",
+    "url": "https://book.squareup.com/classes/uj53t4hfgkzllp/location/DYSM7QRDVFWX7/classes",
+    "source": "venue:sketchboard",
+    "tags": [
+      "art",
+      "class"
+    ],
+    "price": "$25",
+    "description": "Sketchboard Co.'s Wednesday drop-in life drawing session with a live model at Monument in SoMa, running two hours with short and long poses. All levels are welcome.",
+    "neighbourhood": "SoMa",
+    "cycle_minutes": 8,
+    "added": "2026-11-12"
+  },
+  {
     "title": "Berkeley Wednesday Contra Dance (The Flagstones)",
     "start": "2027-01-20T20:00:00-08:00",
     "end": "2027-01-20T22:30:00-08:00",
@@ -7723,6 +8041,25 @@
     "id": "milonga-malevaje-thursday-tango-at-the-verdi-club-991bf8af"
   },
   {
+    "id": "bachata-lab-friday-bachata-classes-3-levels-social-pre-valen-b6dbf057",
+    "title": "Bachata Lab: Friday bachata classes (3 levels) + social (pre-Valentine's)",
+    "start": "2027-02-12T20:00:00-08:00",
+    "end": "2027-02-13T01:00:00-08:00",
+    "venue": "Bachata Lab",
+    "address": "1830 17th St, San Francisco, CA 94103",
+    "url": "https://www.eventbrite.com/e/bachata-lab-tickets-1543049104409",
+    "source": "aggregator:eventbrite",
+    "tags": [
+      "dance",
+      "class"
+    ],
+    "price": "from $15",
+    "description": "Friday-night bachata on Valentine's weekend: classes at three levels, including a true beginner class, then a social dance until 1am. Partners rotate, so you can come solo.",
+    "neighbourhood": "Potrero Hill",
+    "cycle_minutes": 11,
+    "added": "2026-11-12"
+  },
+  {
     "title": "Lael Neale with Spacemoth (solo)",
     "start": "2027-02-12T20:30:00-08:00",
     "end": null,
@@ -7794,6 +8131,82 @@
     "cycle_minutes": 13,
     "added": "2026-11-06",
     "id": "hello-bachata-kizomba-sunday-valentine-s-day-4f204a71"
+  },
+  {
+    "id": "valentine-s-day-1940s-swing-dance-aboard-the-uss-hornet-deat-7f09cbde",
+    "title": "Valentine's Day 1940s Swing Dance aboard the USS Hornet (Death and Taxes Swing Band)",
+    "start": "2027-02-14T18:30:00-08:00",
+    "end": "2027-02-14T21:00:00-08:00",
+    "venue": "USS Hornet Sea, Air & Space Museum",
+    "address": "707 W Hornet Ave, Alameda, CA 94501",
+    "url": "https://www.eventbrite.com/e/valentines-day-swing-dance-on-the-historic-uss-hornet-tickets-1998489442721",
+    "source": "aggregator:eventbrite",
+    "tags": [
+      "dance",
+      "music"
+    ],
+    "price": "$30 advance / $35 door",
+    "description": "A 1940s Valentine's swing dance on a WWII aircraft carrier, with a short ship history talk, a 7pm beginner lesson and a big band until about 9pm, and the organisers say 'come as a couple or come to meet someone' (18+). It's in Alameda (East Bay), not reachable by BART: about 25 min by car or rideshare from SoMa through the Posey Tube, with free parking.",
+    "neighbourhood": "Alameda",
+    "cycle_minutes": null,
+    "added": "2026-11-12"
+  },
+  {
+    "id": "salsacrazy-mondays-on-presidents-day-salsa-lesson-salsa-bach-8ef75778",
+    "title": "SalsaCrazy Mondays on Presidents' Day: salsa lesson + salsa/bachata dancing",
+    "start": "2027-02-15T18:30:00-08:00",
+    "end": "2027-02-15T23:30:00-08:00",
+    "venue": "Neck of the Woods",
+    "address": "406 Clement St, San Francisco, CA 94118",
+    "url": "https://www.eventbrite.com/e/salsa-dance-classes-and-salsa-and-bachata-dancing-salsacrazy-mondays-tickets-1981014391372",
+    "source": "aggregator:eventbrite",
+    "tags": [
+      "dance",
+      "class"
+    ],
+    "price": "$10-$40",
+    "description": "The Monday salsa night on the Presidents' Day holiday: beginner and intermediate lessons early, then salsa and bachata social dancing until late. Many people come solo.",
+    "neighbourhood": "Inner Richmond",
+    "cycle_minutes": 27,
+    "added": "2026-11-12"
+  },
+  {
+    "id": "woodchopper-s-ball-live-band-swing-night-accec69f",
+    "title": "Woodchopper's Ball: live-band swing night",
+    "start": "2027-02-16T21:00:00-08:00",
+    "end": "2027-02-16T23:30:00-08:00",
+    "venue": "Verdi Club",
+    "address": "2424 Mariposa St, San Francisco, CA 94110",
+    "url": "https://www.verdiclub.net/events/the-woodchoppers-ball-42-3-2/2027-02-16/",
+    "source": "venue:verdi-club",
+    "tags": [
+      "dance",
+      "music"
+    ],
+    "price": "$20 cash ($10 students)",
+    "description": "The weekly Tuesday live-band swing dance at the historic Verdi Club, with a different band each week (not yet announced). The drop-in beginner lesson at 9pm is included and no partner is needed.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 13,
+    "added": "2026-11-12"
+  },
+  {
+    "id": "figure-drawing-at-monument-sf-sketchboard-co-9d2a8547",
+    "title": "Figure drawing at Monument SF (Sketchboard Co.)",
+    "start": "2027-02-17T18:30:00-08:00",
+    "end": "2027-02-17T20:30:00-08:00",
+    "venue": "Monument SF",
+    "address": "140 9th St, San Francisco, CA 94103",
+    "url": "https://book.squareup.com/classes/uj53t4hfgkzllp/location/DYSM7QRDVFWX7/classes",
+    "source": "venue:sketchboard",
+    "tags": [
+      "art",
+      "class"
+    ],
+    "price": "$25",
+    "description": "Sketchboard Co.'s Wednesday drop-in life drawing session with a live model at Monument in SoMa, running two hours with short and long poses. All levels are welcome.",
+    "neighbourhood": "SoMa",
+    "cycle_minutes": 8,
+    "added": "2026-11-12"
   },
   {
     "title": "Jess Williamson with Andrew Sa (Noise Pop 2027)",
@@ -7888,6 +8301,25 @@
     "cycle_minutes": 14,
     "added": "2026-11-06",
     "id": "cut-worms-solo-noise-pop-2027-61ac35ee"
+  },
+  {
+    "id": "drop-in-circling-workshop-berkeley-5a4289c1",
+    "title": "Drop-In Circling Workshop (Berkeley)",
+    "start": "2027-02-23T19:00:00-08:00",
+    "end": "2027-02-23T22:00:00-08:00",
+    "venue": "Animal Rights Center",
+    "address": "2414 6th St, Berkeley, CA 94710",
+    "url": "https://www.tickettailor.com/events/thecirclinginsitute/2486231",
+    "source": "listing:circling-institute",
+    "tags": [
+      "workshop",
+      "community"
+    ],
+    "price": "$15-$30",
+    "description": "The Circling Institute's in-person drop-in evening of the Original Circling approach and authentic relating, a guided practice in presence and connection with strangers. Advance registration is required and the last one sold out a week ahead; doors close at 7:10pm. East Bay: BART to Downtown Berkeley (~25 min), then bus or bike to West Berkeley.",
+    "neighbourhood": "Berkeley",
+    "cycle_minutes": null,
+    "added": "2026-11-12"
   },
   {
     "title": "Sylvie",
