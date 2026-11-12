@@ -1,99 +1,5 @@
 [
   {
-    "title": "The Future of Public Media: PBS CEO Paula Kerger with KQED CEO Michael Isip",
-    "start": "2026-11-09T18:00:00-08:00",
-    "end": null,
-    "venue": "Commonwealth Club World Affairs",
-    "address": "110 The Embarcadero, San Francisco, CA 94105",
-    "url": "https://www.commonwealthclub.org/events/2026-11-09/future-public-media-paula-kerger-and-michael-isip",
-    "source": "venue:commonwealth-club",
-    "tags": [
-      "talk"
-    ],
-    "price": "$25 (online $10)",
-    "description": "PBS's chief executive and KQED's CEO on how public broadcasting survives fragmented media, streaming and federal funding fights. It's co-presented with KQED Live and you can ask questions afterwards.",
-    "neighbourhood": "Embarcadero",
-    "cycle_minutes": 5,
-    "added": "2026-10-29",
-    "id": "the-future-of-public-media-pbs-ceo-paula-kerger-with-kqed-ce-bfa6fe0c"
-  },
-  {
-    "title": "Figure drawing Mondays at Sin Miedo Gallery (Sketchboard)",
-    "start": "2026-11-09T18:30:00-08:00",
-    "end": "2026-11-09T20:30:00-08:00",
-    "venue": "Sin Miedo Gallery",
-    "address": "2831 Mission St, San Francisco, CA 94110",
-    "url": "https://book.squareup.com/classes/uj53t4hfgkzllp/location/DYSM7QRDVFWX7/classes",
-    "source": "venue:sketchboard",
-    "tags": [
-      "art",
-      "class"
-    ],
-    "price": "$25",
-    "description": "A drop-in life drawing session from Sketchboard Co. (the people behind the Wednesday Monument nights) at their new Mission gallery near 24th St. Bring your own supplies.",
-    "neighbourhood": "Mission",
-    "cycle_minutes": 16,
-    "added": "2026-10-31",
-    "id": "figure-drawing-mondays-at-sin-miedo-gallery-sketchboard-4ee8e5d8"
-  },
-  {
-    "title": "ZYZZYVA Issue 133 celebration",
-    "start": "2026-11-09T19:00:00-08:00",
-    "end": "2026-11-09T20:30:00-08:00",
-    "venue": "City Lights Booksellers",
-    "address": "261 Columbus Ave, San Francisco, CA 94133",
-    "url": "https://citylights.com/events/zyzzyva-issue-133-celebration/",
-    "source": "venue:city-lights",
-    "tags": [
-      "talk",
-      "art"
-    ],
-    "price": "Free",
-    "description": "The West Coast literary journal launches its new issue with editor Oscar Villalon as MC and readings from contributors, in City Lights' upstairs room. It's free, first come first served.",
-    "neighbourhood": "North Beach",
-    "cycle_minutes": 10,
-    "added": "2026-10-29",
-    "id": "zyzzyva-issue-133-celebration-9abb735e"
-  },
-  {
-    "title": "SF Playhouse free play reading: The Starters by Laura Winters",
-    "start": "2026-11-09T19:00:00-08:00",
-    "end": null,
-    "venue": "San Francisco Playhouse",
-    "address": "450 Post St, San Francisco, CA 94102",
-    "url": "https://sfplayhouse.org/play-reading-the-starters/",
-    "source": "venue:sf-playhouse",
-    "tags": [
-      "theatre",
-      "community"
-    ],
-    "price": "Free",
-    "description": "Free staged reading of a new play on the Playhouse mainstage, potluck-style: bring a treat or a bottle to share. The lobby opens at 6pm. An easy way to meet SF's theatre crowd.",
-    "neighbourhood": "Union Square",
-    "cycle_minutes": 6,
-    "added": "2026-11-02",
-    "id": "sf-playhouse-free-play-reading-the-starters-by-laura-winters-4ffdab3c"
-  },
-  {
-    "id": "ics-fa215336840a",
-    "title": "Tripping Toward Recovery: Can Psychedelics Heal the Brain?",
-    "start": "2026-11-09T19:00:00-08:00",
-    "end": "2026-11-09T21:00:00-08:00",
-    "venue": "Planted SF",
-    "address": "473A Haight St, San Francisco, CA 94117",
-    "url": "https://luma.com/70r8uuoz",
-    "source": "ics:Big Brain Lectures - Bay Area",
-    "tags": [
-      "talk",
-      "community"
-    ],
-    "price": "~$27 (Luma)",
-    "description": "Big Brain lecture-in-a-bar on whether psychedelics can heal the brain — what the clinical trials actually show for depression, PTSD and addiction.",
-    "added": "2026-11-04",
-    "neighbourhood": "Lower Haight",
-    "cycle_minutes": 16
-  },
-  {
     "title": "Multi-City Live Theater in VR: Uncanny Alley (Ferryman Collective)",
     "start": "2026-11-10T18:00:00-08:00",
     "end": "2026-11-10T21:00:00-08:00",
@@ -1758,6 +1664,25 @@
     "cycle_minutes": 16,
     "added": "2026-11-01",
     "id": "jane-austen-reader-s-theatre-08e7d2f3"
+  },
+  {
+    "id": "ics-dc66a0b6b2ae",
+    "title": "How Children Learn from People: Child Development and Model Rearing",
+    "start": "2026-11-19T18:30:00-08:00",
+    "end": "2026-11-19T21:00:00-08:00",
+    "venue": "Mox",
+    "address": "1680 Mission St, San Francisco, CA 94103",
+    "url": "https://luma.com/lfjnp8x7",
+    "source": "ics:Mox",
+    "tags": [
+      "talk",
+      "tech"
+    ],
+    "price": "Free (register on Luma)",
+    "description": "Developmental psychologist Xi Jia Zhou introduces how infants learn through temperament, attachment and caregiver interaction, drawing on computational models of infant learning, then asks what child development might teach us about how AI models are 'raised'. Free talk and discussion at Mox.",
+    "added": "2026-11-12",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 13
   },
   {
     "title": "Micro To Macro: Microorganisms, Sound and Robots",

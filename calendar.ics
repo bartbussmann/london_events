@@ -5,79 +5,6 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:San Francisco Events
 X-WR-TIMEZONE:America/Los_Angeles
 BEGIN:VEVENT
-UID:the-future-of-public-media-pbs-ceo-paula-kerger-with-kqed-ce-bfa6fe0c@
- sf-events
-DTSTAMP:20261110T020000Z
-DTSTART:20261110T020000Z
-DTEND:20261110T040000Z
-SUMMARY:The Future of Public Media: PBS CEO Paula Kerger with KQED CEO Mic
- hael Isip
-DESCRIPTION:PBS's chief executive and KQED's CEO on how public broadcastin
- g survives fragmented media\, streaming and federal funding fights. It's 
- co-presented with KQED Live and you can ask questions afterwards.\nPrice:
-  $25 (online $10)\nhttps://www.commonwealthclub.org/events/2026-11-09/fut
- ure-public-media-paula-kerger-and-michael-isip
-URL:https://www.commonwealthclub.org/events/2026-11-09/future-public-media
- -paula-kerger-and-michael-isip
-LOCATION:Commonwealth Club World Affairs\, 110 The Embarcadero\, San Franc
- isco\, CA 94105
-END:VEVENT
-BEGIN:VEVENT
-UID:figure-drawing-mondays-at-sin-miedo-gallery-sketchboard-4ee8e5d8@sf-ev
- ents
-DTSTAMP:20261110T023000Z
-DTSTART:20261110T023000Z
-DTEND:20261110T043000Z
-SUMMARY:Figure drawing Mondays at Sin Miedo Gallery (Sketchboard)
-DESCRIPTION:A drop-in life drawing session from Sketchboard Co. (the peopl
- e behind the Wednesday Monument nights) at their new Mission gallery near
-  24th St. Bring your own supplies.\nPrice: $25\nhttps://book.squareup.com
- /classes/uj53t4hfgkzllp/location/DYSM7QRDVFWX7/classes
-URL:https://book.squareup.com/classes/uj53t4hfgkzllp/location/DYSM7QRDVFWX
- 7/classes
-LOCATION:Sin Miedo Gallery\, 2831 Mission St\, San Francisco\, CA 94110
-END:VEVENT
-BEGIN:VEVENT
-UID:zyzzyva-issue-133-celebration-9abb735e@sf-events
-DTSTAMP:20261110T030000Z
-DTSTART:20261110T030000Z
-DTEND:20261110T043000Z
-SUMMARY:ZYZZYVA Issue 133 celebration
-DESCRIPTION:The West Coast literary journal launches its new issue with ed
- itor Oscar Villalon as MC and readings from contributors\, in City Lights
- ' upstairs room. It's free\, first come first served.\nPrice: Free\nhttps
- ://citylights.com/events/zyzzyva-issue-133-celebration/
-URL:https://citylights.com/events/zyzzyva-issue-133-celebration/
-LOCATION:City Lights Booksellers\, 261 Columbus Ave\, San Francisco\, CA 9
- 4133
-END:VEVENT
-BEGIN:VEVENT
-UID:sf-playhouse-free-play-reading-the-starters-by-laura-winters-4ffdab3c@
- sf-events
-DTSTAMP:20261110T030000Z
-DTSTART:20261110T030000Z
-DTEND:20261110T050000Z
-SUMMARY:SF Playhouse free play reading: The Starters by Laura Winters
-DESCRIPTION:Free staged reading of a new play on the Playhouse mainstage\,
-  potluck-style: bring a treat or a bottle to share. The lobby opens at 6p
- m. An easy way to meet SF's theatre crowd.\nPrice: Free\nhttps://sfplayho
- use.org/play-reading-the-starters/
-URL:https://sfplayhouse.org/play-reading-the-starters/
-LOCATION:San Francisco Playhouse\, 450 Post St\, San Francisco\, CA 94102
-END:VEVENT
-BEGIN:VEVENT
-UID:ics-fa215336840a@sf-events
-DTSTAMP:20261110T030000Z
-DTSTART:20261110T030000Z
-DTEND:20261110T050000Z
-SUMMARY:Tripping Toward Recovery: Can Psychedelics Heal the Brain?
-DESCRIPTION:Big Brain lecture-in-a-bar on whether psychedelics can heal th
- e brain — what the clinical trials actually show for depression\, PTSD 
- and addiction.\nPrice: ~$27 (Luma)\nhttps://luma.com/70r8uuoz
-URL:https://luma.com/70r8uuoz
-LOCATION:Planted SF\, 473A Haight St\, San Francisco\, CA 94117
-END:VEVENT
-BEGIN:VEVENT
 UID:multi-city-live-theater-in-vr-uncanny-alley-ferryman-collect-9ed8d7e9@
  sf-events
 DTSTAMP:20261111T020000Z
@@ -1417,6 +1344,22 @@ DESCRIPTION:SOLD OUT (waitlist open on Luma). A lively live reading of Aus
  ma)\nhttps://luma.com/m6nt9s43
 URL:https://luma.com/m6nt9s43
 LOCATION:The Love Potion Library\, 284 Noe St\, San Francisco\, CA 94114
+END:VEVENT
+BEGIN:VEVENT
+UID:ics-dc66a0b6b2ae@sf-events
+DTSTAMP:20261120T023000Z
+DTSTART:20261120T023000Z
+DTEND:20261120T050000Z
+SUMMARY:How Children Learn from People: Child Development and Model Rearin
+ g
+DESCRIPTION:Developmental psychologist Xi Jia Zhou introduces how infants 
+ learn through temperament\, attachment and caregiver interaction\, drawin
+ g on computational models of infant learning\, then asks what child devel
+ opment might teach us about how AI models are 'raised'. Free talk and dis
+ cussion at Mox.\nPrice: Free (register on Luma)\nhttps://luma.com/lfjnp8x
+ 7
+URL:https://luma.com/lfjnp8x7
+LOCATION:Mox\, 1680 Mission St\, San Francisco\, CA 94103
 END:VEVENT
 BEGIN:VEVENT
 UID:micro-to-macro-microorganisms-sound-and-robots-07c39471@sf-events
