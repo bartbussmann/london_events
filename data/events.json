@@ -809,6 +809,43 @@
     "id": "the-secret-museum-by-lynne-kaufman-with-post-show-talkback-6cb230f6"
   },
   {
+    "id": "authentic-asian-dumplings-cooking-class-cocusocial-bc78b9d9",
+    "title": "Authentic Asian Dumplings cooking class (CocuSocial)",
+    "start": "2026-11-15T17:00:00-08:00",
+    "end": "2026-11-15T19:00:00-08:00",
+    "venue": "The Hotel Majestic",
+    "address": "1500 Sutter St, San Francisco, CA 94109",
+    "url": "https://www.cocusocial.com/newevent/San-Francisco_Authentic-Asian-Dumplings_2026-Nov-15",
+    "source": "venue:cocusocial",
+    "tags": [
+      "class",
+      "food"
+    ],
+    "price": "$59",
+    "description": "A two-hour hands-on class where you make, fold and cook dumplings from scratch in small groups with other students. It's 21+ and beginner-friendly, and drinks are sold at the hotel bar.",
+    "neighbourhood": "Cathedral Hill",
+    "cycle_minutes": 14,
+    "added": "2026-11-13"
+  },
+  {
+    "id": "bachata-in-north-beach-fall-bash-social-8c4b5808",
+    "title": "Bachata in North Beach: Fall Bash social",
+    "start": "2026-11-15T18:00:00-08:00",
+    "end": "2026-11-15T23:00:00-08:00",
+    "venue": "The Cigar Bar & Grill",
+    "address": "850 Montgomery St, San Francisco, CA 94133",
+    "url": "https://www.eventbrite.com/e/bachata-in-north-beach-fall-bash-tickets-2001042544116",
+    "source": "aggregator:eventbrite",
+    "tags": [
+      "dance"
+    ],
+    "price": "$18-$29",
+    "description": "The North Beach bachata social's annual Fall Bash, run by the Bachata Tuesday crew, doubling as an SBK pre-party. Five hours of partner dancing in North Beach.",
+    "neighbourhood": "Jackson Square",
+    "cycle_minutes": 8,
+    "added": "2026-11-13"
+  },
+  {
     "title": "Julie Beth Napolin (NYC psych-folk) with Bob Bannister, Aux Meadows, Danny Paul Grody",
     "start": "2026-11-15T18:30:00-08:00",
     "end": "2026-11-15T22:00:00-08:00",
@@ -898,6 +935,62 @@
     "cycle_minutes": 5,
     "added": "2026-10-26",
     "id": "ben-buchanan-superintelligence-superpowers-and-the-fate-of-t-c475682b"
+  },
+  {
+    "id": "inner-richmond-board-game-night-at-the-plough-and-stars-0b73938e",
+    "title": "Inner Richmond Board Game Night at the Plough and Stars",
+    "start": "2026-11-16T18:30:00-08:00",
+    "end": null,
+    "venue": "The Plough and Stars",
+    "address": "116 Clement St, San Francisco, CA 94118",
+    "url": "https://www.theploughandstars.com/",
+    "source": "venue:plough-and-stars",
+    "tags": [
+      "community"
+    ],
+    "price": null,
+    "description": "Gather & Game SF's 1st and 3rd Monday board-game night at SF's best-known Irish pub. Turn up, join a table and meet people over a pint.",
+    "neighbourhood": "Inner Richmond",
+    "cycle_minutes": 27,
+    "added": "2026-11-13"
+  },
+  {
+    "id": "salsacrazy-mondays-salsa-lesson-salsa-bachata-dancing-229c9121",
+    "title": "SalsaCrazy Mondays: salsa lesson + salsa/bachata dancing",
+    "start": "2026-11-16T18:30:00-08:00",
+    "end": "2026-11-16T23:30:00-08:00",
+    "venue": "Neck of the Woods",
+    "address": "406 Clement St, San Francisco, CA 94118",
+    "url": "https://www.eventbrite.com/e/salsa-dance-classes-and-salsa-and-bachata-dancing-salsacrazy-mondays-tickets-1981014378333",
+    "source": "aggregator:eventbrite",
+    "tags": [
+      "dance",
+      "class"
+    ],
+    "price": "$10-$50",
+    "description": "A weekly Monday night with a salsa class followed by a salsa and bachata social in an Inner Richmond club. It's an easy way to start partner dancing midweek.",
+    "neighbourhood": "Inner Richmond",
+    "cycle_minutes": 27,
+    "added": "2026-11-13"
+  },
+  {
+    "id": "wifi-controlled-lights-esp32-hello-world-circuit-hacking-mon-0bdaabcd",
+    "title": "WiFi-Controlled Lights: ESP32 Hello World (Circuit Hacking Monday at Noisebridge)",
+    "start": "2026-11-16T19:00:00-08:00",
+    "end": "2026-11-16T21:00:00-08:00",
+    "venue": "Noisebridge hackerspace",
+    "address": "272 Capp St, San Francisco, CA 94110",
+    "url": "https://www.meetup.com/noisebridge/events/317170679/",
+    "source": "aggregator:meetup",
+    "tags": [
+      "workshop",
+      "tech"
+    ],
+    "price": "Free",
+    "description": "A beginner-friendly Circuit Hacking Monday class: wire LEDs to an ESP32 microcontroller, write a simple program and build a web page to switch the lights from your phone. Components are provided and no experience is needed.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 13,
+    "added": "2026-11-13"
   },
   {
     "title": "Contact Improvisation class + jam at The Castro Room",
@@ -1233,6 +1326,44 @@
     "cycle_minutes": 20,
     "added": "2026-11-04",
     "id": "sfaa-lecture-southern-skies-global-reach-chile-and-modern-as-91cb66f5"
+  },
+  {
+    "id": "san-francisco-rationalist-dinner-d87865b4",
+    "title": "San Francisco Rationalist Dinner",
+    "start": "2026-11-18T19:00:00-08:00",
+    "end": "2026-11-18T22:00:00-08:00",
+    "venue": "Mediterranean Bowl",
+    "address": "2nd St, San Francisco, CA",
+    "url": "https://www.lesswrong.com/events/z3gejrgP6LRuFFRkP/san-francisco-rationalist-dinner-3",
+    "source": "listing:lesswrong",
+    "tags": [
+      "community",
+      "talk"
+    ],
+    "price": null,
+    "description": "An informal LessWrong community dinner where people discuss AI safety, recent blog posts and rationality topics, and first-timers are welcome. You pay for your own food at this restaurant on 2nd St in SoMa, a short walk from home.",
+    "neighbourhood": "SoMa",
+    "cycle_minutes": 3,
+    "added": "2026-11-13"
+  },
+  {
+    "id": "astronomy-on-tap-sf-lava-worlds-fast-radio-bursts-8f8d7755",
+    "title": "Astronomy on Tap SF: lava worlds + fast radio bursts",
+    "start": "2026-11-18T19:00:00-08:00",
+    "end": "2026-11-18T21:00:00-08:00",
+    "venue": "Public Works",
+    "address": "161 Erie St, San Francisco, CA 94103",
+    "url": "https://www.eventbrite.com/e/astronomy-on-tap-sf-november-2026-tickets-2004626231020",
+    "source": "aggregator:eventbrite",
+    "tags": [
+      "talk",
+      "tech"
+    ],
+    "price": "Free (1-drink minimum, $13)",
+    "description": "Short, laid-back astronomy talks in a bar: Stanford's Laura Schaefer on JWST and lava worlds, and Berkeley's Calvin Leung on finding missing matter with fast radio bursts. Q&A is relaxed.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 11,
+    "added": "2026-11-13"
   },
   {
     "title": "Jenny Tian: Ripe",
@@ -1591,6 +1722,25 @@
     "id": "salt-spirit-opera-parallele-world-premiere-at-z-space-98d8f7b4"
   },
   {
+    "id": "irish-set-dancing-with-the-yellowfoot-c-il-band-at-the-ploug-97aa8394",
+    "title": "Irish set dancing with the Yellowfoot Céilí Band at the Plough and Stars",
+    "start": "2026-11-19T20:30:00-08:00",
+    "end": "2026-11-19T22:30:00-08:00",
+    "venue": "The Plough and Stars",
+    "address": "116 Clement St, San Francisco, CA 94118",
+    "url": "https://www.theploughandstars.com/",
+    "source": "venue:plough-and-stars",
+    "tags": [
+      "dance",
+      "music"
+    ],
+    "price": null,
+    "description": "The Plough's Thursday Irish set-dancing night with a live céilí band. It's the closest SF gets to a London ceilidh night.",
+    "neighbourhood": "Inner Richmond",
+    "cycle_minutes": 27,
+    "added": "2026-11-13"
+  },
+  {
     "title": "Cannelle (Popscene)",
     "start": "2026-11-19T21:00:00-08:00",
     "end": "2026-11-19T23:45:00-08:00",
@@ -1909,6 +2059,43 @@
     "id": "bats-improv-intro-to-improv-with-diana-brown-single-session-4aa26e59"
   },
   {
+    "id": "live-band-karaoke-at-lighthaven-berkeley-31beb7e4",
+    "title": "Live Band Karaoke at Lighthaven (Berkeley)",
+    "start": "2026-11-21T17:00:00-08:00",
+    "end": "2026-11-22T01:00:00-08:00",
+    "venue": "Lighthaven",
+    "address": "Telegraph Ave, Berkeley, CA",
+    "url": "https://partiful.com/e/i27FFdFes4MrW8RJJkRt",
+    "source": "listing:lesswrong",
+    "tags": [
+      "music",
+      "community"
+    ],
+    "price": "~$10 suggested",
+    "description": "A rationalist-community favourite where you pick a song and a live band plays it while the lyrics go up for a crowd singalong, with a quieter acoustic indoor set from around 10:30pm. Take BART from Montgomery to Ashby (~20 min), then walk ~15 min; RSVP on Partiful.",
+    "neighbourhood": "Berkeley",
+    "cycle_minutes": null,
+    "added": "2026-11-13"
+  },
+  {
+    "id": "singles-mingle-at-zo-free-21-8791b914",
+    "title": "Singles Mingle at Zoë (free, 21+)",
+    "start": "2026-11-21T18:00:00-08:00",
+    "end": "2026-11-21T21:00:00-08:00",
+    "venue": "ZOË",
+    "address": "579 Howard St, San Francisco, CA 94105",
+    "url": "https://www.eventbrite.com/e/singles-mingle-zoes-bar-in-sf-21-free-entry-tickets-2004102162517",
+    "source": "aggregator:eventbrite",
+    "tags": [
+      "community"
+    ],
+    "price": "Free",
+    "description": "A free, mixed, 21+ in-person singles mixer from a group trying to get people off dating apps. The bar is a few minutes' walk from home.",
+    "neighbourhood": "SoMa",
+    "cycle_minutes": 3,
+    "added": "2026-11-13"
+  },
+  {
     "id": "bedazzling-night-at-the-love-potion-library-2ac7b04c",
     "title": "Bedazzling Night at The Love Potion Library",
     "start": "2026-11-21T19:00:00-08:00",
@@ -1926,6 +2113,25 @@
     "neighbourhood": "Castro",
     "cycle_minutes": 17,
     "added": "2026-11-07"
+  },
+  {
+    "id": "playtesting-pints-indie-game-night-77822295",
+    "title": "Playtesting & Pints: indie game night",
+    "start": "2026-11-21T19:00:00-08:00",
+    "end": "2026-11-21T23:00:00-08:00",
+    "venue": "The Detour",
+    "address": "2200A Market St, San Francisco, CA 94114",
+    "url": "https://luma.com/ec4nl23c",
+    "source": "aggregator:luma",
+    "tags": [
+      "tech",
+      "community"
+    ],
+    "price": "Free",
+    "description": "Play and give feedback on indie games in progress from local developers, over drinks at a Castro bar. A low-key, social way to meet the city's game-dev crowd.",
+    "neighbourhood": "Castro",
+    "cycle_minutes": 16,
+    "added": "2026-11-13"
   },
   {
     "title": "IT (1990) on VHS with director Tommy Lee Wallace in person",
@@ -2114,6 +2320,24 @@
     "cycle_minutes": 13,
     "added": "2026-11-06",
     "id": "flamenco-libre-matinee-21bab3c2"
+  },
+  {
+    "id": "we-bought-a-gun-sf-neo-futurists-closing-performance-686ab6d5",
+    "title": "We Bought A Gun! (SF Neo-Futurists, closing performance)",
+    "start": "2026-11-22T18:00:00-08:00",
+    "end": "2026-11-22T19:30:00-08:00",
+    "venue": "447 Minna St",
+    "address": "447 Minna St, San Francisco, CA 94103",
+    "url": "https://www.eventbrite.com/e/we-bought-a-gun-tickets-2002354020778",
+    "source": "venue:sf-neo-futurists",
+    "tags": [
+      "theatre"
+    ],
+    "price": "$34-$55",
+    "description": "A new full-length play from the SF Neo-Futurists about a Bay Area couple deciding to buy a gun, which breaks the fourth wall and draws the audience into the conversation. It runs about 80 minutes with no late entry.",
+    "neighbourhood": "SoMa",
+    "cycle_minutes": 5,
+    "added": "2026-11-13"
   },
   {
     "title": "Berkeley Fest Noz: Breton dance party with live band",
@@ -5911,6 +6135,24 @@
     "id": "woodchopper-s-ball-live-band-swing-night-39d48e02"
   },
   {
+    "id": "man-or-astro-man-with-the-subsonics-38beca91",
+    "title": "Man or Astro-man? with The Subsonics",
+    "start": "2026-12-29T21:00:00-08:00",
+    "end": null,
+    "venue": "Bottom of the Hill",
+    "address": "1233 17th St, San Francisco, CA",
+    "url": "http://www.bottomofthehill.com/20261229.html",
+    "source": "venue:bottomofthehill",
+    "tags": [
+      "music"
+    ],
+    "price": "$40 ($49.96 adv incl. fees)",
+    "description": "Space-age surf-rock cult heroes from Alabama play the small Potrero Hill room, with Atlanta garage-punk trio The Subsonics and DJ Sid Presley on surf and 60s records. Doors 8pm, music 9pm, all ages.",
+    "neighbourhood": "Potrero Hill",
+    "cycle_minutes": 12,
+    "added": "2026-11-13"
+  },
+  {
     "id": "figure-drawing-at-monument-sf-sketchboard-co-7be68a41",
     "title": "Figure drawing at Monument SF (Sketchboard Co.)",
     "start": "2026-12-30T18:30:00-08:00",
@@ -6921,6 +7163,25 @@
     "id": "drop-in-circling-workshop-berkeley-194034de"
   },
   {
+    "id": "critical-hit-board-game-comedy-showcase-sf-sketchfest-31c73baf",
+    "title": "Critical Hit: board-game comedy showcase (SF Sketchfest)",
+    "start": "2027-01-19T19:30:00-08:00",
+    "end": "2027-01-19T21:00:00-08:00",
+    "venue": "Eclectic Box",
+    "address": "446 Valencia St, San Francisco, CA 94103",
+    "url": "https://sfsketchfest2027.sched.com/event/de2e1595952739ea41fb7b739fefe4b1",
+    "source": "festival:sf-sketchfest",
+    "tags": [
+      "comedy",
+      "festival"
+    ],
+    "price": null,
+    "description": "Oakland's long-running stand-up showcase from a board-game shop brings local comics and a prize raffle to a small Valencia St room for Sketchfest. Tickets go on sale 15 Nov at 10am.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 12,
+    "added": "2026-11-13"
+  },
+  {
     "title": "True Widow",
     "start": "2027-01-19T20:00:00-08:00",
     "end": null,
@@ -6975,6 +7236,26 @@
     "neighbourhood": "SoMa",
     "cycle_minutes": 8,
     "added": "2026-11-12"
+  },
+  {
+    "id": "in-a-nutshell-storytelling-sf-sketchfest-95d7ad0b",
+    "title": "In a Nutshell Storytelling (SF Sketchfest)",
+    "start": "2027-01-20T19:30:00-08:00",
+    "end": "2027-01-20T21:00:00-08:00",
+    "venue": "Punch Line San Francisco",
+    "address": "444 Battery St, San Francisco, CA 94111",
+    "url": "https://sfsketchfest2027.sched.com/event/3b80cbc9dea843b79521f539b3626ffb",
+    "source": "festival:sf-sketchfest",
+    "tags": [
+      "comedy",
+      "theatre",
+      "festival"
+    ],
+    "price": null,
+    "description": "Sacramento's artist-run true-story night brings its open, community feel to the Punch Line during Sketchfest. Real people tell personal stories, and the hosts pitch it as being for anyone craving connection.",
+    "neighbourhood": "Financial District",
+    "cycle_minutes": 6,
+    "added": "2026-11-13"
   },
   {
     "title": "Berkeley Wednesday Contra Dance (The Flagstones)",
@@ -7253,6 +7534,25 @@
     "added": "2026-11-10"
   },
   {
+    "id": "am-i-the-a-hole-courtroom-comedy-show-sf-sketchfest-65b914d3",
+    "title": "Am I the A*Hole? Courtroom Comedy Show (SF Sketchfest)",
+    "start": "2027-01-26T19:30:00-08:00",
+    "end": "2027-01-26T21:00:00-08:00",
+    "venue": "Punch Line San Francisco",
+    "address": "444 Battery St, San Francisco, CA 94111",
+    "url": "https://sfsketchfest2027.sched.com/event/905e8386d77c6e485e58a198d7819be8",
+    "source": "festival:sf-sketchfest",
+    "tags": [
+      "comedy",
+      "festival"
+    ],
+    "price": null,
+    "description": "Comedians argue petty real-life disputes in a mock courtroom and the audience delivers the verdict. You can submit your own case before the show.",
+    "neighbourhood": "Financial District",
+    "cycle_minutes": 6,
+    "added": "2026-11-13"
+  },
+  {
     "title": "Woodchopper's Ball: live-band swing night",
     "start": "2027-01-26T21:00:00-08:00",
     "end": "2027-01-26T23:30:00-08:00",
@@ -7290,6 +7590,26 @@
     "neighbourhood": "Marina",
     "cycle_minutes": 22,
     "added": "2026-11-11"
+  },
+  {
+    "id": "the-bay-area-pun-off-sf-sketchfest-ad0c9afb",
+    "title": "The Bay Area Pun-Off (SF Sketchfest)",
+    "start": "2027-01-27T19:30:00-08:00",
+    "end": "2027-01-27T21:00:00-08:00",
+    "venue": "Cobb's Comedy Club",
+    "address": "915 Columbus Ave, San Francisco, CA 94133",
+    "url": "https://sfsketchfest2027.sched.com/event/da2c229001b5f8f9e555d983b04df495",
+    "source": "festival:sf-sketchfest",
+    "tags": [
+      "comedy",
+      "community",
+      "festival"
+    ],
+    "price": null,
+    "description": "A pun tournament with elimination rounds, now in its eleventh year after starting in an Oakland living room, hosted by a former O. Henry Pun-Off champion. It bills itself as one of the warmest, nerdiest comedy rooms in the city, and last year's opening night sold out.",
+    "neighbourhood": "North Beach",
+    "cycle_minutes": 12,
+    "added": "2026-11-13"
   },
   {
     "title": "Jon Bryant",
@@ -7402,6 +7722,26 @@
     "id": "ty-segall-27832b2f"
   },
   {
+    "id": "heart-throb-slasher-an-improvised-80s-horror-movie-with-lane-d298bbe6",
+    "title": "Heart-Throb Slasher: an improvised 80s horror movie with Lane Moore (SF Sketchfest)",
+    "start": "2027-01-30T16:00:00-08:00",
+    "end": "2027-01-30T17:30:00-08:00",
+    "venue": "The Lost Church",
+    "address": "988 Columbus Ave, San Francisco, CA 94133",
+    "url": "https://sfsketchfest2027.sched.com/event/d7aab31a9b3f8d5edad9a9460013753b",
+    "source": "festival:sf-sketchfest",
+    "tags": [
+      "comedy",
+      "theatre",
+      "festival"
+    ],
+    "price": null,
+    "description": "The Tinder Live creator runs a choose-your-own-adventure improvised 80s horror film, with the audience deciding who lives using 80s teen board games. Griffin Newman guests in this intimate North Beach listening room.",
+    "neighbourhood": "North Beach",
+    "cycle_minutes": 13,
+    "added": "2026-11-13"
+  },
+  {
     "title": "Stamptown at SF Sketchfest 2027, hosted by Zach Zucker",
     "start": "2027-01-30T19:00:00-08:00",
     "end": null,
@@ -7418,6 +7758,26 @@
     "cycle_minutes": 17,
     "added": "2026-10-30",
     "id": "stamptown-at-sf-sketchfest-2027-hosted-by-zach-zucker-d1eb5d78"
+  },
+  {
+    "id": "sketch-improv-showcase-emerging-teams-sf-sketchfest-21afad23",
+    "title": "Sketch & Improv Showcase: emerging teams (SF Sketchfest)",
+    "start": "2027-01-30T19:30:00-08:00",
+    "end": "2027-01-30T21:00:00-08:00",
+    "venue": "Eclectic Box",
+    "address": "446 Valencia St, San Francisco, CA 94103",
+    "url": "https://sfsketchfest2027.sched.com/event/c7e8b9af9cbb9da9b462458ed84462c6",
+    "source": "festival:sf-sketchfest",
+    "tags": [
+      "comedy",
+      "theatre",
+      "festival"
+    ],
+    "price": null,
+    "description": "Up-and-coming sketch and improv teams Ephemera (NY), Go Tech Yourself (SF), Hot Dog Tony (Greensboro) and Worlds Most Best (LA) share a small Mission stage. It's a cheap way into the festival and the work of new performers.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 12,
+    "added": "2026-11-13"
   },
   {
     "id": "the-arcadian-wild-make-it-out-alive-tour-8ece3ae0",
@@ -7475,6 +7835,26 @@
     "cycle_minutes": 30,
     "added": "2026-10-31",
     "id": "lindy-in-the-park-free-swing-dancing-beginner-lesson-1e26935e"
+  },
+  {
+    "id": "porchlight-storytelling-sketchfest-edition-3b0e5c44",
+    "title": "Porchlight storytelling: Sketchfest edition",
+    "start": "2027-01-31T19:00:00-08:00",
+    "end": "2027-01-31T20:30:00-08:00",
+    "venue": "Great American Music Hall",
+    "address": "859 O'Farrell St, San Francisco, CA 94109",
+    "url": "https://sfsketchfest2027.sched.com/event/d717b61f33f2dbc0cc206aa6d6507bac",
+    "source": "festival:sf-sketchfest",
+    "tags": [
+      "comedy",
+      "theatre",
+      "festival"
+    ],
+    "price": null,
+    "description": "SF's 23-year-old storytelling series, where six people tell ten-minute true stories without notes and Marc Capelle plays music. This edition features Joel Kim Booster, Guy Branum, River Butcher, Larry Mullins and Amy Schneider.",
+    "neighbourhood": "Tenderloin",
+    "cycle_minutes": 9,
+    "added": "2026-11-13"
   },
   {
     "id": "contact-improvisation-class-jam-at-the-castro-room-851fae3f",
@@ -7905,6 +8285,24 @@
     "cycle_minutes": 17,
     "added": "2026-11-06",
     "id": "richard-thompson-band-with-clayton-linthicum-and-quinn-bacha-fcb9ecbb"
+  },
+  {
+    "id": "michael-shannon-jason-narducy-and-friends-play-r-e-m-s-docum-d6633b23",
+    "title": "Michael Shannon & Jason Narducy and Friends play R.E.M.'s Document",
+    "start": "2027-02-13T20:00:00-08:00",
+    "end": null,
+    "venue": "The Fillmore",
+    "address": "1805 Geary Blvd, San Francisco, CA 94115",
+    "url": "https://www.ticketmaster.com/michael-shannon-jason-narducy-and-friends-san-francisco-california-02-13-2027/event/1C006538DE33C5BF",
+    "source": "venue:the-fillmore",
+    "tags": [
+      "music"
+    ],
+    "price": "$59+",
+    "description": "Actor Michael Shannon and musician Jason Narducy (longtime Bob Mould bassist) front a band playing R.E.M.'s 1987 album Document, at the historic Fillmore. This is the second of two nights.",
+    "neighbourhood": "Fillmore",
+    "cycle_minutes": 17,
+    "added": "2026-11-13"
   },
   {
     "title": "Lindy in the Park: free swing dancing + beginner lesson (Valentine's Day)",

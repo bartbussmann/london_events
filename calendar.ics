@@ -658,6 +658,36 @@ LOCATION:The Marsh San Francisco (Mainstage)\, 1062 Valencia St\, San Fran
  cisco\, CA 94110
 END:VEVENT
 BEGIN:VEVENT
+UID:authentic-asian-dumplings-cooking-class-cocusocial-bc78b9d9@sf-events
+DTSTAMP:20261116T010000Z
+DTSTART:20261116T010000Z
+DTEND:20261116T030000Z
+SUMMARY:Authentic Asian Dumplings cooking class (CocuSocial)
+DESCRIPTION:A two-hour hands-on class where you make\, fold and cook dumpl
+ ings from scratch in small groups with other students. It's 21+ and begin
+ ner-friendly\, and drinks are sold at the hotel bar.\nPrice: $59\nhttps:/
+ /www.cocusocial.com/newevent/San-Francisco_Authentic-Asian-Dumplings_2026
+ -Nov-15
+URL:https://www.cocusocial.com/newevent/San-Francisco_Authentic-Asian-Dump
+ lings_2026-Nov-15
+LOCATION:The Hotel Majestic\, 1500 Sutter St\, San Francisco\, CA 94109
+END:VEVENT
+BEGIN:VEVENT
+UID:bachata-in-north-beach-fall-bash-social-8c4b5808@sf-events
+DTSTAMP:20261116T020000Z
+DTSTART:20261116T020000Z
+DTEND:20261116T070000Z
+SUMMARY:Bachata in North Beach: Fall Bash social
+DESCRIPTION:The North Beach bachata social's annual Fall Bash\, run by the
+  Bachata Tuesday crew\, doubling as an SBK pre-party. Five hours of partn
+ er dancing in North Beach.\nPrice: $18-$29\nhttps://www.eventbrite.com/e/
+ bachata-in-north-beach-fall-bash-tickets-2001042544116
+URL:https://www.eventbrite.com/e/bachata-in-north-beach-fall-bash-tickets-
+ 2001042544116
+LOCATION:The Cigar Bar & Grill\, 850 Montgomery St\, San Francisco\, CA 94
+ 133
+END:VEVENT
+BEGIN:VEVENT
 UID:julie-beth-napolin-nyc-psych-folk-with-bob-bannister-aux-mea-a0f8cf43@
  sf-events
 DTSTAMP:20261116T023000Z
@@ -732,6 +762,51 @@ URL:https://www.commonwealthclub.org/events/2026-11-16/ben-buchanan-superi
  ntelligence-superpowers-and-fate-world
 LOCATION:Commonwealth Club World Affairs\, 110 The Embarcadero\, San Franc
  isco\, CA 94105
+END:VEVENT
+BEGIN:VEVENT
+UID:inner-richmond-board-game-night-at-the-plough-and-stars-0b73938e@sf-ev
+ ents
+DTSTAMP:20261117T023000Z
+DTSTART:20261117T023000Z
+DTEND:20261117T043000Z
+SUMMARY:Inner Richmond Board Game Night at the Plough and Stars
+DESCRIPTION:Gather & Game SF's 1st and 3rd Monday board-game night at SF's
+  best-known Irish pub. Turn up\, join a table and meet people over a pint
+ .\nhttps://www.theploughandstars.com/
+URL:https://www.theploughandstars.com/
+LOCATION:The Plough and Stars\, 116 Clement St\, San Francisco\, CA 94118
+END:VEVENT
+BEGIN:VEVENT
+UID:salsacrazy-mondays-salsa-lesson-salsa-bachata-dancing-229c9121@sf-even
+ ts
+DTSTAMP:20261117T023000Z
+DTSTART:20261117T023000Z
+DTEND:20261117T073000Z
+SUMMARY:SalsaCrazy Mondays: salsa lesson + salsa/bachata dancing
+DESCRIPTION:A weekly Monday night with a salsa class followed by a salsa a
+ nd bachata social in an Inner Richmond club. It's an easy way to start pa
+ rtner dancing midweek.\nPrice: $10-$50\nhttps://www.eventbrite.com/e/sals
+ a-dance-classes-and-salsa-and-bachata-dancing-salsacrazy-mondays-tickets-
+ 1981014378333
+URL:https://www.eventbrite.com/e/salsa-dance-classes-and-salsa-and-bachata
+ -dancing-salsacrazy-mondays-tickets-1981014378333
+LOCATION:Neck of the Woods\, 406 Clement St\, San Francisco\, CA 94118
+END:VEVENT
+BEGIN:VEVENT
+UID:wifi-controlled-lights-esp32-hello-world-circuit-hacking-mon-0bdaabcd@
+ sf-events
+DTSTAMP:20261117T030000Z
+DTSTART:20261117T030000Z
+DTEND:20261117T050000Z
+SUMMARY:WiFi-Controlled Lights: ESP32 Hello World (Circuit Hacking Monday 
+ at Noisebridge)
+DESCRIPTION:A beginner-friendly Circuit Hacking Monday class: wire LEDs to
+  an ESP32 microcontroller\, write a simple program and build a web page t
+ o switch the lights from your phone. Components are provided and no exper
+ ience is needed.\nPrice: Free\nhttps://www.meetup.com/noisebridge/events/
+ 317170679/
+URL:https://www.meetup.com/noisebridge/events/317170679/
+LOCATION:Noisebridge hackerspace\, 272 Capp St\, San Francisco\, CA 94110
 END:VEVENT
 BEGIN:VEVENT
 UID:contact-improvisation-class-jam-at-the-castro-room-9c8b759c@sf-events
@@ -996,6 +1071,36 @@ DESCRIPTION:The San Francisco Amateur Astronomers' free monthly lecture. M
 URL:https://www.sfaa-astronomy.org/public-events/lectures/lectures_2026/no
  v18_2026
 LOCATION:Randall Museum\, 199 Museum Way\, San Francisco\, CA 94114
+END:VEVENT
+BEGIN:VEVENT
+UID:san-francisco-rationalist-dinner-d87865b4@sf-events
+DTSTAMP:20261119T030000Z
+DTSTART:20261119T030000Z
+DTEND:20261119T060000Z
+SUMMARY:San Francisco Rationalist Dinner
+DESCRIPTION:An informal LessWrong community dinner where people discuss AI
+  safety\, recent blog posts and rationality topics\, and first-timers are
+  welcome. You pay for your own food at this restaurant on 2nd St in SoMa\
+ , a short walk from home.\nhttps://www.lesswrong.com/events/z3gejrgP6LRuF
+ FRkP/san-francisco-rationalist-dinner-3
+URL:https://www.lesswrong.com/events/z3gejrgP6LRuFFRkP/san-francisco-ratio
+ nalist-dinner-3
+LOCATION:Mediterranean Bowl\, 2nd St\, San Francisco\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:astronomy-on-tap-sf-lava-worlds-fast-radio-bursts-8f8d7755@sf-events
+DTSTAMP:20261119T030000Z
+DTSTART:20261119T030000Z
+DTEND:20261119T050000Z
+SUMMARY:Astronomy on Tap SF: lava worlds + fast radio bursts
+DESCRIPTION:Short\, laid-back astronomy talks in a bar: Stanford's Laura S
+ chaefer on JWST and lava worlds\, and Berkeley's Calvin Leung on finding 
+ missing matter with fast radio bursts. Q&A is relaxed.\nPrice: Free (1-dr
+ ink minimum\, $13)\nhttps://www.eventbrite.com/e/astronomy-on-tap-sf-nove
+ mber-2026-tickets-2004626231020
+URL:https://www.eventbrite.com/e/astronomy-on-tap-sf-november-2026-tickets
+ -2004626231020
+LOCATION:Public Works\, 161 Erie St\, San Francisco\, CA 94103
 END:VEVENT
 BEGIN:VEVENT
 UID:jenny-tian-ripe-f07eadcf@sf-events
@@ -1285,6 +1390,20 @@ LOCATION:Z Space (Steindler Stage)\, 450 Florida St\, San Francisco\, CA 9
  4110
 END:VEVENT
 BEGIN:VEVENT
+UID:irish-set-dancing-with-the-yellowfoot-c-il-band-at-the-ploug-97aa8394@
+ sf-events
+DTSTAMP:20261120T043000Z
+DTSTART:20261120T043000Z
+DTEND:20261120T063000Z
+SUMMARY:Irish set dancing with the Yellowfoot Céilí Band at the Plough a
+ nd Stars
+DESCRIPTION:The Plough's Thursday Irish set-dancing night with a live céi
+ lí band. It's the closest SF gets to a London ceilidh night.\nhttps://ww
+ w.theploughandstars.com/
+URL:https://www.theploughandstars.com/
+LOCATION:The Plough and Stars\, 116 Clement St\, San Francisco\, CA 94118
+END:VEVENT
+BEGIN:VEVENT
 UID:cannelle-popscene-a92ff22a@sf-events
 DTSTAMP:20261120T050000Z
 DTSTART:20261120T050000Z
@@ -1541,6 +1660,34 @@ LOCATION:BATS Annex\, Fort Mason Center\, 2 Marina Blvd\, Bldg C\, Suite 3
  65\, San Francisco\, CA 94123
 END:VEVENT
 BEGIN:VEVENT
+UID:live-band-karaoke-at-lighthaven-berkeley-31beb7e4@sf-events
+DTSTAMP:20261122T010000Z
+DTSTART:20261122T010000Z
+DTEND:20261122T090000Z
+SUMMARY:Live Band Karaoke at Lighthaven (Berkeley)
+DESCRIPTION:A rationalist-community favourite where you pick a song and a 
+ live band plays it while the lyrics go up for a crowd singalong\, with a 
+ quieter acoustic indoor set from around 10:30pm. Take BART from Montgomer
+ y to Ashby (~20 min)\, then walk ~15 min\; RSVP on Partiful.\nPrice: ~$10
+  suggested\nhttps://partiful.com/e/i27FFdFes4MrW8RJJkRt
+URL:https://partiful.com/e/i27FFdFes4MrW8RJJkRt
+LOCATION:Lighthaven\, Telegraph Ave\, Berkeley\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:singles-mingle-at-zo-free-21-8791b914@sf-events
+DTSTAMP:20261122T020000Z
+DTSTART:20261122T020000Z
+DTEND:20261122T050000Z
+SUMMARY:Singles Mingle at Zoë (free\, 21+)
+DESCRIPTION:A free\, mixed\, 21+ in-person singles mixer from a group tryi
+ ng to get people off dating apps. The bar is a few minutes' walk from hom
+ e.\nPrice: Free\nhttps://www.eventbrite.com/e/singles-mingle-zoes-bar-in-
+ sf-21-free-entry-tickets-2004102162517
+URL:https://www.eventbrite.com/e/singles-mingle-zoes-bar-in-sf-21-free-ent
+ ry-tickets-2004102162517
+LOCATION:ZOË\, 579 Howard St\, San Francisco\, CA 94105
+END:VEVENT
+BEGIN:VEVENT
 UID:bedazzling-night-at-the-love-potion-library-2ac7b04c@sf-events
 DTSTAMP:20261122T030000Z
 DTSTART:20261122T030000Z
@@ -1552,6 +1699,18 @@ DESCRIPTION:SOLD OUT (waitlist open on Luma). Relaxed glitter-craft social
  /luma.com/4pahhbua
 URL:https://luma.com/4pahhbua
 LOCATION:The Love Potion Library\, 284 Noe St\, San Francisco\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:playtesting-pints-indie-game-night-77822295@sf-events
+DTSTAMP:20261122T030000Z
+DTSTART:20261122T030000Z
+DTEND:20261122T070000Z
+SUMMARY:Playtesting & Pints: indie game night
+DESCRIPTION:Play and give feedback on indie games in progress from local d
+ evelopers\, over drinks at a Castro bar. A low-key\, social way to meet t
+ he city's game-dev crowd.\nPrice: Free\nhttps://luma.com/ec4nl23c
+URL:https://luma.com/ec4nl23c
+LOCATION:The Detour\, 2200A Market St\, San Francisco\, CA 94114
 END:VEVENT
 BEGIN:VEVENT
 UID:it-1990-on-vhs-with-director-tommy-lee-wallace-in-person-a41a9b51@sf-e
@@ -1707,6 +1866,21 @@ DESCRIPTION:Flamenco dance and music with dancers Damien Alvarez and Carol
 URL:https://thelostchurch.my.salesforce-sites.com/ticket#/instances/a0FUh0
  0000DcQhxMAF
 LOCATION:The Lost Church\, 988 Columbus Ave\, San Francisco\, CA 94133
+END:VEVENT
+BEGIN:VEVENT
+UID:we-bought-a-gun-sf-neo-futurists-closing-performance-686ab6d5@sf-event
+ s
+DTSTAMP:20261123T020000Z
+DTSTART:20261123T020000Z
+DTEND:20261123T033000Z
+SUMMARY:We Bought A Gun! (SF Neo-Futurists\, closing performance)
+DESCRIPTION:A new full-length play from the SF Neo-Futurists about a Bay A
+ rea couple deciding to buy a gun\, which breaks the fourth wall and draws
+  the audience into the conversation. It runs about 80 minutes with no lat
+ e entry.\nPrice: $34-$55\nhttps://www.eventbrite.com/e/we-bought-a-gun-ti
+ ckets-2002354020778
+URL:https://www.eventbrite.com/e/we-bought-a-gun-tickets-2002354020778
+LOCATION:447 Minna St\, 447 Minna St\, San Francisco\, CA 94103
 END:VEVENT
 BEGIN:VEVENT
 UID:berkeley-fest-noz-breton-dance-party-with-live-band-2018cf5b@sf-events
@@ -4752,6 +4926,20 @@ URL:https://www.verdiclub.net/events/the-woodchoppers-ball-42-3-2/2026-12-
 LOCATION:Verdi Club\, 2424 Mariposa St\, San Francisco\, CA 94110
 END:VEVENT
 BEGIN:VEVENT
+UID:man-or-astro-man-with-the-subsonics-38beca91@sf-events
+DTSTAMP:20261230T050000Z
+DTSTART:20261230T050000Z
+DTEND:20261230T070000Z
+SUMMARY:Man or Astro-man? with The Subsonics
+DESCRIPTION:Space-age surf-rock cult heroes from Alabama play the small Po
+ trero Hill room\, with Atlanta garage-punk trio The Subsonics and DJ Sid 
+ Presley on surf and 60s records. Doors 8pm\, music 9pm\, all ages.\nPrice
+ : $40 ($49.96 adv incl. fees)\nhttp://www.bottomofthehill.com/20261229.ht
+ ml
+URL:http://www.bottomofthehill.com/20261229.html
+LOCATION:Bottom of the Hill\, 1233 17th St\, San Francisco\, CA
+END:VEVENT
+BEGIN:VEVENT
 UID:figure-drawing-at-monument-sf-sketchboard-co-7be68a41@sf-events
 DTSTAMP:20261231T023000Z
 DTSTART:20261231T023000Z
@@ -5555,6 +5743,21 @@ URL:https://www.tickettailor.com/events/thecirclinginsitute/2486230
 LOCATION:Animal Rights Center\, 2414 6th St\, Berkeley\, CA 94710
 END:VEVENT
 BEGIN:VEVENT
+UID:critical-hit-board-game-comedy-showcase-sf-sketchfest-31c73baf@sf-even
+ ts
+DTSTAMP:20270120T033000Z
+DTSTART:20270120T033000Z
+DTEND:20270120T050000Z
+SUMMARY:Critical Hit: board-game comedy showcase (SF Sketchfest)
+DESCRIPTION:Oakland's long-running stand-up showcase from a board-game sho
+ p brings local comics and a prize raffle to a small Valencia St room for 
+ Sketchfest. Tickets go on sale 15 Nov at 10am.\nhttps://sfsketchfest2027.
+ sched.com/event/de2e1595952739ea41fb7b739fefe4b1
+URL:https://sfsketchfest2027.sched.com/event/de2e1595952739ea41fb7b739fefe
+ 4b1
+LOCATION:Eclectic Box\, 446 Valencia St\, San Francisco\, CA 94103
+END:VEVENT
+BEGIN:VEVENT
 UID:true-widow-d2a48ba9@sf-events
 DTSTAMP:20270120T040000Z
 DTSTART:20270120T040000Z
@@ -5597,6 +5800,22 @@ DESCRIPTION:Sketchboard Co.'s Wednesday drop-in life drawing session with
 URL:https://book.squareup.com/classes/uj53t4hfgkzllp/location/DYSM7QRDVFWX
  7/classes
 LOCATION:Monument SF\, 140 9th St\, San Francisco\, CA 94103
+END:VEVENT
+BEGIN:VEVENT
+UID:in-a-nutshell-storytelling-sf-sketchfest-95d7ad0b@sf-events
+DTSTAMP:20270121T033000Z
+DTSTART:20270121T033000Z
+DTEND:20270121T050000Z
+SUMMARY:In a Nutshell Storytelling (SF Sketchfest)
+DESCRIPTION:Sacramento's artist-run true-story night brings its open\, com
+ munity feel to the Punch Line during Sketchfest. Real people tell persona
+ l stories\, and the hosts pitch it as being for anyone craving connection
+ .\nhttps://sfsketchfest2027.sched.com/event/3b80cbc9dea843b79521f539b3626
+ ffb
+URL:https://sfsketchfest2027.sched.com/event/3b80cbc9dea843b79521f539b3626
+ ffb
+LOCATION:Punch Line San Francisco\, 444 Battery St\, San Francisco\, CA 94
+ 111
 END:VEVENT
 BEGIN:VEVENT
 UID:berkeley-wednesday-contra-dance-the-flagstones-43b65fb3@sf-events
@@ -5819,6 +6038,21 @@ LOCATION:Cowell Theater\, Fort Mason Center\, Pier 2\, Fort Mason Center\,
   San Francisco\, CA 94123
 END:VEVENT
 BEGIN:VEVENT
+UID:am-i-the-a-hole-courtroom-comedy-show-sf-sketchfest-65b914d3@sf-events
+DTSTAMP:20270127T033000Z
+DTSTART:20270127T033000Z
+DTEND:20270127T050000Z
+SUMMARY:Am I the A*Hole? Courtroom Comedy Show (SF Sketchfest)
+DESCRIPTION:Comedians argue petty real-life disputes in a mock courtroom a
+ nd the audience delivers the verdict. You can submit your own case before
+  the show.\nhttps://sfsketchfest2027.sched.com/event/905e8386d77c6e485e58
+ a198d7819be8
+URL:https://sfsketchfest2027.sched.com/event/905e8386d77c6e485e58a198d7819
+ be8
+LOCATION:Punch Line San Francisco\, 444 Battery St\, San Francisco\, CA 94
+ 111
+END:VEVENT
+BEGIN:VEVENT
 UID:woodchopper-s-ball-live-band-swing-night-c9c122f3@sf-events
 DTSTAMP:20270127T050000Z
 DTSTART:20270127T050000Z
@@ -5847,6 +6081,21 @@ DESCRIPTION:A new monthly salon for 75–100 guests with cocktails\, a sho
  ion.\nPrice: $65\nhttps://magictheatre.org/calendar/pollinated
 URL:https://magictheatre.org/calendar/pollinated
 LOCATION:Magic Theatre (exact venue on ticket)
+END:VEVENT
+BEGIN:VEVENT
+UID:the-bay-area-pun-off-sf-sketchfest-ad0c9afb@sf-events
+DTSTAMP:20270128T033000Z
+DTSTART:20270128T033000Z
+DTEND:20270128T050000Z
+SUMMARY:The Bay Area Pun-Off (SF Sketchfest)
+DESCRIPTION:A pun tournament with elimination rounds\, now in its eleventh
+  year after starting in an Oakland living room\, hosted by a former O. He
+ nry Pun-Off champion. It bills itself as one of the warmest\, nerdiest co
+ medy rooms in the city\, and last year's opening night sold out.\nhttps:/
+ /sfsketchfest2027.sched.com/event/da2c229001b5f8f9e555d983b04df495
+URL:https://sfsketchfest2027.sched.com/event/da2c229001b5f8f9e555d983b04df
+ 495
+LOCATION:Cobb's Comedy Club\, 915 Columbus Ave\, San Francisco\, CA 94133
 END:VEVENT
 BEGIN:VEVENT
 UID:jon-bryant-ec6c1dfe@sf-events
@@ -5931,6 +6180,23 @@ URL:https://wl.seetickets.us/event/ty-segall/707701?afflky=TheChapel
 LOCATION:The Chapel\, 777 Valencia St\, San Francisco\, CA 94110
 END:VEVENT
 BEGIN:VEVENT
+UID:heart-throb-slasher-an-improvised-80s-horror-movie-with-lane-d298bbe6@
+ sf-events
+DTSTAMP:20270131T000000Z
+DTSTART:20270131T000000Z
+DTEND:20270131T013000Z
+SUMMARY:Heart-Throb Slasher: an improvised 80s horror movie with Lane Moor
+ e (SF Sketchfest)
+DESCRIPTION:The Tinder Live creator runs a choose-your-own-adventure impro
+ vised 80s horror film\, with the audience deciding who lives using 80s te
+ en board games. Griffin Newman guests in this intimate North Beach listen
+ ing room.\nhttps://sfsketchfest2027.sched.com/event/d7aab31a9b3f8d5edad9a
+ 9460013753b
+URL:https://sfsketchfest2027.sched.com/event/d7aab31a9b3f8d5edad9a94600137
+ 53b
+LOCATION:The Lost Church\, 988 Columbus Ave\, San Francisco\, CA 94133
+END:VEVENT
+BEGIN:VEVENT
 UID:stamptown-at-sf-sketchfest-2027-hosted-by-zach-zucker-d1eb5d78@sf-even
  ts
 DTSTAMP:20270131T030000Z
@@ -5943,6 +6209,21 @@ DESCRIPTION:Zach Zucker's chaotic\, character-heavy alt-comedy showcase\,
  -$92\nhttps://thecastro.com/events/stamptown-with-zach-zucker-270130
 URL:https://thecastro.com/events/stamptown-with-zach-zucker-270130
 LOCATION:Castro Theatre\, 429 Castro St\, San Francisco\, CA 94114
+END:VEVENT
+BEGIN:VEVENT
+UID:sketch-improv-showcase-emerging-teams-sf-sketchfest-21afad23@sf-events
+DTSTAMP:20270131T033000Z
+DTSTART:20270131T033000Z
+DTEND:20270131T050000Z
+SUMMARY:Sketch & Improv Showcase: emerging teams (SF Sketchfest)
+DESCRIPTION:Up-and-coming sketch and improv teams Ephemera (NY)\, Go Tech 
+ Yourself (SF)\, Hot Dog Tony (Greensboro) and Worlds Most Best (LA) share
+  a small Mission stage. It's a cheap way into the festival and the work o
+ f new performers.\nhttps://sfsketchfest2027.sched.com/event/c7e8b9af9cbb9
+ da9b462458ed84462c6
+URL:https://sfsketchfest2027.sched.com/event/c7e8b9af9cbb9da9b462458ed8446
+ 2c6
+LOCATION:Eclectic Box\, 446 Valencia St\, San Francisco\, CA 94103
 END:VEVENT
 BEGIN:VEVENT
 UID:the-arcadian-wild-make-it-out-alive-tour-8ece3ae0@sf-events
@@ -5988,6 +6269,22 @@ DESCRIPTION:Free outdoor swing dancing every Sunday since 1996 on car-free
 URL:https://lindyinthepark.com/about/
 LOCATION:Golden Gate Park\, JFK Drive (8th-10th Ave)\, JFK Dr between 8th 
  & 10th Ave (behind the de Young)\, San Francisco\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:porchlight-storytelling-sketchfest-edition-3b0e5c44@sf-events
+DTSTAMP:20270201T030000Z
+DTSTART:20270201T030000Z
+DTEND:20270201T043000Z
+SUMMARY:Porchlight storytelling: Sketchfest edition
+DESCRIPTION:SF's 23-year-old storytelling series\, where six people tell t
+ en-minute true stories without notes and Marc Capelle plays music. This e
+ dition features Joel Kim Booster\, Guy Branum\, River Butcher\, Larry Mul
+ lins and Amy Schneider.\nhttps://sfsketchfest2027.sched.com/event/d717b61
+ f33f2dbc0cc206aa6d6507bac
+URL:https://sfsketchfest2027.sched.com/event/d717b61f33f2dbc0cc206aa6d6507
+ bac
+LOCATION:Great American Music Hall\, 859 O'Farrell St\, San Francisco\, CA
+  94109
 END:VEVENT
 BEGIN:VEVENT
 UID:contact-improvisation-class-jam-at-the-castro-room-851fae3f@sf-events
@@ -6310,6 +6607,22 @@ DESCRIPTION:The Fairport Convention co-founder and British folk-rock guita
  3
 URL:https://thecastro.com/events/richard-thompson-270213
 LOCATION:Castro Theatre\, 429 Castro St\, San Francisco\, CA 94114
+END:VEVENT
+BEGIN:VEVENT
+UID:michael-shannon-jason-narducy-and-friends-play-r-e-m-s-docum-d6633b23@
+ sf-events
+DTSTAMP:20270214T040000Z
+DTSTART:20270214T040000Z
+DTEND:20270214T060000Z
+SUMMARY:Michael Shannon & Jason Narducy and Friends play R.E.M.'s Document
+DESCRIPTION:Actor Michael Shannon and musician Jason Narducy (longtime Bob
+  Mould bassist) front a band playing R.E.M.'s 1987 album Document\, at th
+ e historic Fillmore. This is the second of two nights.\nPrice: $59+\nhttp
+ s://www.ticketmaster.com/michael-shannon-jason-narducy-and-friends-san-fr
+ ancisco-california-02-13-2027/event/1C006538DE33C5BF
+URL:https://www.ticketmaster.com/michael-shannon-jason-narducy-and-friends
+ -san-francisco-california-02-13-2027/event/1C006538DE33C5BF
+LOCATION:The Fillmore\, 1805 Geary Blvd\, San Francisco\, CA 94115
 END:VEVENT
 BEGIN:VEVENT
 UID:lindy-in-the-park-free-swing-dancing-beginner-lesson-valenti-cade29ff@
