@@ -2602,6 +2602,26 @@
     "id": "milonga-malevaje-thanksgiving-night-tango-292716a0"
   },
   {
+    "id": "sf-critical-mass-last-friday-group-bike-ride-c5eda4b7",
+    "title": "SF Critical Mass (last Friday group bike ride)",
+    "start": "2026-11-27T18:00:00-08:00",
+    "end": "2026-11-27T21:00:00-08:00",
+    "venue": "Embarcadero Plaza (foot of Market St)",
+    "address": "1 Market St, San Francisco, CA 94105",
+    "url": "https://sf.funcheap.com/san-francisco-critical-mass-last-friday-of-the-month-18/",
+    "source": "aggregator:funcheap",
+    "tags": [
+      "outdoors",
+      "community",
+      "sport"
+    ],
+    "price": "Free",
+    "description": "SF's original monthly mass bike ride: meet at 6pm at the foot of Market St and roll out around 6:30pm through the city. Nobody is in charge, so just bring a bike and lights.",
+    "neighbourhood": "Embarcadero",
+    "cycle_minutes": 5,
+    "added": "2026-11-14"
+  },
+  {
     "id": "mc5-a-true-testimonial-chuck-prophet-s-cinema-discotheque-526e6c9f",
     "title": "MC5: A True Testimonial (Chuck Prophet's Cinema Discotheque)",
     "start": "2026-11-27T19:30:00-08:00",
@@ -2694,6 +2714,25 @@
     "added": "2026-11-10"
   },
   {
+    "id": "salsa-night-with-live-band-andy-y-su-orquesta-callao-573af38c",
+    "title": "Salsa night with live band: Andy y Su Orquesta Callao",
+    "start": "2026-11-27T21:30:00-08:00",
+    "end": "2026-11-28T01:00:00-08:00",
+    "venue": "The Cigar Bar & Grill",
+    "address": "850 Montgomery St, San Francisco, CA 94133",
+    "url": "https://www.eventbrite.com/e/salsa-night-with-live-band-andy-y-su-orquesta-callao-fri-nov-27-2026-tickets-2003447123277",
+    "source": "aggregator:eventbrite",
+    "tags": [
+      "dance",
+      "music"
+    ],
+    "price": "$20 after 9pm (free before 9pm); lesson $14-$20 extra",
+    "description": "A live salsa orchestra on the Cigar Bar's courtyard dance floor on Thanksgiving Friday, with a salsa lesson at 7pm (paid separately). Entry is free before 9pm and the band starts at 9:30pm; 21+.",
+    "neighbourhood": "Jackson Square",
+    "cycle_minutes": 7,
+    "added": "2026-11-14"
+  },
+  {
     "title": "Kolo Festival: Balkan music & dance weekend (Saturday)",
     "start": "2026-11-28T08:30:00-08:00",
     "end": null,
@@ -2762,8 +2801,8 @@
     "tags": [
       "community"
     ],
-    "price": "$37-$40",
-    "description": "A Saturday-evening speed-dating round where you meet 8-12 local singles aged 25-39, held in a FiDi hotel.",
+    "price": "$37-$40 (men's tickets sold out)",
+    "description": "MEN'S TICKETS SOLD OUT. A Saturday-evening speed-dating round where you meet 8-12 local singles aged 25-39, held in a FiDi hotel.",
     "neighbourhood": "Financial District",
     "cycle_minutes": 6,
     "added": "2026-11-10"
@@ -2957,6 +2996,44 @@
     "added": "2026-11-08"
   },
   {
+    "id": "salsacrazy-mondays-salsa-lesson-salsa-bachata-dancing-ab86e2a4",
+    "title": "SalsaCrazy Mondays: salsa lesson + salsa/bachata dancing",
+    "start": "2026-11-30T18:30:00-08:00",
+    "end": "2026-11-30T23:30:00-08:00",
+    "venue": "Neck of the Woods",
+    "address": "406 Clement St, San Francisco, CA 94118",
+    "url": "https://www.eventbrite.com/e/salsacrazy-mondays-salsa-classes-salsa-bachata-dancing-in-sf-tickets-2002853154701",
+    "source": "aggregator:eventbrite",
+    "tags": [
+      "dance",
+      "class"
+    ],
+    "price": "$10-$50",
+    "description": "SF's long-running Monday salsa night: step-by-step beginner classes, then salsa and bachata social dancing. No partner or experience needed, and partners rotate.",
+    "neighbourhood": "Inner Richmond",
+    "cycle_minutes": 27,
+    "added": "2026-11-14"
+  },
+  {
+    "id": "figure-drawing-mondays-at-sin-miedo-gallery-sketchboard-94da36ed",
+    "title": "Figure drawing Mondays at Sin Miedo Gallery (Sketchboard)",
+    "start": "2026-11-30T18:30:00-08:00",
+    "end": "2026-11-30T20:30:00-08:00",
+    "venue": "Sin Miedo Gallery",
+    "address": "2831 Mission St, San Francisco, CA 94110",
+    "url": "https://book.squareup.com/classes/uj53t4hfgkzllp/location/DYSM7QRDVFWX7/classes",
+    "source": "venue:sketchboard",
+    "tags": [
+      "art",
+      "class"
+    ],
+    "price": "$25",
+    "description": "A two-hour drop-in life drawing session with a live model in a Mission gallery, run by Sketchboard Co. Bring your own materials; all levels are welcome.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 16,
+    "added": "2026-11-14"
+  },
+  {
     "title": "Of Poetry & Protest: 10th Anniversary Celebration",
     "start": "2026-11-30T19:00:00-08:00",
     "end": "2026-11-30T20:30:00-08:00",
@@ -3006,12 +3083,49 @@
       "comedy",
       "talk"
     ],
-    "price": "from $78.18",
-    "description": "The Pope of Trash's annual one-man holiday monologue, a filthy, erudite and very funny SF tradition. It's 21+ and seated, doors 7pm. Expected to sell out.",
+    "price": "Sold out",
+    "description": "SOLD OUT. The Pope of Trash's annual one-man holiday monologue, a filthy, erudite and very funny SF tradition. It's 21+ and seated, doors 7pm. Expected to sell out.",
     "neighbourhood": "Tenderloin",
     "cycle_minutes": 9,
     "added": "2026-10-29",
     "id": "a-john-waters-christmas-4519cb2a"
+  },
+  {
+    "id": "49ers-fans-singles-speed-dating-ages-25-45-28ed1f76",
+    "title": "49ers Fans Singles Speed Dating (ages 25-45)",
+    "start": "2026-12-01T18:30:00-08:00",
+    "end": "2026-12-01T20:30:00-08:00",
+    "venue": "Bottoms Up Bar & Lounge",
+    "address": "4704 Mission St, San Francisco, CA 94112",
+    "url": "https://www.eventbrite.com/e/49ers-fans-singles-speed-dating-sf-ages-25-45-suggested-tickets-2004824412787",
+    "source": "aggregator:eventbrite",
+    "tags": [
+      "community"
+    ],
+    "price": "$28.52-$33.85",
+    "description": "A mixed speed-dating night for singles aged about 25-45 who share a soft spot for the 49ers: mingle from 6:15pm, then rotating short dates. It's a long ride out to the Excelsior, so Muni or BART to Balboa Park is easier.",
+    "neighbourhood": "Excelsior",
+    "cycle_minutes": 35,
+    "added": "2026-11-14"
+  },
+  {
+    "id": "chris-cheng-proven-in-blood-author-talk-signing-13d5e3fb",
+    "title": "Chris Cheng: Proven in Blood author talk + signing",
+    "start": "2026-12-01T18:30:00-08:00",
+    "end": "2026-12-01T20:00:00-08:00",
+    "venue": "The Love Potion Library",
+    "address": "284 Noe St, San Francisco, CA 94114",
+    "url": "https://luma.com/oftuwmkr",
+    "source": "venue:love-potion-library",
+    "tags": [
+      "talk",
+      "community"
+    ],
+    "price": "Free (RSVP)",
+    "description": "Local author and History Channel Top Shot champion Chris Cheng talks about his WWII novel about Japanese American soldiers, in a cosy bookshop-bar. Free with RSVP.",
+    "neighbourhood": "Castro",
+    "cycle_minutes": 16,
+    "added": "2026-11-14"
   },
   {
     "title": "Long Now: Lost Landscapes 02026 with Rick Prelinger",
@@ -3067,6 +3181,24 @@
     "neighbourhood": "Union Square",
     "cycle_minutes": 6,
     "added": "2026-11-10"
+  },
+  {
+    "id": "gauri-b-years-in-the-breaking-stand-up-7cebfa54",
+    "title": "Gauri B: Years in the Breaking (stand-up)",
+    "start": "2026-12-01T20:00:00-08:00",
+    "end": null,
+    "venue": "The Chapel",
+    "address": "777 Valencia St, San Francisco, CA 94110",
+    "url": "https://wl.seetickets.us/event/gauri-b-years-in-the-breaking/700616?afflky=TheChapel",
+    "source": "venue:the-chapel",
+    "tags": [
+      "comedy"
+    ],
+    "price": "$35 seated ($45.95 with fees)",
+    "description": "Touring stand-up comic Gauri B, known for dark, political material and sharp crowd work, plays a seated show at The Chapel. Doors 7pm, all ages.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 13,
+    "added": "2026-11-14"
   },
   {
     "title": "Woodchopper's Ball: live-band swing night",
@@ -3136,8 +3268,8 @@
       "film",
       "talk"
     ],
-    "price": "$30.95",
-    "description": "The second night of the annual Lost Landscapes: archival home movies of everyday SF life, shown to an audience that shouts out identifications and memories. The Dec 1 show is sold out, but this one still has tickets.",
+    "price": "Sold out",
+    "description": "SOLD OUT. The second night of the annual Lost Landscapes: archival home movies of everyday SF life, shown to an audience that shouts out identifications and memories. The Dec 1 show is sold out, but this one still has tickets.",
     "neighbourhood": "Civic Center",
     "cycle_minutes": 9,
     "added": "2026-10-29",
@@ -3407,6 +3539,24 @@
     "added": "2026-11-07"
   },
   {
+    "id": "sf-wine-lovers-speed-date-millennials-gen-z-24-35-group-40ac49e4",
+    "title": "SF Wine Lovers Speed Date (Millennials & Gen Z, 24-35 group)",
+    "start": "2026-12-03T19:00:00-08:00",
+    "end": "2026-12-03T22:00:00-08:00",
+    "venue": "Rye",
+    "address": "688 Geary St, San Francisco, CA 94102",
+    "url": "https://www.eventbrite.com/e/sf-wine-lovers-speed-date-millennials-and-gen-z-tickets-2004698693758",
+    "source": "aggregator:eventbrite",
+    "tags": [
+      "community"
+    ],
+    "price": "up to $55.17",
+    "description": "A mixed speed-dating round followed by open mingling at a Lower Nob Hill cocktail bar, split into 24-35 and 36-46 age groups (31 fits the first). Book in advance; there are no door tickets.",
+    "neighbourhood": "Tenderloin",
+    "cycle_minutes": 8,
+    "added": "2026-11-14"
+  },
+  {
     "title": "Greg Fitzsimmons",
     "start": "2026-12-03T20:00:00-08:00",
     "end": null,
@@ -3482,12 +3632,30 @@
     "id": "cooking-class-authentic-asian-dumplings-0c7ea59e"
   },
   {
+    "id": "book-swap-holiday-movie-night-at-the-love-potion-library-017289eb",
+    "title": "Book Swap + holiday movie night at The Love Potion Library",
+    "start": "2026-12-04T18:00:00-08:00",
+    "end": "2026-12-04T21:00:00-08:00",
+    "venue": "The Love Potion Library",
+    "address": "284 Noe St, San Francisco, CA 94114",
+    "url": "https://luma.com/t0cgbdsk",
+    "source": "venue:love-potion-library",
+    "tags": [
+      "community"
+    ],
+    "price": "$15",
+    "description": "Bring a few new or lightly used books to swap, have a drink and meet other readers, then a holiday rom-com goes on at 7pm. There are raffle prizes and cosy treats.",
+    "neighbourhood": "Castro",
+    "cycle_minutes": 16,
+    "added": "2026-11-14"
+  },
+  {
     "title": "SF State Observatory public night: rooftop telescope stargazing (last night of the semester)",
     "start": "2026-12-04T18:30:00-08:00",
     "end": "2026-12-04T21:00:00-08:00",
     "venue": "SF State Observatory, Thornton Hall 10th floor",
     "address": "1600 Holloway Ave, San Francisco, CA 94132",
-    "url": "https://physics.sfsu.edu/observatory",
+    "url": "https://sf.funcheap.com/sf-states-free-public-rooftop-stargazing-nights-w-huge-telescope-fall-2026-2/",
     "source": "keyword-search",
     "tags": [
       "outdoors",
@@ -3536,6 +3704,82 @@
     "cycle_minutes": 35,
     "added": "2026-10-29",
     "id": "the-crooked-jades-beautiful-world-album-release-1daf5a18"
+  },
+  {
+    "id": "bachata-lab-friday-bachata-classes-3-levels-social-05c885f5",
+    "title": "Bachata Lab: Friday bachata classes (3 levels) + social",
+    "start": "2026-12-04T20:00:00-08:00",
+    "end": "2026-12-05T01:00:00-08:00",
+    "venue": "Bachata Lab",
+    "address": "1830 17th St, San Francisco, CA 94103",
+    "url": "https://www.eventbrite.com/e/bachata-lab-tickets-1543049004109",
+    "source": "aggregator:eventbrite",
+    "tags": [
+      "dance",
+      "class"
+    ],
+    "price": "from $15",
+    "description": "Weekly Friday bachata night with beginner, intermediate and advanced classes from 8pm (partners rotate every minute), then social dancing until 1am.",
+    "neighbourhood": "Potrero Hill",
+    "cycle_minutes": 11,
+    "added": "2026-11-14"
+  },
+  {
+    "id": "midlife-riot-90s-alt-rock-and-00s-emo-covers-with-paradise-i-08c1e558",
+    "title": "Midlife Riot: '90s alt-rock and '00s emo covers, with Paradise Inferno",
+    "start": "2026-12-04T20:00:00-08:00",
+    "end": null,
+    "venue": "Hotel Utah Saloon",
+    "address": "500 4th St, San Francisco, CA 94107",
+    "url": "https://wl.seetickets.us/event/midlife-riot/708044?afflky=HotelUtahSaloon",
+    "source": "venue:hotel-utah",
+    "tags": [
+      "music"
+    ],
+    "price": "$12 adv / $15 door",
+    "description": "A cheap, loud singalong night of '90s alt-rock and '00s emo covers in the tiny Hotel Utah, the closest music room to home. 21+.",
+    "neighbourhood": "SoMa",
+    "cycle_minutes": 4,
+    "added": "2026-11-14"
+  },
+  {
+    "id": "sf-bike-party-first-friday-themed-group-ride-6235e98f",
+    "title": "SF Bike Party (first Friday themed group ride)",
+    "start": "2026-12-04T20:00:00-08:00",
+    "end": "2026-12-04T22:00:00-08:00",
+    "venue": "Start point announced by SF Bike Party",
+    "address": "San Francisco, CA",
+    "url": "https://sf.funcheap.com/san-francisco-bike-party-first-fridays-161/",
+    "source": "aggregator:funcheap",
+    "tags": [
+      "outdoors",
+      "community",
+      "sport"
+    ],
+    "price": "Free",
+    "description": "A friendly, costumed monthly group ride with music and party stops along the way: meet at 7:30pm, roll at 8pm. The theme, start point and route change each month and are posted on SF Bike Party's Facebook/Instagram.",
+    "neighbourhood": "Varies",
+    "cycle_minutes": null,
+    "added": "2026-11-14"
+  },
+  {
+    "id": "sf-neo-futurists-the-infinite-wrench-30-plays-in-60-minutes-812284b5",
+    "title": "SF Neo-Futurists: The Infinite Wrench (30 plays in 60 minutes)",
+    "start": "2026-12-04T21:00:00-08:00",
+    "end": "2026-12-04T22:30:00-08:00",
+    "venue": "447 Minna St",
+    "address": "447 Minna St, San Francisco, CA 94103",
+    "url": "https://www.eventbrite.com/e/sf-neo-futurists-the-infinite-wrench-tickets-1987282529542",
+    "source": "venue:sf-neo-futurists",
+    "tags": [
+      "theatre",
+      "comedy"
+    ],
+    "price": "$12-$28 online",
+    "description": "The Neo-Futurists race through 30 tiny original plays in an hour, in an order the audience chooses by shouting. It's personal, political and very silly, in a small SoMa space.",
+    "neighbourhood": "SoMa",
+    "cycle_minutes": 5,
+    "added": "2026-11-14"
   },
   {
     "title": "Ocean Beach Clean-up (Golden Gate National Parks volunteer morning)",
@@ -3728,6 +3972,26 @@
     "added": "2026-11-07"
   },
   {
+    "id": "howard-zinn-book-fair-2026-a-time-of-monsters-a-time-to-figh-44a1af22",
+    "title": "Howard Zinn Book Fair 2026: A Time of Monsters, A Time to Fight",
+    "start": "2026-12-06T10:00:00-08:00",
+    "end": "2026-12-06T18:00:00-08:00",
+    "venue": "CCSF Mission Campus",
+    "address": "1125 Valencia St, San Francisco, CA 94110",
+    "url": "https://www.zinnbookfair.org/",
+    "source": "keyword-search",
+    "tags": [
+      "talk",
+      "community",
+      "market"
+    ],
+    "price": "Free ($10 donation requested)",
+    "description": "An all-day free book fair of people's history, with about 40 panels of authors and organisers debating politics and strategy, plus independent publishers' and activists' tables.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 15,
+    "added": "2026-11-14"
+  },
+  {
     "title": "Lindy in the Park: free swing dancing + beginner lesson",
     "start": "2026-12-06T11:00:00-08:00",
     "end": "2026-12-06T14:00:00-08:00",
@@ -3764,6 +4028,26 @@
     "neighbourhood": "Embarcadero",
     "cycle_minutes": 5,
     "added": "2026-11-07"
+  },
+  {
+    "id": "redbrick-ceramic-studio-sunday-clay-workshop-9a828976",
+    "title": "RedBrick Ceramic Studio Sunday clay workshop",
+    "start": "2026-12-06T13:00:00-08:00",
+    "end": "2026-12-06T15:00:00-08:00",
+    "venue": "RedBrick Ceramic Studio",
+    "address": "2111 Mission St, 3rd floor, San Francisco, CA 94110",
+    "url": "https://www.eventbrite.com/e/redbrick-ceramic-studio-sunday-25-workshops-100-300-pm-tickets-2003309301047",
+    "source": "venue:redbrick-ceramic-studio",
+    "tags": [
+      "class",
+      "art",
+      "workshop"
+    ],
+    "price": "$25 ($28.52 with fees)",
+    "description": "A beginner-friendly two-hour hands-on clay workshop with step-by-step instruction from the studio's artist members, in a Mission ceramics studio.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 12,
+    "added": "2026-11-14"
   },
   {
     "title": "Zorn / Medeski / Lombardo: Awakening Ground (matinee)",
@@ -4741,25 +5025,6 @@
     "neighbourhood": "Mission",
     "cycle_minutes": 13,
     "added": "2026-11-08"
-  },
-  {
-    "title": "New Directions @ 90",
-    "start": "2026-12-15T19:00:00-08:00",
-    "end": "2026-12-15T20:30:00-08:00",
-    "venue": "City Lights Booksellers",
-    "address": "261 Columbus Ave, San Francisco, CA 94133",
-    "url": "https://citylights.com/events/new-directions-90/",
-    "source": "venue:city-lights",
-    "tags": [
-      "talk",
-      "art"
-    ],
-    "price": "Free",
-    "description": "City Lights marks 90 years of the legendary indie publisher New Directions with publisher Barbara Epler, Declan Spring, poet Forrest Gander and guests.",
-    "neighbourhood": "North Beach",
-    "cycle_minutes": 10,
-    "added": "2026-10-29",
-    "id": "new-directions-90-6a2027e1"
   },
   {
     "title": "Drop-In Circling Workshop (Berkeley)",
@@ -8345,6 +8610,25 @@
     "id": "cut-worms-solo-noise-pop-2027-61ac35ee"
   },
   {
+    "id": "amory-lovins-on-disruptive-energy-futures-879d73ed",
+    "title": "Amory Lovins on Disruptive Energy Futures",
+    "start": "2027-02-23T18:30:00-08:00",
+    "end": "2027-02-23T19:30:00-08:00",
+    "venue": "Commonwealth Club World Affairs",
+    "address": "110 The Embarcadero, San Francisco, CA 94105",
+    "url": "https://www.commonwealthclub.org/events/2027-02-23/amory-lovins-disruptive-energy-futures",
+    "source": "venue:commonwealth-club",
+    "tags": [
+      "talk",
+      "tech"
+    ],
+    "price": "$27.50 in person ($5 online)",
+    "description": "Physicist Amory Lovins revisits his famous 1976 Foreign Affairs essay on America's energy paths and where the energy transition could go next. Doors and check-in at 6pm.",
+    "neighbourhood": "Embarcadero",
+    "cycle_minutes": 5,
+    "added": "2026-11-14"
+  },
+  {
     "id": "drop-in-circling-workshop-berkeley-5a4289c1",
     "title": "Drop-In Circling Workshop (Berkeley)",
     "start": "2027-02-23T19:00:00-08:00",
@@ -8456,6 +8740,24 @@
     "id": "here-we-go-magic-15th-anniversary-of-a-different-ship-noise--f0a2a7e3"
   },
   {
+    "id": "cloud-nothings-d142f5bf",
+    "title": "Cloud Nothings",
+    "start": "2027-02-26T21:00:00-08:00",
+    "end": null,
+    "venue": "Rickshaw Stop",
+    "address": "155 Fell St, San Francisco, CA 94102",
+    "url": "https://wl.seetickets.us/event/cloud-nothings/709735?afflky=RickshawStop",
+    "source": "venue:rickshaw-stop",
+    "tags": [
+      "music"
+    ],
+    "price": "$25 adv ($33.05 with fees)",
+    "description": "Cleveland indie-rock band Cloud Nothings bring their fast, noisy guitar songs to the small Rickshaw Stop. Doors 8pm, all ages.",
+    "neighbourhood": "Hayes Valley",
+    "cycle_minutes": 10,
+    "added": "2026-11-14"
+  },
+  {
     "title": "Upswing Series: Tyreek McDole / Isaiah Collier",
     "start": "2027-02-27T19:00:00-08:00",
     "end": null,
@@ -8491,5 +8793,77 @@
     "cycle_minutes": 17,
     "added": "2026-11-06",
     "id": "caroline-rose-uncle-carol-s-world-of-fun-tour-noise-pop-2027-362af5be"
+  },
+  {
+    "id": "an-evening-with-lambchop-accompanied-by-free-key-choir-noise-f58a6321",
+    "title": "An Evening with Lambchop accompanied by Free Key Choir (Noise Pop 2027)",
+    "start": "2027-02-27T20:00:00-08:00",
+    "end": null,
+    "venue": "Grace Cathedral",
+    "address": "1100 California St, San Francisco, CA 94108",
+    "url": "https://www.noisepop.com/",
+    "source": "venue:noise-pop",
+    "tags": [
+      "music"
+    ],
+    "price": null,
+    "description": "Kurt Wagner's Nashville band Lambchop plays its gospel-tinged new album with Oakland's experimental Free Key Choir, inside Grace Cathedral. It's a one-off Noise Pop festival highlight; the ride up Nob Hill is steep.",
+    "neighbourhood": "Nob Hill",
+    "cycle_minutes": 15,
+    "added": "2026-11-14"
+  },
+  {
+    "id": "gibby-haynes-butthole-surfers-mania-noise-pop-2027-a05d869f",
+    "title": "Gibby Haynes: Butthole Surfers Mania (Noise Pop 2027)",
+    "start": "2027-02-28T20:00:00-08:00",
+    "end": null,
+    "venue": "Great American Music Hall",
+    "address": "859 O'Farrell St, San Francisco, CA 94109",
+    "url": "https://wl.seetickets.us/event/Gibby-Haynes-Butthole-Surfer-Mania/708942?afflky=GreatAmericanMusicHall",
+    "source": "venue:great-american-music-hall",
+    "tags": [
+      "music"
+    ],
+    "price": "$35 adv ($47.88 with fees)",
+    "description": "Butthole Surfers frontman Gibby Haynes leads a night of the band's chaotic psych-punk songs at the ornate Great American Music Hall, closing out Noise Pop. Doors 7pm.",
+    "neighbourhood": "Tenderloin",
+    "cycle_minutes": 9,
+    "added": "2026-11-14"
+  },
+  {
+    "id": "wasia-project-nocturne-live-2027-261a74ba",
+    "title": "Wasia Project: Nocturne Live 2027",
+    "start": "2027-03-02T20:00:00-08:00",
+    "end": null,
+    "venue": "Castro Theatre",
+    "address": "429 Castro St, San Francisco, CA 94114",
+    "url": "https://thecastro.com/events/wasia-project-270302",
+    "source": "venue:castro-theatre",
+    "tags": [
+      "music"
+    ],
+    "price": null,
+    "description": "London sibling duo Wasia Project (Olivia Hardy and Will Gao) play their debut album Nocturne, which mixes classical piano, cinematic pop and electronica. Doors 7pm, all ages.",
+    "neighbourhood": "Castro",
+    "cycle_minutes": 17,
+    "added": "2026-11-14"
+  },
+  {
+    "id": "chip-bergh-the-levi-s-story-a389e593",
+    "title": "Chip Bergh: The Levi's Story",
+    "start": "2027-03-04T18:00:00-08:00",
+    "end": "2027-03-04T19:00:00-08:00",
+    "venue": "Commonwealth Club World Affairs",
+    "address": "110 The Embarcadero, San Francisco, CA 94105",
+    "url": "https://www.commonwealthclub.org/events/2027-03-04/chip-bergh-levis-story",
+    "source": "venue:commonwealth-club",
+    "tags": [
+      "talk"
+    ],
+    "price": "$25 in person ($57 with book)",
+    "description": "Former Levi Strauss & Co. CEO Chip Bergh talks about rebuilding one of San Francisco's most iconic companies. Doors and check-in at 5:30pm.",
+    "neighbourhood": "Embarcadero",
+    "cycle_minutes": 5,
+    "added": "2026-11-14"
   }
 ]

@@ -2099,6 +2099,21 @@ URL:https://www.verdiclub.net/events/milonga-malevaje-78-2-2-2-2/2026-11-2
 LOCATION:Verdi Club\, 2424 Mariposa St\, San Francisco\, CA 94110
 END:VEVENT
 BEGIN:VEVENT
+UID:sf-critical-mass-last-friday-group-bike-ride-c5eda4b7@sf-events
+DTSTAMP:20261128T020000Z
+DTSTART:20261128T020000Z
+DTEND:20261128T050000Z
+SUMMARY:SF Critical Mass (last Friday group bike ride)
+DESCRIPTION:SF's original monthly mass bike ride: meet at 6pm at the foot 
+ of Market St and roll out around 6:30pm through the city. Nobody is in ch
+ arge\, so just bring a bike and lights.\nPrice: Free\nhttps://sf.funcheap
+ .com/san-francisco-critical-mass-last-friday-of-the-month-18/
+URL:https://sf.funcheap.com/san-francisco-critical-mass-last-friday-of-the
+ -month-18/
+LOCATION:Embarcadero Plaza (foot of Market St)\, 1 Market St\, San Francis
+ co\, CA 94105
+END:VEVENT
+BEGIN:VEVENT
 UID:mc5-a-true-testimonial-chuck-prophet-s-cinema-discotheque-526e6c9f@sf-
  events
 DTSTAMP:20261128T033000Z
@@ -2173,6 +2188,24 @@ URL:https://www.eventbrite.com/e/bachata-lab-tickets-1543048994079
 LOCATION:Bachata Lab\, 1830 17th St\, San Francisco\, CA 94103
 END:VEVENT
 BEGIN:VEVENT
+UID:salsa-night-with-live-band-andy-y-su-orquesta-callao-573af38c@sf-event
+ s
+DTSTAMP:20261128T053000Z
+DTSTART:20261128T053000Z
+DTEND:20261128T090000Z
+SUMMARY:Salsa night with live band: Andy y Su Orquesta Callao
+DESCRIPTION:A live salsa orchestra on the Cigar Bar's courtyard dance floo
+ r on Thanksgiving Friday\, with a salsa lesson at 7pm (paid separately). 
+ Entry is free before 9pm and the band starts at 9:30pm\; 21+.\nPrice: $20
+  after 9pm (free before 9pm)\; lesson $14-$20 extra\nhttps://www.eventbri
+ te.com/e/salsa-night-with-live-band-andy-y-su-orquesta-callao-fri-nov-27-
+ 2026-tickets-2003447123277
+URL:https://www.eventbrite.com/e/salsa-night-with-live-band-andy-y-su-orqu
+ esta-callao-fri-nov-27-2026-tickets-2003447123277
+LOCATION:The Cigar Bar & Grill\, 850 Montgomery St\, San Francisco\, CA 94
+ 133
+END:VEVENT
+BEGIN:VEVENT
 UID:kolo-festival-balkan-music-dance-weekend-saturday-9f7a8113@sf-events
 DTSTAMP:20261128T163000Z
 DTSTART:20261128T163000Z
@@ -2224,10 +2257,11 @@ DTSTAMP:20261129T010000Z
 DTSTART:20261129T010000Z
 DTEND:20261129T030000Z
 SUMMARY:SpeedCalifornia speed dating (ages 25-39)
-DESCRIPTION:A Saturday-evening speed-dating round where you meet 8-12 loca
- l singles aged 25-39\, held in a FiDi hotel.\nPrice: $37-$40\nhttps://www
- .eventbrite.com/e/speedcalifornia-saturday-night-ages-25-39-san-francisco
- -speed-dating-tickets-2003947881057
+DESCRIPTION:MEN'S TICKETS SOLD OUT. A Saturday-evening speed-dating round 
+ where you meet 8-12 local singles aged 25-39\, held in a FiDi hotel.\nPri
+ ce: $37-$40 (men's tickets sold out)\nhttps://www.eventbrite.com/e/speedc
+ alifornia-saturday-night-ages-25-39-san-francisco-speed-dating-tickets-20
+ 03947881057
 URL:https://www.eventbrite.com/e/speedcalifornia-saturday-night-ages-25-39
  -san-francisco-speed-dating-tickets-2003947881057
 LOCATION:The Jay\, Autograph Collection\, 433 Clay St\, San Francisco\, CA
@@ -2385,6 +2419,37 @@ URL:https://castromerchants.com/events/
 LOCATION:Bank of America Plaza\, 501 Castro St\, San Francisco\, CA 94114
 END:VEVENT
 BEGIN:VEVENT
+UID:salsacrazy-mondays-salsa-lesson-salsa-bachata-dancing-ab86e2a4@sf-even
+ ts
+DTSTAMP:20261201T023000Z
+DTSTART:20261201T023000Z
+DTEND:20261201T073000Z
+SUMMARY:SalsaCrazy Mondays: salsa lesson + salsa/bachata dancing
+DESCRIPTION:SF's long-running Monday salsa night: step-by-step beginner cl
+ asses\, then salsa and bachata social dancing. No partner or experience n
+ eeded\, and partners rotate.\nPrice: $10-$50\nhttps://www.eventbrite.com/
+ e/salsacrazy-mondays-salsa-classes-salsa-bachata-dancing-in-sf-tickets-20
+ 02853154701
+URL:https://www.eventbrite.com/e/salsacrazy-mondays-salsa-classes-salsa-ba
+ chata-dancing-in-sf-tickets-2002853154701
+LOCATION:Neck of the Woods\, 406 Clement St\, San Francisco\, CA 94118
+END:VEVENT
+BEGIN:VEVENT
+UID:figure-drawing-mondays-at-sin-miedo-gallery-sketchboard-94da36ed@sf-ev
+ ents
+DTSTAMP:20261201T023000Z
+DTSTART:20261201T023000Z
+DTEND:20261201T043000Z
+SUMMARY:Figure drawing Mondays at Sin Miedo Gallery (Sketchboard)
+DESCRIPTION:A two-hour drop-in life drawing session with a live model in a
+  Mission gallery\, run by Sketchboard Co. Bring your own materials\; all 
+ levels are welcome.\nPrice: $25\nhttps://book.squareup.com/classes/uj53t4
+ hfgkzllp/location/DYSM7QRDVFWX7/classes
+URL:https://book.squareup.com/classes/uj53t4hfgkzllp/location/DYSM7QRDVFWX
+ 7/classes
+LOCATION:Sin Miedo Gallery\, 2831 Mission St\, San Francisco\, CA 94110
+END:VEVENT
+BEGIN:VEVENT
 UID:of-poetry-protest-10th-anniversary-celebration-3e5280f0@sf-events
 DTSTAMP:20261201T030000Z
 DTSTART:20261201T030000Z
@@ -2420,13 +2485,42 @@ DTSTAMP:20261201T040000Z
 DTSTART:20261201T040000Z
 DTEND:20261201T070000Z
 SUMMARY:A John Waters Christmas
-DESCRIPTION:The Pope of Trash's annual one-man holiday monologue\, a filth
- y\, erudite and very funny SF tradition. It's 21+ and seated\, doors 7pm.
-  Expected to sell out.\nPrice: from $78.18\nhttps://www.eventbrite.com/e/
- 1989687052535
+DESCRIPTION:SOLD OUT. The Pope of Trash's annual one-man holiday monologue
+ \, a filthy\, erudite and very funny SF tradition. It's 21+ and seated\, 
+ doors 7pm. Expected to sell out.\nPrice: Sold out\nhttps://www.eventbrite
+ .com/e/1989687052535
 URL:https://www.eventbrite.com/e/1989687052535
 LOCATION:Great American Music Hall\, 859 O'Farrell St\, San Francisco\, CA
   94109
+END:VEVENT
+BEGIN:VEVENT
+UID:49ers-fans-singles-speed-dating-ages-25-45-28ed1f76@sf-events
+DTSTAMP:20261202T023000Z
+DTSTART:20261202T023000Z
+DTEND:20261202T043000Z
+SUMMARY:49ers Fans Singles Speed Dating (ages 25-45)
+DESCRIPTION:A mixed speed-dating night for singles aged about 25-45 who sh
+ are a soft spot for the 49ers: mingle from 6:15pm\, then rotating short d
+ ates. It's a long ride out to the Excelsior\, so Muni or BART to Balboa P
+ ark is easier.\nPrice: $28.52-$33.85\nhttps://www.eventbrite.com/e/49ers-
+ fans-singles-speed-dating-sf-ages-25-45-suggested-tickets-2004824412787
+URL:https://www.eventbrite.com/e/49ers-fans-singles-speed-dating-sf-ages-2
+ 5-45-suggested-tickets-2004824412787
+LOCATION:Bottoms Up Bar & Lounge\, 4704 Mission St\, San Francisco\, CA 94
+ 112
+END:VEVENT
+BEGIN:VEVENT
+UID:chris-cheng-proven-in-blood-author-talk-signing-13d5e3fb@sf-events
+DTSTAMP:20261202T023000Z
+DTSTART:20261202T023000Z
+DTEND:20261202T040000Z
+SUMMARY:Chris Cheng: Proven in Blood author talk + signing
+DESCRIPTION:Local author and History Channel Top Shot champion Chris Cheng
+  talks about his WWII novel about Japanese American soldiers\, in a cosy 
+ bookshop-bar. Free with RSVP.\nPrice: Free (RSVP)\nhttps://luma.com/oftuw
+ mkr
+URL:https://luma.com/oftuwmkr
+LOCATION:The Love Potion Library\, 284 Noe St\, San Francisco\, CA 94114
 END:VEVENT
 BEGIN:VEVENT
 UID:long-now-lost-landscapes-02026-with-rick-prelinger-46a03bb4@sf-events
@@ -2473,6 +2567,20 @@ DESCRIPTION:Soul singer Jalen Ngonda brings his Doctrine of Love tour to a
 URL:https://www.augusthallsf.com/tm-event/jalen-ngonda-doctrine-of-love-to
  ur/
 LOCATION:August Hall\, 420 Mason St\, San Francisco\, CA 94102
+END:VEVENT
+BEGIN:VEVENT
+UID:gauri-b-years-in-the-breaking-stand-up-7cebfa54@sf-events
+DTSTAMP:20261202T040000Z
+DTSTART:20261202T040000Z
+DTEND:20261202T060000Z
+SUMMARY:Gauri B: Years in the Breaking (stand-up)
+DESCRIPTION:Touring stand-up comic Gauri B\, known for dark\, political ma
+ terial and sharp crowd work\, plays a seated show at The Chapel. Doors 7p
+ m\, all ages.\nPrice: $35 seated ($45.95 with fees)\nhttps://wl.seeticket
+ s.us/event/gauri-b-years-in-the-breaking/700616?afflky=TheChapel
+URL:https://wl.seetickets.us/event/gauri-b-years-in-the-breaking/700616?af
+ flky=TheChapel
+LOCATION:The Chapel\, 777 Valencia St\, San Francisco\, CA 94110
 END:VEVENT
 BEGIN:VEVENT
 UID:woodchopper-s-ball-live-band-swing-night-5904beea@sf-events
@@ -2527,10 +2635,11 @@ DTSTAMP:20261203T030000Z
 DTSTART:20261203T030000Z
 DTEND:20261203T050000Z
 SUMMARY:Long Now: Lost Landscapes 02026 with Rick Prelinger (second night)
-DESCRIPTION:The second night of the annual Lost Landscapes: archival home 
- movies of everyday SF life\, shown to an audience that shouts out identif
- ications and memories. The Dec 1 show is sold out\, but this one still ha
- s tickets.\nPrice: $30.95\nhttps://longnow.org/talks/02026-prelinger/
+DESCRIPTION:SOLD OUT. The second night of the annual Lost Landscapes: arch
+ ival home movies of everyday SF life\, shown to an audience that shouts o
+ ut identifications and memories. The Dec 1 show is sold out\, but this on
+ e still has tickets.\nPrice: Sold out\nhttps://longnow.org/talks/02026-pr
+ elinger/
 URL:https://longnow.org/talks/02026-prelinger/
 LOCATION:Herbst Theatre\, 401 Van Ness Ave\, San Francisco\, CA 94102
 END:VEVENT
@@ -2751,6 +2860,22 @@ URL:https://citylights.com/events/panel-discussion-we-live-in-public-encam
 LOCATION:City Lights Booksellers\, 261 Columbus Ave\, San Francisco\, CA
 END:VEVENT
 BEGIN:VEVENT
+UID:sf-wine-lovers-speed-date-millennials-gen-z-24-35-group-40ac49e4@sf-ev
+ ents
+DTSTAMP:20261204T030000Z
+DTSTART:20261204T030000Z
+DTEND:20261204T060000Z
+SUMMARY:SF Wine Lovers Speed Date (Millennials & Gen Z\, 24-35 group)
+DESCRIPTION:A mixed speed-dating round followed by open mingling at a Lowe
+ r Nob Hill cocktail bar\, split into 24-35 and 36-46 age groups (31 fits 
+ the first). Book in advance\; there are no door tickets.\nPrice: up to $5
+ 5.17\nhttps://www.eventbrite.com/e/sf-wine-lovers-speed-date-millennials-
+ and-gen-z-tickets-2004698693758
+URL:https://www.eventbrite.com/e/sf-wine-lovers-speed-date-millennials-and
+ -gen-z-tickets-2004698693758
+LOCATION:Rye\, 688 Geary St\, San Francisco\, CA 94102
+END:VEVENT
+BEGIN:VEVENT
 UID:greg-fitzsimmons-a57f92c4@sf-events
 DTSTAMP:20261204T040000Z
 DTSTART:20261204T040000Z
@@ -2810,6 +2935,19 @@ URL:https://www.cocusocial.com/newevent/San-Francisco_Authentic-Asian-Dump
 LOCATION:The Hotel Majestic\, 1500 Sutter St\, San Francisco\, CA 94109
 END:VEVENT
 BEGIN:VEVENT
+UID:book-swap-holiday-movie-night-at-the-love-potion-library-017289eb@sf-e
+ vents
+DTSTAMP:20261205T020000Z
+DTSTART:20261205T020000Z
+DTEND:20261205T050000Z
+SUMMARY:Book Swap + holiday movie night at The Love Potion Library
+DESCRIPTION:Bring a few new or lightly used books to swap\, have a drink a
+ nd meet other readers\, then a holiday rom-com goes on at 7pm. There are 
+ raffle prizes and cosy treats.\nPrice: $15\nhttps://luma.com/t0cgbdsk
+URL:https://luma.com/t0cgbdsk
+LOCATION:The Love Potion Library\, 284 Noe St\, San Francisco\, CA 94114
+END:VEVENT
+BEGIN:VEVENT
 UID:sf-state-observatory-public-night-rooftop-telescope-stargazi-9ff8ffe6@
  sf-events
 DTSTAMP:20261205T023000Z
@@ -2821,8 +2959,10 @@ DESCRIPTION:Student docents run free rooftop telescope viewing of Saturn\,
   the Andromeda galaxy and the Moon\, with short astronomy talks. It only 
  opens when skies are clear (check SF State Observatory Instagram on the d
  ay). It's a long ride to the far southwest corner\, so the Muni M line to
-  SF State is easier.\nPrice: Free\nhttps://physics.sfsu.edu/observatory
-URL:https://physics.sfsu.edu/observatory
+  SF State is easier.\nPrice: Free\nhttps://sf.funcheap.com/sf-states-free
+ -public-rooftop-stargazing-nights-w-huge-telescope-fall-2026-2/
+URL:https://sf.funcheap.com/sf-states-free-public-rooftop-stargazing-night
+ s-w-huge-telescope-fall-2026-2/
 LOCATION:SF State Observatory\, Thornton Hall 10th floor\, 1600 Holloway A
  ve\, San Francisco\, CA 94132
 END:VEVENT
@@ -2853,6 +2993,65 @@ DESCRIPTION:SF's old-time and Americana string band celebrates its 10th al
  ice: $25\nhttps://crookedjades.com/beautiful-world-album-release-party/
 URL:https://crookedjades.com/beautiful-world-album-release-party/
 LOCATION:4 Star Theater\, 2200 Clement St\, San Francisco\, CA 94121
+END:VEVENT
+BEGIN:VEVENT
+UID:bachata-lab-friday-bachata-classes-3-levels-social-05c885f5@sf-events
+DTSTAMP:20261205T040000Z
+DTSTART:20261205T040000Z
+DTEND:20261205T090000Z
+SUMMARY:Bachata Lab: Friday bachata classes (3 levels) + social
+DESCRIPTION:Weekly Friday bachata night with beginner\, intermediate and a
+ dvanced classes from 8pm (partners rotate every minute)\, then social dan
+ cing until 1am.\nPrice: from $15\nhttps://www.eventbrite.com/e/bachata-la
+ b-tickets-1543049004109
+URL:https://www.eventbrite.com/e/bachata-lab-tickets-1543049004109
+LOCATION:Bachata Lab\, 1830 17th St\, San Francisco\, CA 94103
+END:VEVENT
+BEGIN:VEVENT
+UID:midlife-riot-90s-alt-rock-and-00s-emo-covers-with-paradise-i-08c1e558@
+ sf-events
+DTSTAMP:20261205T040000Z
+DTSTART:20261205T040000Z
+DTEND:20261205T060000Z
+SUMMARY:Midlife Riot: '90s alt-rock and '00s emo covers\, with Paradise In
+ ferno
+DESCRIPTION:A cheap\, loud singalong night of '90s alt-rock and '00s emo c
+ overs in the tiny Hotel Utah\, the closest music room to home. 21+.\nPric
+ e: $12 adv / $15 door\nhttps://wl.seetickets.us/event/midlife-riot/708044
+ ?afflky=HotelUtahSaloon
+URL:https://wl.seetickets.us/event/midlife-riot/708044?afflky=HotelUtahSal
+ oon
+LOCATION:Hotel Utah Saloon\, 500 4th St\, San Francisco\, CA 94107
+END:VEVENT
+BEGIN:VEVENT
+UID:sf-bike-party-first-friday-themed-group-ride-6235e98f@sf-events
+DTSTAMP:20261205T040000Z
+DTSTART:20261205T040000Z
+DTEND:20261205T060000Z
+SUMMARY:SF Bike Party (first Friday themed group ride)
+DESCRIPTION:A friendly\, costumed monthly group ride with music and party 
+ stops along the way: meet at 7:30pm\, roll at 8pm. The theme\, start poin
+ t and route change each month and are posted on SF Bike Party's Facebook/
+ Instagram.\nPrice: Free\nhttps://sf.funcheap.com/san-francisco-bike-party
+ -first-fridays-161/
+URL:https://sf.funcheap.com/san-francisco-bike-party-first-fridays-161/
+LOCATION:Start point announced by SF Bike Party\, San Francisco\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:sf-neo-futurists-the-infinite-wrench-30-plays-in-60-minutes-812284b5@s
+ f-events
+DTSTAMP:20261205T050000Z
+DTSTART:20261205T050000Z
+DTEND:20261205T063000Z
+SUMMARY:SF Neo-Futurists: The Infinite Wrench (30 plays in 60 minutes)
+DESCRIPTION:The Neo-Futurists race through 30 tiny original plays in an ho
+ ur\, in an order the audience chooses by shouting. It's personal\, politi
+ cal and very silly\, in a small SoMa space.\nPrice: $12-$28 online\nhttps
+ ://www.eventbrite.com/e/sf-neo-futurists-the-infinite-wrench-tickets-1987
+ 282529542
+URL:https://www.eventbrite.com/e/sf-neo-futurists-the-infinite-wrench-tick
+ ets-1987282529542
+LOCATION:447 Minna St\, 447 Minna St\, San Francisco\, CA 94103
 END:VEVENT
 BEGIN:VEVENT
 UID:ocean-beach-clean-up-golden-gate-national-parks-volunteer-mo-fa51d364@
@@ -3010,6 +3209,20 @@ URL:https://www.sfmoma.org/event/sfmoma-holiday-makers-market/
 LOCATION:SFMOMA\, Schwab Hall (Floor 2)\, 151 3rd St\, San Francisco\, CA
 END:VEVENT
 BEGIN:VEVENT
+UID:howard-zinn-book-fair-2026-a-time-of-monsters-a-time-to-figh-44a1af22@
+ sf-events
+DTSTAMP:20261206T180000Z
+DTSTART:20261206T180000Z
+DTEND:20261207T020000Z
+SUMMARY:Howard Zinn Book Fair 2026: A Time of Monsters\, A Time to Fight
+DESCRIPTION:An all-day free book fair of people's history\, with about 40 
+ panels of authors and organisers debating politics and strategy\, plus in
+ dependent publishers' and activists' tables.\nPrice: Free ($10 donation r
+ equested)\nhttps://www.zinnbookfair.org/
+URL:https://www.zinnbookfair.org/
+LOCATION:CCSF Mission Campus\, 1125 Valencia St\, San Francisco\, CA 94110
+END:VEVENT
+BEGIN:VEVENT
 UID:lindy-in-the-park-free-swing-dancing-beginner-lesson-dc7186a2@sf-event
  s
 DTSTAMP:20261206T190000Z
@@ -3035,6 +3248,22 @@ DESCRIPTION:Outdoor makers' market of independent Bay Area designers and a
  ttps://headwestmarketplace.com/ferrybuilding
 URL:https://headwestmarketplace.com/ferrybuilding
 LOCATION:Ferry Building back plaza\, 1 Ferry Building\, San Francisco\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:redbrick-ceramic-studio-sunday-clay-workshop-9a828976@sf-events
+DTSTAMP:20261206T210000Z
+DTSTART:20261206T210000Z
+DTEND:20261206T230000Z
+SUMMARY:RedBrick Ceramic Studio Sunday clay workshop
+DESCRIPTION:A beginner-friendly two-hour hands-on clay workshop with step-
+ by-step instruction from the studio's artist members\, in a Mission ceram
+ ics studio.\nPrice: $25 ($28.52 with fees)\nhttps://www.eventbrite.com/e/
+ redbrick-ceramic-studio-sunday-25-workshops-100-300-pm-tickets-2003309301
+ 047
+URL:https://www.eventbrite.com/e/redbrick-ceramic-studio-sunday-25-worksho
+ ps-100-300-pm-tickets-2003309301047
+LOCATION:RedBrick Ceramic Studio\, 2111 Mission St\, 3rd floor\, San Franc
+ isco\, CA 94110
 END:VEVENT
 BEGIN:VEVENT
 UID:zorn-medeski-lombardo-awakening-ground-matinee-e80e74b6@sf-events
@@ -3807,20 +4036,6 @@ DESCRIPTION:Science communicator Bebo White looks at whether the 'AI race'
 URL:https://www.eventbrite.com/e/is-there-really-a-global-ai-race-tickets-
  2004247499223
 LOCATION:Manny's\, 3092 16th St\, San Francisco\, CA 94103
-END:VEVENT
-BEGIN:VEVENT
-UID:new-directions-90-6a2027e1@sf-events
-DTSTAMP:20261216T030000Z
-DTSTART:20261216T030000Z
-DTEND:20261216T043000Z
-SUMMARY:New Directions @ 90
-DESCRIPTION:City Lights marks 90 years of the legendary indie publisher Ne
- w Directions with publisher Barbara Epler\, Declan Spring\, poet Forrest 
- Gander and guests.\nPrice: Free\nhttps://citylights.com/events/new-direct
- ions-90/
-URL:https://citylights.com/events/new-directions-90/
-LOCATION:City Lights Booksellers\, 261 Columbus Ave\, San Francisco\, CA 9
- 4133
 END:VEVENT
 BEGIN:VEVENT
 UID:drop-in-circling-workshop-berkeley-b7d1ce0e@sf-events
@@ -6655,6 +6870,22 @@ LOCATION:Swedish American Hall\, 2174 Market St (upstairs)\, San Francisco
  \, CA 94114
 END:VEVENT
 BEGIN:VEVENT
+UID:amory-lovins-on-disruptive-energy-futures-879d73ed@sf-events
+DTSTAMP:20270224T023000Z
+DTSTART:20270224T023000Z
+DTEND:20270224T033000Z
+SUMMARY:Amory Lovins on Disruptive Energy Futures
+DESCRIPTION:Physicist Amory Lovins revisits his famous 1976 Foreign Affair
+ s essay on America's energy paths and where the energy transition could g
+ o next. Doors and check-in at 6pm.\nPrice: $27.50 in person ($5 online)\n
+ https://www.commonwealthclub.org/events/2027-02-23/amory-lovins-disruptiv
+ e-energy-futures
+URL:https://www.commonwealthclub.org/events/2027-02-23/amory-lovins-disrup
+ tive-energy-futures
+LOCATION:Commonwealth Club World Affairs\, 110 The Embarcadero\, San Franc
+ isco\, CA 94105
+END:VEVENT
+BEGIN:VEVENT
 UID:drop-in-circling-workshop-berkeley-5a4289c1@sf-events
 DTSTAMP:20270224T030000Z
 DTSTART:20270224T030000Z
@@ -6744,6 +6975,20 @@ LOCATION:Great American Music Hall\, 859 O'Farrell St\, San Francisco\, CA
   94109
 END:VEVENT
 BEGIN:VEVENT
+UID:cloud-nothings-d142f5bf@sf-events
+DTSTAMP:20270227T050000Z
+DTSTART:20270227T050000Z
+DTEND:20270227T070000Z
+SUMMARY:Cloud Nothings
+DESCRIPTION:Cleveland indie-rock band Cloud Nothings bring their fast\, no
+ isy guitar songs to the small Rickshaw Stop. Doors 8pm\, all ages.\nPrice
+ : $25 adv ($33.05 with fees)\nhttps://wl.seetickets.us/event/cloud-nothin
+ gs/709735?afflky=RickshawStop
+URL:https://wl.seetickets.us/event/cloud-nothings/709735?afflky=RickshawSt
+ op
+LOCATION:Rickshaw Stop\, 155 Fell St\, San Francisco\, CA 94102
+END:VEVENT
+BEGIN:VEVENT
 UID:upswing-series-tyreek-mcdole-isaiah-collier-5013876e@sf-events
 DTSTAMP:20270228T030000Z
 DTSTART:20270228T030000Z
@@ -6770,5 +7015,64 @@ DESCRIPTION:The genre-hopping indie songwriter plays the Castro Theatre fo
  \nhttps://thecastro.com/events/caroline-rose-270227
 URL:https://thecastro.com/events/caroline-rose-270227
 LOCATION:Castro Theatre\, 429 Castro St\, San Francisco\, CA 94114
+END:VEVENT
+BEGIN:VEVENT
+UID:an-evening-with-lambchop-accompanied-by-free-key-choir-noise-f58a6321@
+ sf-events
+DTSTAMP:20270228T040000Z
+DTSTART:20270228T040000Z
+DTEND:20270228T060000Z
+SUMMARY:An Evening with Lambchop accompanied by Free Key Choir (Noise Pop 
+ 2027)
+DESCRIPTION:Kurt Wagner's Nashville band Lambchop plays its gospel-tinged 
+ new album with Oakland's experimental Free Key Choir\, inside Grace Cathe
+ dral. It's a one-off Noise Pop festival highlight\; the ride up Nob Hill 
+ is steep.\nhttps://www.noisepop.com/
+URL:https://www.noisepop.com/
+LOCATION:Grace Cathedral\, 1100 California St\, San Francisco\, CA 94108
+END:VEVENT
+BEGIN:VEVENT
+UID:gibby-haynes-butthole-surfers-mania-noise-pop-2027-a05d869f@sf-events
+DTSTAMP:20270301T040000Z
+DTSTART:20270301T040000Z
+DTEND:20270301T060000Z
+SUMMARY:Gibby Haynes: Butthole Surfers Mania (Noise Pop 2027)
+DESCRIPTION:Butthole Surfers frontman Gibby Haynes leads a night of the ba
+ nd's chaotic psych-punk songs at the ornate Great American Music Hall\, c
+ losing out Noise Pop. Doors 7pm.\nPrice: $35 adv ($47.88 with fees)\nhttp
+ s://wl.seetickets.us/event/Gibby-Haynes-Butthole-Surfer-Mania/708942?affl
+ ky=GreatAmericanMusicHall
+URL:https://wl.seetickets.us/event/Gibby-Haynes-Butthole-Surfer-Mania/7089
+ 42?afflky=GreatAmericanMusicHall
+LOCATION:Great American Music Hall\, 859 O'Farrell St\, San Francisco\, CA
+  94109
+END:VEVENT
+BEGIN:VEVENT
+UID:wasia-project-nocturne-live-2027-261a74ba@sf-events
+DTSTAMP:20270303T040000Z
+DTSTART:20270303T040000Z
+DTEND:20270303T060000Z
+SUMMARY:Wasia Project: Nocturne Live 2027
+DESCRIPTION:London sibling duo Wasia Project (Olivia Hardy and Will Gao) p
+ lay their debut album Nocturne\, which mixes classical piano\, cinematic 
+ pop and electronica. Doors 7pm\, all ages.\nhttps://thecastro.com/events/
+ wasia-project-270302
+URL:https://thecastro.com/events/wasia-project-270302
+LOCATION:Castro Theatre\, 429 Castro St\, San Francisco\, CA 94114
+END:VEVENT
+BEGIN:VEVENT
+UID:chip-bergh-the-levi-s-story-a389e593@sf-events
+DTSTAMP:20270305T020000Z
+DTSTART:20270305T020000Z
+DTEND:20270305T030000Z
+SUMMARY:Chip Bergh: The Levi's Story
+DESCRIPTION:Former Levi Strauss & Co. CEO Chip Bergh talks about rebuildin
+ g one of San Francisco's most iconic companies. Doors and check-in at 5:3
+ 0pm.\nPrice: $25 in person ($57 with book)\nhttps://www.commonwealthclub.
+ org/events/2027-03-04/chip-bergh-levis-story
+URL:https://www.commonwealthclub.org/events/2027-03-04/chip-bergh-levis-st
+ ory
+LOCATION:Commonwealth Club World Affairs\, 110 The Embarcadero\, San Franc
+ isco\, CA 94105
 END:VEVENT
 END:VCALENDAR

@@ -1,5 +1,11 @@
 [
   {
+    "ran_at": "2026-11-14T06:45:00-08:00",
+    "added": 21,
+    "considered": 96,
+    "notes": "Part 1: no new feed imports; pruned 9. Part 2: freshness check of 75 events (25 Nov-6 Dec): now sold out - A John Waters Christmas (30 Nov), Lost Landscapes 2nd night (2 Dec), SpeedCalifornia 28 Nov (men); SF State observatory link replaced; removed City Lights 'New Directions @ 90' (15 Dec, postponed to 21 Jan, no time yet). 21 adds: salsa x2, bachata, figure drawing, ceramics workshop, 3 speed-dating nights (25-45, 24-35), Love Potion Library x2, Critical Mass + Bike Party rides, Infinite Wrench, Hotel Utah covers night, Gauri B, Howard Zinn Book Fair; late Feb/Mar: Amory Lovins, Chip Bergh, Noise Pop (Lambchop, Gibby Haynes), Cloud Nothings, Wasia Project. 5Rhythms 27 Nov cancelled per Momence. Blocked: Ticketmaster, missioncityswing.com."
+  },
+  {
     "ran_at": "2026-11-13T07:15:00-08:00",
     "added": 21,
     "considered": 73,
