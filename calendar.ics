@@ -5,132 +5,6 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:San Francisco Events
 X-WR-TIMEZONE:America/Los_Angeles
 BEGIN:VEVENT
-UID:exploratorium-after-dark-unplug-and-play-7cd8723c@sf-events
-DTSTAMP:20261113T020000Z
-DTSTART:20261113T020000Z
-DTEND:20261113T060000Z
-SUMMARY:Exploratorium After Dark: Unplug and Play
-DESCRIPTION:The monthly social After Dark: Roryography dance session\, sci
- ence trivia\, a debate on alien consciousness and 650+ hands-on exhibits.
-  It's adults only (18+) and billed as a night to 'find your community'.\n
- https://www.exploratorium.edu/visit/calendar/after-dark-unplug-play-nov20
- 26
-URL:https://www.exploratorium.edu/visit/calendar/after-dark-unplug-play-no
- v2026
-LOCATION:Exploratorium (Pier 15)\, Pier 15\, The Embarcadero at Green St\,
-  San Francisco\, CA 94111
-END:VEVENT
-BEGIN:VEVENT
-UID:cal-academy-nightlife-pajammy-jam-21-bdbcbe90@sf-events
-DTSTAMP:20261113T020000Z
-DTSTART:20261113T020000Z
-DTEND:20261113T060000Z
-SUMMARY:Cal Academy NightLife: Pajammy Jam (21+)
-DESCRIPTION:A pajama-themed house-party NightLife with games\, music and t
- he aquarium and rainforest open after hours. It's 21+\, and planetarium s
- hows are $7 extra.\nPrice: $26\nhttps://www.calacademy.org/nightlife/nigh
- tlife-pajammy-jam
-URL:https://www.calacademy.org/nightlife/nightlife-pajammy-jam
-LOCATION:California Academy of Sciences\, 55 Music Concourse Dr\, Golden G
- ate Park\, San Francisco\, CA 94118
-END:VEVENT
-BEGIN:VEVENT
-UID:little-forest-screening-conversation-with-director-yim-soon--742627d3@
- sf-events
-DTSTAMP:20261113T023000Z
-DTSTART:20261113T023000Z
-DTEND:20261113T043000Z
-SUMMARY:Little Forest: screening + conversation with director Yim Soon-rye
-DESCRIPTION:Screening of the much-loved 2018 Korean foodie film Little For
- est\, followed by a conversation with director Yim Soon-rye in person\, o
- ne of South Korea's leading auteurs. Presented with the Korean Cultural C
- enter LA\, alongside the RM x SFMOMA exhibition.\nPrice: Free RSVP or $10
- -$30 (tiered)\nhttps://www.sfmoma.org/event/little-forest-film-screening-
- conversation/
-URL:https://www.sfmoma.org/event/little-forest-film-screening-conversation
- /
-LOCATION:SFMOMA\, Phyllis Wattis Theater\, 151 Third St\, San Francisco\, 
- CA 94103
-END:VEVENT
-BEGIN:VEVENT
-UID:mark-danner-crossing-the-rubicon-in-conversation-with-guy-ma-a3aff1b1@
- sf-events
-DTSTAMP:20261113T030000Z
-DTSTART:20261113T030000Z
-DTEND:20261113T050000Z
-SUMMARY:Mark Danner: Crossing the Rubicon\, in conversation with Guy Marzo
- rati
-DESCRIPTION:Journalist and MacArthur Fellow Mark Danner discusses his coll
- ected essays tracing the erosion of American democratic institutions from
-  Bush v. Gore to 2026\, with KQED's Guy Marzorati. The talk is in the sto
- re at the landmark Beat-era bookshop.\nPrice: Free (first come\, first se
- rved)\nhttps://citylights.com/events/mark-danner/
-URL:https://citylights.com/events/mark-danner/
-LOCATION:City Lights Booksellers\, 261 Columbus Ave\, San Francisco\, CA 9
- 4133
-END:VEVENT
-BEGIN:VEVENT
-UID:ics-e47b9bf006cd@sf-events
-DTSTAMP:20261113T030000Z
-DTSTART:20261113T030000Z
-DTEND:20261113T050000Z
-SUMMARY:Talent Show: Has Mox Got Talent?
-DESCRIPTION:The rationalist/AI-safety community space hosts a talent show 
- of music\, magic\, comedy and odd skills like speed-cubing and mental mat
- h. All are welcome\, and it's an easy way to meet the Mox crowd. (Moved f
- rom 29 Oct to 12 Nov.)\nPrice: Free (register on Luma)\nhttps://luma.com/
- mox-inxx
-URL:https://luma.com/mox-inxx
-LOCATION:Mox\, 1680 Mission St\, San Francisco\, CA 94103
-END:VEVENT
-BEGIN:VEVENT
-UID:kqed-live-object-stories-san-francisco-62f26df7@sf-events
-DTSTAMP:20261113T030000Z
-DTSTART:20261113T030000Z
-DTEND:20261113T050000Z
-SUMMARY:KQED Live: Object Stories San Francisco
-DESCRIPTION:Bay Area artists\, makers and community voices each bring a ha
- ndmade object that matters to them and tell its story. It's the American 
- Craft Council's storytelling series\, co-presented by KQED.\nPrice: $30 (
- $25 members)\nhttps://www.kqed.org/event/6829/object-stories-san-francisc
- o
-URL:https://www.kqed.org/event/6829/object-stories-san-francisco
-LOCATION:The Commons at KQED\, 2601 Mariposa St\, San Francisco\, CA 94110
-END:VEVENT
-BEGIN:VEVENT
-UID:points-of-departure-life-on-the-water-reunion-fort-mason-99e3f1d7@sf-e
- vents
-DTSTAMP:20261113T030000Z
-DTSTART:20261113T030000Z
-DTEND:20261113T043000Z
-SUMMARY:Points of Departure: Life on the Water reunion (Fort Mason)
-DESCRIPTION:The founders of Life on the Water\, the experimental performan
- ce company that ran this stage from 1986 to 1993 (Ellen Sebastian Chang\,
-  Bill Talen aka Reverend Billy\, Leonard Pitt\, Joe Lambert)\, reunite fo
- r a conversation plus rare performance video. Reserve space on the Fort M
- ason page.\nhttps://fortmason.org/event/fort-mason-art-points-of-departur
- e-fall-2026-2/2026-11-12/
-URL:https://fortmason.org/event/fort-mason-art-points-of-departure-fall-20
- 26-2/2026-11-12/
-LOCATION:Bayfront Theater\, Fort Mason Center (Building B\, 3rd floor)\, 2
-  Marina Blvd\, San Francisco\, CA 94123
-END:VEVENT
-BEGIN:VEVENT
-UID:arab-film-festival-under-the-stars-spices-and-lies-free-outd-79d358ef@
- sf-events
-DTSTAMP:20261113T033000Z
-DTSTART:20261113T033000Z
-DTEND:20261113T053000Z
-SUMMARY:Arab Film Festival Under the Stars: Spices and Lies (free outdoor 
- screening)
-DESCRIPTION:The 30th Arab Film Festival's first-ever outdoor screening is 
- Spices and Lies\, a French-Algerian romantic comedy starring Hiam Abbas. 
- Shawarma and kunafa vendors are on site in Hayes Valley's open-air PROXY 
- lot.\nPrice: Free (RSVP)\nhttps://aff30.arabfilmfestival.org/events
-URL:https://aff30.arabfilmfestival.org/events
-LOCATION:The PROXY\, 432 Octavia St\, San Francisco\, CA 94102
-END:VEVENT
-BEGIN:VEVENT
 UID:mahal-mural-unveiling-mini-block-party-soma-filipinas-83560ede@sf-even
  ts
 DTSTAMP:20261114T020000Z
@@ -1885,6 +1759,21 @@ DESCRIPTION:A beginner hand-building workshop run by Piscola Studio in a C
  own snack or drink.\nPrice: $60\nhttps://luma.com/qozwef2n
 URL:https://luma.com/qozwef2n
 LOCATION:The Love Potion Library\, 284 Noe St\, San Francisco\, CA 94114
+END:VEVENT
+BEGIN:VEVENT
+UID:ics-c33d39b16902@sf-events
+DTSTAMP:20261125T023000Z
+DTSTART:20261125T023000Z
+DTEND:20261125T043000Z
+SUMMARY:Let's talk about Recursive Self-Improvement: the latest hot topic 
+ in AIS
+DESCRIPTION:AI Safety SF discussion night on recursive self-improvement\, 
+ prompted by METR's report on AI-accelerated research at Anthropic: a grou
+ p level-set\, then breakouts for newcomers (short readings) and deep-cont
+ ext technical sessions. About 15 minutes of required reading beforehand.\
+ nPrice: Free (register on Luma)\nhttps://luma.com/aisafety-4phl
+URL:https://luma.com/aisafety-4phl
+LOCATION:SoMa venue (address shown after registering)
 END:VEVENT
 BEGIN:VEVENT
 UID:sf-history-night-san-francisco-history-association-56315659@sf-events

@@ -1,159 +1,5 @@
 [
   {
-    "title": "Exploratorium After Dark: Unplug and Play",
-    "start": "2026-11-12T18:00:00-08:00",
-    "end": "2026-11-12T22:00:00-08:00",
-    "venue": "Exploratorium (Pier 15)",
-    "address": "Pier 15, The Embarcadero at Green St, San Francisco, CA 94111",
-    "url": "https://www.exploratorium.edu/visit/calendar/after-dark-unplug-play-nov2026",
-    "source": "venue:exploratorium",
-    "tags": [
-      "talk",
-      "community",
-      "dance"
-    ],
-    "price": null,
-    "description": "The monthly social After Dark: Roryography dance session, science trivia, a debate on alien consciousness and 650+ hands-on exhibits. It's adults only (18+) and billed as a night to 'find your community'.",
-    "neighbourhood": "Embarcadero",
-    "cycle_minutes": 10,
-    "added": "2026-10-26",
-    "id": "exploratorium-after-dark-unplug-and-play-7cd8723c"
-  },
-  {
-    "title": "Cal Academy NightLife: Pajammy Jam (21+)",
-    "start": "2026-11-12T18:00:00-08:00",
-    "end": "2026-11-12T22:00:00-08:00",
-    "venue": "California Academy of Sciences",
-    "address": "55 Music Concourse Dr, Golden Gate Park, San Francisco, CA 94118",
-    "url": "https://www.calacademy.org/nightlife/nightlife-pajammy-jam",
-    "source": "venue:calacademy",
-    "tags": [
-      "music",
-      "community"
-    ],
-    "price": "$26",
-    "description": "A pajama-themed house-party NightLife with games, music and the aquarium and rainforest open after hours. It's 21+, and planetarium shows are $7 extra.",
-    "neighbourhood": "Golden Gate Park",
-    "cycle_minutes": 27,
-    "added": "2026-10-27",
-    "id": "cal-academy-nightlife-pajammy-jam-21-bdbcbe90"
-  },
-  {
-    "title": "Little Forest: screening + conversation with director Yim Soon-rye",
-    "start": "2026-11-12T18:30:00-08:00",
-    "end": null,
-    "venue": "SFMOMA, Phyllis Wattis Theater",
-    "address": "151 Third St, San Francisco, CA 94103",
-    "url": "https://www.sfmoma.org/event/little-forest-film-screening-conversation/",
-    "source": "venue:sfmoma",
-    "tags": [
-      "film",
-      "talk"
-    ],
-    "price": "Free RSVP or $10-$30 (tiered)",
-    "description": "Screening of the much-loved 2018 Korean foodie film Little Forest, followed by a conversation with director Yim Soon-rye in person, one of South Korea's leading auteurs. Presented with the Korean Cultural Center LA, alongside the RM x SFMOMA exhibition.",
-    "neighbourhood": "SoMa",
-    "cycle_minutes": 5,
-    "added": "2026-11-03",
-    "id": "little-forest-screening-conversation-with-director-yim-soon--742627d3"
-  },
-  {
-    "title": "Mark Danner: Crossing the Rubicon, in conversation with Guy Marzorati",
-    "start": "2026-11-12T19:00:00-08:00",
-    "end": null,
-    "venue": "City Lights Booksellers",
-    "address": "261 Columbus Ave, San Francisco, CA 94133",
-    "url": "https://citylights.com/events/mark-danner/",
-    "source": "venue:city-lights",
-    "tags": [
-      "talk"
-    ],
-    "price": "Free (first come, first served)",
-    "description": "Journalist and MacArthur Fellow Mark Danner discusses his collected essays tracing the erosion of American democratic institutions from Bush v. Gore to 2026, with KQED's Guy Marzorati. The talk is in the store at the landmark Beat-era bookshop.",
-    "neighbourhood": "North Beach",
-    "cycle_minutes": 10,
-    "added": "2026-10-28",
-    "id": "mark-danner-crossing-the-rubicon-in-conversation-with-guy-ma-a3aff1b1"
-  },
-  {
-    "title": "Talent Show: Has Mox Got Talent?",
-    "start": "2026-11-12T19:00:00-08:00",
-    "end": "2026-11-12T21:00:00-08:00",
-    "venue": "Mox",
-    "address": "1680 Mission St, San Francisco, CA 94103",
-    "url": "https://luma.com/mox-inxx",
-    "source": "ics:Mox",
-    "tags": [
-      "community",
-      "comedy"
-    ],
-    "price": "Free (register on Luma)",
-    "description": "The rationalist/AI-safety community space hosts a talent show of music, magic, comedy and odd skills like speed-cubing and mental math. All are welcome, and it's an easy way to meet the Mox crowd. (Moved from 29 Oct to 12 Nov.)",
-    "neighbourhood": "Mission",
-    "cycle_minutes": 13,
-    "id": "ics-e47b9bf006cd",
-    "added": "2026-11-01"
-  },
-  {
-    "title": "KQED Live: Object Stories San Francisco",
-    "start": "2026-11-12T19:00:00-08:00",
-    "end": null,
-    "venue": "The Commons at KQED",
-    "address": "2601 Mariposa St, San Francisco, CA 94110",
-    "url": "https://www.kqed.org/event/6829/object-stories-san-francisco",
-    "source": "venue:kqed",
-    "tags": [
-      "talk",
-      "art"
-    ],
-    "price": "$30 ($25 members)",
-    "description": "Bay Area artists, makers and community voices each bring a handmade object that matters to them and tell its story. It's the American Craft Council's storytelling series, co-presented by KQED.",
-    "neighbourhood": "Mission",
-    "cycle_minutes": 13,
-    "added": "2026-11-01",
-    "id": "kqed-live-object-stories-san-francisco-62f26df7"
-  },
-  {
-    "title": "Points of Departure: Life on the Water reunion (Fort Mason)",
-    "start": "2026-11-12T19:00:00-08:00",
-    "end": "2026-11-12T20:30:00-08:00",
-    "venue": "Bayfront Theater, Fort Mason Center (Building B, 3rd floor)",
-    "address": "2 Marina Blvd, San Francisco, CA 94123",
-    "url": "https://fortmason.org/event/fort-mason-art-points-of-departure-fall-2026-2/2026-11-12/",
-    "source": "venue:fort-mason",
-    "tags": [
-      "art",
-      "talk",
-      "theatre"
-    ],
-    "price": null,
-    "description": "The founders of Life on the Water, the experimental performance company that ran this stage from 1986 to 1993 (Ellen Sebastian Chang, Bill Talen aka Reverend Billy, Leonard Pitt, Joe Lambert), reunite for a conversation plus rare performance video. Reserve space on the Fort Mason page.",
-    "neighbourhood": "Marina",
-    "cycle_minutes": 22,
-    "added": "2026-11-03",
-    "id": "points-of-departure-life-on-the-water-reunion-fort-mason-99e3f1d7"
-  },
-  {
-    "title": "Arab Film Festival Under the Stars: Spices and Lies (free outdoor screening)",
-    "start": "2026-11-12T19:30:00-08:00",
-    "end": null,
-    "venue": "The PROXY",
-    "address": "432 Octavia St, San Francisco, CA 94102",
-    "url": "https://aff30.arabfilmfestival.org/events",
-    "source": "venue:arab-film-festival",
-    "tags": [
-      "film",
-      "outdoors",
-      "food"
-    ],
-    "price": "Free (RSVP)",
-    "description": "The 30th Arab Film Festival's first-ever outdoor screening is Spices and Lies, a French-Algerian romantic comedy starring Hiam Abbas. Shawarma and kunafa vendors are on site in Hayes Valley's open-air PROXY lot.",
-    "neighbourhood": "Hayes Valley",
-    "cycle_minutes": 11,
-    "added": "2026-10-28",
-    "id": "arab-film-festival-under-the-stars-spices-and-lies-free-outd-79d358ef"
-  },
-  {
     "title": "Mahal Mural Unveiling + mini block party (SoMa Filipinas)",
     "start": "2026-11-13T18:00:00-08:00",
     "end": "2026-11-13T22:00:00-08:00",
@@ -2338,6 +2184,26 @@
     "cycle_minutes": 16,
     "added": "2026-10-31",
     "id": "clay-play-make-your-own-bookends-air-dry-clay-9a4a500b"
+  },
+  {
+    "id": "ics-c33d39b16902",
+    "title": "Let's talk about Recursive Self-Improvement: the latest hot topic in AIS",
+    "start": "2026-11-24T18:30:00-08:00",
+    "end": "2026-11-24T20:30:00-08:00",
+    "venue": "SoMa venue (address shown after registering)",
+    "address": null,
+    "url": "https://luma.com/aisafety-4phl",
+    "source": "ics:AI Safety San Francisco",
+    "tags": [
+      "talk",
+      "tech",
+      "community"
+    ],
+    "price": "Free (register on Luma)",
+    "description": "AI Safety SF discussion night on recursive self-improvement, prompted by METR's report on AI-accelerated research at Anthropic: a group level-set, then breakouts for newcomers (short readings) and deep-context technical sessions. About 15 minutes of required reading beforehand.",
+    "added": "2026-11-15",
+    "neighbourhood": "SoMa",
+    "cycle_minutes": 5
   },
   {
     "title": "SF History Night (San Francisco History Association)",
