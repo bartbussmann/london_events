@@ -452,6 +452,19 @@ listings:
     tags: [comedy, theatre]
     # festival 14-31 Jan 2027; Sched event pages are behind Cloudflare, the iCal is public
 
+  - name: Church of 8 Wheels roller disco (adult Sat nights, Tue theme nights)
+    url: "https://www.eventbrite.com/api/v3/organizers/31722333747/events/?status=live&order_by=start_asc&expand=venue"
+    tags: [sport, dance]
+  - name: Blondie's Bar free Monday bluegrass jam (Valencia St)
+    url: "https://www.eventbrite.com/api/v3/organizers/57742980123/events/?status=live&order_by=start_asc&expand=venue"
+    tags: [music]
+  - name: Roar Shack Live! (free new-music recitals, 34 7th St)
+    url: https://www.eventbrite.com/d/ca--san-francisco/roar-shack-live/
+    tags: [music]
+  - name: Gist IRL speed friending
+    url: https://app.gistirl.com
+    tags: [community]
+
 keywords:
   - "contact improvisation jam San Francisco"
   - "contact improv class Bay Area beginners"

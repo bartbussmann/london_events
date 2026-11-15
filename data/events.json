@@ -1382,6 +1382,26 @@
     "cycle_minutes": 6
   },
   {
+    "id": "ics-e47b9bf006cd",
+    "title": "Talent Show: Has Mox Got Talent?",
+    "start": "2026-11-19T19:00:00-08:00",
+    "end": "2026-11-19T21:00:00-08:00",
+    "venue": "Mox",
+    "address": "1680 Mission St, San Francisco, CA 94103",
+    "url": "https://luma.com/mox-inxx",
+    "source": "ics:Mox",
+    "tags": [
+      "comedy",
+      "music",
+      "community"
+    ],
+    "price": "Free (register on Luma)",
+    "description": "Mox's community talent show (moved again, now Thu 19 Nov): members and friends perform whatever they've got. A friendly, low-key way to meet the Mox crowd.",
+    "added": "2026-11-15",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 13
+  },
+  {
     "title": "Salt & Spirit: Opera Parallele world premiere at Z Space",
     "start": "2026-11-19T19:30:00-08:00",
     "end": null,
@@ -4517,6 +4537,26 @@
     "id": "introduction-to-bachata-and-salsa-drop-in-class-95104fa1"
   },
   {
+    "id": "holiday-mixer-at-the-commonwealth-club-music-art-bites-and-d-3ef92829",
+    "title": "Holiday Mixer at the Commonwealth Club: music, art, bites and drinks",
+    "start": "2026-12-11T18:00:00-08:00",
+    "end": "2026-12-11T20:30:00-08:00",
+    "venue": "Commonwealth Club World Affairs (Taube Family Auditorium)",
+    "address": "110 The Embarcadero, San Francisco, CA 94105",
+    "url": "https://www.commonwealthclub.org/events/2026-12-11/holiday-mixer-club-2026-music-art-bites-and-bevs",
+    "source": "venue:commonwealth-club",
+    "tags": [
+      "community",
+      "music",
+      "art"
+    ],
+    "price": "$50 ($35 members)",
+    "description": "The Commonwealth Club's annual holiday party, with food, drinks and entertainment, SF Poet Laureate Genny Lim and visual artist Victoria Veedell. Doors open at 5:30pm, and it's an easy way to meet the club's crowd.",
+    "neighbourhood": "Embarcadero",
+    "cycle_minutes": 5,
+    "added": "2026-11-15"
+  },
+  {
     "title": "Lucius",
     "start": "2026-12-11T20:00:00-08:00",
     "end": null,
@@ -4763,6 +4803,26 @@
     "id": "susanna-kwan-awake-in-the-floating-city-with-becca-prowda-43a6315c"
   },
   {
+    "id": "holidaze-market-light-up-the-night-party-at-the-box-shop-520b907f",
+    "title": "Holidaze Market & Light Up the Night Party at The Box Shop",
+    "start": "2026-12-13T16:00:00-08:00",
+    "end": "2026-12-13T22:00:00-08:00",
+    "venue": "The Box Shop",
+    "address": "951 Hudson Ave, San Francisco, CA 94124",
+    "url": "https://luma.com/kygbsxgx",
+    "source": "aggregator:luma",
+    "tags": [
+      "market",
+      "art",
+      "community"
+    ],
+    "price": "Free (RSVP; donation optional)",
+    "description": "The artist compound's last party of 2026: a makers' market, fire garden, Entwined light sculptures, a blacksmithing demo and an art table for making holiday decorations. From 6pm it turns into dancing with DJ Ron Ison inside and on the roof decks.",
+    "neighbourhood": "Hunters Point",
+    "cycle_minutes": 30,
+    "added": "2026-11-15"
+  },
+  {
     "title": "JD McPherson: SOCKS, A Rock n' Roll Christmas Tour, with Melissa Carper",
     "start": "2026-12-13T20:00:00-08:00",
     "end": null,
@@ -4855,6 +4915,24 @@
     "id": "willi-carlisle-the-universal-bubba-tour-with-amelia-day-74a464a1"
   },
   {
+    "id": "free-bluegrass-jam-concert-at-blondie-s-73f5d526",
+    "title": "Free bluegrass jam & concert at Blondie's",
+    "start": "2026-12-14T20:30:00-08:00",
+    "end": "2026-12-14T22:30:00-08:00",
+    "venue": "Blondie's Bar",
+    "address": "540 Valencia St, San Francisco, CA 94110",
+    "url": "https://www.eventbrite.com/e/free-bluegrass-in-san-francisco-live-jam-concert-tickets-1990533650733",
+    "source": "aggregator:eventbrite",
+    "tags": [
+      "music"
+    ],
+    "price": "Free",
+    "description": "Blondie's weekly Monday night of local bluegrass, a concert plus open jam on Valencia St. Free with an Eventbrite RSVP.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 12,
+    "added": "2026-11-15"
+  },
+  {
     "title": "The Quantum Threat: What Happens When Our Digital Locks Stop Working?",
     "start": "2026-12-15T18:00:00-08:00",
     "end": "2026-12-15T19:30:00-08:00",
@@ -4891,6 +4969,24 @@
     "neighbourhood": "Mission",
     "cycle_minutes": 13,
     "added": "2026-11-08"
+  },
+  {
+    "id": "sf-speed-dating-at-mr-mahjong-s-ages-25-39-62a5f88b",
+    "title": "SF Speed Dating at Mr. Mahjong's (ages 25-39)",
+    "start": "2026-12-15T18:30:00-08:00",
+    "end": "2026-12-15T20:30:00-08:00",
+    "venue": "Mr. Mahjong's",
+    "address": "260 Kearny St, San Francisco, CA 94108",
+    "url": "https://www.eventbrite.com/e/sf-speed-dating-singles-ages-25-39-tickets-2004794782161",
+    "source": "aggregator:eventbrite",
+    "tags": [
+      "community"
+    ],
+    "price": "$28.52-$33.85",
+    "description": "A mixed speed-dating night for singles aged 25-39, run by Bay Area Speed Dating, Mixers & Matchmaking. It's in a FiDi bar a few minutes from home.",
+    "neighbourhood": "Financial District",
+    "cycle_minutes": 6,
+    "added": "2026-11-15"
   },
   {
     "title": "Drop-In Circling Workshop (Berkeley)",
@@ -5185,6 +5281,25 @@
     "neighbourhood": "Potrero Hill",
     "cycle_minutes": 13,
     "added": "2026-11-08"
+  },
+  {
+    "id": "20s-30s-speed-friending-ice-skating-at-union-square-06cfc28a",
+    "title": "20s & 30s Speed Friending + ice skating at Union Square",
+    "start": "2026-12-18T19:00:00-08:00",
+    "end": "2026-12-18T21:00:00-08:00",
+    "venue": "Safeway Holiday Ice Rink, Union Square",
+    "address": "333 Post St, San Francisco, CA 94108",
+    "url": "https://www.eventbrite.com/e/20-30s-speed-friending-annual-union-square-ice-skating-new-friends-tickets-2004499886119",
+    "source": "aggregator:eventbrite",
+    "tags": [
+      "community",
+      "sport"
+    ],
+    "price": "$30 (rink admission extra)",
+    "description": "About an hour of app-guided one-on-one chats (10 rounds of 8 minutes), then small groups head onto the Union Square rink together. Book through Gist; skating time and skates aren't included in the ticket.",
+    "neighbourhood": "Union Square",
+    "cycle_minutes": 6,
+    "added": "2026-11-15"
   },
   {
     "title": "Soulful Joy (Christmas at Grace Cathedral)",
@@ -5688,6 +5803,25 @@
     "added": "2026-11-09"
   },
   {
+    "id": "mid-week-merriment-skate-naughty-or-n-ice-at-union-square-5ef39e1d",
+    "title": "Mid-Week Merriment skate: Naughty or N-Ice at Union Square",
+    "start": "2026-12-23T20:30:00-08:00",
+    "end": "2026-12-23T21:30:00-08:00",
+    "venue": "Safeway Holiday Ice Rink, Union Square",
+    "address": "333 Post St, San Francisco, CA 94108",
+    "url": "https://unionsquareicerink.com/special-events/",
+    "source": "venue:union-square-ice-rink",
+    "tags": [
+      "sport",
+      "community"
+    ],
+    "price": "$22 (incl. skate rental)",
+    "description": "The outdoor rink's themed Wednesday 8:30pm session, with festive music and an invitation to dress to match your 'naughty or nice' holiday mood. It's a one-hour session under the Union Square tree.",
+    "neighbourhood": "Union Square",
+    "cycle_minutes": 6,
+    "added": "2026-11-15"
+  },
+  {
     "id": "sf-city-guides-free-walking-tour-gardens-in-the-sky-salesfor-48a267b2",
     "title": "SF City Guides free walking tour: Gardens in the Sky, Salesforce Transit Center (Christmas Eve)",
     "start": "2026-12-24T11:00:00-08:00",
@@ -5705,6 +5839,43 @@
     "neighbourhood": "SoMa",
     "cycle_minutes": 2,
     "added": "2026-11-12"
+  },
+  {
+    "id": "christmas-eve-lessons-and-carols-at-grace-cathedral-d89a8009",
+    "title": "Christmas Eve Lessons and Carols at Grace Cathedral",
+    "start": "2026-12-24T16:00:00-08:00",
+    "end": "2026-12-24T17:00:00-08:00",
+    "venue": "Grace Cathedral",
+    "address": "1100 California St, San Francisco, CA 94108",
+    "url": "https://gracecathedral.org/calendar-events/christmas-eve-lessons-and-carols-in-person-and-livestream-2/",
+    "source": "venue:grace-cathedral",
+    "tags": [
+      "music",
+      "community"
+    ],
+    "price": "Free",
+    "description": "The traditional Nine Lessons and Carols service, with readings, anthems from the Cathedral Choirs and congregational carols in the cathedral. It's a church service, open to all; go early, because Christmas Eve fills up.",
+    "neighbourhood": "Nob Hill",
+    "cycle_minutes": 12,
+    "added": "2026-11-15"
+  },
+  {
+    "id": "a-christmas-swingin-spectacular-with-lavay-smith-her-red-hot-d0d1d054",
+    "title": "A Christmas Swingin' Spectacular with Lavay Smith & Her Red Hot Skillet Lickers",
+    "start": "2026-12-24T18:30:00-08:00",
+    "end": "2026-12-24T20:00:00-08:00",
+    "venue": "Biscuits & Blues",
+    "address": "401 Mason St, San Francisco, CA 94102",
+    "url": "https://www.eventbrite.com/e/a-christmas-swingin-spectacular-with-lavay-smith-and-her-red-hot-skillet-lickers-tickets-2001809921362",
+    "source": "aggregator:eventbrite",
+    "tags": [
+      "music"
+    ],
+    "price": "$39.11-$65.75",
+    "description": "SF's favourite swing band (eight pieces, four horns) plays a Christmas Eve show in the downtown blues club. It's a festive, non-club option for the evening.",
+    "neighbourhood": "Union Square",
+    "cycle_minutes": 6,
+    "added": "2026-11-15"
   },
   {
     "title": "Oakland Interfaith Gospel Choir: Christmas Eve (early show)",
@@ -5759,6 +5930,25 @@
     "cycle_minutes": 9,
     "added": "2026-10-30",
     "id": "oakland-interfaith-gospel-choir-christmas-eve-late-show-30a44fb7"
+  },
+  {
+    "id": "community-christmas-potluck-at-st-francis-lutheran-church-eb00fd0f",
+    "title": "Community Christmas Potluck at St. Francis Lutheran Church",
+    "start": "2026-12-25T13:00:00-08:00",
+    "end": "2026-12-25T15:00:00-08:00",
+    "venue": "St. Francis Lutheran Church (Parish Hall)",
+    "address": "152 Church St, San Francisco, CA 94114",
+    "url": "https://www.eventbrite.com/e/community-christmas-potluck-tickets-2004328918751",
+    "source": "aggregator:eventbrite",
+    "tags": [
+      "community",
+      "food"
+    ],
+    "price": "Free (register; 75 places)",
+    "description": "A Christmas Day potluck lunch open to neighbours and newcomers ('everyone is welcome at our table'), with ham, cookies and hot drinks provided. Bringing a side dish is optional, and you need to register ahead because the hall holds 75.",
+    "neighbourhood": "Duboce Triangle",
+    "cycle_minutes": 14,
+    "added": "2026-11-15"
   },
   {
     "id": "sf-city-guides-free-walking-tour-gold-rush-city-christmas-da-fc7c39d3",
@@ -6080,6 +6270,26 @@
     "id": "bachata-tuesday-class-social-last-tuesday-73fcfc10"
   },
   {
+    "id": "tuesday-skate-theme-night-at-the-church-of-8-wheels-9a9d538b",
+    "title": "Tuesday Skate Theme Night at the Church of 8 Wheels",
+    "start": "2026-12-29T20:00:00-08:00",
+    "end": "2026-12-29T22:00:00-08:00",
+    "venue": "Church of 8 Wheels",
+    "address": "554 Fillmore St, San Francisco, CA 94117",
+    "url": "https://www.eventbrite.com/e/tuesday-skate-theme-nights-8-pm-to-1000-pm-tickets-1978869684496",
+    "source": "aggregator:eventbrite",
+    "tags": [
+      "sport",
+      "dance",
+      "community"
+    ],
+    "price": "$24.13",
+    "description": "A themed adult roller-disco night in a converted church, run by SF's 'Godfather of Skate', D. Miles Jr. It's a good dead-week outing between Christmas and New Year.",
+    "neighbourhood": "Lower Haight",
+    "cycle_minutes": 16,
+    "added": "2026-11-15"
+  },
+  {
     "title": "Woodchopper's Ball: live-band swing night",
     "start": "2026-12-29T21:00:00-08:00",
     "end": "2026-12-29T23:30:00-08:00",
@@ -6172,6 +6382,24 @@
     "id": "hayes-valley-comedy-night-at-the-function-dabf6f4c"
   },
   {
+    "id": "sf-chamber-orchestra-rising-stars-a-new-year-s-celebration-f-b1710da3",
+    "title": "SF Chamber Orchestra: Rising Stars, A New Year's Celebration (free)",
+    "start": "2026-12-30T19:30:00-08:00",
+    "end": null,
+    "venue": "Herbst Theatre",
+    "address": "401 Van Ness Ave, San Francisco, CA 94102",
+    "url": "https://www.eventbrite.com/e/mainstage-2-rising-stars-a-new-years-celebration-tickets-1991879435010",
+    "source": "aggregator:eventbrite",
+    "tags": [
+      "music"
+    ],
+    "price": "Free (RSVP)",
+    "description": "The SF Chamber Orchestra's free New Year concert featuring young soloists, closing with Mozart's 'Jupiter' Symphony, in the War Memorial's Herbst Theatre.",
+    "neighbourhood": "Civic Center",
+    "cycle_minutes": 9,
+    "added": "2026-11-15"
+  },
+  {
     "title": "Berkeley Wednesday Contra Dance (5th Wednesday)",
     "start": "2026-12-30T20:00:00-08:00",
     "end": "2026-12-30T22:30:00-08:00",
@@ -6262,6 +6490,26 @@
     "neighbourhood": "Presidio Heights",
     "cycle_minutes": 25,
     "added": "2026-11-08"
+  },
+  {
+    "id": "new-year-s-eve-fireworks-on-the-embarcadero-ed510792",
+    "title": "New Year's Eve fireworks on the Embarcadero",
+    "start": "2026-12-31T23:59:00-08:00",
+    "end": null,
+    "venue": "Embarcadero (south of the Ferry Building)",
+    "address": "Embarcadero, San Francisco, CA",
+    "url": "https://sf.funcheap.com/san-francisco-new-years-eve-fireworks/",
+    "source": "aggregator:funcheap",
+    "tags": [
+      "festival",
+      "outdoors",
+      "community"
+    ],
+    "price": "Free",
+    "description": "The city's free midnight fireworks over the Bay. Arrive by about 11:30pm and stand along the Embarcadero south of the Ferry Building; Muni is usually free late on NYE.",
+    "neighbourhood": "Embarcadero",
+    "cycle_minutes": 5,
+    "added": "2026-11-15"
   },
   {
     "id": "sf-city-guides-free-walking-tour-making-waves-on-the-waterfr-ee90a50c",
@@ -6377,6 +6625,26 @@
     "id": "sf-city-guides-free-walking-tour-castro-tales-of-the-village-cf346476"
   },
   {
+    "id": "saturday-adult-roller-disco-at-the-church-of-8-wheels-4d81d32f",
+    "title": "Saturday adult roller disco at the Church of 8 Wheels",
+    "start": "2027-01-02T19:00:00-08:00",
+    "end": "2027-01-02T23:00:00-08:00",
+    "venue": "Church of 8 Wheels",
+    "address": "554 Fillmore St, San Francisco, CA 94117",
+    "url": "https://www.eventbrite.com/e/the-saturday-roller-disco-3rd-session-adults-7-pm-to-11-pm-tickets-1978867998453",
+    "source": "aggregator:eventbrite",
+    "tags": [
+      "sport",
+      "dance",
+      "community"
+    ],
+    "price": "$24.13",
+    "description": "The adults-only Saturday night session of SF's roller disco in a former church, four hours of funk and disco on wheels. It's an easy first Saturday of the year.",
+    "neighbourhood": "Lower Haight",
+    "cycle_minutes": 16,
+    "added": "2026-11-15"
+  },
+  {
     "title": "Lindy in the Park: free swing dancing + beginner lesson",
     "start": "2027-01-03T11:00:00-08:00",
     "end": "2027-01-03T14:00:00-08:00",
@@ -6413,6 +6681,25 @@
     "cycle_minutes": 13,
     "added": "2026-11-05",
     "id": "sf-salsa-social-beginner-class-salsa-mambo-dancing-758db7a0"
+  },
+  {
+    "id": "figure-drawing-mondays-at-sin-miedo-gallery-sketchboard-05eb8e4d",
+    "title": "Figure drawing Mondays at Sin Miedo Gallery (Sketchboard)",
+    "start": "2027-01-04T18:30:00-08:00",
+    "end": "2027-01-04T20:30:00-08:00",
+    "venue": "Sin Miedo Gallery",
+    "address": "2831 Mission St, San Francisco, CA 94110",
+    "url": "https://book.squareup.com/classes/uj53t4hfgkzllp/location/DYSM7QRDVFWX7/classes",
+    "source": "listing:sketchboard",
+    "tags": [
+      "art",
+      "class"
+    ],
+    "price": "$25",
+    "description": "Sketchboard Co.'s two-hour drop-in life drawing session with a live model in a Mission gallery. All levels are welcome; bring your own paper and pencils.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 16,
+    "added": "2026-11-15"
   },
   {
     "title": "SalsaCrazy Mondays: salsa lesson + salsa/bachata dancing",
@@ -6844,6 +7131,25 @@
     "added": "2026-11-09"
   },
   {
+    "id": "mid-week-merriment-skate-rivals-on-ice-at-union-square-de20ecb9",
+    "title": "Mid-Week Merriment skate: Rivals on Ice at Union Square",
+    "start": "2027-01-13T20:30:00-08:00",
+    "end": "2027-01-13T21:30:00-08:00",
+    "venue": "Safeway Holiday Ice Rink, Union Square",
+    "address": "333 Post St, San Francisco, CA 94108",
+    "url": "https://unionsquareicerink.com/special-events/",
+    "source": "venue:union-square-ice-rink",
+    "tags": [
+      "sport",
+      "community"
+    ],
+    "price": "$22 (incl. skate rental)",
+    "description": "A themed 8:30pm skate inspired by hockey rivalries: wear your team colours for high-energy music and photo moments. It's one of the last themed nights before the rink closes on 18 Jan.",
+    "neighbourhood": "Union Square",
+    "cycle_minutes": 6,
+    "added": "2026-11-15"
+  },
+  {
     "id": "second-thursdays-figure-drawing-at-el-rio-sketchboard-co-db153cc5",
     "title": "Second Thursdays figure drawing at El Rio (Sketchboard Co.)",
     "start": "2027-01-14T18:30:00-08:00",
@@ -7051,6 +7357,25 @@
     "cycle_minutes": 13,
     "added": "2026-10-30",
     "id": "mucha-salsa-social-free-beginner-class-a1a610fb"
+  },
+  {
+    "id": "thomas-lennon-friends-sing-the-smiths-sf-sketchfest-f0dae138",
+    "title": "Thomas Lennon & Friends Sing The Smiths (SF Sketchfest)",
+    "start": "2027-01-17T20:00:00-08:00",
+    "end": "2027-01-17T22:00:00-08:00",
+    "venue": "Great American Music Hall",
+    "address": "859 O'Farrell St, San Francisco, CA 94109",
+    "url": "https://wl.seetickets.us/event/thomas-lennon-and-friends-sing-the-smiths/710737?afflky=GreatAmericanMusicHall",
+    "source": "venue:gamh",
+    "tags": [
+      "music",
+      "comedy"
+    ],
+    "price": "$45 GA / $75 balcony",
+    "description": "Thomas Lennon and the Sweet and Tender Hooligans play Smiths songs ('Strangeways, Here We Come' at 40) with guests including David Cross, Bob Odenkirk and Chris Gethard. Doors at 7pm, show at 8pm.",
+    "neighbourhood": "Tenderloin",
+    "cycle_minutes": 8,
+    "added": "2026-11-15"
   },
   {
     "id": "sf-city-guides-free-walking-tour-russian-hill-stairways-mlk--21b5c524",
@@ -7896,6 +8221,25 @@
     "added": "2026-11-10"
   },
   {
+    "id": "bff-fm-karaoke-at-the-make-out-room-9740524a",
+    "title": "BFF.fm Karaoke at the Make-Out Room",
+    "start": "2027-02-03T20:00:00-08:00",
+    "end": null,
+    "venue": "Make-Out Room",
+    "address": "3225 22nd St, San Francisco, CA 94110",
+    "url": "https://www.calendarwiz.com/calendars/popup.php?op=view&id=191604786&crd=makeoutroom",
+    "source": "venue:make-out-room",
+    "tags": [
+      "music",
+      "community"
+    ],
+    "price": "Free",
+    "description": "Free karaoke night hosted by the DJs of community radio station BFF.fm in the Mission's favourite small room. Doors at 6pm, singing from 8pm.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 15,
+    "added": "2026-11-15"
+  },
+  {
     "title": "Cécile McLorin Salvant",
     "start": "2027-02-04T19:30:00-08:00",
     "end": null,
@@ -8344,6 +8688,24 @@
     "added": "2026-11-12"
   },
   {
+    "id": "free-bluegrass-jam-concert-at-blondie-s-presidents-day-a0d026ba",
+    "title": "Free bluegrass jam & concert at Blondie's (Presidents' Day)",
+    "start": "2027-02-15T20:30:00-08:00",
+    "end": "2027-02-15T22:30:00-08:00",
+    "venue": "Blondie's Bar",
+    "address": "540 Valencia St, San Francisco, CA 94110",
+    "url": "https://www.eventbrite.com/e/free-bluegrass-in-san-francisco-live-jam-concert-tickets-1990533660763",
+    "source": "aggregator:eventbrite",
+    "tags": [
+      "music"
+    ],
+    "price": "Free",
+    "description": "Blondie's weekly Monday night of local bluegrass, a concert plus open jam on Valencia St. Free with an Eventbrite RSVP.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 12,
+    "added": "2026-11-15"
+  },
+  {
     "id": "woodchopper-s-ball-live-band-swing-night-accec69f",
     "title": "Woodchopper's Ball: live-band swing night",
     "start": "2027-02-16T21:00:00-08:00",
@@ -8380,6 +8742,24 @@
     "neighbourhood": "SoMa",
     "cycle_minutes": 8,
     "added": "2026-11-12"
+  },
+  {
+    "id": "city-arts-lectures-dr-orna-guralnik-77fc907e",
+    "title": "City Arts & Lectures: Dr. Orna Guralnik",
+    "start": "2027-02-18T19:30:00-08:00",
+    "end": null,
+    "venue": "Sydney Goldstein Theater",
+    "address": "275 Hayes St, San Francisco, CA 94102",
+    "url": "https://www.cityarts.net/event/dr-orna-guralnik-2/",
+    "source": "venue:city-arts-lectures",
+    "tags": [
+      "talk"
+    ],
+    "price": null,
+    "description": "The psychoanalyst from the docuseries 'Couples Therapy' talks about her work and her new book 'Couples'. Tickets aren't on sale yet ('coming soon').",
+    "neighbourhood": "Civic Center",
+    "cycle_minutes": 9,
+    "added": "2026-11-15"
   },
   {
     "title": "Jess Williamson with Andrew Sa (Noise Pop 2027)",
@@ -8455,6 +8835,43 @@
     "cycle_minutes": 13,
     "added": "2026-11-06",
     "id": "mucha-salsa-social-free-beginner-class-1e648ee9"
+  },
+  {
+    "id": "into-it-over-it-with-from-indian-lakes-and-tenebre-noise-pop-b50e6d73",
+    "title": "Into It. Over It. with From Indian Lakes and Tenebre (Noise Pop)",
+    "start": "2027-02-21T20:00:00-08:00",
+    "end": null,
+    "venue": "Great American Music Hall",
+    "address": "859 O'Farrell St, San Francisco, CA 94109",
+    "url": "https://wl.seetickets.us/event/into-it-over-it/709843?afflky=GreatAmericanMusicHall",
+    "source": "venue:gamh",
+    "tags": [
+      "music",
+      "festival"
+    ],
+    "price": "$27 adv / $32 door",
+    "description": "Evan Weiss's indie/emo project headlines a Noise Pop 2027 show in the ornate Tenderloin hall. Doors at 7pm, show at 8pm.",
+    "neighbourhood": "Tenderloin",
+    "cycle_minutes": 8,
+    "added": "2026-11-15"
+  },
+  {
+    "id": "roar-shack-live-timo-andres-000796f5",
+    "title": "Roar Shack Live!: Timo Andres",
+    "start": "2027-02-22T19:30:00-08:00",
+    "end": "2027-02-22T21:00:00-08:00",
+    "venue": "Roar Shack",
+    "address": "34 7th St, San Francisco, CA 94103",
+    "url": "https://www.eventbrite.com/e/roar-shack-live-timo-andres-tickets-1998403110499",
+    "source": "aggregator:eventbrite",
+    "tags": [
+      "music"
+    ],
+    "price": "Free (RSVP)",
+    "description": "The acclaimed composer-pianist gives an intimate new-music recital in a small SoMa space off Market. Free with an RSVP.",
+    "neighbourhood": "SoMa",
+    "cycle_minutes": 6,
+    "added": "2026-11-15"
   },
   {
     "title": "Cut Worms (solo) (Noise Pop 2027)",
@@ -8697,6 +9114,24 @@
     "added": "2026-11-14"
   },
   {
+    "id": "valley-dyntbe-the-tour-with-moody-joody-778d1d2a",
+    "title": "Valley: DYNTBE? The Tour, with Moody Joody",
+    "start": "2027-03-01T20:00:00-08:00",
+    "end": null,
+    "venue": "The Independent",
+    "address": "628 Divisadero St, San Francisco, CA 94117",
+    "url": "https://www.theindependentsf.com/tm-event/valley/",
+    "source": "venue:the-independent",
+    "tags": [
+      "music"
+    ],
+    "price": "$39.68",
+    "description": "The Toronto indie-pop band plays the NoPa club, with Moody Joody opening. Doors at 7:30pm, all ages.",
+    "neighbourhood": "NoPa",
+    "cycle_minutes": 18,
+    "added": "2026-11-15"
+  },
+  {
     "id": "wasia-project-nocturne-live-2027-261a74ba",
     "title": "Wasia Project: Nocturne Live 2027",
     "start": "2027-03-02T20:00:00-08:00",
@@ -8731,5 +9166,62 @@
     "neighbourhood": "Embarcadero",
     "cycle_minutes": 5,
     "added": "2026-11-14"
+  },
+  {
+    "id": "fog-city-improv-25261c61",
+    "title": "Fog City Improv",
+    "start": "2027-03-05T20:00:00-08:00",
+    "end": null,
+    "venue": "Mabuhay Gardens",
+    "address": "435 Broadway, San Francisco, CA 94133",
+    "url": "https://www.eventbrite.com/e/fog-city-improv-tickets-1991286614869",
+    "source": "aggregator:eventbrite",
+    "tags": [
+      "comedy",
+      "theatre"
+    ],
+    "price": "Free",
+    "description": "A free Friday improv comedy show in the North Beach club that hosts Cat's Corner swing on Wednesdays.",
+    "neighbourhood": "North Beach",
+    "cycle_minutes": 9,
+    "added": "2026-11-15"
+  },
+  {
+    "id": "required-taste-friends-improv-bb9482f1",
+    "title": "Required Taste & Friends (improv)",
+    "start": "2027-03-06T19:00:00-08:00",
+    "end": null,
+    "venue": "Endgames Improv (ETC Prime)",
+    "address": "2965 Mission St, San Francisco, CA 94110",
+    "url": "https://www.eventbrite.com/e/required-taste-friends-tickets-2004804448072",
+    "source": "aggregator:eventbrite",
+    "tags": [
+      "comedy",
+      "theatre"
+    ],
+    "price": "$17.35",
+    "description": "A Saturday evening of improv from the long-running SF troupe Required Taste and guest teams at Endgames' Mission theatre.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 17,
+    "added": "2026-11-15"
+  },
+  {
+    "id": "sf-salsa-social-beginner-class-salsa-mambo-dancing-79e3825b",
+    "title": "SF Salsa Social: beginner class + salsa & mambo dancing",
+    "start": "2027-03-07T19:00:00-08:00",
+    "end": "2027-03-07T23:30:00-08:00",
+    "venue": "Verdi Club",
+    "address": "2424 Mariposa St, San Francisco, CA 94110",
+    "url": "https://www.eventbrite.com/e/sf-salsa-social-salsa-dancing-lesson-at-verdi-club-san-francisco-tickets-2003026085943",
+    "source": "aggregator:eventbrite",
+    "tags": [
+      "dance",
+      "class"
+    ],
+    "price": "$17-$23.18",
+    "description": "The first-Sunday salsa and mambo social at the Verdi Club: a beginner class at 7pm, then social dancing from 8 to 11:30pm.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 13,
+    "added": "2026-11-15"
   }
 ]

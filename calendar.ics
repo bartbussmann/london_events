@@ -1114,6 +1114,19 @@ LOCATION:Decentered Arts Studio\, 1175 Folsom St\, San Francisco\, CA 9410
  3
 END:VEVENT
 BEGIN:VEVENT
+UID:ics-e47b9bf006cd@sf-events
+DTSTAMP:20261120T030000Z
+DTSTART:20261120T030000Z
+DTEND:20261120T050000Z
+SUMMARY:Talent Show: Has Mox Got Talent?
+DESCRIPTION:Mox's community talent show (moved again\, now Thu 19 Nov): me
+ mbers and friends perform whatever they've got. A friendly\, low-key way 
+ to meet the Mox crowd.\nPrice: Free (register on Luma)\nhttps://luma.com/
+ mox-inxx
+URL:https://luma.com/mox-inxx
+LOCATION:Mox\, 1680 Mission St\, San Francisco\, CA 94103
+END:VEVENT
+BEGIN:VEVENT
 UID:salt-spirit-opera-parallele-world-premiere-at-z-space-98d8f7b4@sf-even
  ts
 DTSTAMP:20261120T033000Z
@@ -3622,6 +3635,24 @@ LOCATION:Danzhaus Dance Center\, 1275 Connecticut St\, San Francisco\, CA
  94107
 END:VEVENT
 BEGIN:VEVENT
+UID:holiday-mixer-at-the-commonwealth-club-music-art-bites-and-d-3ef92829@
+ sf-events
+DTSTAMP:20261212T020000Z
+DTSTART:20261212T020000Z
+DTEND:20261212T043000Z
+SUMMARY:Holiday Mixer at the Commonwealth Club: music\, art\, bites and dr
+ inks
+DESCRIPTION:The Commonwealth Club's annual holiday party\, with food\, dri
+ nks and entertainment\, SF Poet Laureate Genny Lim and visual artist Vict
+ oria Veedell. Doors open at 5:30pm\, and it's an easy way to meet the clu
+ b's crowd.\nPrice: $50 ($35 members)\nhttps://www.commonwealthclub.org/ev
+ ents/2026-12-11/holiday-mixer-club-2026-music-art-bites-and-bevs
+URL:https://www.commonwealthclub.org/events/2026-12-11/holiday-mixer-club-
+ 2026-music-art-bites-and-bevs
+LOCATION:Commonwealth Club World Affairs (Taube Family Auditorium)\, 110 T
+ he Embarcadero\, San Francisco\, CA 94105
+END:VEVENT
+BEGIN:VEVENT
 UID:lucius-4560896c@sf-events
 DTSTAMP:20261212T040000Z
 DTSTART:20261212T040000Z
@@ -3820,6 +3851,21 @@ LOCATION:San Francisco Main Library\, Koret Auditorium\, 100 Larkin St\, S
  an Francisco\, CA 94102
 END:VEVENT
 BEGIN:VEVENT
+UID:holidaze-market-light-up-the-night-party-at-the-box-shop-520b907f@sf-e
+ vents
+DTSTAMP:20261214T000000Z
+DTSTART:20261214T000000Z
+DTEND:20261214T060000Z
+SUMMARY:Holidaze Market & Light Up the Night Party at The Box Shop
+DESCRIPTION:The artist compound's last party of 2026: a makers' market\, f
+ ire garden\, Entwined light sculptures\, a blacksmithing demo and an art 
+ table for making holiday decorations. From 6pm it turns into dancing with
+  DJ Ron Ison inside and on the roof decks.\nPrice: Free (RSVP\; donation 
+ optional)\nhttps://luma.com/kygbsxgx
+URL:https://luma.com/kygbsxgx
+LOCATION:The Box Shop\, 951 Hudson Ave\, San Francisco\, CA 94124
+END:VEVENT
+BEGIN:VEVENT
 UID:jd-mcpherson-socks-a-rock-n-roll-christmas-tour-with-melissa-ed0c4ecf@
  sf-events
 DTSTAMP:20261214T040000Z
@@ -3893,6 +3939,20 @@ URL:https://www.theindependentsf.com/tm-event/willi-carlisle-2/
 LOCATION:The Independent\, 628 Divisadero St\, San Francisco\, CA 94117
 END:VEVENT
 BEGIN:VEVENT
+UID:free-bluegrass-jam-concert-at-blondie-s-73f5d526@sf-events
+DTSTAMP:20261215T043000Z
+DTSTART:20261215T043000Z
+DTEND:20261215T063000Z
+SUMMARY:Free bluegrass jam & concert at Blondie's
+DESCRIPTION:Blondie's weekly Monday night of local bluegrass\, a concert p
+ lus open jam on Valencia St. Free with an Eventbrite RSVP.\nPrice: Free\n
+ https://www.eventbrite.com/e/free-bluegrass-in-san-francisco-live-jam-con
+ cert-tickets-1990533650733
+URL:https://www.eventbrite.com/e/free-bluegrass-in-san-francisco-live-jam-
+ concert-tickets-1990533650733
+LOCATION:Blondie's Bar\, 540 Valencia St\, San Francisco\, CA 94110
+END:VEVENT
+BEGIN:VEVENT
 UID:the-quantum-threat-what-happens-when-our-digital-locks-stop--84d54e20@
  sf-events
 DTSTAMP:20261216T020000Z
@@ -3925,6 +3985,20 @@ DESCRIPTION:Science communicator Bebo White looks at whether the 'AI race'
 URL:https://www.eventbrite.com/e/is-there-really-a-global-ai-race-tickets-
  2004247499223
 LOCATION:Manny's\, 3092 16th St\, San Francisco\, CA 94103
+END:VEVENT
+BEGIN:VEVENT
+UID:sf-speed-dating-at-mr-mahjong-s-ages-25-39-62a5f88b@sf-events
+DTSTAMP:20261216T023000Z
+DTSTART:20261216T023000Z
+DTEND:20261216T043000Z
+SUMMARY:SF Speed Dating at Mr. Mahjong's (ages 25-39)
+DESCRIPTION:A mixed speed-dating night for singles aged 25-39\, run by Bay
+  Area Speed Dating\, Mixers & Matchmaking. It's in a FiDi bar a few minut
+ es from home.\nPrice: $28.52-$33.85\nhttps://www.eventbrite.com/e/sf-spee
+ d-dating-singles-ages-25-39-tickets-2004794782161
+URL:https://www.eventbrite.com/e/sf-speed-dating-singles-ages-25-39-ticket
+ s-2004794782161
+LOCATION:Mr. Mahjong's\, 260 Kearny St\, San Francisco\, CA 94108
 END:VEVENT
 BEGIN:VEVENT
 UID:drop-in-circling-workshop-berkeley-b7d1ce0e@sf-events
@@ -4160,6 +4234,23 @@ DESCRIPTION:A double bill of new holiday plays with a twist in PlayGround'
  nhttps://playground-sf.org/twistedholiday/
 URL:https://playground-sf.org/twistedholiday/
 LOCATION:Potrero Stage\, 1695 18th St\, San Francisco\, CA 94107
+END:VEVENT
+BEGIN:VEVENT
+UID:20s-30s-speed-friending-ice-skating-at-union-square-06cfc28a@sf-events
+DTSTAMP:20261219T030000Z
+DTSTART:20261219T030000Z
+DTEND:20261219T050000Z
+SUMMARY:20s & 30s Speed Friending + ice skating at Union Square
+DESCRIPTION:About an hour of app-guided one-on-one chats (10 rounds of 8 m
+ inutes)\, then small groups head onto the Union Square rink together. Boo
+ k through Gist\; skating time and skates aren't included in the ticket.\n
+ Price: $30 (rink admission extra)\nhttps://www.eventbrite.com/e/20-30s-sp
+ eed-friending-annual-union-square-ice-skating-new-friends-tickets-2004499
+ 886119
+URL:https://www.eventbrite.com/e/20-30s-speed-friending-annual-union-squar
+ e-ice-skating-new-friends-tickets-2004499886119
+LOCATION:Safeway Holiday Ice Rink\, Union Square\, 333 Post St\, San Franc
+ isco\, CA 94108
 END:VEVENT
 BEGIN:VEVENT
 UID:soulful-joy-christmas-at-grace-cathedral-a5090ed0@sf-events
@@ -4567,6 +4658,21 @@ URL:https://thechapelsf.com/music/
 LOCATION:The Chapel\, 777 Valencia St\, San Francisco\, CA 94110
 END:VEVENT
 BEGIN:VEVENT
+UID:mid-week-merriment-skate-naughty-or-n-ice-at-union-square-5ef39e1d@sf-
+ events
+DTSTAMP:20261224T043000Z
+DTSTART:20261224T043000Z
+DTEND:20261224T053000Z
+SUMMARY:Mid-Week Merriment skate: Naughty or N-Ice at Union Square
+DESCRIPTION:The outdoor rink's themed Wednesday 8:30pm session\, with fest
+ ive music and an invitation to dress to match your 'naughty or nice' holi
+ day mood. It's a one-hour session under the Union Square tree.\nPrice: $2
+ 2 (incl. skate rental)\nhttps://unionsquareicerink.com/special-events/
+URL:https://unionsquareicerink.com/special-events/
+LOCATION:Safeway Holiday Ice Rink\, Union Square\, 333 Post St\, San Franc
+ isco\, CA 94108
+END:VEVENT
+BEGIN:VEVENT
 UID:sf-city-guides-free-walking-tour-gardens-in-the-sky-salesfor-48a267b2@
  sf-events
 DTSTAMP:20261224T190000Z
@@ -4582,6 +4688,38 @@ DESCRIPTION:A volunteer-led walk through the Transit Center's Grand Hall\,
 URL:https://www.sfcityguides.org/find-your-tour/?visit=2026-12-24
 LOCATION:Salesforce Plaza (meeting point)\, Mission St at Fremont St (SW c
  orner\, by the gondola)\, San Francisco\, CA 94105
+END:VEVENT
+BEGIN:VEVENT
+UID:christmas-eve-lessons-and-carols-at-grace-cathedral-d89a8009@sf-events
+DTSTAMP:20261225T000000Z
+DTSTART:20261225T000000Z
+DTEND:20261225T010000Z
+SUMMARY:Christmas Eve Lessons and Carols at Grace Cathedral
+DESCRIPTION:The traditional Nine Lessons and Carols service\, with reading
+ s\, anthems from the Cathedral Choirs and congregational carols in the ca
+ thedral. It's a church service\, open to all\; go early\, because Christm
+ as Eve fills up.\nPrice: Free\nhttps://gracecathedral.org/calendar-events
+ /christmas-eve-lessons-and-carols-in-person-and-livestream-2/
+URL:https://gracecathedral.org/calendar-events/christmas-eve-lessons-and-c
+ arols-in-person-and-livestream-2/
+LOCATION:Grace Cathedral\, 1100 California St\, San Francisco\, CA 94108
+END:VEVENT
+BEGIN:VEVENT
+UID:a-christmas-swingin-spectacular-with-lavay-smith-her-red-hot-d0d1d054@
+ sf-events
+DTSTAMP:20261225T023000Z
+DTSTART:20261225T023000Z
+DTEND:20261225T040000Z
+SUMMARY:A Christmas Swingin' Spectacular with Lavay Smith & Her Red Hot Sk
+ illet Lickers
+DESCRIPTION:SF's favourite swing band (eight pieces\, four horns) plays a 
+ Christmas Eve show in the downtown blues club. It's a festive\, non-club 
+ option for the evening.\nPrice: $39.11-$65.75\nhttps://www.eventbrite.com
+ /e/a-christmas-swingin-spectacular-with-lavay-smith-and-her-red-hot-skill
+ et-lickers-tickets-2001809921362
+URL:https://www.eventbrite.com/e/a-christmas-swingin-spectacular-with-lava
+ y-smith-and-her-red-hot-skillet-lickers-tickets-2001809921362
+LOCATION:Biscuits & Blues\, 401 Mason St\, San Francisco\, CA 94102
 END:VEVENT
 BEGIN:VEVENT
 UID:oakland-interfaith-gospel-choir-christmas-eve-early-show-8e927c98@sf-e
@@ -4630,6 +4768,23 @@ URL:https://wl.seetickets.us/event/oakland-interfaith-gospel-choir-late-sh
  ow/705283?afflky=GreatAmericanMusicHall
 LOCATION:Great American Music Hall\, 859 O'Farrell St\, San Francisco\, CA
   94109
+END:VEVENT
+BEGIN:VEVENT
+UID:community-christmas-potluck-at-st-francis-lutheran-church-eb00fd0f@sf-
+ events
+DTSTAMP:20261225T210000Z
+DTSTART:20261225T210000Z
+DTEND:20261225T230000Z
+SUMMARY:Community Christmas Potluck at St. Francis Lutheran Church
+DESCRIPTION:A Christmas Day potluck lunch open to neighbours and newcomers
+  ('everyone is welcome at our table')\, with ham\, cookies and hot drinks
+  provided. Bringing a side dish is optional\, and you need to register ah
+ ead because the hall holds 75.\nPrice: Free (register\; 75 places)\nhttps
+ ://www.eventbrite.com/e/community-christmas-potluck-tickets-2004328918751
+URL:https://www.eventbrite.com/e/community-christmas-potluck-tickets-20043
+ 28918751
+LOCATION:St. Francis Lutheran Church (Parish Hall)\, 152 Church St\, San F
+ rancisco\, CA 94114
 END:VEVENT
 BEGIN:VEVENT
 UID:sf-city-guides-free-walking-tour-gold-rush-city-christmas-da-fc7c39d3@
@@ -4882,6 +5037,20 @@ LOCATION:Danzhaus Dance Center\, 1275 Connecticut St\, San Francisco\, CA
  94107
 END:VEVENT
 BEGIN:VEVENT
+UID:tuesday-skate-theme-night-at-the-church-of-8-wheels-9a9d538b@sf-events
+DTSTAMP:20261230T040000Z
+DTSTART:20261230T040000Z
+DTEND:20261230T060000Z
+SUMMARY:Tuesday Skate Theme Night at the Church of 8 Wheels
+DESCRIPTION:A themed adult roller-disco night in a converted church\, run 
+ by SF's 'Godfather of Skate'\, D. Miles Jr. It's a good dead-week outing 
+ between Christmas and New Year.\nPrice: $24.13\nhttps://www.eventbrite.co
+ m/e/tuesday-skate-theme-nights-8-pm-to-1000-pm-tickets-1978869684496
+URL:https://www.eventbrite.com/e/tuesday-skate-theme-nights-8-pm-to-1000-p
+ m-tickets-1978869684496
+LOCATION:Church of 8 Wheels\, 554 Fillmore St\, San Francisco\, CA 94117
+END:VEVENT
+BEGIN:VEVENT
 UID:woodchopper-s-ball-live-band-swing-night-39d48e02@sf-events
 DTSTAMP:20261230T050000Z
 DTSTART:20261230T050000Z
@@ -4952,6 +5121,22 @@ URL:https://www.eventbrite.com/e/hayes-valley-comedy-night-san-francisco-t
  ickets-1987864581475
 LOCATION:The Function SF: Comedy Club & Cocktail Lounge\, 1414 Market St\,
   San Francisco\, CA 94102
+END:VEVENT
+BEGIN:VEVENT
+UID:sf-chamber-orchestra-rising-stars-a-new-year-s-celebration-f-b1710da3@
+ sf-events
+DTSTAMP:20261231T033000Z
+DTSTART:20261231T033000Z
+DTEND:20261231T053000Z
+SUMMARY:SF Chamber Orchestra: Rising Stars\, A New Year's Celebration (fre
+ e)
+DESCRIPTION:The SF Chamber Orchestra's free New Year concert featuring you
+ ng soloists\, closing with Mozart's 'Jupiter' Symphony\, in the War Memor
+ ial's Herbst Theatre.\nPrice: Free (RSVP)\nhttps://www.eventbrite.com/e/m
+ ainstage-2-rising-stars-a-new-years-celebration-tickets-1991879435010
+URL:https://www.eventbrite.com/e/mainstage-2-rising-stars-a-new-years-cele
+ bration-tickets-1991879435010
+LOCATION:Herbst Theatre\, 401 Van Ness Ave\, San Francisco\, CA 94102
 END:VEVENT
 BEGIN:VEVENT
 UID:berkeley-wednesday-contra-dance-5th-wednesday-1dc9751d@sf-events
@@ -5027,6 +5212,20 @@ DESCRIPTION:The Vogue's third annual Prince-themed NYE: doors at 9pm with
 URL:https://sf.funcheap.com/3rd-annual-purple-nye-purple-rain-sign-times-v
  ogue-theatre/
 LOCATION:Vogue Theatre\, 3290 Sacramento St\, San Francisco\, CA 94115
+END:VEVENT
+BEGIN:VEVENT
+UID:new-year-s-eve-fireworks-on-the-embarcadero-ed510792@sf-events
+DTSTAMP:20270101T075900Z
+DTSTART:20270101T075900Z
+DTEND:20270101T095900Z
+SUMMARY:New Year's Eve fireworks on the Embarcadero
+DESCRIPTION:The city's free midnight fireworks over the Bay. Arrive by abo
+ ut 11:30pm and stand along the Embarcadero south of the Ferry Building\; 
+ Muni is usually free late on NYE.\nPrice: Free\nhttps://sf.funcheap.com/s
+ an-francisco-new-years-eve-fireworks/
+URL:https://sf.funcheap.com/san-francisco-new-years-eve-fireworks/
+LOCATION:Embarcadero (south of the Ferry Building)\, Embarcadero\, San Fra
+ ncisco\, CA
 END:VEVENT
 BEGIN:VEVENT
 UID:sf-city-guides-free-walking-tour-making-waves-on-the-waterfr-ee90a50c@
@@ -5122,6 +5321,22 @@ LOCATION:Jane Warner Plaza (meeting point)\, Castro St & Market St\, San F
  rancisco\, CA 94114
 END:VEVENT
 BEGIN:VEVENT
+UID:saturday-adult-roller-disco-at-the-church-of-8-wheels-4d81d32f@sf-even
+ ts
+DTSTAMP:20270103T030000Z
+DTSTART:20270103T030000Z
+DTEND:20270103T070000Z
+SUMMARY:Saturday adult roller disco at the Church of 8 Wheels
+DESCRIPTION:The adults-only Saturday night session of SF's roller disco in
+  a former church\, four hours of funk and disco on wheels. It's an easy f
+ irst Saturday of the year.\nPrice: $24.13\nhttps://www.eventbrite.com/e/t
+ he-saturday-roller-disco-3rd-session-adults-7-pm-to-11-pm-tickets-1978867
+ 998453
+URL:https://www.eventbrite.com/e/the-saturday-roller-disco-3rd-session-adu
+ lts-7-pm-to-11-pm-tickets-1978867998453
+LOCATION:Church of 8 Wheels\, 554 Fillmore St\, San Francisco\, CA 94117
+END:VEVENT
+BEGIN:VEVENT
 UID:lindy-in-the-park-free-swing-dancing-beginner-lesson-99fb5a59@sf-event
  s
 DTSTAMP:20270103T190000Z
@@ -5150,6 +5365,21 @@ DESCRIPTION:New Year's first-Sunday salsa social at the Verdi Club: a begi
 URL:https://www.eventbrite.com/e/sf-salsa-social-salsa-dancing-lesson-at-v
  erdi-club-san-francisco-tickets-2003024345738
 LOCATION:Verdi Club\, 2424 Mariposa St\, San Francisco\, CA 94110
+END:VEVENT
+BEGIN:VEVENT
+UID:figure-drawing-mondays-at-sin-miedo-gallery-sketchboard-05eb8e4d@sf-ev
+ ents
+DTSTAMP:20270105T023000Z
+DTSTART:20270105T023000Z
+DTEND:20270105T043000Z
+SUMMARY:Figure drawing Mondays at Sin Miedo Gallery (Sketchboard)
+DESCRIPTION:Sketchboard Co.'s two-hour drop-in life drawing session with a
+  live model in a Mission gallery. All levels are welcome\; bring your own
+  paper and pencils.\nPrice: $25\nhttps://book.squareup.com/classes/uj53t4
+ hfgkzllp/location/DYSM7QRDVFWX7/classes
+URL:https://book.squareup.com/classes/uj53t4hfgkzllp/location/DYSM7QRDVFWX
+ 7/classes
+LOCATION:Sin Miedo Gallery\, 2831 Mission St\, San Francisco\, CA 94110
 END:VEVENT
 BEGIN:VEVENT
 UID:salsacrazy-mondays-salsa-lesson-salsa-bachata-dancing-201bcbfa@sf-even
@@ -5492,6 +5722,21 @@ URL:https://book.squareup.com/classes/uj53t4hfgkzllp/location/DYSM7QRDVFWX
 LOCATION:Monument SF\, 140 9th St\, San Francisco\, CA 94103
 END:VEVENT
 BEGIN:VEVENT
+UID:mid-week-merriment-skate-rivals-on-ice-at-union-square-de20ecb9@sf-eve
+ nts
+DTSTAMP:20270114T043000Z
+DTSTART:20270114T043000Z
+DTEND:20270114T053000Z
+SUMMARY:Mid-Week Merriment skate: Rivals on Ice at Union Square
+DESCRIPTION:A themed 8:30pm skate inspired by hockey rivalries: wear your 
+ team colours for high-energy music and photo moments. It's one of the las
+ t themed nights before the rink closes on 18 Jan.\nPrice: $22 (incl. skat
+ e rental)\nhttps://unionsquareicerink.com/special-events/
+URL:https://unionsquareicerink.com/special-events/
+LOCATION:Safeway Holiday Ice Rink\, Union Square\, 333 Post St\, San Franc
+ isco\, CA 94108
+END:VEVENT
+BEGIN:VEVENT
 UID:second-thursdays-figure-drawing-at-el-rio-sketchboard-co-db153cc5@sf-e
  vents
 DTSTAMP:20270115T023000Z
@@ -5651,6 +5896,22 @@ DESCRIPTION:A not-for-profit Sunday salsa social at the Verdi Club. Beginn
  15\nhttps://www.verdiclub.net/events/mucha-salsa-5-2/2027-01-17/
 URL:https://www.verdiclub.net/events/mucha-salsa-5-2/2027-01-17/
 LOCATION:Verdi Club\, 2424 Mariposa St\, San Francisco\, CA 94110
+END:VEVENT
+BEGIN:VEVENT
+UID:thomas-lennon-friends-sing-the-smiths-sf-sketchfest-f0dae138@sf-events
+DTSTAMP:20270118T040000Z
+DTSTART:20270118T040000Z
+DTEND:20270118T060000Z
+SUMMARY:Thomas Lennon & Friends Sing The Smiths (SF Sketchfest)
+DESCRIPTION:Thomas Lennon and the Sweet and Tender Hooligans play Smiths s
+ ongs ('Strangeways\, Here We Come' at 40) with guests including David Cro
+ ss\, Bob Odenkirk and Chris Gethard. Doors at 7pm\, show at 8pm.\nPrice: 
+ $45 GA / $75 balcony\nhttps://wl.seetickets.us/event/thomas-lennon-and-fr
+ iends-sing-the-smiths/710737?afflky=GreatAmericanMusicHall
+URL:https://wl.seetickets.us/event/thomas-lennon-and-friends-sing-the-smit
+ hs/710737?afflky=GreatAmericanMusicHall
+LOCATION:Great American Music Hall\, 859 O'Farrell St\, San Francisco\, CA
+  94109
 END:VEVENT
 BEGIN:VEVENT
 UID:sf-city-guides-free-walking-tour-russian-hill-stairways-mlk--21b5c524@
@@ -6309,6 +6570,20 @@ URL:https://book.squareup.com/classes/uj53t4hfgkzllp/location/DYSM7QRDVFWX
 LOCATION:Monument SF\, 140 9th St\, San Francisco\, CA 94103
 END:VEVENT
 BEGIN:VEVENT
+UID:bff-fm-karaoke-at-the-make-out-room-9740524a@sf-events
+DTSTAMP:20270204T040000Z
+DTSTART:20270204T040000Z
+DTEND:20270204T060000Z
+SUMMARY:BFF.fm Karaoke at the Make-Out Room
+DESCRIPTION:Free karaoke night hosted by the DJs of community radio statio
+ n BFF.fm in the Mission's favourite small room. Doors at 6pm\, singing fr
+ om 8pm.\nPrice: Free\nhttps://www.calendarwiz.com/calendars/popup.php?op=
+ view&id=191604786&crd=makeoutroom
+URL:https://www.calendarwiz.com/calendars/popup.php?op=view&id=191604786&c
+ rd=makeoutroom
+LOCATION:Make-Out Room\, 3225 22nd St\, San Francisco\, CA 94110
+END:VEVENT
+BEGIN:VEVENT
 UID:c-cile-mclorin-salvant-4edacc80@sf-events
 DTSTAMP:20270205T033000Z
 DTSTART:20270205T033000Z
@@ -6660,6 +6935,21 @@ URL:https://www.eventbrite.com/e/salsa-dance-classes-and-salsa-and-bachata
 LOCATION:Neck of the Woods\, 406 Clement St\, San Francisco\, CA 94118
 END:VEVENT
 BEGIN:VEVENT
+UID:free-bluegrass-jam-concert-at-blondie-s-presidents-day-a0d026ba@sf-eve
+ nts
+DTSTAMP:20270216T043000Z
+DTSTART:20270216T043000Z
+DTEND:20270216T063000Z
+SUMMARY:Free bluegrass jam & concert at Blondie's (Presidents' Day)
+DESCRIPTION:Blondie's weekly Monday night of local bluegrass\, a concert p
+ lus open jam on Valencia St. Free with an Eventbrite RSVP.\nPrice: Free\n
+ https://www.eventbrite.com/e/free-bluegrass-in-san-francisco-live-jam-con
+ cert-tickets-1990533660763
+URL:https://www.eventbrite.com/e/free-bluegrass-in-san-francisco-live-jam-
+ concert-tickets-1990533660763
+LOCATION:Blondie's Bar\, 540 Valencia St\, San Francisco\, CA 94110
+END:VEVENT
+BEGIN:VEVENT
 UID:woodchopper-s-ball-live-band-swing-night-accec69f@sf-events
 DTSTAMP:20270217T050000Z
 DTSTART:20270217T050000Z
@@ -6687,6 +6977,19 @@ DESCRIPTION:Sketchboard Co.'s Wednesday drop-in life drawing session with
 URL:https://book.squareup.com/classes/uj53t4hfgkzllp/location/DYSM7QRDVFWX
  7/classes
 LOCATION:Monument SF\, 140 9th St\, San Francisco\, CA 94103
+END:VEVENT
+BEGIN:VEVENT
+UID:city-arts-lectures-dr-orna-guralnik-77fc907e@sf-events
+DTSTAMP:20270219T033000Z
+DTSTART:20270219T033000Z
+DTEND:20270219T053000Z
+SUMMARY:City Arts & Lectures: Dr. Orna Guralnik
+DESCRIPTION:The psychoanalyst from the docuseries 'Couples Therapy' talks 
+ about her work and her new book 'Couples'. Tickets aren't on sale yet ('c
+ oming soon').\nhttps://www.cityarts.net/event/dr-orna-guralnik-2/
+URL:https://www.cityarts.net/event/dr-orna-guralnik-2/
+LOCATION:Sydney Goldstein Theater\, 275 Hayes St\, San Francisco\, CA 9410
+ 2
 END:VEVENT
 BEGIN:VEVENT
 UID:jess-williamson-with-andrew-sa-noise-pop-2027-f7ac9e71@sf-events
@@ -6744,6 +7047,36 @@ DESCRIPTION:A not-for-profit Sunday salsa social at the Verdi Club. Beginn
  -salsa-5-2/2027-02-21/
 URL:https://www.verdiclub.net/events/mucha-salsa-5-2/2027-02-21/
 LOCATION:Verdi Club\, 2424 Mariposa St\, San Francisco\, CA 94110
+END:VEVENT
+BEGIN:VEVENT
+UID:into-it-over-it-with-from-indian-lakes-and-tenebre-noise-pop-b50e6d73@
+ sf-events
+DTSTAMP:20270222T040000Z
+DTSTART:20270222T040000Z
+DTEND:20270222T060000Z
+SUMMARY:Into It. Over It. with From Indian Lakes and Tenebre (Noise Pop)
+DESCRIPTION:Evan Weiss's indie/emo project headlines a Noise Pop 2027 show
+  in the ornate Tenderloin hall. Doors at 7pm\, show at 8pm.\nPrice: $27 a
+ dv / $32 door\nhttps://wl.seetickets.us/event/into-it-over-it/709843?affl
+ ky=GreatAmericanMusicHall
+URL:https://wl.seetickets.us/event/into-it-over-it/709843?afflky=GreatAmer
+ icanMusicHall
+LOCATION:Great American Music Hall\, 859 O'Farrell St\, San Francisco\, CA
+  94109
+END:VEVENT
+BEGIN:VEVENT
+UID:roar-shack-live-timo-andres-000796f5@sf-events
+DTSTAMP:20270223T033000Z
+DTSTART:20270223T033000Z
+DTEND:20270223T050000Z
+SUMMARY:Roar Shack Live!: Timo Andres
+DESCRIPTION:The acclaimed composer-pianist gives an intimate new-music rec
+ ital in a small SoMa space off Market. Free with an RSVP.\nPrice: Free (R
+ SVP)\nhttps://www.eventbrite.com/e/roar-shack-live-timo-andres-tickets-19
+ 98403110499
+URL:https://www.eventbrite.com/e/roar-shack-live-timo-andres-tickets-19984
+ 03110499
+LOCATION:Roar Shack\, 34 7th St\, San Francisco\, CA 94103
 END:VEVENT
 BEGIN:VEVENT
 UID:cut-worms-solo-noise-pop-2027-61ac35ee@sf-events
@@ -6937,6 +7270,18 @@ LOCATION:Great American Music Hall\, 859 O'Farrell St\, San Francisco\, CA
   94109
 END:VEVENT
 BEGIN:VEVENT
+UID:valley-dyntbe-the-tour-with-moody-joody-778d1d2a@sf-events
+DTSTAMP:20270302T040000Z
+DTSTART:20270302T040000Z
+DTEND:20270302T060000Z
+SUMMARY:Valley: DYNTBE? The Tour\, with Moody Joody
+DESCRIPTION:The Toronto indie-pop band plays the NoPa club\, with Moody Jo
+ ody opening. Doors at 7:30pm\, all ages.\nPrice: $39.68\nhttps://www.thei
+ ndependentsf.com/tm-event/valley/
+URL:https://www.theindependentsf.com/tm-event/valley/
+LOCATION:The Independent\, 628 Divisadero St\, San Francisco\, CA 94117
+END:VEVENT
+BEGIN:VEVENT
 UID:wasia-project-nocturne-live-2027-261a74ba@sf-events
 DTSTAMP:20270303T040000Z
 DTSTART:20270303T040000Z
@@ -6963,5 +7308,46 @@ URL:https://www.commonwealthclub.org/events/2027-03-04/chip-bergh-levis-st
  ory
 LOCATION:Commonwealth Club World Affairs\, 110 The Embarcadero\, San Franc
  isco\, CA 94105
+END:VEVENT
+BEGIN:VEVENT
+UID:fog-city-improv-25261c61@sf-events
+DTSTAMP:20270306T040000Z
+DTSTART:20270306T040000Z
+DTEND:20270306T060000Z
+SUMMARY:Fog City Improv
+DESCRIPTION:A free Friday improv comedy show in the North Beach club that 
+ hosts Cat's Corner swing on Wednesdays.\nPrice: Free\nhttps://www.eventbr
+ ite.com/e/fog-city-improv-tickets-1991286614869
+URL:https://www.eventbrite.com/e/fog-city-improv-tickets-1991286614869
+LOCATION:Mabuhay Gardens\, 435 Broadway\, San Francisco\, CA 94133
+END:VEVENT
+BEGIN:VEVENT
+UID:required-taste-friends-improv-bb9482f1@sf-events
+DTSTAMP:20270307T030000Z
+DTSTART:20270307T030000Z
+DTEND:20270307T050000Z
+SUMMARY:Required Taste & Friends (improv)
+DESCRIPTION:A Saturday evening of improv from the long-running SF troupe R
+ equired Taste and guest teams at Endgames' Mission theatre.\nPrice: $17.3
+ 5\nhttps://www.eventbrite.com/e/required-taste-friends-tickets-2004804448
+ 072
+URL:https://www.eventbrite.com/e/required-taste-friends-tickets-2004804448
+ 072
+LOCATION:Endgames Improv (ETC Prime)\, 2965 Mission St\, San Francisco\, C
+ A 94110
+END:VEVENT
+BEGIN:VEVENT
+UID:sf-salsa-social-beginner-class-salsa-mambo-dancing-79e3825b@sf-events
+DTSTAMP:20270308T030000Z
+DTSTART:20270308T030000Z
+DTEND:20270308T073000Z
+SUMMARY:SF Salsa Social: beginner class + salsa & mambo dancing
+DESCRIPTION:The first-Sunday salsa and mambo social at the Verdi Club: a b
+ eginner class at 7pm\, then social dancing from 8 to 11:30pm.\nPrice: $17
+ -$23.18\nhttps://www.eventbrite.com/e/sf-salsa-social-salsa-dancing-lesso
+ n-at-verdi-club-san-francisco-tickets-2003026085943
+URL:https://www.eventbrite.com/e/sf-salsa-social-salsa-dancing-lesson-at-v
+ erdi-club-san-francisco-tickets-2003026085943
+LOCATION:Verdi Club\, 2424 Mariposa St\, San Francisco\, CA 94110
 END:VEVENT
 END:VCALENDAR
