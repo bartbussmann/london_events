@@ -1,154 +1,5 @@
 [
   {
-    "title": "Mahal Mural Unveiling + mini block party (SoMa Filipinas)",
-    "start": "2026-11-13T18:00:00-08:00",
-    "end": "2026-11-13T22:00:00-08:00",
-    "venue": "Sentro Filipino (moved indoors for rain)",
-    "address": "814 Mission St, San Francisco, CA 94103",
-    "url": "https://luma.com/uvfqed21",
-    "source": "aggregator:funcheap",
-    "tags": [
-      "art",
-      "community"
-    ],
-    "price": "Free (RSVP)",
-    "description": "UNDSCVRD SF unveils two large new murals in the Filipino Cultural District alley. A free block party follows, with art activities, a fashion show and love-song karaoke.",
-    "neighbourhood": "SoMa",
-    "cycle_minutes": 4,
-    "added": "2026-10-28",
-    "id": "mahal-mural-unveiling-mini-block-party-soma-filipinas-83560ede"
-  },
-  {
-    "title": "Kevin Starr Lecture: (Re)interpreting Anza 250 (SF Historical Society)",
-    "start": "2026-11-13T18:00:00-08:00",
-    "end": null,
-    "venue": "University of San Francisco",
-    "address": "2130 Fulton St, San Francisco, CA 94117",
-    "url": "https://givebutter.com/KevinStarr8",
-    "source": "aggregator:funcheap",
-    "tags": [
-      "talk"
-    ],
-    "price": "Free (suggested $25 donation)",
-    "description": "The SF Historical Society's 8th annual Kevin Starr Lecture: a panel on the legacy and conflicts of the 1776 Anza Expedition, which led to the founding of the Presidio and Mission Dolores. The reception is at 6pm and the lecture at 6:30.",
-    "neighbourhood": "Lone Mountain",
-    "cycle_minutes": 24,
-    "added": "2026-10-28",
-    "id": "kevin-starr-lecture-re-interpreting-anza-250-sf-historical-s-5262b5d2"
-  },
-  {
-    "title": "Pyramid Dance // Ean Golden",
-    "start": "2026-11-13T19:00:00-08:00",
-    "end": "2026-11-13T22:10:00-08:00",
-    "venue": "Unitarian Universalist Society of San Francisco",
-    "address": "1187 Franklin St, San Francisco, CA 94109",
-    "url": "https://www.eventbrite.com/e/pyramid-dance-ean-golden-tickets-2003509645282",
-    "source": "keyword-search",
-    "tags": [
-      "dance",
-      "community"
-    ],
-    "price": "$30-$50",
-    "description": "A Friday-night conscious dance from the MOVEMENT ecstatic-dance crew, with DJ Ean Golden on a BASSBOSS surround system plus tea service and organic food. Phone-free and substance-free.",
-    "neighbourhood": "Cathedral Hill",
-    "cycle_minutes": 11,
-    "added": "2026-10-26",
-    "id": "pyramid-dance-ean-golden-11cd6cf1"
-  },
-  {
-    "title": "5Rhythms Wild Release (Friday night wave)",
-    "start": "2026-11-13T19:00:00-08:00",
-    "end": "2026-11-13T20:45:00-08:00",
-    "venue": "ABADA-Capoeira San Francisco",
-    "address": "3221 22nd St, San Francisco, CA 94110",
-    "url": "https://momence.com/s/138993133",
-    "source": "listing:5rhythms",
-    "tags": [
-      "dance",
-      "community"
-    ],
-    "price": "$35 drop-in ($20 first class)",
-    "description": "Weekly Friday 5Rhythms wave in the Mission, taught this week by Alessandro Moruzzi. It's substance-free and barefoot, beginners welcome. Doors close at 7:30pm.",
-    "neighbourhood": "Mission",
-    "cycle_minutes": 15,
-    "added": "2026-11-05",
-    "id": "5rhythms-wild-release-friday-night-wave-f06f076d"
-  },
-  {
-    "title": "Janet Thornburg's Cognitive Divine (solo comedy)",
-    "start": "2026-11-13T19:30:00-08:00",
-    "end": "2026-11-13T20:30:00-08:00",
-    "venue": "The Marsh San Francisco (Studio)",
-    "address": "1062 Valencia St, San Francisco, CA 94110",
-    "url": "https://themarsh.org/shows_and_events/janet-thornburgs-cognitive-divine/",
-    "source": "venue:the-marsh",
-    "tags": [
-      "theatre",
-      "comedy"
-    ],
-    "price": "$25-$35 general seating",
-    "description": "Solo show in which one performer plays seven sub-personalities arguing over whether to stay in San Francisco. It won Best Full-Length Comedy at the Marsh's 2026 In Front of Your Eyes festival. Fridays at 7:30pm, Nov 6-Dec 11; 60 minutes.",
-    "neighbourhood": "Mission",
-    "cycle_minutes": 15,
-    "added": "2026-11-02",
-    "id": "janet-thornburg-s-cognitive-divine-solo-comedy-3ab2838d"
-  },
-  {
-    "title": "The Moth GrandSLAM Championship",
-    "start": "2026-11-13T20:00:00-08:00",
-    "end": null,
-    "venue": "Castro Theatre",
-    "address": "429 Castro St, San Francisco, CA 94114",
-    "url": "https://thecastro.com/events/the-moth-261113",
-    "source": "venue:castro",
-    "tags": [
-      "talk",
-      "community"
-    ],
-    "price": "Sold out (waitlist)",
-    "description": "Winners of the Bay Area's Moth StorySLAMs compete to be crowned San Francisco GrandSLAM storytelling champion. True stories told live without notes. [SOLD OUT as of 1 Nov — waitlist only.]",
-    "neighbourhood": "Castro",
-    "cycle_minutes": 17,
-    "added": "2026-10-26",
-    "id": "the-moth-grandslam-championship-852406e1"
-  },
-  {
-    "title": "Dos Bandoleros (and friends): rumba flamenca at The Lost Church",
-    "start": "2026-11-13T20:15:00-08:00",
-    "end": "2026-11-13T22:30:00-08:00",
-    "venue": "The Lost Church",
-    "address": "988 Columbus Ave, San Francisco, CA 94133",
-    "url": "https://thelostchurch.my.salesforce-sites.com/ticket#/instances/a0FUh00000C9Jm5MAF",
-    "source": "venue:the-lost-church",
-    "tags": [
-      "music"
-    ],
-    "price": "$20",
-    "description": "Bay Area Spanish-guitar duo playing Gipsy Kings-style rumba flamenca with Latin rhythms, then a second set with guests, in North Beach's listening room. Doors 7:30pm.",
-    "neighbourhood": "North Beach",
-    "cycle_minutes": 13,
-    "added": "2026-11-06",
-    "id": "dos-bandoleros-and-friends-rumba-flamenca-at-the-lost-church-f0b7c4e2"
-  },
-  {
-    "title": "Other Lives with Kelcey Ayer",
-    "start": "2026-11-13T21:00:00-08:00",
-    "end": null,
-    "venue": "The Chapel",
-    "address": "777 Valencia St, San Francisco, CA 94110",
-    "url": "https://wl.seetickets.us/event/other-lives/691433?afflky=TheChapel",
-    "source": "venue:the-chapel",
-    "tags": [
-      "music"
-    ],
-    "price": "$30-$35",
-    "description": "Oklahoma's cinematic indie-folk band, with Local Natives' Kelcey Ayer opening (folkYEAH! presents). Doors 8pm.",
-    "neighbourhood": "Mission",
-    "cycle_minutes": 13,
-    "added": "2026-11-06",
-    "id": "other-lives-with-kelcey-ayer-4a881821"
-  },
-  {
     "title": "Fall SF International Tea Festival",
     "start": "2026-11-14T10:00:00-08:00",
     "end": "2026-11-14T17:00:00-08:00",
@@ -1302,6 +1153,25 @@
     "price": "Free (register on Luma)",
     "description": "Developmental psychologist Xi Jia Zhou introduces how infants learn through temperament, attachment and caregiver interaction, drawing on computational models of infant learning, then asks what child development might teach us about how AI models are 'raised'. Free talk and discussion at Mox.",
     "added": "2026-11-12",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 13
+  },
+  {
+    "id": "ics-0a5b52f31672",
+    "title": "What should AI safety do after the election?",
+    "start": "2026-11-19T18:30:00-08:00",
+    "end": "2026-11-19T19:30:00-08:00",
+    "venue": "Mox",
+    "address": "1680 Mission St, San Francisco, CA 94103",
+    "url": "https://luma.com/m30gyd3v",
+    "source": "ics:AI Safety San Francisco",
+    "tags": [
+      "talk",
+      "community"
+    ],
+    "price": "Free (register on Luma)",
+    "description": "Debate-style discussion at Mox on the resolution 'AI safety should become a mass political movement', prompted by AI regulation's strong showing in the 3 Nov elections. Same evening and venue as the Mox child-development talk.",
+    "added": "2026-11-16",
     "neighbourhood": "Mission",
     "cycle_minutes": 13
   },
