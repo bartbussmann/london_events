@@ -1,5 +1,11 @@
 [
   {
+    "ran_at": "2026-11-16T06:45:00-08:00",
+    "added": 22,
+    "considered": 97,
+    "notes": "Part 1: curated Mox post-election AI-safety debate (19 Nov); suppressed 3pm weekday 'post-fair gathering'; pruned 8; moved-event check of 11 feed events: none moved. Part 2: freshness check of 87 events 17-24 Nov - removed cancelled 5Rhythms Wild Release (20 Nov); now sold out/closed: ChinaTalk (17), Casey's Craft Club (18), AI Summit 2027 (19, registration closed), Woodcarving (21), Recursive Self-Improvement (24) plus re-confirmed others. 21 adds for Jan-Mar: tango milonga, bluegrass, dumpling class, Seb Lowe, Sketchfest (Fake TED Talks late show, Improvised Shakespeare), jazz, Lizard Boy, Noise Pop, contact improv x2, Onoir, A.C.T. previews x2, Woodchopper's, Commonwealth Club (Caplan & Veneziale), Moontricks, Hello! Bachata, Happy Endings, Long Now (Konermann), Bess Atwell. Blocked: Ticketmaster (403)."
+  },
+  {
     "ran_at": "2026-11-15T06:45:00-08:00",
     "added": 27,
     "considered": 129,

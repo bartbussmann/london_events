@@ -495,8 +495,8 @@ DTEND:20261118T050000Z
 SUMMARY:ChinaTalk & Unbound Book Club: Everyday Movement
 DESCRIPTION:SOLD OUT (waitlist only). ChinaTalk's monthly China Reads book
   club in a Chinatown bookshop-café. This month's book is Gigi Leung Lee-
- chi's Hong Kong protest novel Everyday Movement.\nPrice: Free\nhttps://lu
- ma.com/sguni0ck
+ chi's Hong Kong protest novel Everyday Movement.\nPrice: Free (sold out\;
+  waitlist on Luma)\nhttps://luma.com/sguni0ck
 URL:https://luma.com/sguni0ck
 LOCATION:Unbound Books and Coffee\, 38 Waverly Pl\, San Francisco\, CA 941
  08
@@ -638,10 +638,10 @@ DTSTAMP:20261119T023000Z
 DTSTART:20261119T023000Z
 DTEND:20261119T053000Z
 SUMMARY:Casey's Craft Club: Beaded Necklaces
-DESCRIPTION:A drop-in evening craft club where you make a beaded necklace\
- , with all materials provided. It's billed as a space to get crafty and m
- eet new friends.\nPrice: $44.52\nhttps://www.eventbrite.com/e/caseys-craf
- t-club-beaded-necklaces-tickets-2003249283533
+DESCRIPTION:SOLD OUT. A drop-in evening craft club where you make a beaded
+  necklace\, with all materials provided. It's billed as a space to get cr
+ afty and meet new friends.\nPrice: $44.52 (sold out)\nhttps://www.eventbr
+ ite.com/e/caseys-craft-club-beaded-necklaces-tickets-2003249283533
 URL:https://www.eventbrite.com/e/caseys-craft-club-beaded-necklaces-ticket
  s-2003249283533
 LOCATION:Common Space\, 3108B Fillmore St\, San Francisco\, CA 94123
@@ -865,12 +865,12 @@ DTSTART:20261120T020000Z
 DTEND:20261120T050000Z
 SUMMARY:AI Summit 2027: A Conversation Before Geneva (Irene Solaiman + rou
  ndtables)
-DESCRIPTION:Swissnex hosts Hugging Face's chief policy officer Irene Solai
- man on the stakes ahead of the 2027 Geneva AI Summit. Attendees then join
-  one of six policy roundtables (AI safety and frontier risk\, governance\
- , democracy and media\, oversight) whose input feeds the Swiss summit pre
- p cohort.\nPrice: Free (registration approval required)\nhttps://luma.com
- /fy8teprf
+DESCRIPTION:REGISTRATION CLOSED (waitlist). Swissnex hosts Hugging Face's 
+ chief policy officer Irene Solaiman on the stakes ahead of the 2027 Genev
+ a AI Summit. Attendees then join one of six policy roundtables (AI safety
+  and frontier risk\, governance\, democracy and media\, oversight) whose 
+ input feeds the Swiss summit prep cohort.\nPrice: Free (registration clos
+ ed\; waitlist on Luma)\nhttps://luma.com/fy8teprf
 URL:https://luma.com/fy8teprf
 LOCATION:House of AI\, 40 Boardman Pl\, San Francisco\, CA 94103
 END:VEVENT
@@ -914,8 +914,8 @@ DTEND:20261120T040000Z
 SUMMARY:Jane Austen Reader's Theatre
 DESCRIPTION:SOLD OUT (waitlist open on Luma). A lively live reading of Aus
  ten that keeps her snarky narration intact\, in the Castro's romance book
- shop-bar. Doors 6:30pm\, reading starts 7pm.\nPrice: Free (register on Lu
- ma)\nhttps://luma.com/m6nt9s43
+ shop-bar. Doors 6:30pm\, reading starts 7pm.\nPrice: Free (sold out\; wai
+ tlist on Luma)\nhttps://luma.com/m6nt9s43
 URL:https://luma.com/m6nt9s43
 LOCATION:The Love Potion Library\, 284 Noe St\, San Francisco\, CA 94114
 END:VEVENT
@@ -1081,21 +1081,6 @@ LOCATION:SFJAZZ Center\, Joe Henderson Lab\, 201 Franklin St\, San Francis
  co\, CA 94102
 END:VEVENT
 BEGIN:VEVENT
-UID:5rhythms-wild-release-with-vehllia-tranne-friday-night-wave-3f69c890@s
- f-events
-DTSTAMP:20261121T030000Z
-DTSTART:20261121T030000Z
-DTEND:20261121T044500Z
-SUMMARY:5Rhythms Wild Release with Vehllia Tranne (Friday night wave)
-DESCRIPTION:The City Waves' Friday-night 5Rhythms wave\, a 105-minute movi
- ng meditation through flowing\, staccato\, chaos\, lyrical and stillness\
- , with no steps to learn. Arrive at 7pm\; last entry is 7:30.\nPrice: $35
-  drop-in ($20 first class)\nhttps://momence.com/s/139403145
-URL:https://momence.com/s/139403145
-LOCATION:ABADA-Capoeira San Francisco\, 3221 22nd St\, San Francisco\, CA 
- 94110
-END:VEVENT
-BEGIN:VEVENT
 UID:cinespin-he-who-gets-slapped-with-live-jazz-score-bampfa-629c6941@sf-e
  vents
 DTSTAMP:20261121T033000Z
@@ -1241,8 +1226,8 @@ DTEND:20261122T030000Z
 SUMMARY:The Commons Problem - Playtest 3
 DESCRIPTION:SOLD OUT (waitlist only). Playtest #3 of 'The Commons Problem'
  \, a new game about collective-action dilemmas — Saturday afternoon at 
- Mox\; play\, give feedback\, meet people.\nPrice: Free (register on Luma)
- \nhttps://luma.com/b9n3leog
+ Mox\; play\, give feedback\, meet people.\nPrice: Free (sold out\; waitli
+ st on Luma)\nhttps://luma.com/b9n3leog
 URL:https://luma.com/b9n3leog
 LOCATION:Mox\, 1680 Mission St\, San Francisco\, CA 94103
 END:VEVENT
@@ -1253,11 +1238,11 @@ DTSTAMP:20261121T210000Z
 DTSTART:20261121T210000Z
 DTEND:20261121T230000Z
 SUMMARY:Woodcarving workshop with exhibiting artist Nik Gelormino
-DESCRIPTION:Hands-on knife-carving intro in the galleries with an OBJECTS:
-  USA artist: learn grain and technique and shape a rough block into a tac
- tile form. No experience needed\, tools provided.\nPrice: $70-$80\nhttps:
- //www.eventbrite.com/e/woodcarving-workshop-with-exhibiting-artist-nik-ge
- lormino-tickets-2004323804454
+DESCRIPTION:SOLD OUT. Hands-on knife-carving intro in the galleries with a
+ n OBJECTS: USA artist: learn grain and technique and shape a rough block 
+ into a tactile form. No experience needed\, tools provided.\nPrice: $70-$
+ 80 (sold out)\nhttps://www.eventbrite.com/e/woodcarving-workshop-with-exh
+ ibiting-artist-nik-gelormino-tickets-2004323804454
 URL:https://www.eventbrite.com/e/woodcarving-workshop-with-exhibiting-arti
  st-nik-gelormino-tickets-2004323804454
 LOCATION:Museum of Craft and Design\, 2569 3rd St\, San Francisco\, CA
@@ -1345,8 +1330,8 @@ DTEND:20261122T050000Z
 SUMMARY:Bedazzling Night at The Love Potion Library
 DESCRIPTION:SOLD OUT (waitlist open on Luma). Relaxed glitter-craft social
   at the Castro romance bookshop and tea room: bedazzle a book you bring o
- r one from the shelves\, supplies and help provided.\nPrice: $10\nhttps:/
- /luma.com/4pahhbua
+ r one from the shelves\, supplies and help provided.\nPrice: $10 (sold ou
+ t\; waitlist on Luma)\nhttps://luma.com/4pahhbua
 URL:https://luma.com/4pahhbua
 LOCATION:The Love Potion Library\, 284 Noe St\, San Francisco\, CA
 END:VEVENT
@@ -1653,7 +1638,7 @@ SUMMARY:Pedro the Lion with Karli Fairbanks
 DESCRIPTION:SOLD OUT (per The List). David Bazan's indie-rock/slowcore ban
  d Pedro the Lion in a small Potrero Hill club\, with folky singer-songwri
  ter Karli Fairbanks opening. Doors 7:30pm\, all ages.\nPrice: $30 adv / $
- 35 door\nhttp://www.bottomofthehill.com/20261123.html
+ 35 door (sold out)\nhttp://www.bottomofthehill.com/20261123.html
 URL:http://www.bottomofthehill.com/20261123.html
 LOCATION:Bottom of the Hill\, 1233 17th St\, San Francisco\, CA 94107
 END:VEVENT
@@ -1677,11 +1662,12 @@ DTSTART:20261125T023000Z
 DTEND:20261125T043000Z
 SUMMARY:Let's talk about Recursive Self-Improvement: the latest hot topic 
  in AIS
-DESCRIPTION:AI Safety SF discussion night on recursive self-improvement\, 
- prompted by METR's report on AI-accelerated research at Anthropic: a grou
- p level-set\, then breakouts for newcomers (short readings) and deep-cont
- ext technical sessions. About 15 minutes of required reading beforehand.\
- nPrice: Free (register on Luma)\nhttps://luma.com/aisafety-4phl
+DESCRIPTION:SOLD OUT. AI Safety SF discussion night on recursive self-impr
+ ovement\, prompted by METR's report on AI-accelerated research at Anthrop
+ ic: a group level-set\, then breakouts for newcomers (short readings) and
+  deep-context technical sessions. About 15 minutes of required reading be
+ forehand.\nPrice: Free (sold out\; waitlist on Luma)\nhttps://luma.com/ai
+ safety-4phl
 URL:https://luma.com/aisafety-4phl
 LOCATION:SoMa venue (address shown after registering)
 END:VEVENT
@@ -5397,6 +5383,20 @@ URL:https://wl.seetickets.us/event/the-loved-ones-latest-hits-record-relea
 LOCATION:The Chapel\, 777 Valencia St\, San Francisco\, CA 94110
 END:VEVENT
 BEGIN:VEVENT
+UID:milonga-malevaje-thursday-tango-at-the-verdi-club-d860a222@sf-events
+DTSTAMP:20270108T040000Z
+DTSTART:20270108T040000Z
+DTEND:20270108T073000Z
+SUMMARY:Milonga Malevaje (Thursday tango at the Verdi Club)
+DESCRIPTION:The Verdi Club's weekly Thursday Argentine tango milonga\, a s
+ ocial dance night in the Mission's old Italian clubhouse. It's a good fir
+ st Thursday back after the holidays.\nPrice: $20\nhttps://www.verdiclub.n
+ et/events/milonga-malevaje-78-2-2-2-2/2027-01-07/
+URL:https://www.verdiclub.net/events/milonga-malevaje-78-2-2-2-2/2027-01-0
+ 7/
+LOCATION:Verdi Club\, 2424 Mariposa St\, San Francisco\, CA 94110
+END:VEVENT
+BEGIN:VEVENT
 UID:la-hora-feliz-friday-spanish-conversation-meetup-1cf5a60e@sf-events
 DTSTAMP:20270109T020000Z
 DTSTART:20270109T020000Z
@@ -5575,6 +5575,20 @@ URL:https://www.voguemovies.com/calendar-of-events/national-theatre-live-t
 LOCATION:Vogue Theatre\, 3290 Sacramento St\, San Francisco\, CA 94115
 END:VEVENT
 BEGIN:VEVENT
+UID:free-bluegrass-jam-concert-at-blondie-s-b9cecea6@sf-events
+DTSTAMP:20270112T043000Z
+DTSTART:20270112T043000Z
+DTEND:20270112T063000Z
+SUMMARY:Free bluegrass jam & concert at Blondie's
+DESCRIPTION:Blondie's weekly Monday night of local bluegrass on Valencia S
+ t\, a short concert followed by an open jam. Free with an Eventbrite RSVP
+ .\nPrice: Free\nhttps://www.eventbrite.com/e/free-bluegrass-in-san-franci
+ sco-live-jam-concert-tickets-1990533654745
+URL:https://www.eventbrite.com/e/free-bluegrass-in-san-francisco-live-jam-
+ concert-tickets-1990533654745
+LOCATION:Blondie's Bar\, 540 Valencia St\, San Francisco\, CA 94110
+END:VEVENT
+BEGIN:VEVENT
 UID:happy-endings-writers-showdown-at-the-make-out-room-c4a91262@sf-events
 DTSTAMP:20270113T030000Z
 DTSTART:20270113T030000Z
@@ -5679,6 +5693,20 @@ LOCATION:Great American Music Hall\, 859 O'Farrell St\, San Francisco\, CA
   94109
 END:VEVENT
 BEGIN:VEVENT
+UID:cooking-class-authentic-asian-dumplings-cocusocial-7c64935a@sf-events
+DTSTAMP:20270116T020000Z
+DTSTART:20270116T020000Z
+DTEND:20270116T040000Z
+SUMMARY:Cooking class: Authentic Asian Dumplings (CocuSocial)
+DESCRIPTION:A hands-on two-hour class making dumpling wrappers from scratc
+ h plus pork-chive-shrimp and tofu fillings. You cook in small groups of 2
+ -4\, so it's easy to come alone (21+).\nPrice: $59\nhttps://www.cocusocia
+ l.com/newevent/San-Francisco_Authentic-Asian-Dumplings_2027-Jan-15
+URL:https://www.cocusocial.com/newevent/San-Francisco_Authentic-Asian-Dump
+ lings_2027-Jan-15
+LOCATION:The Hotel Majestic\, 1500 Sutter St\, San Francisco\, CA 94109
+END:VEVENT
+BEGIN:VEVENT
 UID:bachata-lab-friday-bachata-classes-3-levels-social-966b0c0d@sf-events
 DTSTAMP:20270116T040000Z
 DTSTART:20270116T040000Z
@@ -5690,6 +5718,20 @@ DESCRIPTION:Weekly Friday bachata (sensual/fusion) with concurrent beginne
  ntbrite.com/e/bachata-lab-tickets-1543049064289
 URL:https://www.eventbrite.com/e/bachata-lab-tickets-1543049064289
 LOCATION:Bachata Lab\, 1830 17th St\, San Francisco\, CA 94103
+END:VEVENT
+BEGIN:VEVENT
+UID:seb-lowe-with-kate-couriel-535d9544@sf-events
+DTSTAMP:20270116T050000Z
+DTSTART:20270116T050000Z
+DTEND:20270116T070000Z
+SUMMARY:Seb Lowe with Kate Couriel
+DESCRIPTION:English singer-songwriter Seb Lowe brings his 2027 US tour to 
+ the small Hayes Valley room\, with Kate Couriel supporting (presented by 
+ Popscene). All ages\, doors 8pm.\nPrice: $20 advance / $25 door\nhttps://
+ wl.eventim.us/event/seb-lowe-us-tour-2027/705780?afflky=RickshawStop
+URL:https://wl.eventim.us/event/seb-lowe-us-tour-2027/705780?afflky=Ricksh
+ awStop
+LOCATION:Rickshaw Stop\, 155 Fell St\, San Francisco\, CA 94102
 END:VEVENT
 BEGIN:VEVENT
 UID:the-16th-annual-bowie-bash-ee5e1ce5@sf-events
@@ -6034,6 +6076,23 @@ URL:https://wl.seetickets.us/event/fruition/703540?afflky=TheChapel
 LOCATION:The Chapel\, 777 Valencia St\, San Francisco\, CA 94110
 END:VEVENT
 BEGIN:VEVENT
+UID:fake-ted-talks-jonathan-coulton-janeane-garofalo-adam-savage-39dc6a63@
+ sf-events
+DTSTAMP:20270123T054500Z
+DTSTART:20270123T054500Z
+DTEND:20270123T071500Z
+SUMMARY:Fake TED Talks: Jonathan Coulton\, Janeane Garofalo\, Adam Savage 
+ & more (SF Sketchfest)
+DESCRIPTION:Comedians and guests including Jonathan Coulton\, Janeane Garo
+ falo\, Laura Kightlinger\, Adam Savage and Dulcé Sloan give rehearsed\, 
+ fact-free parody TED talks. This is the late show\; the 7pm show is alrea
+ dy sold out.\nhttps://sfsketchfest2027.sched.com/event/f7d94907365038f663
+ 1da819b66ed290
+URL:https://sfsketchfest2027.sched.com/event/f7d94907365038f6631da819b66ed
+ 290
+LOCATION:Cobb's Comedy Club\, 915 Columbus Ave\, San Francisco\, CA 94133
+END:VEVENT
+BEGIN:VEVENT
 UID:sf-city-guides-free-walking-tour-golden-gate-park-west-end-bd76448a@sf
  -events
 DTSTAMP:20270123T183000Z
@@ -6280,6 +6339,20 @@ DESCRIPTION:NYC instrumental guitar band City of the Sun play cinematic\,
  rom Oct 21.\nhttps://www.theindependentsf.com/tm-event/city-of-the-sun-2/
 URL:https://www.theindependentsf.com/tm-event/city-of-the-sun-2/
 LOCATION:The Independent\, 628 Divisadero St\, San Francisco\, CA 94117
+END:VEVENT
+BEGIN:VEVENT
+UID:the-improvised-shakespeare-company-sf-sketchfest-3875946f@sf-events
+DTSTAMP:20270130T030000Z
+DTSTART:20270130T030000Z
+DTEND:20270130T043000Z
+SUMMARY:The Improvised Shakespeare Company (SF Sketchfest)
+DESCRIPTION:The troupe improvises a full Shakespearean play in Elizabethan
+  verse from a single audience-suggested title. A Sketchfest favourite.\nh
+ ttps://sfsketchfest2027.sched.com/event/fc902d9d3a4967e42032a9419b6e1cc4
+URL:https://sfsketchfest2027.sched.com/event/fc902d9d3a4967e42032a9419b6e1
+ cc4
+LOCATION:Marines' Memorial Theatre\, 609 Sutter St\, San Francisco\, CA 94
+ 102
 END:VEVENT
 BEGIN:VEVENT
 UID:bachata-lab-friday-bachata-classes-3-levels-social-f44d7df1@sf-events
@@ -6847,6 +6920,19 @@ URL:https://www.eventbrite.com/e/free-bluegrass-in-san-francisco-live-jam-
 LOCATION:Blondie's Bar\, 540 Valencia St\, San Francisco\, CA 94110
 END:VEVENT
 BEGIN:VEVENT
+UID:jazz-at-the-make-out-room-57fd00f7@sf-events
+DTSTAMP:20270217T030000Z
+DTSTART:20270217T030000Z
+DTEND:20270217T053000Z
+SUMMARY:Jazz at the Make-Out Room
+DESCRIPTION:A free Tuesday jazz night in the Mission bar (doors 6pm\, musi
+ c 7pm). An easy weeknight drop-in.\nPrice: Free (donations)\nhttps://www.
+ calendarwiz.com/calendars/popup.php?op=view&id=188526952&crd=makeoutroom
+URL:https://www.calendarwiz.com/calendars/popup.php?op=view&id=188526952&c
+ rd=makeoutroom
+LOCATION:Make-Out Room\, 3225 22nd St\, San Francisco\, CA 94110
+END:VEVENT
+BEGIN:VEVENT
 UID:woodchopper-s-ball-live-band-swing-night-accec69f@sf-events
 DTSTAMP:20270217T050000Z
 DTSTART:20270217T050000Z
@@ -6902,6 +6988,20 @@ URL:https://wl.seetickets.us/event/jess-williamson/707156?afflky=GreatAmer
  icanMusicHall
 LOCATION:Great American Music Hall\, 859 O'Farrell St\, San Francisco\, CA
   94109
+END:VEVENT
+BEGIN:VEVENT
+UID:lizard-boy-at-sf-playhouse-first-performance-16904a69@sf-events
+DTSTAMP:20270220T040000Z
+DTSTART:20270220T040000Z
+DTEND:20270220T060000Z
+SUMMARY:Lizard Boy at SF Playhouse (first performance)
+DESCRIPTION:First performance of SF Playhouse's run of the indie-rock musi
+ cal about a reclusive young man who risks everything on a first date\, a 
+ story about identity\, love and being seen. The run continues until 3 Apr
+ il.\nPrice: $60-$145\nhttps://sfplayhouse.org/2026-2027-season/lizard-boy
+ /
+URL:https://sfplayhouse.org/2026-2027-season/lizard-boy/
+LOCATION:San Francisco Playhouse\, 450 Post St\, San Francisco\, CA 94102
 END:VEVENT
 BEGIN:VEVENT
 UID:fink-with-maggie-koerner-c56a17fa@sf-events
@@ -7033,6 +7133,21 @@ URL:https://wl.seetickets.us/event/sylvie/710246?afflky=TheChapel
 LOCATION:The Chapel\, 777 Valencia St\, San Francisco\, CA 94110
 END:VEVENT
 BEGIN:VEVENT
+UID:radio-free-alice-noise-pop-2027-f5392a70@sf-events
+DTSTAMP:20270225T034500Z
+DTSTART:20270225T034500Z
+DTEND:20270225T054500Z
+SUMMARY:Radio Free Alice (Noise Pop 2027)
+DESCRIPTION:Melbourne guitar band touring its Atlantic Records debut\, Wha
+ t's In Between\, at the small Hayes Valley room as part of Noise Pop 2027
+ . All ages\; doors 7pm\, show 7:45pm.\nPrice: $20 advance / $25 week of s
+ how\nhttps://wl.eventim.us/event/radio-free-alice/708488?afflky=RickshawS
+ top
+URL:https://wl.eventim.us/event/radio-free-alice/708488?afflky=RickshawSto
+ p
+LOCATION:Rickshaw Stop\, 155 Fell St\, San Francisco\, CA 94102
+END:VEVENT
+BEGIN:VEVENT
 UID:deerhoof-with-earthball-and-gumby-s-junk-267abd0c@sf-events
 DTSTAMP:20270225T040000Z
 DTSTART:20270225T040000Z
@@ -7151,6 +7266,34 @@ URL:https://www.noisepop.com/
 LOCATION:Grace Cathedral\, 1100 California St\, San Francisco\, CA 94108
 END:VEVENT
 BEGIN:VEVENT
+UID:contact-improvisation-class-with-dai-wei-at-odc-999077f8@sf-events
+DTSTAMP:20270228T211500Z
+DTSTART:20270228T211500Z
+DTEND:20270228T230000Z
+SUMMARY:Contact Improvisation class with Dai & Wei at ODC
+DESCRIPTION:A weekly Sunday-afternoon contact improvisation class at ODC i
+ n the Mission\, taught by Daiane Lopes da Silva and Weidong Yang. Beginne
+ rs are welcome.\nhttps://bay.dance/events/contact_improv/
+URL:https://bay.dance/events/contact_improv/
+LOCATION:ODC Dance Commons\, 351 Shotwell St\, San Francisco\, CA 94110
+END:VEVENT
+BEGIN:VEVENT
+UID:on-ir-in-concert-2027-west-coast-premiere-matinee-f247196e@sf-events
+DTSTAMP:20270228T230000Z
+DTSTART:20270228T230000Z
+DTEND:20270301T010000Z
+SUMMARY:Onóir in Concert: 2027 West Coast premiere (matinee)
+DESCRIPTION:Irish group Onóir plays the second of two '2027 West Coast Pr
+ emiere' concerts at the United Irish Cultural Center near Ocean Beach. An
+  early start to the St Patrick's season.\nPrice: $55.20-$60.54\nhttps://w
+ ww.eventbrite.com/e/onoir-in-concert2027-west-coast-premiere-22827-2nd-of
+ -2-shows-tickets-1990660226324
+URL:https://www.eventbrite.com/e/onoir-in-concert2027-west-coast-premiere-
+ 22827-2nd-of-2-shows-tickets-1990660226324
+LOCATION:United Irish Cultural Center\, 2700 45th Ave\, San Francisco\, CA
+  94116
+END:VEVENT
+BEGIN:VEVENT
 UID:gibby-haynes-butthole-surfers-mania-noise-pop-2027-a05d869f@sf-events
 DTSTAMP:20270301T040000Z
 DTSTART:20270301T040000Z
@@ -7165,6 +7308,18 @@ URL:https://wl.seetickets.us/event/Gibby-Haynes-Butthole-Surfer-Mania/7089
  42?afflky=GreatAmericanMusicHall
 LOCATION:Great American Music Hall\, 859 O'Farrell St\, San Francisco\, CA
   94109
+END:VEVENT
+BEGIN:VEVENT
+UID:contact-improvisation-class-jam-at-the-castro-room-65a551c5@sf-events
+DTSTAMP:20270302T034500Z
+DTSTART:20270302T034500Z
+DTEND:20270302T061500Z
+SUMMARY:Contact Improvisation class + jam at The Castro Room
+DESCRIPTION:The 1st-Monday SF contact improv night: a class from 7:45 to 8
+ :45pm\, then an open jam with live music until 10:15. Beginners are welco
+ me.\nhttps://bay.dance/events/contact_improv/
+URL:https://bay.dance/events/contact_improv/
+LOCATION:The Castro Room\, 97 Collingwood St\, San Francisco\, CA 94114
 END:VEVENT
 BEGIN:VEVENT
 UID:valley-dyntbe-the-tour-with-moody-joody-778d1d2a@sf-events
@@ -7190,6 +7345,22 @@ DESCRIPTION:London sibling duo Wasia Project (Olivia Hardy and Will Gao) p
  wasia-project-270302
 URL:https://thecastro.com/events/wasia-project-270302
 LOCATION:Castro Theatre\, 429 Castro St\, San Francisco\, CA 94114
+END:VEVENT
+BEGIN:VEVENT
+UID:the-bad-news-bears-a-musical-a-c-t-world-premiere-preview-b47a3d43@sf-
+ events
+DTSTAMP:20270304T033000Z
+DTSTART:20270304T033000Z
+DTEND:20270304T053000Z
+SUMMARY:The Bad News Bears: A Musical (A.C.T. world premiere\, preview)
+DESCRIPTION:World-premiere musical of the 1976 film about a washed-up ball
+ player coaching a team of Little League misfits. This is a preview-week p
+ erformance\; the run lasts until 4 April.\nhttps://www.act-sf.org/whats-o
+ n/2026-27-season/the-bad-news-bears-a-musical
+URL:https://www.act-sf.org/whats-on/2026-27-season/the-bad-news-bears-a-mu
+ sical
+LOCATION:A.C.T. Toni Rembe Theater\, 415 Geary St\, San Francisco\, CA 941
+ 02
 END:VEVENT
 BEGIN:VEVENT
 UID:chip-bergh-the-levi-s-story-a389e593@sf-events
@@ -7246,5 +7417,121 @@ DESCRIPTION:The first-Sunday salsa and mambo social at the Verdi Club: a b
 URL:https://www.eventbrite.com/e/sf-salsa-social-salsa-dancing-lesson-at-v
  erdi-club-san-francisco-tickets-2003026085943
 LOCATION:Verdi Club\, 2424 Mariposa St\, San Francisco\, CA 94110
+END:VEVENT
+BEGIN:VEVENT
+UID:happy-endings-writers-showdown-at-the-make-out-room-9dc29a4e@sf-events
+DTSTAMP:20270310T030000Z
+DTSTART:20270310T030000Z
+DTEND:20270310T050000Z
+SUMMARY:Happy Endings: writers' showdown at the Make-Out Room
+DESCRIPTION:Five writers perform new work on a shared theme\, competing fo
+ r the approval of an appointed committee. A literary night with a comedy 
+ edge in a Mission bar.\nPrice: Pay what you can\nhttps://www.calendarwiz.
+ com/calendars/popup.php?op=view&id=184885116&crd=makeoutroom
+URL:https://www.calendarwiz.com/calendars/popup.php?op=view&id=184885116&c
+ rd=makeoutroom
+LOCATION:Make-Out Room\, 3225 22nd St\, San Francisco\, CA 94110
+END:VEVENT
+BEGIN:VEVENT
+UID:woodchopper-s-ball-live-band-swing-night-8c7bfb46@sf-events
+DTSTAMP:20270310T050000Z
+DTSTART:20270310T050000Z
+DTEND:20270310T073000Z
+SUMMARY:Woodchopper's Ball: live-band swing night
+DESCRIPTION:San Francisco's weekly Tuesday swing dance with a live band an
+ d a 9pm beginner lesson. Easy to show up alone and dance with strangers.\
+ nPrice: $20 cash ($10 students)\nhttps://www.verdiclub.net/events/the-woo
+ dchoppers-ball-42-3-2/2027-03-09/
+URL:https://www.verdiclub.net/events/the-woodchoppers-ball-42-3-2/2027-03-
+ 09/
+LOCATION:Verdi Club\, 2424 Mariposa St\, San Francisco\, CA 94110
+END:VEVENT
+BEGIN:VEVENT
+UID:lindsey-caplan-anthony-veneziale-the-art-and-science-of-what-8c759bb3@
+ sf-events
+DTSTAMP:20270312T020000Z
+DTSTART:20270312T020000Z
+DTEND:20270312T030000Z
+SUMMARY:Lindsey Caplan & Anthony Veneziale: The Art and Science of What Mo
+ ves Us
+DESCRIPTION:The screenwriter turned organizational psychologist talks abou
+ t her book Moved (why information alone rarely changes people) with Frees
+ tyle Love Supreme co-creator Anthony Veneziale. Doors 5:30pm\, then a boo
+ k signing at 7pm.\nPrice: $25 ($55 with book\; students free)\nhttps://ww
+ w.commonwealthclub.org/events/2027-03-11/lindsey-caplan-and-anthony-venez
+ iale-art-and-science-what-moves-us-and-how-move
+URL:https://www.commonwealthclub.org/events/2027-03-11/lindsey-caplan-and-
+ anthony-veneziale-art-and-science-what-moves-us-and-how-move
+LOCATION:Commonwealth Club World Affairs\, 110 The Embarcadero\, San Franc
+ isco\, CA 94105
+END:VEVENT
+BEGIN:VEVENT
+UID:moontricks-with-will-evans-76bc17e1@sf-events
+DTSTAMP:20270313T040000Z
+DTSTART:20270313T040000Z
+DTEND:20270313T060000Z
+SUMMARY:Moontricks with Will Evans
+DESCRIPTION:Moontricks headline Great American Music Hall\, the ornate Ten
+ derloin room\, with Will Evans supporting. Doors 7pm\, show 8pm.\nPrice: 
+ $25 advance / $28 door\nhttps://wl.seetickets.us/event/moontricks/710581?
+ afflky=GreatAmericanMusicHall
+URL:https://wl.seetickets.us/event/moontricks/710581?afflky=GreatAmericanM
+ usicHall
+LOCATION:Great American Music Hall\, 859 O'Farrell St\, San Francisco\, CA
+  94109
+END:VEVENT
+BEGIN:VEVENT
+UID:troilus-and-cressida-a-c-t-out-tour-preview-ffd2893f@sf-events
+DTSTAMP:20270314T030000Z
+DTSTART:20270314T030000Z
+DTEND:20270314T050000Z
+SUMMARY:Troilus and Cressida (A.C.T. OUT Tour preview)
+DESCRIPTION:A fast\, in-the-round\, 90-minute modern-verse staging (Play O
+ n Shakespeare translation) of Shakespeare's cynical war tragicomedy\, in 
+ the Strand's intimate Rueff space. This is the first public preview.\nhtt
+ ps://www.act-sf.org/community/for-students/a-c-t-out-tour/troilus-and-cre
+ ssida
+URL:https://www.act-sf.org/community/for-students/a-c-t-out-tour/troilus-a
+ nd-cressida
+LOCATION:A.C.T. Strand Theater (The Rueff)\, 1127 Market St\, San Francisc
+ o\, CA 94103
+END:VEVENT
+BEGIN:VEVENT
+UID:hello-bachata-sunday-at-the-verdi-club-24eae7d6@sf-events
+DTSTAMP:20270314T220000Z
+DTSTART:20270314T220000Z
+DTEND:20270315T033000Z
+SUMMARY:Hello! Bachata Sunday at the Verdi Club
+DESCRIPTION:A daytime bachata social on two floors of the Verdi Club\, ove
+ r by evening. Social and easy to join solo.\nPrice: $17 cover (Venmo)\nht
+ tps://www.verdiclub.net/events/hello-bachata-11-2/2027-03-14/
+URL:https://www.verdiclub.net/events/hello-bachata-11-2/2027-03-14/
+LOCATION:Verdi Club\, 2424 Mariposa St\, San Francisco\, CA 94110
+END:VEVENT
+BEGIN:VEVENT
+UID:long-now-talk-silvana-konermann-on-crispr-and-alzheimer-s-e70c9ef6@sf-
+ events
+DTSTAMP:20270317T020000Z
+DTSTART:20270317T020000Z
+DTEND:20270317T040000Z
+SUMMARY:Long Now Talk: Silvana Konermann on CRISPR and Alzheimer's
+DESCRIPTION:Long Now's monthly talk: Arc Institute scientist Silvana Koner
+ mann on gene-editing approaches to Alzheimer's disease. Tickets 'on sale 
+ soon' when checked.\nhttps://longnow.org/talks/02027-konermann/
+URL:https://longnow.org/talks/02027-konermann/
+LOCATION:Cowell Theater\, Fort Mason Center\, Pier 2\, Fort Mason Center\,
+  San Francisco\, CA 94123
+END:VEVENT
+BEGIN:VEVENT
+UID:bess-atwell-c5917167@sf-events
+DTSTAMP:20270317T030000Z
+DTSTART:20270317T030000Z
+DTEND:20270317T050000Z
+SUMMARY:Bess Atwell
+DESCRIPTION:English indie-folk singer-songwriter Bess Atwell plays the sma
+ ll Hayes Valley room.\nPrice: $17 adv / $20 door\nhttps://wl.eventim.us/e
+ vent/bess-atwell/708223?afflky=RickshawStop
+URL:https://wl.eventim.us/event/bess-atwell/708223?afflky=RickshawStop
+LOCATION:Rickshaw Stop\, 155 Fell St\, San Francisco\, CA 94102
 END:VEVENT
 END:VCALENDAR

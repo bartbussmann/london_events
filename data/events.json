@@ -607,7 +607,7 @@
       "talk",
       "community"
     ],
-    "price": "Free",
+    "price": "Free (sold out; waitlist on Luma)",
     "description": "SOLD OUT (waitlist only). ChinaTalk's monthly China Reads book club in a Chinatown bookshop-café. This month's book is Gigi Leung Lee-chi's Hong Kong protest novel Everyday Movement.",
     "neighbourhood": "Chinatown",
     "cycle_minutes": 9,
@@ -795,8 +795,8 @@
       "workshop",
       "community"
     ],
-    "price": "$44.52",
-    "description": "A drop-in evening craft club where you make a beaded necklace, with all materials provided. It's billed as a space to get crafty and meet new friends.",
+    "price": "$44.52 (sold out)",
+    "description": "SOLD OUT. A drop-in evening craft club where you make a beaded necklace, with all materials provided. It's billed as a space to get crafty and meet new friends.",
     "neighbourhood": "Cow Hollow",
     "cycle_minutes": 22,
     "added": "2026-10-28",
@@ -1073,8 +1073,8 @@
       "talk",
       "tech"
     ],
-    "price": "Free (registration approval required)",
-    "description": "Swissnex hosts Hugging Face's chief policy officer Irene Solaiman on the stakes ahead of the 2027 Geneva AI Summit. Attendees then join one of six policy roundtables (AI safety and frontier risk, governance, democracy and media, oversight) whose input feeds the Swiss summit prep cohort.",
+    "price": "Free (registration closed; waitlist on Luma)",
+    "description": "REGISTRATION CLOSED (waitlist). Swissnex hosts Hugging Face's chief policy officer Irene Solaiman on the stakes ahead of the 2027 Geneva AI Summit. Attendees then join one of six policy roundtables (AI safety and frontier risk, governance, democracy and media, oversight) whose input feeds the Swiss summit prep cohort.",
     "neighbourhood": "SoMa",
     "cycle_minutes": 8,
     "added": "2026-11-04",
@@ -1130,7 +1130,7 @@
       "theatre",
       "community"
     ],
-    "price": "Free (register on Luma)",
+    "price": "Free (sold out; waitlist on Luma)",
     "description": "SOLD OUT (waitlist open on Luma). A lively live reading of Austen that keeps her snarky narration intact, in the Castro's romance bookshop-bar. Doors 6:30pm, reading starts 7pm.",
     "neighbourhood": "Castro",
     "cycle_minutes": 16,
@@ -1346,24 +1346,6 @@
     "id": "brittany-davis-black-thunder-early-set-78aa60e6"
   },
   {
-    "id": "5rhythms-wild-release-with-vehllia-tranne-friday-night-wave-3f69c890",
-    "title": "5Rhythms Wild Release with Vehllia Tranne (Friday night wave)",
-    "start": "2026-11-20T19:00:00-08:00",
-    "end": "2026-11-20T20:45:00-08:00",
-    "venue": "ABADA-Capoeira San Francisco",
-    "address": "3221 22nd St, San Francisco, CA 94110",
-    "url": "https://momence.com/s/139403145",
-    "source": "venue:the-city-waves",
-    "tags": [
-      "dance"
-    ],
-    "price": "$35 drop-in ($20 first class)",
-    "description": "The City Waves' Friday-night 5Rhythms wave, a 105-minute moving meditation through flowing, staccato, chaos, lyrical and stillness, with no steps to learn. Arrive at 7pm; last entry is 7:30.",
-    "neighbourhood": "Mission",
-    "cycle_minutes": 15,
-    "added": "2026-11-10"
-  },
-  {
     "title": "CineSpin: He Who Gets Slapped with live jazz score (BAMPFA)",
     "start": "2026-11-20T19:30:00-08:00",
     "end": null,
@@ -1544,7 +1526,7 @@
     "tags": [
       "community"
     ],
-    "price": "Free (register on Luma)",
+    "price": "Free (sold out; waitlist on Luma)",
     "description": "SOLD OUT (waitlist only). Playtest #3 of 'The Commons Problem', a new game about collective-action dilemmas — Saturday afternoon at Mox; play, give feedback, meet people.",
     "added": "2026-10-26",
     "neighbourhood": "Mission",
@@ -1564,8 +1546,8 @@
       "class",
       "art"
     ],
-    "price": "$70-$80",
-    "description": "Hands-on knife-carving intro in the galleries with an OBJECTS: USA artist: learn grain and technique and shape a rough block into a tactile form. No experience needed, tools provided.",
+    "price": "$70-$80 (sold out)",
+    "description": "SOLD OUT. Hands-on knife-carving intro in the galleries with an OBJECTS: USA artist: learn grain and technique and shape a rough block into a tactile form. No experience needed, tools provided.",
     "neighbourhood": "Dogpatch",
     "cycle_minutes": 12,
     "added": "2026-11-07"
@@ -1677,7 +1659,7 @@
       "workshop",
       "community"
     ],
-    "price": "$10",
+    "price": "$10 (sold out; waitlist on Luma)",
     "description": "SOLD OUT (waitlist open on Luma). Relaxed glitter-craft social at the Castro romance bookshop and tea room: bedazzle a book you bring or one from the shelves, supplies and help provided.",
     "neighbourhood": "Castro",
     "cycle_minutes": 17,
@@ -2049,7 +2031,7 @@
     "tags": [
       "music"
     ],
-    "price": "$30 adv / $35 door",
+    "price": "$30 adv / $35 door (sold out)",
     "description": "SOLD OUT (per The List). David Bazan's indie-rock/slowcore band Pedro the Lion in a small Potrero Hill club, with folky singer-songwriter Karli Fairbanks opening. Doors 7:30pm, all ages.",
     "neighbourhood": "Potrero Hill",
     "cycle_minutes": 12,
@@ -2089,8 +2071,8 @@
       "tech",
       "community"
     ],
-    "price": "Free (register on Luma)",
-    "description": "AI Safety SF discussion night on recursive self-improvement, prompted by METR's report on AI-accelerated research at Anthropic: a group level-set, then breakouts for newcomers (short readings) and deep-context technical sessions. About 15 minutes of required reading beforehand.",
+    "price": "Free (sold out; waitlist on Luma)",
+    "description": "SOLD OUT. AI Safety SF discussion night on recursive self-improvement, prompted by METR's report on AI-accelerated research at Anthropic: a group level-set, then breakouts for newcomers (short readings) and deep-context technical sessions. About 15 minutes of required reading beforehand.",
     "added": "2026-11-15",
     "neighbourhood": "SoMa",
     "cycle_minutes": 5
@@ -6720,6 +6702,24 @@
     "id": "the-loved-ones-latest-hits-record-release-with-the-vesuvians-b735b97a"
   },
   {
+    "id": "milonga-malevaje-thursday-tango-at-the-verdi-club-d860a222",
+    "title": "Milonga Malevaje (Thursday tango at the Verdi Club)",
+    "start": "2027-01-07T20:00:00-08:00",
+    "end": "2027-01-07T23:30:00-08:00",
+    "venue": "Verdi Club",
+    "address": "2424 Mariposa St, San Francisco, CA 94110",
+    "url": "https://www.verdiclub.net/events/milonga-malevaje-78-2-2-2-2/2027-01-07/",
+    "source": "venue:verdi-club",
+    "tags": [
+      "dance"
+    ],
+    "price": "$20",
+    "description": "The Verdi Club's weekly Thursday Argentine tango milonga, a social dance night in the Mission's old Italian clubhouse. It's a good first Thursday back after the holidays.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 13,
+    "added": "2026-11-16"
+  },
+  {
     "title": "La Hora Feliz: Friday Spanish conversation meetup",
     "start": "2027-01-08T18:00:00-08:00",
     "end": "2027-01-08T21:00:00-08:00",
@@ -6944,6 +6944,24 @@
     "added": "2026-11-09"
   },
   {
+    "id": "free-bluegrass-jam-concert-at-blondie-s-b9cecea6",
+    "title": "Free bluegrass jam & concert at Blondie's",
+    "start": "2027-01-11T20:30:00-08:00",
+    "end": "2027-01-11T22:30:00-08:00",
+    "venue": "Blondie's Bar",
+    "address": "540 Valencia St, San Francisco, CA 94110",
+    "url": "https://www.eventbrite.com/e/free-bluegrass-in-san-francisco-live-jam-concert-tickets-1990533654745",
+    "source": "listing:blondies-bluegrass",
+    "tags": [
+      "music"
+    ],
+    "price": "Free",
+    "description": "Blondie's weekly Monday night of local bluegrass on Valencia St, a short concert followed by an open jam. Free with an Eventbrite RSVP.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 12,
+    "added": "2026-11-16"
+  },
+  {
     "id": "happy-endings-writers-showdown-at-the-make-out-room-c4a91262",
     "title": "Happy Endings: writers' showdown at the Make-Out Room",
     "start": "2027-01-12T19:00:00-08:00",
@@ -7076,6 +7094,25 @@
     "id": "lsd-and-the-search-for-god-with-cryogeyser-6874123f"
   },
   {
+    "id": "cooking-class-authentic-asian-dumplings-cocusocial-7c64935a",
+    "title": "Cooking class: Authentic Asian Dumplings (CocuSocial)",
+    "start": "2027-01-15T18:00:00-08:00",
+    "end": "2027-01-15T20:00:00-08:00",
+    "venue": "The Hotel Majestic",
+    "address": "1500 Sutter St, San Francisco, CA 94109",
+    "url": "https://www.cocusocial.com/newevent/San-Francisco_Authentic-Asian-Dumplings_2027-Jan-15",
+    "source": "listing:cocusocial",
+    "tags": [
+      "class",
+      "food"
+    ],
+    "price": "$59",
+    "description": "A hands-on two-hour class making dumpling wrappers from scratch plus pork-chive-shrimp and tofu fillings. You cook in small groups of 2-4, so it's easy to come alone (21+).",
+    "neighbourhood": "Cathedral Hill",
+    "cycle_minutes": 14,
+    "added": "2026-11-16"
+  },
+  {
     "title": "Bachata Lab: Friday bachata classes (3 levels) + social",
     "start": "2027-01-15T20:00:00-08:00",
     "end": "2027-01-16T01:00:00-08:00",
@@ -7093,6 +7130,24 @@
     "cycle_minutes": 11,
     "added": "2026-11-05",
     "id": "bachata-lab-friday-bachata-classes-3-levels-social-966b0c0d"
+  },
+  {
+    "id": "seb-lowe-with-kate-couriel-535d9544",
+    "title": "Seb Lowe with Kate Couriel",
+    "start": "2027-01-15T21:00:00-08:00",
+    "end": null,
+    "venue": "Rickshaw Stop",
+    "address": "155 Fell St, San Francisco, CA 94102",
+    "url": "https://wl.eventim.us/event/seb-lowe-us-tour-2027/705780?afflky=RickshawStop",
+    "source": "venue:rickshaw-stop",
+    "tags": [
+      "music"
+    ],
+    "price": "$20 advance / $25 door",
+    "description": "English singer-songwriter Seb Lowe brings his 2027 US tour to the small Hayes Valley room, with Kate Couriel supporting (presented by Popscene). All ages, doors 8pm.",
+    "neighbourhood": "Hayes Valley",
+    "cycle_minutes": 10,
+    "added": "2026-11-16"
   },
   {
     "title": "The 16th Annual Bowie Bash",
@@ -7526,6 +7581,25 @@
     "id": "fruition-something-more-the-final-tour-with-rainbow-girls-79b0a721"
   },
   {
+    "id": "fake-ted-talks-jonathan-coulton-janeane-garofalo-adam-savage-39dc6a63",
+    "title": "Fake TED Talks: Jonathan Coulton, Janeane Garofalo, Adam Savage & more (SF Sketchfest)",
+    "start": "2027-01-22T21:45:00-08:00",
+    "end": "2027-01-22T23:15:00-08:00",
+    "venue": "Cobb's Comedy Club",
+    "address": "915 Columbus Ave, San Francisco, CA 94133",
+    "url": "https://sfsketchfest2027.sched.com/event/f7d94907365038f6631da819b66ed290",
+    "source": "festival:sf-sketchfest",
+    "tags": [
+      "comedy",
+      "talk"
+    ],
+    "price": null,
+    "description": "Comedians and guests including Jonathan Coulton, Janeane Garofalo, Laura Kightlinger, Adam Savage and Dulcé Sloan give rehearsed, fact-free parody TED talks. This is the late show; the 7pm show is already sold out.",
+    "neighbourhood": "North Beach",
+    "cycle_minutes": 12,
+    "added": "2026-11-16"
+  },
+  {
     "title": "SF City Guides free walking tour: Golden Gate Park, West End",
     "start": "2027-01-23T10:30:00-08:00",
     "end": "2027-01-23T12:30:00-08:00",
@@ -7842,6 +7916,25 @@
     "neighbourhood": "NoPa",
     "cycle_minutes": 18,
     "added": "2026-11-11"
+  },
+  {
+    "id": "the-improvised-shakespeare-company-sf-sketchfest-3875946f",
+    "title": "The Improvised Shakespeare Company (SF Sketchfest)",
+    "start": "2027-01-29T19:00:00-08:00",
+    "end": "2027-01-29T20:30:00-08:00",
+    "venue": "Marines' Memorial Theatre",
+    "address": "609 Sutter St, San Francisco, CA 94102",
+    "url": "https://sfsketchfest2027.sched.com/event/fc902d9d3a4967e42032a9419b6e1cc4",
+    "source": "festival:sf-sketchfest",
+    "tags": [
+      "comedy",
+      "theatre"
+    ],
+    "price": null,
+    "description": "The troupe improvises a full Shakespearean play in Elizabethan verse from a single audience-suggested title. A Sketchfest favourite.",
+    "neighbourhood": "Union Square",
+    "cycle_minutes": 7,
+    "added": "2026-11-16"
   },
   {
     "title": "Bachata Lab: Friday bachata classes (3 levels) + social",
@@ -8576,6 +8669,24 @@
     "added": "2026-11-15"
   },
   {
+    "id": "jazz-at-the-make-out-room-57fd00f7",
+    "title": "Jazz at the Make-Out Room",
+    "start": "2027-02-16T19:00:00-08:00",
+    "end": "2027-02-16T21:30:00-08:00",
+    "venue": "Make-Out Room",
+    "address": "3225 22nd St, San Francisco, CA 94110",
+    "url": "https://www.calendarwiz.com/calendars/popup.php?op=view&id=188526952&crd=makeoutroom",
+    "source": "venue:make-out-room",
+    "tags": [
+      "music"
+    ],
+    "price": "Free (donations)",
+    "description": "A free Tuesday jazz night in the Mission bar (doors 6pm, music 7pm). An easy weeknight drop-in.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 15,
+    "added": "2026-11-16"
+  },
+  {
     "id": "woodchopper-s-ball-live-band-swing-night-accec69f",
     "title": "Woodchopper's Ball: live-band swing night",
     "start": "2027-02-16T21:00:00-08:00",
@@ -8649,6 +8760,25 @@
     "cycle_minutes": 9,
     "added": "2026-11-06",
     "id": "jess-williamson-with-andrew-sa-noise-pop-2027-f7ac9e71"
+  },
+  {
+    "id": "lizard-boy-at-sf-playhouse-first-performance-16904a69",
+    "title": "Lizard Boy at SF Playhouse (first performance)",
+    "start": "2027-02-19T20:00:00-08:00",
+    "end": null,
+    "venue": "San Francisco Playhouse",
+    "address": "450 Post St, San Francisco, CA 94102",
+    "url": "https://sfplayhouse.org/2026-2027-season/lizard-boy/",
+    "source": "venue:sf-playhouse",
+    "tags": [
+      "theatre",
+      "music"
+    ],
+    "price": "$60-$145",
+    "description": "First performance of SF Playhouse's run of the indie-rock musical about a reclusive young man who risks everything on a first date, a story about identity, love and being seen. The run continues until 3 April.",
+    "neighbourhood": "Union Square",
+    "cycle_minutes": 6,
+    "added": "2026-11-16"
   },
   {
     "title": "Fink with Maggie Koerner",
@@ -8819,6 +8949,25 @@
     "id": "sylvie-b1bee222"
   },
   {
+    "id": "radio-free-alice-noise-pop-2027-f5392a70",
+    "title": "Radio Free Alice (Noise Pop 2027)",
+    "start": "2027-02-24T19:45:00-08:00",
+    "end": null,
+    "venue": "Rickshaw Stop",
+    "address": "155 Fell St, San Francisco, CA 94102",
+    "url": "https://wl.eventim.us/event/radio-free-alice/708488?afflky=RickshawStop",
+    "source": "venue:rickshaw-stop",
+    "tags": [
+      "music",
+      "festival"
+    ],
+    "price": "$20 advance / $25 week of show",
+    "description": "Melbourne guitar band touring its Atlantic Records debut, What's In Between, at the small Hayes Valley room as part of Noise Pop 2027. All ages; doors 7pm, show 7:45pm.",
+    "neighbourhood": "Hayes Valley",
+    "cycle_minutes": 10,
+    "added": "2026-11-16"
+  },
+  {
     "title": "Deerhoof with Earthball and Gumby's Junk",
     "start": "2027-02-24T20:00:00-08:00",
     "end": null,
@@ -8966,6 +9115,43 @@
     "added": "2026-11-14"
   },
   {
+    "id": "contact-improvisation-class-with-dai-wei-at-odc-999077f8",
+    "title": "Contact Improvisation class with Dai & Wei at ODC",
+    "start": "2027-02-28T13:15:00-08:00",
+    "end": "2027-02-28T15:00:00-08:00",
+    "venue": "ODC Dance Commons",
+    "address": "351 Shotwell St, San Francisco, CA 94110",
+    "url": "https://bay.dance/events/contact_improv/",
+    "source": "listing:bay-dance",
+    "tags": [
+      "dance",
+      "class"
+    ],
+    "price": null,
+    "description": "A weekly Sunday-afternoon contact improvisation class at ODC in the Mission, taught by Daiane Lopes da Silva and Weidong Yang. Beginners are welcome.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 13,
+    "added": "2026-11-16"
+  },
+  {
+    "id": "on-ir-in-concert-2027-west-coast-premiere-matinee-f247196e",
+    "title": "Onóir in Concert: 2027 West Coast premiere (matinee)",
+    "start": "2027-02-28T15:00:00-08:00",
+    "end": "2027-02-28T17:00:00-08:00",
+    "venue": "United Irish Cultural Center",
+    "address": "2700 45th Ave, San Francisco, CA 94116",
+    "url": "https://www.eventbrite.com/e/onoir-in-concert2027-west-coast-premiere-22827-2nd-of-2-shows-tickets-1990660226324",
+    "source": "aggregator:eventbrite",
+    "tags": [
+      "music"
+    ],
+    "price": "$55.20-$60.54",
+    "description": "Irish group Onóir plays the second of two '2027 West Coast Premiere' concerts at the United Irish Cultural Center near Ocean Beach. An early start to the St Patrick's season.",
+    "neighbourhood": "Outer Sunset",
+    "cycle_minutes": 45,
+    "added": "2026-11-16"
+  },
+  {
     "id": "gibby-haynes-butthole-surfers-mania-noise-pop-2027-a05d869f",
     "title": "Gibby Haynes: Butthole Surfers Mania (Noise Pop 2027)",
     "start": "2027-02-28T20:00:00-08:00",
@@ -8982,6 +9168,25 @@
     "neighbourhood": "Tenderloin",
     "cycle_minutes": 9,
     "added": "2026-11-14"
+  },
+  {
+    "id": "contact-improvisation-class-jam-at-the-castro-room-65a551c5",
+    "title": "Contact Improvisation class + jam at The Castro Room",
+    "start": "2027-03-01T19:45:00-08:00",
+    "end": "2027-03-01T22:15:00-08:00",
+    "venue": "The Castro Room",
+    "address": "97 Collingwood St, San Francisco, CA 94114",
+    "url": "https://bay.dance/events/contact_improv/",
+    "source": "listing:bay-dance",
+    "tags": [
+      "dance",
+      "class"
+    ],
+    "price": null,
+    "description": "The 1st-Monday SF contact improv night: a class from 7:45 to 8:45pm, then an open jam with live music until 10:15. Beginners are welcome.",
+    "neighbourhood": "Castro",
+    "cycle_minutes": 17,
+    "added": "2026-11-16"
   },
   {
     "id": "valley-dyntbe-the-tour-with-moody-joody-778d1d2a",
@@ -9018,6 +9223,25 @@
     "neighbourhood": "Castro",
     "cycle_minutes": 17,
     "added": "2026-11-14"
+  },
+  {
+    "id": "the-bad-news-bears-a-musical-a-c-t-world-premiere-preview-b47a3d43",
+    "title": "The Bad News Bears: A Musical (A.C.T. world premiere, preview)",
+    "start": "2027-03-03T19:30:00-08:00",
+    "end": null,
+    "venue": "A.C.T. Toni Rembe Theater",
+    "address": "415 Geary St, San Francisco, CA 94102",
+    "url": "https://www.act-sf.org/whats-on/2026-27-season/the-bad-news-bears-a-musical",
+    "source": "venue:act",
+    "tags": [
+      "theatre",
+      "music"
+    ],
+    "price": null,
+    "description": "World-premiere musical of the 1976 film about a washed-up ballplayer coaching a team of Little League misfits. This is a preview-week performance; the run lasts until 4 April.",
+    "neighbourhood": "Union Square",
+    "cycle_minutes": 6,
+    "added": "2026-11-16"
   },
   {
     "id": "chip-bergh-the-levi-s-story-a389e593",
@@ -9093,5 +9317,152 @@
     "neighbourhood": "Mission",
     "cycle_minutes": 13,
     "added": "2026-11-15"
+  },
+  {
+    "id": "happy-endings-writers-showdown-at-the-make-out-room-9dc29a4e",
+    "title": "Happy Endings: writers' showdown at the Make-Out Room",
+    "start": "2027-03-09T19:00:00-08:00",
+    "end": "2027-03-09T21:00:00-08:00",
+    "venue": "Make-Out Room",
+    "address": "3225 22nd St, San Francisco, CA 94110",
+    "url": "https://www.calendarwiz.com/calendars/popup.php?op=view&id=184885116&crd=makeoutroom",
+    "source": "venue:make-out-room",
+    "tags": [
+      "talk",
+      "comedy"
+    ],
+    "price": "Pay what you can",
+    "description": "Five writers perform new work on a shared theme, competing for the approval of an appointed committee. A literary night with a comedy edge in a Mission bar.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 15,
+    "added": "2026-11-16"
+  },
+  {
+    "id": "woodchopper-s-ball-live-band-swing-night-8c7bfb46",
+    "title": "Woodchopper's Ball: live-band swing night",
+    "start": "2027-03-09T21:00:00-08:00",
+    "end": "2027-03-09T23:30:00-08:00",
+    "venue": "Verdi Club",
+    "address": "2424 Mariposa St, San Francisco, CA 94110",
+    "url": "https://www.verdiclub.net/events/the-woodchoppers-ball-42-3-2/2027-03-09/",
+    "source": "venue:verdi-club",
+    "tags": [
+      "dance",
+      "music"
+    ],
+    "price": "$20 cash ($10 students)",
+    "description": "San Francisco's weekly Tuesday swing dance with a live band and a 9pm beginner lesson. Easy to show up alone and dance with strangers.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 13,
+    "added": "2026-11-16"
+  },
+  {
+    "id": "lindsey-caplan-anthony-veneziale-the-art-and-science-of-what-8c759bb3",
+    "title": "Lindsey Caplan & Anthony Veneziale: The Art and Science of What Moves Us",
+    "start": "2027-03-11T18:00:00-08:00",
+    "end": "2027-03-11T19:00:00-08:00",
+    "venue": "Commonwealth Club World Affairs",
+    "address": "110 The Embarcadero, San Francisco, CA 94105",
+    "url": "https://www.commonwealthclub.org/events/2027-03-11/lindsey-caplan-and-anthony-veneziale-art-and-science-what-moves-us-and-how-move",
+    "source": "venue:commonwealthclub",
+    "tags": [
+      "talk"
+    ],
+    "price": "$25 ($55 with book; students free)",
+    "description": "The screenwriter turned organizational psychologist talks about her book Moved (why information alone rarely changes people) with Freestyle Love Supreme co-creator Anthony Veneziale. Doors 5:30pm, then a book signing at 7pm.",
+    "neighbourhood": "Embarcadero",
+    "cycle_minutes": 5,
+    "added": "2026-11-16"
+  },
+  {
+    "id": "moontricks-with-will-evans-76bc17e1",
+    "title": "Moontricks with Will Evans",
+    "start": "2027-03-12T20:00:00-08:00",
+    "end": null,
+    "venue": "Great American Music Hall",
+    "address": "859 O'Farrell St, San Francisco, CA 94109",
+    "url": "https://wl.seetickets.us/event/moontricks/710581?afflky=GreatAmericanMusicHall",
+    "source": "venue:gamh",
+    "tags": [
+      "music"
+    ],
+    "price": "$25 advance / $28 door",
+    "description": "Moontricks headline Great American Music Hall, the ornate Tenderloin room, with Will Evans supporting. Doors 7pm, show 8pm.",
+    "neighbourhood": "Tenderloin",
+    "cycle_minutes": 9,
+    "added": "2026-11-16"
+  },
+  {
+    "id": "troilus-and-cressida-a-c-t-out-tour-preview-ffd2893f",
+    "title": "Troilus and Cressida (A.C.T. OUT Tour preview)",
+    "start": "2027-03-13T19:00:00-08:00",
+    "end": null,
+    "venue": "A.C.T. Strand Theater (The Rueff)",
+    "address": "1127 Market St, San Francisco, CA 94103",
+    "url": "https://www.act-sf.org/community/for-students/a-c-t-out-tour/troilus-and-cressida",
+    "source": "venue:act",
+    "tags": [
+      "theatre"
+    ],
+    "price": null,
+    "description": "A fast, in-the-round, 90-minute modern-verse staging (Play On Shakespeare translation) of Shakespeare's cynical war tragicomedy, in the Strand's intimate Rueff space. This is the first public preview.",
+    "neighbourhood": "Civic Center",
+    "cycle_minutes": 7,
+    "added": "2026-11-16"
+  },
+  {
+    "id": "hello-bachata-sunday-at-the-verdi-club-24eae7d6",
+    "title": "Hello! Bachata Sunday at the Verdi Club",
+    "start": "2027-03-14T15:00:00-07:00",
+    "end": "2027-03-14T20:30:00-07:00",
+    "venue": "Verdi Club",
+    "address": "2424 Mariposa St, San Francisco, CA 94110",
+    "url": "https://www.verdiclub.net/events/hello-bachata-11-2/2027-03-14/",
+    "source": "venue:verdi-club",
+    "tags": [
+      "dance"
+    ],
+    "price": "$17 cover (Venmo)",
+    "description": "A daytime bachata social on two floors of the Verdi Club, over by evening. Social and easy to join solo.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 13,
+    "added": "2026-11-16"
+  },
+  {
+    "id": "long-now-talk-silvana-konermann-on-crispr-and-alzheimer-s-e70c9ef6",
+    "title": "Long Now Talk: Silvana Konermann on CRISPR and Alzheimer's",
+    "start": "2027-03-16T19:00:00-07:00",
+    "end": null,
+    "venue": "Cowell Theater, Fort Mason Center",
+    "address": "Pier 2, Fort Mason Center, San Francisco, CA 94123",
+    "url": "https://longnow.org/talks/02027-konermann/",
+    "source": "venue:long-now",
+    "tags": [
+      "talk",
+      "tech"
+    ],
+    "price": null,
+    "description": "Long Now's monthly talk: Arc Institute scientist Silvana Konermann on gene-editing approaches to Alzheimer's disease. Tickets 'on sale soon' when checked.",
+    "neighbourhood": "Fort Mason",
+    "cycle_minutes": 22,
+    "added": "2026-11-16"
+  },
+  {
+    "id": "bess-atwell-c5917167",
+    "title": "Bess Atwell",
+    "start": "2027-03-16T20:00:00-07:00",
+    "end": null,
+    "venue": "Rickshaw Stop",
+    "address": "155 Fell St, San Francisco, CA 94102",
+    "url": "https://wl.eventim.us/event/bess-atwell/708223?afflky=RickshawStop",
+    "source": "venue:rickshaw-stop",
+    "tags": [
+      "music"
+    ],
+    "price": "$17 adv / $20 door",
+    "description": "English indie-folk singer-songwriter Bess Atwell plays the small Hayes Valley room.",
+    "neighbourhood": "Hayes Valley",
+    "cycle_minutes": 10,
+    "added": "2026-11-16"
   }
 ]
