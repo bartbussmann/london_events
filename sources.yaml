@@ -465,6 +465,11 @@ listings:
     url: https://app.gistirl.com
     tags: [community]
 
+  - name: The SF Commons (Hayes Valley; circling-style Emergence, Love Seat games, potlucks)
+    url: https://luma.com/the-11f9
+    tags: [workshop, community]
+    # 540 Laguna St; example event page above (calendar URL unknown) - find others via the Luma SF discover feed; verify via api.lu.ma/url?url=<slug>
+
 keywords:
   - "contact improvisation jam San Francisco"
   - "contact improv class Bay Area beginners"

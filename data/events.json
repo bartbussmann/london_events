@@ -1159,6 +1159,25 @@
     "id": "cinespin-he-who-gets-slapped-with-live-jazz-score-bampfa-629c6941"
   },
   {
+    "id": "dance-fridays-at-space-550-salsa-bachata-lessons-and-social-cae55bce",
+    "title": "Dance Fridays at Space 550: salsa + bachata lessons and social",
+    "start": "2026-11-20T19:45:00-08:00",
+    "end": "2026-11-21T01:30:00-08:00",
+    "venue": "Space 550",
+    "address": "550 Barneveld Ave, San Francisco, CA 94124",
+    "url": "https://www.eventbrite.com/e/salsa-and-bachata-dancing-dance-fridays-dance-lessons-bar-nightclub-tickets-1979106045458",
+    "source": "listing:sf-latin-dance-socials",
+    "tags": [
+      "dance",
+      "class"
+    ],
+    "price": "$16.74-$27.24",
+    "description": "Friday-night salsa and bachata lessons followed by social dancing, with a full bar and patio (21+). Arrive early for the lessons and you'll have partners to dance with all night.",
+    "neighbourhood": "Bayview",
+    "cycle_minutes": 25,
+    "added": "2026-11-17"
+  },
+  {
     "title": "A Rashomon: Magic Theatre & Campo Santo world premiere (preview)",
     "start": "2026-11-20T20:00:00-08:00",
     "end": null,
@@ -1230,6 +1249,25 @@
     "neighbourhood": "SoMa",
     "cycle_minutes": 4,
     "added": "2026-11-10"
+  },
+  {
+    "id": "jerry-hannan-and-the-shenanigans-at-the-irish-center-99f8af84",
+    "title": "Jerry Hannan and The Shenanigans at the Irish Center",
+    "start": "2026-11-20T20:00:00-08:00",
+    "end": "2026-11-20T22:00:00-08:00",
+    "venue": "United Irish Cultural Center",
+    "address": "2700 45th Ave, San Francisco, CA 94116",
+    "url": "https://www.eventbrite.com/e/jerry-hannan-and-the-shenanigans-tickets-2004605975435",
+    "source": "listing:uicc-eventbrite",
+    "tags": [
+      "music",
+      "community"
+    ],
+    "price": "$17.85-$23.18",
+    "description": "A night of Irish music and pub-style singalongs at the United Irish Cultural Center: bring your dancing feet and your singing voice. A friendly way into SF's Irish community.",
+    "neighbourhood": "Outer Sunset",
+    "cycle_minutes": 45,
+    "added": "2026-11-17"
   },
   {
     "title": "SF Neo-Futurists: The Infinite Wrench (30 plays in 60 minutes)",
@@ -1798,6 +1836,25 @@
     "added": "2026-11-08"
   },
   {
+    "id": "emergence-relational-mindfulness-practice-circling-style-at--71b398ee",
+    "title": "Emergence: relational mindfulness practice (circling-style) at The Commons",
+    "start": "2026-11-23T19:00:00-08:00",
+    "end": "2026-11-23T21:00:00-08:00",
+    "venue": "The SF Commons",
+    "address": "540 Laguna St, San Francisco, CA 94102",
+    "url": "https://luma.com/the-11f9",
+    "source": "listing:luma-sf-commons",
+    "tags": [
+      "workshop",
+      "community"
+    ],
+    "price": "$10 (free for members)",
+    "description": "A small-group here-and-now connection practice, very close to Circling and T-Groups, run by a facilitator who led weekly Circling for five years. Expect honest dialogue, lots of feedback and real connection with strangers.",
+    "neighbourhood": "Hayes Valley",
+    "cycle_minutes": 12,
+    "added": "2026-11-17"
+  },
+  {
     "title": "La Bola Negra (Los Javis)",
     "start": "2026-11-23T19:30:00-08:00",
     "end": null,
@@ -1871,6 +1928,25 @@
     "added": "2026-11-15",
     "neighbourhood": "SoMa",
     "cycle_minutes": 5
+  },
+  {
+    "id": "love-seat-a-cooperative-connection-game-at-the-commons-919ab9e5",
+    "title": "Love Seat: a cooperative connection game at The Commons",
+    "start": "2026-11-24T18:30:00-08:00",
+    "end": "2026-11-24T20:00:00-08:00",
+    "venue": "The SF Commons",
+    "address": "540 Laguna St, San Francisco, CA 94102",
+    "url": "https://luma.com/the-j9fs",
+    "source": "listing:luma-sf-commons",
+    "tags": [
+      "workshop",
+      "community"
+    ],
+    "price": "$10 (free for members)",
+    "description": "An authentic-relating-style group game: everyone gets equal time in the 'Love Seat' to ask the group for the kind of care or support they want, all with consent. A playful, intimate way to meet people.",
+    "neighbourhood": "Hayes Valley",
+    "cycle_minutes": 12,
+    "added": "2026-11-17"
   },
   {
     "title": "SF History Night (San Francisco History Association)",
@@ -2117,6 +2193,25 @@
     "added": "2026-11-08"
   },
   {
+    "id": "a-commons-friendsgiving-thanksgiving-potluck-1b662688",
+    "title": "A Commons Friendsgiving (Thanksgiving potluck)",
+    "start": "2026-11-26T18:00:00-08:00",
+    "end": "2026-11-26T21:30:00-08:00",
+    "venue": "The SF Commons",
+    "address": "550 Laguna St, San Francisco, CA 94102",
+    "url": "https://luma.com/the-wats",
+    "source": "listing:luma-sf-commons",
+    "tags": [
+      "food",
+      "community"
+    ],
+    "price": "$10 (flexible, pay what you can)",
+    "description": "The Commons opens its doors on Thanksgiving to anyone who wants a table to belong at: a potluck feast led by a big pot of beef stew at 6:30pm, with crafts and a movie on the projector. Bring a dish.",
+    "neighbourhood": "Hayes Valley",
+    "cycle_minutes": 12,
+    "added": "2026-11-17"
+  },
+  {
     "title": "Milonga Malevaje (Thanksgiving-night tango)",
     "start": "2026-11-26T20:00:00-08:00",
     "end": "2026-11-26T23:30:00-08:00",
@@ -2323,6 +2418,25 @@
     "added": "2026-11-07"
   },
   {
+    "id": "3rd-annual-holiday-tree-lighting-free-ice-skating-at-yerba-b-09bb02cf",
+    "title": "3rd Annual Holiday Tree Lighting + free ice skating at Yerba Buena Gardens",
+    "start": "2026-11-28T16:30:00-08:00",
+    "end": "2026-11-28T19:00:00-08:00",
+    "venue": "Yerba Buena Gardens",
+    "address": "750 Howard St, San Francisco, CA 94103",
+    "url": "https://www.eventbrite.com/e/3rd-annual-holiday-tree-lighting-at-yerba-buena-garden-tickets-2001012501257",
+    "source": "listing:funcheap",
+    "tags": [
+      "community",
+      "outdoors"
+    ],
+    "price": "Free (RSVP)",
+    "description": "Holiday kick-off around the corner from home: a tree lighting, hot cocoa, free carousel rides and free ice skating (discounted skate rental).",
+    "neighbourhood": "SoMa",
+    "cycle_minutes": 3,
+    "added": "2026-11-17"
+  },
+  {
     "id": "speedcalifornia-speed-dating-ages-25-39-482f2c17",
     "title": "SpeedCalifornia speed dating (ages 25-39)",
     "start": "2026-11-28T17:00:00-08:00",
@@ -2339,6 +2453,25 @@
     "neighbourhood": "Financial District",
     "cycle_minutes": 6,
     "added": "2026-11-10"
+  },
+  {
+    "id": "cooking-class-fresh-pasta-in-color-6ad87ae8",
+    "title": "Cooking class: Fresh Pasta in Color",
+    "start": "2026-11-28T17:00:00-08:00",
+    "end": "2026-11-28T19:00:00-08:00",
+    "venue": "The Hotel Majestic",
+    "address": "1500 Sutter St, San Francisco, CA 94109",
+    "url": "https://www.cocusocial.com/newevent/San-Francisco_Fresh-Pasta-in-Color_2026-Nov-28",
+    "source": "listing:cocusocial",
+    "tags": [
+      "class",
+      "food"
+    ],
+    "price": "$59",
+    "description": "Hands-on two-hour class making a classic and a beet-infused pasta dough from scratch, then cooking beet tagliatelle and butternut-squash pappardelle. You work in pairs and groups, so it's easy to chat; 4 seats left at last check.",
+    "neighbourhood": "Cathedral Hill",
+    "cycle_minutes": 14,
+    "added": "2026-11-17"
   },
   {
     "title": "Edmar Castaneda / German Lopez (Terence Blanchard's UpSwing series)",
@@ -2376,6 +2509,24 @@
     "neighbourhood": "SoMa",
     "cycle_minutes": 5,
     "added": "2026-11-08"
+  },
+  {
+    "id": "5rhythms-sweat-your-prayers-with-meaghan-williams-8537fdc7",
+    "title": "5Rhythms Sweat Your Prayers with Meaghan Williams",
+    "start": "2026-11-29T09:00:00-08:00",
+    "end": "2026-11-29T10:45:00-08:00",
+    "venue": "ABADA-Capoeira San Francisco",
+    "address": "3221 22nd St, San Francisco, CA 94110",
+    "url": "https://momence.com/s/139869411",
+    "source": "venue:the-city-waves",
+    "tags": [
+      "dance"
+    ],
+    "price": "$35",
+    "description": "The City Waves' Sunday-morning 5Rhythms wave, a guided moving meditation through the five rhythms, no experience needed. A warm, regular crowd in the Mission.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 15,
+    "added": "2026-11-17"
   },
   {
     "title": "MOVEMENT Ecstatic Dance SF // Aguamayyim",
@@ -2527,6 +2678,25 @@
     "neighbourhood": "Castro",
     "cycle_minutes": 17,
     "added": "2026-11-08"
+  },
+  {
+    "id": "christmas-candle-making-workshop-at-the-love-potion-library-9f14b93b",
+    "title": "Christmas Candle Making Workshop at The Love Potion Library",
+    "start": "2026-11-30T18:00:00-08:00",
+    "end": "2026-11-30T20:00:00-08:00",
+    "venue": "The Love Potion Library",
+    "address": "284 Noe St, San Francisco, CA 94114",
+    "url": "https://luma.com/hn17fho6",
+    "source": "listing:love-potion-library",
+    "tags": [
+      "workshop",
+      "class"
+    ],
+    "price": "$40",
+    "description": "A hands-on evening making your own holiday candles in the Castro's cosy bookshop-bar. Small group, drinks available.",
+    "neighbourhood": "Castro",
+    "cycle_minutes": 17,
+    "added": "2026-11-17"
   },
   {
     "id": "salsacrazy-mondays-salsa-lesson-salsa-bachata-dancing-ab86e2a4",
@@ -3581,6 +3751,25 @@
     "neighbourhood": "Mission",
     "cycle_minutes": 12,
     "added": "2026-11-14"
+  },
+  {
+    "id": "sunday-afternoon-irish-seisi-n-at-the-plough-and-stars-db29d556",
+    "title": "Sunday afternoon Irish seisiún at The Plough and Stars",
+    "start": "2026-12-06T13:00:00-08:00",
+    "end": "2026-12-06T16:00:00-08:00",
+    "venue": "The Plough and Stars",
+    "address": "116 Clement St, San Francisco, CA 94118",
+    "url": "https://www.theploughandstars.com/",
+    "source": "venue:plough-and-stars",
+    "tags": [
+      "music",
+      "community"
+    ],
+    "price": null,
+    "description": "An afternoon traditional Irish music session at SF's home of trad. Drop in for a pint and listen, or bring an instrument.",
+    "neighbourhood": "Inner Richmond",
+    "cycle_minutes": 27,
+    "added": "2026-11-17"
   },
   {
     "title": "Zorn / Medeski / Lombardo: Awakening Ground (matinee)",
@@ -9114,6 +9303,25 @@
     "added": "2026-11-15"
   },
   {
+    "id": "salsacrazy-mondays-salsa-lesson-salsa-bachata-dancing-06f932e1",
+    "title": "SalsaCrazy Mondays: salsa lesson + salsa/bachata dancing",
+    "start": "2027-03-08T18:30:00-08:00",
+    "end": "2027-03-08T23:30:00-08:00",
+    "venue": "Neck of the Woods",
+    "address": "406 Clement St, San Francisco, CA 94118",
+    "url": "https://www.eventbrite.com/e/salsa-dance-classes-and-salsa-and-bachata-dancing-salsacrazy-mondays-tickets-1981014394381",
+    "source": "listing:sf-latin-dance-socials",
+    "tags": [
+      "dance",
+      "class"
+    ],
+    "price": "$10-$40",
+    "description": "Monday salsa classes for all levels, then salsa and bachata social dancing in the club afterwards. One of the easiest ways to start dancing in SF and meet people.",
+    "neighbourhood": "Inner Richmond",
+    "cycle_minutes": 27,
+    "added": "2026-11-17"
+  },
+  {
     "id": "happy-endings-writers-showdown-at-the-make-out-room-9dc29a4e",
     "title": "Happy Endings: writers' showdown at the Make-Out Room",
     "start": "2027-03-09T19:00:00-08:00",
@@ -9150,6 +9358,24 @@
     "neighbourhood": "Mission",
     "cycle_minutes": 13,
     "added": "2026-11-16"
+  },
+  {
+    "id": "christian-kuria-east-tour-5406ca78",
+    "title": "Christian Kuria: EAST TOUR",
+    "start": "2027-03-10T20:00:00-08:00",
+    "end": null,
+    "venue": "Bimbo's 365 Club",
+    "address": "1025 Columbus Ave, San Francisco, CA 94133",
+    "url": "https://bimbos365club.com/tm-event/christian-kuria-east-tour/",
+    "source": "venue:bimbos",
+    "tags": [
+      "music"
+    ],
+    "price": null,
+    "description": "Soulful singer-songwriter Christian Kuria brings his East Tour to the classic North Beach supper-club room. Doors 7pm, show 8pm, all ages.",
+    "neighbourhood": "North Beach",
+    "cycle_minutes": 12,
+    "added": "2026-11-17"
   },
   {
     "id": "lindsey-caplan-anthony-veneziale-the-art-and-science-of-what-8c759bb3",
@@ -9224,6 +9450,24 @@
     "added": "2026-11-16"
   },
   {
+    "id": "free-bluegrass-jam-concert-at-blondie-s-c93e09ba",
+    "title": "Free bluegrass jam & concert at Blondie's",
+    "start": "2027-03-15T20:30:00-07:00",
+    "end": "2027-03-15T22:30:00-07:00",
+    "venue": "Blondie's Bar",
+    "address": "540 Valencia St, San Francisco, CA 94110",
+    "url": "https://www.eventbrite.com/e/free-bluegrass-in-san-francisco-live-jam-concert-tickets-1990533663772",
+    "source": "listing:blondies-eventbrite",
+    "tags": [
+      "music"
+    ],
+    "price": "Free",
+    "description": "Blondie's free Monday bluegrass night on Valencia St: some of the Bay Area's best local pickers play a set and jam. Easy, friendly, no cover.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 12,
+    "added": "2026-11-17"
+  },
+  {
     "id": "long-now-talk-silvana-konermann-on-crispr-and-alzheimer-s-e70c9ef6",
     "title": "Long Now Talk: Silvana Konermann on CRISPR and Alzheimer's",
     "start": "2027-03-16T19:00:00-07:00",
@@ -9259,5 +9503,97 @@
     "neighbourhood": "Hayes Valley",
     "cycle_minutes": 10,
     "added": "2026-11-16"
+  },
+  {
+    "id": "jake-lambert-the-sunshine-kid-a-c-t-strand-5f6c712e",
+    "title": "Jake Lambert: The Sunshine Kid (A.C.T. Strand)",
+    "start": "2027-03-18T19:00:00-07:00",
+    "end": null,
+    "venue": "A.C.T. Strand Theater",
+    "address": "1127 Market St, San Francisco, CA 94103",
+    "url": "https://www.act-sf.org/whats-on/limited-engagements/jake-lambert-the-sunshine-kid",
+    "source": "venue:act",
+    "tags": [
+      "comedy"
+    ],
+    "price": null,
+    "description": "British comic Jake Lambert, called 'a joke machine' by The Telegraph and seen on Live at the Apollo, brings his rapid-fire storytelling show to A.C.T.'s Strand for one night only.",
+    "neighbourhood": "Civic Center",
+    "cycle_minutes": 7,
+    "added": "2026-11-17"
+  },
+  {
+    "id": "helena-deland-at-the-chapel-c82366d3",
+    "title": "Helena Deland at The Chapel",
+    "start": "2027-03-18T20:00:00-07:00",
+    "end": null,
+    "venue": "The Chapel",
+    "address": "777 Valencia St, San Francisco, CA 94110",
+    "url": "https://wl.eventim.us/event/helena-deland/707896?afflky=TheChapel",
+    "source": "venue:the-chapel",
+    "tags": [
+      "music"
+    ],
+    "price": "$25 + fees",
+    "description": "Montreal singer-songwriter Helena Deland plays an intimate indie-folk set at The Chapel, presented by (((folkYEAH!))). Doors 7pm, show 8pm, all ages.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 13,
+    "added": "2026-11-17"
+  },
+  {
+    "id": "bachata-lab-friday-bachata-classes-3-levels-social-38e4095b",
+    "title": "Bachata Lab: Friday bachata classes (3 levels) + social",
+    "start": "2027-03-19T20:00:00-07:00",
+    "end": "2027-03-20T01:00:00-07:00",
+    "venue": "Bachata Lab",
+    "address": "1830 17th St, San Francisco, CA 94103",
+    "url": "https://www.eventbrite.com/e/bachata-lab-tickets-1543049154559",
+    "source": "listing:sf-latin-dance-socials",
+    "tags": [
+      "dance",
+      "class"
+    ],
+    "price": "from $15",
+    "description": "Weekly Friday bachata classes in three concurrent levels, followed by a social dance. A beginner-friendly way to fill an empty Friday.",
+    "neighbourhood": "Potrero Hill",
+    "cycle_minutes": 11,
+    "added": "2026-11-17"
+  },
+  {
+    "id": "troilus-and-cressida-opening-night-a-c-t-out-tour-1e677929",
+    "title": "Troilus and Cressida: opening night (A.C.T. OUT Tour)",
+    "start": "2027-03-20T19:00:00-07:00",
+    "end": null,
+    "venue": "A.C.T. Strand Theater (The Rueff)",
+    "address": "1127 Market St, San Francisco, CA 94103",
+    "url": "https://www.act-sf.org/community/for-students/a-c-t-out-tour/troilus-and-cressida",
+    "source": "venue:act",
+    "tags": [
+      "theatre"
+    ],
+    "price": null,
+    "description": "Opening night of A.C.T. and Play On Shakespeare's fast, in-the-round modern-verse staging of Shakespeare's cynical war tragicomedy, in the Strand's intimate Rueff space.",
+    "neighbourhood": "Civic Center",
+    "cycle_minutes": 7,
+    "added": "2026-11-17"
+  },
+  {
+    "id": "mucha-salsa-at-the-verdi-club-free-beginner-class-social-a882a799",
+    "title": "Mucha Salsa+ at the Verdi Club (free beginner class + social)",
+    "start": "2027-03-21T18:30:00-07:00",
+    "end": "2027-03-21T23:00:00-07:00",
+    "venue": "Verdi Club",
+    "address": "2424 Mariposa St, San Francisco, CA 94110",
+    "url": "https://www.verdiclub.net/events/mucha-salsa-5-2/2027-03-21/",
+    "source": "venue:verdi-club",
+    "tags": [
+      "dance",
+      "class"
+    ],
+    "price": "$15",
+    "description": "iHeartMambo's not-for-profit salsa social: beginner and intermediate salsa classes at 7pm, included in entry, then DJ social dancing. Friendly, community-run crowd.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 13,
+    "added": "2026-11-17"
   }
 ]

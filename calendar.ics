@@ -932,6 +932,22 @@ LOCATION:BAMPFA (Berkeley Art Museum and Pacific Film Archive)\, 2155 Cent
  er St\, Berkeley\, CA 94704
 END:VEVENT
 BEGIN:VEVENT
+UID:dance-fridays-at-space-550-salsa-bachata-lessons-and-social-cae55bce@s
+ f-events
+DTSTAMP:20261121T034500Z
+DTSTART:20261121T034500Z
+DTEND:20261121T093000Z
+SUMMARY:Dance Fridays at Space 550: salsa + bachata lessons and social
+DESCRIPTION:Friday-night salsa and bachata lessons followed by social danc
+ ing\, with a full bar and patio (21+). Arrive early for the lessons and y
+ ou'll have partners to dance with all night.\nPrice: $16.74-$27.24\nhttps
+ ://www.eventbrite.com/e/salsa-and-bachata-dancing-dance-fridays-dance-les
+ sons-bar-nightclub-tickets-1979106045458
+URL:https://www.eventbrite.com/e/salsa-and-bachata-dancing-dance-fridays-d
+ ance-lessons-bar-nightclub-tickets-1979106045458
+LOCATION:Space 550\, 550 Barneveld Ave\, San Francisco\, CA 94124
+END:VEVENT
+BEGIN:VEVENT
 UID:a-rashomon-magic-theatre-campo-santo-world-premiere-preview-129faba8@s
  f-events
 DTSTAMP:20261121T040000Z
@@ -991,6 +1007,22 @@ DESCRIPTION:Three local bands play reverb-soaked surf and psychobilly in t
 URL:https://wl.seetickets.us/event/the-surf-creeps-the-tinglerz-lost-puppy
  -forever/705914?afflky=HotelUtahSaloon
 LOCATION:Hotel Utah Saloon\, 500 4th St\, San Francisco\, CA 94107
+END:VEVENT
+BEGIN:VEVENT
+UID:jerry-hannan-and-the-shenanigans-at-the-irish-center-99f8af84@sf-event
+ s
+DTSTAMP:20261121T040000Z
+DTSTART:20261121T040000Z
+DTEND:20261121T060000Z
+SUMMARY:Jerry Hannan and The Shenanigans at the Irish Center
+DESCRIPTION:A night of Irish music and pub-style singalongs at the United 
+ Irish Cultural Center: bring your dancing feet and your singing voice. A 
+ friendly way into SF's Irish community.\nPrice: $17.85-$23.18\nhttps://ww
+ w.eventbrite.com/e/jerry-hannan-and-the-shenanigans-tickets-2004605975435
+URL:https://www.eventbrite.com/e/jerry-hannan-and-the-shenanigans-tickets-
+ 2004605975435
+LOCATION:United Irish Cultural Center\, 2700 45th Ave\, San Francisco\, CA
+  94116
 END:VEVENT
 BEGIN:VEVENT
 UID:sf-neo-futurists-the-infinite-wrench-30-plays-in-60-minutes-ffbbb4f2@s
@@ -1450,6 +1482,22 @@ URL:https://www.meetup.com/noisebridge/events/317172029/
 LOCATION:Noisebridge hackerspace\, 272 Capp St\, San Francisco\, CA 94110
 END:VEVENT
 BEGIN:VEVENT
+UID:emergence-relational-mindfulness-practice-circling-style-at--71b398ee@
+ sf-events
+DTSTAMP:20261124T030000Z
+DTSTART:20261124T030000Z
+DTEND:20261124T050000Z
+SUMMARY:Emergence: relational mindfulness practice (circling-style) at The
+  Commons
+DESCRIPTION:A small-group here-and-now connection practice\, very close to
+  Circling and T-Groups\, run by a facilitator who led weekly Circling for
+  five years. Expect honest dialogue\, lots of feedback and real connectio
+ n with strangers.\nPrice: $10 (free for members)\nhttps://luma.com/the-11
+ f9
+URL:https://luma.com/the-11f9
+LOCATION:The SF Commons\, 540 Laguna St\, San Francisco\, CA 94102
+END:VEVENT
+BEGIN:VEVENT
 UID:la-bola-negra-los-javis-30d59c1b@sf-events
 DTSTAMP:20261124T033000Z
 DTSTART:20261124T033000Z
@@ -1505,6 +1553,20 @@ DESCRIPTION:SOLD OUT. AI Safety SF discussion night on recursive self-impr
  safety-4phl
 URL:https://luma.com/aisafety-4phl
 LOCATION:SoMa venue (address shown after registering)
+END:VEVENT
+BEGIN:VEVENT
+UID:love-seat-a-cooperative-connection-game-at-the-commons-919ab9e5@sf-eve
+ nts
+DTSTAMP:20261125T023000Z
+DTSTART:20261125T023000Z
+DTEND:20261125T040000Z
+SUMMARY:Love Seat: a cooperative connection game at The Commons
+DESCRIPTION:An authentic-relating-style group game: everyone gets equal ti
+ me in the 'Love Seat' to ask the group for the kind of care or support th
+ ey want\, all with consent. A playful\, intimate way to meet people.\nPri
+ ce: $10 (free for members)\nhttps://luma.com/the-j9fs
+URL:https://luma.com/the-j9fs
+LOCATION:The SF Commons\, 540 Laguna St\, San Francisco\, CA 94102
 END:VEVENT
 BEGIN:VEVENT
 UID:sf-history-night-san-francisco-history-association-56315659@sf-events
@@ -1705,6 +1767,19 @@ LOCATION:Harry Bridges Plaza (across from the Ferry Building)\, The Embarc
  adero at Market St\, San Francisco\, CA 94111
 END:VEVENT
 BEGIN:VEVENT
+UID:a-commons-friendsgiving-thanksgiving-potluck-1b662688@sf-events
+DTSTAMP:20261127T020000Z
+DTSTART:20261127T020000Z
+DTEND:20261127T053000Z
+SUMMARY:A Commons Friendsgiving (Thanksgiving potluck)
+DESCRIPTION:The Commons opens its doors on Thanksgiving to anyone who want
+ s a table to belong at: a potluck feast led by a big pot of beef stew at 
+ 6:30pm\, with crafts and a movie on the projector. Bring a dish.\nPrice: 
+ $10 (flexible\, pay what you can)\nhttps://luma.com/the-wats
+URL:https://luma.com/the-wats
+LOCATION:The SF Commons\, 550 Laguna St\, San Francisco\, CA 94102
+END:VEVENT
+BEGIN:VEVENT
 UID:milonga-malevaje-thanksgiving-night-tango-292716a0@sf-events
 DTSTAMP:20261127T040000Z
 DTSTART:20261127T040000Z
@@ -1872,6 +1947,22 @@ URL:https://ybca.org/event/black-girl-world-of-black-film-11-28-26/
 LOCATION:YBCA Screening Room\, 701 Mission St\, San Francisco\, CA
 END:VEVENT
 BEGIN:VEVENT
+UID:3rd-annual-holiday-tree-lighting-free-ice-skating-at-yerba-b-09bb02cf@
+ sf-events
+DTSTAMP:20261129T003000Z
+DTSTART:20261129T003000Z
+DTEND:20261129T030000Z
+SUMMARY:3rd Annual Holiday Tree Lighting + free ice skating at Yerba Buena
+  Gardens
+DESCRIPTION:Holiday kick-off around the corner from home: a tree lighting\
+ , hot cocoa\, free carousel rides and free ice skating (discounted skate 
+ rental).\nPrice: Free (RSVP)\nhttps://www.eventbrite.com/e/3rd-annual-hol
+ iday-tree-lighting-at-yerba-buena-garden-tickets-2001012501257
+URL:https://www.eventbrite.com/e/3rd-annual-holiday-tree-lighting-at-yerba
+ -buena-garden-tickets-2001012501257
+LOCATION:Yerba Buena Gardens\, 750 Howard St\, San Francisco\, CA 94103
+END:VEVENT
+BEGIN:VEVENT
 UID:speedcalifornia-speed-dating-ages-25-39-482f2c17@sf-events
 DTSTAMP:20261129T010000Z
 DTSTART:20261129T010000Z
@@ -1886,6 +1977,21 @@ URL:https://www.eventbrite.com/e/speedcalifornia-saturday-night-ages-25-39
  -san-francisco-speed-dating-tickets-2003947881057
 LOCATION:The Jay\, Autograph Collection\, 433 Clay St\, San Francisco\, CA
   94111
+END:VEVENT
+BEGIN:VEVENT
+UID:cooking-class-fresh-pasta-in-color-6ad87ae8@sf-events
+DTSTAMP:20261129T010000Z
+DTSTART:20261129T010000Z
+DTEND:20261129T030000Z
+SUMMARY:Cooking class: Fresh Pasta in Color
+DESCRIPTION:Hands-on two-hour class making a classic and a beet-infused pa
+ sta dough from scratch\, then cooking beet tagliatelle and butternut-squa
+ sh pappardelle. You work in pairs and groups\, so it's easy to chat\; 4 s
+ eats left at last check.\nPrice: $59\nhttps://www.cocusocial.com/newevent
+ /San-Francisco_Fresh-Pasta-in-Color_2026-Nov-28
+URL:https://www.cocusocial.com/newevent/San-Francisco_Fresh-Pasta-in-Color
+ _2026-Nov-28
+LOCATION:The Hotel Majestic\, 1500 Sutter St\, San Francisco\, CA 94109
 END:VEVENT
 BEGIN:VEVENT
 UID:edmar-castaneda-german-lopez-terence-blanchard-s-upswing-ser-8c725add@
@@ -1919,6 +2025,19 @@ DESCRIPTION:The Neo-Futurists race to perform 30 short original plays in 6
 URL:https://www.eventbrite.com/e/sf-neo-futurists-the-infinite-wrench-tick
  ets-1987282908676
 LOCATION:447 Minna St\, 447 Minna St\, San Francisco\, CA 94103
+END:VEVENT
+BEGIN:VEVENT
+UID:5rhythms-sweat-your-prayers-with-meaghan-williams-8537fdc7@sf-events
+DTSTAMP:20261129T170000Z
+DTSTART:20261129T170000Z
+DTEND:20261129T184500Z
+SUMMARY:5Rhythms Sweat Your Prayers with Meaghan Williams
+DESCRIPTION:The City Waves' Sunday-morning 5Rhythms wave\, a guided moving
+  meditation through the five rhythms\, no experience needed. A warm\, reg
+ ular crowd in the Mission.\nPrice: $35\nhttps://momence.com/s/139869411
+URL:https://momence.com/s/139869411
+LOCATION:ABADA-Capoeira San Francisco\, 3221 22nd St\, San Francisco\, CA 
+ 94110
 END:VEVENT
 BEGIN:VEVENT
 UID:movement-ecstatic-dance-sf-aguamayyim-ad6532f9@sf-events
@@ -2037,6 +2156,19 @@ DESCRIPTION:The Castro Merchants Association lights the neighbourhood's bi
  ering at 18th & Castro.\nPrice: Free\nhttps://castromerchants.com/events/
 URL:https://castromerchants.com/events/
 LOCATION:Bank of America Plaza\, 501 Castro St\, San Francisco\, CA 94114
+END:VEVENT
+BEGIN:VEVENT
+UID:christmas-candle-making-workshop-at-the-love-potion-library-9f14b93b@s
+ f-events
+DTSTAMP:20261201T020000Z
+DTSTART:20261201T020000Z
+DTEND:20261201T040000Z
+SUMMARY:Christmas Candle Making Workshop at The Love Potion Library
+DESCRIPTION:A hands-on evening making your own holiday candles in the Cast
+ ro's cosy bookshop-bar. Small group\, drinks available.\nPrice: $40\nhttp
+ s://luma.com/hn17fho6
+URL:https://luma.com/hn17fho6
+LOCATION:The Love Potion Library\, 284 Noe St\, San Francisco\, CA 94114
 END:VEVENT
 BEGIN:VEVENT
 UID:salsacrazy-mondays-salsa-lesson-salsa-bachata-dancing-ab86e2a4@sf-even
@@ -2884,6 +3016,19 @@ URL:https://www.eventbrite.com/e/redbrick-ceramic-studio-sunday-25-worksho
  ps-100-300-pm-tickets-2003309301047
 LOCATION:RedBrick Ceramic Studio\, 2111 Mission St\, 3rd floor\, San Franc
  isco\, CA 94110
+END:VEVENT
+BEGIN:VEVENT
+UID:sunday-afternoon-irish-seisi-n-at-the-plough-and-stars-db29d556@sf-eve
+ nts
+DTSTAMP:20261206T210000Z
+DTSTART:20261206T210000Z
+DTEND:20261207T000000Z
+SUMMARY:Sunday afternoon Irish seisiún at The Plough and Stars
+DESCRIPTION:An afternoon traditional Irish music session at SF's home of t
+ rad. Drop in for a pint and listen\, or bring an instrument.\nhttps://www
+ .theploughandstars.com/
+URL:https://www.theploughandstars.com/
+LOCATION:The Plough and Stars\, 116 Clement St\, San Francisco\, CA 94118
 END:VEVENT
 BEGIN:VEVENT
 UID:zorn-medeski-lombardo-awakening-ground-matinee-e80e74b6@sf-events
@@ -7254,6 +7399,22 @@ URL:https://www.eventbrite.com/e/sf-salsa-social-salsa-dancing-lesson-at-v
 LOCATION:Verdi Club\, 2424 Mariposa St\, San Francisco\, CA 94110
 END:VEVENT
 BEGIN:VEVENT
+UID:salsacrazy-mondays-salsa-lesson-salsa-bachata-dancing-06f932e1@sf-even
+ ts
+DTSTAMP:20270309T023000Z
+DTSTART:20270309T023000Z
+DTEND:20270309T073000Z
+SUMMARY:SalsaCrazy Mondays: salsa lesson + salsa/bachata dancing
+DESCRIPTION:Monday salsa classes for all levels\, then salsa and bachata s
+ ocial dancing in the club afterwards. One of the easiest ways to start da
+ ncing in SF and meet people.\nPrice: $10-$40\nhttps://www.eventbrite.com/
+ e/salsa-dance-classes-and-salsa-and-bachata-dancing-salsacrazy-mondays-ti
+ ckets-1981014394381
+URL:https://www.eventbrite.com/e/salsa-dance-classes-and-salsa-and-bachata
+ -dancing-salsacrazy-mondays-tickets-1981014394381
+LOCATION:Neck of the Woods\, 406 Clement St\, San Francisco\, CA 94118
+END:VEVENT
+BEGIN:VEVENT
 UID:happy-endings-writers-showdown-at-the-make-out-room-9dc29a4e@sf-events
 DTSTAMP:20270310T030000Z
 DTSTART:20270310T030000Z
@@ -7280,6 +7441,18 @@ DESCRIPTION:San Francisco's weekly Tuesday swing dance with a live band an
 URL:https://www.verdiclub.net/events/the-woodchoppers-ball-42-3-2/2027-03-
  09/
 LOCATION:Verdi Club\, 2424 Mariposa St\, San Francisco\, CA 94110
+END:VEVENT
+BEGIN:VEVENT
+UID:christian-kuria-east-tour-5406ca78@sf-events
+DTSTAMP:20270311T040000Z
+DTSTART:20270311T040000Z
+DTEND:20270311T060000Z
+SUMMARY:Christian Kuria: EAST TOUR
+DESCRIPTION:Soulful singer-songwriter Christian Kuria brings his East Tour
+  to the classic North Beach supper-club room. Doors 7pm\, show 8pm\, all 
+ ages.\nhttps://bimbos365club.com/tm-event/christian-kuria-east-tour/
+URL:https://bimbos365club.com/tm-event/christian-kuria-east-tour/
+LOCATION:Bimbo's 365 Club\, 1025 Columbus Ave\, San Francisco\, CA 94133
 END:VEVENT
 BEGIN:VEVENT
 UID:lindsey-caplan-anthony-veneziale-the-art-and-science-of-what-8c759bb3@
@@ -7344,6 +7517,20 @@ URL:https://www.verdiclub.net/events/hello-bachata-11-2/2027-03-14/
 LOCATION:Verdi Club\, 2424 Mariposa St\, San Francisco\, CA 94110
 END:VEVENT
 BEGIN:VEVENT
+UID:free-bluegrass-jam-concert-at-blondie-s-c93e09ba@sf-events
+DTSTAMP:20270316T033000Z
+DTSTART:20270316T033000Z
+DTEND:20270316T053000Z
+SUMMARY:Free bluegrass jam & concert at Blondie's
+DESCRIPTION:Blondie's free Monday bluegrass night on Valencia St: some of 
+ the Bay Area's best local pickers play a set and jam. Easy\, friendly\, n
+ o cover.\nPrice: Free\nhttps://www.eventbrite.com/e/free-bluegrass-in-san
+ -francisco-live-jam-concert-tickets-1990533663772
+URL:https://www.eventbrite.com/e/free-bluegrass-in-san-francisco-live-jam-
+ concert-tickets-1990533663772
+LOCATION:Blondie's Bar\, 540 Valencia St\, San Francisco\, CA 94110
+END:VEVENT
+BEGIN:VEVENT
 UID:long-now-talk-silvana-konermann-on-crispr-and-alzheimer-s-e70c9ef6@sf-
  events
 DTSTAMP:20270317T020000Z
@@ -7368,5 +7555,74 @@ DESCRIPTION:English indie-folk singer-songwriter Bess Atwell plays the sma
  vent/bess-atwell/708223?afflky=RickshawStop
 URL:https://wl.eventim.us/event/bess-atwell/708223?afflky=RickshawStop
 LOCATION:Rickshaw Stop\, 155 Fell St\, San Francisco\, CA 94102
+END:VEVENT
+BEGIN:VEVENT
+UID:jake-lambert-the-sunshine-kid-a-c-t-strand-5f6c712e@sf-events
+DTSTAMP:20270319T020000Z
+DTSTART:20270319T020000Z
+DTEND:20270319T040000Z
+SUMMARY:Jake Lambert: The Sunshine Kid (A.C.T. Strand)
+DESCRIPTION:British comic Jake Lambert\, called 'a joke machine' by The Te
+ legraph and seen on Live at the Apollo\, brings his rapid-fire storytelli
+ ng show to A.C.T.'s Strand for one night only.\nhttps://www.act-sf.org/wh
+ ats-on/limited-engagements/jake-lambert-the-sunshine-kid
+URL:https://www.act-sf.org/whats-on/limited-engagements/jake-lambert-the-s
+ unshine-kid
+LOCATION:A.C.T. Strand Theater\, 1127 Market St\, San Francisco\, CA 94103
+END:VEVENT
+BEGIN:VEVENT
+UID:helena-deland-at-the-chapel-c82366d3@sf-events
+DTSTAMP:20270319T030000Z
+DTSTART:20270319T030000Z
+DTEND:20270319T050000Z
+SUMMARY:Helena Deland at The Chapel
+DESCRIPTION:Montreal singer-songwriter Helena Deland plays an intimate ind
+ ie-folk set at The Chapel\, presented by (((folkYEAH!))). Doors 7pm\, sho
+ w 8pm\, all ages.\nPrice: $25 + fees\nhttps://wl.eventim.us/event/helena-
+ deland/707896?afflky=TheChapel
+URL:https://wl.eventim.us/event/helena-deland/707896?afflky=TheChapel
+LOCATION:The Chapel\, 777 Valencia St\, San Francisco\, CA 94110
+END:VEVENT
+BEGIN:VEVENT
+UID:bachata-lab-friday-bachata-classes-3-levels-social-38e4095b@sf-events
+DTSTAMP:20270320T030000Z
+DTSTART:20270320T030000Z
+DTEND:20270320T080000Z
+SUMMARY:Bachata Lab: Friday bachata classes (3 levels) + social
+DESCRIPTION:Weekly Friday bachata classes in three concurrent levels\, fol
+ lowed by a social dance. A beginner-friendly way to fill an empty Friday.
+ \nPrice: from $15\nhttps://www.eventbrite.com/e/bachata-lab-tickets-15430
+ 49154559
+URL:https://www.eventbrite.com/e/bachata-lab-tickets-1543049154559
+LOCATION:Bachata Lab\, 1830 17th St\, San Francisco\, CA 94103
+END:VEVENT
+BEGIN:VEVENT
+UID:troilus-and-cressida-opening-night-a-c-t-out-tour-1e677929@sf-events
+DTSTAMP:20270321T020000Z
+DTSTART:20270321T020000Z
+DTEND:20270321T040000Z
+SUMMARY:Troilus and Cressida: opening night (A.C.T. OUT Tour)
+DESCRIPTION:Opening night of A.C.T. and Play On Shakespeare's fast\, in-th
+ e-round modern-verse staging of Shakespeare's cynical war tragicomedy\, i
+ n the Strand's intimate Rueff space.\nhttps://www.act-sf.org/community/fo
+ r-students/a-c-t-out-tour/troilus-and-cressida
+URL:https://www.act-sf.org/community/for-students/a-c-t-out-tour/troilus-a
+ nd-cressida
+LOCATION:A.C.T. Strand Theater (The Rueff)\, 1127 Market St\, San Francisc
+ o\, CA 94103
+END:VEVENT
+BEGIN:VEVENT
+UID:mucha-salsa-at-the-verdi-club-free-beginner-class-social-a882a799@sf-e
+ vents
+DTSTAMP:20270322T013000Z
+DTSTART:20270322T013000Z
+DTEND:20270322T060000Z
+SUMMARY:Mucha Salsa+ at the Verdi Club (free beginner class + social)
+DESCRIPTION:iHeartMambo's not-for-profit salsa social: beginner and interm
+ ediate salsa classes at 7pm\, included in entry\, then DJ social dancing.
+  Friendly\, community-run crowd.\nPrice: $15\nhttps://www.verdiclub.net/e
+ vents/mucha-salsa-5-2/2027-03-21/
+URL:https://www.verdiclub.net/events/mucha-salsa-5-2/2027-03-21/
+LOCATION:Verdi Club\, 2424 Mariposa St\, San Francisco\, CA 94110
 END:VEVENT
 END:VCALENDAR
