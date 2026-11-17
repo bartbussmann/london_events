@@ -5,171 +5,6 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:San Francisco Events
 X-WR-TIMEZONE:America/Los_Angeles
 BEGIN:VEVENT
-UID:fall-sf-international-tea-festival-56b250fa@sf-events
-DTSTAMP:20261114T180000Z
-DTSTART:20261114T180000Z
-DTEND:20261115T010000Z
-SUMMARY:Fall SF International Tea Festival
-DESCRIPTION:Unlimited tastings from 30+ international tea vendors (Vietnam
- ese\, Nepali\, Kenyan\, Korean\, Wuyishan oolongs and more)\, and you kee
- p a porcelain tasting cup. It also runs Sun Nov 15.\nPrice: $26-48\nhttps
- ://www.eventbrite.com/e/fall-sf-international-tea-festival-2026-tickets-1
- 994590750628
-URL:https://www.eventbrite.com/e/fall-sf-international-tea-festival-2026-t
- ickets-1994590750628
-LOCATION:Ferry Building Marketplace\, 1 Ferry Building\, San Francisco\, C
- A 94111
-END:VEVENT
-BEGIN:VEVENT
-UID:renegade-craft-holiday-fair-san-francisco-92fd611e@sf-events
-DTSTAMP:20261114T190000Z
-DTSTART:20261114T190000Z
-DTEND:20261115T010000Z
-SUMMARY:Renegade Craft Holiday Fair San Francisco
-DESCRIPTION:A big holiday craft fair with 250+ curated independent makers 
- on the waterfront at Fort Mason. It also runs Sunday Nov 15\, 11am-5pm.\n
- Price: Free ($5 suggested)\nhttps://www.renegadecraft.com/event/san-franc
- isco-winter/
-URL:https://www.renegadecraft.com/event/san-francisco-winter/
-LOCATION:Fort Mason Center Festival Pavilion\, 2 Marina Blvd\, San Francis
- co\, CA 94123
-END:VEVENT
-BEGIN:VEVENT
-UID:sf-city-guides-free-walking-tour-scandalous-murals-of-rincon-ad8c34b5@
- sf-events
-DTSTAMP:20261114T210000Z
-DTSTART:20261114T210000Z
-DTEND:20261114T230000Z
-SUMMARY:SF City Guides free walking tour: Scandalous Murals of Rincon Cent
- er
-DESCRIPTION:A free volunteer-led indoor tour of the controversial WPA-era 
- murals in the former Rincon Annex post office\, a few blocks from home. T
- he meeting point is the east end of the historic lobby near Mission & Ste
- uart.\nPrice: Free (donations welcome)\nhttps://www.sfcityguides.org/find
- -your-tour/?visit=2026-11-14
-URL:https://www.sfcityguides.org/find-your-tour/?visit=2026-11-14
-LOCATION:Rincon Center (historic lobby\, east end)\, 101 Spear St\, San Fr
- ancisco\, CA 94105
-END:VEVENT
-BEGIN:VEVENT
-UID:relish-speed-dating-ages-29-42-725e0165@sf-events
-DTSTAMP:20261115T010000Z
-DTSTART:20261115T010000Z
-DTEND:20261115T030000Z
-SUMMARY:Relish Speed Dating (ages 29-42)
-DESCRIPTION:A Saturday-evening speed-dating round of 5-7 minute mini-dates
-  with 8-12 singles aged 29-42\, held in a FiDi hotel lounge. Picks go in 
- on your phone and matches arrive the next day.\nPrice: $37-$40\nhttps://w
- ww.eventbrite.com/e/relish-saturday-night-ages-29-42-san-francisco-speed-
- dating-tickets-2003945740655
-URL:https://www.eventbrite.com/e/relish-saturday-night-ages-29-42-san-fran
- cisco-speed-dating-tickets-2003945740655
-LOCATION:The Jay\, Autograph Collection\, 433 Clay St\, San Francisco\, CA
-  94111
-END:VEVENT
-BEGIN:VEVENT
-UID:root-division-new-works-2026-opening-reception-8d04b9d0@sf-events
-DTSTAMP:20261115T010000Z
-DTSTART:20261115T010000Z
-DTEND:20261115T030000Z
-SUMMARY:Root Division: New Works 2026 opening reception
-DESCRIPTION:Opening of Root Division's biennial survey of its studio artis
- ts: drawing\, painting\, sculpture\, photography and multimedia. Itzel Ri
- os-Ellis's solo show Under the Orchidian Beam opens in the mezzanine at t
- he same time. A sociable SoMa opening a few minutes from home.\nhttps://r
- ootdivision.org/events/event/new-works-2026/
-URL:https://rootdivision.org/events/event/new-works-2026/
-LOCATION:Root Division\, 1131 Mission St\, San Francisco\, CA 94103
-END:VEVENT
-BEGIN:VEVENT
-UID:abiogenesis-philip-beesley-casey-curran-opening-sf-art-week-06cced09@s
- f-events
-DTSTAMP:20261115T020000Z
-DTSTART:20261115T020000Z
-DTEND:20261115T050000Z
-SUMMARY:Abiogenesis: Philip Beesley & Casey Curran opening (SF Art Week)
-DESCRIPTION:Free opening reception for a two-artist show of kinetic\, ligh
- t-responsive sculpture about life emerging from inert matter. It's part o
- f SF Art Week\, and Philip Beesley represented Canada at the Venice Archi
- tecture Biennale.\nPrice: Free (RSVP)\nhttps://www.eventbrite.com/e/abiog
- enesis-new-works-by-philip-beesley-and-casey-curran-tickets-2003420173670
-URL:https://www.eventbrite.com/e/abiogenesis-new-works-by-philip-beesley-a
- nd-casey-curran-tickets-2003420173670
-LOCATION:Heron Arts\, 7 Heron St\, San Francisco\, CA 94103
-END:VEVENT
-BEGIN:VEVENT
-UID:san-francisco-english-country-dance-2nd-saturday-fac76861@sf-events
-DTSTAMP:20261115T033000Z
-DTSTART:20261115T033000Z
-DTEND:20261115T060000Z
-SUMMARY:San Francisco English Country Dance (2nd Saturday)
-DESCRIPTION:BACDS's monthly SF English country dance with caller Nick Cucc
- ia and live music from Betsy St. Aubin\, Craig Johnson and Michele Winter
- . A workshop starts at 7:15pm\, so it's beginner-friendly.\nPrice: $20 ($
- 15 members\, $6 students\; pay what you can)\nhttps://bacds.org/series/en
- glish/san_francisco/
-URL:https://bacds.org/series/english/san_francisco/
-LOCATION:St. John's Presbyterian Church\, 25 Lake St\, San Francisco\, CA 
- 94118
-END:VEVENT
-BEGIN:VEVENT
-UID:bats-improv-theatresports-f2c44e8e@sf-events
-DTSTAMP:20261115T040000Z
-DTSTART:20261115T040000Z
-DTEND:20261115T060000Z
-SUMMARY:BATS Improv: Theatresports
-DESCRIPTION:BATS's long-running improv competition: teams battle through s
- cenes and games judged by the audience. Saturdays at 8pm Nov 7\, 14\, 21 
- and 28.\nPrice: $17.79-$28.45\nhttps://www.eventbrite.com/e/bats-improv-p
- resents-theatresportstm-11726-112826-sho-tickets-1991873896444
-URL:https://www.eventbrite.com/e/bats-improv-presents-theatresportstm-1172
- 6-112826-sho-tickets-1991873896444
-LOCATION:BATS Bayfront Theatre\, Fort Mason Center\, 2 Marina Blvd\, Build
- ing B\, 3rd Floor\, San Francisco\, CA 94123
-END:VEVENT
-BEGIN:VEVENT
-UID:a-night-of-live-local-roots-music-ben-grant-magpie-the-spare-ea5f10d8@
- sf-events
-DTSTAMP:20261115T040000Z
-DTSTART:20261115T040000Z
-DTEND:20261115T060000Z
-SUMMARY:A Night of Live Local Roots Music: Ben Grant\, Magpie\, The Spare 
- Keys
-DESCRIPTION:Three local folk/roots acts at the Hotel Utah Saloon\, a short
-  walk from home. A cheap Saturday folk night in a historic bar.\nPrice: $
- 12\nhttps://wl.seetickets.us/event/ben-grant-magpie-the-spare-keys/709740
-URL:https://wl.seetickets.us/event/ben-grant-magpie-the-spare-keys/709740
-LOCATION:Hotel Utah Saloon\, 500 4th St\, San Francisco\, CA 94107
-END:VEVENT
-BEGIN:VEVENT
-UID:the-cactus-blossoms-with-margo-cilker-49b14cd6@sf-events
-DTSTAMP:20261115T050000Z
-DTSTART:20261115T050000Z
-DTEND:20261115T070000Z
-SUMMARY:The Cactus Blossoms with Margo Cilker
-DESCRIPTION:Minneapolis brothers The Cactus Blossoms play Everly-style clo
- se-harmony country-folk\, with Oregon songwriter Margo Cilker opening. Pr
- esented by (((folkYEAH!))). Doors 8pm.\nPrice: $25-$28\nhttps://wl.seetic
- kets.us/event/the-cactus-blossoms/697167?afflky=TheChapel
-URL:https://wl.seetickets.us/event/the-cactus-blossoms/697167?afflky=TheCh
- apel
-LOCATION:The Chapel\, 777 Valencia St\, San Francisco\, CA 94110
-END:VEVENT
-BEGIN:VEVENT
-UID:sean-hayes-album-release-with-katzroar-and-etienne-de-rocher-a8bb3903@
- sf-events
-DTSTAMP:20261115T050000Z
-DTSTART:20261115T050000Z
-DTEND:20261115T070000Z
-SUMMARY:Sean Hayes (album release) with KATZROAR and Etienne de Rocher
-DESCRIPTION:Album-release show from SF's long-time folk-soul songwriter Se
- an Hayes\, with Oakland's KATZROAR and Etienne de Rocher (Haunted Shed). 
- Doors 8:30pm\, 21+.\nPrice: $25\nhttps://www.theindependentsf.com/tm-even
- t/sean-hayes/
-URL:https://www.theindependentsf.com/tm-event/sean-hayes/
-LOCATION:The Independent\, 628 Divisadero St\, San Francisco\, CA 94117
-END:VEVENT
-BEGIN:VEVENT
 UID:movement-ecstatic-dance-sf-sasha-rose-8deab1d9@sf-events
 DTSTAMP:20261115T180000Z
 DTSTART:20261115T180000Z
@@ -1747,14 +1582,14 @@ LOCATION:Alamo Drafthouse New Mission\, 2550 Mission St\, San Francisco\,
 END:VEVENT
 BEGIN:VEVENT
 UID:ics-cdae8be23530@sf-events
-DTSTAMP:20261126T013000Z
-DTSTART:20261126T013000Z
-DTEND:20261126T033000Z
+DTSTAMP:20261126T003000Z
+DTSTART:20261126T003000Z
+DTEND:20261126T023000Z
 SUMMARY:Moxgiving Potluck
-DESCRIPTION:Moxgiving: the Thanksgiving-eve community potluck at Mox. Star
- ts 5:30pm\, but it's a potluck\, so arriving after work is fine — a war
- m way to spend the holiday if you're new in town.\nPrice: Free — bring 
- a dish\nhttps://luma.com/mox-wweu
+DESCRIPTION:Moxgiving: the Thanksgiving-eve community potluck at Mox. Now 
+ starts 4:30pm (moved an hour earlier)\, but it's a potluck\, so arriving 
+ after work is fine. A warm way to spend the holiday if you're new in town
+ .\nPrice: Free — bring a dish\nhttps://luma.com/mox-wweu
 URL:https://luma.com/mox-wweu
 LOCATION:Mox\, 1680 Mission St\, San Francisco\, CA 94103
 END:VEVENT
