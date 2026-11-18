@@ -1527,8 +1527,9 @@ SUMMARY:Cat's Corner: Thanksgiving Eve swing dance with the Cosmo Alleycat
  s
 DESCRIPTION:Live-band lindy hop and swing on Broadway the night before Tha
  nksgiving. A 9pm drop-in beginner swing lesson\, then social dancing to t
- he Cosmo Alleycats.\nPrice: $15 (incl. 9pm drop-in lesson\; $10 before 8:
- 30pm)\nhttps://www.catscornersf.com/
+ he Cosmo Alleycats. This week it doubles as Cat's Corner's annual Thanksg
+ iving Eve appreciation party\, with a festive dinner.\nPrice: $15 (incl. 
+ 9pm drop-in lesson\; $10 before 8:30pm)\nhttps://www.catscornersf.com/
 URL:https://www.catscornersf.com/
 LOCATION:Mabuhay Gardens (Cat's Corner)\, 435 Broadway\, San Francisco\, C
  A 94133
@@ -1954,11 +1955,11 @@ UID:macerator-record-release-danny-pearson-your-stranger-strange-37bfbda0@
 DTSTAMP:20261130T023000Z
 DTSTART:20261130T023000Z
 DTEND:20261130T060000Z
-SUMMARY:Macerator record release + Danny Pearson + Your Stranger Stranger
-DESCRIPTION:A Sunday-evening record-release show by Macerator\, with The I
- ncorrigible Danny Pearson and Your Stranger Stranger\, in the Make-Out Ro
- om on 22nd St.\nPrice: $15\nhttps://www.calendarwiz.com/calendars/calenda
- r.php?crd=makeoutroom&op=cal&month=11&year=2026
+SUMMARY:Macerator record release + Your Stranger Stranger + Lorna K Kombo
+DESCRIPTION:A Sunday-evening record-release show by Macerator\, with Your 
+ Stranger Stranger (Jeffrey "Luck" Lucas) and Lorna K Kombo\, in the Make-
+ Out Room on 22nd St.\nPrice: $15\nhttps://www.calendarwiz.com/calendars/c
+ alendar.php?crd=makeoutroom&op=cal&month=11&year=2026
 URL:https://www.calendarwiz.com/calendars/calendar.php?crd=makeoutroom&op=
  cal&month=11&year=2026
 LOCATION:Make-Out Room\, 3225 22nd St\, San Francisco\, CA 94110
@@ -2018,6 +2019,23 @@ DESCRIPTION:A two-hour drop-in life drawing session with a live model in a
 URL:https://book.squareup.com/classes/uj53t4hfgkzllp/location/DYSM7QRDVFWX
  7/classes
 LOCATION:Sin Miedo Gallery\, 2831 Mission St\, San Francisco\, CA 94110
+END:VEVENT
+BEGIN:VEVENT
+UID:susan-spungen-cookie-queen-author-talk-with-kristina-cho-d8bc02bf@sf-e
+ vents
+DTSTAMP:20261201T023000Z
+DTSTART:20261201T023000Z
+DTEND:20261201T043000Z
+SUMMARY:Susan Spungen: Cookie Queen author talk (with Kristina Cho)
+DESCRIPTION:Martha Stewart Living's founding food editor talks cookies and
+  holiday cookie boxes with James Beard winner Kristina Cho\, at Noe Valle
+ y's food-only bookshop. Seating is first come\, first served.\nPrice: Fre
+ e\nhttps://omnivorebooks.myshopify.com/products/susan-spungen-author-talk
+ -cookie-queen-80-irresistible-doable-giftable-recipes
+URL:https://omnivorebooks.myshopify.com/products/susan-spungen-author-talk
+ -cookie-queen-80-irresistible-doable-giftable-recipes
+LOCATION:Omnivore Books on Food\, 3885A Cesar Chavez St\, San Francisco\, 
+ CA 94131
 END:VEVENT
 BEGIN:VEVENT
 UID:of-poetry-protest-10th-anniversary-celebration-3e5280f0@sf-events
@@ -3376,6 +3394,39 @@ LOCATION:Ferry Building south arcade (Ferry Plaza Farmers Market)\, 1 Ferr
  y Building\, San Francisco\, CA 94111
 END:VEVENT
 BEGIN:VEVENT
+UID:scrap-workshop-cyanotype-printmaking-with-photographic-trans-8428e39b@
+ sf-events
+DTSTAMP:20261212T190000Z
+DTSTART:20261212T190000Z
+DTEND:20261212T220000Z
+SUMMARY:SCRAP workshop: cyanotype printmaking with photographic transparen
+ cies
+DESCRIPTION:A three-hour hands-on workshop with Jacob Li Rosenberg at the 
+ creative-reuse center\, making blue sun-prints from digitally altered tra
+ nsparencies. Materials are provided\, and you can bring a t-shirt to prin
+ t on.\nPrice: $39.19-$60.54\nhttps://www.eventbrite.com/e/cyanotypes-expe
+ rimenting-with-transparencies-with-jacob-li-rosenberg-tickets-20047417996
+ 89
+URL:https://www.eventbrite.com/e/cyanotypes-experimenting-with-transparenc
+ ies-with-jacob-li-rosenberg-tickets-2004741799689
+LOCATION:SCRAP\, 141 Industrial St #1\, San Francisco\, CA 94124
+END:VEVENT
+BEGIN:VEVENT
+UID:24th-annual-parol-lantern-festival-cab2d1c4@sf-events
+DTSTAMP:20261212T230000Z
+DTSTART:20261212T230000Z
+DTEND:20261213T040000Z
+SUMMARY:24th Annual Parol Lantern Festival
+DESCRIPTION:SOMA Pilipinas' free festival of Filipino parol star lanterns\
+ , with this year's theme 'Beacon of Hope and Resilience' marking ten year
+ s of the cultural district. It's a lively way to meet the SoMa Filipino c
+ ommunity a few minutes from home.\nPrice: Free\nhttps://ybca.org/event/24
+ th-annual-parol-lantern-festival-2026/
+URL:https://ybca.org/event/24th-annual-parol-lantern-festival-2026/
+LOCATION:YBCA (Grand Lobby & Forum)\, 701 Mission St\, San Francisco\, CA 
+ 94103
+END:VEVENT
+BEGIN:VEVENT
 UID:bay-area-winter-solstice-2026-rationalist-community-5190812b@sf-events
 DTSTAMP:20261213T030000Z
 DTSTART:20261213T030000Z
@@ -3859,6 +3910,22 @@ URL:https://www.cocusocial.com/newevent/San-Francisco_Make-Your-Own-Sushi_
 LOCATION:The Hotel Majestic\, 1500 Sutter St\, San Francisco\, CA 94109
 END:VEVENT
 BEGIN:VEVENT
+UID:castro-wine-walk-holiday-edition-4c618498@sf-events
+DTSTAMP:20261218T020000Z
+DTSTART:20261218T020000Z
+DTEND:20261218T050000Z
+SUMMARY:Castro Wine Walk: Holiday Edition
+DESCRIPTION:A wine-tasting stroll run by the Castro Merchants. It starts a
+ t The Academy SF and stops at about ten local spots\, including Starbelly
+ \, Canela\, Poesia\, La Mediterranee and the Love Potion Library.\nPrice:
+  $49.87-$87.21\nhttps://www.eventbrite.com/e/the-castro-wine-walk-holiday
+ -edition-tickets-2004926676661
+URL:https://www.eventbrite.com/e/the-castro-wine-walk-holiday-edition-tick
+ ets-2004926676661
+LOCATION:The Academy SF (start) + Castro bars and restaurants\, 2166 Marke
+ t St\, San Francisco\, CA 94114
+END:VEVENT
+BEGIN:VEVENT
 UID:laia-jufresa-in-conversation-with-colin-winnette-7636679f@sf-events
 DTSTAMP:20261218T030000Z
 DTSTART:20261218T030000Z
@@ -4009,6 +4076,22 @@ DESCRIPTION:SF's signature Christmas concert since 1947: carols and sacred
 URL:https://gracecathedral.org/calendar-events/a-cathedral-christmas-2/202
  6-12-19/
 LOCATION:Grace Cathedral\, 1100 California St\, San Francisco\, CA 94108
+END:VEVENT
+BEGIN:VEVENT
+UID:free-whisky-tasting-10th-street-distillery-single-malts-4f2370ef@sf-ev
+ ents
+DTSTAMP:20261219T230000Z
+DTSTART:20261219T230000Z
+DTEND:20261220T020000Z
+SUMMARY:Free whisky tasting: 10th Street Distillery single malts
+DESCRIPTION:An in-store tasting of 10th Street Distillery's award-winning 
+ peated and unpeated single malts\, which are distilled in the Bay Area. I
+ t's presented by the distillery at a downtown whisky specialist.\nPrice: 
+ Free (RSVP)\nhttps://www.eventbrite.com/e/10th-st-single-malt-tasting-tic
+ kets-2003327603791
+URL:https://www.eventbrite.com/e/10th-st-single-malt-tasting-tickets-20033
+ 27603791
+LOCATION:The Whisky Shop\, 360 Sutter St\, San Francisco\, CA 94108
 END:VEVENT
 BEGIN:VEVENT
 UID:balboa-christmas-halloween-mystery-marathon-four-secret-horr-4c9bd911@
@@ -4618,6 +4701,19 @@ URL:https://www.theploughandstars.com/
 LOCATION:The Plough and Stars\, 116 Clement St\, San Francisco\, CA 94118
 END:VEVENT
 BEGIN:VEVENT
+UID:mochi-pounding-omochitsuki-at-the-asian-art-museum-19b6b22f@sf-events
+DTSTAMP:20261227T220000Z
+DTSTART:20261227T220000Z
+DTEND:20261228T000000Z
+SUMMARY:Mochi pounding (Omochitsuki) at the Asian Art Museum
+DESCRIPTION:A Japanese New Year tradition: watch a demonstration\, take a 
+ turn with the wooden mallet\, then taste fresh mochi. It's a hands-on aft
+ ernoon in Civic Center.\nPrice: Included with museum general admission\nh
+ ttps://calendar.asianart.org/event/sunday-mochi-pounding-omochitsuki/
+URL:https://calendar.asianart.org/event/sunday-mochi-pounding-omochitsuki/
+LOCATION:Asian Art Museum\, 200 Larkin St\, San Francisco\, CA 94102
+END:VEVENT
+BEGIN:VEVENT
 UID:mark-eitzel-funeral-cake-strange-cities-devoted-fans-more-95db3a96@sf-
  events
 DTSTAMP:20261228T003000Z
@@ -4834,6 +4930,21 @@ URL:https://bacds.org/series/contra/berkeley_wed/
 LOCATION:Christ Church East Bay\, 2138 Cedar St\, Berkeley\, CA 94709
 END:VEVENT
 BEGIN:VEVENT
+UID:japanese-new-year-bell-ringing-ceremony-41st-annual-47e7dac9@sf-events
+DTSTAMP:20261231T210000Z
+DTSTART:20261231T210000Z
+DTEND:20261231T230000Z
+SUMMARY:Japanese New Year Bell-Ringing Ceremony (41st annual)
+DESCRIPTION:Visitors take turns striking the museum's 2\,100-pound 16th-ce
+ ntury Japanese temple bell 108 times\, with a chant and short Dharma talk
+ . Numbered tickets to ring the bell are handed out from noon at Samsung H
+ all.\nPrice: Included with museum general admission\nhttps://calendar.asi
+ anart.org/?p=10796
+URL:https://calendar.asianart.org/?p=10796
+LOCATION:Asian Art Museum\, Samsung Hall\, 200 Larkin St\, San Francisco\,
+  CA 94102
+END:VEVENT
+BEGIN:VEVENT
 UID:bacds-new-year-s-eve-contra-ball-c0b84f36@sf-events
 DTSTAMP:20270101T040000Z
 DTSTART:20270101T040000Z
@@ -5033,6 +5144,20 @@ LOCATION:Golden Gate Park\, JFK Drive (8th-10th Ave)\, JFK Dr between 8th
  & 10th Ave (behind the de Young)\, San Francisco\, CA
 END:VEVENT
 BEGIN:VEVENT
+UID:lightscape-at-sf-botanical-garden-final-night-ddf91304@sf-events
+DTSTAMP:20270104T010000Z
+DTSTART:20270104T010000Z
+DTEND:20270104T030000Z
+SUMMARY:Lightscape at SF Botanical Garden (final night)
+DESCRIPTION:A one-mile after-dark trail of a million lights\, light sculpt
+ ures and sound through the Botanical Garden\, on its last night of the se
+ ason. Timed entry runs from 5pm to 8:30pm\, so book ahead.\nPrice: From $
+ 32 (adult\, timed entry)\nhttps://gggp.org/lightscape/
+URL:https://gggp.org/lightscape/
+LOCATION:San Francisco Botanical Garden (Golden Gate Park)\, 1199 9th Ave\
+ , San Francisco\, CA 94122
+END:VEVENT
+BEGIN:VEVENT
 UID:sf-salsa-social-beginner-class-salsa-mambo-dancing-758db7a0@sf-events
 DTSTAMP:20270104T030000Z
 DTSTART:20270104T030000Z
@@ -5107,6 +5232,23 @@ DESCRIPTION:The weekly Tuesday live-band swing dance at the historic Verdi
 URL:https://www.verdiclub.net/events/the-woodchoppers-ball-42-3-2/2027-01-
  05/
 LOCATION:Verdi Club\, 2424 Mariposa St\, San Francisco\, CA 94110
+END:VEVENT
+BEGIN:VEVENT
+UID:matchbook-neon-typography-tour-sf-neon-letterform-archive-3e054d5a@sf-
+ events
+DTSTAMP:20270107T020000Z
+DTSTART:20270107T020000Z
+DTEND:20270107T033000Z
+SUMMARY:Matchbook-Neon Typography Tour (SF Neon + Letterform Archive)
+DESCRIPTION:A 90-minute evening walk from Market St to Union Square huntin
+ g vintage neon signs\, led by SF Neon with Letterform Archive's Stephen C
+ oles. It covers mid-century nightlife history through old signs and match
+ book typography.\nPrice: $33\nhttps://www.eventbrite.com/e/matchbook-neon
+ -typography-tour-16-tickets-2004442282826
+URL:https://www.eventbrite.com/e/matchbook-neon-typography-tour-16-tickets
+ -2004442282826
+LOCATION:Meet on first block of Ellis St (across from Tad's Steaks)\, 60 E
+ llis St\, San Francisco\, CA 94102
 END:VEVENT
 BEGIN:VEVENT
 UID:hayes-valley-comedy-night-at-the-function-db2a9802@sf-events
@@ -5327,6 +5469,21 @@ LOCATION:Mission & Steuart Streets\, by Rincon Center (meeting point)\, Mi
  ssion St & Steuart St\, San Francisco\, CA 94105
 END:VEVENT
 BEGIN:VEVENT
+UID:crafting-in-the-castro-notebook-making-eff7a549@sf-events
+DTSTAMP:20270110T230000Z
+DTSTART:20270110T230000Z
+DTEND:20270111T000000Z
+SUMMARY:Crafting in the Castro: notebook making
+DESCRIPTION:A free hour-long library craft session where you bind your own
+  notebook and take it home. Drop-in\, limited to the first 15 people to a
+ rrive.\nPrice: Free (drop-in\, first 15 people)\nhttps://www.eventbrite.c
+ om/e/crafting-in-the-castro-notebook-making-tickets-1991020837923
+URL:https://www.eventbrite.com/e/crafting-in-the-castro-notebook-making-ti
+ ckets-1991020837923
+LOCATION:Eureka Valley/Harvey Milk Memorial Branch Library\, 1 Jose Sarria
+  Ct\, San Francisco\, CA 94114
+END:VEVENT
+BEGIN:VEVENT
 UID:nora-brown-with-stephanie-coleman-65eb5243@sf-events
 DTSTAMP:20270111T040000Z
 DTSTART:20270111T040000Z
@@ -5400,6 +5557,22 @@ DESCRIPTION:Five writers perform new work on a shared theme\, competing fo
 URL:https://www.calendarwiz.com/calendars/popup.php?op=view&id=184885114&c
  rd=makeoutroom
 LOCATION:Make-Out Room\, 3225 22nd St\, San Francisco\, CA 94110
+END:VEVENT
+BEGIN:VEVENT
+UID:cartoonist-conspiracy-sf-collaborative-comic-drawing-jam-9666f780@sf-e
+ vents
+DTSTAMP:20270113T030000Z
+DTSTART:20270113T030000Z
+DTEND:20270113T050000Z
+SUMMARY:Cartoonist Conspiracy SF: collaborative comic drawing jam
+DESCRIPTION:A monthly meet-up where about 15 cartoonists\, pros and beginn
+ ers alike\, pass pages around to draw a 12-page jam comic together. It's 
+ an easy\, sociable way into SF's drawing scene\, no skills required.\nPri
+ ce: Free (buy a drink or pastry)\nhttps://sf.funcheap.com/cartoonist-cons
+ piracy-of-san-francisco-collaborative-drawing-jam-14/
+URL:https://sf.funcheap.com/cartoonist-conspiracy-of-san-francisco-collabo
+ rative-drawing-jam-14/
+LOCATION:Finjan Qahwa\, 3188 Mission St\, San Francisco\, CA 94110
 END:VEVENT
 BEGIN:VEVENT
 UID:woodchopper-s-ball-live-band-swing-night-5c88d5b5@sf-events
@@ -5547,6 +5720,23 @@ URL:https://wl.seetickets.us/event/the-16th-annual-bowie-bash/707829?afflk
  y=GreatAmericanMusicHall
 LOCATION:Great American Music Hall\, 859 O'Farrell St\, San Francisco\, CA
   94109
+END:VEVENT
+BEGIN:VEVENT
+UID:predicting-our-futures-black-feminist-zine-making-workshop-98e6ff35@sf
+ -events
+DTSTAMP:20270116T210000Z
+DTSTART:20270116T210000Z
+DTEND:20270116T230000Z
+SUMMARY:Predicting Our Futures: Black feminist zine-making workshop
+DESCRIPTION:The Black Feminist Book Club leads a hands-on workshop making 
+ a 'future-forecasting' zine using Octavia Butler's rules for predicting t
+ he future. It runs alongside the Arts Commission gallery's show 'Excavati
+ ng Uranus\, A Psalm for Nyota Uhura'.\nPrice: Free (RSVP)\nhttps://www.ev
+ entbrite.com/e/predicting-our-futures-tickets-2004525537844
+URL:https://www.eventbrite.com/e/predicting-our-futures-tickets-2004525537
+ 844
+LOCATION:SFAC Main Gallery (Veterans Building)\, 401 Van Ness Ave\, Suite 
+ 126\, San Francisco\, CA 94102
 END:VEVENT
 BEGIN:VEVENT
 UID:ybca-world-of-black-film-burning-an-illusion-free-sf-art-wee-f77931e2@
@@ -5905,6 +6095,36 @@ DESCRIPTION:A free volunteer-led walk at the ocean end of Golden Gate Park
 URL:https://www.sfcityguides.org/find-your-tour/?visit=2027-01-23
 LOCATION:North (Dutch) Windmill\, Queen Wilhelmina Garden (meeting point)\
  , JFK Dr at Great Highway\, San Francisco\, CA 94121
+END:VEVENT
+BEGIN:VEVENT
+UID:fog-design-art-fair-saturday-with-fog-talks-d41caedb@sf-events
+DTSTAMP:20270123T190000Z
+DTSTART:20270123T190000Z
+DTEND:20270124T030000Z
+SUMMARY:FOG Design+Art fair (Saturday\, with FOG Talks)
+DESCRIPTION:SF Art Week's flagship fair of contemporary art and design gal
+ leries on the Fort Mason piers\, benefiting SFMOMA. Saturday's ticket inc
+ ludes FOG Talks such as 'Only in San Francisco' with The Kitchen Sisters'
+  Davia Nelson (1pm) and Marilyn Minter with SFMOMA's Janet Bishop (5pm).\
+ nPrice: $40 advance ($45 after Jan 20)\nhttps://www.fogfair.com/tickets
+URL:https://www.fogfair.com/tickets
+LOCATION:Fort Mason Center for Arts & Culture (Festival + Gateway Pavilion
+ s)\, 2 Marina Blvd\, San Francisco\, CA 94123
+END:VEVENT
+BEGIN:VEVENT
+UID:tea-dandelion-chocolate-pairing-class-tap-twice-tea-4a260c1e@sf-events
+DTSTAMP:20270123T213000Z
+DTSTART:20270123T213000Z
+DTEND:20270123T230000Z
+SUMMARY:Tea & Dandelion Chocolate pairing class (Tap Twice Tea)
+DESCRIPTION:A 90-minute tasting of five categories of tea\, each paired wi
+ th single-origin chocolate from Dandelion\, led by a tea sourcer who has 
+ worked in the trade since 2009. It covers how tea is made and how to brew
+  it well.\nPrice: $70\nhttps://www.eventbrite.com/e/tea-chocolate-pairing
+ -tickets-2004749329210
+URL:https://www.eventbrite.com/e/tea-chocolate-pairing-tickets-20047493292
+ 10
+LOCATION:Tap Twice Tea\, 2822 22nd St\, San Francisco\, CA 94110
 END:VEVENT
 BEGIN:VEVENT
 UID:the-brothers-comatose-8c50af57@sf-events

@@ -1905,7 +1905,7 @@
       "music"
     ],
     "price": "$15 (incl. 9pm drop-in lesson; $10 before 8:30pm)",
-    "description": "Live-band lindy hop and swing on Broadway the night before Thanksgiving. A 9pm drop-in beginner swing lesson, then social dancing to the Cosmo Alleycats.",
+    "description": "Live-band lindy hop and swing on Broadway the night before Thanksgiving. A 9pm drop-in beginner swing lesson, then social dancing to the Cosmo Alleycats. This week it doubles as Cat's Corner's annual Thanksgiving Eve appreciation party, with a festive dinner.",
     "neighbourhood": "North Beach",
     "cycle_minutes": 9,
     "added": "2026-11-08"
@@ -2419,7 +2419,7 @@
   },
   {
     "id": "macerator-record-release-danny-pearson-your-stranger-strange-37bfbda0",
-    "title": "Macerator record release + Danny Pearson + Your Stranger Stranger",
+    "title": "Macerator record release + Your Stranger Stranger + Lorna K Kombo",
     "start": "2026-11-29T18:30:00-08:00",
     "end": "2026-11-29T22:00:00-08:00",
     "venue": "Make-Out Room",
@@ -2430,7 +2430,7 @@
       "music"
     ],
     "price": "$15",
-    "description": "A Sunday-evening record-release show by Macerator, with The Incorrigible Danny Pearson and Your Stranger Stranger, in the Make-Out Room on 22nd St.",
+    "description": "A Sunday-evening record-release show by Macerator, with Your Stranger Stranger (Jeffrey \"Luck\" Lucas) and Lorna K Kombo, in the Make-Out Room on 22nd St.",
     "neighbourhood": "Mission",
     "cycle_minutes": 15,
     "added": "2026-11-10"
@@ -2510,6 +2510,25 @@
     "neighbourhood": "Mission",
     "cycle_minutes": 16,
     "added": "2026-11-14"
+  },
+  {
+    "id": "susan-spungen-cookie-queen-author-talk-with-kristina-cho-d8bc02bf",
+    "title": "Susan Spungen: Cookie Queen author talk (with Kristina Cho)",
+    "start": "2026-11-30T18:30:00-08:00",
+    "end": null,
+    "venue": "Omnivore Books on Food",
+    "address": "3885A Cesar Chavez St, San Francisco, CA 94131",
+    "url": "https://omnivorebooks.myshopify.com/products/susan-spungen-author-talk-cookie-queen-80-irresistible-doable-giftable-recipes",
+    "source": "venue:omnivore-books",
+    "tags": [
+      "food",
+      "talk"
+    ],
+    "price": "Free",
+    "description": "Martha Stewart Living's founding food editor talks cookies and holiday cookie boxes with James Beard winner Kristina Cho, at Noe Valley's food-only bookshop. Seating is first come, first served.",
+    "neighbourhood": "Noe Valley",
+    "cycle_minutes": 22,
+    "added": "2026-11-18"
   },
   {
     "title": "Of Poetry & Protest: 10th Anniversary Celebration",
@@ -4225,6 +4244,45 @@
     "id": "pop-ups-on-the-plaza-black-holiday-market-at-the-ferry-build-a8356bc6"
   },
   {
+    "id": "scrap-workshop-cyanotype-printmaking-with-photographic-trans-8428e39b",
+    "title": "SCRAP workshop: cyanotype printmaking with photographic transparencies",
+    "start": "2026-12-12T11:00:00-08:00",
+    "end": "2026-12-12T14:00:00-08:00",
+    "venue": "SCRAP",
+    "address": "141 Industrial St #1, San Francisco, CA 94124",
+    "url": "https://www.eventbrite.com/e/cyanotypes-experimenting-with-transparencies-with-jacob-li-rosenberg-tickets-2004741799689",
+    "source": "aggregator:eventbrite",
+    "tags": [
+      "workshop",
+      "art"
+    ],
+    "price": "$39.19-$60.54",
+    "description": "A three-hour hands-on workshop with Jacob Li Rosenberg at the creative-reuse center, making blue sun-prints from digitally altered transparencies. Materials are provided, and you can bring a t-shirt to print on.",
+    "neighbourhood": "Bayview",
+    "cycle_minutes": 28,
+    "added": "2026-11-18"
+  },
+  {
+    "id": "24th-annual-parol-lantern-festival-cab2d1c4",
+    "title": "24th Annual Parol Lantern Festival",
+    "start": "2026-12-12T15:00:00-08:00",
+    "end": "2026-12-12T20:00:00-08:00",
+    "venue": "YBCA (Grand Lobby & Forum)",
+    "address": "701 Mission St, San Francisco, CA 94103",
+    "url": "https://ybca.org/event/24th-annual-parol-lantern-festival-2026/",
+    "source": "venue:ybca",
+    "tags": [
+      "festival",
+      "art",
+      "community"
+    ],
+    "price": "Free",
+    "description": "SOMA Pilipinas' free festival of Filipino parol star lanterns, with this year's theme 'Beacon of Hope and Resilience' marking ten years of the cultural district. It's a lively way to meet the SoMa Filipino community a few minutes from home.",
+    "neighbourhood": "SoMa",
+    "cycle_minutes": 3,
+    "added": "2026-11-18"
+  },
+  {
     "title": "Bay Area Winter Solstice 2026 (rationalist community)",
     "start": "2026-12-12T19:00:00-08:00",
     "end": "2026-12-12T21:00:00-08:00",
@@ -4821,6 +4879,25 @@
     "id": "cooking-class-make-your-own-sushi-8c727f60"
   },
   {
+    "id": "castro-wine-walk-holiday-edition-4c618498",
+    "title": "Castro Wine Walk: Holiday Edition",
+    "start": "2026-12-17T18:00:00-08:00",
+    "end": "2026-12-17T21:00:00-08:00",
+    "venue": "The Academy SF (start) + Castro bars and restaurants",
+    "address": "2166 Market St, San Francisco, CA 94114",
+    "url": "https://www.eventbrite.com/e/the-castro-wine-walk-holiday-edition-tickets-2004926676661",
+    "source": "aggregator:eventbrite",
+    "tags": [
+      "food",
+      "community"
+    ],
+    "price": "$49.87-$87.21",
+    "description": "A wine-tasting stroll run by the Castro Merchants. It starts at The Academy SF and stops at about ten local spots, including Starbelly, Canela, Poesia, La Mediterranee and the Love Potion Library.",
+    "neighbourhood": "Castro",
+    "cycle_minutes": 15,
+    "added": "2026-11-18"
+  },
+  {
     "title": "Laia Jufresa in conversation with Colin Winnette",
     "start": "2026-12-17T19:00:00-08:00",
     "end": "2026-12-17T20:30:00-08:00",
@@ -5004,6 +5081,24 @@
     "cycle_minutes": 14,
     "added": "2026-10-30",
     "id": "a-cathedral-christmas-saturday-matinee-grace-cathedral-choir-cec8c784"
+  },
+  {
+    "id": "free-whisky-tasting-10th-street-distillery-single-malts-4f2370ef",
+    "title": "Free whisky tasting: 10th Street Distillery single malts",
+    "start": "2026-12-19T15:00:00-08:00",
+    "end": "2026-12-19T18:00:00-08:00",
+    "venue": "The Whisky Shop",
+    "address": "360 Sutter St, San Francisco, CA 94108",
+    "url": "https://www.eventbrite.com/e/10th-st-single-malt-tasting-tickets-2003327603791",
+    "source": "aggregator:eventbrite",
+    "tags": [
+      "food"
+    ],
+    "price": "Free (RSVP)",
+    "description": "An in-store tasting of 10th Street Distillery's award-winning peated and unpeated single malts, which are distilled in the Bay Area. It's presented by the distillery at a downtown whisky specialist.",
+    "neighbourhood": "Union Square",
+    "cycle_minutes": 6,
+    "added": "2026-11-18"
   },
   {
     "title": "Balboa Christmas Halloween Mystery Marathon (four secret horror films)",
@@ -5750,6 +5845,25 @@
     "added": "2026-11-09"
   },
   {
+    "id": "mochi-pounding-omochitsuki-at-the-asian-art-museum-19b6b22f",
+    "title": "Mochi pounding (Omochitsuki) at the Asian Art Museum",
+    "start": "2026-12-27T14:00:00-08:00",
+    "end": "2026-12-27T16:00:00-08:00",
+    "venue": "Asian Art Museum",
+    "address": "200 Larkin St, San Francisco, CA 94102",
+    "url": "https://calendar.asianart.org/event/sunday-mochi-pounding-omochitsuki/",
+    "source": "venue:asian-art-museum",
+    "tags": [
+      "food",
+      "community"
+    ],
+    "price": "Included with museum general admission",
+    "description": "A Japanese New Year tradition: watch a demonstration, take a turn with the wooden mallet, then taste fresh mochi. It's a hands-on afternoon in Civic Center.",
+    "neighbourhood": "Civic Center",
+    "cycle_minutes": 8,
+    "added": "2026-11-18"
+  },
+  {
     "title": "Mark Eitzel, Funeral Cake, Strange Cities, Devoted Fans + more",
     "start": "2026-12-27T16:30:00-08:00",
     "end": "2026-12-27T23:00:00-08:00",
@@ -6029,6 +6143,25 @@
     "id": "berkeley-wednesday-contra-dance-5th-wednesday-1dc9751d"
   },
   {
+    "id": "japanese-new-year-bell-ringing-ceremony-41st-annual-47e7dac9",
+    "title": "Japanese New Year Bell-Ringing Ceremony (41st annual)",
+    "start": "2026-12-31T13:00:00-08:00",
+    "end": null,
+    "venue": "Asian Art Museum, Samsung Hall",
+    "address": "200 Larkin St, San Francisco, CA 94102",
+    "url": "https://calendar.asianart.org/?p=10796",
+    "source": "venue:asian-art-museum",
+    "tags": [
+      "community",
+      "art"
+    ],
+    "price": "Included with museum general admission",
+    "description": "Visitors take turns striking the museum's 2,100-pound 16th-century Japanese temple bell 108 times, with a chant and short Dharma talk. Numbered tickets to ring the bell are handed out from noon at Samsung Hall.",
+    "neighbourhood": "Civic Center",
+    "cycle_minutes": 8,
+    "added": "2026-11-18"
+  },
+  {
     "title": "BACDS New Year's Eve Contra Ball",
     "start": "2026-12-31T20:00:00-08:00",
     "end": "2027-01-01T00:15:00-08:00",
@@ -6275,6 +6408,25 @@
     "id": "lindy-in-the-park-free-swing-dancing-beginner-lesson-99fb5a59"
   },
   {
+    "id": "lightscape-at-sf-botanical-garden-final-night-ddf91304",
+    "title": "Lightscape at SF Botanical Garden (final night)",
+    "start": "2027-01-03T17:00:00-08:00",
+    "end": null,
+    "venue": "San Francisco Botanical Garden (Golden Gate Park)",
+    "address": "1199 9th Ave, San Francisco, CA 94122",
+    "url": "https://gggp.org/lightscape/",
+    "source": "keyword-search",
+    "tags": [
+      "outdoors",
+      "art"
+    ],
+    "price": "From $32 (adult, timed entry)",
+    "description": "A one-mile after-dark trail of a million lights, light sculptures and sound through the Botanical Garden, on its last night of the season. Timed entry runs from 5pm to 8:30pm, so book ahead.",
+    "neighbourhood": "Golden Gate Park",
+    "cycle_minutes": 28,
+    "added": "2026-11-18"
+  },
+  {
     "title": "SF Salsa Social: beginner class + salsa & mambo dancing",
     "start": "2027-01-03T19:00:00-08:00",
     "end": "2027-01-03T23:30:00-08:00",
@@ -6368,6 +6520,25 @@
     "cycle_minutes": 13,
     "added": "2026-10-30",
     "id": "woodchopper-s-ball-live-band-swing-night-7f424c8e"
+  },
+  {
+    "id": "matchbook-neon-typography-tour-sf-neon-letterform-archive-3e054d5a",
+    "title": "Matchbook-Neon Typography Tour (SF Neon + Letterform Archive)",
+    "start": "2027-01-06T18:00:00-08:00",
+    "end": "2027-01-06T19:30:00-08:00",
+    "venue": "Meet on first block of Ellis St (across from Tad's Steaks)",
+    "address": "60 Ellis St, San Francisco, CA 94102",
+    "url": "https://www.eventbrite.com/e/matchbook-neon-typography-tour-16-tickets-2004442282826",
+    "source": "aggregator:eventbrite",
+    "tags": [
+      "outdoors",
+      "art"
+    ],
+    "price": "$33",
+    "description": "A 90-minute evening walk from Market St to Union Square hunting vintage neon signs, led by SF Neon with Letterform Archive's Stephen Coles. It covers mid-century nightlife history through old signs and matchbook typography.",
+    "neighbourhood": "Union Square",
+    "cycle_minutes": 6,
+    "added": "2026-11-18"
   },
   {
     "title": "Hayes Valley Comedy Night at The Function",
@@ -6647,6 +6818,25 @@
     "id": "sf-city-guides-free-walking-tour-embarcadero-south-a-turbule-c41e5135"
   },
   {
+    "id": "crafting-in-the-castro-notebook-making-eff7a549",
+    "title": "Crafting in the Castro: notebook making",
+    "start": "2027-01-10T15:00:00-08:00",
+    "end": "2027-01-10T16:00:00-08:00",
+    "venue": "Eureka Valley/Harvey Milk Memorial Branch Library",
+    "address": "1 Jose Sarria Ct, San Francisco, CA 94114",
+    "url": "https://www.eventbrite.com/e/crafting-in-the-castro-notebook-making-tickets-1991020837923",
+    "source": "aggregator:eventbrite",
+    "tags": [
+      "workshop",
+      "class"
+    ],
+    "price": "Free (drop-in, first 15 people)",
+    "description": "A free hour-long library craft session where you bind your own notebook and take it home. Drop-in, limited to the first 15 people to arrive.",
+    "neighbourhood": "Castro",
+    "cycle_minutes": 16,
+    "added": "2026-11-18"
+  },
+  {
     "title": "Nora Brown with Stephanie Coleman",
     "start": "2027-01-10T20:00:00-08:00",
     "end": null,
@@ -6738,6 +6928,26 @@
     "neighbourhood": "Mission",
     "cycle_minutes": 15,
     "added": "2026-11-09"
+  },
+  {
+    "id": "cartoonist-conspiracy-sf-collaborative-comic-drawing-jam-9666f780",
+    "title": "Cartoonist Conspiracy SF: collaborative comic drawing jam",
+    "start": "2027-01-12T19:00:00-08:00",
+    "end": "2027-01-12T21:00:00-08:00",
+    "venue": "Finjan Qahwa",
+    "address": "3188 Mission St, San Francisco, CA 94110",
+    "url": "https://sf.funcheap.com/cartoonist-conspiracy-of-san-francisco-collaborative-drawing-jam-14/",
+    "source": "aggregator:funcheap",
+    "tags": [
+      "art",
+      "workshop",
+      "community"
+    ],
+    "price": "Free (buy a drink or pastry)",
+    "description": "A monthly meet-up where about 15 cartoonists, pros and beginners alike, pass pages around to draw a 12-page jam comic together. It's an easy, sociable way into SF's drawing scene, no skills required.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 19,
+    "added": "2026-11-18"
   },
   {
     "title": "Woodchopper's Ball: live-band swing night",
@@ -6926,6 +7136,25 @@
     "cycle_minutes": 9,
     "added": "2026-10-30",
     "id": "the-16th-annual-bowie-bash-ee5e1ce5"
+  },
+  {
+    "id": "predicting-our-futures-black-feminist-zine-making-workshop-98e6ff35",
+    "title": "Predicting Our Futures: Black feminist zine-making workshop",
+    "start": "2027-01-16T13:00:00-08:00",
+    "end": "2027-01-16T15:00:00-08:00",
+    "venue": "SFAC Main Gallery (Veterans Building)",
+    "address": "401 Van Ness Ave, Suite 126, San Francisco, CA 94102",
+    "url": "https://www.eventbrite.com/e/predicting-our-futures-tickets-2004525537844",
+    "source": "aggregator:eventbrite",
+    "tags": [
+      "workshop",
+      "art"
+    ],
+    "price": "Free (RSVP)",
+    "description": "The Black Feminist Book Club leads a hands-on workshop making a 'future-forecasting' zine using Octavia Butler's rules for predicting the future. It runs alongside the Arts Commission gallery's show 'Excavating Uranus, A Psalm for Nyota Uhura'.",
+    "neighbourhood": "Civic Center",
+    "cycle_minutes": 9,
+    "added": "2026-11-18"
   },
   {
     "id": "ybca-world-of-black-film-burning-an-illusion-free-sf-art-wee-f77931e2",
@@ -7376,6 +7605,44 @@
     "cycle_minutes": 45,
     "added": "2026-11-04",
     "id": "sf-city-guides-free-walking-tour-golden-gate-park-west-end-bd76448a"
+  },
+  {
+    "id": "fog-design-art-fair-saturday-with-fog-talks-d41caedb",
+    "title": "FOG Design+Art fair (Saturday, with FOG Talks)",
+    "start": "2027-01-23T11:00:00-08:00",
+    "end": "2027-01-23T19:00:00-08:00",
+    "venue": "Fort Mason Center for Arts & Culture (Festival + Gateway Pavilions)",
+    "address": "2 Marina Blvd, San Francisco, CA 94123",
+    "url": "https://www.fogfair.com/tickets",
+    "source": "venue:sfmoma",
+    "tags": [
+      "art",
+      "talk"
+    ],
+    "price": "$40 advance ($45 after Jan 20)",
+    "description": "SF Art Week's flagship fair of contemporary art and design galleries on the Fort Mason piers, benefiting SFMOMA. Saturday's ticket includes FOG Talks such as 'Only in San Francisco' with The Kitchen Sisters' Davia Nelson (1pm) and Marilyn Minter with SFMOMA's Janet Bishop (5pm).",
+    "neighbourhood": "Fort Mason",
+    "cycle_minutes": 22,
+    "added": "2026-11-18"
+  },
+  {
+    "id": "tea-dandelion-chocolate-pairing-class-tap-twice-tea-4a260c1e",
+    "title": "Tea & Dandelion Chocolate pairing class (Tap Twice Tea)",
+    "start": "2027-01-23T13:30:00-08:00",
+    "end": "2027-01-23T15:00:00-08:00",
+    "venue": "Tap Twice Tea",
+    "address": "2822 22nd St, San Francisco, CA 94110",
+    "url": "https://www.eventbrite.com/e/tea-chocolate-pairing-tickets-2004749329210",
+    "source": "aggregator:eventbrite",
+    "tags": [
+      "food",
+      "class"
+    ],
+    "price": "$70",
+    "description": "A 90-minute tasting of five categories of tea, each paired with single-origin chocolate from Dandelion, led by a tea sourcer who has worked in the trade since 2009. It covers how tea is made and how to brew it well.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 14,
+    "added": "2026-11-18"
   },
   {
     "title": "The Brothers Comatose",

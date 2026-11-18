@@ -1,5 +1,11 @@
 [
   {
+    "ran_at": "2026-11-18T06:45:00-08:00",
+    "added": 14,
+    "considered": 142,
+    "notes": "Part 1: no new feed imports; no moved feed events; pruned 12. Part 2: freshness check of 67 events 25 Nov-3 Dec - Make-Out Room 29 Nov lineup changed (updated); Cat's Corner 25 Nov now a Thanksgiving Eve party with dinner; 3 SFJAZZ pages unverifiable (Cloudflare). 14 adds targeting under-represented food/art/outdoors/workshops: Omnivore Books cookie talk, SCRAP cyanotype workshop, Parol Lantern Festival (YBCA), Castro Wine Walk, whisky tasting, Asian Art Museum mochi pounding + New Year bell-ringing, Lightscape, neon walking tour, notebook-making, Cartoonist Conspiracy jam, zine workshop, FOG Design+Art, tea + chocolate pairing. Tue 5 and Wed 13 Jan still thin."
+  },
+  {
     "ran_at": "2026-11-17T06:45:00-08:00",
     "added": 18,
     "considered": 175,

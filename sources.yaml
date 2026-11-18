@@ -470,6 +470,29 @@ listings:
     tags: [workshop, community]
     # 540 Laguna St; example event page above (calendar URL unknown) - find others via the Luma SF discover feed; verify via api.lu.ma/url?url=<slug>
 
+  - name: Omnivore Books on Food (Noe Valley; free food-book author talks)
+    url: https://omnivorebooks.myshopify.com/collections/upcoming-events/products.json
+    tags: [food, talk]
+    # dates render only on each product page (headless)
+  - name: Lightscape / Gardens of Golden Gate Park
+    url: https://gggp.org/lightscape/
+    tags: [outdoors, art]
+  - name: FOG Design+Art fair talks (Jan, Fort Mason)
+    url: https://www.fogfair.com/fog-talks
+    tags: [art, talk]
+  - name: Tap Twice Tea (tea + chocolate pairing classes)
+    url: "https://www.eventbrite.com/api/v3/organizers/29361236959/events/?status=live&order_by=start_asc&expand=venue"
+    tags: [food, class]
+  - name: SCRAP creative reuse workshops (Bayview)
+    url: "https://www.eventbrite.com/api/v3/organizers/11115470421/events/?status=live&order_by=start_asc&expand=venue"
+    tags: [workshop, art]
+  - name: SF Neon walking tours
+    url: "https://www.eventbrite.com/api/v3/organizers/12073637970/events/?status=live&order_by=start_asc&expand=venue"
+    tags: [outdoors, art]
+  - name: Cartoonist Conspiracy SF (2nd Tuesdays drawing jam, Finjan Qahwa)
+    url: https://cartoonistconspiracysf.wordpress.com
+    tags: [art, community]
+
 keywords:
   - "contact improvisation jam San Francisco"
   - "contact improv class Bay Area beginners"
