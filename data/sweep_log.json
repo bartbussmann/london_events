@@ -1,5 +1,11 @@
 [
   {
+    "ran_at": "2026-11-19T06:45:00-08:00",
+    "added": 20,
+    "considered": 60,
+    "notes": "Part 1: suppressed 2 AI Safety SF imports (weekday 11am rally; career fair/founders summit); pruned 7; no moved feed events. Part 2: 20 adds for 10 Feb-28 Mar, filling empty 17 Mar and 22-28 Mar: gigs at The Chapel x3 (Milk Carton Kids, St Patrick's Thin Lizzy tribute, Tom Verlaine tribute), Kilowatt x2, GAMH, Rickshaw Stop, Cafe du Nord, 4 Star; Omnivore Books talks x2; UICC Irish concert; NT Live; Exploratorium Pi Day; City Arts & Lectures (Alison Roman); Pollinated salon; contact improv x2, SalsaCrazy, Woodchopper's. Blocked: chineseparade.com (bot check)."
+  },
+  {
     "ran_at": "2026-11-18T06:45:00-08:00",
     "added": 14,
     "considered": 142,

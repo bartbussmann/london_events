@@ -493,6 +493,13 @@ listings:
     url: https://cartoonistconspiracysf.wordpress.com
     tags: [art, community]
 
+  - name: Kilowatt (16th St; original Noise Pop bar; DICE widget, headless "load more")
+    url: https://kilowattbar.com/events
+    tags: [music]
+  - name: Magic Theatre Pollinated salon (monthly, 4th Wednesdays, $65)
+    url: https://magictheatre.org/calendar
+    tags: [talk, community]
+
 keywords:
   - "contact improvisation jam San Francisco"
   - "contact improv class Bay Area beginners"

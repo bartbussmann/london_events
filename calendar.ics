@@ -6666,6 +6666,21 @@ URL:https://www.eventbrite.com/e/open-jazz-jam-the-shoe-tickets-1997613006
 LOCATION:The Lucky Horseshoe\, 453 Cortland Ave\, San Francisco\, CA 94110
 END:VEVENT
 BEGIN:VEVENT
+UID:the-milk-carton-kids-at-the-chapel-4e41ce7d@sf-events
+DTSTAMP:20270211T040000Z
+DTSTART:20270211T040000Z
+DTEND:20270211T060000Z
+SUMMARY:The Milk Carton Kids at The Chapel
+DESCRIPTION:The Milk Carton Kids are a Grammy-nominated folk duo known for
+  close two-part harmonies and intricate acoustic guitar. (((folkYEAH!))) 
+ presents them in the Chapel's converted mortuary hall\, with doors at 7pm
+ . All ages.\nPrice: $35 advance / $40 day of show (+fees)\nhttps://wl.see
+ tickets.us/event/the-milk-carton-kids/711607?afflky=TheChapel
+URL:https://wl.seetickets.us/event/the-milk-carton-kids/711607?afflky=TheC
+ hapel
+LOCATION:The Chapel\, 777 Valencia St\, San Francisco\, CA 94110
+END:VEVENT
+BEGIN:VEVENT
 UID:16th-annual-salsa-rueda-festival-07480f94@sf-events
 DTSTAMP:20270212T020000Z
 DTSTART:20270212T020000Z
@@ -6680,6 +6695,24 @@ URL:https://www.eventbrite.com/e/the-16th-annual-salsa-rueda-festival-in-s
  an-francisco-feb-11-feb-14-2027-registration-2000233871354
 LOCATION:Grand Hyatt San Francisco\, 345 Stockton St\, San Francisco\, CA 
  94108
+END:VEVENT
+BEGIN:VEVENT
+UID:grace-hwang-lynch-how-to-cook-rice-omnivore-books-author-tal-c7067d69@
+ sf-events
+DTSTAMP:20270212T023000Z
+DTSTART:20270212T023000Z
+DTEND:20270212T043000Z
+SUMMARY:Grace Hwang Lynch: How to Cook Rice (Omnivore Books author talk)
+DESCRIPTION:Bay Area food writer Grace Hwang Lynch talks about her book on
+  Asian American food and the care and feeding of an immigrant family\, jo
+ ined by Taiwanese American physician-chef Linda Shiue. It's a free talk i
+ n Noe Valley's food bookshop.\nPrice: Free\nhttps://omnivorebooks.myshopi
+ fy.com/products/grace-hwang-lynch-author-talk-how-to-cook-rice-on-the-car
+ e-and-feeding-of-an-immigrant-family
+URL:https://omnivorebooks.myshopify.com/products/grace-hwang-lynch-author-
+ talk-how-to-cook-rice-on-the-care-and-feeding-of-an-immigrant-family
+LOCATION:Omnivore Books on Food\, 3885A Cesar Chavez St\, San Francisco\, 
+ CA 94131
 END:VEVENT
 BEGIN:VEVENT
 UID:milonga-malevaje-thursday-tango-at-the-verdi-club-991bf8af@sf-events
@@ -7105,6 +7138,22 @@ URL:https://www.theindependentsf.com/tm-event/asaf-avidan/
 LOCATION:The Independent\, 628 Divisadero St\, San Francisco\, CA 94117
 END:VEVENT
 BEGIN:VEVENT
+UID:tommy-and-saundra-o-sullivan-in-concert-uicc-fe216e1e@sf-events
+DTSTAMP:20270227T033000Z
+DTSTART:20270227T033000Z
+DTEND:20270227T050000Z
+SUMMARY:Tommy and Saundra O'Sullivan in concert (UICC)
+DESCRIPTION:An evening concert of Irish music with Tommy and Saundra O'Sul
+ livan at the United Irish Cultural Center\, billed as a warm-up for the S
+ t Patrick's season. It's a good way into SF's Irish community.\nPrice: $3
+ 3.85-$39.19\nhttps://www.eventbrite.com/e/tommy-and-saundra-osullivan-in-
+ concert-tickets-2004397679416
+URL:https://www.eventbrite.com/e/tommy-and-saundra-osullivan-in-concert-ti
+ ckets-2004397679416
+LOCATION:United Irish Cultural Center\, 2700 45th Ave\, San Francisco\, CA
+  94116
+END:VEVENT
+BEGIN:VEVENT
 UID:here-we-go-magic-15th-anniversary-of-a-different-ship-noise--f0a2a7e3@
  sf-events
 DTSTAMP:20270227T040000Z
@@ -7291,6 +7340,19 @@ LOCATION:Commonwealth Club World Affairs\, 110 The Embarcadero\, San Franc
  isco\, CA 94105
 END:VEVENT
 BEGIN:VEVENT
+UID:bonny-doon-at-kilowatt-64257200@sf-events
+DTSTAMP:20270306T030000Z
+DTSTART:20270306T030000Z
+DTEND:20270306T050000Z
+SUMMARY:Bonny Doon at Kilowatt
+DESCRIPTION:Detroit band Bonny Doon play hazy\, laid-back indie folk-rock.
+  The gig is in the stage room at Kilowatt\, the 16th St bar that was the 
+ original home of Noise Pop. 21+.\nPrice: $24.72\nhttps://link.dice.fm/c8f
+ fff841acc?pid=ff10e59d
+URL:https://link.dice.fm/c8ffff841acc?pid=ff10e59d
+LOCATION:Kilowatt\, 3160 16th St\, San Francisco\, CA 94103
+END:VEVENT
+BEGIN:VEVENT
 UID:fog-city-improv-25261c61@sf-events
 DTSTAMP:20270306T040000Z
 DTSTART:20270306T040000Z
@@ -7316,6 +7378,19 @@ URL:https://www.eventbrite.com/e/required-taste-friends-tickets-2004804448
  072
 LOCATION:Endgames Improv (ETC Prime)\, 2965 Mission St\, San Francisco\, C
  A 94110
+END:VEVENT
+BEGIN:VEVENT
+UID:crooked-fingers-and-jim-ward-at-kilowatt-106386dc@sf-events
+DTSTAMP:20270307T030000Z
+DTSTART:20270307T030000Z
+DTEND:20270307T050000Z
+SUMMARY:Crooked Fingers and Jim Ward at Kilowatt
+DESCRIPTION:Eric Bachmann's Crooked Fingers (indie folk-rock\, ex-Archers 
+ of Loaf) share a bill with Jim Ward of At the Drive-In and Sparta. It's a
+  small-room show at the Mission's Kilowatt. 21+.\nPrice: $24.72\nhttps://
+ link.dice.fm/L67a0ba36580?pid=ff10e59d
+URL:https://link.dice.fm/L67a0ba36580?pid=ff10e59d
+LOCATION:Kilowatt\, 3160 16th St\, San Francisco\, CA 94103
 END:VEVENT
 BEGIN:VEVENT
 UID:sf-salsa-social-beginner-class-salsa-mambo-dancing-79e3825b@sf-events
@@ -7346,6 +7421,22 @@ DESCRIPTION:Monday salsa classes for all levels\, then salsa and bachata s
 URL:https://www.eventbrite.com/e/salsa-dance-classes-and-salsa-and-bachata
  -dancing-salsacrazy-mondays-tickets-1981014394381
 LOCATION:Neck of the Woods\, 406 Clement St\, San Francisco\, CA 94118
+END:VEVENT
+BEGIN:VEVENT
+UID:national-theatre-live-the-motive-and-the-cue-vogue-theatre-d292c1e6@sf
+ -events
+DTSTAMP:20270309T030000Z
+DTSTART:20270309T030000Z
+DTEND:20270309T050000Z
+SUMMARY:National Theatre Live: The Motive and the Cue (Vogue Theatre)
+DESCRIPTION:A screening of Sam Mendes's Olivier-winning London production\
+ , with Mark Gatiss as John Gielgud directing Johnny Flynn's Richard Burto
+ n in a 1964 Broadway Hamlet. Jack Thorne wrote it\, and CinemaSF passes a
+ re accepted.\nhttps://www.voguemovies.com/calendar-of-events/national-the
+ atre-live-the-motive-and-the-cue-march-8
+URL:https://www.voguemovies.com/calendar-of-events/national-theatre-live-t
+ he-motive-and-the-cue-march-8
+LOCATION:Vogue Theatre\, 3290 Sacramento St\, San Francisco\, CA 94115
 END:VEVENT
 BEGIN:VEVENT
 UID:happy-endings-writers-showdown-at-the-make-out-room-9dc29a4e@sf-events
@@ -7438,6 +7529,21 @@ LOCATION:A.C.T. Strand Theater (The Rueff)\, 1127 Market St\, San Francisc
  o\, CA 94103
 END:VEVENT
 BEGIN:VEVENT
+UID:pi-day-at-the-exploratorium-its-birthplace-e32afa7f@sf-events
+DTSTAMP:20270314T180000Z
+DTSTART:20270314T180000Z
+DTEND:20270314T233000Z
+SUMMARY:Pi Day at the Exploratorium (its birthplace)
+DESCRIPTION:Pi Day was invented at the Exploratorium in 1988\, and the mus
+ eum still celebrates it with a procession around the Pi Shrine\, slices o
+ f pie and maths exhibits. It's a quirky slice of SF science culture on th
+ e morning the clocks go forward.\nPrice: Free with museum admission\nhttp
+ s://www.exploratorium.edu/visit/calendar/pi-day
+URL:https://www.exploratorium.edu/visit/calendar/pi-day
+LOCATION:Exploratorium (Pier 15)\, Pier 15\, The Embarcadero at Green St\,
+  San Francisco\, CA 94111
+END:VEVENT
+BEGIN:VEVENT
 UID:hello-bachata-sunday-at-the-verdi-club-24eae7d6@sf-events
 DTSTAMP:20270314T220000Z
 DTSTART:20270314T220000Z
@@ -7448,6 +7554,19 @@ DESCRIPTION:A daytime bachata social on two floors of the Verdi Club\, ove
  tps://www.verdiclub.net/events/hello-bachata-11-2/2027-03-14/
 URL:https://www.verdiclub.net/events/hello-bachata-11-2/2027-03-14/
 LOCATION:Verdi Club\, 2424 Mariposa St\, San Francisco\, CA 94110
+END:VEVENT
+BEGIN:VEVENT
+UID:contact-improvisation-class-jam-at-the-castro-room-4a0bd03d@sf-events
+DTSTAMP:20270316T024500Z
+DTSTART:20270316T024500Z
+DTEND:20270316T051500Z
+SUMMARY:Contact Improvisation class + jam at The Castro Room
+DESCRIPTION:SF's 1st and 3rd Monday contact improv night: an hour's beginn
+ er-friendly class from 7:45pm flows into a jam with live music until 10:1
+ 5pm. Teachers rotate\, and the SF CI WhatsApp group posts who's on.\nhttp
+ s://bay.dance/events/contact_improv/
+URL:https://bay.dance/events/contact_improv/
+LOCATION:The Castro Room\, 97 Collingwood St\, San Francisco\, CA 94114
 END:VEVENT
 BEGIN:VEVENT
 UID:free-bluegrass-jam-concert-at-blondie-s-c93e09ba@sf-events
@@ -7490,6 +7609,22 @@ URL:https://wl.eventim.us/event/bess-atwell/708223?afflky=RickshawStop
 LOCATION:Rickshaw Stop\, 155 Fell St\, San Francisco\, CA 94102
 END:VEVENT
 BEGIN:VEVENT
+UID:st-patrick-s-day-the-rockers-thin-lizzy-tribute-at-the-chape-a95a0096@
+ sf-events
+DTSTAMP:20270318T030000Z
+DTSTART:20270318T030000Z
+DTEND:20270318T050000Z
+SUMMARY:St Patrick's Day: The Rockers (Thin Lizzy tribute) at The Chapel
+DESCRIPTION:On St Patrick's night\, a Bay Area band plays the songs of Ire
+ land's great rock band\, from the classics to the deep cuts\, with Coffin
+  Hunters supporting. Doors at 7pm\, all ages.\nPrice: $20 advance / $25 d
+ ay of show (+fees)\nhttps://wl.seetickets.us/event/the-rockers-thin-lizzy
+ -tribute/709042?afflky=TheChapel
+URL:https://wl.seetickets.us/event/the-rockers-thin-lizzy-tribute/709042?a
+ fflky=TheChapel
+LOCATION:The Chapel\, 777 Valencia St\, San Francisco\, CA 94110
+END:VEVENT
+BEGIN:VEVENT
 UID:jake-lambert-the-sunshine-kid-a-c-t-strand-5f6c712e@sf-events
 DTSTAMP:20270319T020000Z
 DTSTART:20270319T020000Z
@@ -7530,6 +7665,23 @@ URL:https://www.eventbrite.com/e/bachata-lab-tickets-1543049154559
 LOCATION:Bachata Lab\, 1830 17th St\, San Francisco\, CA 94103
 END:VEVENT
 BEGIN:VEVENT
+UID:the-music-of-tom-verlaine-jimmy-rip-jay-dee-daugherty-jackso-45827a66@
+ sf-events
+DTSTAMP:20270320T040000Z
+DTSTART:20270320T040000Z
+DTEND:20270320T060000Z
+SUMMARY:The Music of Tom Verlaine (Jimmy Rip\, Jay Dee Daugherty\, Jackson
+  Smith\, Chris Lightcap)
+DESCRIPTION:Longtime collaborators from Television\, the Tom Verlaine Band
+  and the Patti Smith Group play songs from across Verlaine's career. It's
+  a tribute from people who played them with him. Doors at 8pm.\nPrice: $2
+ 5 advance / $30 day of show (+fees)\nhttps://wl.seetickets.us/event/the-m
+ usic-of-tom-verlaine/707964?afflky=TheChapel
+URL:https://wl.seetickets.us/event/the-music-of-tom-verlaine/707964?afflky
+ =TheChapel
+LOCATION:The Chapel\, 777 Valencia St\, San Francisco\, CA 94110
+END:VEVENT
+BEGIN:VEVENT
 UID:troilus-and-cressida-opening-night-a-c-t-out-tour-1e677929@sf-events
 DTSTAMP:20270321T020000Z
 DTSTART:20270321T020000Z
@@ -7557,5 +7709,152 @@ DESCRIPTION:iHeartMambo's not-for-profit salsa social: beginner and interm
  vents/mucha-salsa-5-2/2027-03-21/
 URL:https://www.verdiclub.net/events/mucha-salsa-5-2/2027-03-21/
 LOCATION:Verdi Club\, 2424 Mariposa St\, San Francisco\, CA 94110
+END:VEVENT
+BEGIN:VEVENT
+UID:salsacrazy-mondays-salsa-lesson-salsa-bachata-dancing-28a005bc@sf-even
+ ts
+DTSTAMP:20270323T013000Z
+DTSTART:20270323T013000Z
+DTEND:20270323T063000Z
+SUMMARY:SalsaCrazy Mondays: salsa lesson + salsa/bachata dancing
+DESCRIPTION:Monday salsa night on Clement St: a beginner salsa lesson (no 
+ partner needed)\, then salsa and bachata social dancing until late. 21+.\
+ nPrice: $10-$40\nhttps://www.eventbrite.com/e/salsa-dance-classes-and-sal
+ sa-and-bachata-dancing-salsacrazy-mondays-tickets-1981014396387
+URL:https://www.eventbrite.com/e/salsa-dance-classes-and-salsa-and-bachata
+ -dancing-salsacrazy-mondays-tickets-1981014396387
+LOCATION:Neck of the Woods\, 406 Clement St\, San Francisco\, CA 94118
+END:VEVENT
+BEGIN:VEVENT
+UID:city-arts-lectures-alison-roman-1637f771@sf-events
+DTSTAMP:20270323T023000Z
+DTSTART:20270323T023000Z
+DTEND:20270323T043000Z
+SUMMARY:City Arts & Lectures: Alison Roman
+DESCRIPTION:Cook and writer Alison Roman talks about turning internet food
+  culture into a career and real-world places\, the line between recipe an
+ d narrative writing\, and keeping a creative life going offline. It's an 
+ onstage conversation at City Arts & Lectures.\nhttps://www.cityarts.net/e
+ vent/alison-roman-food-life-other-stories/
+URL:https://www.cityarts.net/event/alison-roman-food-life-other-stories/
+LOCATION:Sydney Goldstein Theater\, 275 Hayes St\, San Francisco\, CA 9410
+ 2
+END:VEVENT
+BEGIN:VEVENT
+UID:woodchopper-s-ball-live-band-swing-night-5f298963@sf-events
+DTSTAMP:20270324T040000Z
+DTSTART:20270324T040000Z
+DTEND:20270324T063000Z
+SUMMARY:Woodchopper's Ball: live-band swing night
+DESCRIPTION:The Verdi Club's weekly Tuesday swing dance with a different l
+ ive band each week. A drop-in beginner lesson from 9:00 to 9:15pm is incl
+ uded\, and no partner is needed.\nPrice: $20\nhttps://www.verdiclub.net/e
+ vents/the-woodchoppers-ball-42-3-2/2027-03-23/
+URL:https://www.verdiclub.net/events/the-woodchoppers-ball-42-3-2/2027-03-
+ 23/
+LOCATION:Verdi Club\, 2424 Mariposa St\, San Francisco\, CA 94110
+END:VEVENT
+BEGIN:VEVENT
+UID:pollinated-interdisciplinary-salon-at-magic-theatre-463d4d9e@sf-events
+DTSTAMP:20270325T020000Z
+DTSTART:20270325T020000Z
+DTEND:20270325T043000Z
+SUMMARY:Pollinated: interdisciplinary salon at Magic Theatre
+DESCRIPTION:Magic Theatre's salon series brings 75-100 guests together for
+  cocktails\, a short live artistic piece and a conversation among four or
+  five unlikely voices\, such as an AI researcher and a filmmaker. It's bu
+ ilt for mixing with people outside your usual circle. The listing doesn't
+  name the room\, so check your ticket.\nPrice: $65\nhttps://magictheatre.
+ org/calendar/pollinated-9tbg2-2wfzt
+URL:https://magictheatre.org/calendar/pollinated-9tbg2-2wfzt
+LOCATION:Magic Theatre (exact venue on ticket)
+END:VEVENT
+BEGIN:VEVENT
+UID:charlotte-adig-ry-bolis-pupul-at-great-american-music-hall-2de18985@sf
+ -events
+DTSTAMP:20270325T030000Z
+DTSTART:20270325T030000Z
+DTEND:20270325T050000Z
+SUMMARY:Charlotte Adigéry & Bolis Pupul at Great American Music Hall
+DESCRIPTION:The Belgian duo play witty\, danceable electro-pop on their Ma
+ inland Madinina tour\, in GAMH's ornate old ballroom. Doors at 7pm\, all 
+ ages.\nPrice: $30 advance (+fees)\nhttps://wl.seetickets.us/event/charlot
+ te-adigery-and-bolis-pupul/709845?afflky=GreatAmericanMusicHall
+URL:https://wl.seetickets.us/event/charlotte-adigery-and-bolis-pupul/70984
+ 5?afflky=GreatAmericanMusicHall
+LOCATION:Great American Music Hall\, 859 O'Farrell St\, San Francisco\, CA
+  94109
+END:VEVENT
+BEGIN:VEVENT
+UID:darra-goldstein-cultured-omnivore-books-author-talk-2fa674f4@sf-events
+DTSTAMP:20270326T013000Z
+DTSTART:20270326T013000Z
+DTEND:20270326T033000Z
+SUMMARY:Darra Goldstein: Cultured (Omnivore Books author talk)
+DESCRIPTION:Gastronomica founding editor Darra Goldstein presents Cultured
+ \, a global guide to fermenting\, pickling and preserving\, from quick pi
+ ckles to kimchi and preserved lemons. Free at Noe Valley's food bookshop.
+ \nPrice: Free\nhttps://omnivorebooks.myshopify.com/products/darra-goldste
+ in-author-event-cultured-a-global-guide-to-fermenting-and-preserving-frui
+ t-vegetables-dairy-and-grains-with-over-150-recipes
+URL:https://omnivorebooks.myshopify.com/products/darra-goldstein-author-ev
+ ent-cultured-a-global-guide-to-fermenting-and-preserving-fruit-vegetables
+ -dairy-and-grains-with-over-150-recipes
+LOCATION:Omnivore Books on Food\, 3885A Cesar Chavez St\, San Francisco\, 
+ CA 94131
+END:VEVENT
+BEGIN:VEVENT
+UID:fenne-lily-at-rickshaw-stop-b48b3e49@sf-events
+DTSTAMP:20270326T030000Z
+DTSTART:20270326T030000Z
+DTEND:20270326T050000Z
+SUMMARY:Fenne Lily at Rickshaw Stop
+DESCRIPTION:English singer-songwriter Fenne Lily plays hushed\, wry indie 
+ folk. This is a headline show in the Rickshaw Stop's small room. Doors at
+  7pm\, all ages.\nPrice: $22 advance / $25 door (+fees)\nhttps://wl.seeti
+ ckets.us/event/fenne-lily/708757?afflky=RickshawStop
+URL:https://wl.seetickets.us/event/fenne-lily/708757?afflky=RickshawStop
+LOCATION:Rickshaw Stop\, 155 Fell St\, San Francisco\, CA 94102
+END:VEVENT
+BEGIN:VEVENT
+UID:wild-pink-with-truth-club-at-cafe-du-nord-64118495@sf-events
+DTSTAMP:20270327T040000Z
+DTSTART:20270327T040000Z
+DTEND:20270327T060000Z
+SUMMARY:Wild Pink with Truth Club at Cafe du Nord
+DESCRIPTION:(((folkYEAH!))) presents NYC band Wild Pink\, whose expansive\
+ , novelistic indie rock sits between Americana and heartland rock. They p
+ lay the basement supper-club room at Cafe du Nord. Doors at 8pm\, 21+.\nh
+ ttps://cafedunord.com/shows/2027-03-26-wild-pink
+URL:https://cafedunord.com/shows/2027-03-26-wild-pink
+LOCATION:Cafe du Nord\, 2170 Market St\, San Francisco\, CA 94114
+END:VEVENT
+BEGIN:VEVENT
+UID:thomas-dollbaum-live-at-the-4-star-theater-94b7789a@sf-events
+DTSTAMP:20270328T030000Z
+DTSTART:20270328T030000Z
+DTEND:20270328T050000Z
+SUMMARY:Thomas Dollbaum live at the 4 Star Theater
+DESCRIPTION:New Orleans-based alt-country and indie-rock storyteller Thoma
+ s Dollbaum plays songs from Birds of Paradise\, cut in four days in Missi
+ ssippi with a band that included Jake (MJ) Lenderman. It's an intimate Th
+ rowin' Bo's show in a neighbourhood cinema. Doors at 7pm.\nhttps://www.4-
+ star-movies.com/calendar-of-events/live-music-thomas-dollbaum-2027
+URL:https://www.4-star-movies.com/calendar-of-events/live-music-thomas-dol
+ lbaum-2027
+LOCATION:4 Star Theater\, 2200 Clement St\, San Francisco\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:contact-improvisation-class-with-dai-wei-at-odc-93cb0f6c@sf-events
+DTSTAMP:20270328T201500Z
+DTSTART:20270328T201500Z
+DTEND:20270328T220000Z
+SUMMARY:Contact Improvisation class with Dai & Wei at ODC
+DESCRIPTION:A Sunday-afternoon contact improvisation class at ODC in the M
+ ission\, taught by Daiane Lopes da Silva and Weidong Yang. It's a relaxed
+ \, beginner-friendly way into SF's CI scene.\nhttps://bay.dance/events/co
+ ntact_improv/
+URL:https://bay.dance/events/contact_improv/
+LOCATION:ODC Dance Commons\, 351 Shotwell St\, San Francisco\, CA 94110
 END:VEVENT
 END:VCALENDAR

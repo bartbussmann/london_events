@@ -8361,6 +8361,24 @@
     "added": "2026-11-11"
   },
   {
+    "id": "the-milk-carton-kids-at-the-chapel-4e41ce7d",
+    "title": "The Milk Carton Kids at The Chapel",
+    "start": "2027-02-10T20:00:00-08:00",
+    "end": null,
+    "venue": "The Chapel",
+    "address": "777 Valencia St, San Francisco, CA 94110",
+    "url": "https://wl.seetickets.us/event/the-milk-carton-kids/711607?afflky=TheChapel",
+    "source": "venue:the-chapel",
+    "tags": [
+      "music"
+    ],
+    "price": "$35 advance / $40 day of show (+fees)",
+    "description": "The Milk Carton Kids are a Grammy-nominated folk duo known for close two-part harmonies and intricate acoustic guitar. (((folkYEAH!))) presents them in the Chapel's converted mortuary hall, with doors at 7pm. All ages.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 13,
+    "added": "2026-11-19"
+  },
+  {
     "title": "16th Annual Salsa Rueda Festival",
     "start": "2027-02-11T18:00:00-08:00",
     "end": "2027-02-14T23:59:00-08:00",
@@ -8379,6 +8397,25 @@
     "cycle_minutes": 7,
     "added": "2026-11-06",
     "id": "16th-annual-salsa-rueda-festival-07480f94"
+  },
+  {
+    "id": "grace-hwang-lynch-how-to-cook-rice-omnivore-books-author-tal-c7067d69",
+    "title": "Grace Hwang Lynch: How to Cook Rice (Omnivore Books author talk)",
+    "start": "2027-02-11T18:30:00-08:00",
+    "end": null,
+    "venue": "Omnivore Books on Food",
+    "address": "3885A Cesar Chavez St, San Francisco, CA 94131",
+    "url": "https://omnivorebooks.myshopify.com/products/grace-hwang-lynch-author-talk-how-to-cook-rice-on-the-care-and-feeding-of-an-immigrant-family",
+    "source": "venue:omnivore",
+    "tags": [
+      "food",
+      "talk"
+    ],
+    "price": "Free",
+    "description": "Bay Area food writer Grace Hwang Lynch talks about her book on Asian American food and the care and feeding of an immigrant family, joined by Taiwanese American physician-chef Linda Shiue. It's a free talk in Noe Valley's food bookshop.",
+    "neighbourhood": "Noe Valley",
+    "cycle_minutes": 22,
+    "added": "2026-11-19"
   },
   {
     "title": "Milonga Malevaje (Thursday tango at the Verdi Club)",
@@ -8919,6 +8956,25 @@
     "id": "asaf-avidan-into-the-great-abyss-solo-tour-9198d3b4"
   },
   {
+    "id": "tommy-and-saundra-o-sullivan-in-concert-uicc-fe216e1e",
+    "title": "Tommy and Saundra O'Sullivan in concert (UICC)",
+    "start": "2027-02-26T19:30:00-08:00",
+    "end": "2027-02-26T21:00:00-08:00",
+    "venue": "United Irish Cultural Center",
+    "address": "2700 45th Ave, San Francisco, CA 94116",
+    "url": "https://www.eventbrite.com/e/tommy-and-saundra-osullivan-in-concert-tickets-2004397679416",
+    "source": "aggregator:eventbrite",
+    "tags": [
+      "music",
+      "community"
+    ],
+    "price": "$33.85-$39.19",
+    "description": "An evening concert of Irish music with Tommy and Saundra O'Sullivan at the United Irish Cultural Center, billed as a warm-up for the St Patrick's season. It's a good way into SF's Irish community.",
+    "neighbourhood": "Outer Sunset",
+    "cycle_minutes": 45,
+    "added": "2026-11-19"
+  },
+  {
     "title": "Here We Go Magic: 15th Anniversary of A Different Ship (Noise Pop 2027)",
     "start": "2027-02-26T20:00:00-08:00",
     "end": null,
@@ -9158,6 +9214,24 @@
     "added": "2026-11-14"
   },
   {
+    "id": "bonny-doon-at-kilowatt-64257200",
+    "title": "Bonny Doon at Kilowatt",
+    "start": "2027-03-05T19:00:00-08:00",
+    "end": null,
+    "venue": "Kilowatt",
+    "address": "3160 16th St, San Francisco, CA 94103",
+    "url": "https://link.dice.fm/c8ffff841acc?pid=ff10e59d",
+    "source": "venue:kilowatt",
+    "tags": [
+      "music"
+    ],
+    "price": "$24.72",
+    "description": "Detroit band Bonny Doon play hazy, laid-back indie folk-rock. The gig is in the stage room at Kilowatt, the 16th St bar that was the original home of Noise Pop. 21+.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 12,
+    "added": "2026-11-19"
+  },
+  {
     "id": "fog-city-improv-25261c61",
     "title": "Fog City Improv",
     "start": "2027-03-05T20:00:00-08:00",
@@ -9196,6 +9270,24 @@
     "added": "2026-11-15"
   },
   {
+    "id": "crooked-fingers-and-jim-ward-at-kilowatt-106386dc",
+    "title": "Crooked Fingers and Jim Ward at Kilowatt",
+    "start": "2027-03-06T19:00:00-08:00",
+    "end": null,
+    "venue": "Kilowatt",
+    "address": "3160 16th St, San Francisco, CA 94103",
+    "url": "https://link.dice.fm/L67a0ba36580?pid=ff10e59d",
+    "source": "venue:kilowatt",
+    "tags": [
+      "music"
+    ],
+    "price": "$24.72",
+    "description": "Eric Bachmann's Crooked Fingers (indie folk-rock, ex-Archers of Loaf) share a bill with Jim Ward of At the Drive-In and Sparta. It's a small-room show at the Mission's Kilowatt. 21+.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 12,
+    "added": "2026-11-19"
+  },
+  {
     "id": "sf-salsa-social-beginner-class-salsa-mambo-dancing-79e3825b",
     "title": "SF Salsa Social: beginner class + salsa & mambo dancing",
     "start": "2027-03-07T19:00:00-08:00",
@@ -9232,6 +9324,25 @@
     "neighbourhood": "Inner Richmond",
     "cycle_minutes": 27,
     "added": "2026-11-17"
+  },
+  {
+    "id": "national-theatre-live-the-motive-and-the-cue-vogue-theatre-d292c1e6",
+    "title": "National Theatre Live: The Motive and the Cue (Vogue Theatre)",
+    "start": "2027-03-08T19:00:00-08:00",
+    "end": null,
+    "venue": "Vogue Theatre",
+    "address": "3290 Sacramento St, San Francisco, CA 94115",
+    "url": "https://www.voguemovies.com/calendar-of-events/national-theatre-live-the-motive-and-the-cue-march-8",
+    "source": "venue:cinemasf-vogue",
+    "tags": [
+      "theatre",
+      "film"
+    ],
+    "price": null,
+    "description": "A screening of Sam Mendes's Olivier-winning London production, with Mark Gatiss as John Gielgud directing Johnny Flynn's Richard Burton in a 1964 Broadway Hamlet. Jack Thorne wrote it, and CinemaSF passes are accepted.",
+    "neighbourhood": "Presidio Heights",
+    "cycle_minutes": 25,
+    "added": "2026-11-19"
   },
   {
     "id": "happy-endings-writers-showdown-at-the-make-out-room-9dc29a4e",
@@ -9344,6 +9455,25 @@
     "added": "2026-11-16"
   },
   {
+    "id": "pi-day-at-the-exploratorium-its-birthplace-e32afa7f",
+    "title": "Pi Day at the Exploratorium (its birthplace)",
+    "start": "2027-03-14T11:00:00-07:00",
+    "end": "2027-03-14T16:30:00-07:00",
+    "venue": "Exploratorium (Pier 15)",
+    "address": "Pier 15, The Embarcadero at Green St, San Francisco, CA 94111",
+    "url": "https://www.exploratorium.edu/visit/calendar/pi-day",
+    "source": "venue:exploratorium",
+    "tags": [
+      "community",
+      "talk"
+    ],
+    "price": "Free with museum admission",
+    "description": "Pi Day was invented at the Exploratorium in 1988, and the museum still celebrates it with a procession around the Pi Shrine, slices of pie and maths exhibits. It's a quirky slice of SF science culture on the morning the clocks go forward.",
+    "neighbourhood": "Embarcadero",
+    "cycle_minutes": 10,
+    "added": "2026-11-19"
+  },
+  {
     "id": "hello-bachata-sunday-at-the-verdi-club-24eae7d6",
     "title": "Hello! Bachata Sunday at the Verdi Club",
     "start": "2027-03-14T15:00:00-07:00",
@@ -9360,6 +9490,25 @@
     "neighbourhood": "Mission",
     "cycle_minutes": 13,
     "added": "2026-11-16"
+  },
+  {
+    "id": "contact-improvisation-class-jam-at-the-castro-room-4a0bd03d",
+    "title": "Contact Improvisation class + jam at The Castro Room",
+    "start": "2027-03-15T19:45:00-07:00",
+    "end": "2027-03-15T22:15:00-07:00",
+    "venue": "The Castro Room",
+    "address": "97 Collingwood St, San Francisco, CA 94114",
+    "url": "https://bay.dance/events/contact_improv/",
+    "source": "aggregator:bay.dance",
+    "tags": [
+      "dance",
+      "class"
+    ],
+    "price": null,
+    "description": "SF's 1st and 3rd Monday contact improv night: an hour's beginner-friendly class from 7:45pm flows into a jam with live music until 10:15pm. Teachers rotate, and the SF CI WhatsApp group posts who's on.",
+    "neighbourhood": "Castro",
+    "cycle_minutes": 17,
+    "added": "2026-11-19"
   },
   {
     "id": "free-bluegrass-jam-concert-at-blondie-s-c93e09ba",
@@ -9417,6 +9566,24 @@
     "added": "2026-11-16"
   },
   {
+    "id": "st-patrick-s-day-the-rockers-thin-lizzy-tribute-at-the-chape-a95a0096",
+    "title": "St Patrick's Day: The Rockers (Thin Lizzy tribute) at The Chapel",
+    "start": "2027-03-17T20:00:00-07:00",
+    "end": null,
+    "venue": "The Chapel",
+    "address": "777 Valencia St, San Francisco, CA 94110",
+    "url": "https://wl.seetickets.us/event/the-rockers-thin-lizzy-tribute/709042?afflky=TheChapel",
+    "source": "venue:the-chapel",
+    "tags": [
+      "music"
+    ],
+    "price": "$20 advance / $25 day of show (+fees)",
+    "description": "On St Patrick's night, a Bay Area band plays the songs of Ireland's great rock band, from the classics to the deep cuts, with Coffin Hunters supporting. Doors at 7pm, all ages.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 13,
+    "added": "2026-11-19"
+  },
+  {
     "id": "jake-lambert-the-sunshine-kid-a-c-t-strand-5f6c712e",
     "title": "Jake Lambert: The Sunshine Kid (A.C.T. Strand)",
     "start": "2027-03-18T19:00:00-07:00",
@@ -9472,6 +9639,24 @@
     "added": "2026-11-17"
   },
   {
+    "id": "the-music-of-tom-verlaine-jimmy-rip-jay-dee-daugherty-jackso-45827a66",
+    "title": "The Music of Tom Verlaine (Jimmy Rip, Jay Dee Daugherty, Jackson Smith, Chris Lightcap)",
+    "start": "2027-03-19T21:00:00-07:00",
+    "end": null,
+    "venue": "The Chapel",
+    "address": "777 Valencia St, San Francisco, CA 94110",
+    "url": "https://wl.seetickets.us/event/the-music-of-tom-verlaine/707964?afflky=TheChapel",
+    "source": "venue:the-chapel",
+    "tags": [
+      "music"
+    ],
+    "price": "$25 advance / $30 day of show (+fees)",
+    "description": "Longtime collaborators from Television, the Tom Verlaine Band and the Patti Smith Group play songs from across Verlaine's career. It's a tribute from people who played them with him. Doors at 8pm.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 13,
+    "added": "2026-11-19"
+  },
+  {
     "id": "troilus-and-cressida-opening-night-a-c-t-out-tour-1e677929",
     "title": "Troilus and Cressida: opening night (A.C.T. OUT Tour)",
     "start": "2027-03-20T19:00:00-07:00",
@@ -9507,5 +9692,192 @@
     "neighbourhood": "Mission",
     "cycle_minutes": 13,
     "added": "2026-11-17"
+  },
+  {
+    "id": "salsacrazy-mondays-salsa-lesson-salsa-bachata-dancing-28a005bc",
+    "title": "SalsaCrazy Mondays: salsa lesson + salsa/bachata dancing",
+    "start": "2027-03-22T18:30:00-07:00",
+    "end": "2027-03-22T23:30:00-07:00",
+    "venue": "Neck of the Woods",
+    "address": "406 Clement St, San Francisco, CA 94118",
+    "url": "https://www.eventbrite.com/e/salsa-dance-classes-and-salsa-and-bachata-dancing-salsacrazy-mondays-tickets-1981014396387",
+    "source": "aggregator:eventbrite",
+    "tags": [
+      "dance",
+      "class"
+    ],
+    "price": "$10-$40",
+    "description": "Monday salsa night on Clement St: a beginner salsa lesson (no partner needed), then salsa and bachata social dancing until late. 21+.",
+    "neighbourhood": "Inner Richmond",
+    "cycle_minutes": 27,
+    "added": "2026-11-19"
+  },
+  {
+    "id": "city-arts-lectures-alison-roman-1637f771",
+    "title": "City Arts & Lectures: Alison Roman",
+    "start": "2027-03-22T19:30:00-07:00",
+    "end": null,
+    "venue": "Sydney Goldstein Theater",
+    "address": "275 Hayes St, San Francisco, CA 94102",
+    "url": "https://www.cityarts.net/event/alison-roman-food-life-other-stories/",
+    "source": "venue:cityarts",
+    "tags": [
+      "talk",
+      "food"
+    ],
+    "price": null,
+    "description": "Cook and writer Alison Roman talks about turning internet food culture into a career and real-world places, the line between recipe and narrative writing, and keeping a creative life going offline. It's an onstage conversation at City Arts & Lectures.",
+    "neighbourhood": "Civic Center",
+    "cycle_minutes": 9,
+    "added": "2026-11-19"
+  },
+  {
+    "id": "woodchopper-s-ball-live-band-swing-night-5f298963",
+    "title": "Woodchopper's Ball: live-band swing night",
+    "start": "2027-03-23T21:00:00-07:00",
+    "end": "2027-03-23T23:30:00-07:00",
+    "venue": "Verdi Club",
+    "address": "2424 Mariposa St, San Francisco, CA 94110",
+    "url": "https://www.verdiclub.net/events/the-woodchoppers-ball-42-3-2/2027-03-23/",
+    "source": "venue:verdi-club",
+    "tags": [
+      "dance",
+      "music"
+    ],
+    "price": "$20",
+    "description": "The Verdi Club's weekly Tuesday swing dance with a different live band each week. A drop-in beginner lesson from 9:00 to 9:15pm is included, and no partner is needed.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 13,
+    "added": "2026-11-19"
+  },
+  {
+    "id": "pollinated-interdisciplinary-salon-at-magic-theatre-463d4d9e",
+    "title": "Pollinated: interdisciplinary salon at Magic Theatre",
+    "start": "2027-03-24T19:00:00-07:00",
+    "end": "2027-03-24T21:30:00-07:00",
+    "venue": "Magic Theatre (exact venue on ticket)",
+    "address": null,
+    "url": "https://magictheatre.org/calendar/pollinated-9tbg2-2wfzt",
+    "source": "venue:magic-theatre",
+    "tags": [
+      "talk",
+      "community",
+      "theatre"
+    ],
+    "price": "$65",
+    "description": "Magic Theatre's salon series brings 75-100 guests together for cocktails, a short live artistic piece and a conversation among four or five unlikely voices, such as an AI researcher and a filmmaker. It's built for mixing with people outside your usual circle. The listing doesn't name the room, so check your ticket.",
+    "neighbourhood": "Fort Mason",
+    "cycle_minutes": 22,
+    "added": "2026-11-19"
+  },
+  {
+    "id": "charlotte-adig-ry-bolis-pupul-at-great-american-music-hall-2de18985",
+    "title": "Charlotte Adigéry & Bolis Pupul at Great American Music Hall",
+    "start": "2027-03-24T20:00:00-07:00",
+    "end": null,
+    "venue": "Great American Music Hall",
+    "address": "859 O'Farrell St, San Francisco, CA 94109",
+    "url": "https://wl.seetickets.us/event/charlotte-adigery-and-bolis-pupul/709845?afflky=GreatAmericanMusicHall",
+    "source": "venue:gamh",
+    "tags": [
+      "music"
+    ],
+    "price": "$30 advance (+fees)",
+    "description": "The Belgian duo play witty, danceable electro-pop on their Mainland Madinina tour, in GAMH's ornate old ballroom. Doors at 7pm, all ages.",
+    "neighbourhood": "Tenderloin",
+    "cycle_minutes": 9,
+    "added": "2026-11-19"
+  },
+  {
+    "id": "darra-goldstein-cultured-omnivore-books-author-talk-2fa674f4",
+    "title": "Darra Goldstein: Cultured (Omnivore Books author talk)",
+    "start": "2027-03-25T18:30:00-07:00",
+    "end": null,
+    "venue": "Omnivore Books on Food",
+    "address": "3885A Cesar Chavez St, San Francisco, CA 94131",
+    "url": "https://omnivorebooks.myshopify.com/products/darra-goldstein-author-event-cultured-a-global-guide-to-fermenting-and-preserving-fruit-vegetables-dairy-and-grains-with-over-150-recipes",
+    "source": "venue:omnivore",
+    "tags": [
+      "food",
+      "talk"
+    ],
+    "price": "Free",
+    "description": "Gastronomica founding editor Darra Goldstein presents Cultured, a global guide to fermenting, pickling and preserving, from quick pickles to kimchi and preserved lemons. Free at Noe Valley's food bookshop.",
+    "neighbourhood": "Noe Valley",
+    "cycle_minutes": 22,
+    "added": "2026-11-19"
+  },
+  {
+    "id": "fenne-lily-at-rickshaw-stop-b48b3e49",
+    "title": "Fenne Lily at Rickshaw Stop",
+    "start": "2027-03-25T20:00:00-07:00",
+    "end": null,
+    "venue": "Rickshaw Stop",
+    "address": "155 Fell St, San Francisco, CA 94102",
+    "url": "https://wl.seetickets.us/event/fenne-lily/708757?afflky=RickshawStop",
+    "source": "venue:rickshaw-stop",
+    "tags": [
+      "music"
+    ],
+    "price": "$22 advance / $25 door (+fees)",
+    "description": "English singer-songwriter Fenne Lily plays hushed, wry indie folk. This is a headline show in the Rickshaw Stop's small room. Doors at 7pm, all ages.",
+    "neighbourhood": "Hayes Valley",
+    "cycle_minutes": 10,
+    "added": "2026-11-19"
+  },
+  {
+    "id": "wild-pink-with-truth-club-at-cafe-du-nord-64118495",
+    "title": "Wild Pink with Truth Club at Cafe du Nord",
+    "start": "2027-03-26T21:00:00-07:00",
+    "end": null,
+    "venue": "Cafe du Nord",
+    "address": "2170 Market St, San Francisco, CA 94114",
+    "url": "https://cafedunord.com/shows/2027-03-26-wild-pink",
+    "source": "venue:cafe-du-nord",
+    "tags": [
+      "music"
+    ],
+    "price": null,
+    "description": "(((folkYEAH!))) presents NYC band Wild Pink, whose expansive, novelistic indie rock sits between Americana and heartland rock. They play the basement supper-club room at Cafe du Nord. Doors at 8pm, 21+.",
+    "neighbourhood": "Upper Market",
+    "cycle_minutes": 15,
+    "added": "2026-11-19"
+  },
+  {
+    "id": "thomas-dollbaum-live-at-the-4-star-theater-94b7789a",
+    "title": "Thomas Dollbaum live at the 4 Star Theater",
+    "start": "2027-03-27T20:00:00-07:00",
+    "end": null,
+    "venue": "4 Star Theater",
+    "address": "2200 Clement St, San Francisco, CA",
+    "url": "https://www.4-star-movies.com/calendar-of-events/live-music-thomas-dollbaum-2027",
+    "source": "venue:cinemasf-4star",
+    "tags": [
+      "music"
+    ],
+    "price": null,
+    "description": "New Orleans-based alt-country and indie-rock storyteller Thomas Dollbaum plays songs from Birds of Paradise, cut in four days in Mississippi with a band that included Jake (MJ) Lenderman. It's an intimate Throwin' Bo's show in a neighbourhood cinema. Doors at 7pm.",
+    "neighbourhood": "Outer Richmond",
+    "cycle_minutes": 35,
+    "added": "2026-11-19"
+  },
+  {
+    "id": "contact-improvisation-class-with-dai-wei-at-odc-93cb0f6c",
+    "title": "Contact Improvisation class with Dai & Wei at ODC",
+    "start": "2027-03-28T13:15:00-07:00",
+    "end": "2027-03-28T15:00:00-07:00",
+    "venue": "ODC Dance Commons",
+    "address": "351 Shotwell St, San Francisco, CA 94110",
+    "url": "https://bay.dance/events/contact_improv/",
+    "source": "aggregator:bay.dance",
+    "tags": [
+      "dance",
+      "class"
+    ],
+    "price": null,
+    "description": "A Sunday-afternoon contact improvisation class at ODC in the Mission, taught by Daiane Lopes da Silva and Weidong Yang. It's a relaxed, beginner-friendly way into SF's CI scene.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 13,
+    "added": "2026-11-19"
   }
 ]
