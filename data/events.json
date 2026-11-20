@@ -1542,6 +1542,25 @@
     "cycle_minutes": 13
   },
   {
+    "id": "write-night-at-the-commons-f1b4c01f",
+    "title": "Write Night at The Commons",
+    "start": "2026-11-25T18:30:00-08:00",
+    "end": null,
+    "venue": "The SF Commons",
+    "address": "540 Laguna St, San Francisco, CA 94102",
+    "url": "https://luma.com/the-r5lc",
+    "source": "listing:luma-sf-commons",
+    "tags": [
+      "community",
+      "workshop"
+    ],
+    "price": "Free",
+    "description": "A free Write Night at The Commons community space in Hayes Valley, the evening before Thanksgiving. See the Luma page for the format.",
+    "neighbourhood": "Hayes Valley",
+    "cycle_minutes": 12,
+    "added": "2026-11-20"
+  },
+  {
     "id": "thanksgiving-eve-speed-dating-cityswoon-ages-29-49-73cbc30b",
     "title": "Thanksgiving Eve Speed Dating (Cityswoon, ages 29-49)",
     "start": "2026-11-25T19:00:00-08:00",
@@ -1597,6 +1616,25 @@
     "id": "moonalice-with-mad-alchemy-liquid-light-show-0a99055d"
   },
   {
+    "id": "mid-week-merriment-skate-friendsgiving-night-at-union-square-32d47040",
+    "title": "Mid-Week Merriment skate: Friendsgiving night at Union Square",
+    "start": "2026-11-25T20:30:00-08:00",
+    "end": "2026-11-25T21:30:00-08:00",
+    "venue": "Safeway Holiday Ice Rink, Union Square",
+    "address": "333 Post St, San Francisco, CA 94108",
+    "url": "https://unionsquareicerink.com/special-events/",
+    "source": "venue:union-square-ice-rink",
+    "tags": [
+      "sport",
+      "community"
+    ],
+    "price": "$22",
+    "description": "The outdoor rink's themed Wednesday 8:30pm session, this week a Friendsgiving night with a feel-good playlist and group photos on the eve of Thanksgiving. It's a one-hour skate under the Union Square tree.",
+    "neighbourhood": "Union Square",
+    "cycle_minutes": 6,
+    "added": "2026-11-20"
+  },
+  {
     "id": "cat-s-corner-thanksgiving-eve-swing-dance-with-the-cosmo-all-29706d1c",
     "title": "Cat's Corner: Thanksgiving Eve swing dance with the Cosmo Alleycats",
     "start": "2026-11-25T21:00:00-08:00",
@@ -1614,6 +1652,26 @@
     "neighbourhood": "North Beach",
     "cycle_minutes": 9,
     "added": "2026-11-08"
+  },
+  {
+    "id": "free-ish-turkey-trot-in-golden-gate-park-sock-donation-172a4031",
+    "title": "Free-ish Turkey Trot in Golden Gate Park (sock donation)",
+    "start": "2026-11-26T09:00:00-08:00",
+    "end": null,
+    "venue": "Conservatory of Flowers, Golden Gate Park",
+    "address": "100 John F Kennedy Dr, San Francisco, CA 94118",
+    "url": "https://partiful.com/e/z4r2khhVoL1uiFnYEXyn",
+    "source": "aggregator:funcheap",
+    "tags": [
+      "sport",
+      "outdoors",
+      "community"
+    ],
+    "price": "Free (bring a new pair of socks)",
+    "description": "An informal Thanksgiving-morning run or walk from the Conservatory of Flowers. The entry fee is a new pair of socks for St. Anthony's in the Tenderloin, and the top three finishers win prizes.",
+    "neighbourhood": "Golden Gate Park",
+    "cycle_minutes": 25,
+    "added": "2026-11-20"
   },
   {
     "title": "Dancegiving & Community Ocean Dance (Thanksgiving morning)",
@@ -2272,6 +2330,25 @@
     "neighbourhood": "Presidio Heights",
     "cycle_minutes": 25,
     "added": "2026-11-08"
+  },
+  {
+    "id": "emergence-relational-mindfulness-practice-circling-style-at--424b873a",
+    "title": "Emergence: relational mindfulness practice (circling-style) at The Commons",
+    "start": "2026-11-30T19:00:00-08:00",
+    "end": "2026-11-30T21:00:00-08:00",
+    "venue": "The SF Commons",
+    "address": "540 Laguna St, San Francisco, CA 94102",
+    "url": "https://luma.com/the-n95i",
+    "source": "listing:luma-sf-commons",
+    "tags": [
+      "workshop",
+      "community"
+    ],
+    "price": "$10 suggested (pay what you can)",
+    "description": "A small-group connection practice much like Circling or T-groups, where the group talks only about what's happening within and between people right now. The facilitator ran weekly Circling for five years; 12 spots were left at last check.",
+    "neighbourhood": "Hayes Valley",
+    "cycle_minutes": 12,
+    "added": "2026-11-20"
   },
   {
     "title": "A John Waters Christmas",
@@ -3551,6 +3628,24 @@
     "id": "why-yoni-wolf-91fd1c52"
   },
   {
+    "id": "harbour-with-the-silkies-at-cafe-du-nord-4c88efd4",
+    "title": "Harbour with The Silkies at Cafe du Nord",
+    "start": "2026-12-08T20:00:00-08:00",
+    "end": null,
+    "venue": "Cafe du Nord",
+    "address": "2170 Market St, San Francisco, CA 94114",
+    "url": "https://cafedunord.com/shows/2026-12-08-harbour",
+    "source": "venue:cafedunord",
+    "tags": [
+      "music"
+    ],
+    "price": null,
+    "description": "High-energy indie rock from Cincinnati's Harbour, with The Silkies opening, in Cafe du Nord's basement room. All ages; doors at 7pm.",
+    "neighbourhood": "Upper Market",
+    "cycle_minutes": 15,
+    "added": "2026-11-20"
+  },
+  {
     "title": "Woodchopper's Ball: live-band swing night",
     "start": "2026-12-08T21:00:00-08:00",
     "end": "2026-12-08T23:30:00-08:00",
@@ -3590,23 +3685,23 @@
     "id": "mud-frontier-film-screening-talkback-with-rael-san-fratello-71da395e"
   },
   {
-    "id": "cooking-class-handmade-pasta-101-cocusocial-ffa7e47c",
-    "title": "Cooking class: Handmade Pasta 101 (CocuSocial)",
+    "id": "short-story-symposium-ted-chiang-le-guin-at-the-commons-e405120d",
+    "title": "Short Story Symposium (Ted Chiang, Le Guin) at The Commons",
     "start": "2026-12-09T18:30:00-08:00",
     "end": null,
-    "venue": "The Hotel Majestic",
-    "address": "1500 Sutter St, San Francisco, CA 94109",
-    "url": "https://www.cocusocial.com/newevent/San-Francisco_Handmade-Pasta-101_2026-Dec-9",
-    "source": "venue:cocusocial",
+    "venue": "The SF Commons",
+    "address": "540 Laguna St, San Francisco, CA 94102",
+    "url": "https://luma.com/shortstories",
+    "source": "listing:luma-sf-commons",
     "tags": [
-      "class",
-      "food"
+      "talk",
+      "community"
     ],
-    "price": "$59",
-    "description": "A hands-on class where you mix, knead and roll tagliatelle from scratch while the chef makes a spring-green soubise sauce, then you eat what you made. Students work in small groups, and the class is 21+.",
-    "neighbourhood": "Cathedral Hill",
-    "cycle_minutes": 14,
-    "added": "2026-11-12"
+    "price": "Free",
+    "description": "A free short-story discussion evening at The Commons in Hayes Valley, featuring work by Ted Chiang and Ursula K. Le Guin. See the Luma page for the reading list.",
+    "neighbourhood": "Hayes Valley",
+    "cycle_minutes": 12,
+    "added": "2026-11-20"
   },
   {
     "id": "manny-s-trivia-night-71607dec",
@@ -3720,6 +3815,44 @@
     "id": "exploratorium-after-dark-unplug-and-play-fa3478a6"
   },
   {
+    "id": "how-to-get-to-the-moon-back-apollo-lessons-with-brandon-r-br-8a23a4b9",
+    "title": "How to Get to the Moon & Back: Apollo lessons with Brandon R. Brown",
+    "start": "2026-12-10T18:00:00-08:00",
+    "end": "2026-12-10T19:00:00-08:00",
+    "venue": "Manny's",
+    "address": "3092 16th St, San Francisco, CA 94103",
+    "url": "https://www.eventbrite.com/e/how-to-get-to-the-moon-back-lessons-from-nasas-original-apollo-program-tickets-2004246257509",
+    "source": "venue:mannys",
+    "tags": [
+      "talk",
+      "tech"
+    ],
+    "price": "$9.27-$15.45",
+    "description": "USF physicist Brandon R. Brown, author of The Apollo Chronicles, draws on first-hand interviews to explain the hardest engineering problems of the Apollo missions and what they mean for Artemis. Paid tickets get 18% off at Manny's café bar.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 13,
+    "added": "2026-11-20"
+  },
+  {
+    "id": "seca-2026-art-award-community-opening-at-sfmoma-1cabd62b",
+    "title": "SECA 2026 Art Award: community opening at SFMOMA",
+    "start": "2026-12-10T18:00:00-08:00",
+    "end": "2026-12-10T20:00:00-08:00",
+    "venue": "SFMOMA, SECA Galleries (Floor 2)",
+    "address": "151 Third St, San Francisco, CA 94103",
+    "url": "https://www.sfmoma.org/event/seca-2026-community-opening/",
+    "source": "venue:sfmoma",
+    "tags": [
+      "art",
+      "music"
+    ],
+    "price": "Free",
+    "description": "A free evening opening for the 2026 SECA Art Award show of Bay Area artists Chanell Stone, CrossLypka and Em Kettner, with a live set by B Dukes (Blu Moon). The exhibition is open to everyone during the event.",
+    "neighbourhood": "SoMa",
+    "cycle_minutes": 5,
+    "added": "2026-11-20"
+  },
+  {
     "title": "KQED Live: Masa-Making Party with Bolita Masa",
     "start": "2026-12-10T19:00:00-08:00",
     "end": null,
@@ -3778,6 +3911,24 @@
     "added": "2026-11-08"
   },
   {
+    "id": "songstress-soir-e-sara-rodenberg-essence-goldman-rebecca-cha-84d16cfc",
+    "title": "Songstress Soirée: Sara Rodenberg, Essence Goldman, Rebecca Chapa",
+    "start": "2026-12-10T19:00:00-08:00",
+    "end": null,
+    "venue": "Hotel Utah Saloon",
+    "address": "500 4th St, San Francisco, CA 94107",
+    "url": "https://wl.seetickets.us/event/sara-rodenberg-essence-goldman-rebecca-chapa/711884?afflky=HotelUtahSaloon",
+    "source": "venue:hotel-utah",
+    "tags": [
+      "music"
+    ],
+    "price": "$12 adv / $15 door",
+    "description": "A singer-songwriter night with three Bay Area women songwriters in the tiny SoMa saloon at 4th and Bryant. 21+.",
+    "neighbourhood": "SoMa",
+    "cycle_minutes": 4,
+    "added": "2026-11-20"
+  },
+  {
     "title": "City Arts & Lectures: Marlon James with Shereen Marisol Meraji",
     "start": "2026-12-10T19:30:00-08:00",
     "end": null,
@@ -3813,25 +3964,6 @@
     "neighbourhood": "Inner Richmond",
     "cycle_minutes": 27,
     "added": "2026-11-08"
-  },
-  {
-    "title": "Cooking class: Fresh Pasta in Color",
-    "start": "2026-12-11T18:00:00-08:00",
-    "end": "2026-12-11T20:00:00-08:00",
-    "venue": "The Hotel Majestic",
-    "address": "1500 Sutter St, San Francisco, CA 94109",
-    "url": "https://www.cocusocial.com/newevent/San-Francisco_Fresh-Pasta-in-Color_2026-Dec-11",
-    "source": "venue:cocusocial",
-    "tags": [
-      "class",
-      "food"
-    ],
-    "price": "$59",
-    "description": "A hands-on CocuSocial class making a classic and a beet-infused pasta dough from scratch in pairs. The dishes are beet tagliatelle with lemon, feta and walnuts, and pappardelle with butternut squash and brown butter. No experience is needed.",
-    "neighbourhood": "Cathedral Hill",
-    "cycle_minutes": 14,
-    "added": "2026-11-04",
-    "id": "cooking-class-fresh-pasta-in-color-708b1073"
   },
   {
     "title": "Love Potion Crafts Night (craft-along book club)",
@@ -3890,6 +4022,25 @@
     "neighbourhood": "Embarcadero",
     "cycle_minutes": 5,
     "added": "2026-11-15"
+  },
+  {
+    "id": "dance-fridays-at-space-550-salsa-bachata-lessons-and-social-dcb85594",
+    "title": "Dance Fridays at Space 550: salsa + bachata lessons and social",
+    "start": "2026-12-11T19:45:00-08:00",
+    "end": "2026-12-12T01:30:00-08:00",
+    "venue": "Space 550",
+    "address": "550 Barneveld Ave, San Francisco, CA 94124",
+    "url": "https://www.eventbrite.com/e/salsa-and-bachata-dancing-dance-fridays-dance-lessons-bar-nightclub-tickets-1979106048467",
+    "source": "listing:sf-latin-dance-socials",
+    "tags": [
+      "dance",
+      "class"
+    ],
+    "price": "$16.74-$27.24",
+    "description": "Two rooms of salsa and bachata, with beginner and intermediate lessons included in admission and then social dancing until 1:30am. No partner or experience needed.",
+    "neighbourhood": "Bayview",
+    "cycle_minutes": 25,
+    "added": "2026-11-20"
   },
   {
     "title": "Lucius",
@@ -4197,6 +4348,26 @@
     "added": "2026-11-15"
   },
   {
+    "id": "bonding-with-bots-a-salon-on-ai-and-human-connection-at-the--042ac0fe",
+    "title": "Bonding with Bots: a salon on AI and human connection at The Commons",
+    "start": "2026-12-13T16:00:00-08:00",
+    "end": "2026-12-13T19:30:00-08:00",
+    "venue": "The SF Commons",
+    "address": "550 Laguna St, San Francisco, CA 94102",
+    "url": "https://luma.com/the-ok1r",
+    "source": "listing:luma-sf-commons",
+    "tags": [
+      "talk",
+      "community",
+      "tech"
+    ],
+    "price": "Free (RSVP)",
+    "description": "A Resonance Salon: a facilitated, Socratic-style group conversation about AI companions and what they mean for human relationships, with dinner and drinks provided. Only 6 spots were left at last check.",
+    "neighbourhood": "Hayes Valley",
+    "cycle_minutes": 12,
+    "added": "2026-11-20"
+  },
+  {
     "title": "JD McPherson: SOCKS, A Rock n' Roll Christmas Tour, with Melissa Carper",
     "start": "2026-12-13T20:00:00-08:00",
     "end": null,
@@ -4234,6 +4405,25 @@
     "added": "2026-11-08"
   },
   {
+    "id": "figure-drawing-mondays-at-sin-miedo-gallery-sketchboard-6a2b9ea0",
+    "title": "Figure drawing Mondays at Sin Miedo Gallery (Sketchboard)",
+    "start": "2026-12-14T18:30:00-08:00",
+    "end": "2026-12-14T20:30:00-08:00",
+    "venue": "Sin Miedo Gallery",
+    "address": "2831 Mission St, San Francisco, CA 94110",
+    "url": "https://book.squareup.com/classes/uj53t4hfgkzllp/location/DYSM7QRDVFWX7/classes",
+    "source": "venue:sketchboard",
+    "tags": [
+      "art",
+      "class"
+    ],
+    "price": "$25",
+    "description": "A two-hour drop-in life drawing session with a model, run by Sketchboard Co. at their Mission gallery near 24th St. Bring your own supplies and book on Square.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 16,
+    "added": "2026-11-20"
+  },
+  {
     "title": "A Tribute to the Life and Writing of Pierre Joris",
     "start": "2026-12-14T19:00:00-08:00",
     "end": "2026-12-14T20:30:00-08:00",
@@ -4269,6 +4459,24 @@
     "neighbourhood": "Presidio Heights",
     "cycle_minutes": 25,
     "added": "2026-11-09"
+  },
+  {
+    "id": "silent-reading-party-at-the-booksmith-december-157a6b2c",
+    "title": "Silent Reading Party at The Booksmith (December)",
+    "start": "2026-12-14T19:00:00-08:00",
+    "end": null,
+    "venue": "The Booksmith",
+    "address": "1727 Haight St, San Francisco, CA 94117",
+    "url": "https://app.gopassage.com/events/SRP1226",
+    "source": "venue:booksmith",
+    "tags": [
+      "community"
+    ],
+    "price": "From $5",
+    "description": "An after-hours hour of quiet reading in the bookshop with a few dozen strangers, with beer and wine for sale and free tea (check-in 7pm, quiet time from 7:15). For the holidays the shop stays open an hour afterwards for gift shopping.",
+    "neighbourhood": "Haight-Ashbury",
+    "cycle_minutes": 22,
+    "added": "2026-11-20"
   },
   {
     "title": "Willi Carlisle: The Universal Bubba Tour, with Amelia Day",
@@ -4546,6 +4754,25 @@
     "added": "2026-11-09"
   },
   {
+    "id": "cat-s-corner-wednesday-swing-dance-with-the-kyle-athayde-dan-8080d27e",
+    "title": "Cat's Corner: Wednesday swing dance with the Kyle Athayde Dance Party (17-piece big band)",
+    "start": "2026-12-16T21:00:00-08:00",
+    "end": "2026-12-16T23:30:00-08:00",
+    "venue": "Mabuhay Gardens (Cat's Corner)",
+    "address": "435 Broadway, San Francisco, CA 94133",
+    "url": "https://www.catscornersf.com/",
+    "source": "venue:cats-corner",
+    "tags": [
+      "dance",
+      "music"
+    ],
+    "price": "$15 (incl. 9pm drop-in lesson; $10 before 8:30pm)",
+    "description": "SF's Wednesday swing and Lindy Hop party, with a beginner drop-in lesson at 9pm and then a 17-piece big band, the Kyle Athayde Dance Party, until 11:30pm. No partner needed.",
+    "neighbourhood": "North Beach",
+    "cycle_minutes": 9,
+    "added": "2026-11-20"
+  },
+  {
     "title": "Exploratorium After Dark: Solstice",
     "start": "2026-12-17T18:00:00-08:00",
     "end": "2026-12-17T22:00:00-08:00",
@@ -4655,6 +4882,25 @@
     "cycle_minutes": 13,
     "added": "2026-11-06",
     "id": "deep-thicket-dwellers-album-release-with-scott-gates-a0829bde"
+  },
+  {
+    "id": "real-social-connections-holiday-authentic-relating-evening-a-8caf29b3",
+    "title": "Real Social Connections: holiday authentic-relating evening at The Commons",
+    "start": "2026-12-18T18:00:00-08:00",
+    "end": "2026-12-18T21:45:00-08:00",
+    "venue": "The SF Commons",
+    "address": "550 Laguna St, San Francisco, CA 94102",
+    "url": "https://luma.com/the-nbef",
+    "source": "listing:luma-sf-commons",
+    "tags": [
+      "workshop",
+      "community"
+    ],
+    "price": "$22-$44",
+    "description": "An evening of movement, playful exercises and guided conversations aimed at real connection rather than small talk, led by somatic facilitator Simone Giacometti. It ends with a closing circle and time to mingle, so it's easy to come alone.",
+    "neighbourhood": "Hayes Valley",
+    "cycle_minutes": 12,
+    "added": "2026-11-20"
   },
   {
     "id": "playground-twisted-holiday-festival-same-time-next-christmas-78fa8bb3",
@@ -4880,6 +5126,44 @@
     "cycle_minutes": 9,
     "added": "2026-10-30",
     "id": "the-mother-hips-annual-holiday-show-with-little-worth-71811bf9"
+  },
+  {
+    "id": "maum-market-sf-holiday-market-of-asian-owned-makers-at-the-f-124eca04",
+    "title": "Maum Market SF: holiday market of Asian-owned makers at the Ferry Building",
+    "start": "2026-12-20T11:00:00-08:00",
+    "end": "2026-12-20T16:00:00-08:00",
+    "venue": "Ferry Building",
+    "address": "1 Ferry Building, San Francisco, CA 94105",
+    "url": "https://luma.com/1w0kw4eo",
+    "source": "listing:luma-sf",
+    "tags": [
+      "market",
+      "art"
+    ],
+    "price": "Free (RSVP)",
+    "description": "A curated market of Asian-owned brands selling ceramics, stationery, jewellery, home goods and art, plus food and drink pop-ups. It's free to attend.",
+    "neighbourhood": "Embarcadero",
+    "cycle_minutes": 5,
+    "added": "2026-11-20"
+  },
+  {
+    "id": "cybersentics-book-club-love-testers-mus-e-m-canique-tour-gra-88bffeac",
+    "title": "Cybersentics Book Club: Love Testers + Musée Mécanique tour (Gray Area)",
+    "start": "2026-12-20T12:00:00-08:00",
+    "end": "2026-12-20T14:00:00-08:00",
+    "venue": "Musée Mécanique",
+    "address": "Pier 45, San Francisco, CA 94133",
+    "url": "https://luma.com/757om85p",
+    "source": "venue:gray-area",
+    "tags": [
+      "talk",
+      "community"
+    ],
+    "price": "$10 suggested (pay what you can)",
+    "description": "Gray Area's book club meets among the antique arcade machines to talk about the history of 'love testers': carnival love meters that came before compatibility tests and dating apps. It includes a tour of the Musée Mécanique.",
+    "neighbourhood": "Fisherman's Wharf",
+    "cycle_minutes": 14,
+    "added": "2026-11-20"
   },
   {
     "title": "Green Exercise ocean hike: Lands End coastal trail (Meetup group hike)",

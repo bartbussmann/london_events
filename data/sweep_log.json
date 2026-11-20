@@ -1,5 +1,11 @@
 [
   {
+    "ran_at": "2026-11-20T06:45:00-08:00",
+    "added": 17,
+    "considered": 120,
+    "notes": "Part 1: no new or moved feed events; pruned 9. Part 2: freshness check of 75 events 4-13 Dec - removed 2 cancelled CocuSocial pasta classes (9 and 11 Dec); rest unchanged. 17 adds: The SF Commons x5 (Emergence 30 Nov, Bonding with Bots AI salon 13 Dec, Real Social Connections 18 Dec, Write Night 25 Nov, Short Story Symposium 9 Dec), Cat's Corner big band (16 Dec), Space 550 salsa, figure drawing, Friendsgiving skate, Thanksgiving Turkey Trot, Manny's Apollo talk, SFMOMA SECA opening, Hotel Utah songwriters, Harbour, Booksmith Silent Reading Party, Gray Area book club at Musee Mecanique, Maum Market. Dandelion ICS now empty."
+  },
+  {
     "ran_at": "2026-11-19T06:45:00-08:00",
     "added": 20,
     "considered": 60,
