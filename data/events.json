@@ -1,304 +1,5 @@
 [
   {
-    "title": "Patch Bay workshop: Computational Poetry",
-    "start": "2026-11-18T18:00:00-08:00",
-    "end": "2026-11-18T20:00:00-08:00",
-    "venue": "Gray Area",
-    "address": "2665 Mission St, San Francisco, CA 94110",
-    "url": "https://grayarea.org/event/patch-bay-interactive-worlds-ai-figma-workshop-2-2-2/",
-    "source": "venue:grayarea",
-    "tags": [
-      "workshop",
-      "tech",
-      "art"
-    ],
-    "price": "$25",
-    "description": "Alicia Guo leads a hands-on workshop treating language as material to be examined, shaped and animated with code. It covers the history and tools of computational poetry, part of Gray Area's weekly Patch Bay creative-tech night.",
-    "neighbourhood": "Mission",
-    "cycle_minutes": 15,
-    "added": "2026-10-26",
-    "id": "patch-bay-workshop-computational-poetry-f2f24a11"
-  },
-  {
-    "title": "Gullah stick-pounding workshop with Melanie DeMore (free)",
-    "start": "2026-11-18T18:00:00-08:00",
-    "end": null,
-    "venue": "Z Space",
-    "address": "450 Florida St, San Francisco, CA 94110",
-    "url": "https://www.zspace.org/salt-and-spirit",
-    "source": "venue:z-space",
-    "tags": [
-      "workshop",
-      "music",
-      "community"
-    ],
-    "price": "Free (RSVP)",
-    "description": "Free community workshop from Opera Parallele: learn Gullah stick pounding with three-time Grammy nominee Melanie DeMore, combining foot-stomping rhythm with spirituals and protest songs. Doors 5:30pm.",
-    "neighbourhood": "Mission",
-    "cycle_minutes": 12,
-    "added": "2026-11-02",
-    "id": "gullah-stick-pounding-workshop-with-melanie-demore-free-248e76d2"
-  },
-  {
-    "id": "ics-d511beaed00f",
-    "title": "EA SF Discussion Salon: What are the world's most pressing problems?",
-    "start": "2026-11-18T18:30:00-08:00",
-    "end": "2026-11-18T20:30:00-08:00",
-    "venue": "Mox",
-    "address": "1680 Mission St, San Francisco, CA 94103",
-    "url": "https://luma.com/anw0fxzg",
-    "source": "ics:Mox",
-    "tags": [
-      "talk",
-      "community"
-    ],
-    "price": "Free (register on Luma)",
-    "description": "EA SF Discussion Salon on cause prioritization at Mox — small-group discussion format, good for meeting the local EA community. (Moved from 4 Nov to 18 Nov.)",
-    "added": "2026-10-26",
-    "neighbourhood": "Mission",
-    "cycle_minutes": 13
-  },
-  {
-    "title": "Casey's Craft Club: Beaded Necklaces",
-    "start": "2026-11-18T18:30:00-08:00",
-    "end": "2026-11-18T21:30:00-08:00",
-    "venue": "Common Space",
-    "address": "3108B Fillmore St, San Francisco, CA 94123",
-    "url": "https://www.eventbrite.com/e/caseys-craft-club-beaded-necklaces-tickets-2003249283533",
-    "source": "aggregator:eventbrite",
-    "tags": [
-      "workshop",
-      "community"
-    ],
-    "price": "$44.52 (sold out)",
-    "description": "SOLD OUT. A drop-in evening craft club where you make a beaded necklace, with all materials provided. It's billed as a space to get crafty and meet new friends.",
-    "neighbourhood": "Cow Hollow",
-    "cycle_minutes": 22,
-    "added": "2026-10-28",
-    "id": "casey-s-craft-club-beaded-necklaces-8a15b8b2"
-  },
-  {
-    "title": "Marie Darrieussecq in conversation with Rita Bullwinkel",
-    "start": "2026-11-18T19:00:00-08:00",
-    "end": null,
-    "venue": "City Lights Booksellers",
-    "address": "261 Columbus Ave, San Francisco, CA 94133",
-    "url": "https://citylights.com/events/marie-darrieussecq-in-conversation-with-rita-bullwinkel/",
-    "source": "venue:citylights",
-    "tags": [
-      "talk"
-    ],
-    "price": "Free",
-    "description": "The French novelist behind Pig Tales celebrates two new translations, How to Make a Woman and Our Life in the Forest, in conversation with Headshot author Rita Bullwinkel. It's in-store and streamed.",
-    "neighbourhood": "North Beach",
-    "cycle_minutes": 10,
-    "added": "2026-11-01",
-    "id": "marie-darrieussecq-in-conversation-with-rita-bullwinkel-1e704d68"
-  },
-  {
-    "title": "Free psychedelic film night: Mondo New York",
-    "start": "2026-11-18T19:00:00-08:00",
-    "end": "2026-11-18T21:00:00-08:00",
-    "venue": "The Church of Mother Gong",
-    "address": "1345 Grant Ave, San Francisco, CA 94133",
-    "url": "https://www.eventbrite.com/e/1989057550678",
-    "source": "aggregator:funcheap",
-    "tags": [
-      "film"
-    ],
-    "price": "Free",
-    "description": "A free 21+ screening of Mondo New York, a dreamlike collage of New York's late-'80s downtown underground. It's part of a North Beach gallery's ongoing psychedelic film series.",
-    "neighbourhood": "North Beach",
-    "cycle_minutes": 10,
-    "added": "2026-11-01",
-    "id": "free-psychedelic-film-night-mondo-new-york-b88e352d"
-  },
-  {
-    "title": "SFAA lecture: Southern Skies, Global Reach: Chile and Modern Astronomy",
-    "start": "2026-11-18T19:00:00-08:00",
-    "end": "2026-11-18T20:30:00-08:00",
-    "venue": "Randall Museum",
-    "address": "199 Museum Way, San Francisco, CA 94114",
-    "url": "https://www.sfaa-astronomy.org/public-events/lectures/lectures_2026/nov18_2026",
-    "source": "venue:sfaa",
-    "tags": [
-      "talk",
-      "community"
-    ],
-    "price": "Free",
-    "description": "The San Francisco Amateur Astronomers' free monthly lecture. Mission sidewalk-astronomy regular Brian 'Astro' Castro reports on his ACEAP visit to ALMA, Vera Rubin and Gemini South and why Chile became astronomy's capital. Come early for snacks and to meet the club. The museum is up a steep hill above the Castro.",
-    "neighbourhood": "Corona Heights",
-    "cycle_minutes": 20,
-    "added": "2026-11-04",
-    "id": "sfaa-lecture-southern-skies-global-reach-chile-and-modern-as-91cb66f5"
-  },
-  {
-    "id": "san-francisco-rationalist-dinner-d87865b4",
-    "title": "San Francisco Rationalist Dinner",
-    "start": "2026-11-18T19:00:00-08:00",
-    "end": "2026-11-18T22:00:00-08:00",
-    "venue": "Mediterranean Bowl",
-    "address": "2nd St, San Francisco, CA",
-    "url": "https://www.lesswrong.com/events/z3gejrgP6LRuFFRkP/san-francisco-rationalist-dinner-3",
-    "source": "listing:lesswrong",
-    "tags": [
-      "community",
-      "talk"
-    ],
-    "price": null,
-    "description": "An informal LessWrong community dinner where people discuss AI safety, recent blog posts and rationality topics, and first-timers are welcome. You pay for your own food at this restaurant on 2nd St in SoMa, a short walk from home.",
-    "neighbourhood": "SoMa",
-    "cycle_minutes": 3,
-    "added": "2026-11-13"
-  },
-  {
-    "id": "astronomy-on-tap-sf-lava-worlds-fast-radio-bursts-8f8d7755",
-    "title": "Astronomy on Tap SF: lava worlds + fast radio bursts",
-    "start": "2026-11-18T19:00:00-08:00",
-    "end": "2026-11-18T21:00:00-08:00",
-    "venue": "Public Works",
-    "address": "161 Erie St, San Francisco, CA 94103",
-    "url": "https://www.eventbrite.com/e/astronomy-on-tap-sf-november-2026-tickets-2004626231020",
-    "source": "aggregator:eventbrite",
-    "tags": [
-      "talk",
-      "tech"
-    ],
-    "price": "Free (1-drink minimum, $13)",
-    "description": "Short, laid-back astronomy talks in a bar: Stanford's Laura Schaefer on JWST and lava worlds, and Berkeley's Calvin Leung on finding missing matter with fast radio bursts. Q&A is relaxed.",
-    "neighbourhood": "Mission",
-    "cycle_minutes": 11,
-    "added": "2026-11-13"
-  },
-  {
-    "title": "Jenny Tian: Ripe",
-    "start": "2026-11-18T19:30:00-08:00",
-    "end": null,
-    "venue": "Cobb's Comedy Club",
-    "address": "915 Columbus Ave, San Francisco, CA 94133",
-    "url": "https://www.ticketmaster.com/jenny-tian-ripe-san-francisco-california-11-18-2026/event/1C0064AC13A553C5",
-    "source": "venue:cobbs",
-    "tags": [
-      "comedy"
-    ],
-    "price": null,
-    "description": "Australian stand-up Jenny Tian brings her touring hour 'Ripe' to SF's classic North Beach comedy club. It's a headline show, not an open mic.",
-    "neighbourhood": "North Beach",
-    "cycle_minutes": 12,
-    "added": "2026-10-27",
-    "id": "jenny-tian-ripe-f07eadcf"
-  },
-  {
-    "title": "The Humanist Review of AI: Abundance & Scarcity (Mustafa Suleyman, Sarah Guo, Aaron Bastani)",
-    "start": "2026-11-18T20:00:00-08:00",
-    "end": "2026-11-18T21:00:00-08:00",
-    "venue": "Commonwealth Club World Affairs",
-    "address": "110 The Embarcadero, San Francisco, CA 94105",
-    "url": "https://www.commonwealthclub.org/events/2026-11-18/humanist-review-ai-abundance-scarcity",
-    "source": "venue:commonwealthclub",
-    "tags": [
-      "talk",
-      "tech"
-    ],
-    "price": "$45 ($10 students)",
-    "description": "Microsoft AI CEO Mustafa Suleyman, investor Sarah Guo and 'Fully Automated Luxury Communism' author Aaron Bastani debate what becomes scarce when intelligence is abundant. Doors 7pm; in-person attendees get a copy of The Humanist Review of AI.",
-    "neighbourhood": "Embarcadero",
-    "cycle_minutes": 5,
-    "added": "2026-11-01",
-    "id": "the-humanist-review-of-ai-abundance-scarcity-mustafa-suleyma-d3e05490"
-  },
-  {
-    "title": "Hamilton Leithauser + Rostam at the Castro",
-    "start": "2026-11-18T20:00:00-08:00",
-    "end": null,
-    "venue": "Castro Theatre",
-    "address": "429 Castro St, San Francisco, CA 94114",
-    "url": "https://thecastro.com/events/hamilton-leithauser-and-rostam-261118",
-    "source": "venue:castro-theatre",
-    "tags": [
-      "music"
-    ],
-    "price": null,
-    "description": "The Walkmen's singer and ex-Vampire Weekend co-writer Rostam reunite for their indie-rock collaboration I Had a Dream That You Were Mine. Doors 7pm, show 8pm; all ages.",
-    "neighbourhood": "Castro",
-    "cycle_minutes": 17,
-    "added": "2026-11-02",
-    "id": "hamilton-leithauser-rostam-at-the-castro-5df1b100"
-  },
-  {
-    "title": "John Carroll Kirby at The Chapel",
-    "start": "2026-11-18T20:00:00-08:00",
-    "end": null,
-    "venue": "The Chapel",
-    "address": "777 Valencia St, San Francisco, CA 94110",
-    "url": "https://wl.seetickets.us/event/john-carroll-kirby/700565?afflky=TheChapel",
-    "source": "venue:the-chapel",
-    "tags": [
-      "music"
-    ],
-    "price": "$30 standing / $45 seated (+fees)",
-    "description": "LA keyboardist-producer of lush, jazzy instrumental music (Solange, Frank Ocean collaborator) plays the Mission's converted-mortuary venue, presented by (((folkYEAH!))). Doors 7pm, show 8pm.",
-    "neighbourhood": "Mission",
-    "cycle_minutes": 13,
-    "added": "2026-11-02",
-    "id": "john-carroll-kirby-at-the-chapel-14497fef"
-  },
-  {
-    "id": "jamila-woods-10-years-of-heavn-with-hannah-mayree-fe61345f",
-    "title": "Jamila Woods: 10 Years of HEAVN, with Hannah Mayree",
-    "start": "2026-11-18T20:00:00-08:00",
-    "end": null,
-    "venue": "Rickshaw Stop",
-    "address": "155 Fell St, San Francisco, CA",
-    "url": "https://wl.eventim.us/event/jamila-woods-10-years-of-heavn/709496?afflky=RickshawStop",
-    "source": "venue:rickshawstop",
-    "tags": [
-      "music"
-    ],
-    "price": "$44.76 (incl. fees)",
-    "description": "The Chicago poet-singer marks ten years of her soul/R&B debut HEAVN in a small room (moved here from August Hall). Doors 7pm, show 8pm, all ages.",
-    "neighbourhood": "Hayes Valley",
-    "cycle_minutes": 10,
-    "added": "2026-11-07"
-  },
-  {
-    "id": "mild-universe-with-joel-robinow-and-pateka-8e62eb0a",
-    "title": "Mild Universe with Joel Robinow and Pateka",
-    "start": "2026-11-18T20:30:00-08:00",
-    "end": null,
-    "venue": "Bottom of the Hill",
-    "address": "1233 17th St, San Francisco, CA",
-    "url": "http://www.bottomofthehill.com/20261118.html",
-    "source": "venue:bottomofthehill",
-    "tags": [
-      "music"
-    ],
-    "price": "$15 adv / $18 door",
-    "description": "SF six-piece indie-dance collective mixing 90s house, disco, soul and post-punk with horns and synths, plus psych-funk and neo-soul openers. Doors 8pm, music 8:30pm, all ages.",
-    "neighbourhood": "Potrero Hill",
-    "cycle_minutes": 12,
-    "added": "2026-11-07"
-  },
-  {
-    "title": "Cat's Corner: Wednesday swing dance with the Neil Angelo Band",
-    "start": "2026-11-18T21:00:00-08:00",
-    "end": "2026-11-18T23:30:00-08:00",
-    "venue": "Mabuhay Gardens (Cat's Corner)",
-    "address": "435 Broadway, San Francisco, CA 94133",
-    "url": "https://www.catscornersf.com/",
-    "source": "keyword-search",
-    "tags": [
-      "dance",
-      "music"
-    ],
-    "price": "$15 (incl. 9pm drop-in lesson; $10 before 8:30pm)",
-    "description": "SF's Wednesday-night lindy hop and swing party, now in North Beach. A free 9pm beginner drop-in lesson, then live band dancing until 11:30. It's very social, with lots of partner rotation.",
-    "neighbourhood": "North Beach",
-    "cycle_minutes": 9,
-    "added": "2026-11-05",
-    "id": "cat-s-corner-wednesday-swing-dance-with-the-neil-angelo-band-8da7bd03"
-  },
-  {
     "title": "Exploratorium After Dark: Glow Opening",
     "start": "2026-11-19T18:00:00-08:00",
     "end": "2026-11-19T22:00:00-08:00",
@@ -2555,6 +2256,25 @@
     "id": "long-now-lost-landscapes-02026-with-rick-prelinger-second-ni-32a67372"
   },
   {
+    "id": "ics-5c61170e4cf4",
+    "title": "San Francisco, Uncovered: The Stories Behind the Skyline",
+    "start": "2026-12-02T19:00:00-08:00",
+    "end": "2026-12-02T21:00:00-08:00",
+    "venue": "Madrone Art Bar",
+    "address": "500 Divisadero St, San Francisco, CA 94117",
+    "url": "https://luma.com/05ug8thf",
+    "source": "ics:Big Brain Lectures - Bay Area",
+    "tags": [
+      "talk",
+      "community"
+    ],
+    "price": "$27 (Luma)",
+    "description": "Big Brain lecture-in-a-bar: the stories behind SF's skyline landmarks, from what Sutro Tower is actually for to how a Roman-style rotunda ended up by a lagoon in the Marina.",
+    "added": "2026-11-21",
+    "neighbourhood": "NoPa",
+    "cycle_minutes": 17
+  },
+  {
     "title": "Shaping SF talk: San Francisco, Capital of the Nerd Reich? (Gil Durán with Joe Eskenazi)",
     "start": "2026-12-02T19:30:00-08:00",
     "end": null,
@@ -3592,6 +3312,24 @@
     "id": "d-leah-steinberg-on-clyde-stubblefield-rhythms-of-the-funky--3a505e5d"
   },
   {
+    "id": "ics-8a9679e04ff4",
+    "title": "Do I Want Kids? A Psychology-Based Guide to Figuring It Out",
+    "start": "2026-12-08T19:00:00-08:00",
+    "end": "2026-12-08T21:00:00-08:00",
+    "venue": "The Faight Collective",
+    "address": "473A Haight St, San Francisco, CA 94117",
+    "url": "https://luma.com/iv035jpu",
+    "source": "ics:Big Brain Lectures - Bay Area",
+    "tags": [
+      "talk"
+    ],
+    "price": "$27 (Luma)",
+    "description": "Big Brain lecture-in-a-bar: a psychology researcher on why deciding whether to have children is so hard and how to approach the choice. A repeat of the sold-out 10 Nov talk.",
+    "added": "2026-11-21",
+    "neighbourhood": "Lower Haight",
+    "cycle_minutes": 16
+  },
+  {
     "title": "Wishy with The Umbrellas",
     "start": "2026-12-08T20:00:00-08:00",
     "end": null,
@@ -3738,6 +3476,25 @@
     "neighbourhood": "Marina",
     "cycle_minutes": 24,
     "added": "2026-11-12"
+  },
+  {
+    "id": "ics-150528f21d46",
+    "title": "Talking Ourselves Into (and Out of) Connection",
+    "start": "2026-12-09T19:00:00-08:00",
+    "end": "2026-12-09T21:00:00-08:00",
+    "venue": "Swedish American Hall",
+    "address": "2174 Market St, San Francisco, CA 94114",
+    "url": "https://luma.com/t2a3cjw0",
+    "source": "ics:Big Brain Lectures - Bay Area",
+    "tags": [
+      "talk",
+      "community"
+    ],
+    "price": "$27 (Luma)",
+    "description": "Big Brain lecture: what research reveals about the hidden mechanics of everyday conversation, from predicting each other's sentences to building a shared sense of reality, and how it helps or hinders connection.",
+    "added": "2026-11-21",
+    "neighbourhood": "Upper Market",
+    "cycle_minutes": 15
   },
   {
     "title": "San Francisco Wednesday Contra Dance (beginner lesson 7:30)",
@@ -4479,6 +4236,24 @@
     "added": "2026-11-20"
   },
   {
+    "id": "ics-6794405a243d",
+    "title": "The Global History of Psychedelics",
+    "start": "2026-12-14T19:00:00-08:00",
+    "end": "2026-12-14T21:00:00-08:00",
+    "venue": "The Faight Collective",
+    "address": "473A Haight St, San Francisco, CA 94117",
+    "url": "https://luma.com/ej51xp9k",
+    "source": "ics:Big Brain Lectures - Bay Area",
+    "tags": [
+      "talk"
+    ],
+    "price": "$27 (Luma)",
+    "description": "Big Brain lecture-in-a-bar on the thousands-of-years history of psychedelics across cultures, from mushrooms and vines to today's wave of medical research.",
+    "added": "2026-11-21",
+    "neighbourhood": "Lower Haight",
+    "cycle_minutes": 16
+  },
+  {
     "title": "Willi Carlisle: The Universal Bubba Tour, with Amelia Day",
     "start": "2026-12-14T20:00:00-08:00",
     "end": null,
@@ -4587,6 +4362,25 @@
     "neighbourhood": "Berkeley",
     "added": "2026-10-31",
     "id": "drop-in-circling-workshop-berkeley-b7d1ce0e"
+  },
+  {
+    "id": "ics-9b5bb104ffaa",
+    "title": "The El Niño, Explained",
+    "start": "2026-12-15T19:00:00-08:00",
+    "end": "2026-12-15T21:00:00-08:00",
+    "venue": "Madrone Art Bar",
+    "address": "500 Divisadero St, San Francisco, CA 94117",
+    "url": "https://luma.com/t21wh34u",
+    "source": "ics:Big Brain Lectures - Bay Area",
+    "tags": [
+      "talk",
+      "tech"
+    ],
+    "price": "$27 (Luma)",
+    "description": "CBS News Bay Area meteorologist Zoe Mintz explains the science of El Niño and what this year's historic one means for California weather. Big Brain lecture-in-a-bar.",
+    "added": "2026-11-21",
+    "neighbourhood": "NoPa",
+    "cycle_minutes": 17
   },
   {
     "title": "The Velvet Teen with Shutups and Pocket Full of Crumbs",

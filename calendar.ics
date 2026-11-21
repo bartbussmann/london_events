@@ -5,245 +5,6 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:San Francisco Events
 X-WR-TIMEZONE:America/Los_Angeles
 BEGIN:VEVENT
-UID:patch-bay-workshop-computational-poetry-f2f24a11@sf-events
-DTSTAMP:20261119T020000Z
-DTSTART:20261119T020000Z
-DTEND:20261119T040000Z
-SUMMARY:Patch Bay workshop: Computational Poetry
-DESCRIPTION:Alicia Guo leads a hands-on workshop treating language as mate
- rial to be examined\, shaped and animated with code. It covers the histor
- y and tools of computational poetry\, part of Gray Area's weekly Patch Ba
- y creative-tech night.\nPrice: $25\nhttps://grayarea.org/event/patch-bay-
- interactive-worlds-ai-figma-workshop-2-2-2/
-URL:https://grayarea.org/event/patch-bay-interactive-worlds-ai-figma-works
- hop-2-2-2/
-LOCATION:Gray Area\, 2665 Mission St\, San Francisco\, CA 94110
-END:VEVENT
-BEGIN:VEVENT
-UID:gullah-stick-pounding-workshop-with-melanie-demore-free-248e76d2@sf-ev
- ents
-DTSTAMP:20261119T020000Z
-DTSTART:20261119T020000Z
-DTEND:20261119T040000Z
-SUMMARY:Gullah stick-pounding workshop with Melanie DeMore (free)
-DESCRIPTION:Free community workshop from Opera Parallele: learn Gullah sti
- ck pounding with three-time Grammy nominee Melanie DeMore\, combining foo
- t-stomping rhythm with spirituals and protest songs. Doors 5:30pm.\nPrice
- : Free (RSVP)\nhttps://www.zspace.org/salt-and-spirit
-URL:https://www.zspace.org/salt-and-spirit
-LOCATION:Z Space\, 450 Florida St\, San Francisco\, CA 94110
-END:VEVENT
-BEGIN:VEVENT
-UID:ics-d511beaed00f@sf-events
-DTSTAMP:20261119T023000Z
-DTSTART:20261119T023000Z
-DTEND:20261119T043000Z
-SUMMARY:EA SF Discussion Salon: What are the world's most pressing problem
- s?
-DESCRIPTION:EA SF Discussion Salon on cause prioritization at Mox — smal
- l-group discussion format\, good for meeting the local EA community. (Mov
- ed from 4 Nov to 18 Nov.)\nPrice: Free (register on Luma)\nhttps://luma.c
- om/anw0fxzg
-URL:https://luma.com/anw0fxzg
-LOCATION:Mox\, 1680 Mission St\, San Francisco\, CA 94103
-END:VEVENT
-BEGIN:VEVENT
-UID:casey-s-craft-club-beaded-necklaces-8a15b8b2@sf-events
-DTSTAMP:20261119T023000Z
-DTSTART:20261119T023000Z
-DTEND:20261119T053000Z
-SUMMARY:Casey's Craft Club: Beaded Necklaces
-DESCRIPTION:SOLD OUT. A drop-in evening craft club where you make a beaded
-  necklace\, with all materials provided. It's billed as a space to get cr
- afty and meet new friends.\nPrice: $44.52 (sold out)\nhttps://www.eventbr
- ite.com/e/caseys-craft-club-beaded-necklaces-tickets-2003249283533
-URL:https://www.eventbrite.com/e/caseys-craft-club-beaded-necklaces-ticket
- s-2003249283533
-LOCATION:Common Space\, 3108B Fillmore St\, San Francisco\, CA 94123
-END:VEVENT
-BEGIN:VEVENT
-UID:marie-darrieussecq-in-conversation-with-rita-bullwinkel-1e704d68@sf-ev
- ents
-DTSTAMP:20261119T030000Z
-DTSTART:20261119T030000Z
-DTEND:20261119T050000Z
-SUMMARY:Marie Darrieussecq in conversation with Rita Bullwinkel
-DESCRIPTION:The French novelist behind Pig Tales celebrates two new transl
- ations\, How to Make a Woman and Our Life in the Forest\, in conversation
-  with Headshot author Rita Bullwinkel. It's in-store and streamed.\nPrice
- : Free\nhttps://citylights.com/events/marie-darrieussecq-in-conversation-
- with-rita-bullwinkel/
-URL:https://citylights.com/events/marie-darrieussecq-in-conversation-with-
- rita-bullwinkel/
-LOCATION:City Lights Booksellers\, 261 Columbus Ave\, San Francisco\, CA 9
- 4133
-END:VEVENT
-BEGIN:VEVENT
-UID:free-psychedelic-film-night-mondo-new-york-b88e352d@sf-events
-DTSTAMP:20261119T030000Z
-DTSTART:20261119T030000Z
-DTEND:20261119T050000Z
-SUMMARY:Free psychedelic film night: Mondo New York
-DESCRIPTION:A free 21+ screening of Mondo New York\, a dreamlike collage o
- f New York's late-'80s downtown underground. It's part of a North Beach g
- allery's ongoing psychedelic film series.\nPrice: Free\nhttps://www.event
- brite.com/e/1989057550678
-URL:https://www.eventbrite.com/e/1989057550678
-LOCATION:The Church of Mother Gong\, 1345 Grant Ave\, San Francisco\, CA 9
- 4133
-END:VEVENT
-BEGIN:VEVENT
-UID:sfaa-lecture-southern-skies-global-reach-chile-and-modern-as-91cb66f5@
- sf-events
-DTSTAMP:20261119T030000Z
-DTSTART:20261119T030000Z
-DTEND:20261119T043000Z
-SUMMARY:SFAA lecture: Southern Skies\, Global Reach: Chile and Modern Astr
- onomy
-DESCRIPTION:The San Francisco Amateur Astronomers' free monthly lecture. M
- ission sidewalk-astronomy regular Brian 'Astro' Castro reports on his ACE
- AP visit to ALMA\, Vera Rubin and Gemini South and why Chile became astro
- nomy's capital. Come early for snacks and to meet the club. The museum is
-  up a steep hill above the Castro.\nPrice: Free\nhttps://www.sfaa-astrono
- my.org/public-events/lectures/lectures_2026/nov18_2026
-URL:https://www.sfaa-astronomy.org/public-events/lectures/lectures_2026/no
- v18_2026
-LOCATION:Randall Museum\, 199 Museum Way\, San Francisco\, CA 94114
-END:VEVENT
-BEGIN:VEVENT
-UID:san-francisco-rationalist-dinner-d87865b4@sf-events
-DTSTAMP:20261119T030000Z
-DTSTART:20261119T030000Z
-DTEND:20261119T060000Z
-SUMMARY:San Francisco Rationalist Dinner
-DESCRIPTION:An informal LessWrong community dinner where people discuss AI
-  safety\, recent blog posts and rationality topics\, and first-timers are
-  welcome. You pay for your own food at this restaurant on 2nd St in SoMa\
- , a short walk from home.\nhttps://www.lesswrong.com/events/z3gejrgP6LRuF
- FRkP/san-francisco-rationalist-dinner-3
-URL:https://www.lesswrong.com/events/z3gejrgP6LRuFFRkP/san-francisco-ratio
- nalist-dinner-3
-LOCATION:Mediterranean Bowl\, 2nd St\, San Francisco\, CA
-END:VEVENT
-BEGIN:VEVENT
-UID:astronomy-on-tap-sf-lava-worlds-fast-radio-bursts-8f8d7755@sf-events
-DTSTAMP:20261119T030000Z
-DTSTART:20261119T030000Z
-DTEND:20261119T050000Z
-SUMMARY:Astronomy on Tap SF: lava worlds + fast radio bursts
-DESCRIPTION:Short\, laid-back astronomy talks in a bar: Stanford's Laura S
- chaefer on JWST and lava worlds\, and Berkeley's Calvin Leung on finding 
- missing matter with fast radio bursts. Q&A is relaxed.\nPrice: Free (1-dr
- ink minimum\, $13)\nhttps://www.eventbrite.com/e/astronomy-on-tap-sf-nove
- mber-2026-tickets-2004626231020
-URL:https://www.eventbrite.com/e/astronomy-on-tap-sf-november-2026-tickets
- -2004626231020
-LOCATION:Public Works\, 161 Erie St\, San Francisco\, CA 94103
-END:VEVENT
-BEGIN:VEVENT
-UID:jenny-tian-ripe-f07eadcf@sf-events
-DTSTAMP:20261119T033000Z
-DTSTART:20261119T033000Z
-DTEND:20261119T053000Z
-SUMMARY:Jenny Tian: Ripe
-DESCRIPTION:Australian stand-up Jenny Tian brings her touring hour 'Ripe' 
- to SF's classic North Beach comedy club. It's a headline show\, not an op
- en mic.\nhttps://www.ticketmaster.com/jenny-tian-ripe-san-francisco-calif
- ornia-11-18-2026/event/1C0064AC13A553C5
-URL:https://www.ticketmaster.com/jenny-tian-ripe-san-francisco-california-
- 11-18-2026/event/1C0064AC13A553C5
-LOCATION:Cobb's Comedy Club\, 915 Columbus Ave\, San Francisco\, CA 94133
-END:VEVENT
-BEGIN:VEVENT
-UID:the-humanist-review-of-ai-abundance-scarcity-mustafa-suleyma-d3e05490@
- sf-events
-DTSTAMP:20261119T040000Z
-DTSTART:20261119T040000Z
-DTEND:20261119T050000Z
-SUMMARY:The Humanist Review of AI: Abundance & Scarcity (Mustafa Suleyman\
- , Sarah Guo\, Aaron Bastani)
-DESCRIPTION:Microsoft AI CEO Mustafa Suleyman\, investor Sarah Guo and 'Fu
- lly Automated Luxury Communism' author Aaron Bastani debate what becomes 
- scarce when intelligence is abundant. Doors 7pm\; in-person attendees get
-  a copy of The Humanist Review of AI.\nPrice: $45 ($10 students)\nhttps:/
- /www.commonwealthclub.org/events/2026-11-18/humanist-review-ai-abundance-
- scarcity
-URL:https://www.commonwealthclub.org/events/2026-11-18/humanist-review-ai-
- abundance-scarcity
-LOCATION:Commonwealth Club World Affairs\, 110 The Embarcadero\, San Franc
- isco\, CA 94105
-END:VEVENT
-BEGIN:VEVENT
-UID:hamilton-leithauser-rostam-at-the-castro-5df1b100@sf-events
-DTSTAMP:20261119T040000Z
-DTSTART:20261119T040000Z
-DTEND:20261119T060000Z
-SUMMARY:Hamilton Leithauser + Rostam at the Castro
-DESCRIPTION:The Walkmen's singer and ex-Vampire Weekend co-writer Rostam r
- eunite for their indie-rock collaboration I Had a Dream That You Were Min
- e. Doors 7pm\, show 8pm\; all ages.\nhttps://thecastro.com/events/hamilto
- n-leithauser-and-rostam-261118
-URL:https://thecastro.com/events/hamilton-leithauser-and-rostam-261118
-LOCATION:Castro Theatre\, 429 Castro St\, San Francisco\, CA 94114
-END:VEVENT
-BEGIN:VEVENT
-UID:john-carroll-kirby-at-the-chapel-14497fef@sf-events
-DTSTAMP:20261119T040000Z
-DTSTART:20261119T040000Z
-DTEND:20261119T060000Z
-SUMMARY:John Carroll Kirby at The Chapel
-DESCRIPTION:LA keyboardist-producer of lush\, jazzy instrumental music (So
- lange\, Frank Ocean collaborator) plays the Mission's converted-mortuary 
- venue\, presented by (((folkYEAH!))). Doors 7pm\, show 8pm.\nPrice: $30 s
- tanding / $45 seated (+fees)\nhttps://wl.seetickets.us/event/john-carroll
- -kirby/700565?afflky=TheChapel
-URL:https://wl.seetickets.us/event/john-carroll-kirby/700565?afflky=TheCha
- pel
-LOCATION:The Chapel\, 777 Valencia St\, San Francisco\, CA 94110
-END:VEVENT
-BEGIN:VEVENT
-UID:jamila-woods-10-years-of-heavn-with-hannah-mayree-fe61345f@sf-events
-DTSTAMP:20261119T040000Z
-DTSTART:20261119T040000Z
-DTEND:20261119T060000Z
-SUMMARY:Jamila Woods: 10 Years of HEAVN\, with Hannah Mayree
-DESCRIPTION:The Chicago poet-singer marks ten years of her soul/R&B debut 
- HEAVN in a small room (moved here from August Hall). Doors 7pm\, show 8pm
- \, all ages.\nPrice: $44.76 (incl. fees)\nhttps://wl.eventim.us/event/jam
- ila-woods-10-years-of-heavn/709496?afflky=RickshawStop
-URL:https://wl.eventim.us/event/jamila-woods-10-years-of-heavn/709496?affl
- ky=RickshawStop
-LOCATION:Rickshaw Stop\, 155 Fell St\, San Francisco\, CA
-END:VEVENT
-BEGIN:VEVENT
-UID:mild-universe-with-joel-robinow-and-pateka-8e62eb0a@sf-events
-DTSTAMP:20261119T043000Z
-DTSTART:20261119T043000Z
-DTEND:20261119T063000Z
-SUMMARY:Mild Universe with Joel Robinow and Pateka
-DESCRIPTION:SF six-piece indie-dance collective mixing 90s house\, disco\,
-  soul and post-punk with horns and synths\, plus psych-funk and neo-soul 
- openers. Doors 8pm\, music 8:30pm\, all ages.\nPrice: $15 adv / $18 door\
- nhttp://www.bottomofthehill.com/20261118.html
-URL:http://www.bottomofthehill.com/20261118.html
-LOCATION:Bottom of the Hill\, 1233 17th St\, San Francisco\, CA
-END:VEVENT
-BEGIN:VEVENT
-UID:cat-s-corner-wednesday-swing-dance-with-the-neil-angelo-band-8da7bd03@
- sf-events
-DTSTAMP:20261119T050000Z
-DTSTART:20261119T050000Z
-DTEND:20261119T073000Z
-SUMMARY:Cat's Corner: Wednesday swing dance with the Neil Angelo Band
-DESCRIPTION:SF's Wednesday-night lindy hop and swing party\, now in North 
- Beach. A free 9pm beginner drop-in lesson\, then live band dancing until 
- 11:30. It's very social\, with lots of partner rotation.\nPrice: $15 (inc
- l. 9pm drop-in lesson\; $10 before 8:30pm)\nhttps://www.catscornersf.com/
-URL:https://www.catscornersf.com/
-LOCATION:Mabuhay Gardens (Cat's Corner)\, 435 Broadway\, San Francisco\, C
- A 94133
-END:VEVENT
-BEGIN:VEVENT
 UID:exploratorium-after-dark-glow-opening-621d3306@sf-events
 DTSTAMP:20261120T020000Z
 DTSTART:20261120T020000Z
@@ -2052,6 +1813,19 @@ URL:https://longnow.org/talks/02026-prelinger/
 LOCATION:Herbst Theatre\, 401 Van Ness Ave\, San Francisco\, CA 94102
 END:VEVENT
 BEGIN:VEVENT
+UID:ics-5c61170e4cf4@sf-events
+DTSTAMP:20261203T030000Z
+DTSTART:20261203T030000Z
+DTEND:20261203T050000Z
+SUMMARY:San Francisco\, Uncovered: The Stories Behind the Skyline
+DESCRIPTION:Big Brain lecture-in-a-bar: the stories behind SF's skyline la
+ ndmarks\, from what Sutro Tower is actually for to how a Roman-style rotu
+ nda ended up by a lagoon in the Marina.\nPrice: $27 (Luma)\nhttps://luma.
+ com/05ug8thf
+URL:https://luma.com/05ug8thf
+LOCATION:Madrone Art Bar\, 500 Divisadero St\, San Francisco\, CA 94117
+END:VEVENT
+BEGIN:VEVENT
 UID:shaping-sf-talk-san-francisco-capital-of-the-nerd-reich-gil--bf895447@
  sf-events
 DTSTAMP:20261203T033000Z
@@ -2883,6 +2657,19 @@ LOCATION:City Lights Booksellers\, 261 Columbus Ave\, San Francisco\, CA 9
  4133
 END:VEVENT
 BEGIN:VEVENT
+UID:ics-8a9679e04ff4@sf-events
+DTSTAMP:20261209T030000Z
+DTSTART:20261209T030000Z
+DTEND:20261209T050000Z
+SUMMARY:Do I Want Kids? A Psychology-Based Guide to Figuring It Out
+DESCRIPTION:Big Brain lecture-in-a-bar: a psychology researcher on why dec
+ iding whether to have children is so hard and how to approach the choice.
+  A repeat of the sold-out 10 Nov talk.\nPrice: $27 (Luma)\nhttps://luma.c
+ om/iv035jpu
+URL:https://luma.com/iv035jpu
+LOCATION:The Faight Collective\, 473A Haight St\, San Francisco\, CA 94117
+END:VEVENT
+BEGIN:VEVENT
 UID:wishy-with-the-umbrellas-e2a1a3d5@sf-events
 DTSTAMP:20261209T040000Z
 DTSTART:20261209T040000Z
@@ -2990,6 +2777,19 @@ DESCRIPTION:A holiday-themed hosted speed-dating night for singles aged 25
 URL:https://www.eventbrite.com/e/merry-speed-dating-sf-singles-ages-25-39-
  tickets-2004689307684
 LOCATION:ERIA Marina\, 2300 Chestnut St\, San Francisco\, CA 94123
+END:VEVENT
+BEGIN:VEVENT
+UID:ics-150528f21d46@sf-events
+DTSTAMP:20261210T030000Z
+DTSTART:20261210T030000Z
+DTEND:20261210T050000Z
+SUMMARY:Talking Ourselves Into (and Out of) Connection
+DESCRIPTION:Big Brain lecture: what research reveals about the hidden mech
+ anics of everyday conversation\, from predicting each other's sentences t
+ o building a shared sense of reality\, and how it helps or hinders connec
+ tion.\nPrice: $27 (Luma)\nhttps://luma.com/t2a3cjw0
+URL:https://luma.com/t2a3cjw0
+LOCATION:Swedish American Hall\, 2174 Market St\, San Francisco\, CA 94114
 END:VEVENT
 BEGIN:VEVENT
 UID:san-francisco-wednesday-contra-dance-beginner-lesson-7-30-70c5ccb9@sf-
@@ -3581,6 +3381,18 @@ URL:https://app.gopassage.com/events/SRP1226
 LOCATION:The Booksmith\, 1727 Haight St\, San Francisco\, CA 94117
 END:VEVENT
 BEGIN:VEVENT
+UID:ics-6794405a243d@sf-events
+DTSTAMP:20261215T030000Z
+DTSTART:20261215T030000Z
+DTEND:20261215T050000Z
+SUMMARY:The Global History of Psychedelics
+DESCRIPTION:Big Brain lecture-in-a-bar on the thousands-of-years history o
+ f psychedelics across cultures\, from mushrooms and vines to today's wave
+  of medical research.\nPrice: $27 (Luma)\nhttps://luma.com/ej51xp9k
+URL:https://luma.com/ej51xp9k
+LOCATION:The Faight Collective\, 473A Haight St\, San Francisco\, CA 94117
+END:VEVENT
+BEGIN:VEVENT
 UID:willi-carlisle-the-universal-bubba-tour-with-amelia-day-74a464a1@sf-ev
  ents
 DTSTAMP:20261215T040000Z
@@ -3671,6 +3483,19 @@ DESCRIPTION:The Circling Institute's monthly in-person drop-in evening of
  /events/thecirclinginsitute/2486228
 URL:https://www.tickettailor.com/events/thecirclinginsitute/2486228
 LOCATION:Animal Rights Center\, 2414 6th St\, Berkeley\, CA 94710
+END:VEVENT
+BEGIN:VEVENT
+UID:ics-9b5bb104ffaa@sf-events
+DTSTAMP:20261216T030000Z
+DTSTART:20261216T030000Z
+DTEND:20261216T050000Z
+SUMMARY:The El Niño\, Explained
+DESCRIPTION:CBS News Bay Area meteorologist Zoe Mintz explains the science
+  of El Niño and what this year's historic one means for California weath
+ er. Big Brain lecture-in-a-bar.\nPrice: $27 (Luma)\nhttps://luma.com/t21w
+ h34u
+URL:https://luma.com/t21wh34u
+LOCATION:Madrone Art Bar\, 500 Divisadero St\, San Francisco\, CA 94117
 END:VEVENT
 BEGIN:VEVENT
 UID:the-velvet-teen-with-shutups-and-pocket-full-of-crumbs-0b1dab2e@sf-eve
