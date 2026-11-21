@@ -3274,6 +3274,24 @@
     "id": "daniel-swain-2026-stephen-schneider-award-for-climate-scienc-b8d70b21"
   },
   {
+    "id": "arlie-russell-hochschild-in-conversation-with-andrew-keen-wh-b9a6227a",
+    "title": "Arlie Russell Hochschild in conversation with Andrew Keen: Who Stole America's Pride?",
+    "start": "2026-12-08T18:00:00-08:00",
+    "end": "2026-12-08T19:00:00-08:00",
+    "venue": "Manny's",
+    "address": "3092 16th St, San Francisco, CA 94103",
+    "url": "https://www.eventbrite.com/e/how-to-see-america-who-stole-americas-pride-tickets-2003996604791",
+    "source": "venue:mannys",
+    "tags": [
+      "talk"
+    ],
+    "price": "$12.36-$15.45",
+    "description": "The Berkeley sociologist behind Strangers in Their Own Land talks with Andrew Keen about pride, shame and American politics. It's an intimate talk in Manny's 'How To See America' series.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 13,
+    "added": "2026-11-08"
+  },
+  {
     "id": "mindful-tuesdays-discovering-authentic-movement-free-intro-e76fdf0e",
     "title": "Mindful Tuesdays: Discovering Authentic Movement (free intro)",
     "start": "2026-12-08T18:30:00-08:00",
@@ -4264,7 +4282,7 @@
     "tags": [
       "music"
     ],
-    "price": null,
+    "price": "$34.01",
     "description": "The Ozarks folksinger and storyteller tours his new Tyler Childers-produced double album of old-time, Cajun and Americana. Doors 7:30pm, all ages.",
     "neighbourhood": "NoPa",
     "cycle_minutes": 18,
@@ -4437,24 +4455,6 @@
     "cycle_minutes": 8,
     "added": "2026-10-29",
     "id": "richie-unterberger-the-velvet-underground-talk-audiovisual-p-7d50845c"
-  },
-  {
-    "id": "arlie-russell-hochschild-in-conversation-with-andrew-keen-wh-b9a6227a",
-    "title": "Arlie Russell Hochschild in conversation with Andrew Keen: Who Stole America's Pride?",
-    "start": "2026-12-16T18:00:00-08:00",
-    "end": "2026-12-16T19:00:00-08:00",
-    "venue": "Manny's",
-    "address": "3092 16th St, San Francisco, CA 94103",
-    "url": "https://www.eventbrite.com/e/how-to-see-america-who-stole-americas-pride-tickets-2003996604791",
-    "source": "venue:mannys",
-    "tags": [
-      "talk"
-    ],
-    "price": "$9-$19",
-    "description": "The Berkeley sociologist behind Strangers in Their Own Land talks with Andrew Keen about pride, shame and American politics. It's an intimate talk in Manny's 'How To See America' series.",
-    "neighbourhood": "Mission",
-    "cycle_minutes": 13,
-    "added": "2026-11-08"
   },
   {
     "id": "rent-at-san-francisco-playhouse-preview-performance-30b541b4",
@@ -4652,7 +4652,7 @@
     "tags": [
       "music"
     ],
-    "price": "$25 adv / $30 door",
+    "price": "$30 adv / $30 door ($38.01 advance incl. fees)",
     "description": "The former Girls frontman, an SF indie songwriter, plays a hometown show at Bottom of the Hill. All ages, doors 7:30pm.",
     "neighbourhood": "Potrero Hill",
     "cycle_minutes": 12,
@@ -4960,25 +4960,6 @@
     "added": "2026-11-20"
   },
   {
-    "title": "Green Exercise ocean hike: Lands End coastal trail (Meetup group hike)",
-    "start": "2026-12-20T13:00:00-08:00",
-    "end": "2026-12-20T16:30:00-08:00",
-    "venue": "Beach-side parking lot across from Beach Chalet (meeting point)",
-    "address": "Great Highway & John F Kennedy Dr, San Francisco, CA 94121",
-    "url": "https://www.meetup.com/bay-area-hiking-walking-wellness-club/events/316836465/",
-    "source": "aggregator:meetup",
-    "tags": [
-      "outdoors",
-      "community"
-    ],
-    "price": "Free",
-    "description": "A public, social Meetup group hike along the Lands End Coastal Trail past the Sutro Baths ruins, with Golden Gate views. It's open to newcomers and pitched as a way to meet new friends and get a workout.",
-    "neighbourhood": "Outer Richmond",
-    "cycle_minutes": 45,
-    "added": "2026-11-04",
-    "id": "green-exercise-ocean-hike-lands-end-coastal-trail-meetup-gro-0fb9b294"
-  },
-  {
     "id": "contact-improvisation-class-with-dai-wei-at-odc-826050b6",
     "title": "Contact Improvisation class with Dai & Wei at ODC",
     "start": "2026-12-20T13:15:00-08:00",
@@ -5053,25 +5034,6 @@
     "id": "a-chanticleer-christmas-7f99ee32"
   },
   {
-    "title": "Circuit Hacking Monday: open electronics workshop at Noisebridge",
-    "start": "2026-12-21T19:00:00-08:00",
-    "end": "2026-12-21T21:00:00-08:00",
-    "venue": "Noisebridge hackerspace",
-    "address": "272 Capp St, San Francisco, CA 94110",
-    "url": "https://www.meetup.com/noisebridge/events/317172033/",
-    "source": "aggregator:meetup",
-    "tags": [
-      "workshop",
-      "tech"
-    ],
-    "price": "Free (donations welcome)",
-    "description": "Weekly open workshop at the Mission's volunteer-run hackerspace, with soldering stations, test equipment and people working on electronics, robotics and embedded projects. You can bring a project or just come and learn. It's a public event with no lectures.",
-    "neighbourhood": "Mission",
-    "cycle_minutes": 13,
-    "added": "2026-11-04",
-    "id": "circuit-hacking-monday-open-electronics-workshop-at-noisebri-7bd205bc"
-  },
-  {
     "title": "SalsaCrazy Mondays: holiday salsa lesson + salsa/bachata dancing",
     "start": "2026-12-21T19:00:00-08:00",
     "end": "2026-12-21T23:30:00-08:00",
@@ -5107,6 +5069,25 @@
     "cycle_minutes": 14,
     "added": "2026-10-29",
     "id": "a-brass-and-organ-christmas-with-the-bay-brass-850db543"
+  },
+  {
+    "title": "Circuit Hacking Monday: open electronics workshop at Noisebridge",
+    "start": "2026-12-21T19:30:00-08:00",
+    "end": "2026-12-21T21:30:00-08:00",
+    "venue": "Noisebridge hackerspace",
+    "address": "272 Capp St, San Francisco, CA 94110",
+    "url": "https://www.meetup.com/noisebridge/events/317172033/",
+    "source": "aggregator:meetup",
+    "tags": [
+      "workshop",
+      "tech"
+    ],
+    "price": "Free (donations welcome)",
+    "description": "Weekly open workshop at the Mission's volunteer-run hackerspace, with soldering stations, test equipment and people working on electronics, robotics and embedded projects. You can bring a project or just come and learn. It's a public event with no lectures.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 13,
+    "added": "2026-11-04",
+    "id": "circuit-hacking-monday-open-electronics-workshop-at-noisebri-7bd205bc"
   },
   {
     "id": "contact-improvisation-class-jam-at-the-castro-room-5e044ff2",
@@ -5266,7 +5247,7 @@
     "tags": [
       "music"
     ],
-    "price": null,
+    "price": "$34.01",
     "description": "A Bay Area-raised brothers' indie band mixing surf, garage rock and big vocal melodies, playing a hometown holiday show at the Independent. All ages; doors 7:30pm.",
     "neighbourhood": "NoPa",
     "cycle_minutes": 18,
@@ -5554,6 +5535,25 @@
     "added": "2026-11-12"
   },
   {
+    "title": "Green Exercise ocean hike: Lands End coastal trail (Meetup group hike)",
+    "start": "2026-12-26T13:00:00-08:00",
+    "end": "2026-12-26T16:30:00-08:00",
+    "venue": "Beach-side parking lot across from Beach Chalet (meeting point)",
+    "address": "Great Highway & John F Kennedy Dr, San Francisco, CA 94121",
+    "url": "https://www.meetup.com/bay-area-hiking-walking-wellness-club/events/316836465/",
+    "source": "aggregator:meetup",
+    "tags": [
+      "outdoors",
+      "community"
+    ],
+    "price": "Free",
+    "description": "A public, social Meetup group hike along the Lands End Coastal Trail past the Sutro Baths ruins, with Golden Gate views. It's open to newcomers and pitched as a way to meet new friends and get a workout.",
+    "neighbourhood": "Outer Richmond",
+    "cycle_minutes": 45,
+    "added": "2026-11-04",
+    "id": "green-exercise-ocean-hike-lands-end-coastal-trail-meetup-gro-0fb9b294"
+  },
+  {
     "title": "Bottom of the Hill holiday matinee: Top Secret Robot Alliance, Varona, Luke Sweeney, Matt Jaffe + more",
     "start": "2026-12-26T16:30:00-08:00",
     "end": null,
@@ -5684,25 +5684,6 @@
     "id": "jerry-s-middle-finger-fd53971c"
   },
   {
-    "title": "Circuit Hacking Monday: open electronics workshop at Noisebridge",
-    "start": "2026-12-28T19:00:00-08:00",
-    "end": "2026-12-28T21:00:00-08:00",
-    "venue": "Noisebridge hackerspace",
-    "address": "272 Capp St, San Francisco, CA 94110",
-    "url": "https://www.meetup.com/noisebridge/events/317172035/",
-    "source": "aggregator:meetup",
-    "tags": [
-      "workshop",
-      "tech"
-    ],
-    "price": "Free (donations welcome)",
-    "description": "The same weekly open electronics night at the Mission hackerspace in the quiet week between Christmas and New Year: soldering stations, test gear and people tinkering on robotics and embedded projects. Beginners are welcome to come and learn.",
-    "neighbourhood": "Mission",
-    "cycle_minutes": 13,
-    "added": "2026-11-04",
-    "id": "circuit-hacking-monday-open-electronics-workshop-at-noisebri-e2fb2ba8"
-  },
-  {
     "id": "alamo-drafthouse-the-apartment-3f26c176",
     "title": "Alamo Drafthouse: The Apartment",
     "start": "2026-12-28T19:00:00-08:00",
@@ -5739,6 +5720,25 @@
     "neighbourhood": "Presidio Heights",
     "cycle_minutes": 25,
     "added": "2026-11-09"
+  },
+  {
+    "title": "Circuit Hacking Monday: open electronics workshop at Noisebridge",
+    "start": "2026-12-28T19:30:00-08:00",
+    "end": "2026-12-28T21:30:00-08:00",
+    "venue": "Noisebridge hackerspace",
+    "address": "272 Capp St, San Francisco, CA 94110",
+    "url": "https://www.meetup.com/noisebridge/events/317172035/",
+    "source": "aggregator:meetup",
+    "tags": [
+      "workshop",
+      "tech"
+    ],
+    "price": "Free (donations welcome)",
+    "description": "The same weekly open electronics night at the Mission hackerspace in the quiet week between Christmas and New Year: soldering stations, test gear and people tinkering on robotics and embedded projects. Beginners are welcome to come and learn.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 13,
+    "added": "2026-11-04",
+    "id": "circuit-hacking-monday-open-electronics-workshop-at-noisebri-e2fb2ba8"
   },
   {
     "title": "Man or Astro-man? with The Subsonics",
@@ -6152,6 +6152,25 @@
     "id": "sf-city-guides-free-walking-tour-castro-tales-of-the-village-cf346476"
   },
   {
+    "id": "the-commons-monthly-picnic-in-alamo-square-bc44103a",
+    "title": "The Commons monthly picnic in Alamo Square",
+    "start": "2027-01-02T12:00:00-08:00",
+    "end": "2027-01-02T14:00:00-08:00",
+    "venue": "Alamo Square Park (The SF Commons)",
+    "address": "Alamo Square Park, San Francisco, CA",
+    "url": "https://luma.com/the-axr7",
+    "source": "listing:luma-sf-commons",
+    "tags": [
+      "community",
+      "outdoors"
+    ],
+    "price": "Free",
+    "description": "The SF Commons' monthly picnic with blankets, shared snacks, lawn games and a surprise live band in the second half. It's an easy, drop-in way to meet the Hayes Valley community crowd, and +1s are welcome.",
+    "neighbourhood": "Alamo Square",
+    "cycle_minutes": 18,
+    "added": "2026-11-21"
+  },
+  {
     "id": "saturday-adult-roller-disco-at-the-church-of-8-wheels-4d81d32f",
     "title": "Saturday adult roller disco at the Church of 8 Wheels",
     "start": "2027-01-02T19:00:00-08:00",
@@ -6208,6 +6227,25 @@
     "neighbourhood": "Golden Gate Park",
     "cycle_minutes": 28,
     "added": "2026-11-18"
+  },
+  {
+    "id": "monthly-reflection-jam-at-the-commons-390503c1",
+    "title": "Monthly Reflection Jam at The Commons",
+    "start": "2027-01-03T17:00:00-08:00",
+    "end": "2027-01-03T19:00:00-08:00",
+    "venue": "The SF Commons",
+    "address": "550 Laguna St, San Francisco, CA 94102",
+    "url": "https://luma.com/the-wrlq",
+    "source": "listing:luma-sf-commons",
+    "tags": [
+      "workshop",
+      "community"
+    ],
+    "price": "Free",
+    "description": "A first-Sunday evening of guided journaling prompts about the past month. You can choose to share your reflections in a small group ('Mingling Muser') or journal on your own. It's a gentle, conversation-based way to start the year with new people.",
+    "neighbourhood": "Hayes Valley",
+    "cycle_minutes": 12,
+    "added": "2026-11-21"
   },
   {
     "title": "SF Salsa Social: beginner class + salsa & mambo dancing",
@@ -6397,6 +6435,25 @@
     "added": "2026-11-11"
   },
   {
+    "id": "somatic-breathwork-at-the-commons-d48edde3",
+    "title": "Somatic Breathwork at The Commons",
+    "start": "2027-01-07T18:00:00-08:00",
+    "end": null,
+    "venue": "The SF Commons",
+    "address": "540 Laguna St, San Francisco, CA 94102",
+    "url": "https://luma.com/the-wjcr",
+    "source": "listing:luma-sf-commons",
+    "tags": [
+      "workshop",
+      "community"
+    ],
+    "price": "$20 (flexible)",
+    "description": "A guided somatic breathwork session at The Commons community space in Hayes Valley. See the Luma page for details.",
+    "neighbourhood": "Hayes Valley",
+    "cycle_minutes": 12,
+    "added": "2026-11-21"
+  },
+  {
     "title": "The Loved Ones: Latest Hits record release, with The Vesuvians",
     "start": "2027-01-07T20:00:00-08:00",
     "end": null,
@@ -6527,6 +6584,25 @@
     "id": "sf-city-guides-free-walking-tour-welcome-to-san-francisco-fo-4a4cd4a7"
   },
   {
+    "id": "chinatown-sf-neon-walking-tour-e52ec6ce",
+    "title": "Chinatown SF Neon Walking Tour",
+    "start": "2027-01-09T16:30:00-08:00",
+    "end": "2027-01-09T18:00:00-08:00",
+    "venue": "Chinatown YMCA (meeting point, on the sidewalk)",
+    "address": "855 Sacramento St, San Francisco, CA 94108",
+    "url": "https://www.eventbrite.com/e/chinatown-sf-neon-walking-tour-19-tickets-2004693773040",
+    "source": "listing:sf-neon",
+    "tags": [
+      "outdoors",
+      "art"
+    ],
+    "price": "$19.72-$38.12",
+    "description": "A twilight walk through Chinatown's back alleys with the San Francisco Neon authors Al Barna and Randall Ann Homan, looking at ghost signs and vintage neon. It ends at dusk with the restored Golden Star Radio sign on Clay Street.",
+    "neighbourhood": "Chinatown",
+    "cycle_minutes": 10,
+    "added": "2026-11-21"
+  },
+  {
     "title": "Anna von Hausswolff with KatzPascale",
     "start": "2027-01-09T20:00:00-08:00",
     "end": null,
@@ -6601,6 +6677,25 @@
     "id": "sf-city-guides-free-walking-tour-embarcadero-south-a-turbule-c41e5135"
   },
   {
+    "id": "purpose-alignment-circle-at-the-commons-09e18434",
+    "title": "Purpose Alignment Circle at The Commons",
+    "start": "2027-01-10T14:30:00-08:00",
+    "end": null,
+    "venue": "The SF Commons",
+    "address": "540 Laguna St, San Francisco, CA 94102",
+    "url": "https://luma.com/the-lwqe",
+    "source": "listing:luma-sf-commons",
+    "tags": [
+      "workshop",
+      "community"
+    ],
+    "price": "Free",
+    "description": "A free small-group Purpose Alignment Circle at The Commons community space in Hayes Valley. See the Luma page for the format.",
+    "neighbourhood": "Hayes Valley",
+    "cycle_minutes": 12,
+    "added": "2026-11-21"
+  },
+  {
     "id": "crafting-in-the-castro-notebook-making-eff7a549",
     "title": "Crafting in the Castro: notebook making",
     "start": "2027-01-10T15:00:00-08:00",
@@ -6618,6 +6713,25 @@
     "neighbourhood": "Castro",
     "cycle_minutes": 16,
     "added": "2026-11-18"
+  },
+  {
+    "id": "irish-partner-dancing-with-live-music-free-beginner-lesson-a-1f387325",
+    "title": "Irish partner dancing with live music (free beginner lesson) at O'Reilly's",
+    "start": "2027-01-10T17:00:00-08:00",
+    "end": "2027-01-10T21:00:00-08:00",
+    "venue": "O'Reilly's Pub",
+    "address": "1840 Haight St, San Francisco, CA 94117",
+    "url": "https://www.eventbrite.com/e/irish-partner-dancing-with-live-music-free-lesson-tickets-2005167107797",
+    "source": "aggregator:eventbrite",
+    "tags": [
+      "dance",
+      "music"
+    ],
+    "price": "$10 donation (to the musicians)",
+    "description": "A monthly second-Sunday Irish set-dancing night, the closest thing in SF to a ceilidh. A beginner lesson at 5pm walks you through the steps, then live-music dancing starts at 6pm. 21+.",
+    "neighbourhood": "Haight-Ashbury",
+    "cycle_minutes": 22,
+    "added": "2026-11-21"
   },
   {
     "title": "Nora Brown with Stephanie Coleman",
@@ -6921,6 +7035,25 @@
     "id": "the-16th-annual-bowie-bash-ee5e1ce5"
   },
   {
+    "id": "tea-class-tasting-at-tap-twice-tea-ca4d3921",
+    "title": "Tea Class & Tasting at Tap Twice Tea",
+    "start": "2027-01-16T11:00:00-08:00",
+    "end": "2027-01-16T12:30:00-08:00",
+    "venue": "Tap Twice Tea",
+    "address": "2822 22nd St, San Francisco, CA 94110",
+    "url": "https://www.eventbrite.com/e/tea-class-tasting-tickets-2004749079463",
+    "source": "listing:tap-twice-tea",
+    "tags": [
+      "food",
+      "class"
+    ],
+    "price": "$65",
+    "description": "A hands-on Saturday-morning workshop on tea history, varieties and brewing, with a guided tasting of one tea from each of five categories. It's taught by Jody, who has sourced tea in Asia since 2009.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 14,
+    "added": "2026-11-21"
+  },
+  {
     "id": "predicting-our-futures-black-feminist-zine-making-workshop-98e6ff35",
     "title": "Predicting Our Futures: Black feminist zine-making workshop",
     "start": "2027-01-16T13:00:00-08:00",
@@ -7034,6 +7167,44 @@
     "cycle_minutes": 13,
     "added": "2026-11-04",
     "id": "laser-cutter-safety-training-at-noisebridge-798797eb"
+  },
+  {
+    "id": "artist-curator-talk-rael-san-fratello-at-ybca-a39d265d",
+    "title": "Artist & curator talk: Rael San Fratello at YBCA",
+    "start": "2027-01-17T14:00:00-08:00",
+    "end": null,
+    "venue": "YBCA Screening Room",
+    "address": "701 Mission St, San Francisco, CA 94103",
+    "url": "https://ybca.org/event/artist-curator-talk-rael-san-fratello-1-17-27/",
+    "source": "venue:ybca",
+    "tags": [
+      "talk",
+      "art"
+    ],
+    "price": "Free (registration required)",
+    "description": "Ronald Rael and Virginia San Fratello, the design duo known for 3D-printed earth architecture and the Teeter-Totter Wall, talk about their YBCA exhibition 'Prototypes and Provocations'. Curator René Morales then moderates a conversation with them.",
+    "neighbourhood": "SoMa",
+    "cycle_minutes": 3,
+    "added": "2026-11-21"
+  },
+  {
+    "id": "improv-e-your-dating-life-improv-based-dating-workshop-ec8573dd",
+    "title": "Improv(e) Your Dating Life: improv-based dating workshop",
+    "start": "2027-01-17T15:30:00-08:00",
+    "end": "2027-01-17T17:30:00-08:00",
+    "venue": "Endgames Improv Theater",
+    "address": "2965 Mission St, San Francisco, CA 94110",
+    "url": "https://www.eventbrite.com/e/improve-your-dating-life-tickets-1996417248733",
+    "source": "aggregator:eventbrite",
+    "tags": [
+      "workshop",
+      "comedy"
+    ],
+    "price": "$20-$40",
+    "description": "A two-hour Sunday workshop led by improv and dating coach Dylan Garcia that mixes improv games with dating tips to build confidence and presence. It's open to all adults 18+, and you meet other singles along the way.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 17,
+    "added": "2026-11-21"
   },
   {
     "title": "Mucha Salsa+ social (free beginner class)",
@@ -7261,6 +7432,25 @@
     "id": "berkeley-wednesday-contra-dance-the-flagstones-43b65fb3"
   },
   {
+    "id": "dona-murad-librae-omnivore-books-author-talk-7a85a31d",
+    "title": "Dona Murad: Librae (Omnivore Books author talk)",
+    "start": "2027-01-21T18:30:00-08:00",
+    "end": null,
+    "venue": "Omnivore Books on Food",
+    "address": "3885A Cesar Chavez St, San Francisco, CA 94131",
+    "url": "https://omnivorebooks.myshopify.com/products/dona-murad-author-event-librae-third-culture-recipes-from-a-cult-new-york-bakery",
+    "source": "venue:omnivore-books",
+    "tags": [
+      "food",
+      "talk"
+    ],
+    "price": "Free",
+    "description": "The founder of New York's cult bakery Librae talks about her debut cookbook of Bahraini-meets-Danish pastries, from za'atar sourdough to loomi babka. It's a free in-store event with first-come seating.",
+    "neighbourhood": "Noe Valley",
+    "cycle_minutes": 22,
+    "added": "2026-11-21"
+  },
+  {
     "id": "vijay-iyer-wadada-leo-smith-an-evening-of-duets-682f4146",
     "title": "Vijay Iyer & Wadada Leo Smith: an evening of duets",
     "start": "2027-01-21T19:30:00-08:00",
@@ -7426,6 +7616,25 @@
     "neighbourhood": "Mission",
     "cycle_minutes": 14,
     "added": "2026-11-18"
+  },
+  {
+    "id": "tantra-speed-date-speed-dating-beyond-small-talk-ba0e9653",
+    "title": "Tantra Speed Date: speed dating beyond small talk",
+    "start": "2027-01-23T18:00:00-08:00",
+    "end": "2027-01-23T21:00:00-08:00",
+    "venue": "Yoga studio, 1694 Union St",
+    "address": "1694 Union St, San Francisco, CA 94123",
+    "url": "https://www.eventbrite.com/e/speed-dating-beyond-small-talk-sf-bay-area-speed-dating-tantra-speed-date-tickets-1993522512499",
+    "source": "aggregator:eventbrite",
+    "tags": [
+      "community",
+      "workshop"
+    ],
+    "price": "From $48.76",
+    "description": "A fully guided singles evening of playful, embodied connection exercises in place of the usual small-talk rounds, followed by matching. It's open to all adult ages (mostly 30s-50s per the FAQ), and most people come on their own.",
+    "neighbourhood": "Cow Hollow",
+    "cycle_minutes": 22,
+    "added": "2026-11-21"
   },
   {
     "title": "The Brothers Comatose",
@@ -7612,6 +7821,25 @@
     "cycle_minutes": 13,
     "added": "2026-10-30",
     "id": "woodchopper-s-ball-live-band-swing-night-c9c122f3"
+  },
+  {
+    "id": "what-is-liberalism-with-prof-brian-weiner-manny-s-dcb28f9f",
+    "title": "What Is Liberalism? with Prof. Brian Weiner (Manny's)",
+    "start": "2027-01-27T18:00:00-08:00",
+    "end": "2027-01-27T19:00:00-08:00",
+    "venue": "Manny's",
+    "address": "3092 16th St, San Francisco, CA 94103",
+    "url": "https://www.eventbrite.com/e/what-is-liberalism-w-prof-brian-weiner-tickets-2005170246184",
+    "source": "venue:mannys",
+    "tags": [
+      "talk",
+      "community"
+    ],
+    "price": "$15.45-$46.35",
+    "description": "The first of USF professor Brian Weiner's four-part 'Political Ideologies 101' series at Manny's, on the history, meanings and tensions of liberalism. It's a short Wednesday-evening talk with discussion in a sociable Mission civic café.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 13,
+    "added": "2026-11-21"
   },
   {
     "id": "pollinated-magic-theatre-salon-cross-disciplinary-conversati-fff8bd17",
@@ -8086,6 +8314,25 @@
     "added": "2026-11-10"
   },
   {
+    "id": "the-commons-monthly-picnic-in-alamo-square-february-135d17db",
+    "title": "The Commons monthly picnic in Alamo Square (February)",
+    "start": "2027-02-06T12:00:00-08:00",
+    "end": "2027-02-06T14:00:00-08:00",
+    "venue": "Alamo Square Park (The SF Commons)",
+    "address": "Alamo Square Park, San Francisco, CA",
+    "url": "https://luma.com/the-htlz",
+    "source": "listing:luma-sf-commons",
+    "tags": [
+      "community",
+      "outdoors"
+    ],
+    "price": "Free",
+    "description": "The SF Commons' February picnic: blankets, shared snacks, lawn games and live music in Alamo Square. It's a relaxed drop-in way to meet people, and you're asked to bring a game, book or snack to share.",
+    "neighbourhood": "Alamo Square",
+    "cycle_minutes": 18,
+    "added": "2026-11-21"
+  },
+  {
     "id": "the-sways-arizona-folk-rock-trio-at-cafe-du-nord-f57734f5",
     "title": "The Sways (Arizona folk-rock trio) at Cafe du Nord",
     "start": "2027-02-06T20:00:00-08:00",
@@ -8533,6 +8780,24 @@
     "added": "2026-11-16"
   },
   {
+    "id": "asian-singles-those-who-love-them-singles-mixer-at-eria-mari-f08119b4",
+    "title": "Asian Singles & Those Who Love Them: singles mixer at ERIA Marina",
+    "start": "2027-02-16T19:00:00-08:00",
+    "end": "2027-02-16T21:00:00-08:00",
+    "venue": "ERIA Marina",
+    "address": "2300 Chestnut St, San Francisco, CA 94123",
+    "url": "https://www.eventbrite.com/e/asian-singles-those-who-love-them-in-sf-tickets-2004863978128",
+    "source": "aggregator:eventbrite",
+    "tags": [
+      "community"
+    ],
+    "price": "$30 early bird / $40 advance / $50 door",
+    "description": "A post-Valentine's singles mixer with an icebreaker mixer game. 'Singles of all ethnicities are warmly welcome' and 'adults of all ages', and proceeds benefit the Seva Foundation.",
+    "neighbourhood": "Marina",
+    "cycle_minutes": 23,
+    "added": "2026-11-21"
+  },
+  {
     "id": "woodchopper-s-ball-live-band-swing-night-accec69f",
     "title": "Woodchopper's Ball: live-band swing night",
     "start": "2027-02-16T21:00:00-08:00",
@@ -8923,6 +9188,26 @@
     "neighbourhood": "Hayes Valley",
     "cycle_minutes": 10,
     "added": "2026-11-14"
+  },
+  {
+    "id": "san-francisco-slavic-festival-2027-food-music-dance-6e3178d1",
+    "title": "San Francisco Slavic Festival 2027: food, music & dance",
+    "start": "2027-02-27T11:00:00-08:00",
+    "end": "2027-02-27T22:00:00-08:00",
+    "venue": "2450 Sutter St",
+    "address": "2450 Sutter St, San Francisco, CA 94115",
+    "url": "https://www.eventbrite.com/e/san-franciscos-slavic-festival-2027-food-music-dance-tickets-2003420571861",
+    "source": "aggregator:eventbrite",
+    "tags": [
+      "festival",
+      "food",
+      "dance"
+    ],
+    "price": null,
+    "description": "A weekend culture festival (27-28 Feb) with nonstop live folk dancing, folk music and traditional Slavic food. The page is still a 'save the date', so ticket details aren't out yet.",
+    "neighbourhood": "Lower Pacific Heights",
+    "cycle_minutes": 18,
+    "added": "2026-11-21"
   },
   {
     "title": "Upswing Series: Tyreek McDole / Isaiah Collier",

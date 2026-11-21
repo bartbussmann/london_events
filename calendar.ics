@@ -2622,6 +2622,23 @@ LOCATION:Commonwealth Club World Affairs\, 110 The Embarcadero\, San Franc
  isco\, CA 94105
 END:VEVENT
 BEGIN:VEVENT
+UID:arlie-russell-hochschild-in-conversation-with-andrew-keen-wh-b9a6227a@
+ sf-events
+DTSTAMP:20261209T020000Z
+DTSTART:20261209T020000Z
+DTEND:20261209T030000Z
+SUMMARY:Arlie Russell Hochschild in conversation with Andrew Keen: Who Sto
+ le America's Pride?
+DESCRIPTION:The Berkeley sociologist behind Strangers in Their Own Land ta
+ lks with Andrew Keen about pride\, shame and American politics. It's an i
+ ntimate talk in Manny's 'How To See America' series.\nPrice: $12.36-$15.4
+ 5\nhttps://www.eventbrite.com/e/how-to-see-america-who-stole-americas-pri
+ de-tickets-2003996604791
+URL:https://www.eventbrite.com/e/how-to-see-america-who-stole-americas-pri
+ de-tickets-2003996604791
+LOCATION:Manny's\, 3092 16th St\, San Francisco\, CA 94103
+END:VEVENT
+BEGIN:VEVENT
 UID:mindful-tuesdays-discovering-authentic-movement-free-intro-e76fdf0e@sf
  -events
 DTSTAMP:20261209T023000Z
@@ -3401,8 +3418,8 @@ DTEND:20261215T060000Z
 SUMMARY:Willi Carlisle: The Universal Bubba Tour\, with Amelia Day
 DESCRIPTION:The Ozarks folksinger and storyteller tours his new Tyler Chil
  ders-produced double album of old-time\, Cajun and Americana. Doors 7:30p
- m\, all ages.\nhttps://www.theindependentsf.com/tm-event/willi-carlisle-2
- /
+ m\, all ages.\nPrice: $34.01\nhttps://www.theindependentsf.com/tm-event/w
+ illi-carlisle-2/
 URL:https://www.theindependentsf.com/tm-event/willi-carlisle-2/
 LOCATION:The Independent\, 628 Divisadero St\, San Francisco\, CA 94117
 END:VEVENT
@@ -3540,23 +3557,6 @@ DESCRIPTION:Rock historian Richie Unterberger's illustrated talk on the Ve
 URL:https://sfpl.org/events/2026/12/16/presentation-velvet-underground
 LOCATION:San Francisco Main Library\, Koret Auditorium\, 100 Larkin St\, S
  an Francisco\, CA 94102
-END:VEVENT
-BEGIN:VEVENT
-UID:arlie-russell-hochschild-in-conversation-with-andrew-keen-wh-b9a6227a@
- sf-events
-DTSTAMP:20261217T020000Z
-DTSTART:20261217T020000Z
-DTEND:20261217T030000Z
-SUMMARY:Arlie Russell Hochschild in conversation with Andrew Keen: Who Sto
- le America's Pride?
-DESCRIPTION:The Berkeley sociologist behind Strangers in Their Own Land ta
- lks with Andrew Keen about pride\, shame and American politics. It's an i
- ntimate talk in Manny's 'How To See America' series.\nPrice: $9-$19\nhttp
- s://www.eventbrite.com/e/how-to-see-america-who-stole-americas-pride-tick
- ets-2003996604791
-URL:https://www.eventbrite.com/e/how-to-see-america-who-stole-americas-pri
- de-tickets-2003996604791
-LOCATION:Manny's\, 3092 16th St\, San Francisco\, CA 94103
 END:VEVENT
 BEGIN:VEVENT
 UID:rent-at-san-francisco-playhouse-preview-performance-30b541b4@sf-events
@@ -3712,8 +3712,9 @@ DTSTART:20261218T040000Z
 DTEND:20261218T060000Z
 SUMMARY:Christopher Owens
 DESCRIPTION:The former Girls frontman\, an SF indie songwriter\, plays a h
- ometown show at Bottom of the Hill. All ages\, doors 7:30pm.\nPrice: $25 
- adv / $30 door\nhttp://www.bottomofthehill.com/20261217.html
+ ometown show at Bottom of the Hill. All ages\, doors 7:30pm.\nPrice: $30 
+ adv / $30 door ($38.01 advance incl. fees)\nhttp://www.bottomofthehill.co
+ m/20261217.html
 URL:http://www.bottomofthehill.com/20261217.html
 LOCATION:Bottom of the Hill\, 1233 17th St\, San Francisco\, CA 94107
 END:VEVENT
@@ -3972,24 +3973,6 @@ URL:https://luma.com/757om85p
 LOCATION:Musée Mécanique\, Pier 45\, San Francisco\, CA 94133
 END:VEVENT
 BEGIN:VEVENT
-UID:green-exercise-ocean-hike-lands-end-coastal-trail-meetup-gro-0fb9b294@
- sf-events
-DTSTAMP:20261220T210000Z
-DTSTART:20261220T210000Z
-DTEND:20261221T003000Z
-SUMMARY:Green Exercise ocean hike: Lands End coastal trail (Meetup group h
- ike)
-DESCRIPTION:A public\, social Meetup group hike along the Lands End Coasta
- l Trail past the Sutro Baths ruins\, with Golden Gate views. It's open to
-  newcomers and pitched as a way to meet new friends and get a workout.\nP
- rice: Free\nhttps://www.meetup.com/bay-area-hiking-walking-wellness-club/
- events/316836465/
-URL:https://www.meetup.com/bay-area-hiking-walking-wellness-club/events/31
- 6836465/
-LOCATION:Beach-side parking lot across from Beach Chalet (meeting point)\,
-  Great Highway & John F Kennedy Dr\, San Francisco\, CA 94121
-END:VEVENT
-BEGIN:VEVENT
 UID:contact-improvisation-class-with-dai-wei-at-odc-826050b6@sf-events
 DTSTAMP:20261220T211500Z
 DTSTART:20261220T211500Z
@@ -4045,21 +4028,6 @@ URL:https://www.cityboxoffice.com/orderticketsvenue.asp?p=15911
 LOCATION:St. Ignatius Church\, 650 Parker Ave\, San Francisco\, CA 94118
 END:VEVENT
 BEGIN:VEVENT
-UID:circuit-hacking-monday-open-electronics-workshop-at-noisebri-7bd205bc@
- sf-events
-DTSTAMP:20261222T030000Z
-DTSTART:20261222T030000Z
-DTEND:20261222T050000Z
-SUMMARY:Circuit Hacking Monday: open electronics workshop at Noisebridge
-DESCRIPTION:Weekly open workshop at the Mission's volunteer-run hackerspac
- e\, with soldering stations\, test equipment and people working on electr
- onics\, robotics and embedded projects. You can bring a project or just c
- ome and learn. It's a public event with no lectures.\nPrice: Free (donati
- ons welcome)\nhttps://www.meetup.com/noisebridge/events/317172033/
-URL:https://www.meetup.com/noisebridge/events/317172033/
-LOCATION:Noisebridge hackerspace\, 272 Capp St\, San Francisco\, CA 94110
-END:VEVENT
-BEGIN:VEVENT
 UID:salsacrazy-mondays-holiday-salsa-lesson-salsa-bachata-dancin-0d9887f2@
  sf-events
 DTSTAMP:20261222T030000Z
@@ -4088,6 +4056,21 @@ DESCRIPTION:The Bay Area's top brass players join Grace Cathedral's 7\,466
  3349
 URL:https://www.cityboxoffice.com/eventperformances.asp?evt=3349
 LOCATION:Grace Cathedral\, 1100 California St\, San Francisco\, CA 94108
+END:VEVENT
+BEGIN:VEVENT
+UID:circuit-hacking-monday-open-electronics-workshop-at-noisebri-7bd205bc@
+ sf-events
+DTSTAMP:20261222T033000Z
+DTSTART:20261222T033000Z
+DTEND:20261222T053000Z
+SUMMARY:Circuit Hacking Monday: open electronics workshop at Noisebridge
+DESCRIPTION:Weekly open workshop at the Mission's volunteer-run hackerspac
+ e\, with soldering stations\, test equipment and people working on electr
+ onics\, robotics and embedded projects. You can bring a project or just c
+ ome and learn. It's a public event with no lectures.\nPrice: Free (donati
+ ons welcome)\nhttps://www.meetup.com/noisebridge/events/317172033/
+URL:https://www.meetup.com/noisebridge/events/317172033/
+LOCATION:Noisebridge hackerspace\, 272 Capp St\, San Francisco\, CA 94110
 END:VEVENT
 BEGIN:VEVENT
 UID:contact-improvisation-class-jam-at-the-castro-room-5e044ff2@sf-events
@@ -4214,8 +4197,8 @@ DTEND:20261224T060000Z
 SUMMARY:Ray and Paul
 DESCRIPTION:A Bay Area-raised brothers' indie band mixing surf\, garage ro
  ck and big vocal melodies\, playing a hometown holiday show at the Indepe
- ndent. All ages\; doors 7:30pm.\nhttps://www.theindependentsf.com/tm-even
- t/ray-and-paul-2/
+ ndent. All ages\; doors 7:30pm.\nPrice: $34.01\nhttps://www.theindependen
+ tsf.com/tm-event/ray-and-paul-2/
 URL:https://www.theindependentsf.com/tm-event/ray-and-paul-2/
 LOCATION:The Independent\, 628 Divisadero St\, San Francisco\, CA 94117
 END:VEVENT
@@ -4457,6 +4440,24 @@ LOCATION:Charlie's Deli Cafe (meeting point)\, 3202 Folsom St at Precita A
  ve\, San Francisco\, CA 94110
 END:VEVENT
 BEGIN:VEVENT
+UID:green-exercise-ocean-hike-lands-end-coastal-trail-meetup-gro-0fb9b294@
+ sf-events
+DTSTAMP:20261226T210000Z
+DTSTART:20261226T210000Z
+DTEND:20261227T003000Z
+SUMMARY:Green Exercise ocean hike: Lands End coastal trail (Meetup group h
+ ike)
+DESCRIPTION:A public\, social Meetup group hike along the Lands End Coasta
+ l Trail past the Sutro Baths ruins\, with Golden Gate views. It's open to
+  newcomers and pitched as a way to meet new friends and get a workout.\nP
+ rice: Free\nhttps://www.meetup.com/bay-area-hiking-walking-wellness-club/
+ events/316836465/
+URL:https://www.meetup.com/bay-area-hiking-walking-wellness-club/events/31
+ 6836465/
+LOCATION:Beach-side parking lot across from Beach Chalet (meeting point)\,
+  Great Highway & John F Kennedy Dr\, San Francisco\, CA 94121
+END:VEVENT
+BEGIN:VEVENT
 UID:bottom-of-the-hill-holiday-matinee-top-secret-robot-alliance-961eaeab@
  sf-events
 DTSTAMP:20261227T003000Z
@@ -4554,21 +4555,6 @@ LOCATION:Great American Music Hall\, 859 O'Farrell St\, San Francisco\, CA
   94109
 END:VEVENT
 BEGIN:VEVENT
-UID:circuit-hacking-monday-open-electronics-workshop-at-noisebri-e2fb2ba8@
- sf-events
-DTSTAMP:20261229T030000Z
-DTSTART:20261229T030000Z
-DTEND:20261229T050000Z
-SUMMARY:Circuit Hacking Monday: open electronics workshop at Noisebridge
-DESCRIPTION:The same weekly open electronics night at the Mission hackersp
- ace in the quiet week between Christmas and New Year: soldering stations\
- , test gear and people tinkering on robotics and embedded projects. Begin
- ners are welcome to come and learn.\nPrice: Free (donations welcome)\nhtt
- ps://www.meetup.com/noisebridge/events/317172035/
-URL:https://www.meetup.com/noisebridge/events/317172035/
-LOCATION:Noisebridge hackerspace\, 272 Capp St\, San Francisco\, CA 94110
-END:VEVENT
-BEGIN:VEVENT
 UID:alamo-drafthouse-the-apartment-3f26c176@sf-events
 DTSTAMP:20261229T030000Z
 DTSTART:20261229T030000Z
@@ -4595,6 +4581,21 @@ DESCRIPTION:Phoebe Waller-Bridge's original one-woman stage show of Fleaba
 URL:https://www.voguemovies.com/calendar-of-events/national-theatre-live-f
  leabag-december-28
 LOCATION:Vogue Theatre\, 3290 Sacramento St\, San Francisco\, CA 94115
+END:VEVENT
+BEGIN:VEVENT
+UID:circuit-hacking-monday-open-electronics-workshop-at-noisebri-e2fb2ba8@
+ sf-events
+DTSTAMP:20261229T033000Z
+DTSTART:20261229T033000Z
+DTEND:20261229T053000Z
+SUMMARY:Circuit Hacking Monday: open electronics workshop at Noisebridge
+DESCRIPTION:The same weekly open electronics night at the Mission hackersp
+ ace in the quiet week between Christmas and New Year: soldering stations\
+ , test gear and people tinkering on robotics and embedded projects. Begin
+ ners are welcome to come and learn.\nPrice: Free (donations welcome)\nhtt
+ ps://www.meetup.com/noisebridge/events/317172035/
+URL:https://www.meetup.com/noisebridge/events/317172035/
+LOCATION:Noisebridge hackerspace\, 272 Capp St\, San Francisco\, CA 94110
 END:VEVENT
 BEGIN:VEVENT
 UID:man-or-astro-man-with-the-subsonics-9124ba5d@sf-events
@@ -4924,6 +4925,20 @@ LOCATION:Jane Warner Plaza (meeting point)\, Castro St & Market St\, San F
  rancisco\, CA 94114
 END:VEVENT
 BEGIN:VEVENT
+UID:the-commons-monthly-picnic-in-alamo-square-bc44103a@sf-events
+DTSTAMP:20270102T200000Z
+DTSTART:20270102T200000Z
+DTEND:20270102T220000Z
+SUMMARY:The Commons monthly picnic in Alamo Square
+DESCRIPTION:The SF Commons' monthly picnic with blankets\, shared snacks\,
+  lawn games and a surprise live band in the second half. It's an easy\, d
+ rop-in way to meet the Hayes Valley community crowd\, and +1s are welcome
+ .\nPrice: Free\nhttps://luma.com/the-axr7
+URL:https://luma.com/the-axr7
+LOCATION:Alamo Square Park (The SF Commons)\, Alamo Square Park\, San Fran
+ cisco\, CA
+END:VEVENT
+BEGIN:VEVENT
 UID:saturday-adult-roller-disco-at-the-church-of-8-wheels-4d81d32f@sf-even
  ts
 DTSTAMP:20270103T030000Z
@@ -4967,6 +4982,20 @@ DESCRIPTION:A one-mile after-dark trail of a million lights\, light sculpt
 URL:https://gggp.org/lightscape/
 LOCATION:San Francisco Botanical Garden (Golden Gate Park)\, 1199 9th Ave\
  , San Francisco\, CA 94122
+END:VEVENT
+BEGIN:VEVENT
+UID:monthly-reflection-jam-at-the-commons-390503c1@sf-events
+DTSTAMP:20270104T010000Z
+DTSTART:20270104T010000Z
+DTEND:20270104T030000Z
+SUMMARY:Monthly Reflection Jam at The Commons
+DESCRIPTION:A first-Sunday evening of guided journaling prompts about the 
+ past month. You can choose to share your reflections in a small group ('M
+ ingling Muser') or journal on your own. It's a gentle\, conversation-base
+ d way to start the year with new people.\nPrice: Free\nhttps://luma.com/t
+ he-wrlq
+URL:https://luma.com/the-wrlq
+LOCATION:The SF Commons\, 550 Laguna St\, San Francisco\, CA 94102
 END:VEVENT
 BEGIN:VEVENT
 UID:sf-salsa-social-beginner-class-salsa-mambo-dancing-758db7a0@sf-events
@@ -5118,6 +5147,18 @@ LOCATION:Galleries across the Tenderloin + Lower Nob Hill\, Tenderloin\, S
  an Francisco\, CA
 END:VEVENT
 BEGIN:VEVENT
+UID:somatic-breathwork-at-the-commons-d48edde3@sf-events
+DTSTAMP:20270108T020000Z
+DTSTART:20270108T020000Z
+DTEND:20270108T040000Z
+SUMMARY:Somatic Breathwork at The Commons
+DESCRIPTION:A guided somatic breathwork session at The Commons community s
+ pace in Hayes Valley. See the Luma page for details.\nPrice: $20 (flexibl
+ e)\nhttps://luma.com/the-wjcr
+URL:https://luma.com/the-wjcr
+LOCATION:The SF Commons\, 540 Laguna St\, San Francisco\, CA 94102
+END:VEVENT
+BEGIN:VEVENT
 UID:the-loved-ones-latest-hits-record-release-with-the-vesuvians-b735b97a@
  sf-events
 DTSTAMP:20270108T040000Z
@@ -5221,6 +5262,22 @@ LOCATION:Harry Bridges Plaza (across from the Ferry Building)\, The Embarc
  adero at Market St\, San Francisco\, CA 94111
 END:VEVENT
 BEGIN:VEVENT
+UID:chinatown-sf-neon-walking-tour-e52ec6ce@sf-events
+DTSTAMP:20270110T003000Z
+DTSTART:20270110T003000Z
+DTEND:20270110T020000Z
+SUMMARY:Chinatown SF Neon Walking Tour
+DESCRIPTION:A twilight walk through Chinatown's back alleys with the San F
+ rancisco Neon authors Al Barna and Randall Ann Homan\, looking at ghost s
+ igns and vintage neon. It ends at dusk with the restored Golden Star Radi
+ o sign on Clay Street.\nPrice: $19.72-$38.12\nhttps://www.eventbrite.com/
+ e/chinatown-sf-neon-walking-tour-19-tickets-2004693773040
+URL:https://www.eventbrite.com/e/chinatown-sf-neon-walking-tour-19-tickets
+ -2004693773040
+LOCATION:Chinatown YMCA (meeting point\, on the sidewalk)\, 855 Sacramento
+  St\, San Francisco\, CA 94108
+END:VEVENT
+BEGIN:VEVENT
 UID:anna-von-hausswolff-with-katzpascale-ee738c65@sf-events
 DTSTAMP:20270110T040000Z
 DTSTART:20270110T040000Z
@@ -5280,6 +5337,18 @@ LOCATION:Mission & Steuart Streets\, by Rincon Center (meeting point)\, Mi
  ssion St & Steuart St\, San Francisco\, CA 94105
 END:VEVENT
 BEGIN:VEVENT
+UID:purpose-alignment-circle-at-the-commons-09e18434@sf-events
+DTSTAMP:20270110T223000Z
+DTSTART:20270110T223000Z
+DTEND:20270111T003000Z
+SUMMARY:Purpose Alignment Circle at The Commons
+DESCRIPTION:A free small-group Purpose Alignment Circle at The Commons com
+ munity space in Hayes Valley. See the Luma page for the format.\nPrice: F
+ ree\nhttps://luma.com/the-lwqe
+URL:https://luma.com/the-lwqe
+LOCATION:The SF Commons\, 540 Laguna St\, San Francisco\, CA 94102
+END:VEVENT
+BEGIN:VEVENT
 UID:crafting-in-the-castro-notebook-making-eff7a549@sf-events
 DTSTAMP:20270110T230000Z
 DTSTART:20270110T230000Z
@@ -5293,6 +5362,23 @@ URL:https://www.eventbrite.com/e/crafting-in-the-castro-notebook-making-ti
  ckets-1991020837923
 LOCATION:Eureka Valley/Harvey Milk Memorial Branch Library\, 1 Jose Sarria
   Ct\, San Francisco\, CA 94114
+END:VEVENT
+BEGIN:VEVENT
+UID:irish-partner-dancing-with-live-music-free-beginner-lesson-a-1f387325@
+ sf-events
+DTSTAMP:20270111T010000Z
+DTSTART:20270111T010000Z
+DTEND:20270111T050000Z
+SUMMARY:Irish partner dancing with live music (free beginner lesson) at O'
+ Reilly's
+DESCRIPTION:A monthly second-Sunday Irish set-dancing night\, the closest 
+ thing in SF to a ceilidh. A beginner lesson at 5pm walks you through the 
+ steps\, then live-music dancing starts at 6pm. 21+.\nPrice: $10 donation 
+ (to the musicians)\nhttps://www.eventbrite.com/e/irish-partner-dancing-wi
+ th-live-music-free-lesson-tickets-2005167107797
+URL:https://www.eventbrite.com/e/irish-partner-dancing-with-live-music-fre
+ e-lesson-tickets-2005167107797
+LOCATION:O'Reilly's Pub\, 1840 Haight St\, San Francisco\, CA 94117
 END:VEVENT
 BEGIN:VEVENT
 UID:nora-brown-with-stephanie-coleman-65eb5243@sf-events
@@ -5533,6 +5619,20 @@ LOCATION:Great American Music Hall\, 859 O'Farrell St\, San Francisco\, CA
   94109
 END:VEVENT
 BEGIN:VEVENT
+UID:tea-class-tasting-at-tap-twice-tea-ca4d3921@sf-events
+DTSTAMP:20270116T190000Z
+DTSTART:20270116T190000Z
+DTEND:20270116T203000Z
+SUMMARY:Tea Class & Tasting at Tap Twice Tea
+DESCRIPTION:A hands-on Saturday-morning workshop on tea history\, varietie
+ s and brewing\, with a guided tasting of one tea from each of five catego
+ ries. It's taught by Jody\, who has sourced tea in Asia since 2009.\nPric
+ e: $65\nhttps://www.eventbrite.com/e/tea-class-tasting-tickets-2004749079
+ 463
+URL:https://www.eventbrite.com/e/tea-class-tasting-tickets-2004749079463
+LOCATION:Tap Twice Tea\, 2822 22nd St\, San Francisco\, CA 94110
+END:VEVENT
+BEGIN:VEVENT
 UID:predicting-our-futures-black-feminist-zine-making-workshop-98e6ff35@sf
  -events
 DTSTAMP:20270116T210000Z
@@ -5621,6 +5721,38 @@ DESCRIPTION:A two-hour hands-on class on the hackerspace's 150W CO2 laser
  ion)\nhttps://www.meetup.com/noisebridge/events/nsftwtykccbwb/
 URL:https://www.meetup.com/noisebridge/events/nsftwtykccbwb/
 LOCATION:Noisebridge hackerspace\, 272 Capp St\, San Francisco\, CA 94110
+END:VEVENT
+BEGIN:VEVENT
+UID:artist-curator-talk-rael-san-fratello-at-ybca-a39d265d@sf-events
+DTSTAMP:20270117T220000Z
+DTSTART:20270117T220000Z
+DTEND:20270118T000000Z
+SUMMARY:Artist & curator talk: Rael San Fratello at YBCA
+DESCRIPTION:Ronald Rael and Virginia San Fratello\, the design duo known f
+ or 3D-printed earth architecture and the Teeter-Totter Wall\, talk about 
+ their YBCA exhibition 'Prototypes and Provocations'. Curator René Morale
+ s then moderates a conversation with them.\nPrice: Free (registration req
+ uired)\nhttps://ybca.org/event/artist-curator-talk-rael-san-fratello-1-17
+ -27/
+URL:https://ybca.org/event/artist-curator-talk-rael-san-fratello-1-17-27/
+LOCATION:YBCA Screening Room\, 701 Mission St\, San Francisco\, CA 94103
+END:VEVENT
+BEGIN:VEVENT
+UID:improv-e-your-dating-life-improv-based-dating-workshop-ec8573dd@sf-eve
+ nts
+DTSTAMP:20270117T233000Z
+DTSTART:20270117T233000Z
+DTEND:20270118T013000Z
+SUMMARY:Improv(e) Your Dating Life: improv-based dating workshop
+DESCRIPTION:A two-hour Sunday workshop led by improv and dating coach Dyla
+ n Garcia that mixes improv games with dating tips to build confidence and
+  presence. It's open to all adults 18+\, and you meet other singles along
+  the way.\nPrice: $20-$40\nhttps://www.eventbrite.com/e/improve-your-dati
+ ng-life-tickets-1996417248733
+URL:https://www.eventbrite.com/e/improve-your-dating-life-tickets-19964172
+ 48733
+LOCATION:Endgames Improv Theater\, 2965 Mission St\, San Francisco\, CA 94
+ 110
 END:VEVENT
 BEGIN:VEVENT
 UID:mucha-salsa-social-free-beginner-class-a1a610fb@sf-events
@@ -5802,6 +5934,22 @@ URL:https://bacds.org/series/contra/berkeley_wed/
 LOCATION:Christ Church East Bay\, 2138 Cedar St\, Berkeley\, CA 94709
 END:VEVENT
 BEGIN:VEVENT
+UID:dona-murad-librae-omnivore-books-author-talk-7a85a31d@sf-events
+DTSTAMP:20270122T023000Z
+DTSTART:20270122T023000Z
+DTEND:20270122T043000Z
+SUMMARY:Dona Murad: Librae (Omnivore Books author talk)
+DESCRIPTION:The founder of New York's cult bakery Librae talks about her d
+ ebut cookbook of Bahraini-meets-Danish pastries\, from za'atar sourdough 
+ to loomi babka. It's a free in-store event with first-come seating.\nPric
+ e: Free\nhttps://omnivorebooks.myshopify.com/products/dona-murad-author-e
+ vent-librae-third-culture-recipes-from-a-cult-new-york-bakery
+URL:https://omnivorebooks.myshopify.com/products/dona-murad-author-event-l
+ ibrae-third-culture-recipes-from-a-cult-new-york-bakery
+LOCATION:Omnivore Books on Food\, 3885A Cesar Chavez St\, San Francisco\, 
+ CA 94131
+END:VEVENT
+BEGIN:VEVENT
 UID:vijay-iyer-wadada-leo-smith-an-evening-of-duets-682f4146@sf-events
 DTSTAMP:20270122T033000Z
 DTSTART:20270122T033000Z
@@ -5936,6 +6084,23 @@ DESCRIPTION:A 90-minute tasting of five categories of tea\, each paired wi
 URL:https://www.eventbrite.com/e/tea-chocolate-pairing-tickets-20047493292
  10
 LOCATION:Tap Twice Tea\, 2822 22nd St\, San Francisco\, CA 94110
+END:VEVENT
+BEGIN:VEVENT
+UID:tantra-speed-date-speed-dating-beyond-small-talk-ba0e9653@sf-events
+DTSTAMP:20270124T020000Z
+DTSTART:20270124T020000Z
+DTEND:20270124T050000Z
+SUMMARY:Tantra Speed Date: speed dating beyond small talk
+DESCRIPTION:A fully guided singles evening of playful\, embodied connectio
+ n exercises in place of the usual small-talk rounds\, followed by matchin
+ g. It's open to all adult ages (mostly 30s-50s per the FAQ)\, and most pe
+ ople come on their own.\nPrice: From $48.76\nhttps://www.eventbrite.com/e
+ /speed-dating-beyond-small-talk-sf-bay-area-speed-dating-tantra-speed-dat
+ e-tickets-1993522512499
+URL:https://www.eventbrite.com/e/speed-dating-beyond-small-talk-sf-bay-are
+ a-speed-dating-tantra-speed-date-tickets-1993522512499
+LOCATION:Yoga studio\, 1694 Union St\, 1694 Union St\, San Francisco\, CA 
+ 94123
 END:VEVENT
 BEGIN:VEVENT
 UID:the-brothers-comatose-8c50af57@sf-events
@@ -6082,6 +6247,21 @@ DESCRIPTION:The weekly Tuesday live-band swing dance at the historic Verdi
 URL:https://www.verdiclub.net/events/the-woodchoppers-ball-42-3-2/2027-01-
  26/
 LOCATION:Verdi Club\, 2424 Mariposa St\, San Francisco\, CA 94110
+END:VEVENT
+BEGIN:VEVENT
+UID:what-is-liberalism-with-prof-brian-weiner-manny-s-dcb28f9f@sf-events
+DTSTAMP:20270128T020000Z
+DTSTART:20270128T020000Z
+DTEND:20270128T030000Z
+SUMMARY:What Is Liberalism? with Prof. Brian Weiner (Manny's)
+DESCRIPTION:The first of USF professor Brian Weiner's four-part 'Political
+  Ideologies 101' series at Manny's\, on the history\, meanings and tensio
+ ns of liberalism. It's a short Wednesday-evening talk with discussion in 
+ a sociable Mission civic café.\nPrice: $15.45-$46.35\nhttps://www.eventb
+ rite.com/e/what-is-liberalism-w-prof-brian-weiner-tickets-2005170246184
+URL:https://www.eventbrite.com/e/what-is-liberalism-w-prof-brian-weiner-ti
+ ckets-2005170246184
+LOCATION:Manny's\, 3092 16th St\, San Francisco\, CA 94103
 END:VEVENT
 BEGIN:VEVENT
 UID:pollinated-magic-theatre-salon-cross-disciplinary-conversati-fff8bd17@
@@ -6440,6 +6620,20 @@ URL:https://www.calendarwiz.com/calendars/calendar.php?crd=makeoutroom&op=
 LOCATION:Make-Out Room\, 3225 22nd St\, San Francisco\, CA 94110
 END:VEVENT
 BEGIN:VEVENT
+UID:the-commons-monthly-picnic-in-alamo-square-february-135d17db@sf-events
+DTSTAMP:20270206T200000Z
+DTSTART:20270206T200000Z
+DTEND:20270206T220000Z
+SUMMARY:The Commons monthly picnic in Alamo Square (February)
+DESCRIPTION:The SF Commons' February picnic: blankets\, shared snacks\, la
+ wn games and live music in Alamo Square. It's a relaxed drop-in way to me
+ et people\, and you're asked to bring a game\, book or snack to share.\nP
+ rice: Free\nhttps://luma.com/the-htlz
+URL:https://luma.com/the-htlz
+LOCATION:Alamo Square Park (The SF Commons)\, Alamo Square Park\, San Fran
+ cisco\, CA
+END:VEVENT
+BEGIN:VEVENT
 UID:the-sways-arizona-folk-rock-trio-at-cafe-du-nord-f57734f5@sf-events
 DTSTAMP:20270207T040000Z
 DTSTART:20270207T040000Z
@@ -6795,6 +6989,22 @@ URL:https://www.calendarwiz.com/calendars/popup.php?op=view&id=188526952&c
 LOCATION:Make-Out Room\, 3225 22nd St\, San Francisco\, CA 94110
 END:VEVENT
 BEGIN:VEVENT
+UID:asian-singles-those-who-love-them-singles-mixer-at-eria-mari-f08119b4@
+ sf-events
+DTSTAMP:20270217T030000Z
+DTSTART:20270217T030000Z
+DTEND:20270217T050000Z
+SUMMARY:Asian Singles & Those Who Love Them: singles mixer at ERIA Marina
+DESCRIPTION:A post-Valentine's singles mixer with an icebreaker mixer game
+ . 'Singles of all ethnicities are warmly welcome' and 'adults of all ages
+ '\, and proceeds benefit the Seva Foundation.\nPrice: $30 early bird / $4
+ 0 advance / $50 door\nhttps://www.eventbrite.com/e/asian-singles-those-wh
+ o-love-them-in-sf-tickets-2004863978128
+URL:https://www.eventbrite.com/e/asian-singles-those-who-love-them-in-sf-t
+ ickets-2004863978128
+LOCATION:ERIA Marina\, 2300 Chestnut St\, San Francisco\, CA 94123
+END:VEVENT
+BEGIN:VEVENT
 UID:woodchopper-s-ball-live-band-swing-night-accec69f@sf-events
 DTSTAMP:20270217T050000Z
 DTSTART:20270217T050000Z
@@ -7099,6 +7309,21 @@ DESCRIPTION:Cleveland indie-rock band Cloud Nothings bring their fast\, no
 URL:https://wl.seetickets.us/event/cloud-nothings/709735?afflky=RickshawSt
  op
 LOCATION:Rickshaw Stop\, 155 Fell St\, San Francisco\, CA 94102
+END:VEVENT
+BEGIN:VEVENT
+UID:san-francisco-slavic-festival-2027-food-music-dance-6e3178d1@sf-events
+DTSTAMP:20270227T190000Z
+DTSTART:20270227T190000Z
+DTEND:20270228T060000Z
+SUMMARY:San Francisco Slavic Festival 2027: food\, music & dance
+DESCRIPTION:A weekend culture festival (27-28 Feb) with nonstop live folk 
+ dancing\, folk music and traditional Slavic food. The page is still a 'sa
+ ve the date'\, so ticket details aren't out yet.\nhttps://www.eventbrite.
+ com/e/san-franciscos-slavic-festival-2027-food-music-dance-tickets-200342
+ 0571861
+URL:https://www.eventbrite.com/e/san-franciscos-slavic-festival-2027-food-
+ music-dance-tickets-2003420571861
+LOCATION:2450 Sutter St\, 2450 Sutter St\, San Francisco\, CA 94115
 END:VEVENT
 BEGIN:VEVENT
 UID:upswing-series-tyreek-mcdole-isaiah-collier-5013876e@sf-events
