@@ -1,5 +1,11 @@
 [
   {
+    "ran_at": "2026-11-22T06:45:00-08:00",
+    "added": 16,
+    "considered": 240,
+    "notes": "Part 1: suppressed 2 Mox cross-feed copies; pruned 16; no moved feed events. Part 2: freshness check of 67 events 23 Nov-1 Dec - removed Sketchboard Sin Miedo 23 Nov (dropped from schedule, Thanksgiving break); Noisebridge 23 Nov now 7:30pm; Love Seat now $5; Sad Bastard Club now $10 suggested; Sleepless Nights price + ticket link filled. 16 adds: ALTERNA skate (5 Jan), Robyn Hitchcock (11 Jan) and Peter Rowan (13 Jan) at City Lights, Commons Write Night (13 Jan) and Purpose Alignment Circle (4 Apr), Jonathan Richman, Katherine Li, Teenage Fanclub, Zephyr Teachout, Berkeley Circling (23 Mar), Dogpark, Camel Power Club, Perfect Daughter (SF Playhouse AI play), Delta Sleep, Butcher Brown, Long Now Wadhwa (13 Apr). Blocked: Rickshaw Stop, Green Apple, Booksmith (403), Ticketweb (506)."
+  },
+  {
     "ran_at": "2026-11-21T06:45:00-08:00",
     "added": 20,
     "considered": 124,

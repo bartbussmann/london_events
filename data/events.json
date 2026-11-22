@@ -656,25 +656,6 @@
     "id": "divine-offering-celebrating-alice-coltrane-with-sita-michell-aa957866"
   },
   {
-    "id": "figure-drawing-mondays-at-sin-miedo-gallery-sketchboard-7d9d7e8e",
-    "title": "Figure drawing Mondays at Sin Miedo Gallery (Sketchboard)",
-    "start": "2026-11-23T18:30:00-08:00",
-    "end": "2026-11-23T20:30:00-08:00",
-    "venue": "Sin Miedo Gallery",
-    "address": "2831 Mission St, San Francisco, CA 94110",
-    "url": "https://book.squareup.com/classes/uj53t4hfgkzllp/location/DYSM7QRDVFWX7/classes",
-    "source": "venue:sketchboard",
-    "tags": [
-      "art",
-      "class"
-    ],
-    "price": "$25",
-    "description": "A two-hour drop-in life drawing session with a model, run by Sketchboard Co. at their Mission gallery near 24th St. Bring your own supplies and book on Square.",
-    "neighbourhood": "Mission",
-    "cycle_minutes": 16,
-    "added": "2026-11-10"
-  },
-  {
     "id": "salsacrazy-mondays-salsa-lesson-salsa-bachata-dancing-b207830a",
     "title": "SalsaCrazy Mondays: salsa lesson + salsa/bachata dancing",
     "start": "2026-11-23T19:00:00-08:00",
@@ -691,25 +672,6 @@
     "description": "Monday salsa night on Clement St. Doors open at 6:30, a beginner salsa lesson with no partner needed runs at 7pm, then there's salsa and bachata social dancing until late. 21+.",
     "neighbourhood": "Inner Richmond",
     "cycle_minutes": 27,
-    "added": "2026-11-08"
-  },
-  {
-    "id": "circuit-hacking-monday-open-electronics-workshop-at-noisebri-3766ff94",
-    "title": "Circuit Hacking Monday: open electronics workshop at Noisebridge",
-    "start": "2026-11-23T19:00:00-08:00",
-    "end": "2026-11-23T21:00:00-08:00",
-    "venue": "Noisebridge hackerspace",
-    "address": "272 Capp St, San Francisco, CA 94110",
-    "url": "https://www.meetup.com/noisebridge/events/317172029/",
-    "source": "aggregator:meetup",
-    "tags": [
-      "workshop",
-      "tech"
-    ],
-    "price": "Free (donations welcome)",
-    "description": "The weekly open electronics night at the Mission's volunteer-run hackerspace, with soldering stations and people working on robotics and embedded projects. Bring a project or just come and learn.",
-    "neighbourhood": "Mission",
-    "cycle_minutes": 13,
     "added": "2026-11-08"
   },
   {
@@ -748,6 +710,25 @@
     "cycle_minutes": 17,
     "added": "2026-10-30",
     "id": "la-bola-negra-los-javis-30d59c1b"
+  },
+  {
+    "id": "circuit-hacking-monday-open-electronics-workshop-at-noisebri-3766ff94",
+    "title": "Mozzi on Arduino: Circuit Hacking Monday at Noisebridge",
+    "start": "2026-11-23T19:30:00-08:00",
+    "end": "2026-11-23T21:30:00-08:00",
+    "venue": "Noisebridge hackerspace",
+    "address": "272 Capp St, San Francisco, CA 94110",
+    "url": "https://www.meetup.com/noisebridge/events/317172029/",
+    "source": "aggregator:meetup",
+    "tags": [
+      "workshop",
+      "tech"
+    ],
+    "price": "Free (donations welcome)",
+    "description": "The weekly open electronics night at the Mission's volunteer-run hackerspace, with soldering stations and people working on robotics and embedded projects. Bring a project or just come and learn.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 13,
+    "added": "2026-11-08"
   },
   {
     "title": "Pedro the Lion with Karli Fairbanks",
@@ -819,7 +800,7 @@
       "workshop",
       "community"
     ],
-    "price": "$10 (free for members)",
+    "price": "$5",
     "description": "An authentic-relating-style group game: everyone gets equal time in the 'Love Seat' to ask the group for the kind of care or support they want, all with consent. A playful, intimate way to meet people.",
     "neighbourhood": "Hayes Valley",
     "cycle_minutes": 12,
@@ -875,7 +856,7 @@
       "music",
       "community"
     ],
-    "price": "Free",
+    "price": "$10 suggested donation",
     "description": "A free Tuesday songwriters' circle at the Make-Out Room, with players trading songs in the round. A low-key folk night and a good way to meet the local scene.",
     "neighbourhood": "Mission",
     "cycle_minutes": 15,
@@ -1227,12 +1208,12 @@
     "end": null,
     "venue": "The Chapel",
     "address": "777 Valencia St, San Francisco, CA 94110",
-    "url": "https://wl.seetickets.us/event/sleepless-nights-xx-a-tribute-to-gram-parsons",
+    "url": "https://wl.eventim.us/event/sleepless-nights-xx-a-tribute-to-gram-parsons/707714?afflky=TheChapel",
     "source": "venue:the-chapel",
     "tags": [
       "music"
     ],
-    "price": null,
+    "price": "$20 adv / $25 day of show",
     "description": "The 20th annual Gram Parsons tribute: a big night of local country-folk acts including Bar Fight, Aaron Burnham & the Brushfires, Paula Frazer & Tarnation and Penelope Houston. Doors 7:30pm.",
     "neighbourhood": "Mission",
     "cycle_minutes": 13,
@@ -6020,6 +6001,25 @@
     "id": "contact-improvisation-class-jam-at-the-castro-room-4bc5a05a"
   },
   {
+    "id": "alterna-new-wave-and-goth-skate-night-at-the-church-of-8-whe-8a125a04",
+    "title": "ALTERNA: new wave and goth skate night at the Church of 8 Wheels",
+    "start": "2027-01-05T20:00:00-08:00",
+    "end": "2027-01-05T22:00:00-08:00",
+    "venue": "Church of 8 Wheels",
+    "address": "554 Fillmore St, San Francisco, CA 94117",
+    "url": "https://www.eventbrite.com/e/welcome-to-alterna-goth-night-at-the-church-of-8-wheels-tickets-1903360856559",
+    "source": "aggregator:eventbrite",
+    "tags": [
+      "sport",
+      "dance"
+    ],
+    "price": "$24.13 ($20 entry; skate rental $5 extra)",
+    "description": "A Tuesday roller-skating night in the converted church, with new wave, darkwave, synthpop and post-punk under the disco ball. Rent skates at the door if you don't have your own.",
+    "neighbourhood": "Lower Haight",
+    "cycle_minutes": 16,
+    "added": "2026-11-22"
+  },
+  {
     "title": "Woodchopper's Ball: live-band swing night",
     "start": "2027-01-05T21:00:00-08:00",
     "end": "2027-01-05T23:30:00-08:00",
@@ -6486,6 +6486,25 @@
     "added": "2026-11-09"
   },
   {
+    "id": "an-evening-with-robyn-hitchcock-stranded-in-the-future-city--709de83f",
+    "title": "An Evening with Robyn Hitchcock: Stranded in the Future (City Lights)",
+    "start": "2027-01-11T19:00:00-08:00",
+    "end": null,
+    "venue": "City Lights Booksellers",
+    "address": "261 Columbus Ave, San Francisco, CA 94133",
+    "url": "https://citylights.com/events/an-evening-with-robyn-hitchcock/",
+    "source": "venue:city-lights",
+    "tags": [
+      "talk",
+      "music"
+    ],
+    "price": "Free",
+    "description": "The English psychedelic-folk songwriter Robyn Hitchcock talks about his book 'Stranded in the Future' at City Lights. A free in-store event.",
+    "neighbourhood": "North Beach",
+    "cycle_minutes": 10,
+    "added": "2026-11-22"
+  },
+  {
     "id": "free-bluegrass-jam-concert-at-blondie-s-b9cecea6",
     "title": "Free bluegrass jam & concert at Blondie's",
     "start": "2027-01-11T20:30:00-08:00",
@@ -6579,6 +6598,44 @@
     "neighbourhood": "SoMa",
     "cycle_minutes": 8,
     "added": "2026-11-09"
+  },
+  {
+    "id": "write-night-at-the-commons-january-bb894785",
+    "title": "Write Night at The Commons (January)",
+    "start": "2027-01-13T18:30:00-08:00",
+    "end": "2027-01-13T20:30:00-08:00",
+    "venue": "The SF Commons",
+    "address": "540 Laguna St, San Francisco, CA 94102",
+    "url": "https://luma.com/the-10se",
+    "source": "listing:luma-sf-commons",
+    "tags": [
+      "community",
+      "workshop"
+    ],
+    "price": "Free (up to $5 suggested)",
+    "description": "A weekly writers' meetup: introductions at 6:55, an hour of quiet writing from 7pm, then a progress check-in and time to socialise. All kinds of writing are welcome.",
+    "neighbourhood": "Hayes Valley",
+    "cycle_minutes": 12,
+    "added": "2026-11-22"
+  },
+  {
+    "id": "an-evening-with-peter-rowan-walls-of-time-city-lights-37b17dcc",
+    "title": "An Evening with Peter Rowan: Walls of Time (City Lights)",
+    "start": "2027-01-13T19:00:00-08:00",
+    "end": null,
+    "venue": "City Lights Booksellers",
+    "address": "261 Columbus Ave, San Francisco, CA 94133",
+    "url": "https://citylights.com/events/an-evening-with-peter-rowan/",
+    "source": "venue:city-lights",
+    "tags": [
+      "talk",
+      "music"
+    ],
+    "price": "Free (first come, first served)",
+    "description": "Bluegrass veteran Peter Rowan, who played with Bill Monroe and in Old & In the Way, talks about his memoir 'Walls of Time: Tales of a Bluegrass Pilgrim'. It's a free in-store event; seats are first come, first served.",
+    "neighbourhood": "North Beach",
+    "cycle_minutes": 10,
+    "added": "2026-11-22"
   },
   {
     "id": "mid-week-merriment-skate-rivals-on-ice-at-union-square-de20ecb9",
@@ -8365,6 +8422,24 @@
     "added": "2026-11-13"
   },
   {
+    "id": "jonathan-richman-featuring-tommy-larkins-22f82458",
+    "title": "Jonathan Richman featuring Tommy Larkins",
+    "start": "2027-02-13T20:00:00-08:00",
+    "end": null,
+    "venue": "Great American Music Hall",
+    "address": "859 O'Farrell St, San Francisco, CA 94109",
+    "url": "https://wl.seetickets.us/event/jonathan-richman-featuring-tommy-larkins-on-the-drums/710424?afflky=GreatAmericanMusicHall",
+    "source": "venue:gamh",
+    "tags": [
+      "music"
+    ],
+    "price": "$30 adv / $35 door ($55 balcony)",
+    "description": "The Modern Lovers founder plays a warm, funny, mostly acoustic set with longtime drummer Tommy Larkins. The first of two nights at GAMH; doors 7pm.",
+    "neighbourhood": "Tenderloin",
+    "cycle_minutes": 9,
+    "added": "2026-11-22"
+  },
+  {
     "title": "Lindy in the Park: free swing dancing + beginner lesson (Valentine's Day)",
     "start": "2027-02-14T11:00:00-08:00",
     "end": "2027-02-14T14:00:00-08:00",
@@ -9295,6 +9370,24 @@
     "added": "2026-11-17"
   },
   {
+    "id": "katherine-li-i-love-you-or-whatever-tour-cafe-du-nord-732dc495",
+    "title": "Katherine Li: I love you, or whatever Tour (Cafe du Nord)",
+    "start": "2027-03-10T20:00:00-08:00",
+    "end": null,
+    "venue": "Cafe du Nord",
+    "address": "2170 Market St, San Francisco, CA",
+    "url": "https://cafedunord.com/shows/2027-03-10-katherine-li",
+    "source": "venue:cafedunord",
+    "tags": [
+      "music"
+    ],
+    "price": "$33.45",
+    "description": "Toronto singer-songwriter Katherine Li plays heartfelt, rom-com-flavoured pop songs in the basement room on Market St. All ages; doors 7pm.",
+    "neighbourhood": "Upper Market",
+    "cycle_minutes": 15,
+    "added": "2026-11-22"
+  },
+  {
     "id": "lindsey-caplan-anthony-veneziale-the-art-and-science-of-what-8c759bb3",
     "title": "Lindsey Caplan & Anthony Veneziale: The Art and Science of What Moves Us",
     "start": "2027-03-11T18:00:00-08:00",
@@ -9533,6 +9626,24 @@
     "added": "2026-11-17"
   },
   {
+    "id": "teenage-fanclub-d8c30d3a",
+    "title": "Teenage Fanclub",
+    "start": "2027-03-19T20:00:00-07:00",
+    "end": null,
+    "venue": "Great American Music Hall",
+    "address": "859 O'Farrell St, San Francisco, CA 94109",
+    "url": "https://wl.seetickets.us/event/teenage-fanclub/710867?afflky=GreatAmericanMusicHall",
+    "source": "venue:gamh",
+    "tags": [
+      "music"
+    ],
+    "price": "$34.50 adv/door ($69.50 balcony)",
+    "description": "The Glasgow guitar-pop band led by Norman Blake and Raymond McGinley, still writing jangly, harmony-rich songs nearly four decades on. Doors 7pm.",
+    "neighbourhood": "Tenderloin",
+    "cycle_minutes": 9,
+    "added": "2026-11-22"
+  },
+  {
     "id": "the-music-of-tom-verlaine-jimmy-rip-jay-dee-daugherty-jackso-45827a66",
     "title": "The Music of Tom Verlaine (Jimmy Rip, Jay Dee Daugherty, Jackson Smith, Chris Lightcap)",
     "start": "2027-03-19T21:00:00-07:00",
@@ -9624,6 +9735,43 @@
     "neighbourhood": "Civic Center",
     "cycle_minutes": 9,
     "added": "2026-11-19"
+  },
+  {
+    "id": "zephyr-teachout-anti-monopoly-a-citizen-s-guide-commonwealth-edc466e3",
+    "title": "Zephyr Teachout: Anti-Monopoly, a Citizen's Guide (Commonwealth Club)",
+    "start": "2027-03-23T18:00:00-07:00",
+    "end": "2027-03-23T19:00:00-07:00",
+    "venue": "Commonwealth Club World Affairs (Toni Rembe Rock Auditorium)",
+    "address": "110 The Embarcadero, San Francisco, CA",
+    "url": "https://www.commonwealthclub.org/events/2027-03-23/zephyr-teachout-anti-monopoly-citizens-guide",
+    "source": "venue:commonwealthclub",
+    "tags": [
+      "talk"
+    ],
+    "price": "$22 ($46 with book)",
+    "description": "Fordham law professor Zephyr Teachout explains how ordinary people can push back against corporate monopoly power. Doors 5:30pm, talk 6-7pm, then a book signing.",
+    "neighbourhood": "Embarcadero",
+    "cycle_minutes": 5,
+    "added": "2026-11-22"
+  },
+  {
+    "id": "drop-in-circling-workshop-berkeley-march-bed1f3b3",
+    "title": "Drop-In Circling Workshop (Berkeley, March)",
+    "start": "2027-03-23T19:00:00-07:00",
+    "end": "2027-03-23T22:00:00-07:00",
+    "venue": "Animal Rights Center",
+    "address": "2414 6th St, Berkeley, CA 94710",
+    "url": "https://www.tickettailor.com/events/thecirclinginsitute/2486232",
+    "source": "listing:circling-institute",
+    "tags": [
+      "workshop",
+      "community"
+    ],
+    "price": null,
+    "description": "The Circling Institute's monthly in-person evening of authentic relating and the Original Circling approach. Register in advance, since the last one sold out a week ahead; doors close at 7:10pm. East Bay: take BART to Downtown Berkeley (~25 min), then bus or bike to West Berkeley.",
+    "neighbourhood": "Berkeley",
+    "cycle_minutes": null,
+    "added": "2026-11-22"
   },
   {
     "id": "woodchopper-s-ball-live-band-swing-night-5f298963",
@@ -9773,5 +9921,132 @@
     "neighbourhood": "Mission",
     "cycle_minutes": 13,
     "added": "2026-11-19"
+  },
+  {
+    "id": "dogpark-with-the-rose-hips-e3c2022b",
+    "title": "Dogpark with The Rose Hips",
+    "start": "2027-03-30T20:00:00-07:00",
+    "end": null,
+    "venue": "The Independent",
+    "address": "628 Divisadero St, San Francisco, CA 94117",
+    "url": "https://www.theindependentsf.com/tm-event/dogpark/",
+    "source": "venue:the-independent",
+    "tags": [
+      "music"
+    ],
+    "price": "$34.01",
+    "description": "A New York band that started at the University of Richmond and plays riff-driven melodic rock with satirical lyrics about money, fame and corporate life. All ages; doors 7:30pm.",
+    "neighbourhood": "NoPa",
+    "cycle_minutes": 18,
+    "added": "2026-11-22"
+  },
+  {
+    "id": "camel-power-club-3e8e8598",
+    "title": "Camel Power Club",
+    "start": "2027-03-31T20:00:00-07:00",
+    "end": null,
+    "venue": "The Independent",
+    "address": "628 Divisadero St, San Francisco, CA 94117",
+    "url": "https://www.theindependentsf.com/tm-event/camel-power-club/",
+    "source": "venue:the-independent",
+    "tags": [
+      "music"
+    ],
+    "price": "$37.10",
+    "description": "A French duo playing sunny, cinematic indie and dream pop that mixes folk, 60s British rock and surf. 18+; doors 7:30pm.",
+    "neighbourhood": "NoPa",
+    "cycle_minutes": 18,
+    "added": "2026-11-22"
+  },
+  {
+    "id": "perfect-daughter-at-san-francisco-playhouse-world-premiere-17ae6923",
+    "title": "Perfect Daughter at San Francisco Playhouse (world premiere)",
+    "start": "2027-04-01T19:00:00-07:00",
+    "end": null,
+    "venue": "Creativity Theater (San Francisco Playhouse)",
+    "address": "221 4th St, San Francisco, CA 94103",
+    "url": "https://sfplayhouse.org/2026-2027-season/perfect-daughter/",
+    "source": "venue:sf-playhouse",
+    "tags": [
+      "theatre"
+    ],
+    "price": "$46-$95",
+    "description": "Chloé Hung's new play about a father who works with a scientist to build an AI version of his daughter, then keeps adjusting her life to get it 'just right'. This is a Thursday evening show in the run's final week, at the Creativity Theater in Yerba Buena Gardens.",
+    "neighbourhood": "SoMa",
+    "cycle_minutes": 4,
+    "added": "2026-11-22"
+  },
+  {
+    "id": "delta-sleep-with-pure-hex-7933b1e9",
+    "title": "Delta Sleep with Pure Hex",
+    "start": "2027-04-02T20:30:00-07:00",
+    "end": null,
+    "venue": "The Chapel",
+    "address": "777 Valencia St, San Francisco, CA 94110",
+    "url": "https://wl.eventim.us/event/delta-sleep/711282?afflky=TheChapel",
+    "source": "venue:the-chapel",
+    "tags": [
+      "music"
+    ],
+    "price": "$27.50 adv / $30 day of show",
+    "description": "The UK math-rock band Delta Sleep, with Bay Area shoegaze band Pure Hex opening. All ages, standing; doors 7:30pm.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 13,
+    "added": "2026-11-22"
+  },
+  {
+    "id": "butcher-brown-65021f2d",
+    "title": "Butcher Brown",
+    "start": "2027-04-03T21:00:00-07:00",
+    "end": null,
+    "venue": "The Independent",
+    "address": "628 Divisadero St, San Francisco, CA 94117",
+    "url": "https://www.theindependentsf.com/tm-event/butcher-brown-2/",
+    "source": "venue:the-independent",
+    "tags": [
+      "music"
+    ],
+    "price": null,
+    "description": "Richmond, Virginia's Butcher Brown, a band that blends jazz, funk and hip-hop and is known for loose, energetic live shows. 21+; doors 8:30pm.",
+    "neighbourhood": "NoPa",
+    "cycle_minutes": 18,
+    "added": "2026-11-22"
+  },
+  {
+    "id": "purpose-alignment-circle-at-the-commons-april-a958b567",
+    "title": "Purpose Alignment Circle at The Commons (April)",
+    "start": "2027-04-04T14:00:00-07:00",
+    "end": "2027-04-04T16:00:00-07:00",
+    "venue": "The SF Commons",
+    "address": "550 Laguna St, San Francisco, CA 94102",
+    "url": "https://luma.com/the-yo2h",
+    "source": "listing:luma-sf-commons",
+    "tags": [
+      "workshop",
+      "community"
+    ],
+    "price": "Free",
+    "description": "A facilitated small-group circle for candid conversation about work, purpose and what you actually want, aimed at people questioning their path or weighing a change. The host says it isn't a networking event.",
+    "neighbourhood": "Hayes Valley",
+    "cycle_minutes": 12,
+    "added": "2026-11-22"
+  },
+  {
+    "id": "long-now-talk-meenakshi-wadhwa-on-meteorites-moon-rocks-and--e652b6a1",
+    "title": "Long Now Talk: Meenakshi Wadhwa on meteorites, Moon rocks and the early Solar System",
+    "start": "2027-04-13T19:00:00-07:00",
+    "end": null,
+    "venue": "Cowell Theater, Fort Mason Center",
+    "address": "Pier 2, Fort Mason Center, San Francisco, CA 94123",
+    "url": "https://longnow.org/talks/02027-wadhwa/",
+    "source": "venue:long-now",
+    "tags": [
+      "talk"
+    ],
+    "price": null,
+    "description": "Planetary scientist Meenakshi Wadhwa, director of Scripps Institution of Oceanography and former head of ASU's School of Earth and Space Exploration, studies how the Solar System formed using meteorites and samples returned by spacecraft. Tickets aren't on sale yet.",
+    "neighbourhood": "Fort Mason",
+    "cycle_minutes": 22,
+    "added": "2026-11-22"
   }
 ]

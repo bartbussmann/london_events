@@ -539,21 +539,6 @@ LOCATION:Great American Music Hall\, 859 O'Farrell St\, San Francisco\, CA
   94109
 END:VEVENT
 BEGIN:VEVENT
-UID:figure-drawing-mondays-at-sin-miedo-gallery-sketchboard-7d9d7e8e@sf-ev
- ents
-DTSTAMP:20261124T023000Z
-DTSTART:20261124T023000Z
-DTEND:20261124T043000Z
-SUMMARY:Figure drawing Mondays at Sin Miedo Gallery (Sketchboard)
-DESCRIPTION:A two-hour drop-in life drawing session with a model\, run by 
- Sketchboard Co. at their Mission gallery near 24th St. Bring your own sup
- plies and book on Square.\nPrice: $25\nhttps://book.squareup.com/classes/
- uj53t4hfgkzllp/location/DYSM7QRDVFWX7/classes
-URL:https://book.squareup.com/classes/uj53t4hfgkzllp/location/DYSM7QRDVFWX
- 7/classes
-LOCATION:Sin Miedo Gallery\, 2831 Mission St\, San Francisco\, CA 94110
-END:VEVENT
-BEGIN:VEVENT
 UID:salsacrazy-mondays-salsa-lesson-salsa-bachata-dancing-b207830a@sf-even
  ts
 DTSTAMP:20261124T030000Z
@@ -568,21 +553,6 @@ DESCRIPTION:Monday salsa night on Clement St. Doors open at 6:30\, a begin
 URL:https://www.eventbrite.com/e/salsa-dance-classes-and-salsa-and-bachata
  -dancing-salsacrazy-mondays-tickets-1981014379336
 LOCATION:Neck of the Woods\, 406 Clement St\, San Francisco\, CA 94118
-END:VEVENT
-BEGIN:VEVENT
-UID:circuit-hacking-monday-open-electronics-workshop-at-noisebri-3766ff94@
- sf-events
-DTSTAMP:20261124T030000Z
-DTSTART:20261124T030000Z
-DTEND:20261124T050000Z
-SUMMARY:Circuit Hacking Monday: open electronics workshop at Noisebridge
-DESCRIPTION:The weekly open electronics night at the Mission's volunteer-r
- un hackerspace\, with soldering stations and people working on robotics a
- nd embedded projects. Bring a project or just come and learn.\nPrice: Fre
- e (donations welcome)\nhttps://www.meetup.com/noisebridge/events/31717202
- 9/
-URL:https://www.meetup.com/noisebridge/events/317172029/
-LOCATION:Noisebridge hackerspace\, 272 Capp St\, San Francisco\, CA 94110
 END:VEVENT
 BEGIN:VEVENT
 UID:emergence-relational-mindfulness-practice-circling-style-at--71b398ee@
@@ -614,6 +584,21 @@ DESCRIPTION:A Bay Area screening of the new film from Cannes-winning Spani
  negra-261123
 URL:https://thecastro.com/events/la-bola-negra-261123
 LOCATION:Castro Theatre\, 429 Castro St\, San Francisco\, CA 94114
+END:VEVENT
+BEGIN:VEVENT
+UID:circuit-hacking-monday-open-electronics-workshop-at-noisebri-3766ff94@
+ sf-events
+DTSTAMP:20261124T033000Z
+DTSTART:20261124T033000Z
+DTEND:20261124T053000Z
+SUMMARY:Mozzi on Arduino: Circuit Hacking Monday at Noisebridge
+DESCRIPTION:The weekly open electronics night at the Mission's volunteer-r
+ un hackerspace\, with soldering stations and people working on robotics a
+ nd embedded projects. Bring a project or just come and learn.\nPrice: Fre
+ e (donations welcome)\nhttps://www.meetup.com/noisebridge/events/31717202
+ 9/
+URL:https://www.meetup.com/noisebridge/events/317172029/
+LOCATION:Noisebridge hackerspace\, 272 Capp St\, San Francisco\, CA 94110
 END:VEVENT
 BEGIN:VEVENT
 UID:pedro-the-lion-with-karli-fairbanks-90c93a84@sf-events
@@ -667,7 +652,7 @@ SUMMARY:Love Seat: a cooperative connection game at The Commons
 DESCRIPTION:An authentic-relating-style group game: everyone gets equal ti
  me in the 'Love Seat' to ask the group for the kind of care or support th
  ey want\, all with consent. A playful\, intimate way to meet people.\nPri
- ce: $10 (free for members)\nhttps://luma.com/the-j9fs
+ ce: $5\nhttps://luma.com/the-j9fs
 URL:https://luma.com/the-j9fs
 LOCATION:The SF Commons\, 540 Laguna St\, San Francisco\, CA 94102
 END:VEVENT
@@ -710,8 +695,8 @@ DTEND:20261125T053000Z
 SUMMARY:Sad Bastard Club: songwriter round-robin hosted by Tom Heyman
 DESCRIPTION:A free Tuesday songwriters' circle at the Make-Out Room\, with
   players trading songs in the round. A low-key folk night and a good way 
- to meet the local scene.\nPrice: Free\nhttps://www.calendarwiz.com/calend
- ars/calendar.php?crd=makeoutroom&cid[]=all
+ to meet the local scene.\nPrice: $10 suggested donation\nhttps://www.cale
+ ndarwiz.com/calendars/calendar.php?crd=makeoutroom&cid[]=all
 URL:https://www.calendarwiz.com/calendars/calendar.php?crd=makeoutroom&cid
  []=all
 LOCATION:Make-Out Room\, 3225 22nd St\, San Francisco\, CA 94110
@@ -993,10 +978,11 @@ DTEND:20261128T060000Z
 SUMMARY:Sleepless Nights XX: A Tribute to Gram Parsons
 DESCRIPTION:The 20th annual Gram Parsons tribute: a big night of local cou
  ntry-folk acts including Bar Fight\, Aaron Burnham & the Brushfires\, Pau
- la Frazer & Tarnation and Penelope Houston. Doors 7:30pm.\nhttps://wl.see
- tickets.us/event/sleepless-nights-xx-a-tribute-to-gram-parsons
-URL:https://wl.seetickets.us/event/sleepless-nights-xx-a-tribute-to-gram-p
- arsons
+ la Frazer & Tarnation and Penelope Houston. Doors 7:30pm.\nPrice: $20 adv
+  / $25 day of show\nhttps://wl.eventim.us/event/sleepless-nights-xx-a-tri
+ bute-to-gram-parsons/707714?afflky=TheChapel
+URL:https://wl.eventim.us/event/sleepless-nights-xx-a-tribute-to-gram-pars
+ ons/707714?afflky=TheChapel
 LOCATION:The Chapel\, 777 Valencia St\, San Francisco\, CA 94110
 END:VEVENT
 BEGIN:VEVENT
@@ -4820,6 +4806,22 @@ URL:https://bay.dance/events/contact_improv/
 LOCATION:The Castro Room\, 97 Collingwood St\, San Francisco\, CA 94114
 END:VEVENT
 BEGIN:VEVENT
+UID:alterna-new-wave-and-goth-skate-night-at-the-church-of-8-whe-8a125a04@
+ sf-events
+DTSTAMP:20270106T040000Z
+DTSTART:20270106T040000Z
+DTEND:20270106T060000Z
+SUMMARY:ALTERNA: new wave and goth skate night at the Church of 8 Wheels
+DESCRIPTION:A Tuesday roller-skating night in the converted church\, with 
+ new wave\, darkwave\, synthpop and post-punk under the disco ball. Rent s
+ kates at the door if you don't have your own.\nPrice: $24.13 ($20 entry\;
+  skate rental $5 extra)\nhttps://www.eventbrite.com/e/welcome-to-alterna-
+ goth-night-at-the-church-of-8-wheels-tickets-1903360856559
+URL:https://www.eventbrite.com/e/welcome-to-alterna-goth-night-at-the-chur
+ ch-of-8-wheels-tickets-1903360856559
+LOCATION:Church of 8 Wheels\, 554 Fillmore St\, San Francisco\, CA 94117
+END:VEVENT
+BEGIN:VEVENT
 UID:woodchopper-s-ball-live-band-swing-night-7f424c8e@sf-events
 DTSTAMP:20270106T050000Z
 DTSTART:20270106T050000Z
@@ -5189,6 +5191,22 @@ URL:https://www.voguemovies.com/calendar-of-events/national-theatre-live-t
 LOCATION:Vogue Theatre\, 3290 Sacramento St\, San Francisco\, CA 94115
 END:VEVENT
 BEGIN:VEVENT
+UID:an-evening-with-robyn-hitchcock-stranded-in-the-future-city--709de83f@
+ sf-events
+DTSTAMP:20270112T030000Z
+DTSTART:20270112T030000Z
+DTEND:20270112T050000Z
+SUMMARY:An Evening with Robyn Hitchcock: Stranded in the Future (City Ligh
+ ts)
+DESCRIPTION:The English psychedelic-folk songwriter Robyn Hitchcock talks 
+ about his book 'Stranded in the Future' at City Lights. A free in-store e
+ vent.\nPrice: Free\nhttps://citylights.com/events/an-evening-with-robyn-h
+ itchcock/
+URL:https://citylights.com/events/an-evening-with-robyn-hitchcock/
+LOCATION:City Lights Booksellers\, 261 Columbus Ave\, San Francisco\, CA 9
+ 4133
+END:VEVENT
+BEGIN:VEVENT
 UID:free-bluegrass-jam-concert-at-blondie-s-b9cecea6@sf-events
 DTSTAMP:20270112T043000Z
 DTSTART:20270112T043000Z
@@ -5261,6 +5279,35 @@ DESCRIPTION:A two-hour drop-in life drawing session with a model\, run by
 URL:https://book.squareup.com/classes/uj53t4hfgkzllp/location/DYSM7QRDVFWX
  7/classes
 LOCATION:Monument SF\, 140 9th St\, San Francisco\, CA 94103
+END:VEVENT
+BEGIN:VEVENT
+UID:write-night-at-the-commons-january-bb894785@sf-events
+DTSTAMP:20270114T023000Z
+DTSTART:20270114T023000Z
+DTEND:20270114T043000Z
+SUMMARY:Write Night at The Commons (January)
+DESCRIPTION:A weekly writers' meetup: introductions at 6:55\, an hour of q
+ uiet writing from 7pm\, then a progress check-in and time to socialise. A
+ ll kinds of writing are welcome.\nPrice: Free (up to $5 suggested)\nhttps
+ ://luma.com/the-10se
+URL:https://luma.com/the-10se
+LOCATION:The SF Commons\, 540 Laguna St\, San Francisco\, CA 94102
+END:VEVENT
+BEGIN:VEVENT
+UID:an-evening-with-peter-rowan-walls-of-time-city-lights-37b17dcc@sf-even
+ ts
+DTSTAMP:20270114T030000Z
+DTSTART:20270114T030000Z
+DTEND:20270114T050000Z
+SUMMARY:An Evening with Peter Rowan: Walls of Time (City Lights)
+DESCRIPTION:Bluegrass veteran Peter Rowan\, who played with Bill Monroe an
+ d in Old & In the Way\, talks about his memoir 'Walls of Time: Tales of a
+  Bluegrass Pilgrim'. It's a free in-store event\; seats are first come\, 
+ first served.\nPrice: Free (first come\, first served)\nhttps://citylight
+ s.com/events/an-evening-with-peter-rowan/
+URL:https://citylights.com/events/an-evening-with-peter-rowan/
+LOCATION:City Lights Booksellers\, 261 Columbus Ave\, San Francisco\, CA 9
+ 4133
 END:VEVENT
 BEGIN:VEVENT
 UID:mid-week-merriment-skate-rivals-on-ice-at-union-square-de20ecb9@sf-eve
@@ -6658,6 +6705,22 @@ URL:https://www.ticketmaster.com/michael-shannon-jason-narducy-and-friends
 LOCATION:The Fillmore\, 1805 Geary Blvd\, San Francisco\, CA 94115
 END:VEVENT
 BEGIN:VEVENT
+UID:jonathan-richman-featuring-tommy-larkins-22f82458@sf-events
+DTSTAMP:20270214T040000Z
+DTSTART:20270214T040000Z
+DTEND:20270214T060000Z
+SUMMARY:Jonathan Richman featuring Tommy Larkins
+DESCRIPTION:The Modern Lovers founder plays a warm\, funny\, mostly acoust
+ ic set with longtime drummer Tommy Larkins. The first of two nights at GA
+ MH\; doors 7pm.\nPrice: $30 adv / $35 door ($55 balcony)\nhttps://wl.seet
+ ickets.us/event/jonathan-richman-featuring-tommy-larkins-on-the-drums/710
+ 424?afflky=GreatAmericanMusicHall
+URL:https://wl.seetickets.us/event/jonathan-richman-featuring-tommy-larkin
+ s-on-the-drums/710424?afflky=GreatAmericanMusicHall
+LOCATION:Great American Music Hall\, 859 O'Farrell St\, San Francisco\, CA
+  94109
+END:VEVENT
+BEGIN:VEVENT
 UID:lindy-in-the-park-free-swing-dancing-beginner-lesson-valenti-cade29ff@
  sf-events
 DTSTAMP:20270214T190000Z
@@ -7382,6 +7445,20 @@ URL:https://bimbos365club.com/tm-event/christian-kuria-east-tour/
 LOCATION:Bimbo's 365 Club\, 1025 Columbus Ave\, San Francisco\, CA 94133
 END:VEVENT
 BEGIN:VEVENT
+UID:katherine-li-i-love-you-or-whatever-tour-cafe-du-nord-732dc495@sf-even
+ ts
+DTSTAMP:20270311T040000Z
+DTSTART:20270311T040000Z
+DTEND:20270311T060000Z
+SUMMARY:Katherine Li: I love you\, or whatever Tour (Cafe du Nord)
+DESCRIPTION:Toronto singer-songwriter Katherine Li plays heartfelt\, rom-c
+ om-flavoured pop songs in the basement room on Market St. All ages\; door
+ s 7pm.\nPrice: $33.45\nhttps://cafedunord.com/shows/2027-03-10-katherine-
+ li
+URL:https://cafedunord.com/shows/2027-03-10-katherine-li
+LOCATION:Cafe du Nord\, 2170 Market St\, San Francisco\, CA
+END:VEVENT
+BEGIN:VEVENT
 UID:lindsey-caplan-anthony-veneziale-the-art-and-science-of-what-8c759bb3@
  sf-events
 DTSTAMP:20270312T020000Z
@@ -7568,6 +7645,21 @@ URL:https://www.eventbrite.com/e/bachata-lab-tickets-1543049154559
 LOCATION:Bachata Lab\, 1830 17th St\, San Francisco\, CA 94103
 END:VEVENT
 BEGIN:VEVENT
+UID:teenage-fanclub-d8c30d3a@sf-events
+DTSTAMP:20270320T030000Z
+DTSTART:20270320T030000Z
+DTEND:20270320T050000Z
+SUMMARY:Teenage Fanclub
+DESCRIPTION:The Glasgow guitar-pop band led by Norman Blake and Raymond Mc
+ Ginley\, still writing jangly\, harmony-rich songs nearly four decades on
+ . Doors 7pm.\nPrice: $34.50 adv/door ($69.50 balcony)\nhttps://wl.seetick
+ ets.us/event/teenage-fanclub/710867?afflky=GreatAmericanMusicHall
+URL:https://wl.seetickets.us/event/teenage-fanclub/710867?afflky=GreatAmer
+ icanMusicHall
+LOCATION:Great American Music Hall\, 859 O'Farrell St\, San Francisco\, CA
+  94109
+END:VEVENT
+BEGIN:VEVENT
 UID:the-music-of-tom-verlaine-jimmy-rip-jay-dee-daugherty-jackso-45827a66@
  sf-events
 DTSTAMP:20270320T040000Z
@@ -7642,6 +7734,38 @@ DESCRIPTION:Cook and writer Alison Roman talks about turning internet food
 URL:https://www.cityarts.net/event/alison-roman-food-life-other-stories/
 LOCATION:Sydney Goldstein Theater\, 275 Hayes St\, San Francisco\, CA 9410
  2
+END:VEVENT
+BEGIN:VEVENT
+UID:zephyr-teachout-anti-monopoly-a-citizen-s-guide-commonwealth-edc466e3@
+ sf-events
+DTSTAMP:20270324T010000Z
+DTSTART:20270324T010000Z
+DTEND:20270324T020000Z
+SUMMARY:Zephyr Teachout: Anti-Monopoly\, a Citizen's Guide (Commonwealth C
+ lub)
+DESCRIPTION:Fordham law professor Zephyr Teachout explains how ordinary pe
+ ople can push back against corporate monopoly power. Doors 5:30pm\, talk 
+ 6-7pm\, then a book signing.\nPrice: $22 ($46 with book)\nhttps://www.com
+ monwealthclub.org/events/2027-03-23/zephyr-teachout-anti-monopoly-citizen
+ s-guide
+URL:https://www.commonwealthclub.org/events/2027-03-23/zephyr-teachout-ant
+ i-monopoly-citizens-guide
+LOCATION:Commonwealth Club World Affairs (Toni Rembe Rock Auditorium)\, 11
+ 0 The Embarcadero\, San Francisco\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:drop-in-circling-workshop-berkeley-march-bed1f3b3@sf-events
+DTSTAMP:20270324T020000Z
+DTSTART:20270324T020000Z
+DTEND:20270324T050000Z
+SUMMARY:Drop-In Circling Workshop (Berkeley\, March)
+DESCRIPTION:The Circling Institute's monthly in-person evening of authenti
+ c relating and the Original Circling approach. Register in advance\, sinc
+ e the last one sold out a week ahead\; doors close at 7:10pm. East Bay: t
+ ake BART to Downtown Berkeley (~25 min)\, then bus or bike to West Berkel
+ ey.\nhttps://www.tickettailor.com/events/thecirclinginsitute/2486232
+URL:https://www.tickettailor.com/events/thecirclinginsitute/2486232
+LOCATION:Animal Rights Center\, 2414 6th St\, Berkeley\, CA 94710
 END:VEVENT
 BEGIN:VEVENT
 UID:woodchopper-s-ball-live-band-swing-night-5f298963@sf-events
@@ -7759,5 +7883,101 @@ DESCRIPTION:A Sunday-afternoon contact improvisation class at ODC in the M
  ntact_improv/
 URL:https://bay.dance/events/contact_improv/
 LOCATION:ODC Dance Commons\, 351 Shotwell St\, San Francisco\, CA 94110
+END:VEVENT
+BEGIN:VEVENT
+UID:dogpark-with-the-rose-hips-e3c2022b@sf-events
+DTSTAMP:20270331T030000Z
+DTSTART:20270331T030000Z
+DTEND:20270331T050000Z
+SUMMARY:Dogpark with The Rose Hips
+DESCRIPTION:A New York band that started at the University of Richmond and
+  plays riff-driven melodic rock with satirical lyrics about money\, fame 
+ and corporate life. All ages\; doors 7:30pm.\nPrice: $34.01\nhttps://www.
+ theindependentsf.com/tm-event/dogpark/
+URL:https://www.theindependentsf.com/tm-event/dogpark/
+LOCATION:The Independent\, 628 Divisadero St\, San Francisco\, CA 94117
+END:VEVENT
+BEGIN:VEVENT
+UID:camel-power-club-3e8e8598@sf-events
+DTSTAMP:20270401T030000Z
+DTSTART:20270401T030000Z
+DTEND:20270401T050000Z
+SUMMARY:Camel Power Club
+DESCRIPTION:A French duo playing sunny\, cinematic indie and dream pop tha
+ t mixes folk\, 60s British rock and surf. 18+\; doors 7:30pm.\nPrice: $37
+ .10\nhttps://www.theindependentsf.com/tm-event/camel-power-club/
+URL:https://www.theindependentsf.com/tm-event/camel-power-club/
+LOCATION:The Independent\, 628 Divisadero St\, San Francisco\, CA 94117
+END:VEVENT
+BEGIN:VEVENT
+UID:perfect-daughter-at-san-francisco-playhouse-world-premiere-17ae6923@sf
+ -events
+DTSTAMP:20270402T020000Z
+DTSTART:20270402T020000Z
+DTEND:20270402T040000Z
+SUMMARY:Perfect Daughter at San Francisco Playhouse (world premiere)
+DESCRIPTION:Chloé Hung's new play about a father who works with a scienti
+ st to build an AI version of his daughter\, then keeps adjusting her life
+  to get it 'just right'. This is a Thursday evening show in the run's fin
+ al week\, at the Creativity Theater in Yerba Buena Gardens.\nPrice: $46-$
+ 95\nhttps://sfplayhouse.org/2026-2027-season/perfect-daughter/
+URL:https://sfplayhouse.org/2026-2027-season/perfect-daughter/
+LOCATION:Creativity Theater (San Francisco Playhouse)\, 221 4th St\, San F
+ rancisco\, CA 94103
+END:VEVENT
+BEGIN:VEVENT
+UID:delta-sleep-with-pure-hex-7933b1e9@sf-events
+DTSTAMP:20270403T033000Z
+DTSTART:20270403T033000Z
+DTEND:20270403T053000Z
+SUMMARY:Delta Sleep with Pure Hex
+DESCRIPTION:The UK math-rock band Delta Sleep\, with Bay Area shoegaze ban
+ d Pure Hex opening. All ages\, standing\; doors 7:30pm.\nPrice: $27.50 ad
+ v / $30 day of show\nhttps://wl.eventim.us/event/delta-sleep/711282?afflk
+ y=TheChapel
+URL:https://wl.eventim.us/event/delta-sleep/711282?afflky=TheChapel
+LOCATION:The Chapel\, 777 Valencia St\, San Francisco\, CA 94110
+END:VEVENT
+BEGIN:VEVENT
+UID:butcher-brown-65021f2d@sf-events
+DTSTAMP:20270404T040000Z
+DTSTART:20270404T040000Z
+DTEND:20270404T060000Z
+SUMMARY:Butcher Brown
+DESCRIPTION:Richmond\, Virginia's Butcher Brown\, a band that blends jazz\
+ , funk and hip-hop and is known for loose\, energetic live shows. 21+\; d
+ oors 8:30pm.\nhttps://www.theindependentsf.com/tm-event/butcher-brown-2/
+URL:https://www.theindependentsf.com/tm-event/butcher-brown-2/
+LOCATION:The Independent\, 628 Divisadero St\, San Francisco\, CA 94117
+END:VEVENT
+BEGIN:VEVENT
+UID:purpose-alignment-circle-at-the-commons-april-a958b567@sf-events
+DTSTAMP:20270404T210000Z
+DTSTART:20270404T210000Z
+DTEND:20270404T230000Z
+SUMMARY:Purpose Alignment Circle at The Commons (April)
+DESCRIPTION:A facilitated small-group circle for candid conversation about
+  work\, purpose and what you actually want\, aimed at people questioning 
+ their path or weighing a change. The host says it isn't a networking even
+ t.\nPrice: Free\nhttps://luma.com/the-yo2h
+URL:https://luma.com/the-yo2h
+LOCATION:The SF Commons\, 550 Laguna St\, San Francisco\, CA 94102
+END:VEVENT
+BEGIN:VEVENT
+UID:long-now-talk-meenakshi-wadhwa-on-meteorites-moon-rocks-and--e652b6a1@
+ sf-events
+DTSTAMP:20270414T020000Z
+DTSTART:20270414T020000Z
+DTEND:20270414T040000Z
+SUMMARY:Long Now Talk: Meenakshi Wadhwa on meteorites\, Moon rocks and the
+  early Solar System
+DESCRIPTION:Planetary scientist Meenakshi Wadhwa\, director of Scripps Ins
+ titution of Oceanography and former head of ASU's School of Earth and Spa
+ ce Exploration\, studies how the Solar System formed using meteorites and
+  samples returned by spacecraft. Tickets aren't on sale yet.\nhttps://lon
+ gnow.org/talks/02027-wadhwa/
+URL:https://longnow.org/talks/02027-wadhwa/
+LOCATION:Cowell Theater\, Fort Mason Center\, Pier 2\, Fort Mason Center\,
+  San Francisco\, CA 94123
 END:VEVENT
 END:VCALENDAR
