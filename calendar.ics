@@ -632,6 +632,21 @@ URL:https://www.eventbrite.com/e/thanksgiving-eve-speed-dating-rm212-citys
 LOCATION:RM 212\, 690 Sacramento St\, San Francisco\, CA
 END:VEVENT
 BEGIN:VEVENT
+UID:san-francisco-rationalist-dinner-thanksgiving-eve-117ca38e@sf-events
+DTSTAMP:20261126T030000Z
+DTSTART:20261126T030000Z
+DTEND:20261126T060000Z
+SUMMARY:San Francisco Rationalist Dinner (Thanksgiving Eve)
+DESCRIPTION:An informal LessWrong community dinner where people talk about
+  AI safety\, recent blog posts and rationality topics. First-timers are w
+ elcome\, and you pay for your own food. It's on 2nd St\, a short walk fro
+ m home.\nhttps://www.lesswrong.com/events/nwJgC23MHjrN5sA7b/san-francisco
+ -rationalist-dinner-4
+URL:https://www.lesswrong.com/events/nwJgC23MHjrN5sA7b/san-francisco-ratio
+ nalist-dinner-4
+LOCATION:Mediterranean Bowl\, 2nd St\, San Francisco\, CA
+END:VEVENT
+BEGIN:VEVENT
 UID:san-francisco-wednesday-contra-dance-beginner-lesson-7-30-06d062b8@sf-
  events
 DTSTAMP:20261126T033000Z
@@ -1407,6 +1422,36 @@ URL:https://www.eventbrite.com/e/who-is-san-franciscos-recovery-for-trust-
 LOCATION:Manny's\, 3092 16th St\, San Francisco\, CA
 END:VEVENT
 BEGIN:VEVENT
+UID:holiday-cards-carve-print-sober-crafty-workshop-2fba6bd9@sf-events
+DTSTAMP:20261203T023000Z
+DTSTART:20261203T023000Z
+DTEND:20261203T050000Z
+SUMMARY:Holiday Cards: Carve & Print (Sober & Crafty workshop)
+DESCRIPTION:A small\, alcohol-free evening craft class: carve your own sta
+ mp\, then ink and print handmade holiday cards. No experience is needed a
+ nd all materials are included.\nPrice: $54.13\nhttps://www.eventbrite.com
+ /e/holiday-cards-carve-print-sober-crafty-tickets-2005179928143
+URL:https://www.eventbrite.com/e/holiday-cards-carve-print-sober-crafty-ti
+ ckets-2005179928143
+LOCATION:The Living Room on 9th\, 1383 9th Ave\, San Francisco\, CA 94122
+END:VEVENT
+BEGIN:VEVENT
+UID:the-thought-experiment-lab-can-we-know-things-by-intuition-t-31c472ee@
+ sf-events
+DTSTAMP:20261203T023000Z
+DTSTART:20261203T023000Z
+DTEND:20261203T040000Z
+SUMMARY:The Thought Experiment Lab: can we know things by intuition? (The 
+ Commons)
+DESCRIPTION:A free\, discussion-led philosophy meetup of around 30 people.
+  This session asks whether we can know things like '2 + 2 = 4' or 'causin
+ g pointless suffering is wrong' by intuition alone\, with a short Stanfor
+ d Encyclopedia reading suggested beforehand.\nPrice: Free\nhttps://luma.c
+ om/thoughtexperiments
+URL:https://luma.com/thoughtexperiments
+LOCATION:The SF Commons\, 540 Laguna St\, San Francisco\, CA 94102
+END:VEVENT
+BEGIN:VEVENT
 UID:long-now-lost-landscapes-02026-with-rick-prelinger-second-ni-32a67372@
  sf-events
 DTSTAMP:20261203T030000Z
@@ -1959,6 +2004,18 @@ URL:https://www.eventbrite.com/e/san-francisco-singles-event-travel-trivia
 LOCATION:Azúcar Lounge\, 299 9th St\, San Francisco\, CA 94103
 END:VEVENT
 BEGIN:VEVENT
+UID:comedy-at-the-commons-holiday-edition-scott-capurro-92f2d97f@sf-events
+DTSTAMP:20261206T033000Z
+DTSTART:20261206T033000Z
+DTEND:20261206T053000Z
+SUMMARY:Comedy at the Commons: Holiday Edition (Scott Capurro)
+DESCRIPTION:A holiday stand-up night at The Commons community space in Hay
+ es Valley\, headlined by SF comic Scott Capurro.\nPrice: $25\nhttps://lum
+ a.com/the-9myd
+URL:https://luma.com/the-9myd
+LOCATION:The SF Commons\, 540 Laguna St\, San Francisco\, CA 94102
+END:VEVENT
+BEGIN:VEVENT
 UID:sonny-his-rhinestone-sunsets-kelly-mcfarling-noelle-the-dese-adda0ee2@
  sf-events
 DTSTAMP:20261206T043000Z
@@ -2039,6 +2096,21 @@ DESCRIPTION:Outdoor makers' market of independent Bay Area designers and a
  ttps://headwestmarketplace.com/ferrybuilding
 URL:https://headwestmarketplace.com/ferrybuilding
 LOCATION:Ferry Building back plaza\, 1 Ferry Building\, San Francisco\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:5rhythms-sweat-your-prayers-with-alessandro-moruzzi-special--3cdee2fe@
+ sf-events
+DTSTAMP:20261206T200000Z
+DTSTART:20261206T200000Z
+DTEND:20261206T214500Z
+SUMMARY:5Rhythms Sweat Your Prayers with Alessandro Moruzzi (special Noe V
+ alley session)
+DESCRIPTION:The City Waves' Sunday 5Rhythms wave moves this week to a diff
+ erent studio and a noon start\, with latest entry at 12:30pm. It's a guid
+ ed dance meditation through the five rhythms\, and no experience is neede
+ d.\nPrice: $35\nhttps://momence.com/s/140249571
+URL:https://momence.com/s/140249571
+LOCATION:MoBu Dance Studio\, 1747 Church St\, San Francisco\, CA 94131
 END:VEVENT
 BEGIN:VEVENT
 UID:redbrick-ceramic-studio-sunday-clay-workshop-9a828976@sf-events
@@ -2348,6 +2420,22 @@ URL:https://www.verdiclub.net/events/the-woodchoppers-ball-42-3-2/2026-12-
 LOCATION:Verdi Club\, 2424 Mariposa St\, San Francisco\, CA 94110
 END:VEVENT
 BEGIN:VEVENT
+UID:ethics-after-agi-peter-singer-and-rob-reich-in-conversation-891b5e51@s
+ f-events
+DTSTAMP:20261210T020000Z
+DTSTART:20261210T020000Z
+DTEND:20261210T050000Z
+SUMMARY:Ethics after AGI: Peter Singer and Rob Reich in conversation
+DESCRIPTION:EA's intellectual godfather Peter Singer debates Stanford HAI'
+ s Rob Reich on what ethical principles should guide us through AGI-driven
+  change. The Aspen Institute's Philosophy & Society Initiative presents i
+ t\, and Samuel Kimbriel moderates.\nPrice: $5 suggested (pay what you can
+ \; registration needs approval)\nhttps://luma.com/6nugn61r
+URL:https://luma.com/6nugn61r
+LOCATION:Gray Area (Grand Theater)\, 2665 Mission St\, San Francisco\, CA 
+ 94110
+END:VEVENT
+BEGIN:VEVENT
 UID:mud-frontier-film-screening-talkback-with-rael-san-fratello-71da395e@s
  f-events
 DTSTAMP:20261210T023000Z
@@ -2642,6 +2730,19 @@ LOCATION:Commonwealth Club World Affairs (Taube Family Auditorium)\, 110 T
  he Embarcadero\, San Francisco\, CA 94105
 END:VEVENT
 BEGIN:VEVENT
+UID:speed-dating-bartlett-hall-love-on-tap-ages-21-32-f25b1fd7@sf-events
+DTSTAMP:20261212T030000Z
+DTSTART:20261212T030000Z
+DTEND:20261212T050000Z
+SUMMARY:Speed Dating @ Bartlett Hall (Love on Tap\, ages 21-32)
+DESCRIPTION:A speed-dating night for singles in the recommended 21-32 age 
+ range at a Union Square brewpub. It's cancelled if the gender ratio is of
+ f\, so check before going.\nPrice: $23.11-$33.77\nhttps://www.eventbrite.
+ com/e/2004877864663
+URL:https://www.eventbrite.com/e/2004877864663
+LOCATION:Bartlett Hall
+END:VEVENT
+BEGIN:VEVENT
 UID:dance-fridays-at-space-550-salsa-bachata-lessons-and-social-dcb85594@s
  f-events
 DTSTAMP:20261212T034500Z
@@ -2829,6 +2930,22 @@ URL:https://www.eventbrite.com/e/bats-improv-presents-an-improvised-dicken
  s-musical-127526-122626-sho-tickets-1991874773066
 LOCATION:BATS Bayfront Theatre\, Fort Mason Center\, 2 Marina Blvd\, Build
  ing B\, 3rd Floor\, San Francisco\, CA 94123
+END:VEVENT
+BEGIN:VEVENT
+UID:movement-ecstatic-dance-sf-akriza-5e917b66@sf-events
+DTSTAMP:20261213T180000Z
+DTSTART:20261213T180000Z
+DTEND:20261213T211100Z
+SUMMARY:MOVEMENT Ecstatic Dance SF // Akriza
+DESCRIPTION:MOVEMENT's Sunday-morning ecstatic dance in the old Sacred Hea
+ rt church\, with DJ Akriza. It's a sober\, shoes-off\, no-talking dance f
+ loor and an easy way to join SF's conscious-dance community.\nPrice: $30-
+ $50\nhttps://www.eventbrite.com/e/movement-ecstatic-dance-sf-akriza-regis
+ tration-2005230509433
+URL:https://www.eventbrite.com/e/movement-ecstatic-dance-sf-akriza-registr
+ ation-2005230509433
+LOCATION:Sacred Heart Church (MOVEMENT)\, 554 Fillmore St\, San Francisco\
+ , CA 94117
 END:VEVENT
 BEGIN:VEVENT
 UID:harvey-milk-center-for-the-arts-holiday-craft-fair-a0ce5050@sf-events
@@ -3740,6 +3857,21 @@ URL:https://www.calendarwiz.com/calendars/calendar.php?crd=makeoutroom&op=
 LOCATION:Make-Out Room\, 3225 22nd St\, San Francisco\, CA 94110
 END:VEVENT
 BEGIN:VEVENT
+UID:4th-tuesdays-kpop-skate-night-at-the-church-of-8-wheels-03b711ea@sf-ev
+ ents
+DTSTAMP:20261223T040000Z
+DTSTART:20261223T040000Z
+DTEND:20261223T060000Z
+SUMMARY:4th Tuesdays KPOP Skate Night at the Church of 8 Wheels
+DESCRIPTION:Roller skating to K-pop hits in the converted church that host
+ s SF's roller disco\, on its monthly fourth-Tuesday theme night. A fun\, 
+ low-key pre-Christmas night out.\nPrice: $24.13\nhttps://www.eventbrite.c
+ om/e/4th-tuesdays-kpop-skate-night-tickets-1978869848988
+URL:https://www.eventbrite.com/e/4th-tuesdays-kpop-skate-night-tickets-197
+ 8869848988
+LOCATION:Church of 8 Wheels\, 554 Fillmore St\, San Francisco\, CA 94117
+END:VEVENT
+BEGIN:VEVENT
 UID:the-hooks-the-greasy-gills-the-ultra-sounds-da37d038@sf-events
 DTSTAMP:20261223T043000Z
 DTSTART:20261223T043000Z
@@ -4094,6 +4226,21 @@ URL:https://wl.seetickets.us/event/chuck-prophet/706760?afflky=TheChapel
 LOCATION:The Chapel\, 777 Valencia St\, San Francisco\, CA 94110
 END:VEVENT
 BEGIN:VEVENT
+UID:movement-ecstatic-dance-sf-alia-22a244f6@sf-events
+DTSTAMP:20261227T180000Z
+DTSTART:20261227T180000Z
+DTEND:20261227T211100Z
+SUMMARY:MOVEMENT Ecstatic Dance SF // Alia
+DESCRIPTION:The last MOVEMENT Sunday ecstatic dance of 2026\, with DJ Alia
+  in the old Sacred Heart church. A sober\, free-form dance morning to sha
+ ke off Christmas week.\nPrice: $30-$50\nhttps://www.eventbrite.com/e/move
+ ment-ecstatic-dance-sf-alia-registration-2005230514448
+URL:https://www.eventbrite.com/e/movement-ecstatic-dance-sf-alia-registrat
+ ion-2005230514448
+LOCATION:Sacred Heart Church (MOVEMENT)\, 554 Fillmore St\, San Francisco\
+ , CA 94117
+END:VEVENT
+BEGIN:VEVENT
 UID:ranger-walk-250-years-on-the-presidio-31020b18@sf-events
 DTSTAMP:20261227T190000Z
 DTSTART:20261227T190000Z
@@ -4205,6 +4352,21 @@ DESCRIPTION:The same weekly open electronics night at the Mission hackersp
  ps://www.meetup.com/noisebridge/events/317172035/
 URL:https://www.meetup.com/noisebridge/events/317172035/
 LOCATION:Noisebridge hackerspace\, 272 Capp St\, San Francisco\, CA 94110
+END:VEVENT
+BEGIN:VEVENT
+UID:free-bluegrass-jam-concert-at-blondie-s-937550c3@sf-events
+DTSTAMP:20261229T043000Z
+DTSTART:20261229T043000Z
+DTEND:20261229T063000Z
+SUMMARY:Free bluegrass jam & concert at Blondie's
+DESCRIPTION:Blondie's weekly Monday bluegrass night on Valencia St\, where
+  local pickers play a set and then open up a jam. A relaxed\, free option
+  in the quiet week between Christmas and New Year.\nPrice: Free\nhttps://
+ www.eventbrite.com/e/free-bluegrass-in-san-francisco-live-jam-concert-tic
+ kets-1990533652739
+URL:https://www.eventbrite.com/e/free-bluegrass-in-san-francisco-live-jam-
+ concert-tickets-1990533652739
+LOCATION:Blondie's Bar\, 540 Valencia St\, San Francisco\, CA 94110
 END:VEVENT
 BEGIN:VEVENT
 UID:man-or-astro-man-with-the-subsonics-9124ba5d@sf-events
@@ -4784,6 +4946,23 @@ URL:https://luma.com/the-wjcr
 LOCATION:The SF Commons\, 540 Laguna St\, San Francisco\, CA 94102
 END:VEVENT
 BEGIN:VEVENT
+UID:hispanic-singles-those-who-love-them-singles-mixer-at-rick-r-4c72b110@
+ sf-events
+DTSTAMP:20270108T030000Z
+DTSTART:20270108T030000Z
+DTEND:20270108T050000Z
+SUMMARY:Hispanic Singles & Those Who Love Them: singles mixer at Rick & Ro
+ xy's
+DESCRIPTION:A singles mixer that's open to adult singles of all background
+ s\, with no age cap. A hosted icebreaker game makes it easy to meet lots 
+ of people. Proceeds benefit the Seva Foundation.\nPrice: $30 early bird /
+  $40 advance / $50 door\nhttps://www.eventbrite.com/e/hispanic-singles-th
+ ose-who-love-them-tickets-2004618947234
+URL:https://www.eventbrite.com/e/hispanic-singles-those-who-love-them-tick
+ ets-2004618947234
+LOCATION:Rick & Roxy's\, 2131 Lombard St\, San Francisco\, CA 94123
+END:VEVENT
+BEGIN:VEVENT
 UID:the-loved-ones-latest-hits-record-release-with-the-vesuvians-b735b97a@
  sf-events
 DTSTAMP:20270108T040000Z
@@ -4972,6 +5151,24 @@ DESCRIPTION:A free small-group Purpose Alignment Circle at The Commons com
  ree\nhttps://luma.com/the-lwqe
 URL:https://luma.com/the-lwqe
 LOCATION:The SF Commons\, 540 Laguna St\, San Francisco\, CA 94102
+END:VEVENT
+BEGIN:VEVENT
+UID:erik-hoffman-bon-voyage-party-jam-potluck-and-contra-dance-b-932f786a@
+ sf-events
+DTSTAMP:20270110T223000Z
+DTSTART:20270110T223000Z
+DTEND:20270111T060000Z
+SUMMARY:Erik Hoffman Bon Voyage Party: jam\, potluck and contra dance (BAC
+ DS + SFFMC)
+DESCRIPTION:BACDS and the SF Folk Music Club throw a free farewell party f
+ or Erik Hoffman\, the longtime caller behind SF's Wednesday contra. There
+ 's jamming from 2:30pm\, a vegetarian potluck at 5pm\, and a contra dance
+  from 7pm to 10pm with a cavalcade of callers and an open band. East Bay:
+  BART from Montgomery to El Cerrito Plaza (~25 min)\, then a short walk.\
+ nPrice: Free\nhttps://bacds.org/calendars/2027/01/
+URL:https://bacds.org/calendars/2027/01/
+LOCATION:Albany Veterans Memorial Building\, 1325 Portland Ave\, Albany\, 
+ CA
 END:VEVENT
 BEGIN:VEVENT
 UID:crafting-in-the-castro-notebook-making-eff7a549@sf-events
@@ -5486,6 +5683,23 @@ LOCATION:Transamerica Pyramid plaza (meeting point)\, 600 Montgomery St (N
  W corner of plaza\, by the flagpoles)\, San Francisco\, CA 94111
 END:VEVENT
 BEGIN:VEVENT
+UID:lift-every-voice-free-mlk-day-singer-showcase-at-the-castro--ce36d046@
+ sf-events
+DTSTAMP:20270119T030000Z
+DTSTART:20270119T030000Z
+DTEND:20270119T050000Z
+SUMMARY:Lift Every Voice: free MLK Day singer showcase at the Castro Theat
+ re
+DESCRIPTION:The SF International Arts Festival's free MLK Day concert cele
+ brates gospel\, blues and jazz traditions. The Dee Spencer Trio plays wit
+ h vocalist and MC Clairdee and 17 community singers.\nPrice: Free (RSVP r
+ equired)\nhttps://sf.funcheap.com/lift-voice-free-mlk-day-gospelblues-con
+ cert-sfs-castro-theatre-2027/
+URL:https://sf.funcheap.com/lift-voice-free-mlk-day-gospelblues-concert-sf
+ s-castro-theatre-2027/
+LOCATION:Castro Theatre\, 429 Castro St\, San Francisco\, CA 94114
+END:VEVENT
+BEGIN:VEVENT
 UID:tara-clerkin-trio-334069e5@sf-events
 DTSTAMP:20270119T040000Z
 DTSTART:20270119T040000Z
@@ -5664,6 +5878,21 @@ LOCATION:Cafe du Nord\, 2174 Market St (downstairs)\, San Francisco\, CA 9
  4114
 END:VEVENT
 BEGIN:VEVENT
+UID:judge-john-hodgman-road-court-sf-sketchfest-ce663e2a@sf-events
+DTSTAMP:20270123T030000Z
+DTSTART:20270123T030000Z
+DTEND:20270123T043000Z
+SUMMARY:Judge John Hodgman: Road Court! (SF Sketchfest)
+DESCRIPTION:John Hodgman and bailiff Jesse Thorn bring their fake-court co
+ medy podcast to the stage. They rule on real audience disputes with pop-c
+ ulture obsession and 'unadulterated fake legal wisdom'.\nPrice: $53.41-$7
+ 4.70\nhttps://www.eventbrite.com/e/judge-john-hodgman-tickets-20046636960
+ 79
+URL:https://www.eventbrite.com/e/judge-john-hodgman-tickets-2004663696079
+LOCATION:Marines' Memorial Theatre\, 609 Sutter St\, San Francisco\, CA 94
+ 102
+END:VEVENT
+BEGIN:VEVENT
 UID:eliane-elias-quartet-ant-nio-carlos-jobim-centennial-celebra-b808515e@
  sf-events
 DTSTAMP:20270123T033000Z
@@ -5786,6 +6015,23 @@ URL:https://www.theindependentsf.com/tm-event/the-brothers-comatose-2/
 LOCATION:The Independent\, 628 Divisadero St\, San Francisco\, CA 94117
 END:VEVENT
 BEGIN:VEVENT
+UID:wild-oyster-project-volunteer-work-day-shell-recycling-87f7e468@sf-eve
+ nts
+DTSTAMP:20270124T180000Z
+DTSTART:20270124T180000Z
+DTEND:20270124T210000Z
+SUMMARY:Wild Oyster Project volunteer work day (shell recycling)
+DESCRIPTION:A hands-on morning at the Wild Oyster Project's India Basin sh
+ ell yard: painting buckets\, moving cured shell and learning how recycled
+  shells help bring back the bay's native oysters. A sociable way to spend
+  a Sunday outdoors.\nPrice: Free (register)\nhttps://www.eventbrite.com/e
+ /wild-oyster-projects-monthly-volunteer-work-day-sf-tickets-1989608938895
+URL:https://www.eventbrite.com/e/wild-oyster-projects-monthly-volunteer-wo
+ rk-day-sf-tickets-1989608938895
+LOCATION:Wild Oyster Project SF shell site\, 1901 Innes Ave\, San Francisc
+ o\, CA 94124
+END:VEVENT
+BEGIN:VEVENT
 UID:sf-city-guides-free-walking-tour-haight-ashbury-b0c295ae@sf-events
 DTSTAMP:20270124T190000Z
 DTSTART:20270124T190000Z
@@ -5810,6 +6056,24 @@ DESCRIPTION:The weekly Sunday-afternoon instrumental Irish session at SF's
  .\nPrice: Free\nhttps://www.sffmc.org/community-folk-calendar/
 URL:https://www.sffmc.org/community-folk-calendar/
 LOCATION:The Plough and Stars\, 116 Clement St\, San Francisco\, CA 94118
+END:VEVENT
+BEGIN:VEVENT
+UID:improv-character-workshop-with-brian-palermo-sf-sketchfest-a50ec497@sf
+ -events
+DTSTAMP:20270124T210000Z
+DTSTART:20270124T210000Z
+DTEND:20270125T000000Z
+SUMMARY:Improv character workshop with Brian Palermo (SF Sketchfest)
+DESCRIPTION:A three-hour hands-on improv class from a longtime Groundlings
+  performer and teacher. You learn to create\, define and embody character
+ s with techniques from the Groundlings school. It's 'super fun silliness'
+  and works for beginners. Price not published yet\; check before booking.
+ \nhttps://sfsketchfest2027.sched.com/event/f48869e73c3902377fa434088676a8
+ d0
+URL:https://sfsketchfest2027.sched.com/event/f48869e73c3902377fa434088676a
+ 8d0
+LOCATION:BATS Annex\, Fort Mason Center\, 2 Marina Blvd\, Bldg B\, San Fra
+ ncisco\, CA 94123
 END:VEVENT
 BEGIN:VEVENT
 UID:angela-autumn-throwin-bo-s-live-music-at-the-4-star-3ff24b21@sf-events

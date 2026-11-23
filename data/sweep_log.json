@@ -1,5 +1,11 @@
 [
   {
+    "ran_at": "2026-11-23T06:45:00-08:00",
+    "added": 17,
+    "considered": 114,
+    "notes": "Part 1: Moxgiving (25 Nov) moved again, now 5-7pm; pruned 9. Part 2: freshness check of 64 events 2-8 Dec - no changes. 17 adds: SF Rationalist Dinner (25 Nov), Peter Singer + Rob Reich 'Ethics after AGI' at Gray Area (9 Dec), MOVEMENT ecstatic dance (13 + 27 Dec, first December dates), 5Rhythms special Noe Valley session (6 Dec), Commons Thought Experiment Lab and comedy night, carve-and-print card workshop, KPOP skate, Blondie's bluegrass, speed dating 21-32 (11 Dec), Hispanic Singles mixer (7 Jan), Erik Hoffman bon voyage contra (Albany, 10 Jan), free MLK Day concert at the Castro, Judge John Hodgman, Brian Palermo improv workshop, Wild Oyster volunteer day. Blocked: Ticketmaster, sfiaf.org, Sched pages (Cloudflare)."
+  },
+  {
     "ran_at": "2026-11-22T06:45:00-08:00",
     "added": 16,
     "considered": 240,
@@ -172,11 +178,5 @@
     "added": 29,
     "considered": 320,
     "notes": "FIRST SF SWEEP (part A — talks/community/classes/film scout; music+dance scout still running). Highlights: Michael Lewis at City Arts & Lectures 30 Oct; Ben Buchanan (ex-White House AI advisor) Commonwealth Club 16 Nov; Darkhaven Halloween gala at Lighthaven 31 Oct (East Bay exception — rationalist flagship); Long Now Lost Landscapes w/ Rick Prelinger 1 Dec (repeat 2 Dec); Goblin live-score Tenebre at the Castro 10 Nov; Moth GrandSLAM at the Castro 13 Nov; Exploratorium After Dark x2 + Cal Academy NightLife x2; Gray Area Patch Bay workshops + Micro To Macro; Roxie Wild at Heart 31 Oct + Blade Runner 35mm 3 Nov; Diwali festival at Yerba Buena (3 min) 8 Nov; Coffee + Tea festivals; 4 dating events (Cityswoon 28-42, Booked readers 25-35 — 2 spots left, speed-dating game night 30s/40s, BATS improv dating workshop); Berkeley circling drop-in 10 Nov (only in-person circling in reach). SOLD OUT/waitlist: Long Now Entangled Intelligences 10 Nov, Gray Area Scaling Intelligence 28 Oct, Connection Lab singles 7 Nov. GAPS: no in-person circling/AR/Alexander Technique in SF; no SF ACX meetup (fall SF one already past; remaining are Peninsula); no supper clubs or one-off pottery under $80. WATCH: LessWrong Bay Area Winter Solstice ~Sat 12 Dec; Nerd Nite SF (3rd Weds, Rickshaw Stop) Nov 18 unannounced. Spares: Exploratorium Creepatorium 29 Oct / Digest This 5 Nov / Rule Breakers 3 Dec; Cal Academy Pajammy Jam 12 Nov; Sketchboard figure drawing Weds 6:30pm 140 9th St (free RSVP). Manny's site unreachable (HTTP/2 error). Dandelion SF feed nearly empty (1 event)."
-  },
-  {
-    "ran_at": "2026-10-26T13:30:00-07:00",
-    "added": 0,
-    "considered": 0,
-    "notes": "RESET FOR SAN FRANCISCO. Owner moved to 39 Tehama St, SoMa. London calendar (604 events, sweeps 4 Aug-21 Sep 2026) archived on branch london-archive. events.json and suppressed_ids.json cleared; preferences.md, sources.yaml and AGENTS.md rewritten for SF (home 39 Tehama St, Pacific time, $80 price cap, East Bay = BART not bike). New ICS feeds: Mox + AI Safety San Francisco (Luma). Thursday app lists SF as a city but has no upcoming SF events (Oct 2026). Rickshaw Stop / SFJAZZ / Freight & Salvage 403 plain fetches - use headless."
   }
 ]

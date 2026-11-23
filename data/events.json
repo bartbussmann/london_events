@@ -791,6 +791,25 @@
     "added": "2026-11-07"
   },
   {
+    "id": "san-francisco-rationalist-dinner-thanksgiving-eve-117ca38e",
+    "title": "San Francisco Rationalist Dinner (Thanksgiving Eve)",
+    "start": "2026-11-25T19:00:00-08:00",
+    "end": "2026-11-25T22:00:00-08:00",
+    "venue": "Mediterranean Bowl",
+    "address": "2nd St, San Francisco, CA",
+    "url": "https://www.lesswrong.com/events/nwJgC23MHjrN5sA7b/san-francisco-rationalist-dinner-4",
+    "source": "listing:lesswrong",
+    "tags": [
+      "community",
+      "talk"
+    ],
+    "price": null,
+    "description": "An informal LessWrong community dinner where people talk about AI safety, recent blog posts and rationality topics. First-timers are welcome, and you pay for your own food. It's on 2nd St, a short walk from home.",
+    "neighbourhood": "SoMa",
+    "cycle_minutes": 3,
+    "added": "2026-11-23"
+  },
+  {
     "title": "San Francisco Wednesday Contra Dance (beginner lesson 7:30)",
     "start": "2026-11-25T19:30:00-08:00",
     "end": "2026-11-25T22:00:00-08:00",
@@ -1748,6 +1767,44 @@
     "added": "2026-11-07"
   },
   {
+    "id": "holiday-cards-carve-print-sober-crafty-workshop-2fba6bd9",
+    "title": "Holiday Cards: Carve & Print (Sober & Crafty workshop)",
+    "start": "2026-12-02T18:30:00-08:00",
+    "end": "2026-12-02T21:00:00-08:00",
+    "venue": "The Living Room on 9th",
+    "address": "1383 9th Ave, San Francisco, CA 94122",
+    "url": "https://www.eventbrite.com/e/holiday-cards-carve-print-sober-crafty-tickets-2005179928143",
+    "source": "listing:living-room-on-9th",
+    "tags": [
+      "workshop",
+      "art"
+    ],
+    "price": "$54.13",
+    "description": "A small, alcohol-free evening craft class: carve your own stamp, then ink and print handmade holiday cards. No experience is needed and all materials are included.",
+    "neighbourhood": "Inner Sunset",
+    "cycle_minutes": 28,
+    "added": "2026-11-23"
+  },
+  {
+    "id": "the-thought-experiment-lab-can-we-know-things-by-intuition-t-31c472ee",
+    "title": "The Thought Experiment Lab: can we know things by intuition? (The Commons)",
+    "start": "2026-12-02T18:30:00-08:00",
+    "end": "2026-12-02T20:00:00-08:00",
+    "venue": "The SF Commons",
+    "address": "540 Laguna St, San Francisco, CA 94102",
+    "url": "https://luma.com/thoughtexperiments",
+    "source": "listing:luma-sf-commons",
+    "tags": [
+      "talk",
+      "community"
+    ],
+    "price": "Free",
+    "description": "A free, discussion-led philosophy meetup of around 30 people. This session asks whether we can know things like '2 + 2 = 4' or 'causing pointless suffering is wrong' by intuition alone, with a short Stanford Encyclopedia reading suggested beforehand.",
+    "neighbourhood": "Hayes Valley",
+    "cycle_minutes": 12,
+    "added": "2026-11-23"
+  },
+  {
     "title": "Long Now: Lost Landscapes 02026 with Rick Prelinger (second night)",
     "start": "2026-12-02T19:00:00-08:00",
     "end": "2026-12-02T21:00:00-08:00",
@@ -2426,6 +2483,25 @@
     "added": "2026-11-12"
   },
   {
+    "id": "comedy-at-the-commons-holiday-edition-scott-capurro-92f2d97f",
+    "title": "Comedy at the Commons: Holiday Edition (Scott Capurro)",
+    "start": "2026-12-05T19:30:00-08:00",
+    "end": null,
+    "venue": "The SF Commons",
+    "address": "540 Laguna St, San Francisco, CA 94102",
+    "url": "https://luma.com/the-9myd",
+    "source": "listing:luma-sf-commons",
+    "tags": [
+      "comedy",
+      "community"
+    ],
+    "price": "$25",
+    "description": "A holiday stand-up night at The Commons community space in Hayes Valley, headlined by SF comic Scott Capurro.",
+    "neighbourhood": "Hayes Valley",
+    "cycle_minutes": 12,
+    "added": "2026-11-23"
+  },
+  {
     "title": "Sonny & His Rhinestone Sunsets, Kelly McFarling, Noelle & the Deserters",
     "start": "2026-12-05T20:30:00-08:00",
     "end": null,
@@ -2538,6 +2614,24 @@
     "neighbourhood": "Embarcadero",
     "cycle_minutes": 5,
     "added": "2026-11-07"
+  },
+  {
+    "id": "5rhythms-sweat-your-prayers-with-alessandro-moruzzi-special--3cdee2fe",
+    "title": "5Rhythms Sweat Your Prayers with Alessandro Moruzzi (special Noe Valley session)",
+    "start": "2026-12-06T12:00:00-08:00",
+    "end": "2026-12-06T13:45:00-08:00",
+    "venue": "MoBu Dance Studio",
+    "address": "1747 Church St, San Francisco, CA 94131",
+    "url": "https://momence.com/s/140249571",
+    "source": "venue:the-city-waves",
+    "tags": [
+      "dance"
+    ],
+    "price": "$35",
+    "description": "The City Waves' Sunday 5Rhythms wave moves this week to a different studio and a noon start, with latest entry at 12:30pm. It's a guided dance meditation through the five rhythms, and no experience is needed.",
+    "neighbourhood": "Noe Valley",
+    "cycle_minutes": 22,
+    "added": "2026-11-23"
   },
   {
     "id": "redbrick-ceramic-studio-sunday-clay-workshop-9a828976",
@@ -2932,6 +3026,25 @@
     "id": "woodchopper-s-ball-live-band-swing-night-17e21baf"
   },
   {
+    "id": "ethics-after-agi-peter-singer-and-rob-reich-in-conversation-891b5e51",
+    "title": "Ethics after AGI: Peter Singer and Rob Reich in conversation",
+    "start": "2026-12-09T18:00:00-08:00",
+    "end": "2026-12-09T21:00:00-08:00",
+    "venue": "Gray Area (Grand Theater)",
+    "address": "2665 Mission St, San Francisco, CA 94110",
+    "url": "https://luma.com/6nugn61r",
+    "source": "listing:luma-sf",
+    "tags": [
+      "talk",
+      "tech"
+    ],
+    "price": "$5 suggested (pay what you can; registration needs approval)",
+    "description": "EA's intellectual godfather Peter Singer debates Stanford HAI's Rob Reich on what ethical principles should guide us through AGI-driven change. The Aspen Institute's Philosophy & Society Initiative presents it, and Samuel Kimbriel moderates.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 15,
+    "added": "2026-11-23"
+  },
+  {
     "title": "Mud Frontier: film screening + talkback with Rael San Fratello",
     "start": "2026-12-09T18:30:00-08:00",
     "end": null,
@@ -3310,6 +3423,24 @@
     "added": "2026-11-15"
   },
   {
+    "id": "speed-dating-bartlett-hall-love-on-tap-ages-21-32-f25b1fd7",
+    "title": "Speed Dating @ Bartlett Hall (Love on Tap, ages 21-32)",
+    "start": "2026-12-11T19:00:00-08:00",
+    "end": "2026-12-11T21:00:00-08:00",
+    "venue": "Bartlett Hall",
+    "address": null,
+    "url": "https://www.eventbrite.com/e/2004877864663",
+    "source": "aggregator:eventbrite",
+    "tags": [
+      "community"
+    ],
+    "price": "$23.11-$33.77",
+    "description": "A speed-dating night for singles in the recommended 21-32 age range at a Union Square brewpub. It's cancelled if the gender ratio is off, so check before going.",
+    "neighbourhood": "Union Square",
+    "cycle_minutes": 6,
+    "added": "2026-11-23"
+  },
+  {
     "id": "dance-fridays-at-space-550-salsa-bachata-lessons-and-social-dcb85594",
     "title": "Dance Fridays at Space 550: salsa + bachata lessons and social",
     "start": "2026-12-11T19:45:00-08:00",
@@ -3537,6 +3668,25 @@
     "cycle_minutes": 22,
     "added": "2026-11-02",
     "id": "bats-improv-an-improvised-dickens-musical-76db83a8"
+  },
+  {
+    "id": "movement-ecstatic-dance-sf-akriza-5e917b66",
+    "title": "MOVEMENT Ecstatic Dance SF // Akriza",
+    "start": "2026-12-13T10:00:00-08:00",
+    "end": "2026-12-13T13:11:00-08:00",
+    "venue": "Sacred Heart Church (MOVEMENT)",
+    "address": "554 Fillmore St, San Francisco, CA 94117",
+    "url": "https://www.eventbrite.com/e/movement-ecstatic-dance-sf-akriza-registration-2005230509433",
+    "source": "venue:movement",
+    "tags": [
+      "dance",
+      "community"
+    ],
+    "price": "$30-$50",
+    "description": "MOVEMENT's Sunday-morning ecstatic dance in the old Sacred Heart church, with DJ Akriza. It's a sober, shoes-off, no-talking dance floor and an easy way to join SF's conscious-dance community.",
+    "neighbourhood": "Lower Haight",
+    "cycle_minutes": 15,
+    "added": "2026-11-23"
   },
   {
     "title": "Harvey Milk Center for the Arts Holiday Craft Fair",
@@ -4675,6 +4825,26 @@
     "added": "2026-11-08"
   },
   {
+    "id": "4th-tuesdays-kpop-skate-night-at-the-church-of-8-wheels-03b711ea",
+    "title": "4th Tuesdays KPOP Skate Night at the Church of 8 Wheels",
+    "start": "2026-12-22T20:00:00-08:00",
+    "end": "2026-12-22T22:00:00-08:00",
+    "venue": "Church of 8 Wheels",
+    "address": "554 Fillmore St, San Francisco, CA 94117",
+    "url": "https://www.eventbrite.com/e/4th-tuesdays-kpop-skate-night-tickets-1978869848988",
+    "source": "listing:church-of-8-wheels",
+    "tags": [
+      "sport",
+      "dance",
+      "music"
+    ],
+    "price": "$24.13",
+    "description": "Roller skating to K-pop hits in the converted church that hosts SF's roller disco, on its monthly fourth-Tuesday theme night. A fun, low-key pre-Christmas night out.",
+    "neighbourhood": "Lower Haight",
+    "cycle_minutes": 16,
+    "added": "2026-11-23"
+  },
+  {
     "id": "the-hooks-the-greasy-gills-the-ultra-sounds-da37d038",
     "title": "The Hooks, The Greasy Gills, The Ultra Sounds",
     "start": "2026-12-22T20:30:00-08:00",
@@ -5101,6 +5271,25 @@
     "id": "chuck-prophet-33325035"
   },
   {
+    "id": "movement-ecstatic-dance-sf-alia-22a244f6",
+    "title": "MOVEMENT Ecstatic Dance SF // Alia",
+    "start": "2026-12-27T10:00:00-08:00",
+    "end": "2026-12-27T13:11:00-08:00",
+    "venue": "Sacred Heart Church (MOVEMENT)",
+    "address": "554 Fillmore St, San Francisco, CA 94117",
+    "url": "https://www.eventbrite.com/e/movement-ecstatic-dance-sf-alia-registration-2005230514448",
+    "source": "venue:movement",
+    "tags": [
+      "dance",
+      "community"
+    ],
+    "price": "$30-$50",
+    "description": "The last MOVEMENT Sunday ecstatic dance of 2026, with DJ Alia in the old Sacred Heart church. A sober, free-form dance morning to shake off Christmas week.",
+    "neighbourhood": "Lower Haight",
+    "cycle_minutes": 15,
+    "added": "2026-11-23"
+  },
+  {
     "title": "Ranger walk: 250 Years on the Presidio",
     "start": "2026-12-27T11:00:00-08:00",
     "end": "2026-12-27T12:00:00-08:00",
@@ -5250,6 +5439,24 @@
     "cycle_minutes": 13,
     "added": "2026-11-04",
     "id": "circuit-hacking-monday-open-electronics-workshop-at-noisebri-e2fb2ba8"
+  },
+  {
+    "id": "free-bluegrass-jam-concert-at-blondie-s-937550c3",
+    "title": "Free bluegrass jam & concert at Blondie's",
+    "start": "2026-12-28T20:30:00-08:00",
+    "end": "2026-12-28T22:30:00-08:00",
+    "venue": "Blondie's Bar",
+    "address": "540 Valencia St, San Francisco, CA 94110",
+    "url": "https://www.eventbrite.com/e/free-bluegrass-in-san-francisco-live-jam-concert-tickets-1990533652739",
+    "source": "listing:blondies-bluegrass",
+    "tags": [
+      "music"
+    ],
+    "price": "Free",
+    "description": "Blondie's weekly Monday bluegrass night on Valencia St, where local pickers play a set and then open up a jam. A relaxed, free option in the quiet week between Christmas and New Year.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 12,
+    "added": "2026-11-23"
   },
   {
     "title": "Man or Astro-man? with The Subsonics",
@@ -5984,6 +6191,24 @@
     "added": "2026-11-21"
   },
   {
+    "id": "hispanic-singles-those-who-love-them-singles-mixer-at-rick-r-4c72b110",
+    "title": "Hispanic Singles & Those Who Love Them: singles mixer at Rick & Roxy's",
+    "start": "2027-01-07T19:00:00-08:00",
+    "end": "2027-01-07T21:00:00-08:00",
+    "venue": "Rick & Roxy's",
+    "address": "2131 Lombard St, San Francisco, CA 94123",
+    "url": "https://www.eventbrite.com/e/hispanic-singles-those-who-love-them-tickets-2004618947234",
+    "source": "aggregator:eventbrite",
+    "tags": [
+      "community"
+    ],
+    "price": "$30 early bird / $40 advance / $50 door",
+    "description": "A singles mixer that's open to adult singles of all backgrounds, with no age cap. A hosted icebreaker game makes it easy to meet lots of people. Proceeds benefit the Seva Foundation.",
+    "neighbourhood": "Marina",
+    "cycle_minutes": 22,
+    "added": "2026-11-23"
+  },
+  {
     "title": "The Loved Ones: Latest Hits record release, with The Vesuvians",
     "start": "2027-01-07T20:00:00-08:00",
     "end": null,
@@ -6224,6 +6449,26 @@
     "neighbourhood": "Hayes Valley",
     "cycle_minutes": 12,
     "added": "2026-11-21"
+  },
+  {
+    "id": "erik-hoffman-bon-voyage-party-jam-potluck-and-contra-dance-b-932f786a",
+    "title": "Erik Hoffman Bon Voyage Party: jam, potluck and contra dance (BACDS + SFFMC)",
+    "start": "2027-01-10T14:30:00-08:00",
+    "end": "2027-01-10T22:00:00-08:00",
+    "venue": "Albany Veterans Memorial Building",
+    "address": "1325 Portland Ave, Albany, CA",
+    "url": "https://bacds.org/calendars/2027/01/",
+    "source": "venue:bacds",
+    "tags": [
+      "dance",
+      "music",
+      "community"
+    ],
+    "price": "Free",
+    "description": "BACDS and the SF Folk Music Club throw a free farewell party for Erik Hoffman, the longtime caller behind SF's Wednesday contra. There's jamming from 2:30pm, a vegetarian potluck at 5pm, and a contra dance from 7pm to 10pm with a cavalcade of callers and an open band. East Bay: BART from Montgomery to El Cerrito Plaza (~25 min), then a short walk.",
+    "neighbourhood": "Albany (East Bay)",
+    "cycle_minutes": null,
+    "added": "2026-11-23"
   },
   {
     "id": "crafting-in-the-castro-notebook-making-eff7a549",
@@ -6870,6 +7115,25 @@
     "added": "2026-11-09"
   },
   {
+    "id": "lift-every-voice-free-mlk-day-singer-showcase-at-the-castro--ce36d046",
+    "title": "Lift Every Voice: free MLK Day singer showcase at the Castro Theatre",
+    "start": "2027-01-18T19:00:00-08:00",
+    "end": "2027-01-18T21:00:00-08:00",
+    "venue": "Castro Theatre",
+    "address": "429 Castro St, San Francisco, CA 94114",
+    "url": "https://sf.funcheap.com/lift-voice-free-mlk-day-gospelblues-concert-sfs-castro-theatre-2027/",
+    "source": "aggregator:funcheap",
+    "tags": [
+      "music",
+      "community"
+    ],
+    "price": "Free (RSVP required)",
+    "description": "The SF International Arts Festival's free MLK Day concert celebrates gospel, blues and jazz traditions. The Dee Spencer Trio plays with vocalist and MC Clairdee and 17 community singers.",
+    "neighbourhood": "Castro",
+    "cycle_minutes": 17,
+    "added": "2026-11-23"
+  },
+  {
     "title": "Tara Clerkin Trio",
     "start": "2027-01-18T20:00:00-08:00",
     "end": null,
@@ -7093,6 +7357,25 @@
     "added": "2026-11-11"
   },
   {
+    "id": "judge-john-hodgman-road-court-sf-sketchfest-ce663e2a",
+    "title": "Judge John Hodgman: Road Court! (SF Sketchfest)",
+    "start": "2027-01-22T19:00:00-08:00",
+    "end": "2027-01-22T20:30:00-08:00",
+    "venue": "Marines' Memorial Theatre",
+    "address": "609 Sutter St, San Francisco, CA 94102",
+    "url": "https://www.eventbrite.com/e/judge-john-hodgman-tickets-2004663696079",
+    "source": "festival:sf-sketchfest",
+    "tags": [
+      "comedy",
+      "talk"
+    ],
+    "price": "$53.41-$74.70",
+    "description": "John Hodgman and bailiff Jesse Thorn bring their fake-court comedy podcast to the stage. They rule on real audience disputes with pop-culture obsession and 'unadulterated fake legal wisdom'.",
+    "neighbourhood": "Union Square",
+    "cycle_minutes": 7,
+    "added": "2026-11-23"
+  },
+  {
     "title": "Eliane Elias Quartet: Antônio Carlos Jobim Centennial Celebration",
     "start": "2027-01-22T19:30:00-08:00",
     "end": null,
@@ -7243,6 +7526,25 @@
     "id": "the-brothers-comatose-8c50af57"
   },
   {
+    "id": "wild-oyster-project-volunteer-work-day-shell-recycling-87f7e468",
+    "title": "Wild Oyster Project volunteer work day (shell recycling)",
+    "start": "2027-01-24T10:00:00-08:00",
+    "end": "2027-01-24T13:00:00-08:00",
+    "venue": "Wild Oyster Project SF shell site",
+    "address": "1901 Innes Ave, San Francisco, CA 94124",
+    "url": "https://www.eventbrite.com/e/wild-oyster-projects-monthly-volunteer-work-day-sf-tickets-1989608938895",
+    "source": "aggregator:eventbrite",
+    "tags": [
+      "outdoors",
+      "community"
+    ],
+    "price": "Free (register)",
+    "description": "A hands-on morning at the Wild Oyster Project's India Basin shell yard: painting buckets, moving cured shell and learning how recycled shells help bring back the bay's native oysters. A sociable way to spend a Sunday outdoors.",
+    "neighbourhood": "Hunters Point",
+    "cycle_minutes": 30,
+    "added": "2026-11-23"
+  },
+  {
     "id": "sf-city-guides-free-walking-tour-haight-ashbury-b0c295ae",
     "title": "SF City Guides free walking tour: Haight-Ashbury",
     "start": "2027-01-24T11:00:00-08:00",
@@ -7279,6 +7581,25 @@
     "cycle_minutes": 27,
     "added": "2026-10-31",
     "id": "irish-trad-seisi-n-at-the-plough-and-stars-3b86febb"
+  },
+  {
+    "id": "improv-character-workshop-with-brian-palermo-sf-sketchfest-a50ec497",
+    "title": "Improv character workshop with Brian Palermo (SF Sketchfest)",
+    "start": "2027-01-24T13:00:00-08:00",
+    "end": "2027-01-24T16:00:00-08:00",
+    "venue": "BATS Annex, Fort Mason Center",
+    "address": "2 Marina Blvd, Bldg B, San Francisco, CA 94123",
+    "url": "https://sfsketchfest2027.sched.com/event/f48869e73c3902377fa434088676a8d0",
+    "source": "festival:sf-sketchfest",
+    "tags": [
+      "class",
+      "comedy"
+    ],
+    "price": null,
+    "description": "A three-hour hands-on improv class from a longtime Groundlings performer and teacher. You learn to create, define and embody characters with techniques from the Groundlings school. It's 'super fun silliness' and works for beginners. Price not published yet; check before booking.",
+    "neighbourhood": "Marina",
+    "cycle_minutes": 22,
+    "added": "2026-11-23"
   },
   {
     "id": "angela-autumn-throwin-bo-s-live-music-at-the-4-star-3ff24b21",
