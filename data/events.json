@@ -1,171 +1,5 @@
 [
   {
-    "title": "Brittany Davis: Black Thunder (early set)",
-    "start": "2026-11-20T19:00:00-08:00",
-    "end": null,
-    "venue": "SFJAZZ Center, Joe Henderson Lab",
-    "address": "201 Franklin St, San Francisco, CA 94102",
-    "url": "https://www.sfjazz.org/tickets/productions/26-27/brittany-davis/",
-    "source": "venue:sfjazz",
-    "tags": [
-      "music"
-    ],
-    "price": "$34",
-    "description": "Seattle singer-keyboardist Brittany Davis plays spiritual jazz, soul and funk from her largely improvised album Black Thunder, in SFJAZZ's intimate Joe Henderson Lab. A second set follows at 8:30pm.",
-    "neighbourhood": "Hayes Valley",
-    "cycle_minutes": 11,
-    "added": "2026-10-26",
-    "id": "brittany-davis-black-thunder-early-set-78aa60e6"
-  },
-  {
-    "title": "CineSpin: He Who Gets Slapped with live jazz score (BAMPFA)",
-    "start": "2026-11-20T19:30:00-08:00",
-    "end": null,
-    "venue": "BAMPFA (Berkeley Art Museum and Pacific Film Archive)",
-    "address": "2155 Center St, Berkeley, CA 94704",
-    "url": "https://bampfa.org/event/cinespin",
-    "source": "venue:bampfa",
-    "tags": [
-      "film",
-      "music"
-    ],
-    "price": "Free",
-    "description": "The BAMPFA student committee's annual silent-film night: the Berkeley Nu Jazz Collective plays an original live score to Victor Sjostrom's 1924 Lon Chaney drama. Free tickets at the admissions desk from 6:30pm. BART from Montgomery to Downtown Berkeley, ~25 min; the museum is a block from the station.",
-    "neighbourhood": "Berkeley",
-    "added": "2026-11-03",
-    "id": "cinespin-he-who-gets-slapped-with-live-jazz-score-bampfa-629c6941"
-  },
-  {
-    "id": "dance-fridays-at-space-550-salsa-bachata-lessons-and-social-cae55bce",
-    "title": "Dance Fridays at Space 550: salsa + bachata lessons and social",
-    "start": "2026-11-20T19:45:00-08:00",
-    "end": "2026-11-21T01:30:00-08:00",
-    "venue": "Space 550",
-    "address": "550 Barneveld Ave, San Francisco, CA 94124",
-    "url": "https://www.eventbrite.com/e/salsa-and-bachata-dancing-dance-fridays-dance-lessons-bar-nightclub-tickets-1979106045458",
-    "source": "listing:sf-latin-dance-socials",
-    "tags": [
-      "dance",
-      "class"
-    ],
-    "price": "$16.74-$27.24",
-    "description": "Friday-night salsa and bachata lessons followed by social dancing, with a full bar and patio (21+). Arrive early for the lessons and you'll have partners to dance with all night.",
-    "neighbourhood": "Bayview",
-    "cycle_minutes": 25,
-    "added": "2026-11-17"
-  },
-  {
-    "title": "A Rashomon: Magic Theatre & Campo Santo world premiere (preview)",
-    "start": "2026-11-20T20:00:00-08:00",
-    "end": null,
-    "venue": "African American Art & Culture Complex (Magic Theatre production)",
-    "address": "762 Fulton St, San Francisco, CA 94102",
-    "url": "https://magictheatre.org/calendar/a-rashomon",
-    "source": "venue:magic-theatre",
-    "tags": [
-      "theatre",
-      "dance"
-    ],
-    "price": "$35-$75 (sliding-scale general admission)",
-    "description": "New play by Ashley Smiley inspired by Kurosawa's Rashomon: conflicting accounts of a death at the Market St cable-car turnaround, told with video, puppetry and dance. Previews Nov 18-20, runs to Dec 6. Note: staged at the AAACC on Fulton St, not Fort Mason; no late seating.",
-    "neighbourhood": "Western Addition",
-    "cycle_minutes": 13,
-    "added": "2026-11-02",
-    "id": "a-rashomon-magic-theatre-campo-santo-world-premiere-preview-129faba8"
-  },
-  {
-    "title": "HUG feat. Gyan Riley, Devendra Banhart, Noah Georgeson (seated)",
-    "start": "2026-11-20T20:00:00-08:00",
-    "end": null,
-    "venue": "Bimbo's 365 Club",
-    "address": "1025 Columbus Ave, San Francisco, CA 94133",
-    "url": "https://bimbos365club.com/tm-event/hug-gyan-riley-devendra-banhart-noah-georgeson/",
-    "source": "venue:bimbos",
-    "tags": [
-      "music"
-    ],
-    "price": "$55-$72",
-    "description": "A fully seated night with HUG, the trio of guitarist Gyan Riley, Devendra Banhart and producer Noah Georgeson, at the retro North Beach supper club. 21+; price per The List.",
-    "neighbourhood": "North Beach",
-    "cycle_minutes": 12,
-    "added": "2026-11-06",
-    "id": "hug-feat-gyan-riley-devendra-banhart-noah-georgeson-seated-13956bc2"
-  },
-  {
-    "id": "babehoven-with-pileup-f11885c1",
-    "title": "Babehoven with Pileup",
-    "start": "2026-11-20T20:00:00-08:00",
-    "end": "2026-11-20T23:00:00-08:00",
-    "venue": "4 Star Theater",
-    "address": "2200 Clement St, San Francisco, CA",
-    "url": "https://www.4-star-movies.com/calendar-of-events/live-music-babehoven",
-    "source": "venue:4star",
-    "tags": [
-      "music"
-    ],
-    "price": "$20-$25",
-    "description": "Hudson NY indie-folk duo (Maya Bon and Ryan Albert) with country-tinged songs, live in the old Clement St cinema; Eventbrite shows few tickets left. Doors 7pm, music 8pm.",
-    "neighbourhood": "Outer Richmond",
-    "cycle_minutes": 35,
-    "added": "2026-11-07"
-  },
-  {
-    "id": "a-night-of-surf-psychobilly-and-punk-the-surf-creeps-the-tin-4123debb",
-    "title": "A Night of Surf, Psychobilly and Punk: The Surf Creeps, The Tinglerz, Lost Puppy Forever",
-    "start": "2026-11-20T20:00:00-08:00",
-    "end": null,
-    "venue": "Hotel Utah Saloon",
-    "address": "500 4th St, San Francisco, CA 94107",
-    "url": "https://wl.seetickets.us/event/the-surf-creeps-the-tinglerz-lost-puppy-forever/705914?afflky=HotelUtahSaloon",
-    "source": "venue:hotel-utah",
-    "tags": [
-      "music"
-    ],
-    "price": "$12",
-    "description": "Three local bands play reverb-soaked surf and psychobilly in the tiny saloon at 4th & Bryant, the closest music room to home. 21+.",
-    "neighbourhood": "SoMa",
-    "cycle_minutes": 4,
-    "added": "2026-11-10"
-  },
-  {
-    "id": "jerry-hannan-and-the-shenanigans-at-the-irish-center-99f8af84",
-    "title": "Jerry Hannan and The Shenanigans at the Irish Center",
-    "start": "2026-11-20T20:00:00-08:00",
-    "end": "2026-11-20T22:00:00-08:00",
-    "venue": "United Irish Cultural Center",
-    "address": "2700 45th Ave, San Francisco, CA 94116",
-    "url": "https://www.eventbrite.com/e/jerry-hannan-and-the-shenanigans-tickets-2004605975435",
-    "source": "listing:uicc-eventbrite",
-    "tags": [
-      "music",
-      "community"
-    ],
-    "price": "$17.85-$23.18",
-    "description": "A night of Irish music and pub-style singalongs at the United Irish Cultural Center: bring your dancing feet and your singing voice. A friendly way into SF's Irish community.",
-    "neighbourhood": "Outer Sunset",
-    "cycle_minutes": 45,
-    "added": "2026-11-17"
-  },
-  {
-    "title": "SF Neo-Futurists: The Infinite Wrench (30 plays in 60 minutes)",
-    "start": "2026-11-20T21:00:00-08:00",
-    "end": "2026-11-20T22:30:00-08:00",
-    "venue": "447 Minna St",
-    "address": "447 Minna St, San Francisco, CA 94103",
-    "url": "https://www.eventbrite.com/e/sf-neo-futurists-the-infinite-wrench-tickets-1987282527536",
-    "source": "aggregator:funcheap",
-    "tags": [
-      "theatre",
-      "comedy"
-    ],
-    "price": "$13 + die roll at the door; $12-$28 online",
-    "description": "The Neo-Futurists race to perform 30 short original plays in 60 minutes, in an order the audience shouts out. They range from personal to political to absurd, and the set changes every week.",
-    "neighbourhood": "SoMa",
-    "cycle_minutes": 5,
-    "added": "2026-10-27",
-    "id": "sf-neo-futurists-the-infinite-wrench-30-plays-in-60-minutes-ffbbb4f2"
-  },
-  {
     "title": "Secondhand Saturday season finale (Sunset Mercantile)",
     "start": "2026-11-21T10:00:00-08:00",
     "end": "2026-11-21T16:00:00-08:00",
@@ -903,8 +737,8 @@
   {
     "id": "ics-cdae8be23530",
     "title": "Moxgiving Potluck",
-    "start": "2026-11-25T16:30:00-08:00",
-    "end": "2026-11-25T18:30:00-08:00",
+    "start": "2026-11-25T17:00:00-08:00",
+    "end": "2026-11-25T19:00:00-08:00",
     "venue": "Mox",
     "address": "1680 Mission St, San Francisco, CA 94103",
     "url": "https://luma.com/mox-wweu",
@@ -914,7 +748,7 @@
       "community"
     ],
     "price": "Free — bring a dish",
-    "description": "Moxgiving: the Thanksgiving-eve community potluck at Mox. Now starts 4:30pm (moved an hour earlier), but it's a potluck, so arriving after work is fine. A warm way to spend the holiday if you're new in town.",
+    "description": "Moxgiving: the Thanksgiving-eve community potluck at Mox, 5-7pm (time changed twice; check Luma on the day). Bring a dish. A warm way to spend the holiday if you're new in town.",
     "added": "2026-11-03",
     "neighbourhood": "Mission",
     "cycle_minutes": 13
