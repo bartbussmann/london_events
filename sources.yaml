@@ -500,6 +500,10 @@ listings:
     url: https://magictheatre.org/calendar
     tags: [talk, community]
 
+  - name: Novela (SoMa cocktail bar) free Monday Jazz Nights
+    url: "https://www.eventbrite.com/api/v3/organizers/29282771519/events/?status=live&order_by=start_asc&expand=venue"
+    tags: [music]
+
 keywords:
   - "contact improvisation jam San Francisco"
   - "contact improv class Bay Area beginners"

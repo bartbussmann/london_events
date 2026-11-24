@@ -4016,24 +4016,6 @@ LOCATION:Charlie's Deli Cafe (meeting point)\, 3202 Folsom St at Precita A
  ve\, San Francisco\, CA 94110
 END:VEVENT
 BEGIN:VEVENT
-UID:green-exercise-ocean-hike-lands-end-coastal-trail-meetup-gro-0fb9b294@
- sf-events
-DTSTAMP:20261226T210000Z
-DTSTART:20261226T210000Z
-DTEND:20261227T003000Z
-SUMMARY:Green Exercise ocean hike: Lands End coastal trail (Meetup group h
- ike)
-DESCRIPTION:A public\, social Meetup group hike along the Lands End Coasta
- l Trail past the Sutro Baths ruins\, with Golden Gate views. It's open to
-  newcomers and pitched as a way to meet new friends and get a workout.\nP
- rice: Free\nhttps://www.meetup.com/bay-area-hiking-walking-wellness-club/
- events/316836465/
-URL:https://www.meetup.com/bay-area-hiking-walking-wellness-club/events/31
- 6836465/
-LOCATION:Beach-side parking lot across from Beach Chalet (meeting point)\,
-  Great Highway & John F Kennedy Dr\, San Francisco\, CA 94121
-END:VEVENT
-BEGIN:VEVENT
 UID:bottom-of-the-hill-holiday-matinee-top-secret-robot-alliance-961eaeab@
  sf-events
 DTSTAMP:20261227T003000Z
@@ -4102,19 +4084,6 @@ DESCRIPTION:The Plough's Sunday-afternoon Irish session (listed on the pub
  ice: Free\nhttps://www.theploughandstars.com/
 URL:https://www.theploughandstars.com/
 LOCATION:The Plough and Stars\, 116 Clement St\, San Francisco\, CA 94118
-END:VEVENT
-BEGIN:VEVENT
-UID:mochi-pounding-omochitsuki-at-the-asian-art-museum-19b6b22f@sf-events
-DTSTAMP:20261227T220000Z
-DTSTART:20261227T220000Z
-DTEND:20261228T000000Z
-SUMMARY:Mochi pounding (Omochitsuki) at the Asian Art Museum
-DESCRIPTION:A Japanese New Year tradition: watch a demonstration\, take a 
- turn with the wooden mallet\, then taste fresh mochi. It's a hands-on aft
- ernoon in Civic Center.\nPrice: Included with museum general admission\nh
- ttps://calendar.asianart.org/event/sunday-mochi-pounding-omochitsuki/
-URL:https://calendar.asianart.org/event/sunday-mochi-pounding-omochitsuki/
-LOCATION:Asian Art Museum\, 200 Larkin St\, San Francisco\, CA 94102
 END:VEVENT
 BEGIN:VEVENT
 UID:mark-eitzel-funeral-cake-strange-cities-devoted-fans-more-95db3a96@sf-
@@ -4215,6 +4184,20 @@ DESCRIPTION:Cult sci-fi surf-rock instrumentalists Man or Astro-man? play
  261228.html
 URL:http://www.bottomofthehill.com/20261228.html
 LOCATION:Bottom of the Hill\, 1233 17th St\, San Francisco\, CA 94107
+END:VEVENT
+BEGIN:VEVENT
+UID:west-coast-blues-revue-at-biscuits-blues-ae9efeae@sf-events
+DTSTAMP:20261230T023000Z
+DTSTART:20261230T023000Z
+DTEND:20261230T053000Z
+SUMMARY:West Coast Blues Revue at Biscuits & Blues
+DESCRIPTION:An early-evening live blues set in a small basement club off U
+ nion Square. Hal Petcher leads a rotating crew of Bay Area players\, and 
+ it's done by 9:30.\nPrice: $15-$20 ($17.79 online)\nhttps://www.eventbrit
+ e.com/e/the-west-coast-blues-revue-live-blues-tickets-1995176572838
+URL:https://www.eventbrite.com/e/the-west-coast-blues-revue-live-blues-tic
+ kets-1995176572838
+LOCATION:Biscuits & Blues\, 401 Mason St\, San Francisco\, CA 94102
 END:VEVENT
 BEGIN:VEVENT
 UID:bachata-tuesday-class-social-last-tuesday-73fcfc10@sf-events
@@ -4411,16 +4394,16 @@ UID:a-very-purple-new-year-s-eve-purple-rain-4k-sign-o-the-times-c05ac003@
  sf-events
 DTSTAMP:20270101T050000Z
 DTSTART:20270101T050000Z
-DTEND:20270101T090000Z
+DTEND:20270101T095500Z
 SUMMARY:A Very Purple New Year's Eve: Purple Rain (4K) + Sign O' the Times
   at the Vogue
 DESCRIPTION:The Vogue's third annual Prince-themed NYE: doors at 9pm with 
  Prince videos\, a 4K restoration of Purple Rain at 10pm\, a midnight coun
  tdown with complimentary champagne\, then the Sign O' the Times concert f
- ilm. A New Year's Eve that isn't a club night.\nPrice: $25\nhttps://sf.fu
- ncheap.com/3rd-annual-purple-nye-purple-rain-sign-times-vogue-theatre/
-URL:https://sf.funcheap.com/3rd-annual-purple-nye-purple-rain-sign-times-v
- ogue-theatre/
+ ilm. A New Year's Eve that isn't a club night.\nPrice: $25\nhttps://www.v
+ oguemovies.com/calendar-of-events/a-very-purple-new-years-eve-2026
+URL:https://www.voguemovies.com/calendar-of-events/a-very-purple-new-years
+ -eve-2026
 LOCATION:Vogue Theatre\, 3290 Sacramento St\, San Francisco\, CA 94115
 END:VEVENT
 BEGIN:VEVENT
@@ -4471,20 +4454,6 @@ LOCATION:The Function SF: Comedy Club & Cocktail Lounge\, 1414 Market St\,
   San Francisco\, CA 94102
 END:VEVENT
 BEGIN:VEVENT
-UID:about-last-night-one-night-stand-storytelling-show-6e906e9b@sf-events
-DTSTAMP:20270102T040000Z
-DTSTART:20270102T040000Z
-DTEND:20270102T053000Z
-SUMMARY:About Last Night: one-night-stand storytelling show
-DESCRIPTION:Real people tell true stories about horrifying one-night stand
- s\, awkward hookups and regrettable romps\, which suits New Year's Day. D
- oors 7pm\, show 8pm.\nPrice: $20 advance / $25 door\nhttps://www.calendar
- wiz.com/calendars/popup.php?op=view&id=191495634&crd=makeoutroom
-URL:https://www.calendarwiz.com/calendars/popup.php?op=view&id=191495634&c
- rd=makeoutroom
-LOCATION:Make-Out Room\, 3225 22nd St\, San Francisco\, CA 94110
-END:VEVENT
-BEGIN:VEVENT
 UID:bachata-lab-friday-bachata-classes-3-levels-social-new-year--69a725a4@
  sf-events
 DTSTAMP:20270102T040000Z
@@ -4510,8 +4479,9 @@ DESCRIPTION:A weekly 5-mile walking conversation club for people who want
  depth over small talk. Everyone brings a question to explore\, shares it 
  in an opening circle\, then drifts between small conversations on the wal
  k. It's newcomer-friendly and runs rain or shine.\nPrice: Free\nhttps://w
- ww.meetup.com/the-board-walks-san-francisco/events/316871043/
-URL:https://www.meetup.com/the-board-walks-san-francisco/events/316871043/
+ ww.meetup.com/the-board-walks-san-francisco/events/bwxqxtykccbdb/
+URL:https://www.meetup.com/the-board-walks-san-francisco/events/bwxqxtykcc
+ bdb/
 LOCATION:Coffee To The People (meeting point)\, 1206 Masonic Ave\, San Fra
  ncisco\, CA 94117
 END:VEVENT
@@ -4648,6 +4618,19 @@ DESCRIPTION:The first SalsaCrazy Monday of 2027 (and the start of the Janu
 URL:https://www.eventbrite.com/e/salsa-dance-classes-and-salsa-and-bachata
  -dancing-salsacrazy-mondays-tickets-1981014385354
 LOCATION:Neck of the Woods\, 406 Clement St\, San Francisco\, CA 94118
+END:VEVENT
+BEGIN:VEVENT
+UID:jazz-nights-at-novela-free-monday-live-jazz-f5e53bef@sf-events
+DTSTAMP:20270105T030000Z
+DTSTART:20270105T030000Z
+DTEND:20270105T060000Z
+SUMMARY:Jazz Nights at Novela (free Monday live jazz)
+DESCRIPTION:A weekly no-cover live jazz night in a literary-themed cocktai
+ l bar a few minutes from home. Walk-ins are welcome\, so it's an easy Mon
+ day drop-in.\nPrice: Free (no cover\; RSVP on Eventbrite)\nhttps://www.ev
+ entbrite.com/e/jazz-nights-novela-tickets-1991425114124
+URL:https://www.eventbrite.com/e/jazz-nights-novela-tickets-1991425114124
+LOCATION:Novela\, 662 Mission St\, San Francisco\, CA 94105
 END:VEVENT
 BEGIN:VEVENT
 UID:contact-improvisation-class-jam-at-the-castro-room-4bc5a05a@sf-events
@@ -4924,8 +4907,8 @@ DTEND:20270110T060000Z
 SUMMARY:Anna von Hausswolff with KatzPascale
 DESCRIPTION:SOLD OUT (per The List\, 9 Nov). The Swedish singer and organi
  st plays towering\, cathedral-sized drone-pop. Mostly standing\; doors 7p
- m.\nPrice: $25 adv / $30 week of show\nhttps://wl.seetickets.us/event/ann
- a-von-hausswolff/683672?afflky=GreatAmericanMusicHall
+ m.\nPrice: $25 adv / $30 week of show (sold out)\nhttps://wl.seetickets.u
+ s/event/anna-von-hausswolff/683672?afflky=GreatAmericanMusicHall
 URL:https://wl.seetickets.us/event/anna-von-hausswolff/683672?afflky=Great
  AmericanMusicHall
 LOCATION:Great American Music Hall\, 859 O'Farrell St\, San Francisco\, CA
@@ -5145,6 +5128,24 @@ URL:https://sf.funcheap.com/cartoonist-conspiracy-of-san-francisco-collabo
 LOCATION:Finjan Qahwa\, 3188 Mission St\, San Francisco\, CA 94110
 END:VEVENT
 BEGIN:VEVENT
+UID:josh-marcus-the-time-lords-bezos-the-10-000-year-clock-and-b-4c144e8a@
+ sf-events
+DTSTAMP:20270113T030000Z
+DTSTART:20270113T030000Z
+DTEND:20270113T043000Z
+SUMMARY:Josh Marcus: The Time Lords (Bezos\, the 10\,000-Year Clock and Bi
+ g Tech) at City Lights
+DESCRIPTION:A book launch for The Time Lords\, about Jeff Bezos\, the Long
+  Now's 10\,000-year clock and Big Tech's quest to own the future. It's fr
+ ee in-store\, first come first served\, no reservation needed.\nPrice: Fr
+ ee (in-store seating first-come)\nhttps://citylights.com/events/josh-marc
+ us-launch-party-for-the-time-lords/
+URL:https://citylights.com/events/josh-marcus-launch-party-for-the-time-lo
+ rds/
+LOCATION:City Lights Booksellers\, 261 Columbus Ave\, San Francisco\, CA 9
+ 4133
+END:VEVENT
+BEGIN:VEVENT
 UID:woodchopper-s-ball-live-band-swing-night-5c88d5b5@sf-events
 DTSTAMP:20270113T050000Z
 DTSTART:20270113T050000Z
@@ -5333,6 +5334,24 @@ DESCRIPTION:A hands-on Saturday-morning workshop on tea history\, varietie
  463
 URL:https://www.eventbrite.com/e/tea-class-tasting-tickets-2004749079463
 LOCATION:Tap Twice Tea\, 2822 22nd St\, San Francisco\, CA 94110
+END:VEVENT
+BEGIN:VEVENT
+UID:green-exercise-ocean-hike-lands-end-coastal-trail-meetup-gro-0fb9b294@
+ sf-events
+DTSTAMP:20270116T210000Z
+DTSTART:20270116T210000Z
+DTEND:20270117T003000Z
+SUMMARY:Green Exercise ocean hike: Lands End coastal trail (Meetup group h
+ ike)
+DESCRIPTION:A public\, social Meetup group hike along the Lands End Coasta
+ l Trail past the Sutro Baths ruins\, with Golden Gate views. It's open to
+  newcomers and pitched as a way to meet new friends and get a workout.\nP
+ rice: Free\nhttps://www.meetup.com/bay-area-hiking-walking-wellness-club/
+ events/316836465/
+URL:https://www.meetup.com/bay-area-hiking-walking-wellness-club/events/31
+ 6836465/
+LOCATION:Beach-side parking lot across from Beach Chalet (meeting point)\,
+  Great Highway & John F Kennedy Dr\, San Francisco\, CA 94121
 END:VEVENT
 BEGIN:VEVENT
 UID:predicting-our-futures-black-feminist-zine-making-workshop-98e6ff35@sf
@@ -5965,12 +5984,39 @@ DTSTAMP:20270126T040000Z
 DTSTART:20270126T040000Z
 DTEND:20270126T060000Z
 SUMMARY:Bebel Gilberto: 25 Years of Tanto Tempo
-DESCRIPTION:The Brazilian singer marks 25 years of her electronic bossa-no
- va classic Tanto Tempo. Doors 7pm\, 21+\; on sale Fri 11/6.\nhttps://bimb
- os365club.com/tm-event/bebel-gilberto-25-years-of-tanto-tempo/
+DESCRIPTION:SOLD OUT. The Brazilian singer marks 25 years of her electroni
+ c bossa-nova classic Tanto Tempo. Doors 7pm\, 21+\; on sale Fri 11/6.\nht
+ tps://bimbos365club.com/tm-event/bebel-gilberto-25-years-of-tanto-tempo/
 URL:https://bimbos365club.com/tm-event/bebel-gilberto-25-years-of-tanto-te
  mpo/
 LOCATION:Bimbo's 365 Club\, 1025 Columbus Ave\, San Francisco\, CA 94133
+END:VEVENT
+BEGIN:VEVENT
+UID:john-roseboro-live-at-the-4-star-theater-cb78cca2@sf-events
+DTSTAMP:20270126T040000Z
+DTSTART:20270126T040000Z
+DTEND:20270126T070000Z
+SUMMARY:John Roseboro live at the 4 Star Theater
+DESCRIPTION:Throwin' Bo's brings Brooklyn singer-songwriter John Roseboro\
+ , who blends bossa nova and MPB with indie folk\, jazz and soul ('post-bo
+ ssa')\, to a small neighbourhood cinema. Doors 7pm\, show 8pm\, all ages.
+ \nPrice: $20-$25 ($25.98 online incl. fees)\nhttps://www.eventbrite.com/e
+ /john-roseboro-tickets-2004693875346
+URL:https://www.eventbrite.com/e/john-roseboro-tickets-2004693875346
+LOCATION:4 Star Theater\, 2200 Clement St\, San Francisco\, CA 94121
+END:VEVENT
+BEGIN:VEVENT
+UID:madeline-edwards-at-caf-du-nord-7d67fecb@sf-events
+DTSTAMP:20270126T040000Z
+DTSTART:20270126T040000Z
+DTEND:20270126T060000Z
+SUMMARY:Madeline Edwards at Café du Nord
+DESCRIPTION:A genre-blending singer-songwriter (country\, jazz\, soul and 
+ rock) in the intimate downstairs room at Café du Nord. Doors 7pm\, show 
+ 8pm\, all ages.\nhttps://cafedunord.com/shows/2027-01-25-madeline-edwards
+URL:https://cafedunord.com/shows/2027-01-25-madeline-edwards
+LOCATION:Café du Nord (downstairs)\, 2170 Market St\, San Francisco\, CA 
+ 94114
 END:VEVENT
 BEGIN:VEVENT
 UID:long-now-talk-dakota-gruener-on-sunlight-reflection-research-03cc2d4d@
@@ -6266,6 +6312,21 @@ LOCATION:Great American Music Hall\, 859 O'Farrell St\, San Francisco\, CA
   94109
 END:VEVENT
 BEGIN:VEVENT
+UID:dark-alleys-darkwave-night-with-free-bowling-at-mission-bowl-5dc1bd32@
+ sf-events
+DTSTAMP:20270202T020000Z
+DTSTART:20270202T020000Z
+DTEND:20270202T060000Z
+SUMMARY:Dark Alleys: darkwave night with free bowling at Mission Bowling C
+ lub
+DESCRIPTION:A first-Monday night where $12 gets you unlimited bowling and 
+ shoe rental while DJs play goth\, industrial\, synth and darkwave. You si
+ gn up for lanes when you arrive. 21+.\nPrice: $12 (unlimited bowling + sh
+ oes)\nhttps://www.eventbrite.com/e/dark-alleys-tickets-2004929639523
+URL:https://www.eventbrite.com/e/dark-alleys-tickets-2004929639523
+LOCATION:Mission Bowling Club\, 3176 17th St\, San Francisco\, CA 94110
+END:VEVENT
+BEGIN:VEVENT
 UID:contact-improvisation-class-jam-at-the-castro-room-851fae3f@sf-events
 DTSTAMP:20270202T034500Z
 DTSTART:20270202T034500Z
@@ -6288,6 +6349,22 @@ DESCRIPTION:The Minnesota dream-pop duo Vansire\, with indie songwriter El
  e: ~$41\nhttps://bimbos365club.com/tm-event/vansire/
 URL:https://bimbos365club.com/tm-event/vansire/
 LOCATION:Bimbo's 365 Club\, 1025 Columbus Ave\, San Francisco\, CA 94133
+END:VEVENT
+BEGIN:VEVENT
+UID:alterna-new-wave-and-goth-skate-night-at-the-church-of-8-whe-5da8e03c@
+ sf-events
+DTSTAMP:20270203T040000Z
+DTSTART:20270203T040000Z
+DTEND:20270203T060000Z
+SUMMARY:ALTERNA: new wave and goth skate night at the Church of 8 Wheels
+DESCRIPTION:A Tuesday roller-skating night in a converted church\, with ne
+ w wave\, darkwave\, synthpop and post-punk under the disco ball. Rent ska
+ tes at the door if you don't have your own.\nPrice: $24.13\nhttps://www.e
+ ventbrite.com/e/welcome-to-alterna-goth-night-at-the-church-of-8-wheels-t
+ ickets-1903360866589
+URL:https://www.eventbrite.com/e/welcome-to-alterna-goth-night-at-the-chur
+ ch-of-8-wheels-tickets-1903360866589
+LOCATION:Church of 8 Wheels\, 554 Fillmore St\, San Francisco\, CA 94117
 END:VEVENT
 BEGIN:VEVENT
 UID:woodchopper-s-ball-live-band-swing-night-a2aca028@sf-events
@@ -6819,6 +6896,33 @@ URL:https://book.squareup.com/classes/uj53t4hfgkzllp/location/DYSM7QRDVFWX
 LOCATION:Monument SF\, 140 9th St\, San Francisco\, CA 94103
 END:VEVENT
 BEGIN:VEVENT
+UID:codefendants-with-jakob-nowell-and-the-castle-0a7ff1b1@sf-events
+DTSTAMP:20270218T040000Z
+DTSTART:20270218T040000Z
+DTEND:20270218T060000Z
+SUMMARY:Codefendants with Jakob Nowell and The Castle
+DESCRIPTION:Fat Mike's (NOFX) genre-smashing punk collective\, which mixes
+  punk\, hip hop and rock into what they call 'Crimewave'. Doors 7:30pm\, 
+ show 8pm\, 21+.\nPrice: $31.95\nhttps://www.theindependentsf.com/tm-event
+ /codefendants-jakob-nowell-and-the-castle/
+URL:https://www.theindependentsf.com/tm-event/codefendants-jakob-nowell-an
+ d-the-castle/
+LOCATION:The Independent\, 628 Divisadero St\, San Francisco\, CA 94117
+END:VEVENT
+BEGIN:VEVENT
+UID:l-a-b-with-seven-suns-at-caf-du-nord-e8b07b87@sf-events
+DTSTAMP:20270218T040000Z
+DTSTART:20270218T040000Z
+DTEND:20270218T060000Z
+SUMMARY:L.A.B with Seven Suns at Café du Nord
+DESCRIPTION:A hard-touring band with a reggae\, soul\, rock and funk sound
+ \, playing the small downstairs room at Café du Nord. Doors 7pm\, show 8
+ pm\, all ages.\nhttps://cafedunord.com/shows/2027-02-17-lab
+URL:https://cafedunord.com/shows/2027-02-17-lab
+LOCATION:Café du Nord (downstairs)\, 2170 Market St\, San Francisco\, CA 
+ 94114
+END:VEVENT
+BEGIN:VEVENT
 UID:city-arts-lectures-dr-orna-guralnik-77fc907e@sf-events
 DTSTAMP:20270219T033000Z
 DTSTART:20270219T033000Z
@@ -6888,6 +6992,18 @@ DESCRIPTION:The big Lunar New Year night parade of dragons\, lion dancers\
 URL:https://chineseparade.com/tickets/
 LOCATION:Parade route from 2nd & Market St\, Second St & Market St\, San F
  rancisco\, CA 94105
+END:VEVENT
+BEGIN:VEVENT
+UID:noise-pop-festival-2027-big-sis-at-kilowatt-bee06557@sf-events
+DTSTAMP:20270221T040000Z
+DTSTART:20270221T040000Z
+DTEND:20270221T060000Z
+SUMMARY:Noise Pop Festival 2027: Big SIS at Kilowatt
+DESCRIPTION:A Noise Pop Festival show in Kilowatt\, the tiny 16th Street b
+ ar where the festival started. A cheap\, close-up way to catch part of SF
+ 's indie-music week.\nhttps://www.noisepop.com/event-calendar
+URL:https://www.noisepop.com/event-calendar
+LOCATION:Kilowatt\, 3160 16th St\, San Francisco\, CA 94103
 END:VEVENT
 BEGIN:VEVENT
 UID:mucha-salsa-social-free-beginner-class-1e648ee9@sf-events
@@ -7845,6 +7961,19 @@ URL:https://bay.dance/events/contact_improv/
 LOCATION:ODC Dance Commons\, 351 Shotwell St\, San Francisco\, CA 94110
 END:VEVENT
 BEGIN:VEVENT
+UID:jazz-nights-at-novela-free-monday-live-jazz-51b7526b@sf-events
+DTSTAMP:20270330T020000Z
+DTSTART:20270330T020000Z
+DTEND:20270330T050000Z
+SUMMARY:Jazz Nights at Novela (free Monday live jazz)
+DESCRIPTION:A no-cover Monday night of live jazz from Bay Area musicians i
+ n a book-themed cocktail lounge near the Transit Center. Walk-ins welcome
+ .\nPrice: Free (no cover\; RSVP on Eventbrite)\nhttps://www.eventbrite.co
+ m/e/jazz-nights-novela-tickets-1991425126160
+URL:https://www.eventbrite.com/e/jazz-nights-novela-tickets-1991425126160
+LOCATION:Novela\, 662 Mission St\, San Francisco\, CA 94105
+END:VEVENT
+BEGIN:VEVENT
 UID:dogpark-with-the-rose-hips-e3c2022b@sf-events
 DTSTAMP:20270331T030000Z
 DTSTART:20270331T030000Z
@@ -7922,6 +8051,21 @@ DESCRIPTION:A facilitated small-group circle for candid conversation about
  t.\nPrice: Free\nhttps://luma.com/the-yo2h
 URL:https://luma.com/the-yo2h
 LOCATION:The SF Commons\, 550 Laguna St\, San Francisco\, CA 94102
+END:VEVENT
+BEGIN:VEVENT
+UID:narrow-head-with-horse-jumper-of-love-knumears-and-worlds-wo-60ced96d@
+ sf-events
+DTSTAMP:20270407T020000Z
+DTSTART:20270407T020000Z
+DTEND:20270407T040000Z
+SUMMARY:Narrow Head with Horse Jumper of Love\, Knumears and Worlds Worst
+DESCRIPTION:(((folkYEAH!))) presents a heavy-shoegaze bill: Narrow Head\, 
+ who came out of the Texas hardcore scene\, with slowcore band Horse Jumpe
+ r of Love. Doors 6:30pm\, show 7pm\, all ages.\nPrice: $25 adv / $30 day 
+ of show\nhttps://wl.seetickets.us/event/narrow-head/711495?afflky=TheChap
+ el
+URL:https://wl.seetickets.us/event/narrow-head/711495?afflky=TheChapel
+LOCATION:The Chapel\, 777 Valencia St\, San Francisco\, CA 94110
 END:VEVENT
 BEGIN:VEVENT
 UID:long-now-talk-meenakshi-wadhwa-on-meteorites-moon-rocks-and--e652b6a1@

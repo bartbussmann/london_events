@@ -5009,25 +5009,6 @@
     "added": "2026-11-12"
   },
   {
-    "title": "Green Exercise ocean hike: Lands End coastal trail (Meetup group hike)",
-    "start": "2026-12-26T13:00:00-08:00",
-    "end": "2026-12-26T16:30:00-08:00",
-    "venue": "Beach-side parking lot across from Beach Chalet (meeting point)",
-    "address": "Great Highway & John F Kennedy Dr, San Francisco, CA 94121",
-    "url": "https://www.meetup.com/bay-area-hiking-walking-wellness-club/events/316836465/",
-    "source": "aggregator:meetup",
-    "tags": [
-      "outdoors",
-      "community"
-    ],
-    "price": "Free",
-    "description": "A public, social Meetup group hike along the Lands End Coastal Trail past the Sutro Baths ruins, with Golden Gate views. It's open to newcomers and pitched as a way to meet new friends and get a workout.",
-    "neighbourhood": "Outer Richmond",
-    "cycle_minutes": 45,
-    "added": "2026-11-04",
-    "id": "green-exercise-ocean-hike-lands-end-coastal-trail-meetup-gro-0fb9b294"
-  },
-  {
     "title": "Bottom of the Hill holiday matinee: Top Secret Robot Alliance, Varona, Luke Sweeney, Matt Jaffe + more",
     "start": "2026-12-26T16:30:00-08:00",
     "end": null,
@@ -5119,25 +5100,6 @@
     "neighbourhood": "Inner Richmond",
     "cycle_minutes": 27,
     "added": "2026-11-09"
-  },
-  {
-    "id": "mochi-pounding-omochitsuki-at-the-asian-art-museum-19b6b22f",
-    "title": "Mochi pounding (Omochitsuki) at the Asian Art Museum",
-    "start": "2026-12-27T14:00:00-08:00",
-    "end": "2026-12-27T16:00:00-08:00",
-    "venue": "Asian Art Museum",
-    "address": "200 Larkin St, San Francisco, CA 94102",
-    "url": "https://calendar.asianart.org/event/sunday-mochi-pounding-omochitsuki/",
-    "source": "venue:asian-art-museum",
-    "tags": [
-      "food",
-      "community"
-    ],
-    "price": "Included with museum general admission",
-    "description": "A Japanese New Year tradition: watch a demonstration, take a turn with the wooden mallet, then taste fresh mochi. It's a hands-on afternoon in Civic Center.",
-    "neighbourhood": "Civic Center",
-    "cycle_minutes": 8,
-    "added": "2026-11-18"
   },
   {
     "title": "Mark Eitzel, Funeral Cake, Strange Cities, Devoted Fans + more",
@@ -5268,6 +5230,24 @@
     "cycle_minutes": 12,
     "added": "2026-10-29",
     "id": "man-or-astro-man-with-the-subsonics-9124ba5d"
+  },
+  {
+    "id": "west-coast-blues-revue-at-biscuits-blues-ae9efeae",
+    "title": "West Coast Blues Revue at Biscuits & Blues",
+    "start": "2026-12-29T18:30:00-08:00",
+    "end": "2026-12-29T21:30:00-08:00",
+    "venue": "Biscuits & Blues",
+    "address": "401 Mason St, San Francisco, CA 94102",
+    "url": "https://www.eventbrite.com/e/the-west-coast-blues-revue-live-blues-tickets-1995176572838",
+    "source": "aggregator:eventbrite",
+    "tags": [
+      "music"
+    ],
+    "price": "$15-$20 ($17.79 online)",
+    "description": "An early-evening live blues set in a small basement club off Union Square. Hal Petcher leads a rotating crew of Bay Area players, and it's done by 9:30.",
+    "neighbourhood": "Union Square",
+    "cycle_minutes": 7,
+    "added": "2026-11-24"
   },
   {
     "title": "Bachata Tuesday Class & Social (last Tuesday)",
@@ -5514,10 +5494,10 @@
     "id": "a-very-purple-new-year-s-eve-purple-rain-4k-sign-o-the-times-c05ac003",
     "title": "A Very Purple New Year's Eve: Purple Rain (4K) + Sign O' the Times at the Vogue",
     "start": "2026-12-31T21:00:00-08:00",
-    "end": "2027-01-01T01:00:00-08:00",
+    "end": "2027-01-01T01:55:00-08:00",
     "venue": "Vogue Theatre",
     "address": "3290 Sacramento St, San Francisco, CA 94115",
-    "url": "https://sf.funcheap.com/3rd-annual-purple-nye-purple-rain-sign-times-vogue-theatre/",
+    "url": "https://www.voguemovies.com/calendar-of-events/a-very-purple-new-years-eve-2026",
     "source": "aggregator:funcheap",
     "tags": [
       "film",
@@ -5587,25 +5567,6 @@
     "id": "hayes-valley-comedy-night-new-year-s-day-show-7b595a8b"
   },
   {
-    "id": "about-last-night-one-night-stand-storytelling-show-6e906e9b",
-    "title": "About Last Night: one-night-stand storytelling show",
-    "start": "2027-01-01T20:00:00-08:00",
-    "end": "2027-01-01T21:30:00-08:00",
-    "venue": "Make-Out Room",
-    "address": "3225 22nd St, San Francisco, CA 94110",
-    "url": "https://www.calendarwiz.com/calendars/popup.php?op=view&id=191495634&crd=makeoutroom",
-    "source": "venue:make-out-room",
-    "tags": [
-      "comedy",
-      "community"
-    ],
-    "price": "$20 advance / $25 door",
-    "description": "Real people tell true stories about horrifying one-night stands, awkward hookups and regrettable romps, which suits New Year's Day. Doors 7pm, show 8pm.",
-    "neighbourhood": "Mission",
-    "cycle_minutes": 15,
-    "added": "2026-11-09"
-  },
-  {
     "id": "bachata-lab-friday-bachata-classes-3-levels-social-new-year--69a725a4",
     "title": "Bachata Lab: Friday bachata classes (3 levels) + social (New Year's Day)",
     "start": "2027-01-01T20:00:00-08:00",
@@ -5630,7 +5591,7 @@
     "end": "2027-01-02T10:30:00-08:00",
     "venue": "Coffee To The People (meeting point)",
     "address": "1206 Masonic Ave, San Francisco, CA 94117",
-    "url": "https://www.meetup.com/the-board-walks-san-francisco/events/316871043/",
+    "url": "https://www.meetup.com/the-board-walks-san-francisco/events/bwxqxtykccbdb/",
     "source": "aggregator:meetup",
     "tags": [
       "outdoors",
@@ -5814,6 +5775,24 @@
     "cycle_minutes": 27,
     "added": "2026-11-05",
     "id": "salsacrazy-mondays-salsa-lesson-salsa-bachata-dancing-201bcbfa"
+  },
+  {
+    "id": "jazz-nights-at-novela-free-monday-live-jazz-f5e53bef",
+    "title": "Jazz Nights at Novela (free Monday live jazz)",
+    "start": "2027-01-04T19:00:00-08:00",
+    "end": "2027-01-04T22:00:00-08:00",
+    "venue": "Novela",
+    "address": "662 Mission St, San Francisco, CA 94105",
+    "url": "https://www.eventbrite.com/e/jazz-nights-novela-tickets-1991425114124",
+    "source": "aggregator:eventbrite",
+    "tags": [
+      "music"
+    ],
+    "price": "Free (no cover; RSVP on Eventbrite)",
+    "description": "A weekly no-cover live jazz night in a literary-themed cocktail bar a few minutes from home. Walk-ins are welcome, so it's an easy Monday drop-in.",
+    "neighbourhood": "SoMa",
+    "cycle_minutes": 4,
+    "added": "2026-11-24"
   },
   {
     "title": "Contact Improvisation class + jam at The Castro Room",
@@ -6161,7 +6140,7 @@
     "tags": [
       "music"
     ],
-    "price": "$25 adv / $30 week of show",
+    "price": "$25 adv / $30 week of show (sold out)",
     "description": "SOLD OUT (per The List, 9 Nov). The Swedish singer and organist plays towering, cathedral-sized drone-pop. Mostly standing; doors 7pm.",
     "neighbourhood": "Tenderloin",
     "cycle_minutes": 9,
@@ -6434,6 +6413,25 @@
     "added": "2026-11-18"
   },
   {
+    "id": "josh-marcus-the-time-lords-bezos-the-10-000-year-clock-and-b-4c144e8a",
+    "title": "Josh Marcus: The Time Lords (Bezos, the 10,000-Year Clock and Big Tech) at City Lights",
+    "start": "2027-01-12T19:00:00-08:00",
+    "end": "2027-01-12T20:30:00-08:00",
+    "venue": "City Lights Booksellers",
+    "address": "261 Columbus Ave, San Francisco, CA 94133",
+    "url": "https://citylights.com/events/josh-marcus-launch-party-for-the-time-lords/",
+    "source": "venue:city-lights",
+    "tags": [
+      "talk",
+      "tech"
+    ],
+    "price": "Free (in-store seating first-come)",
+    "description": "A book launch for The Time Lords, about Jeff Bezos, the Long Now's 10,000-year clock and Big Tech's quest to own the future. It's free in-store, first come first served, no reservation needed.",
+    "neighbourhood": "North Beach",
+    "cycle_minutes": 10,
+    "added": "2026-11-24"
+  },
+  {
     "title": "Woodchopper's Ball: live-band swing night",
     "start": "2027-01-12T21:00:00-08:00",
     "end": "2027-01-12T23:30:00-08:00",
@@ -6677,6 +6675,25 @@
     "neighbourhood": "Mission",
     "cycle_minutes": 14,
     "added": "2026-11-21"
+  },
+  {
+    "title": "Green Exercise ocean hike: Lands End coastal trail (Meetup group hike)",
+    "start": "2027-01-16T13:00:00-08:00",
+    "end": "2027-01-16T16:30:00-08:00",
+    "venue": "Beach-side parking lot across from Beach Chalet (meeting point)",
+    "address": "Great Highway & John F Kennedy Dr, San Francisco, CA 94121",
+    "url": "https://www.meetup.com/bay-area-hiking-walking-wellness-club/events/316836465/",
+    "source": "aggregator:meetup",
+    "tags": [
+      "outdoors",
+      "community"
+    ],
+    "price": "Free",
+    "description": "A public, social Meetup group hike along the Lands End Coastal Trail past the Sutro Baths ruins, with Golden Gate views. It's open to newcomers and pitched as a way to meet new friends and get a workout.",
+    "neighbourhood": "Outer Richmond",
+    "cycle_minutes": 45,
+    "added": "2026-11-04",
+    "id": "green-exercise-ocean-hike-lands-end-coastal-trail-meetup-gro-0fb9b294"
   },
   {
     "id": "predicting-our-futures-black-feminist-zine-making-workshop-98e6ff35",
@@ -7461,11 +7478,47 @@
       "music"
     ],
     "price": null,
-    "description": "The Brazilian singer marks 25 years of her electronic bossa-nova classic Tanto Tempo. Doors 7pm, 21+; on sale Fri 11/6.",
+    "description": "SOLD OUT. The Brazilian singer marks 25 years of her electronic bossa-nova classic Tanto Tempo. Doors 7pm, 21+; on sale Fri 11/6.",
     "neighbourhood": "North Beach",
     "cycle_minutes": 12,
     "added": "2026-11-06",
     "id": "bebel-gilberto-25-years-of-tanto-tempo-a156d95c"
+  },
+  {
+    "id": "john-roseboro-live-at-the-4-star-theater-cb78cca2",
+    "title": "John Roseboro live at the 4 Star Theater",
+    "start": "2027-01-25T20:00:00-08:00",
+    "end": "2027-01-25T23:00:00-08:00",
+    "venue": "4 Star Theater",
+    "address": "2200 Clement St, San Francisco, CA 94121",
+    "url": "https://www.eventbrite.com/e/john-roseboro-tickets-2004693875346",
+    "source": "aggregator:eventbrite",
+    "tags": [
+      "music"
+    ],
+    "price": "$20-$25 ($25.98 online incl. fees)",
+    "description": "Throwin' Bo's brings Brooklyn singer-songwriter John Roseboro, who blends bossa nova and MPB with indie folk, jazz and soul ('post-bossa'), to a small neighbourhood cinema. Doors 7pm, show 8pm, all ages.",
+    "neighbourhood": "Outer Richmond",
+    "cycle_minutes": 38,
+    "added": "2026-11-24"
+  },
+  {
+    "id": "madeline-edwards-at-caf-du-nord-7d67fecb",
+    "title": "Madeline Edwards at Café du Nord",
+    "start": "2027-01-25T20:00:00-08:00",
+    "end": null,
+    "venue": "Café du Nord (downstairs)",
+    "address": "2170 Market St, San Francisco, CA 94114",
+    "url": "https://cafedunord.com/shows/2027-01-25-madeline-edwards",
+    "source": "venue:cafe-du-nord",
+    "tags": [
+      "music"
+    ],
+    "price": null,
+    "description": "A genre-blending singer-songwriter (country, jazz, soul and rock) in the intimate downstairs room at Café du Nord. Doors 7pm, show 8pm, all ages.",
+    "neighbourhood": "Upper Market",
+    "cycle_minutes": 14,
+    "added": "2026-11-24"
   },
   {
     "id": "long-now-talk-dakota-gruener-on-sunlight-reflection-research-03cc2d4d",
@@ -7847,6 +7900,25 @@
     "added": "2026-11-13"
   },
   {
+    "id": "dark-alleys-darkwave-night-with-free-bowling-at-mission-bowl-5dc1bd32",
+    "title": "Dark Alleys: darkwave night with free bowling at Mission Bowling Club",
+    "start": "2027-02-01T18:00:00-08:00",
+    "end": "2027-02-01T22:00:00-08:00",
+    "venue": "Mission Bowling Club",
+    "address": "3176 17th St, San Francisco, CA 94110",
+    "url": "https://www.eventbrite.com/e/dark-alleys-tickets-2004929639523",
+    "source": "aggregator:eventbrite",
+    "tags": [
+      "sport",
+      "music"
+    ],
+    "price": "$12 (unlimited bowling + shoes)",
+    "description": "A first-Monday night where $12 gets you unlimited bowling and shoe rental while DJs play goth, industrial, synth and darkwave. You sign up for lanes when you arrive. 21+.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 12,
+    "added": "2026-11-24"
+  },
+  {
     "id": "contact-improvisation-class-jam-at-the-castro-room-851fae3f",
     "title": "Contact Improvisation class + jam at The Castro Room",
     "start": "2027-02-01T19:45:00-08:00",
@@ -7882,6 +7954,25 @@
     "cycle_minutes": 12,
     "added": "2026-11-06",
     "id": "vansire-with-eliza-mclamb-a70cbeff"
+  },
+  {
+    "id": "alterna-new-wave-and-goth-skate-night-at-the-church-of-8-whe-5da8e03c",
+    "title": "ALTERNA: new wave and goth skate night at the Church of 8 Wheels",
+    "start": "2027-02-02T20:00:00-08:00",
+    "end": "2027-02-02T22:00:00-08:00",
+    "venue": "Church of 8 Wheels",
+    "address": "554 Fillmore St, San Francisco, CA 94117",
+    "url": "https://www.eventbrite.com/e/welcome-to-alterna-goth-night-at-the-church-of-8-wheels-tickets-1903360866589",
+    "source": "aggregator:eventbrite",
+    "tags": [
+      "sport",
+      "dance"
+    ],
+    "price": "$24.13",
+    "description": "A Tuesday roller-skating night in a converted church, with new wave, darkwave, synthpop and post-punk under the disco ball. Rent skates at the door if you don't have your own.",
+    "neighbourhood": "Lower Haight",
+    "cycle_minutes": 16,
+    "added": "2026-11-24"
   },
   {
     "title": "Woodchopper's Ball: live-band swing night",
@@ -8555,6 +8646,42 @@
     "added": "2026-11-12"
   },
   {
+    "id": "codefendants-with-jakob-nowell-and-the-castle-0a7ff1b1",
+    "title": "Codefendants with Jakob Nowell and The Castle",
+    "start": "2027-02-17T20:00:00-08:00",
+    "end": null,
+    "venue": "The Independent",
+    "address": "628 Divisadero St, San Francisco, CA 94117",
+    "url": "https://www.theindependentsf.com/tm-event/codefendants-jakob-nowell-and-the-castle/",
+    "source": "venue:the-independent",
+    "tags": [
+      "music"
+    ],
+    "price": "$31.95",
+    "description": "Fat Mike's (NOFX) genre-smashing punk collective, which mixes punk, hip hop and rock into what they call 'Crimewave'. Doors 7:30pm, show 8pm, 21+.",
+    "neighbourhood": "NoPa",
+    "cycle_minutes": 18,
+    "added": "2026-11-24"
+  },
+  {
+    "id": "l-a-b-with-seven-suns-at-caf-du-nord-e8b07b87",
+    "title": "L.A.B with Seven Suns at Café du Nord",
+    "start": "2027-02-17T20:00:00-08:00",
+    "end": null,
+    "venue": "Café du Nord (downstairs)",
+    "address": "2170 Market St, San Francisco, CA 94114",
+    "url": "https://cafedunord.com/shows/2027-02-17-lab",
+    "source": "venue:cafe-du-nord",
+    "tags": [
+      "music"
+    ],
+    "price": null,
+    "description": "A hard-touring band with a reggae, soul, rock and funk sound, playing the small downstairs room at Café du Nord. Doors 7pm, show 8pm, all ages.",
+    "neighbourhood": "Upper Market",
+    "cycle_minutes": 14,
+    "added": "2026-11-24"
+  },
+  {
     "id": "city-arts-lectures-dr-orna-guralnik-77fc907e",
     "title": "City Arts & Lectures: Dr. Orna Guralnik",
     "start": "2027-02-18T19:30:00-08:00",
@@ -8646,6 +8773,25 @@
     "cycle_minutes": 3,
     "added": "2026-11-06",
     "id": "san-francisco-chinese-new-year-parade-year-of-the-ram-c64dce24"
+  },
+  {
+    "id": "noise-pop-festival-2027-big-sis-at-kilowatt-bee06557",
+    "title": "Noise Pop Festival 2027: Big SIS at Kilowatt",
+    "start": "2027-02-20T20:00:00-08:00",
+    "end": null,
+    "venue": "Kilowatt",
+    "address": "3160 16th St, San Francisco, CA 94103",
+    "url": "https://www.noisepop.com/event-calendar",
+    "source": "aggregator:noisepop",
+    "tags": [
+      "music",
+      "festival"
+    ],
+    "price": null,
+    "description": "A Noise Pop Festival show in Kilowatt, the tiny 16th Street bar where the festival started. A cheap, close-up way to catch part of SF's indie-music week.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 12,
+    "added": "2026-11-24"
   },
   {
     "title": "Mucha Salsa+ social (free beginner class)",
@@ -9871,6 +10017,24 @@
     "added": "2026-11-19"
   },
   {
+    "id": "jazz-nights-at-novela-free-monday-live-jazz-51b7526b",
+    "title": "Jazz Nights at Novela (free Monday live jazz)",
+    "start": "2027-03-29T19:00:00-07:00",
+    "end": "2027-03-29T22:00:00-07:00",
+    "venue": "Novela",
+    "address": "662 Mission St, San Francisco, CA 94105",
+    "url": "https://www.eventbrite.com/e/jazz-nights-novela-tickets-1991425126160",
+    "source": "aggregator:eventbrite",
+    "tags": [
+      "music"
+    ],
+    "price": "Free (no cover; RSVP on Eventbrite)",
+    "description": "A no-cover Monday night of live jazz from Bay Area musicians in a book-themed cocktail lounge near the Transit Center. Walk-ins welcome.",
+    "neighbourhood": "SoMa",
+    "cycle_minutes": 4,
+    "added": "2026-11-24"
+  },
+  {
     "id": "dogpark-with-the-rose-hips-e3c2022b",
     "title": "Dogpark with The Rose Hips",
     "start": "2027-03-30T20:00:00-07:00",
@@ -9978,6 +10142,24 @@
     "neighbourhood": "Hayes Valley",
     "cycle_minutes": 12,
     "added": "2026-11-22"
+  },
+  {
+    "id": "narrow-head-with-horse-jumper-of-love-knumears-and-worlds-wo-60ced96d",
+    "title": "Narrow Head with Horse Jumper of Love, Knumears and Worlds Worst",
+    "start": "2027-04-06T19:00:00-07:00",
+    "end": null,
+    "venue": "The Chapel",
+    "address": "777 Valencia St, San Francisco, CA 94110",
+    "url": "https://wl.seetickets.us/event/narrow-head/711495?afflky=TheChapel",
+    "source": "venue:the-chapel",
+    "tags": [
+      "music"
+    ],
+    "price": "$25 adv / $30 day of show",
+    "description": "(((folkYEAH!))) presents a heavy-shoegaze bill: Narrow Head, who came out of the Texas hardcore scene, with slowcore band Horse Jumper of Love. Doors 6:30pm, show 7pm, all ages.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 14,
+    "added": "2026-11-24"
   },
   {
     "id": "long-now-talk-meenakshi-wadhwa-on-meteorites-moon-rocks-and--e652b6a1",
