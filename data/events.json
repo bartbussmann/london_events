@@ -1,288 +1,5 @@
 [
   {
-    "title": "Secondhand Saturday season finale (Sunset Mercantile)",
-    "start": "2026-11-21T10:00:00-08:00",
-    "end": "2026-11-21T16:00:00-08:00",
-    "venue": "Sunset Mercantile, 37th Ave",
-    "address": "37th Ave between Ortega & Quintara St, San Francisco, CA 94122",
-    "url": "https://sunsetmercantilesf.com/secondhand/",
-    "source": "listing:funcheap",
-    "tags": [
-      "market",
-      "music",
-      "community"
-    ],
-    "price": "Free",
-    "description": "Last outdoor vintage and makers' flea market of the year: 60-plus vendors, food trucks, live music, and a record swap with guest DJ Baybesoul Records plus lawn games for the finale.",
-    "neighbourhood": "Outer Sunset",
-    "cycle_minutes": 45,
-    "added": "2026-11-02",
-    "id": "secondhand-saturday-season-finale-sunset-mercantile-cc703fb7"
-  },
-  {
-    "id": "sabado-gigante-native-american-heritage-celebration-at-the-b-c2afbb19",
-    "title": "Sabado Gigante: Native American Heritage celebration at the BART plazas",
-    "start": "2026-11-21T11:00:00-08:00",
-    "end": "2026-11-21T16:00:00-08:00",
-    "venue": "16th St Mission BART Plaza",
-    "address": "2000 Mission St, San Francisco, CA",
-    "url": "https://www.eventbrite.com/e/sabado-gigante-native-american-heritage-celebration-tickets-2004454603678",
-    "source": "aggregator:funcheap",
-    "tags": [
-      "festival",
-      "community",
-      "market"
-    ],
-    "price": "Free",
-    "description": "Mission Loteria's free street fest with Native American performers, local artisan vendors and a live DJ across the 16th and 24th St BART plazas.",
-    "neighbourhood": "Mission",
-    "cycle_minutes": 12,
-    "added": "2026-11-07"
-  },
-  {
-    "id": "fall-native-plant-fest-free-wildflower-seeds-15e72a46",
-    "title": "Fall Native Plant Fest (free wildflower seeds)",
-    "start": "2026-11-21T11:00:00-08:00",
-    "end": "2026-11-21T14:00:00-08:00",
-    "venue": "Black Point Historic Gardens, Fort Mason",
-    "address": "Fort Mason, San Francisco, CA",
-    "url": "https://sf.funcheap.com/2026-fall-native-plant-fest-free-wildflower-seeds-fort-mason-gardens-sf/",
-    "source": "aggregator:funcheap",
-    "tags": [
-      "outdoors",
-      "community"
-    ],
-    "price": "Free",
-    "description": "Free autumn native-plant fair in the hillside gardens above Fort Mason, with wildflower seed giveaways and gardening volunteers to chat with.",
-    "neighbourhood": "Fort Mason",
-    "cycle_minutes": 22,
-    "added": "2026-11-07"
-  },
-  {
-    "id": "ics-b8f18fea8a1d",
-    "title": "The Commons Problem - Playtest 3",
-    "start": "2026-11-21T13:00:00-08:00",
-    "end": "2026-11-21T19:00:00-08:00",
-    "venue": "Mox",
-    "address": "1680 Mission St, San Francisco, CA 94103",
-    "url": "https://luma.com/b9n3leog",
-    "source": "ics:Mox",
-    "tags": [
-      "community"
-    ],
-    "price": "Free (sold out; waitlist on Luma)",
-    "description": "SOLD OUT (waitlist only). Playtest #3 of 'The Commons Problem', a new game about collective-action dilemmas — Saturday afternoon at Mox; play, give feedback, meet people.",
-    "added": "2026-10-26",
-    "neighbourhood": "Mission",
-    "cycle_minutes": 13
-  },
-  {
-    "id": "woodcarving-workshop-with-exhibiting-artist-nik-gelormino-032ffd08",
-    "title": "Woodcarving workshop with exhibiting artist Nik Gelormino",
-    "start": "2026-11-21T13:00:00-08:00",
-    "end": "2026-11-21T15:00:00-08:00",
-    "venue": "Museum of Craft and Design",
-    "address": "2569 3rd St, San Francisco, CA",
-    "url": "https://www.eventbrite.com/e/woodcarving-workshop-with-exhibiting-artist-nik-gelormino-tickets-2004323804454",
-    "source": "aggregator:eventbrite",
-    "tags": [
-      "workshop",
-      "class",
-      "art"
-    ],
-    "price": "$70-$80 (sold out)",
-    "description": "SOLD OUT. Hands-on knife-carving intro in the galleries with an OBJECTS: USA artist: learn grain and technique and shape a rough block into a tactile form. No experience needed, tools provided.",
-    "neighbourhood": "Dogpatch",
-    "cycle_minutes": 12,
-    "added": "2026-11-07"
-  },
-  {
-    "title": "YBCA World of Black Film: Touki Bouki",
-    "start": "2026-11-21T14:00:00-08:00",
-    "end": null,
-    "venue": "YBCA Screening Room",
-    "address": "701 Mission St, San Francisco, CA 94103",
-    "url": "https://ybca.org/event/touki-bouki-world-of-black-film-revolutions-11-21-26/",
-    "source": "aggregator:funcheap",
-    "tags": [
-      "film"
-    ],
-    "price": "$15",
-    "description": "Djibril Diop Mambéty's 1973 Senegalese classic, part of Criterion curator Ashley Clark's 'World of Black Film: Revolutions' series. The ticket includes snacks and gallery admission.",
-    "neighbourhood": "SoMa",
-    "cycle_minutes": 3,
-    "added": "2026-11-01",
-    "id": "ybca-world-of-black-film-touki-bouki-7cea1195"
-  },
-  {
-    "id": "baon-stories-and-struggles-of-filipino-migrants-premiere-fil-c6962255",
-    "title": "Baon: Stories and Struggles of Filipino Migrants (premiere + filmmaker talk)",
-    "start": "2026-11-21T14:00:00-08:00",
-    "end": null,
-    "venue": "SFMOMA, Phyllis Wattis Theater",
-    "address": "151 3rd St, San Francisco, CA",
-    "url": "https://www.sfmoma.org/event/baon-stories-and-struggles-of-filipino-migrants/",
-    "source": "venue:sfmoma",
-    "tags": [
-      "film",
-      "food",
-      "community"
-    ],
-    "price": "Free (RSVP)",
-    "description": "Premiere of Rachel Bundoc Lucero's film cooking home dishes with Filipino migrants around the Bay, followed by a conversation; presented with SOMA Pilipinas.",
-    "neighbourhood": "SoMa",
-    "cycle_minutes": 5,
-    "added": "2026-11-07"
-  },
-  {
-    "title": "BATS Improv: Intro to Improv with Diana Brown (single session)",
-    "start": "2026-11-21T14:30:00-08:00",
-    "end": "2026-11-21T17:30:00-08:00",
-    "venue": "BATS Annex, Fort Mason Center",
-    "address": "2 Marina Blvd, Bldg C, Suite 365, San Francisco, CA 94123",
-    "url": "https://www.eventbrite.com/e/intro-to-improv-with-diana-brown-sch-tickets-1996317934682",
-    "source": "venue:bats-improv",
-    "tags": [
-      "class",
-      "comedy"
-    ],
-    "price": "$76.41",
-    "description": "A one-off three-hour taster class at SF's 40-year-old improv theatre school, made for complete beginners. You learn the basics of saying yes, listening and building scenes, and it's a very easy way to meet people.",
-    "neighbourhood": "Marina",
-    "cycle_minutes": 22,
-    "added": "2026-10-28",
-    "id": "bats-improv-intro-to-improv-with-diana-brown-single-session-4aa26e59"
-  },
-  {
-    "id": "live-band-karaoke-at-lighthaven-berkeley-31beb7e4",
-    "title": "Live Band Karaoke at Lighthaven (Berkeley)",
-    "start": "2026-11-21T17:00:00-08:00",
-    "end": "2026-11-22T01:00:00-08:00",
-    "venue": "Lighthaven",
-    "address": "Telegraph Ave, Berkeley, CA",
-    "url": "https://partiful.com/e/i27FFdFes4MrW8RJJkRt",
-    "source": "listing:lesswrong",
-    "tags": [
-      "music",
-      "community"
-    ],
-    "price": "~$10 suggested",
-    "description": "A rationalist-community favourite where you pick a song and a live band plays it while the lyrics go up for a crowd singalong, with a quieter acoustic indoor set from around 10:30pm. Take BART from Montgomery to Ashby (~20 min), then walk ~15 min; RSVP on Partiful.",
-    "neighbourhood": "Berkeley",
-    "cycle_minutes": null,
-    "added": "2026-11-13"
-  },
-  {
-    "id": "singles-mingle-at-zo-free-21-8791b914",
-    "title": "Singles Mingle at Zoë (free, 21+)",
-    "start": "2026-11-21T18:00:00-08:00",
-    "end": "2026-11-21T21:00:00-08:00",
-    "venue": "ZOË",
-    "address": "579 Howard St, San Francisco, CA 94105",
-    "url": "https://www.eventbrite.com/e/singles-mingle-zoes-bar-in-sf-21-free-entry-tickets-2004102162517",
-    "source": "aggregator:eventbrite",
-    "tags": [
-      "community"
-    ],
-    "price": "Free",
-    "description": "A free, mixed, 21+ in-person singles mixer from a group trying to get people off dating apps. The bar is a few minutes' walk from home.",
-    "neighbourhood": "SoMa",
-    "cycle_minutes": 3,
-    "added": "2026-11-13"
-  },
-  {
-    "id": "bedazzling-night-at-the-love-potion-library-2ac7b04c",
-    "title": "Bedazzling Night at The Love Potion Library",
-    "start": "2026-11-21T19:00:00-08:00",
-    "end": "2026-11-21T21:00:00-08:00",
-    "venue": "The Love Potion Library",
-    "address": "284 Noe St, San Francisco, CA",
-    "url": "https://luma.com/4pahhbua",
-    "source": "ics:Love Potion Library",
-    "tags": [
-      "workshop",
-      "community"
-    ],
-    "price": "$10 (sold out; waitlist on Luma)",
-    "description": "SOLD OUT (waitlist open on Luma). Relaxed glitter-craft social at the Castro romance bookshop and tea room: bedazzle a book you bring or one from the shelves, supplies and help provided.",
-    "neighbourhood": "Castro",
-    "cycle_minutes": 17,
-    "added": "2026-11-07"
-  },
-  {
-    "id": "playtesting-pints-indie-game-night-77822295",
-    "title": "Playtesting & Pints: indie game night",
-    "start": "2026-11-21T19:00:00-08:00",
-    "end": "2026-11-21T23:00:00-08:00",
-    "venue": "The Detour",
-    "address": "2200A Market St, San Francisco, CA 94114",
-    "url": "https://luma.com/ec4nl23c",
-    "source": "aggregator:luma",
-    "tags": [
-      "tech",
-      "community"
-    ],
-    "price": "Free",
-    "description": "Play and give feedback on indie games in progress from local developers, over drinks at a Castro bar. A low-key, social way to meet the city's game-dev crowd.",
-    "neighbourhood": "Castro",
-    "cycle_minutes": 16,
-    "added": "2026-11-13"
-  },
-  {
-    "title": "IT (1990) on VHS with director Tommy Lee Wallace in person",
-    "start": "2026-11-21T19:30:00-08:00",
-    "end": "2026-11-21T23:00:00-08:00",
-    "venue": "4 Star Theater",
-    "address": "2200 Clement St, San Francisco, CA 94121",
-    "url": "https://www.4-star-movies.com/calendar-of-events/basement-vhs-it",
-    "source": "venue:4-star",
-    "tags": [
-      "film"
-    ],
-    "price": null,
-    "description": "Basement VHS, a Mission-based VHS archive and art collective, projects the 1990 Stephen King miniseries from tape on the big screen, followed by an in-person Q&A with director Tommy Lee Wallace. Rescheduled from Oct 30.",
-    "neighbourhood": "Outer Richmond",
-    "cycle_minutes": 35,
-    "added": "2026-11-03",
-    "id": "it-1990-on-vhs-with-director-tommy-lee-wallace-in-person-a41a9b51"
-  },
-  {
-    "title": "Poi Dog Pondering with Archer Monk",
-    "start": "2026-11-21T21:00:00-08:00",
-    "end": null,
-    "venue": "The Chapel",
-    "address": "777 Valencia St, San Francisco, CA 94110",
-    "url": "https://wl.seetickets.us/event/poi-dog-pondering/705787?afflky=TheChapel",
-    "source": "venue:the-chapel",
-    "tags": [
-      "music"
-    ],
-    "price": "$28 advance / $33 day of show",
-    "description": "Frank Orrall's long-running, Hawaii-rooted folk-pop collective returns with its 40-plus years of eclectic, joyful songs. Doors 8pm, show 9pm; all ages.",
-    "neighbourhood": "Mission",
-    "cycle_minutes": 13,
-    "added": "2026-11-02",
-    "id": "poi-dog-pondering-with-archer-monk-746ad0e2"
-  },
-  {
-    "id": "frances-whitney-with-abby-walker-daisy-s-mixtape-tour-fd8d3d21",
-    "title": "Frances Whitney with Abby Walker (Daisy's Mixtape Tour)",
-    "start": "2026-11-21T21:00:00-08:00",
-    "end": null,
-    "venue": "Cafe du Nord",
-    "address": "2170 Market St, San Francisco, CA",
-    "url": "https://cafedunord.com/shows/2026-11-21-frances-whitney",
-    "source": "venue:cafedunord",
-    "tags": [
-      "music"
-    ],
-    "price": "$32.42",
-    "description": "Indie-pop singer-songwriter in the intimate basement room under the Swedish American Hall. Doors 8pm, show 9pm, all ages.",
-    "neighbourhood": "Upper Market",
-    "cycle_minutes": 15,
-    "added": "2026-11-07"
-  },
-  {
     "id": "5rhythms-sweat-your-prayers-with-majica-alba-sunday-morning--0c505c93",
     "title": "5Rhythms Sweat Your Prayers with Majica Alba (Sunday morning wave)",
     "start": "2026-11-22T09:00:00-08:00",
@@ -600,26 +317,6 @@
     "cycle_minutes": 16,
     "added": "2026-10-31",
     "id": "clay-play-make-your-own-bookends-air-dry-clay-9a4a500b"
-  },
-  {
-    "id": "ics-c33d39b16902",
-    "title": "Let's talk about Recursive Self-Improvement: the latest hot topic in AIS",
-    "start": "2026-11-24T18:30:00-08:00",
-    "end": "2026-11-24T20:30:00-08:00",
-    "venue": "SoMa venue (address shown after registering)",
-    "address": null,
-    "url": "https://luma.com/aisafety-4phl",
-    "source": "ics:AI Safety San Francisco",
-    "tags": [
-      "talk",
-      "tech",
-      "community"
-    ],
-    "price": "Free (sold out; waitlist on Luma)",
-    "description": "SOLD OUT. AI Safety SF discussion night on recursive self-improvement, prompted by METR's report on AI-accelerated research at Anthropic: a group level-set, then breakouts for newcomers (short readings) and deep-context technical sessions. About 15 minutes of required reading beforehand.",
-    "added": "2026-11-15",
-    "neighbourhood": "SoMa",
-    "cycle_minutes": 5
   },
   {
     "id": "love-seat-a-cooperative-connection-game-at-the-commons-919ab9e5",
@@ -1261,6 +958,25 @@
     "id": "edmar-castaneda-german-lopez-terence-blanchard-s-upswing-ser-8c725add"
   },
   {
+    "id": "ics-74353543468d",
+    "title": "Mox-tunies! Live Band Karaoke",
+    "start": "2026-11-28T19:00:00-08:00",
+    "end": "2026-11-28T23:00:00-08:00",
+    "venue": "Location shared after RSVP (Partiful)",
+    "address": null,
+    "url": "https://partiful.com/e/j4V4AmXmzEpzWefBFwWz",
+    "source": "ics:Mox",
+    "tags": [
+      "music",
+      "community"
+    ],
+    "price": "Free (BYOB, bring a vegan snack)",
+    "description": "Mox community live-band karaoke: pick a song and sing with a real band behind you. Free; bring your own drinks and a vegan snack to share. The location is shared after you RSVP on Partiful.",
+    "added": "2026-11-24",
+    "neighbourhood": "San Francisco (location on RSVP)",
+    "cycle_minutes": null
+  },
+  {
     "id": "sf-neo-futurists-the-infinite-wrench-30-plays-in-60-minutes-8f41a104",
     "title": "SF Neo-Futurists: The Infinite Wrench (30 plays in 60 minutes)",
     "start": "2026-11-28T21:00:00-08:00",
@@ -1580,6 +1296,25 @@
     "neighbourhood": "Hayes Valley",
     "cycle_minutes": 12,
     "added": "2026-11-20"
+  },
+  {
+    "id": "ics-2569b327e01c",
+    "title": "SF Lean Meetup",
+    "start": "2026-11-30T19:00:00-08:00",
+    "end": "2026-11-30T21:00:00-08:00",
+    "venue": "Mox",
+    "address": "1680 Mission St, San Francisco, CA 94103",
+    "url": "https://luma.com/djqpgaqm",
+    "source": "ics:Mox",
+    "tags": [
+      "talk",
+      "tech"
+    ],
+    "price": "Free (register on Luma)",
+    "description": "The weekly SF Lean meetup at Mox: presentations and discussion on formal methods, software verification, AI and maths with the Lean theorem prover. Beginners welcome.",
+    "added": "2026-11-24",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 13
   },
   {
     "title": "A John Waters Christmas",
@@ -2445,6 +2180,25 @@
     "id": "rosanna-xia-california-against-the-sea-in-conversation-with--d9754634"
   },
   {
+    "id": "ics-632bba21e931",
+    "title": "Mathematical Sociodynamics reading group (Psychohistory but real)",
+    "start": "2026-12-05T15:30:00-08:00",
+    "end": "2026-12-05T17:00:00-08:00",
+    "venue": "Mox",
+    "address": "1680 Mission St, San Francisco, CA 94103",
+    "url": "https://luma.com/pcbf4rr6",
+    "source": "ics:Mox",
+    "tags": [
+      "talk",
+      "tech"
+    ],
+    "price": "Free (register on Luma)",
+    "description": "A reading group on the maths of social dynamics ('psychohistory but real'): this session asks why one of two evenly matched firms pulls ahead and whether its lead grows or fades.",
+    "added": "2026-11-24",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 13
+  },
+  {
     "title": "di Rosa SF: Julio Cesar Morales artist talk + shared meal",
     "start": "2026-12-05T17:00:00-08:00",
     "end": "2026-12-05T19:00:00-08:00",
@@ -2916,6 +2670,26 @@
     "added": "2026-11-12"
   },
   {
+    "id": "ics-c33d39b16902",
+    "title": "Let's talk about Recursive Self-Improvement: the latest hot topic in AIS",
+    "start": "2026-12-08T18:30:00-08:00",
+    "end": "2026-12-08T20:30:00-08:00",
+    "venue": "SoMa venue (address shown after registering)",
+    "address": null,
+    "url": "https://luma.com/aisafety-4phl",
+    "source": "ics:AI Safety San Francisco",
+    "tags": [
+      "talk",
+      "tech",
+      "community"
+    ],
+    "price": "Free (sold out; waitlist on Luma)",
+    "description": "Moved from 24 Nov to Tue 8 Dec. SOLD OUT. AI Safety SF discussion night on recursive self-improvement, prompted by METR's report on AI-accelerated research at Anthropic: a group level-set, then breakouts for newcomers (short readings) and deep-context technical sessions. About 15 minutes of required reading beforehand.",
+    "added": "2026-11-15",
+    "neighbourhood": "SoMa",
+    "cycle_minutes": 5
+  },
+  {
     "title": "D. Leah Steinberg on Clyde Stubblefield: Rhythms of the Funky Drummer",
     "start": "2026-12-08T19:00:00-08:00",
     "end": "2026-12-08T20:30:00-08:00",
@@ -2951,6 +2725,25 @@
     "added": "2026-11-21",
     "neighbourhood": "Lower Haight",
     "cycle_minutes": 16
+  },
+  {
+    "id": "ics-9f04cdf30238",
+    "title": "Kim Morrison at the SF Lean Meetup",
+    "start": "2026-12-08T19:00:00-08:00",
+    "end": "2026-12-08T21:00:00-08:00",
+    "venue": "Mox",
+    "address": "1680 Mission St, San Francisco, CA 94103",
+    "url": "https://luma.com/80dyt63h",
+    "source": "ics:Mox",
+    "tags": [
+      "talk",
+      "tech"
+    ],
+    "price": "Free (register on Luma)",
+    "description": "Lean core developer Kim Morrison speaks at the weekly SF Lean meetup at Mox, on formal verification, AI and maths. Beginners welcome.",
+    "added": "2026-11-24",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 13
   },
   {
     "title": "Wishy with The Umbrellas",

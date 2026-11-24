@@ -5,222 +5,6 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:San Francisco Events
 X-WR-TIMEZONE:America/Los_Angeles
 BEGIN:VEVENT
-UID:secondhand-saturday-season-finale-sunset-mercantile-cc703fb7@sf-events
-DTSTAMP:20261121T180000Z
-DTSTART:20261121T180000Z
-DTEND:20261122T000000Z
-SUMMARY:Secondhand Saturday season finale (Sunset Mercantile)
-DESCRIPTION:Last outdoor vintage and makers' flea market of the year: 60-p
- lus vendors\, food trucks\, live music\, and a record swap with guest DJ 
- Baybesoul Records plus lawn games for the finale.\nPrice: Free\nhttps://s
- unsetmercantilesf.com/secondhand/
-URL:https://sunsetmercantilesf.com/secondhand/
-LOCATION:Sunset Mercantile\, 37th Ave\, 37th Ave between Ortega & Quintara
-  St\, San Francisco\, CA 94122
-END:VEVENT
-BEGIN:VEVENT
-UID:sabado-gigante-native-american-heritage-celebration-at-the-b-c2afbb19@
- sf-events
-DTSTAMP:20261121T190000Z
-DTSTART:20261121T190000Z
-DTEND:20261122T000000Z
-SUMMARY:Sabado Gigante: Native American Heritage celebration at the BART p
- lazas
-DESCRIPTION:Mission Loteria's free street fest with Native American perfor
- mers\, local artisan vendors and a live DJ across the 16th and 24th St BA
- RT plazas.\nPrice: Free\nhttps://www.eventbrite.com/e/sabado-gigante-nati
- ve-american-heritage-celebration-tickets-2004454603678
-URL:https://www.eventbrite.com/e/sabado-gigante-native-american-heritage-c
- elebration-tickets-2004454603678
-LOCATION:16th St Mission BART Plaza\, 2000 Mission St\, San Francisco\, CA
-END:VEVENT
-BEGIN:VEVENT
-UID:fall-native-plant-fest-free-wildflower-seeds-15e72a46@sf-events
-DTSTAMP:20261121T190000Z
-DTSTART:20261121T190000Z
-DTEND:20261121T220000Z
-SUMMARY:Fall Native Plant Fest (free wildflower seeds)
-DESCRIPTION:Free autumn native-plant fair in the hillside gardens above Fo
- rt Mason\, with wildflower seed giveaways and gardening volunteers to cha
- t with.\nPrice: Free\nhttps://sf.funcheap.com/2026-fall-native-plant-fest
- -free-wildflower-seeds-fort-mason-gardens-sf/
-URL:https://sf.funcheap.com/2026-fall-native-plant-fest-free-wildflower-se
- eds-fort-mason-gardens-sf/
-LOCATION:Black Point Historic Gardens\, Fort Mason\, Fort Mason\, San Fran
- cisco\, CA
-END:VEVENT
-BEGIN:VEVENT
-UID:ics-b8f18fea8a1d@sf-events
-DTSTAMP:20261121T210000Z
-DTSTART:20261121T210000Z
-DTEND:20261122T030000Z
-SUMMARY:The Commons Problem - Playtest 3
-DESCRIPTION:SOLD OUT (waitlist only). Playtest #3 of 'The Commons Problem'
- \, a new game about collective-action dilemmas — Saturday afternoon at 
- Mox\; play\, give feedback\, meet people.\nPrice: Free (sold out\; waitli
- st on Luma)\nhttps://luma.com/b9n3leog
-URL:https://luma.com/b9n3leog
-LOCATION:Mox\, 1680 Mission St\, San Francisco\, CA 94103
-END:VEVENT
-BEGIN:VEVENT
-UID:woodcarving-workshop-with-exhibiting-artist-nik-gelormino-032ffd08@sf-
- events
-DTSTAMP:20261121T210000Z
-DTSTART:20261121T210000Z
-DTEND:20261121T230000Z
-SUMMARY:Woodcarving workshop with exhibiting artist Nik Gelormino
-DESCRIPTION:SOLD OUT. Hands-on knife-carving intro in the galleries with a
- n OBJECTS: USA artist: learn grain and technique and shape a rough block 
- into a tactile form. No experience needed\, tools provided.\nPrice: $70-$
- 80 (sold out)\nhttps://www.eventbrite.com/e/woodcarving-workshop-with-exh
- ibiting-artist-nik-gelormino-tickets-2004323804454
-URL:https://www.eventbrite.com/e/woodcarving-workshop-with-exhibiting-arti
- st-nik-gelormino-tickets-2004323804454
-LOCATION:Museum of Craft and Design\, 2569 3rd St\, San Francisco\, CA
-END:VEVENT
-BEGIN:VEVENT
-UID:ybca-world-of-black-film-touki-bouki-7cea1195@sf-events
-DTSTAMP:20261121T220000Z
-DTSTART:20261121T220000Z
-DTEND:20261122T000000Z
-SUMMARY:YBCA World of Black Film: Touki Bouki
-DESCRIPTION:Djibril Diop Mambéty's 1973 Senegalese classic\, part of Crit
- erion curator Ashley Clark's 'World of Black Film: Revolutions' series. T
- he ticket includes snacks and gallery admission.\nPrice: $15\nhttps://ybc
- a.org/event/touki-bouki-world-of-black-film-revolutions-11-21-26/
-URL:https://ybca.org/event/touki-bouki-world-of-black-film-revolutions-11-
- 21-26/
-LOCATION:YBCA Screening Room\, 701 Mission St\, San Francisco\, CA 94103
-END:VEVENT
-BEGIN:VEVENT
-UID:baon-stories-and-struggles-of-filipino-migrants-premiere-fil-c6962255@
- sf-events
-DTSTAMP:20261121T220000Z
-DTSTART:20261121T220000Z
-DTEND:20261122T000000Z
-SUMMARY:Baon: Stories and Struggles of Filipino Migrants (premiere + filmm
- aker talk)
-DESCRIPTION:Premiere of Rachel Bundoc Lucero's film cooking home dishes wi
- th Filipino migrants around the Bay\, followed by a conversation\; presen
- ted with SOMA Pilipinas.\nPrice: Free (RSVP)\nhttps://www.sfmoma.org/even
- t/baon-stories-and-struggles-of-filipino-migrants/
-URL:https://www.sfmoma.org/event/baon-stories-and-struggles-of-filipino-mi
- grants/
-LOCATION:SFMOMA\, Phyllis Wattis Theater\, 151 3rd St\, San Francisco\, CA
-END:VEVENT
-BEGIN:VEVENT
-UID:bats-improv-intro-to-improv-with-diana-brown-single-session-4aa26e59@s
- f-events
-DTSTAMP:20261121T223000Z
-DTSTART:20261121T223000Z
-DTEND:20261122T013000Z
-SUMMARY:BATS Improv: Intro to Improv with Diana Brown (single session)
-DESCRIPTION:A one-off three-hour taster class at SF's 40-year-old improv t
- heatre school\, made for complete beginners. You learn the basics of sayi
- ng yes\, listening and building scenes\, and it's a very easy way to meet
-  people.\nPrice: $76.41\nhttps://www.eventbrite.com/e/intro-to-improv-wit
- h-diana-brown-sch-tickets-1996317934682
-URL:https://www.eventbrite.com/e/intro-to-improv-with-diana-brown-sch-tick
- ets-1996317934682
-LOCATION:BATS Annex\, Fort Mason Center\, 2 Marina Blvd\, Bldg C\, Suite 3
- 65\, San Francisco\, CA 94123
-END:VEVENT
-BEGIN:VEVENT
-UID:live-band-karaoke-at-lighthaven-berkeley-31beb7e4@sf-events
-DTSTAMP:20261122T010000Z
-DTSTART:20261122T010000Z
-DTEND:20261122T090000Z
-SUMMARY:Live Band Karaoke at Lighthaven (Berkeley)
-DESCRIPTION:A rationalist-community favourite where you pick a song and a 
- live band plays it while the lyrics go up for a crowd singalong\, with a 
- quieter acoustic indoor set from around 10:30pm. Take BART from Montgomer
- y to Ashby (~20 min)\, then walk ~15 min\; RSVP on Partiful.\nPrice: ~$10
-  suggested\nhttps://partiful.com/e/i27FFdFes4MrW8RJJkRt
-URL:https://partiful.com/e/i27FFdFes4MrW8RJJkRt
-LOCATION:Lighthaven\, Telegraph Ave\, Berkeley\, CA
-END:VEVENT
-BEGIN:VEVENT
-UID:singles-mingle-at-zo-free-21-8791b914@sf-events
-DTSTAMP:20261122T020000Z
-DTSTART:20261122T020000Z
-DTEND:20261122T050000Z
-SUMMARY:Singles Mingle at Zoë (free\, 21+)
-DESCRIPTION:A free\, mixed\, 21+ in-person singles mixer from a group tryi
- ng to get people off dating apps. The bar is a few minutes' walk from hom
- e.\nPrice: Free\nhttps://www.eventbrite.com/e/singles-mingle-zoes-bar-in-
- sf-21-free-entry-tickets-2004102162517
-URL:https://www.eventbrite.com/e/singles-mingle-zoes-bar-in-sf-21-free-ent
- ry-tickets-2004102162517
-LOCATION:ZOË\, 579 Howard St\, San Francisco\, CA 94105
-END:VEVENT
-BEGIN:VEVENT
-UID:bedazzling-night-at-the-love-potion-library-2ac7b04c@sf-events
-DTSTAMP:20261122T030000Z
-DTSTART:20261122T030000Z
-DTEND:20261122T050000Z
-SUMMARY:Bedazzling Night at The Love Potion Library
-DESCRIPTION:SOLD OUT (waitlist open on Luma). Relaxed glitter-craft social
-  at the Castro romance bookshop and tea room: bedazzle a book you bring o
- r one from the shelves\, supplies and help provided.\nPrice: $10 (sold ou
- t\; waitlist on Luma)\nhttps://luma.com/4pahhbua
-URL:https://luma.com/4pahhbua
-LOCATION:The Love Potion Library\, 284 Noe St\, San Francisco\, CA
-END:VEVENT
-BEGIN:VEVENT
-UID:playtesting-pints-indie-game-night-77822295@sf-events
-DTSTAMP:20261122T030000Z
-DTSTART:20261122T030000Z
-DTEND:20261122T070000Z
-SUMMARY:Playtesting & Pints: indie game night
-DESCRIPTION:Play and give feedback on indie games in progress from local d
- evelopers\, over drinks at a Castro bar. A low-key\, social way to meet t
- he city's game-dev crowd.\nPrice: Free\nhttps://luma.com/ec4nl23c
-URL:https://luma.com/ec4nl23c
-LOCATION:The Detour\, 2200A Market St\, San Francisco\, CA 94114
-END:VEVENT
-BEGIN:VEVENT
-UID:it-1990-on-vhs-with-director-tommy-lee-wallace-in-person-a41a9b51@sf-e
- vents
-DTSTAMP:20261122T033000Z
-DTSTART:20261122T033000Z
-DTEND:20261122T070000Z
-SUMMARY:IT (1990) on VHS with director Tommy Lee Wallace in person
-DESCRIPTION:Basement VHS\, a Mission-based VHS archive and art collective\
- , projects the 1990 Stephen King miniseries from tape on the big screen\,
-  followed by an in-person Q&A with director Tommy Lee Wallace. Reschedule
- d from Oct 30.\nhttps://www.4-star-movies.com/calendar-of-events/basement
- -vhs-it
-URL:https://www.4-star-movies.com/calendar-of-events/basement-vhs-it
-LOCATION:4 Star Theater\, 2200 Clement St\, San Francisco\, CA 94121
-END:VEVENT
-BEGIN:VEVENT
-UID:poi-dog-pondering-with-archer-monk-746ad0e2@sf-events
-DTSTAMP:20261122T050000Z
-DTSTART:20261122T050000Z
-DTEND:20261122T070000Z
-SUMMARY:Poi Dog Pondering with Archer Monk
-DESCRIPTION:Frank Orrall's long-running\, Hawaii-rooted folk-pop collectiv
- e returns with its 40-plus years of eclectic\, joyful songs. Doors 8pm\, 
- show 9pm\; all ages.\nPrice: $28 advance / $33 day of show\nhttps://wl.se
- etickets.us/event/poi-dog-pondering/705787?afflky=TheChapel
-URL:https://wl.seetickets.us/event/poi-dog-pondering/705787?afflky=TheChap
- el
-LOCATION:The Chapel\, 777 Valencia St\, San Francisco\, CA 94110
-END:VEVENT
-BEGIN:VEVENT
-UID:frances-whitney-with-abby-walker-daisy-s-mixtape-tour-fd8d3d21@sf-even
- ts
-DTSTAMP:20261122T050000Z
-DTSTART:20261122T050000Z
-DTEND:20261122T070000Z
-SUMMARY:Frances Whitney with Abby Walker (Daisy's Mixtape Tour)
-DESCRIPTION:Indie-pop singer-songwriter in the intimate basement room unde
- r the Swedish American Hall. Doors 8pm\, show 9pm\, all ages.\nPrice: $32
- .42\nhttps://cafedunord.com/shows/2026-11-21-frances-whitney
-URL:https://cafedunord.com/shows/2026-11-21-frances-whitney
-LOCATION:Cafe du Nord\, 2170 Market St\, San Francisco\, CA
-END:VEVENT
-BEGIN:VEVENT
 UID:5rhythms-sweat-your-prayers-with-majica-alba-sunday-morning--0c505c93@
  sf-events
 DTSTAMP:20261122T170000Z
@@ -486,22 +270,6 @@ DESCRIPTION:A beginner hand-building workshop run by Piscola Studio in a C
  own snack or drink.\nPrice: $60\nhttps://luma.com/qozwef2n
 URL:https://luma.com/qozwef2n
 LOCATION:The Love Potion Library\, 284 Noe St\, San Francisco\, CA 94114
-END:VEVENT
-BEGIN:VEVENT
-UID:ics-c33d39b16902@sf-events
-DTSTAMP:20261125T023000Z
-DTSTART:20261125T023000Z
-DTEND:20261125T043000Z
-SUMMARY:Let's talk about Recursive Self-Improvement: the latest hot topic 
- in AIS
-DESCRIPTION:SOLD OUT. AI Safety SF discussion night on recursive self-impr
- ovement\, prompted by METR's report on AI-accelerated research at Anthrop
- ic: a group level-set\, then breakouts for newcomers (short readings) and
-  deep-context technical sessions. About 15 minutes of required reading be
- forehand.\nPrice: Free (sold out\; waitlist on Luma)\nhttps://luma.com/ai
- safety-4phl
-URL:https://luma.com/aisafety-4phl
-LOCATION:SoMa venue (address shown after registering)
 END:VEVENT
 BEGIN:VEVENT
 UID:love-seat-a-cooperative-connection-game-at-the-commons-919ab9e5@sf-eve
@@ -1019,6 +787,19 @@ LOCATION:SFJAZZ Center\, Miner Auditorium\, 201 Franklin St\, San Francisc
  o\, CA 94102
 END:VEVENT
 BEGIN:VEVENT
+UID:ics-74353543468d@sf-events
+DTSTAMP:20261129T030000Z
+DTSTART:20261129T030000Z
+DTEND:20261129T070000Z
+SUMMARY:Mox-tunies! Live Band Karaoke
+DESCRIPTION:Mox community live-band karaoke: pick a song and sing with a r
+ eal band behind you. Free\; bring your own drinks and a vegan snack to sh
+ are. The location is shared after you RSVP on Partiful.\nPrice: Free (BYO
+ B\, bring a vegan snack)\nhttps://partiful.com/e/j4V4AmXmzEpzWefBFwWz
+URL:https://partiful.com/e/j4V4AmXmzEpzWefBFwWz
+LOCATION:Location shared after RSVP (Partiful)
+END:VEVENT
+BEGIN:VEVENT
 UID:sf-neo-futurists-the-infinite-wrench-30-plays-in-60-minutes-8f41a104@s
  f-events
 DTSTAMP:20261129T050000Z
@@ -1271,6 +1052,19 @@ DESCRIPTION:A small-group connection practice much like Circling or T-grou
  \nhttps://luma.com/the-n95i
 URL:https://luma.com/the-n95i
 LOCATION:The SF Commons\, 540 Laguna St\, San Francisco\, CA 94102
+END:VEVENT
+BEGIN:VEVENT
+UID:ics-2569b327e01c@sf-events
+DTSTAMP:20261201T030000Z
+DTSTART:20261201T030000Z
+DTEND:20261201T050000Z
+SUMMARY:SF Lean Meetup
+DESCRIPTION:The weekly SF Lean meetup at Mox: presentations and discussion
+  on formal methods\, software verification\, AI and maths with the Lean t
+ heorem prover. Beginners welcome.\nPrice: Free (register on Luma)\nhttps:
+ //luma.com/djqpgaqm
+URL:https://luma.com/djqpgaqm
+LOCATION:Mox\, 1680 Mission St\, San Francisco\, CA 94103
 END:VEVENT
 BEGIN:VEVENT
 UID:a-john-waters-christmas-4519cb2a@sf-events
@@ -1969,6 +1763,19 @@ LOCATION:San Francisco Main Library\, Koret Auditorium\, 100 Larkin St\, S
  an Francisco\, CA 94102
 END:VEVENT
 BEGIN:VEVENT
+UID:ics-632bba21e931@sf-events
+DTSTAMP:20261205T233000Z
+DTSTART:20261205T233000Z
+DTEND:20261206T010000Z
+SUMMARY:Mathematical Sociodynamics reading group (Psychohistory but real)
+DESCRIPTION:A reading group on the maths of social dynamics ('psychohistor
+ y but real'): this session asks why one of two evenly matched firms pulls
+  ahead and whether its lead grows or fades.\nPrice: Free (register on Lum
+ a)\nhttps://luma.com/pcbf4rr6
+URL:https://luma.com/pcbf4rr6
+LOCATION:Mox\, 1680 Mission St\, San Francisco\, CA 94103
+END:VEVENT
+BEGIN:VEVENT
 UID:di-rosa-sf-julio-cesar-morales-artist-talk-shared-meal-2f310883@sf-eve
  nts
 DTSTAMP:20261206T010000Z
@@ -2337,6 +2144,22 @@ URL:https://www.eventbrite.com/e/mindful-tuesdays-embodied-mindfulness-dis
 LOCATION:The Living Room on 9th\, 1383 9th Ave\, San Francisco\, CA 94122
 END:VEVENT
 BEGIN:VEVENT
+UID:ics-c33d39b16902@sf-events
+DTSTAMP:20261209T023000Z
+DTSTART:20261209T023000Z
+DTEND:20261209T043000Z
+SUMMARY:Let's talk about Recursive Self-Improvement: the latest hot topic 
+ in AIS
+DESCRIPTION:Moved from 24 Nov to Tue 8 Dec. SOLD OUT. AI Safety SF discuss
+ ion night on recursive self-improvement\, prompted by METR's report on AI
+ -accelerated research at Anthropic: a group level-set\, then breakouts fo
+ r newcomers (short readings) and deep-context technical sessions. About 1
+ 5 minutes of required reading beforehand.\nPrice: Free (sold out\; waitli
+ st on Luma)\nhttps://luma.com/aisafety-4phl
+URL:https://luma.com/aisafety-4phl
+LOCATION:SoMa venue (address shown after registering)
+END:VEVENT
+BEGIN:VEVENT
 UID:d-leah-steinberg-on-clyde-stubblefield-rhythms-of-the-funky--3a505e5d@
  sf-events
 DTSTAMP:20261209T030000Z
@@ -2366,6 +2189,18 @@ DESCRIPTION:Big Brain lecture-in-a-bar: a psychology researcher on why dec
  om/iv035jpu
 URL:https://luma.com/iv035jpu
 LOCATION:The Faight Collective\, 473A Haight St\, San Francisco\, CA 94117
+END:VEVENT
+BEGIN:VEVENT
+UID:ics-9f04cdf30238@sf-events
+DTSTAMP:20261209T030000Z
+DTSTART:20261209T030000Z
+DTEND:20261209T050000Z
+SUMMARY:Kim Morrison at the SF Lean Meetup
+DESCRIPTION:Lean core developer Kim Morrison speaks at the weekly SF Lean 
+ meetup at Mox\, on formal verification\, AI and maths. Beginners welcome.
+ \nPrice: Free (register on Luma)\nhttps://luma.com/80dyt63h
+URL:https://luma.com/80dyt63h
+LOCATION:Mox\, 1680 Mission St\, San Francisco\, CA 94103
 END:VEVENT
 BEGIN:VEVENT
 UID:wishy-with-the-umbrellas-e2a1a3d5@sf-events
