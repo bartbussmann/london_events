@@ -1,5 +1,11 @@
 [
   {
+    "ran_at": "2026-11-25T06:45:00-08:00",
+    "added": 19,
+    "considered": 152,
+    "notes": "Part 1: added Mox AI Horizons after-party (13 Dec) and holiday party (17 Dec); AISF RSI meetup moved again to 9 Dec, registration reopened; Moxgiving went private on Luma but kept; pruned 11. Part 2: freshness check of 48 events 26 Nov-1 Dec - pasta class now $55; Long Now Lost Landscapes shows 'Get Tickets' again (sold-out flags lifted). 17 adds: Imbue Friendsgiving for people away from home (Thanksgiving), SF ACX First Saturday meetup at Mox (5 Dec), MOVEMENT ecstatic dance 6 + 20 Dec, Commons Builders Night, Love Potion game night + Jane Austen reading, Hotel Utah bands, felt-ornament craft night, Persona jazz jam x2, Magic Patio, BATS Dickens Musical, Boxing Day English country dance (Berkeley), Guajiron Cuban jam, Italian Christmas market, Salesforce Park wreath-making. Blocked: SFJAZZ page (Cloudflare)."
+  },
+  {
     "ran_at": "2026-11-24T06:45:00-08:00",
     "added": 16,
     "considered": 175,
@@ -172,11 +178,5 @@
     "added": 24,
     "considered": 190,
     "notes": "First scheduled SF sweep. Part 1 suppressed 3 feed imports (Biosecurity Lightning Talks 03 full; AI Safety SF copies of two Mox events). Series filled: Woodchopper's Ball 10/17/24 Nov + 1 Dec, BACDS contra 25 Nov + 9 Dec, MOVEMENT 8 + 15 Nov, Exploratorium After Dark Creepatorium 29 Oct / Digest This 5 Nov / Rule Breakers 3 Dec, Cal Academy Pajammy Jam 12 Nov, Castro Room CI 16 Nov. New: SF Rationalist Dinner at the Metreon 28 Oct (LessWrong map), CCA blindfold pottery contest 29 Oct, 5Rhythms Emerging Waves 1 Nov, Sketchboard figure drawing 4 Nov, Conundrum StorySlam at The Marsh 10 Nov, Abiogenesis kinetic-sculpture opening Heron Arts 14 Nov, Neo-Futurists Infinite Wrench 20 Nov, comedy (Jenny Tian Cobb's 18 Nov, Greg Fitzsimmons Punch Line 3 Dec), Rickshaw Stop Cannelle 19 Nov + L'Rain 2 Dec (verified via eventim.us). SKIPPED: Bhangra & Beats Diwali night market 13 Nov (Fri 4pm, weekday rule). NOT FOUND: LessWrong Winter Solstice 2026 (no listing yet); Nerd Nite SF season ended 21 Oct; Plough and Stars November calendar not posted; Freight & Salvage still Cloudflare-blocked; Mission City Swing human-check. Pottery under $80 still scarce (RedBrick 8 Nov sold out). Spares: MOVEMENT 22/29 Nov, NightLife 19 Nov, Ocean Dance silent disco 8/15 Nov, Renegade Craft Fair 14-15 Nov."
-  },
-  {
-    "ran_at": "2026-10-26T17:30:00-07:00",
-    "added": 36,
-    "considered": 260,
-    "notes": "FIRST SF SWEEP (part B — music, folk, dance). Small rooms: Danbert Nobacon (Chumbawamba) Hotel Utah 28 Oct $10; Great Lake Swimmers Cafe du Nord 28 Oct; Jake Xerxes Fussell GAMH 11 Nov; Cactus Blossoms 14 Nov + Buck Meek 7 Dec at the Chapel; Pedro the Lion Bottom of the Hill 23 Nov; Leonard Cohen Festival 6-7 Nov; Los Gaiteros/Fruko cumbia GAMH 2 Nov; SFJAZZ picks. DANCE: BACDS SF contra Weds (28 Oct, 11 Nov — the ceilidh equivalent), SF English country 14 Nov, Woodchopper's Ball Tuesday swing at the Verdi Club, MOVEMENT Sunday ecstatic dance, Pyramid Dance 13 Nov, 5Rhythms Wild Release Fridays, Castro Room contact improv 2 Nov, Lindy in the Park, Berkeley Fest Noz 22 Nov (East Bay exception). FOLK/TRAD: Plough and Stars Sunday seisiun + set dancing + 1st-Saturday session, Maritime Museum chantey sing 7 Nov, Sacred Harp singing (private home — street address withheld). NEW SOURCES added to sources.yaml: Verdi Club (Tribe REST API), MOVEMENT/move.love, Lindy in the Park, SFFMC folk calendar, bay.dance CI calendar, Sacred Harp. BLOCKED: Rickshaw Stop + Freight & Salvage (Cloudflare even headless), Mission City Swing (WCS) human-check, SeeTickets pages bot-checked. SOLD OUT: Ezra Collective Bimbo's 12 Nov, Armand Hammer BotH 8 Nov, Lime Garden, MARIS, Earthless, SFJAZZ Coltrane class. SPARES: Woodchopper's 10/17/24 Nov + 1 Dec; contra 25 Nov; MOVEMENT 8/15/22/29 Nov; Kate Nash 15 Nov; Alice Coltrane tribute GAMH 22 Nov; THAO 8 Nov; Foy Vance 8 Nov; Craig Finn 15 Nov; Mad Dog in the Fog session 1 Nov."
   }
 ]

@@ -452,6 +452,25 @@
     "added": "2026-11-08"
   },
   {
+    "id": "friendsgiving-a-thanksgiving-night-for-people-away-from-home-5042c3ba",
+    "title": "Friendsgiving: a Thanksgiving night for people away from home (Imbue)",
+    "start": "2026-11-26T17:00:00-08:00",
+    "end": "2026-11-26T21:00:00-08:00",
+    "venue": "Imbue (exact address shared after approval)",
+    "address": null,
+    "url": "https://luma.com/iygccoj7",
+    "source": "listing:luma-sf",
+    "tags": [
+      "food",
+      "community"
+    ],
+    "price": "Free (host approval required; bring a dish to share)",
+    "description": "The AI company Imbue hosts a Thanksgiving dinner for anyone staying in town. They provide the main feast and guests bring a side, dessert, game or drink. The evening has games from 5:30pm, dinner from 6:30pm and toasts. Luma puts it in the Civic Center area and shares the address after approval.",
+    "neighbourhood": "Civic Center",
+    "cycle_minutes": 8,
+    "added": "2026-11-25"
+  },
+  {
     "id": "a-commons-friendsgiving-thanksgiving-potluck-1b662688",
     "title": "A Commons Friendsgiving (Thanksgiving potluck)",
     "start": "2026-11-26T18:00:00-08:00",
@@ -726,7 +745,7 @@
       "class",
       "food"
     ],
-    "price": "$59",
+    "price": "$55",
     "description": "Hands-on two-hour class making a classic and a beet-infused pasta dough from scratch, then cooking beet tagliatelle and butternut-squash pappardelle. You work in pairs and groups, so it's easy to chat; 4 seats left at last check.",
     "neighbourhood": "Cathedral Hill",
     "cycle_minutes": 14,
@@ -1177,7 +1196,7 @@
       "film",
       "talk"
     ],
-    "price": "Sold out",
+    "price": "$30.95 (was sold out; Long Now page shows 'Get Tickets' again as of 25 Nov)",
     "description": "The 21st annual Lost Landscapes: Prelinger Archives home movies and industrial footage of everyday SF life, shown to a deliberately noisy audience who shout out identifications and memories. It's a beloved local ritual, and a second show runs Wed Dec 2. [SOLD OUT as of 29 Oct — the Wed 2 Dec second night still has tickets.]",
     "neighbourhood": "Civic Center",
     "cycle_minutes": 9,
@@ -1344,8 +1363,8 @@
       "film",
       "talk"
     ],
-    "price": "Sold out",
-    "description": "SOLD OUT. The second night of the annual Lost Landscapes: archival home movies of everyday SF life, shown to an audience that shouts out identifications and memories. The Dec 1 show is sold out, but this one still has tickets.",
+    "price": "$30.95 (was sold out; Long Now page shows 'Get Tickets' again as of 25 Nov)",
+    "description": "The second night of the annual Lost Landscapes: archival home movies of everyday SF life, shown to an audience that shouts out identifications and memories.",
     "neighbourhood": "Civic Center",
     "cycle_minutes": 9,
     "added": "2026-10-29",
@@ -1896,6 +1915,25 @@
     "id": "ocean-beach-clean-up-golden-gate-national-parks-volunteer-mo-fa51d364"
   },
   {
+    "id": "mercatino-di-natale-italian-christmas-market-museo-italo-ame-0185c1bd",
+    "title": "Mercatino di Natale: Italian Christmas market (Museo Italo Americano)",
+    "start": "2026-12-05T10:00:00-08:00",
+    "end": "2026-12-05T18:00:00-08:00",
+    "venue": "Fort Mason Center, Building C",
+    "address": "2 Marina Blvd, San Francisco, CA 94123",
+    "url": "https://sfmuseo.org/event/mercatino2026",
+    "source": "venue:museo-italo-americano",
+    "tags": [
+      "market",
+      "food"
+    ],
+    "price": "Free",
+    "description": "The Museo Italo Americano's Italian Christmas market at Fort Mason, with Italian food, gifts and crafts (also Sun 6 Dec, 10am-5pm).",
+    "neighbourhood": "Fort Mason",
+    "cycle_minutes": 22,
+    "added": "2026-11-25"
+  },
+  {
     "title": "Sunset Holiday Mercantile: 100+ local makers, food trucks and live music",
     "start": "2026-12-05T11:00:00-08:00",
     "end": "2026-12-05T17:00:00-08:00",
@@ -1971,6 +2009,25 @@
     "cycle_minutes": 8,
     "added": "2026-10-28",
     "id": "rosanna-xia-california-against-the-sea-in-conversation-with--d9754634"
+  },
+  {
+    "id": "san-francisco-acx-meetup-first-saturday-a3a39727",
+    "title": "San Francisco ACX Meetup: First Saturday",
+    "start": "2026-12-05T13:00:00-08:00",
+    "end": "2026-12-05T16:00:00-08:00",
+    "venue": "Mox",
+    "address": "1680 Mission St, San Francisco, CA 94103",
+    "url": "https://www.lesswrong.com/events/GZYLmx7ShQZ84HZMN/san-francisco-acx-meetup-first-saturday-pov8",
+    "source": "listing:lesswrong",
+    "tags": [
+      "talk",
+      "community"
+    ],
+    "price": "Free",
+    "description": "The monthly Astral Codex Ten reader meetup at Mox. This month it discusses the book review of Lee Kuan Yew's memoirs and the classic post 'Being John Rawls'. RSVP on LessWrong or by email.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 13,
+    "added": "2026-11-25"
   },
   {
     "id": "ics-632bba21e931",
@@ -2125,6 +2182,25 @@
     "added": "2026-11-14"
   },
   {
+    "id": "movement-ecstatic-dance-sf-bex-naj-f8f588bb",
+    "title": "MOVEMENT Ecstatic Dance SF // Bex Naj",
+    "start": "2026-12-06T10:00:00-08:00",
+    "end": "2026-12-06T13:11:00-08:00",
+    "venue": "Sacred Heart Church (MOVEMENT)",
+    "address": "554 Fillmore St, San Francisco, CA 94117",
+    "url": "https://www.eventbrite.com/e/movement-ecstatic-dance-sf-bex-naj-registration-2005230507427",
+    "source": "venue:movement",
+    "tags": [
+      "dance",
+      "community"
+    ],
+    "price": "$30-$50",
+    "description": "MOVEMENT's Sunday-morning ecstatic dance in the old Sacred Heart church on Fillmore, with DJ Bex Naj. It's a community dance floor built around connecting through movement, and an easy way into SF's conscious-dance scene.",
+    "neighbourhood": "Lower Haight",
+    "cycle_minutes": 15,
+    "added": "2026-11-25"
+  },
+  {
     "title": "Lindy in the Park: free swing dancing + beginner lesson",
     "start": "2026-12-06T11:00:00-08:00",
     "end": "2026-12-06T14:00:00-08:00",
@@ -2218,6 +2294,26 @@
     "neighbourhood": "Inner Richmond",
     "cycle_minutes": 27,
     "added": "2026-11-17"
+  },
+  {
+    "id": "winterfest-wreath-making-party-at-salesforce-park-ba101886",
+    "title": "WinterFest wreath-making party at Salesforce Park",
+    "start": "2026-12-06T15:00:00-08:00",
+    "end": "2026-12-06T17:00:00-08:00",
+    "venue": "Salesforce Park",
+    "address": "425 Mission St, San Francisco, CA 94105",
+    "url": "https://www.eventbrite.com/e/2004503609255",
+    "source": "aggregator:eventbrite",
+    "tags": [
+      "workshop",
+      "outdoors",
+      "community"
+    ],
+    "price": "Free (RSVP)",
+    "description": "A free holiday wreath-making afternoon in the rooftop park right next to home, part of Salesforce Park's WinterFest.",
+    "neighbourhood": "SoMa",
+    "cycle_minutes": 3,
+    "added": "2026-11-25"
   },
   {
     "title": "Zorn / Medeski / Lombardo: Awakening Ground (matinee)",
@@ -2369,6 +2465,43 @@
     "neighbourhood": "Mission",
     "cycle_minutes": 16,
     "added": "2026-11-12"
+  },
+  {
+    "id": "builders-night-at-the-commons-4fc63058",
+    "title": "Builders Night at The Commons",
+    "start": "2026-12-07T18:30:00-08:00",
+    "end": "2026-12-07T21:00:00-08:00",
+    "venue": "The SF Commons",
+    "address": "540 Laguna St, San Francisco, CA 94102",
+    "url": "https://luma.com/the-kzt1",
+    "source": "listing:luma-sf-commons",
+    "tags": [
+      "community",
+      "workshop"
+    ],
+    "price": "Free",
+    "description": "A weekly co-working evening at The Commons: bring a project and work on it side by side with others. It opens with a circle where everyone says what they're working on, then a quiet work sprint. The organisers say it's not a networking event.",
+    "neighbourhood": "Hayes Valley",
+    "cycle_minutes": 12,
+    "added": "2026-11-25"
+  },
+  {
+    "id": "faekin-social-deduction-game-night-at-the-love-potion-librar-39d9cf20",
+    "title": "FaeKin social-deduction game night at The Love Potion Library",
+    "start": "2026-12-07T18:30:00-08:00",
+    "end": "2026-12-07T20:00:00-08:00",
+    "venue": "The Love Potion Library",
+    "address": "284 Noe St, San Francisco, CA 94114",
+    "url": "https://luma.com/h3f9xj1u",
+    "source": "venue:love-potion-library",
+    "tags": [
+      "community"
+    ],
+    "price": "$5",
+    "description": "Learn and play FaeKin, a tarot-card social-deduction game from Lioness Games with bluffing, secret duels and dramatic reveals. A low-key way to meet people in the Castro bookshop-bar.",
+    "neighbourhood": "Castro",
+    "cycle_minutes": 16,
+    "added": "2026-11-25"
   },
   {
     "id": "contact-improvisation-class-jam-at-the-castro-room-6483d0f4",
@@ -3081,6 +3214,24 @@
     "neighbourhood": "Potrero Hill",
     "cycle_minutes": 11,
     "added": "2026-11-12"
+  },
+  {
+    "id": "the-blue-wings-tropishere-transient-ghosts-at-the-hotel-utah-3491e778",
+    "title": "The Blue Wings, Tropishere, Transient Ghosts at the Hotel Utah",
+    "start": "2026-12-11T20:00:00-08:00",
+    "end": null,
+    "venue": "Hotel Utah Saloon",
+    "address": "500 4th St, San Francisco, CA 94107",
+    "url": "https://wl.seetickets.us/event/the-blue-wings-tropishere-transient-ghosts/712028?afflky=HotelUtahSaloon",
+    "source": "venue:hotel-utah",
+    "tags": [
+      "music"
+    ],
+    "price": "$12 adv / $15 door",
+    "description": "A night of local rock, synth and noise bands, with visuals by Tsarkoshka, in the tiny SoMa saloon closest to home. Show at 8pm, 21+.",
+    "neighbourhood": "SoMa",
+    "cycle_minutes": 4,
+    "added": "2026-11-25"
   },
   {
     "title": "Pop-Ups on the Plaza: Black Holiday Market at the Ferry Building",
@@ -3890,6 +4041,44 @@
     "added": "2026-11-18"
   },
   {
+    "id": "deck-the-halls-crafternoon-club-felt-gingerbread-ornaments-a-30d30706",
+    "title": "Deck the Halls: Crafternoon Club (felt gingerbread ornaments) at Madrone",
+    "start": "2026-12-17T18:00:00-08:00",
+    "end": "2026-12-17T20:00:00-08:00",
+    "venue": "Madrone Art Bar",
+    "address": "500 Divisadero St, San Francisco, CA 94117",
+    "url": "https://www.eventbrite.com/e/deck-the-halls-crafternoon-club-madrone-tickets-2004788663861",
+    "source": "aggregator:eventbrite",
+    "tags": [
+      "workshop",
+      "art"
+    ],
+    "price": "$23.18",
+    "description": "A guided, beginner-friendly holiday craft night: cut, stitch and decorate a felt gingerbread ornament to take home, with all materials included. It's at the Madrone Art Bar, so you can have a drink while you sew.",
+    "neighbourhood": "NoPa",
+    "cycle_minutes": 17,
+    "added": "2026-11-25"
+  },
+  {
+    "id": "jane-austen-reader-s-theatre-at-the-love-potion-library-7a4fa48f",
+    "title": "Jane Austen Reader's Theatre at The Love Potion Library",
+    "start": "2026-12-17T18:30:00-08:00",
+    "end": "2026-12-17T20:00:00-08:00",
+    "venue": "The Love Potion Library",
+    "address": "284 Noe St, San Francisco, CA 94114",
+    "url": "https://luma.com/5xzp73iq",
+    "source": "venue:love-potion-library",
+    "tags": [
+      "theatre",
+      "community"
+    ],
+    "price": "Free (RSVP)",
+    "description": "Local actors read selections from Jane Austen aloud, both the narration and the dialogue, to bring her wit off the page. It's a free, cosy evening in the Castro bookshop-bar.",
+    "neighbourhood": "Castro",
+    "cycle_minutes": 16,
+    "added": "2026-11-25"
+  },
+  {
     "title": "Laia Jufresa in conversation with Colin Winnette",
     "start": "2026-12-17T19:00:00-08:00",
     "end": "2026-12-17T20:30:00-08:00",
@@ -4206,6 +4395,25 @@
     "id": "the-mother-hips-annual-holiday-show-with-little-worth-71811bf9"
   },
   {
+    "id": "movement-ecstatic-dance-sf-izzy-wise-a32d85ef",
+    "title": "MOVEMENT Ecstatic Dance SF // Izzy Wise",
+    "start": "2026-12-20T10:00:00-08:00",
+    "end": "2026-12-20T13:11:00-08:00",
+    "venue": "Sacred Heart Church (MOVEMENT)",
+    "address": "554 Fillmore St, San Francisco, CA 94117",
+    "url": "https://www.eventbrite.com/e/movement-ecstatic-dance-sf-izzy-wise-registration-2005230511439",
+    "source": "venue:movement",
+    "tags": [
+      "dance",
+      "community"
+    ],
+    "price": "$30-$50",
+    "description": "MOVEMENT's Sunday-morning ecstatic dance in the old Sacred Heart church on Fillmore, with DJ Izzy Wise. It's the last Sunday dance before Christmas.",
+    "neighbourhood": "Lower Haight",
+    "cycle_minutes": 15,
+    "added": "2026-11-25"
+  },
+  {
     "id": "maum-market-sf-holiday-market-of-asian-owned-makers-at-the-f-124eca04",
     "title": "Maum Market SF: holiday market of Asian-owned makers at the Ferry Building",
     "start": "2026-12-20T11:00:00-08:00",
@@ -4411,6 +4619,24 @@
     "added": "2026-11-09"
   },
   {
+    "id": "monday-night-jazz-jam-at-persona-23c82855",
+    "title": "Monday Night Jazz Jam at Persona",
+    "start": "2026-12-21T20:00:00-08:00",
+    "end": "2026-12-22T01:30:00-08:00",
+    "venue": "Persona",
+    "address": "685 Sutter St, San Francisco, CA 94102",
+    "url": "https://www.eventbrite.com/e/monday-night-jazz-jam-persona-tickets-1978491039960",
+    "source": "aggregator:eventbrite",
+    "tags": [
+      "music"
+    ],
+    "price": "Free (optional paid tickets up to $23.18)",
+    "description": "Kyle Finley & The Dirty Works Jazz Band open a straight-ahead jazz jam in a basement cocktail bar with a pool table and popcorn. Then any player or singer can sit in, and you can also just listen.",
+    "neighbourhood": "Lower Nob Hill",
+    "cycle_minutes": 9,
+    "added": "2026-11-25"
+  },
+  {
     "title": "Hayes Valley Comedy Night at The Function",
     "start": "2026-12-22T19:30:00-08:00",
     "end": "2026-12-22T21:00:00-08:00",
@@ -4446,6 +4672,25 @@
     "neighbourhood": "Mission",
     "cycle_minutes": 15,
     "added": "2026-11-08"
+  },
+  {
+    "id": "the-magic-patio-evening-magic-and-mentalism-show-16-6fda1d55",
+    "title": "The Magic Patio: evening magic and mentalism show (16+)",
+    "start": "2026-12-22T19:30:00-08:00",
+    "end": "2026-12-22T21:00:00-08:00",
+    "venue": "The Magic Patio",
+    "address": "3264 Mission St, San Francisco, CA 94110",
+    "url": "https://www.eventbrite.com/e/magic-patio-evening-show-ages-16-tickets-2004297719433",
+    "source": "aggregator:eventbrite",
+    "tags": [
+      "theatre",
+      "comedy"
+    ],
+    "price": "$75.89",
+    "description": "Andrew Evans performs an intimate, interactive show of close-up magic and mentalism in his hidden speakeasy-style theatre. It features new illusions and favourites from the venue's 10 years.",
+    "neighbourhood": "Bernal Heights",
+    "cycle_minutes": 20,
+    "added": "2026-11-25"
   },
   {
     "id": "4th-tuesdays-kpop-skate-night-at-the-church-of-8-wheels-03b711ea",
@@ -4857,6 +5102,25 @@
     "id": "bottom-of-the-hill-holiday-matinee-top-secret-robot-alliance-961eaeab"
   },
   {
+    "id": "boxing-day-english-country-dance-in-berkeley-all-levels-5d334477",
+    "title": "Boxing Day English Country Dance in Berkeley (all levels)",
+    "start": "2026-12-26T19:30:00-08:00",
+    "end": "2026-12-26T22:00:00-08:00",
+    "venue": "Christ Church East Bay",
+    "address": "2138 Cedar St, Berkeley, CA 94709",
+    "url": "https://bacds.org/series/english/berkeley_sat/",
+    "source": "venue:bacds",
+    "tags": [
+      "dance",
+      "music"
+    ],
+    "price": "$20 ($25+ supporters)",
+    "description": "BACDS opens its usually experienced-only 4th Saturday English dance to all levels for Boxing Day, with caller Sharon Green and a live band ('expect a surplus of accordions'). Take BART from Montgomery to Downtown Berkeley (~25 min), then walk about 10 minutes.",
+    "neighbourhood": "Berkeley",
+    "cycle_minutes": null,
+    "added": "2026-11-25"
+  },
+  {
     "title": "Chuck Prophet",
     "start": "2026-12-26T20:00:00-08:00",
     "end": null,
@@ -4873,6 +5137,26 @@
     "cycle_minutes": 13,
     "added": "2026-10-30",
     "id": "chuck-prophet-33325035"
+  },
+  {
+    "id": "bats-improv-an-improvised-dickens-musical-boxing-day-show-577b41d6",
+    "title": "BATS Improv: An Improvised Dickens Musical (Boxing Day show)",
+    "start": "2026-12-26T20:00:00-08:00",
+    "end": "2026-12-26T22:00:00-08:00",
+    "venue": "BATS Bayfront Theatre, Fort Mason Center",
+    "address": "2 Marina Blvd, Building B, 3rd Floor, San Francisco, CA 94123",
+    "url": "https://www.eventbrite.com/e/bats-improv-presents-an-improvised-dickens-musical-12526-122626-sho-tickets-1991875264536",
+    "source": "venue:bats-improv",
+    "tags": [
+      "comedy",
+      "theatre",
+      "music"
+    ],
+    "price": "$17.79-$28.45",
+    "description": "The last night of BATS' fully improvised Victorian-London holiday musical, made up on the spot from audience suggestions with live accompaniment.",
+    "neighbourhood": "Fort Mason",
+    "cycle_minutes": 22,
+    "added": "2026-11-25"
   },
   {
     "id": "movement-ecstatic-dance-sf-alia-22a244f6",
@@ -4950,6 +5234,25 @@
     "id": "mark-eitzel-funeral-cake-strange-cities-devoted-fans-more-95db3a96"
   },
   {
+    "id": "cuban-jam-with-guajir-n-at-the-boom-boom-room-12daea26",
+    "title": "Cuban Jam with Guajirón at the Boom Boom Room",
+    "start": "2026-12-27T19:30:00-08:00",
+    "end": "2026-12-27T23:30:00-08:00",
+    "venue": "Boom Boom Room",
+    "address": "1601 Fillmore St, San Francisco, CA 94115",
+    "url": "https://guajiron.com/shows/boom-boom-room-cuban-jam-2026-12-27/",
+    "source": "aggregator:eventbrite",
+    "tags": [
+      "music",
+      "dance"
+    ],
+    "price": "Free",
+    "description": "Guajirón play a live Afro-Cuban set for salsa dancing, and musicians are welcome to sit in. It's a free Sunday-night party in a Fillmore music bar.",
+    "neighbourhood": "Fillmore",
+    "cycle_minutes": 17,
+    "added": "2026-11-25"
+  },
+  {
     "title": "Jerry's Middle Finger",
     "start": "2026-12-27T20:00:00-08:00",
     "end": null,
@@ -5024,6 +5327,24 @@
     "cycle_minutes": 13,
     "added": "2026-11-04",
     "id": "circuit-hacking-monday-open-electronics-workshop-at-noisebri-e2fb2ba8"
+  },
+  {
+    "id": "monday-night-jazz-jam-at-persona-bae52092",
+    "title": "Monday Night Jazz Jam at Persona",
+    "start": "2026-12-28T20:00:00-08:00",
+    "end": "2026-12-29T01:30:00-08:00",
+    "venue": "Persona",
+    "address": "685 Sutter St, San Francisco, CA 94102",
+    "url": "https://www.eventbrite.com/e/monday-night-jazz-jam-persona-tickets-1978491040963",
+    "source": "aggregator:eventbrite",
+    "tags": [
+      "music"
+    ],
+    "price": "Free (optional paid tickets up to $23.18)",
+    "description": "Kyle Finley & The Dirty Works Jazz Band open a straight-ahead jazz jam in a basement cocktail bar with a pool table and popcorn. Then any player or singer can sit in, and you can also just listen.",
+    "neighbourhood": "Lower Nob Hill",
+    "cycle_minutes": 9,
+    "added": "2026-11-25"
   },
   {
     "id": "free-bluegrass-jam-concert-at-blondie-s-937550c3",

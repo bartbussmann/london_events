@@ -363,6 +363,23 @@ LOCATION:Harry Bridges Plaza (across from the Ferry Building)\, The Embarc
  adero at Market St\, San Francisco\, CA 94111
 END:VEVENT
 BEGIN:VEVENT
+UID:friendsgiving-a-thanksgiving-night-for-people-away-from-home-5042c3ba@
+ sf-events
+DTSTAMP:20261127T010000Z
+DTSTART:20261127T010000Z
+DTEND:20261127T050000Z
+SUMMARY:Friendsgiving: a Thanksgiving night for people away from home (Imb
+ ue)
+DESCRIPTION:The AI company Imbue hosts a Thanksgiving dinner for anyone st
+ aying in town. They provide the main feast and guests bring a side\, dess
+ ert\, game or drink. The evening has games from 5:30pm\, dinner from 6:30
+ pm and toasts. Luma puts it in the Civic Center area and shares the addre
+ ss after approval.\nPrice: Free (host approval required\; bring a dish to
+  share)\nhttps://luma.com/iygccoj7
+URL:https://luma.com/iygccoj7
+LOCATION:Imbue (exact address shared after approval)
+END:VEVENT
+BEGIN:VEVENT
 UID:a-commons-friendsgiving-thanksgiving-potluck-1b662688@sf-events
 DTSTAMP:20261127T020000Z
 DTSTART:20261127T020000Z
@@ -584,7 +601,7 @@ SUMMARY:Cooking class: Fresh Pasta in Color
 DESCRIPTION:Hands-on two-hour class making a classic and a beet-infused pa
  sta dough from scratch\, then cooking beet tagliatelle and butternut-squa
  sh pappardelle. You work in pairs and groups\, so it's easy to chat\; 4 s
- eats left at last check.\nPrice: $59\nhttps://www.cocusocial.com/newevent
+ eats left at last check.\nPrice: $55\nhttps://www.cocusocial.com/newevent
  /San-Francisco_Fresh-Pasta-in-Color_2026-Nov-28
 URL:https://www.cocusocial.com/newevent/San-Francisco_Fresh-Pasta-in-Color
  _2026-Nov-28
@@ -940,8 +957,9 @@ DESCRIPTION:The 21st annual Lost Landscapes: Prelinger Archives home movie
  s and industrial footage of everyday SF life\, shown to a deliberately no
  isy audience who shout out identifications and memories. It's a beloved l
  ocal ritual\, and a second show runs Wed Dec 2. [SOLD OUT as of 29 Oct 
- — the Wed 2 Dec second night still has tickets.]\nPrice: Sold out\nhttp
- s://longnow.org/talks/02026-prelinger/
+ — the Wed 2 Dec second night still has tickets.]\nPrice: $30.95 (was so
+ ld out\; Long Now page shows 'Get Tickets' again as of 25 Nov)\nhttps://l
+ ongnow.org/talks/02026-prelinger/
 URL:https://longnow.org/talks/02026-prelinger/
 LOCATION:Herbst Theatre\, 401 Van Ness Ave\, San Francisco\, CA 94102
 END:VEVENT
@@ -1073,11 +1091,11 @@ DTSTAMP:20261203T030000Z
 DTSTART:20261203T030000Z
 DTEND:20261203T050000Z
 SUMMARY:Long Now: Lost Landscapes 02026 with Rick Prelinger (second night)
-DESCRIPTION:SOLD OUT. The second night of the annual Lost Landscapes: arch
- ival home movies of everyday SF life\, shown to an audience that shouts o
- ut identifications and memories. The Dec 1 show is sold out\, but this on
- e still has tickets.\nPrice: Sold out\nhttps://longnow.org/talks/02026-pr
- elinger/
+DESCRIPTION:The second night of the annual Lost Landscapes: archival home 
+ movies of everyday SF life\, shown to an audience that shouts out identif
+ ications and memories.\nPrice: $30.95 (was sold out\; Long Now page shows
+  'Get Tickets' again as of 25 Nov)\nhttps://longnow.org/talks/02026-preli
+ nger/
 URL:https://longnow.org/talks/02026-prelinger/
 LOCATION:Herbst Theatre\, 401 Van Ness Ave\, San Francisco\, CA 94102
 END:VEVENT
@@ -1523,6 +1541,21 @@ LOCATION:Ocean Beach\, Stairwell 17\, Great Highway at Stairwell 17\, San
  Francisco\, CA 94121
 END:VEVENT
 BEGIN:VEVENT
+UID:mercatino-di-natale-italian-christmas-market-museo-italo-ame-0185c1bd@
+ sf-events
+DTSTAMP:20261205T180000Z
+DTSTART:20261205T180000Z
+DTEND:20261206T020000Z
+SUMMARY:Mercatino di Natale: Italian Christmas market (Museo Italo America
+ no)
+DESCRIPTION:The Museo Italo Americano's Italian Christmas market at Fort M
+ ason\, with Italian food\, gifts and crafts (also Sun 6 Dec\, 10am-5pm).\
+ nPrice: Free\nhttps://sfmuseo.org/event/mercatino2026
+URL:https://sfmuseo.org/event/mercatino2026
+LOCATION:Fort Mason Center\, Building C\, 2 Marina Blvd\, San Francisco\, 
+ CA 94123
+END:VEVENT
+BEGIN:VEVENT
 UID:sunset-holiday-mercantile-100-local-makers-food-trucks-and-l-9033f842@
  sf-events
 DTSTAMP:20261205T190000Z
@@ -1582,6 +1615,21 @@ URL:https://sfpl.org/events/2026/12/05/author-rosanna-xia-conversation-mar
  ina-psaros
 LOCATION:San Francisco Main Library\, Koret Auditorium\, 100 Larkin St\, S
  an Francisco\, CA 94102
+END:VEVENT
+BEGIN:VEVENT
+UID:san-francisco-acx-meetup-first-saturday-a3a39727@sf-events
+DTSTAMP:20261205T210000Z
+DTSTART:20261205T210000Z
+DTEND:20261206T000000Z
+SUMMARY:San Francisco ACX Meetup: First Saturday
+DESCRIPTION:The monthly Astral Codex Ten reader meetup at Mox. This month 
+ it discusses the book review of Lee Kuan Yew's memoirs and the classic po
+ st 'Being John Rawls'. RSVP on LessWrong or by email.\nPrice: Free\nhttps
+ ://www.lesswrong.com/events/GZYLmx7ShQZ84HZMN/san-francisco-acx-meetup-fi
+ rst-saturday-pov8
+URL:https://www.lesswrong.com/events/GZYLmx7ShQZ84HZMN/san-francisco-acx-m
+ eetup-first-saturday-pov8
+LOCATION:Mox\, 1680 Mission St\, San Francisco\, CA 94103
 END:VEVENT
 BEGIN:VEVENT
 UID:ics-632bba21e931@sf-events
@@ -1699,6 +1747,22 @@ URL:https://www.zinnbookfair.org/
 LOCATION:CCSF Mission Campus\, 1125 Valencia St\, San Francisco\, CA 94110
 END:VEVENT
 BEGIN:VEVENT
+UID:movement-ecstatic-dance-sf-bex-naj-f8f588bb@sf-events
+DTSTAMP:20261206T180000Z
+DTSTART:20261206T180000Z
+DTEND:20261206T211100Z
+SUMMARY:MOVEMENT Ecstatic Dance SF // Bex Naj
+DESCRIPTION:MOVEMENT's Sunday-morning ecstatic dance in the old Sacred Hea
+ rt church on Fillmore\, with DJ Bex Naj. It's a community dance floor bui
+ lt around connecting through movement\, and an easy way into SF's conscio
+ us-dance scene.\nPrice: $30-$50\nhttps://www.eventbrite.com/e/movement-ec
+ static-dance-sf-bex-naj-registration-2005230507427
+URL:https://www.eventbrite.com/e/movement-ecstatic-dance-sf-bex-naj-regist
+ ration-2005230507427
+LOCATION:Sacred Heart Church (MOVEMENT)\, 554 Fillmore St\, San Francisco\
+ , CA 94117
+END:VEVENT
+BEGIN:VEVENT
 UID:lindy-in-the-park-free-swing-dancing-beginner-lesson-dc7186a2@sf-event
  s
 DTSTAMP:20261206T190000Z
@@ -1768,6 +1832,18 @@ DESCRIPTION:An afternoon traditional Irish music session at SF's home of t
  .theploughandstars.com/
 URL:https://www.theploughandstars.com/
 LOCATION:The Plough and Stars\, 116 Clement St\, San Francisco\, CA 94118
+END:VEVENT
+BEGIN:VEVENT
+UID:winterfest-wreath-making-party-at-salesforce-park-ba101886@sf-events
+DTSTAMP:20261206T230000Z
+DTSTART:20261206T230000Z
+DTEND:20261207T010000Z
+SUMMARY:WinterFest wreath-making party at Salesforce Park
+DESCRIPTION:A free holiday wreath-making afternoon in the rooftop park rig
+ ht next to home\, part of Salesforce Park's WinterFest.\nPrice: Free (RSV
+ P)\nhttps://www.eventbrite.com/e/2004503609255
+URL:https://www.eventbrite.com/e/2004503609255
+LOCATION:Salesforce Park\, 425 Mission St\, San Francisco\, CA 94105
 END:VEVENT
 BEGIN:VEVENT
 UID:zorn-medeski-lombardo-awakening-ground-matinee-e80e74b6@sf-events
@@ -1886,6 +1962,34 @@ DESCRIPTION:Sketchboard Co.'s two-hour drop-in life drawing session with a
 URL:https://book.squareup.com/classes/uj53t4hfgkzllp/location/DYSM7QRDVFWX
  7/classes
 LOCATION:Sin Miedo Gallery\, 2831 Mission St\, San Francisco\, CA 94110
+END:VEVENT
+BEGIN:VEVENT
+UID:builders-night-at-the-commons-4fc63058@sf-events
+DTSTAMP:20261208T023000Z
+DTSTART:20261208T023000Z
+DTEND:20261208T050000Z
+SUMMARY:Builders Night at The Commons
+DESCRIPTION:A weekly co-working evening at The Commons: bring a project an
+ d work on it side by side with others. It opens with a circle where every
+ one says what they're working on\, then a quiet work sprint. The organise
+ rs say it's not a networking event.\nPrice: Free\nhttps://luma.com/the-kz
+ t1
+URL:https://luma.com/the-kzt1
+LOCATION:The SF Commons\, 540 Laguna St\, San Francisco\, CA 94102
+END:VEVENT
+BEGIN:VEVENT
+UID:faekin-social-deduction-game-night-at-the-love-potion-librar-39d9cf20@
+ sf-events
+DTSTAMP:20261208T023000Z
+DTSTART:20261208T023000Z
+DTEND:20261208T040000Z
+SUMMARY:FaeKin social-deduction game night at The Love Potion Library
+DESCRIPTION:Learn and play FaeKin\, a tarot-card social-deduction game fro
+ m Lioness Games with bluffing\, secret duels and dramatic reveals. A low-
+ key way to meet people in the Castro bookshop-bar.\nPrice: $5\nhttps://lu
+ ma.com/h3f9xj1u
+URL:https://luma.com/h3f9xj1u
+LOCATION:The Love Potion Library\, 284 Noe St\, San Francisco\, CA 94114
 END:VEVENT
 BEGIN:VEVENT
 UID:contact-improvisation-class-jam-at-the-castro-room-6483d0f4@sf-events
@@ -2439,6 +2543,21 @@ DESCRIPTION:Friday-night bachata: classes at three levels\, including a tr
  lab-tickets-1543049014139
 URL:https://www.eventbrite.com/e/bachata-lab-tickets-1543049014139
 LOCATION:Bachata Lab\, 1830 17th St\, San Francisco\, CA 94103
+END:VEVENT
+BEGIN:VEVENT
+UID:the-blue-wings-tropishere-transient-ghosts-at-the-hotel-utah-3491e778@
+ sf-events
+DTSTAMP:20261212T040000Z
+DTSTART:20261212T040000Z
+DTEND:20261212T060000Z
+SUMMARY:The Blue Wings\, Tropishere\, Transient Ghosts at the Hotel Utah
+DESCRIPTION:A night of local rock\, synth and noise bands\, with visuals b
+ y Tsarkoshka\, in the tiny SoMa saloon closest to home. Show at 8pm\, 21+
+ .\nPrice: $12 adv / $15 door\nhttps://wl.seetickets.us/event/the-blue-win
+ gs-tropishere-transient-ghosts/712028?afflky=HotelUtahSaloon
+URL:https://wl.seetickets.us/event/the-blue-wings-tropishere-transient-gho
+ sts/712028?afflky=HotelUtahSaloon
+LOCATION:Hotel Utah Saloon\, 500 4th St\, San Francisco\, CA 94107
 END:VEVENT
 BEGIN:VEVENT
 UID:pop-ups-on-the-plaza-black-holiday-market-at-the-ferry-build-a8356bc6@
@@ -3086,6 +3205,37 @@ LOCATION:The Academy SF (start) + Castro bars and restaurants\, 2166 Marke
  t St\, San Francisco\, CA 94114
 END:VEVENT
 BEGIN:VEVENT
+UID:deck-the-halls-crafternoon-club-felt-gingerbread-ornaments-a-30d30706@
+ sf-events
+DTSTAMP:20261218T020000Z
+DTSTART:20261218T020000Z
+DTEND:20261218T040000Z
+SUMMARY:Deck the Halls: Crafternoon Club (felt gingerbread ornaments) at M
+ adrone
+DESCRIPTION:A guided\, beginner-friendly holiday craft night: cut\, stitch
+  and decorate a felt gingerbread ornament to take home\, with all materia
+ ls included. It's at the Madrone Art Bar\, so you can have a drink while 
+ you sew.\nPrice: $23.18\nhttps://www.eventbrite.com/e/deck-the-halls-craf
+ ternoon-club-madrone-tickets-2004788663861
+URL:https://www.eventbrite.com/e/deck-the-halls-crafternoon-club-madrone-t
+ ickets-2004788663861
+LOCATION:Madrone Art Bar\, 500 Divisadero St\, San Francisco\, CA 94117
+END:VEVENT
+BEGIN:VEVENT
+UID:jane-austen-reader-s-theatre-at-the-love-potion-library-7a4fa48f@sf-ev
+ ents
+DTSTAMP:20261218T023000Z
+DTSTART:20261218T023000Z
+DTEND:20261218T040000Z
+SUMMARY:Jane Austen Reader's Theatre at The Love Potion Library
+DESCRIPTION:Local actors read selections from Jane Austen aloud\, both the
+  narration and the dialogue\, to bring her wit off the page. It's a free\
+ , cosy evening in the Castro bookshop-bar.\nPrice: Free (RSVP)\nhttps://l
+ uma.com/5xzp73iq
+URL:https://luma.com/5xzp73iq
+LOCATION:The Love Potion Library\, 284 Noe St\, San Francisco\, CA 94114
+END:VEVENT
+BEGIN:VEVENT
 UID:laia-jufresa-in-conversation-with-colin-winnette-7636679f@sf-events
 DTSTAMP:20261218T030000Z
 DTSTART:20261218T030000Z
@@ -3351,6 +3501,21 @@ LOCATION:Great American Music Hall\, 859 O'Farrell St\, San Francisco\, CA
   94109
 END:VEVENT
 BEGIN:VEVENT
+UID:movement-ecstatic-dance-sf-izzy-wise-a32d85ef@sf-events
+DTSTAMP:20261220T180000Z
+DTSTART:20261220T180000Z
+DTEND:20261220T211100Z
+SUMMARY:MOVEMENT Ecstatic Dance SF // Izzy Wise
+DESCRIPTION:MOVEMENT's Sunday-morning ecstatic dance in the old Sacred Hea
+ rt church on Fillmore\, with DJ Izzy Wise. It's the last Sunday dance bef
+ ore Christmas.\nPrice: $30-$50\nhttps://www.eventbrite.com/e/movement-ecs
+ tatic-dance-sf-izzy-wise-registration-2005230511439
+URL:https://www.eventbrite.com/e/movement-ecstatic-dance-sf-izzy-wise-regi
+ stration-2005230511439
+LOCATION:Sacred Heart Church (MOVEMENT)\, 554 Fillmore St\, San Francisco\
+ , CA 94117
+END:VEVENT
+BEGIN:VEVENT
 UID:maum-market-sf-holiday-market-of-asian-owned-makers-at-the-f-124eca04@
  sf-events
 DTSTAMP:20261220T190000Z
@@ -3509,6 +3674,21 @@ URL:http://www.bottomofthehill.com/20261221.html
 LOCATION:Bottom of the Hill\, 1233 17th St\, San Francisco\, CA 94107
 END:VEVENT
 BEGIN:VEVENT
+UID:monday-night-jazz-jam-at-persona-23c82855@sf-events
+DTSTAMP:20261222T040000Z
+DTSTART:20261222T040000Z
+DTEND:20261222T093000Z
+SUMMARY:Monday Night Jazz Jam at Persona
+DESCRIPTION:Kyle Finley & The Dirty Works Jazz Band open a straight-ahead 
+ jazz jam in a basement cocktail bar with a pool table and popcorn. Then a
+ ny player or singer can sit in\, and you can also just listen.\nPrice: Fr
+ ee (optional paid tickets up to $23.18)\nhttps://www.eventbrite.com/e/mon
+ day-night-jazz-jam-persona-tickets-1978491039960
+URL:https://www.eventbrite.com/e/monday-night-jazz-jam-persona-tickets-197
+ 8491039960
+LOCATION:Persona\, 685 Sutter St\, San Francisco\, CA 94102
+END:VEVENT
+BEGIN:VEVENT
 UID:hayes-valley-comedy-night-at-the-function-dc200657@sf-events
 DTSTAMP:20261223T033000Z
 DTSTART:20261223T033000Z
@@ -3537,6 +3717,21 @@ DESCRIPTION:A free songwriters' circle at the Make-Out Room\, with players
 URL:https://www.calendarwiz.com/calendars/calendar.php?crd=makeoutroom&op=
  cal&month=12&year=2026
 LOCATION:Make-Out Room\, 3225 22nd St\, San Francisco\, CA 94110
+END:VEVENT
+BEGIN:VEVENT
+UID:the-magic-patio-evening-magic-and-mentalism-show-16-6fda1d55@sf-events
+DTSTAMP:20261223T033000Z
+DTSTART:20261223T033000Z
+DTEND:20261223T050000Z
+SUMMARY:The Magic Patio: evening magic and mentalism show (16+)
+DESCRIPTION:Andrew Evans performs an intimate\, interactive show of close-
+ up magic and mentalism in his hidden speakeasy-style theatre. It features
+  new illusions and favourites from the venue's 10 years.\nPrice: $75.89\n
+ https://www.eventbrite.com/e/magic-patio-evening-show-ages-16-tickets-200
+ 4297719433
+URL:https://www.eventbrite.com/e/magic-patio-evening-show-ages-16-tickets-
+ 2004297719433
+LOCATION:The Magic Patio\, 3264 Mission St\, San Francisco\, CA 94110
 END:VEVENT
 BEGIN:VEVENT
 UID:4th-tuesdays-kpop-skate-night-at-the-church-of-8-wheels-03b711ea@sf-ev
@@ -3877,6 +4072,21 @@ URL:http://www.bottomofthehill.com/20261226.html
 LOCATION:Bottom of the Hill\, 1233 17th St\, San Francisco\, CA 94107
 END:VEVENT
 BEGIN:VEVENT
+UID:boxing-day-english-country-dance-in-berkeley-all-levels-5d334477@sf-ev
+ ents
+DTSTAMP:20261227T033000Z
+DTSTART:20261227T033000Z
+DTEND:20261227T060000Z
+SUMMARY:Boxing Day English Country Dance in Berkeley (all levels)
+DESCRIPTION:BACDS opens its usually experienced-only 4th Saturday English 
+ dance to all levels for Boxing Day\, with caller Sharon Green and a live 
+ band ('expect a surplus of accordions'). Take BART from Montgomery to Dow
+ ntown Berkeley (~25 min)\, then walk about 10 minutes.\nPrice: $20 ($25+ 
+ supporters)\nhttps://bacds.org/series/english/berkeley_sat/
+URL:https://bacds.org/series/english/berkeley_sat/
+LOCATION:Christ Church East Bay\, 2138 Cedar St\, Berkeley\, CA 94709
+END:VEVENT
+BEGIN:VEVENT
 UID:chuck-prophet-33325035@sf-events
 DTSTAMP:20261227T040000Z
 DTSTART:20261227T040000Z
@@ -3888,6 +4098,23 @@ DESCRIPTION:SF's own roots-rock songwriter (ex-Green on Red) plays a post-
  /event/chuck-prophet/706760?afflky=TheChapel
 URL:https://wl.seetickets.us/event/chuck-prophet/706760?afflky=TheChapel
 LOCATION:The Chapel\, 777 Valencia St\, San Francisco\, CA 94110
+END:VEVENT
+BEGIN:VEVENT
+UID:bats-improv-an-improvised-dickens-musical-boxing-day-show-577b41d6@sf-
+ events
+DTSTAMP:20261227T040000Z
+DTSTART:20261227T040000Z
+DTEND:20261227T060000Z
+SUMMARY:BATS Improv: An Improvised Dickens Musical (Boxing Day show)
+DESCRIPTION:The last night of BATS' fully improvised Victorian-London holi
+ day musical\, made up on the spot from audience suggestions with live acc
+ ompaniment.\nPrice: $17.79-$28.45\nhttps://www.eventbrite.com/e/bats-impr
+ ov-presents-an-improvised-dickens-musical-12526-122626-sho-tickets-199187
+ 5264536
+URL:https://www.eventbrite.com/e/bats-improv-presents-an-improvised-dicken
+ s-musical-12526-122626-sho-tickets-1991875264536
+LOCATION:BATS Bayfront Theatre\, Fort Mason Center\, 2 Marina Blvd\, Build
+ ing B\, 3rd Floor\, San Francisco\, CA 94123
 END:VEVENT
 BEGIN:VEVENT
 UID:movement-ecstatic-dance-sf-alia-22a244f6@sf-events
@@ -3944,6 +4171,19 @@ DESCRIPTION:American Music Club's Mark Eitzel headlines a $10 all-ages aft
  Doors 4pm.\nPrice: $10\nhttp://www.bottomofthehill.com/20261227.html
 URL:http://www.bottomofthehill.com/20261227.html
 LOCATION:Bottom of the Hill\, 1233 17th St\, San Francisco\, CA 94107
+END:VEVENT
+BEGIN:VEVENT
+UID:cuban-jam-with-guajir-n-at-the-boom-boom-room-12daea26@sf-events
+DTSTAMP:20261228T033000Z
+DTSTART:20261228T033000Z
+DTEND:20261228T073000Z
+SUMMARY:Cuban Jam with Guajirón at the Boom Boom Room
+DESCRIPTION:Guajirón play a live Afro-Cuban set for salsa dancing\, and m
+ usicians are welcome to sit in. It's a free Sunday-night party in a Fillm
+ ore music bar.\nPrice: Free\nhttps://guajiron.com/shows/boom-boom-room-cu
+ ban-jam-2026-12-27/
+URL:https://guajiron.com/shows/boom-boom-room-cuban-jam-2026-12-27/
+LOCATION:Boom Boom Room\, 1601 Fillmore St\, San Francisco\, CA 94115
 END:VEVENT
 BEGIN:VEVENT
 UID:jerry-s-middle-finger-fd53971c@sf-events
@@ -4003,6 +4243,21 @@ DESCRIPTION:The same weekly open electronics night at the Mission hackersp
  ps://www.meetup.com/noisebridge/events/317172035/
 URL:https://www.meetup.com/noisebridge/events/317172035/
 LOCATION:Noisebridge hackerspace\, 272 Capp St\, San Francisco\, CA 94110
+END:VEVENT
+BEGIN:VEVENT
+UID:monday-night-jazz-jam-at-persona-bae52092@sf-events
+DTSTAMP:20261229T040000Z
+DTSTART:20261229T040000Z
+DTEND:20261229T093000Z
+SUMMARY:Monday Night Jazz Jam at Persona
+DESCRIPTION:Kyle Finley & The Dirty Works Jazz Band open a straight-ahead 
+ jazz jam in a basement cocktail bar with a pool table and popcorn. Then a
+ ny player or singer can sit in\, and you can also just listen.\nPrice: Fr
+ ee (optional paid tickets up to $23.18)\nhttps://www.eventbrite.com/e/mon
+ day-night-jazz-jam-persona-tickets-1978491040963
+URL:https://www.eventbrite.com/e/monday-night-jazz-jam-persona-tickets-197
+ 8491040963
+LOCATION:Persona\, 685 Sutter St\, San Francisco\, CA 94102
 END:VEVENT
 BEGIN:VEVENT
 UID:free-bluegrass-jam-concert-at-blondie-s-937550c3@sf-events
