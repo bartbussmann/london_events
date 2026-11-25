@@ -1,212 +1,5 @@
 [
   {
-    "id": "5rhythms-sweat-your-prayers-with-majica-alba-sunday-morning--0c505c93",
-    "title": "5Rhythms Sweat Your Prayers with Majica Alba (Sunday morning wave)",
-    "start": "2026-11-22T09:00:00-08:00",
-    "end": "2026-11-22T10:45:00-08:00",
-    "venue": "ABADA-Capoeira San Francisco",
-    "address": "3221 22nd St, San Francisco, CA 94110",
-    "url": "https://momence.com/s/139444037",
-    "source": "venue:the-city-waves",
-    "tags": [
-      "dance"
-    ],
-    "price": "$35 drop-in",
-    "description": "The City Waves' Sunday-morning 5Rhythms wave, led this week by Majica Alba. It's a guided, no-steps moving meditation through the five rhythms, and no experience or partner is needed.",
-    "neighbourhood": "Mission",
-    "cycle_minutes": 15,
-    "added": "2026-11-12"
-  },
-  {
-    "title": "MOVEMENT Ecstatic Dance SF // Boogiemeister",
-    "start": "2026-11-22T10:00:00-08:00",
-    "end": "2026-11-22T13:11:00-08:00",
-    "venue": "Sacred Heart Church (MOVEMENT)",
-    "address": "554 Fillmore St, San Francisco, CA 94117",
-    "url": "https://www.eventbrite.com/e/movement-ecstatic-dance-sf-boogiemeister-registration-2003799528330",
-    "source": "venue:movement",
-    "tags": [
-      "dance",
-      "community"
-    ],
-    "price": "$30-$40",
-    "description": "The weekly Sunday-morning ecstatic dance in the nave of a landmark church, this week with DJ Boogiemeister. It's phone-free and substance-free, with an opening circle and a long DJ journey. This is the only Sunday in November not yet on the calendar.",
-    "neighbourhood": "Lower Haight",
-    "cycle_minutes": 15,
-    "added": "2026-10-30",
-    "id": "movement-ecstatic-dance-sf-boogiemeister-50fb1dd1"
-  },
-  {
-    "title": "Fall Holiday Chocolate Salon and Festival",
-    "start": "2026-11-22T11:00:00-08:00",
-    "end": "2026-11-22T16:30:00-08:00",
-    "venue": "San Francisco County Fair Building (Hall of Flowers), Golden Gate Park",
-    "address": "1199 9th Ave (at Lincoln Way), San Francisco, CA 94122",
-    "url": "https://www.eventbrite.com/e/fall-holiday-chocolate-salon-and-festival-2026-tickets-1992262091546",
-    "source": "aggregator:eventbrite",
-    "tags": [
-      "food",
-      "market"
-    ],
-    "price": "$13.07-$21.99",
-    "description": "A tasting fair of artisan and craft chocolatiers and confectioners in Golden Gate Park's County Fair Building. You sample and buy direct from the makers.",
-    "neighbourhood": "Golden Gate Park",
-    "cycle_minutes": 27,
-    "added": "2026-10-28",
-    "id": "fall-holiday-chocolate-salon-and-festival-5e47cead"
-  },
-  {
-    "title": "intergalactic improvisations: dance improv workshop with Bhumi Patel",
-    "start": "2026-11-22T11:30:00-08:00",
-    "end": "2026-11-22T13:15:00-08:00",
-    "venue": "PUSH Dance Company (The Sanctuary)",
-    "address": "447 Minna St, 3rd Floor, San Francisco, CA 94103",
-    "url": "https://www.eventbrite.com/e/intergalactic-improvisations-tickets-2003988846586",
-    "source": "aggregator:eventbrite",
-    "tags": [
-      "dance",
-      "workshop"
-    ],
-    "price": "$12.51-$28.52 sliding scale",
-    "description": "A dance and movement improvisation workshop led by choreographer Bhumi Patel, for curious movers of any background. A near neighbour of contact improv, five minutes from home.",
-    "neighbourhood": "SoMa",
-    "cycle_minutes": 5,
-    "added": "2026-11-05",
-    "id": "intergalactic-improvisations-dance-improv-workshop-with-bhum-90d7c05d"
-  },
-  {
-    "title": "Annalee Newitz in conversation with Soleil Ho: Automatic Noodle",
-    "start": "2026-11-22T14:00:00-08:00",
-    "end": "2026-11-22T15:30:00-08:00",
-    "venue": "San Francisco Main Library, Koret Auditorium",
-    "address": "100 Larkin St, San Francisco, CA 94102",
-    "url": "https://sfpl.org/events/2026/11/22/author-annalee-newitz-conversation-soleil-ho",
-    "source": "venue:sfpl",
-    "tags": [
-      "talk",
-      "tech",
-      "food"
-    ],
-    "price": "Free",
-    "description": "Science journalist and SF author Annalee Newitz talks with food critic Soleil Ho about automation, labor and community, through Newitz's novel about friends who build a robot-run restaurant.",
-    "neighbourhood": "Civic Center",
-    "cycle_minutes": 8,
-    "added": "2026-10-28",
-    "id": "annalee-newitz-in-conversation-with-soleil-ho-automatic-nood-64ebbbf5"
-  },
-  {
-    "id": "redbrick-ceramic-studio-tasha-colby-artist-talk-clay-demo-e13c3d39",
-    "title": "RedBrick Ceramic Studio: Tasha Colby artist talk + clay demo",
-    "start": "2026-11-22T14:00:00-08:00",
-    "end": "2026-11-22T16:00:00-08:00",
-    "venue": "RedBrick Ceramic Studio",
-    "address": "2111 Mission St (3rd floor), San Francisco, CA",
-    "url": "https://www.eventbrite.com/e/tasha-colby-artist-talk-pop-up-at-redbrick-ceramic-studio-tickets-2002985500551",
-    "source": "aggregator:funcheap",
-    "tags": [
-      "art",
-      "talk",
-      "community"
-    ],
-    "price": "Free",
-    "description": "Self-taught ceramicist Tasha Colby talks about learning clay through curiosity and community, then gives a demonstration; refreshments provided. Good way to scope out a Mission pottery studio.",
-    "neighbourhood": "Mission",
-    "cycle_minutes": 13,
-    "added": "2026-11-07"
-  },
-  {
-    "title": "Flamenco Libre (matinee)",
-    "start": "2026-11-22T16:45:00-08:00",
-    "end": "2026-11-22T19:00:00-08:00",
-    "venue": "The Lost Church",
-    "address": "988 Columbus Ave, San Francisco, CA 94133",
-    "url": "https://thelostchurch.my.salesforce-sites.com/ticket#/instances/a0FUh00000DcQhxMAF",
-    "source": "venue:the-lost-church",
-    "tags": [
-      "music",
-      "dance"
-    ],
-    "price": "$25",
-    "description": "Flamenco dance and music with dancers Damien Alvarez and Carola Zertuche (Theatre Flamenco), guitar, cante and cajon, in an intimate North Beach room. Doors 4pm, one intermission.",
-    "neighbourhood": "North Beach",
-    "cycle_minutes": 13,
-    "added": "2026-11-06",
-    "id": "flamenco-libre-matinee-21bab3c2"
-  },
-  {
-    "id": "we-bought-a-gun-sf-neo-futurists-closing-performance-686ab6d5",
-    "title": "We Bought A Gun! (SF Neo-Futurists, closing performance)",
-    "start": "2026-11-22T18:00:00-08:00",
-    "end": "2026-11-22T19:30:00-08:00",
-    "venue": "447 Minna St",
-    "address": "447 Minna St, San Francisco, CA 94103",
-    "url": "https://www.eventbrite.com/e/we-bought-a-gun-tickets-2002354020778",
-    "source": "venue:sf-neo-futurists",
-    "tags": [
-      "theatre"
-    ],
-    "price": "$34-$55",
-    "description": "A new full-length play from the SF Neo-Futurists about a Bay Area couple deciding to buy a gun, which breaks the fourth wall and draws the audience into the conversation. It runs about 80 minutes with no late entry.",
-    "neighbourhood": "SoMa",
-    "cycle_minutes": 5,
-    "added": "2026-11-13"
-  },
-  {
-    "title": "Berkeley Fest Noz: Breton dance party with live band",
-    "start": "2026-11-22T18:30:00-08:00",
-    "end": "2026-11-22T21:30:00-08:00",
-    "venue": "Berkeley Fellowship of Unitarian Universalists",
-    "address": "1606 Bonita Ave, Berkeley, CA 94709",
-    "url": "https://www.farthershoreband.com/fest-noz-11-2026/",
-    "source": "venue:bacds",
-    "tags": [
-      "dance",
-      "music"
-    ],
-    "price": "$20 sliding scale ($10 low-income)",
-    "description": "A Breton 'night party' of easy line and circle dances, all taught and no partner needed, to live bombarde, fiddle and bagpipes from Shira Kammen, Ronan Keryell and friends. It's the closest thing to a ceilidh-style folk dance party this month. Take BART from Montgomery to Downtown Berkeley (~25 min), then walk ~10 min.",
-    "neighbourhood": "Berkeley",
-    "added": "2026-10-26",
-    "id": "berkeley-fest-noz-breton-dance-party-with-live-band-2018cf5b"
-  },
-  {
-    "title": "WNP Film Club: Dark Passage (SF-shot Bogart/Bacall noir)",
-    "start": "2026-11-22T19:30:00-08:00",
-    "end": "2026-11-22T22:00:00-08:00",
-    "venue": "4 Star Theater",
-    "address": "2200 Clement St, San Francisco, CA 94121",
-    "url": "https://www.4-star-movies.com/calendar-of-events/wnp-film-club-dark-passage",
-    "source": "venue:4-star",
-    "tags": [
-      "film",
-      "community"
-    ],
-    "price": null,
-    "description": "Western Neighborhoods Project and Bay Area Movies screen the 1947 noir shot on location in San Francisco, with an intro on the filming locations and 'then and now' comparisons from SF in Film. Optional discussion afterwards, a good way to learn the city's history from locals.",
-    "neighbourhood": "Outer Richmond",
-    "cycle_minutes": 35,
-    "added": "2026-11-03",
-    "id": "wnp-film-club-dark-passage-sf-shot-bogart-bacall-noir-053e6307"
-  },
-  {
-    "title": "Divine Offering: Celebrating Alice Coltrane, with Sita Michelle Coltrane",
-    "start": "2026-11-22T20:00:00-08:00",
-    "end": null,
-    "venue": "Great American Music Hall",
-    "address": "859 O'Farrell St, San Francisco, CA 94109",
-    "url": "https://wl.seetickets.us/event/divine-offering-celebrating-the-legacy-of-alice-coltrane/704843?afflky=GreatAmericanMusicHall",
-    "source": "listing:the-list",
-    "tags": [
-      "music"
-    ],
-    "price": "$39.50 advance / $45 door",
-    "description": "Tribute to Alice Coltrane's spiritual jazz, with her granddaughter Sita Michelle Coltrane, in SF's ornate 1907 music hall. Moved from Oct 11; doors 7pm, show 8pm.",
-    "neighbourhood": "Tenderloin",
-    "cycle_minutes": 9,
-    "added": "2026-11-02",
-    "id": "divine-offering-celebrating-alice-coltrane-with-sita-michell-aa957866"
-  },
-  {
     "id": "salsacrazy-mondays-salsa-lesson-salsa-bachata-dancing-b207830a",
     "title": "SalsaCrazy Mondays: salsa lesson + salsa/bachata dancing",
     "start": "2026-11-23T19:00:00-08:00",
@@ -2670,26 +2463,6 @@
     "added": "2026-11-12"
   },
   {
-    "id": "ics-c33d39b16902",
-    "title": "Let's talk about Recursive Self-Improvement: the latest hot topic in AIS",
-    "start": "2026-12-08T18:30:00-08:00",
-    "end": "2026-12-08T20:30:00-08:00",
-    "venue": "SoMa venue (address shown after registering)",
-    "address": null,
-    "url": "https://luma.com/aisafety-4phl",
-    "source": "ics:AI Safety San Francisco",
-    "tags": [
-      "talk",
-      "tech",
-      "community"
-    ],
-    "price": "Free (sold out; waitlist on Luma)",
-    "description": "Moved from 24 Nov to Tue 8 Dec. SOLD OUT. AI Safety SF discussion night on recursive self-improvement, prompted by METR's report on AI-accelerated research at Anthropic: a group level-set, then breakouts for newcomers (short readings) and deep-context technical sessions. About 15 minutes of required reading beforehand.",
-    "added": "2026-11-15",
-    "neighbourhood": "SoMa",
-    "cycle_minutes": 5
-  },
-  {
     "title": "D. Leah Steinberg on Clyde Stubblefield: Rhythms of the Funky Drummer",
     "start": "2026-12-08T19:00:00-08:00",
     "end": "2026-12-08T20:30:00-08:00",
@@ -2856,6 +2629,26 @@
     "cycle_minutes": 3,
     "added": "2026-11-03",
     "id": "mud-frontier-film-screening-talkback-with-rael-san-fratello-71da395e"
+  },
+  {
+    "id": "ics-c33d39b16902",
+    "title": "Let's talk about Recursive Self-Improvement: the latest hot topic in AIS",
+    "start": "2026-12-09T18:30:00-08:00",
+    "end": "2026-12-09T20:30:00-08:00",
+    "venue": "SoMa venue (address shown after registering)",
+    "address": null,
+    "url": "https://luma.com/aisafety-4phl",
+    "source": "ics:AI Safety San Francisco",
+    "tags": [
+      "talk",
+      "tech",
+      "community"
+    ],
+    "price": "Free (register on Luma)",
+    "description": "Moved from 24 Nov to Wed 9 Dec; registration has reopened. AI Safety SF discussion night on recursive self-improvement, prompted by METR's report on AI-accelerated research at Anthropic: a group level-set, then breakouts for newcomers (short readings) and deep-context technical sessions. About 15 minutes of required reading beforehand.",
+    "added": "2026-11-15",
+    "neighbourhood": "SoMa",
+    "cycle_minutes": 5
   },
   {
     "id": "short-story-symposium-ted-chiang-le-guin-at-the-commons-e405120d",
@@ -3597,6 +3390,25 @@
     "added": "2026-11-20"
   },
   {
+    "id": "ics-1c71dde0cc9a",
+    "title": "AI Horizons After Party at Mox",
+    "start": "2026-12-13T19:00:00-08:00",
+    "end": "2026-12-13T23:00:00-08:00",
+    "venue": "Mox",
+    "address": "1680 Mission St, San Francisco, CA 94103",
+    "url": "https://luma.com/mox-ecvj",
+    "source": "ics:Mox",
+    "tags": [
+      "community",
+      "talk"
+    ],
+    "price": "Free (register on Luma)",
+    "description": "A laid-back evening at Mox after the AI Horizons Forum: catch up with people from the Forum and meet others working on AI safety. Open to non-attendees too; free on Luma.",
+    "added": "2026-11-25",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 13
+  },
+  {
     "title": "JD McPherson: SOCKS, A Rock n' Roll Christmas Tour, with Melissa Carper",
     "start": "2026-12-13T20:00:00-08:00",
     "end": null,
@@ -4094,6 +3906,24 @@
     "cycle_minutes": 10,
     "added": "2026-10-30",
     "id": "laia-jufresa-in-conversation-with-colin-winnette-7636679f"
+  },
+  {
+    "id": "ics-6c92ed64aa81",
+    "title": "Mox Holiday Party",
+    "start": "2026-12-17T19:00:00-08:00",
+    "end": "2026-12-17T22:00:00-08:00",
+    "venue": "Mox",
+    "address": "1680 Mission St, San Francisco, CA 94103",
+    "url": "https://luma.com/mox-ori1",
+    "source": "ics:Mox",
+    "tags": [
+      "community"
+    ],
+    "price": "Free (RSVP on Partiful)",
+    "description": "Mox's end-of-year holiday party in its new first-floor events space. RSVP via the Partiful link on the Luma page (Luma registration shows closed because RSVPs go through Partiful).",
+    "added": "2026-11-25",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 13
   },
   {
     "title": "Christopher Owens",
