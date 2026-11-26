@@ -5,81 +5,6 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:San Francisco Events
 X-WR-TIMEZONE:America/Los_Angeles
 BEGIN:VEVENT
-UID:salsacrazy-mondays-salsa-lesson-salsa-bachata-dancing-b207830a@sf-even
- ts
-DTSTAMP:20261124T030000Z
-DTSTART:20261124T030000Z
-DTEND:20261124T073000Z
-SUMMARY:SalsaCrazy Mondays: salsa lesson + salsa/bachata dancing
-DESCRIPTION:Monday salsa night on Clement St. Doors open at 6:30\, a begin
- ner salsa lesson with no partner needed runs at 7pm\, then there's salsa 
- and bachata social dancing until late. 21+.\nPrice: $10-$40\nhttps://www.
- eventbrite.com/e/salsa-dance-classes-and-salsa-and-bachata-dancing-salsac
- razy-mondays-tickets-1981014379336
-URL:https://www.eventbrite.com/e/salsa-dance-classes-and-salsa-and-bachata
- -dancing-salsacrazy-mondays-tickets-1981014379336
-LOCATION:Neck of the Woods\, 406 Clement St\, San Francisco\, CA 94118
-END:VEVENT
-BEGIN:VEVENT
-UID:emergence-relational-mindfulness-practice-circling-style-at--71b398ee@
- sf-events
-DTSTAMP:20261124T030000Z
-DTSTART:20261124T030000Z
-DTEND:20261124T050000Z
-SUMMARY:Emergence: relational mindfulness practice (circling-style) at The
-  Commons
-DESCRIPTION:A small-group here-and-now connection practice\, very close to
-  Circling and T-Groups\, run by a facilitator who led weekly Circling for
-  five years. Expect honest dialogue\, lots of feedback and real connectio
- n with strangers.\nPrice: $10 (free for members)\nhttps://luma.com/the-11
- f9
-URL:https://luma.com/the-11f9
-LOCATION:The SF Commons\, 540 Laguna St\, San Francisco\, CA 94102
-END:VEVENT
-BEGIN:VEVENT
-UID:la-bola-negra-los-javis-30d59c1b@sf-events
-DTSTAMP:20261124T033000Z
-DTSTART:20261124T033000Z
-DTEND:20261124T053000Z
-SUMMARY:La Bola Negra (Los Javis)
-DESCRIPTION:A Bay Area screening of the new film from Cannes-winning Spani
- sh directors Javier Calvo and Javier Ambrossi ('Los Javis'). It follows t
- hree generations of men across turning points in Spanish history\, and is
-  shown in Spanish with English subtitles. Doors 6:30pm\, rated R. [SOLD O
- UT as of 31 Oct.]\nPrice: Sold out\nhttps://thecastro.com/events/la-bola-
- negra-261123
-URL:https://thecastro.com/events/la-bola-negra-261123
-LOCATION:Castro Theatre\, 429 Castro St\, San Francisco\, CA 94114
-END:VEVENT
-BEGIN:VEVENT
-UID:circuit-hacking-monday-open-electronics-workshop-at-noisebri-3766ff94@
- sf-events
-DTSTAMP:20261124T033000Z
-DTSTART:20261124T033000Z
-DTEND:20261124T053000Z
-SUMMARY:Mozzi on Arduino: Circuit Hacking Monday at Noisebridge
-DESCRIPTION:The weekly open electronics night at the Mission's volunteer-r
- un hackerspace\, with soldering stations and people working on robotics a
- nd embedded projects. Bring a project or just come and learn.\nPrice: Fre
- e (donations welcome)\nhttps://www.meetup.com/noisebridge/events/31717202
- 9/
-URL:https://www.meetup.com/noisebridge/events/317172029/
-LOCATION:Noisebridge hackerspace\, 272 Capp St\, San Francisco\, CA 94110
-END:VEVENT
-BEGIN:VEVENT
-UID:pedro-the-lion-with-karli-fairbanks-90c93a84@sf-events
-DTSTAMP:20261124T043000Z
-DTSTART:20261124T043000Z
-DTEND:20261124T063000Z
-SUMMARY:Pedro the Lion with Karli Fairbanks
-DESCRIPTION:SOLD OUT (per The List). David Bazan's indie-rock/slowcore ban
- d Pedro the Lion in a small Potrero Hill club\, with folky singer-songwri
- ter Karli Fairbanks opening. Doors 7:30pm\, all ages.\nPrice: $30 adv / $
- 35 door (sold out)\nhttp://www.bottomofthehill.com/20261123.html
-URL:http://www.bottomofthehill.com/20261123.html
-LOCATION:Bottom of the Hill\, 1233 17th St\, San Francisco\, CA 94107
-END:VEVENT
-BEGIN:VEVENT
 UID:clay-play-make-your-own-bookends-air-dry-clay-9a4a500b@sf-events
 DTSTAMP:20261125T020000Z
 DTSTART:20261125T020000Z
@@ -3071,6 +2996,20 @@ DESCRIPTION:Rock historian Richie Unterberger's illustrated talk on the Ve
 URL:https://sfpl.org/events/2026/12/16/presentation-velvet-underground
 LOCATION:San Francisco Main Library\, Koret Auditorium\, 100 Larkin St\, S
  an Francisco\, CA 94102
+END:VEVENT
+BEGIN:VEVENT
+UID:ics-6d5188f640bc@sf-events
+DTSTAMP:20261217T023000Z
+DTSTART:20261217T023000Z
+DTEND:20261217T043000Z
+SUMMARY:Read & Discuss: Short Timelines
+DESCRIPTION:AI Safety SF read-and-discuss evening at Mox on what to do abo
+ ut short AI timelines\, with collective brainstorming afterwards. Aimed a
+ t people concerned about catastrophic AI risk\; do at least one of the li
+ sted readings first.\nPrice: Free (register on Luma)\nhttps://luma.com/ai
+ safety-iq97
+URL:https://luma.com/aisafety-iq97
+LOCATION:Mox\, 1680 Mission St\, San Francisco\, CA 94103
 END:VEVENT
 BEGIN:VEVENT
 UID:rent-at-san-francisco-playhouse-preview-performance-30b541b4@sf-events

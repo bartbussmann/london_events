@@ -1,98 +1,5 @@
 [
   {
-    "id": "salsacrazy-mondays-salsa-lesson-salsa-bachata-dancing-b207830a",
-    "title": "SalsaCrazy Mondays: salsa lesson + salsa/bachata dancing",
-    "start": "2026-11-23T19:00:00-08:00",
-    "end": "2026-11-23T23:30:00-08:00",
-    "venue": "Neck of the Woods",
-    "address": "406 Clement St, San Francisco, CA 94118",
-    "url": "https://www.eventbrite.com/e/salsa-dance-classes-and-salsa-and-bachata-dancing-salsacrazy-mondays-tickets-1981014379336",
-    "source": "aggregator:eventbrite",
-    "tags": [
-      "dance",
-      "class"
-    ],
-    "price": "$10-$40",
-    "description": "Monday salsa night on Clement St. Doors open at 6:30, a beginner salsa lesson with no partner needed runs at 7pm, then there's salsa and bachata social dancing until late. 21+.",
-    "neighbourhood": "Inner Richmond",
-    "cycle_minutes": 27,
-    "added": "2026-11-08"
-  },
-  {
-    "id": "emergence-relational-mindfulness-practice-circling-style-at--71b398ee",
-    "title": "Emergence: relational mindfulness practice (circling-style) at The Commons",
-    "start": "2026-11-23T19:00:00-08:00",
-    "end": "2026-11-23T21:00:00-08:00",
-    "venue": "The SF Commons",
-    "address": "540 Laguna St, San Francisco, CA 94102",
-    "url": "https://luma.com/the-11f9",
-    "source": "listing:luma-sf-commons",
-    "tags": [
-      "workshop",
-      "community"
-    ],
-    "price": "$10 (free for members)",
-    "description": "A small-group here-and-now connection practice, very close to Circling and T-Groups, run by a facilitator who led weekly Circling for five years. Expect honest dialogue, lots of feedback and real connection with strangers.",
-    "neighbourhood": "Hayes Valley",
-    "cycle_minutes": 12,
-    "added": "2026-11-17"
-  },
-  {
-    "title": "La Bola Negra (Los Javis)",
-    "start": "2026-11-23T19:30:00-08:00",
-    "end": null,
-    "venue": "Castro Theatre",
-    "address": "429 Castro St, San Francisco, CA 94114",
-    "url": "https://thecastro.com/events/la-bola-negra-261123",
-    "source": "venue:castro",
-    "tags": [
-      "film"
-    ],
-    "price": "Sold out",
-    "description": "A Bay Area screening of the new film from Cannes-winning Spanish directors Javier Calvo and Javier Ambrossi ('Los Javis'). It follows three generations of men across turning points in Spanish history, and is shown in Spanish with English subtitles. Doors 6:30pm, rated R. [SOLD OUT as of 31 Oct.]",
-    "neighbourhood": "Castro",
-    "cycle_minutes": 17,
-    "added": "2026-10-30",
-    "id": "la-bola-negra-los-javis-30d59c1b"
-  },
-  {
-    "id": "circuit-hacking-monday-open-electronics-workshop-at-noisebri-3766ff94",
-    "title": "Mozzi on Arduino: Circuit Hacking Monday at Noisebridge",
-    "start": "2026-11-23T19:30:00-08:00",
-    "end": "2026-11-23T21:30:00-08:00",
-    "venue": "Noisebridge hackerspace",
-    "address": "272 Capp St, San Francisco, CA 94110",
-    "url": "https://www.meetup.com/noisebridge/events/317172029/",
-    "source": "aggregator:meetup",
-    "tags": [
-      "workshop",
-      "tech"
-    ],
-    "price": "Free (donations welcome)",
-    "description": "The weekly open electronics night at the Mission's volunteer-run hackerspace, with soldering stations and people working on robotics and embedded projects. Bring a project or just come and learn.",
-    "neighbourhood": "Mission",
-    "cycle_minutes": 13,
-    "added": "2026-11-08"
-  },
-  {
-    "title": "Pedro the Lion with Karli Fairbanks",
-    "start": "2026-11-23T20:30:00-08:00",
-    "end": null,
-    "venue": "Bottom of the Hill",
-    "address": "1233 17th St, San Francisco, CA 94107",
-    "url": "http://www.bottomofthehill.com/20261123.html",
-    "source": "venue:bottom-of-the-hill",
-    "tags": [
-      "music"
-    ],
-    "price": "$30 adv / $35 door (sold out)",
-    "description": "SOLD OUT (per The List). David Bazan's indie-rock/slowcore band Pedro the Lion in a small Potrero Hill club, with folky singer-songwriter Karli Fairbanks opening. Doors 7:30pm, all ages.",
-    "neighbourhood": "Potrero Hill",
-    "cycle_minutes": 12,
-    "added": "2026-10-26",
-    "id": "pedro-the-lion-with-karli-fairbanks-90c93a84"
-  },
-  {
     "title": "Clay & Play: make your own bookends (air-dry clay)",
     "start": "2026-11-24T18:00:00-08:00",
     "end": "2026-11-24T20:00:00-08:00",
@@ -3872,6 +3779,25 @@
     "cycle_minutes": 8,
     "added": "2026-10-29",
     "id": "richie-unterberger-the-velvet-underground-talk-audiovisual-p-7d50845c"
+  },
+  {
+    "id": "ics-6d5188f640bc",
+    "title": "Read & Discuss: Short Timelines",
+    "start": "2026-12-16T18:30:00-08:00",
+    "end": "2026-12-16T20:30:00-08:00",
+    "venue": "Mox",
+    "address": "1680 Mission St, San Francisco, CA 94103",
+    "url": "https://luma.com/aisafety-iq97",
+    "source": "ics:AI Safety San Francisco",
+    "tags": [
+      "talk",
+      "community"
+    ],
+    "price": "Free (register on Luma)",
+    "description": "AI Safety SF read-and-discuss evening at Mox on what to do about short AI timelines, with collective brainstorming afterwards. Aimed at people concerned about catastrophic AI risk; do at least one of the listed readings first.",
+    "added": "2026-11-26",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 13
   },
   {
     "id": "rent-at-san-francisco-playhouse-preview-performance-30b541b4",
