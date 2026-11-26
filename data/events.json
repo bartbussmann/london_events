@@ -1290,8 +1290,8 @@
       "talk",
       "community"
     ],
-    "price": "$27 (Luma)",
-    "description": "Big Brain lecture-in-a-bar: the stories behind SF's skyline landmarks, from what Sutro Tower is actually for to how a Roman-style rotunda ended up by a lagoon in the Marina.",
+    "price": "$27 (sold out on Luma)",
+    "description": "SOLD OUT. Big Brain lecture-in-a-bar: the stories behind SF's skyline landmarks, from what Sutro Tower is actually for to how a Roman-style rotunda ended up by a lagoon in the Marina.",
     "added": "2026-11-21",
     "neighbourhood": "NoPa",
     "cycle_minutes": 17
@@ -1470,24 +1470,6 @@
     "id": "sf-first-thursday-art-walk-tenderloin-lower-nob-hill-b71b6ec2"
   },
   {
-    "id": "50-years-of-mother-jones-with-adam-hochschild-and-monika-bau-a76d67cd",
-    "title": "50 Years of Mother Jones, with Adam Hochschild and Monika Bauerlein",
-    "start": "2026-12-03T18:00:00-08:00",
-    "end": null,
-    "venue": "Commonwealth Club World Affairs (Toni Rembe Rock Auditorium)",
-    "address": "110 The Embarcadero, San Francisco, CA",
-    "url": "https://www.commonwealthclub.org/events/2026-12-03/50-years-mother-jones-adam-hochschild-and-monika-bauerlein",
-    "source": "venue:commonwealthclub",
-    "tags": [
-      "talk"
-    ],
-    "price": "$25 (students free)",
-    "description": "Mother Jones co-founder Adam Hochschild and CIR CEO Monika Bauerlein on the SF-born outlet's big investigations, its lawsuit against OpenAI, and nonprofit news.",
-    "neighbourhood": "Embarcadero",
-    "cycle_minutes": 5,
-    "added": "2026-11-07"
-  },
-  {
     "id": "kqed-live-tiles-tonics-a-mahjong-soiree-84b84e51",
     "title": "KQED Live: Tiles & Tonics, a mahjong soiree",
     "start": "2026-12-03T18:00:00-08:00",
@@ -1664,8 +1646,8 @@
     "tags": [
       "community"
     ],
-    "price": "$15",
-    "description": "Bring a few new or lightly used books to swap, have a drink and meet other readers, then a holiday rom-com goes on at 7pm. There are raffle prizes and cosy treats.",
+    "price": "$15 (sold out, waitlist on Luma)",
+    "description": "SOLD OUT. Bring a few new or lightly used books to swap, have a drink and meet other readers, then a holiday rom-com goes on at 7pm. There are raffle prizes and cosy treats.",
     "neighbourhood": "Castro",
     "cycle_minutes": 16,
     "added": "2026-11-14"
@@ -1999,7 +1981,7 @@
     "start": "2026-12-05T19:30:00-08:00",
     "end": null,
     "venue": "The SF Commons",
-    "address": "540 Laguna St, San Francisco, CA 94102",
+    "address": "550 Laguna St, San Francisco, CA 94102",
     "url": "https://luma.com/the-9myd",
     "source": "listing:luma-sf-commons",
     "tags": [
@@ -2216,8 +2198,8 @@
       "outdoors",
       "community"
     ],
-    "price": "Free (RSVP)",
-    "description": "A free holiday wreath-making afternoon in the rooftop park right next to home, part of Salesforce Park's WinterFest.",
+    "price": "Free (RSVP full; sold out)",
+    "description": "SOLD OUT. A free holiday wreath-making afternoon in the rooftop park right next to home, part of Salesforce Park's WinterFest.",
     "neighbourhood": "SoMa",
     "cycle_minutes": 3,
     "added": "2026-11-25"
@@ -9299,6 +9281,24 @@
     "added": "2026-11-15"
   },
   {
+    "id": "robert-sutton-alison-fragale-kim-scott-20-years-of-the-no-a--35233a93",
+    "title": "Robert Sutton, Alison Fragale & Kim Scott: 20 years of The No A--hole Rule",
+    "start": "2027-03-02T18:00:00-08:00",
+    "end": "2027-03-02T19:00:00-08:00",
+    "venue": "Commonwealth Club World Affairs (Taube Family Auditorium)",
+    "address": "110 The Embarcadero, San Francisco, CA 94105",
+    "url": "https://www.commonwealthclub.org/events/2027-03-02/robert-sutton-alison-fragale-and-kim-scott-20-years-definitive-guide-working-and",
+    "source": "venue:commonwealthclub",
+    "tags": [
+      "talk"
+    ],
+    "price": "$25 ($45 with book)",
+    "description": "Stanford's Bob Sutton, psychologist Alison Fragale and Radical Candor author Kim Scott mark 20 years of The No A--hole Rule, talking about workplace jerks and how to deal with them. Doors at 5:30pm, then a book signing at 7pm.",
+    "neighbourhood": "Embarcadero",
+    "cycle_minutes": 5,
+    "added": "2026-11-26"
+  },
+  {
     "id": "wasia-project-nocturne-live-2027-261a74ba",
     "title": "Wasia Project: Nocturne Live 2027",
     "start": "2027-03-02T20:00:00-08:00",
@@ -9372,6 +9372,24 @@
     "added": "2026-11-19"
   },
   {
+    "id": "city-arts-lectures-a-conversation-with-henry-rollins-d487d774",
+    "title": "City Arts & Lectures: A conversation with Henry Rollins",
+    "start": "2027-03-05T19:30:00-08:00",
+    "end": null,
+    "venue": "Sydney Goldstein Theater",
+    "address": "275 Hayes St, San Francisco, CA 94102",
+    "url": "https://www.cityarts.net/event/a-conversation-with-henry-rollins/",
+    "source": "venue:cityarts",
+    "tags": [
+      "talk"
+    ],
+    "price": null,
+    "description": "The Black Flag and Rollins Band singer, also a spoken-word artist, writer and radio host, in conversation on stage. Some tickets include his new memoir Bait Dog Boy.",
+    "neighbourhood": "Hayes Valley",
+    "cycle_minutes": 10,
+    "added": "2026-11-26"
+  },
+  {
     "id": "fog-city-improv-25261c61",
     "title": "Fog City Improv",
     "start": "2027-03-05T20:00:00-08:00",
@@ -9426,6 +9444,25 @@
     "neighbourhood": "Mission",
     "cycle_minutes": 12,
     "added": "2026-11-19"
+  },
+  {
+    "id": "purpose-alignment-circle-at-the-commons-march-10baf39b",
+    "title": "Purpose Alignment Circle at The Commons (March)",
+    "start": "2027-03-07T14:30:00-08:00",
+    "end": "2027-03-07T16:30:00-08:00",
+    "venue": "The SF Commons",
+    "address": "550 Laguna St, San Francisco, CA 94102",
+    "url": "https://luma.com/the-z84k",
+    "source": "listing:luma-sf-commons",
+    "tags": [
+      "workshop",
+      "community"
+    ],
+    "price": "Free",
+    "description": "A small facilitated circle for honest conversation about work, purpose and what you actually want next. Free, and a relaxed Sunday-afternoon way to meet people at The Commons.",
+    "neighbourhood": "Hayes Valley",
+    "cycle_minutes": 12,
+    "added": "2026-11-26"
   },
   {
     "id": "sf-salsa-social-beginner-class-salsa-mambo-dancing-79e3825b",
@@ -9613,6 +9650,24 @@
     "added": "2026-11-16"
   },
   {
+    "id": "ruby-waters-with-ok-cowgirl-9e6650b8",
+    "title": "Ruby Waters with OK Cowgirl",
+    "start": "2027-03-13T21:00:00-08:00",
+    "end": null,
+    "venue": "The Independent",
+    "address": "628 Divisadero St, San Francisco, CA 94117",
+    "url": "https://www.theindependentsf.com/tm-event/ruby-waters/",
+    "source": "listing:the-list",
+    "tags": [
+      "music"
+    ],
+    "price": "$35.04",
+    "description": "Canadian singer-songwriter Ruby Waters brings her Suppre$$ions tour, a mix of soul, folk and indie, with OK Cowgirl opening. Doors 8:30pm, show 9pm, all ages.",
+    "neighbourhood": "NoPa",
+    "cycle_minutes": 18,
+    "added": "2026-11-26"
+  },
+  {
     "id": "pi-day-at-the-exploratorium-its-birthplace-e32afa7f",
     "title": "Pi Day at the Exploratorium (its birthplace)",
     "start": "2027-03-14T11:00:00-07:00",
@@ -9722,6 +9777,24 @@
     "neighbourhood": "Hayes Valley",
     "cycle_minutes": 10,
     "added": "2026-11-16"
+  },
+  {
+    "id": "noah-gundersen-rites-of-spring-tour-with-nathan-evans-fox-f6d58957",
+    "title": "Noah Gundersen: Rites of Spring Tour, with Nathan Evans Fox",
+    "start": "2027-03-16T20:00:00-07:00",
+    "end": null,
+    "venue": "Great American Music Hall",
+    "address": "859 O'Farrell St, San Francisco, CA 94109",
+    "url": "https://wl.seetickets.us/event/noah-gundersen-rites-of-spring-tour-spring-2027/709838?afflky=GreatAmericanMusicHall",
+    "source": "venue:gamh",
+    "tags": [
+      "music"
+    ],
+    "price": "$35.81 ($27 face)",
+    "description": "Seattle songwriter Noah Gundersen plays his quiet, intense indie-folk in the ornate Great American Music Hall. Nathan Evans Fox opens; doors 7pm, show 8pm.",
+    "neighbourhood": "Tenderloin",
+    "cycle_minutes": 9,
+    "added": "2026-11-26"
   },
   {
     "id": "st-patrick-s-day-the-rockers-thin-lizzy-tribute-at-the-chape-a95a0096",
@@ -9868,6 +9941,25 @@
     "neighbourhood": "Mission",
     "cycle_minutes": 13,
     "added": "2026-11-17"
+  },
+  {
+    "id": "saxsquatch-the-conspiracy-theory-tour-b0e70e54",
+    "title": "Saxsquatch: The Conspiracy Theory Tour",
+    "start": "2027-03-21T20:00:00-07:00",
+    "end": null,
+    "venue": "Great American Music Hall",
+    "address": "859 O'Farrell St, San Francisco, CA 94109",
+    "url": "https://wl.seetickets.us/event/saxsquatch/707557?afflky=GreatAmericanMusicHall",
+    "source": "venue:gamh",
+    "tags": [
+      "music",
+      "dance"
+    ],
+    "price": "$33.31 ($25 face)",
+    "description": "A saxophone-playing Bigfoot leads a danceable electronic sax set with lasers, a silly and very social Sunday night out. Doors 7pm, show 8pm.",
+    "neighbourhood": "Tenderloin",
+    "cycle_minutes": 9,
+    "added": "2026-11-26"
   },
   {
     "id": "salsacrazy-mondays-salsa-lesson-salsa-bachata-dancing-28a005bc",
@@ -10166,6 +10258,24 @@
     "added": "2026-11-22"
   },
   {
+    "id": "the-mary-wallopers-at-august-hall-827ff327",
+    "title": "The Mary Wallopers at August Hall",
+    "start": "2027-04-01T20:00:00-07:00",
+    "end": null,
+    "venue": "August Hall",
+    "address": "420 Mason St, San Francisco, CA 94102",
+    "url": "https://www.augusthallsf.com/tm-event/the-mary-wallopers/",
+    "source": "listing:the-list",
+    "tags": [
+      "music"
+    ],
+    "price": "$34.70",
+    "description": "The rowdy Irish folk band from Dundalk plays trad ballads and drinking songs with punk energy, as close to a London Irish-folk night as SF gets. Doors 7pm, show 8pm.",
+    "neighbourhood": "Union Square",
+    "cycle_minutes": 6,
+    "added": "2026-11-26"
+  },
+  {
     "id": "delta-sleep-with-pure-hex-7933b1e9",
     "title": "Delta Sleep with Pure Hex",
     "start": "2027-04-02T20:30:00-07:00",
@@ -10221,6 +10331,43 @@
     "added": "2026-11-22"
   },
   {
+    "id": "sf-salsa-social-beginner-class-salsa-mambo-dancing-april-10565f2b",
+    "title": "SF Salsa Social: beginner class + salsa & mambo dancing (April)",
+    "start": "2027-04-04T19:00:00-07:00",
+    "end": "2027-04-04T23:30:00-07:00",
+    "venue": "Verdi Club",
+    "address": "2424 Mariposa St, San Francisco, CA 94110",
+    "url": "https://www.eventbrite.com/e/sf-salsa-social-salsa-dancing-lesson-at-verdi-club-san-francisco-tickets-2003026664674",
+    "source": "listing:sf-latin-dance-socials",
+    "tags": [
+      "dance",
+      "class"
+    ],
+    "price": "$17-$23.18",
+    "description": "The first-Sunday salsa and mambo social at the Verdi Club: a beginner class at 7pm, then social dancing from 8 to 11:30pm.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 13,
+    "added": "2026-11-26"
+  },
+  {
+    "id": "gang-of-youths-with-the-sophs-449f481b",
+    "title": "Gang of Youths with The Sophs",
+    "start": "2027-04-05T20:00:00-07:00",
+    "end": null,
+    "venue": "Great American Music Hall",
+    "address": "859 O'Farrell St, San Francisco, CA 94109",
+    "url": "https://wl.seetickets.us/event/gang-of-youths/710429?afflky=GreatAmericanMusicHall",
+    "source": "venue:gamh",
+    "tags": [
+      "music"
+    ],
+    "price": "$41.43 ($30 face)",
+    "description": "The ARIA-winning Sydney band play big-hearted, anthemic indie rock in a room much smaller than they usually fill. The Sophs open; doors 7pm, show 8pm.",
+    "neighbourhood": "Tenderloin",
+    "cycle_minutes": 9,
+    "added": "2026-11-26"
+  },
+  {
     "id": "narrow-head-with-horse-jumper-of-love-knumears-and-worlds-wo-60ced96d",
     "title": "Narrow Head with Horse Jumper of Love, Knumears and Worlds Worst",
     "start": "2027-04-06T19:00:00-07:00",
@@ -10237,6 +10384,98 @@
     "neighbourhood": "Mission",
     "cycle_minutes": 14,
     "added": "2026-11-24"
+  },
+  {
+    "id": "babes-in-canyon-whispers-echoes-tour-with-smokey-brights-and-3df016dc",
+    "title": "Babes in Canyon: Whispers & Echoes Tour, with Smokey Brights and Camp Bedford",
+    "start": "2027-04-07T19:30:00-07:00",
+    "end": null,
+    "venue": "Great American Music Hall",
+    "address": "859 O'Farrell St, San Francisco, CA 94109",
+    "url": "https://wl.seetickets.us/event/babes-in-canyon/710282?afflky=GreatAmericanMusicHall",
+    "source": "venue:gamh",
+    "tags": [
+      "music"
+    ],
+    "price": "$33.31 ($25 face)",
+    "description": "Babes in Canyon play alt-folk and darkwave pop with mandolin and '80s-radio echoes, on a three-band indie bill. Doors 6:30pm, show 7:30pm.",
+    "neighbourhood": "Tenderloin",
+    "cycle_minutes": 9,
+    "added": "2026-11-26"
+  },
+  {
+    "id": "milonga-malevaje-thursday-tango-at-the-verdi-club-april-115411f5",
+    "title": "Milonga Malevaje (Thursday tango at the Verdi Club, April)",
+    "start": "2027-04-08T20:00:00-07:00",
+    "end": "2027-04-08T23:30:00-07:00",
+    "venue": "Verdi Club",
+    "address": "2424 Mariposa St, San Francisco, CA 94110",
+    "url": "https://www.verdiclub.net/events/milonga-malevaje-78-2-2-2-2/2027-04-08/",
+    "source": "venue:verdi-club",
+    "tags": [
+      "dance"
+    ],
+    "price": "$20",
+    "description": "The Verdi Club's weekly Thursday Argentine tango milonga, a social dance night in the Mission's old Italian clubhouse.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 13,
+    "added": "2026-11-26"
+  },
+  {
+    "id": "bachata-lab-friday-bachata-classes-3-levels-social-april-84e2304c",
+    "title": "Bachata Lab: Friday bachata classes (3 levels) + social (April)",
+    "start": "2027-04-09T20:00:00-07:00",
+    "end": "2027-04-10T01:00:00-07:00",
+    "venue": "Bachata Lab",
+    "address": "1830 17th St, San Francisco, CA 94103",
+    "url": "https://www.eventbrite.com/e/bachata-lab-tickets-1543049184649",
+    "source": "listing:sf-latin-dance-socials",
+    "tags": [
+      "dance",
+      "class"
+    ],
+    "price": "from $15",
+    "description": "Weekly Friday bachata classes in three levels running at the same time, then a social dance. An easy, beginner-friendly way to meet people on a Friday.",
+    "neighbourhood": "Potrero Hill",
+    "cycle_minutes": 11,
+    "added": "2026-11-26"
+  },
+  {
+    "id": "sf-neo-futurists-the-infinite-wrench-30-plays-in-60-minutes-8fb4d411",
+    "title": "SF Neo-Futurists: The Infinite Wrench (30 plays in 60 minutes)",
+    "start": "2027-04-10T21:00:00-07:00",
+    "end": "2027-04-10T22:30:00-07:00",
+    "venue": "447 Minna St",
+    "address": "447 Minna St, San Francisco, CA 94103",
+    "url": "https://www.eventbrite.com/e/sf-neo-futurists-the-infinite-wrench-tickets-2005428734329",
+    "source": "venue:sf-neo-futurists",
+    "tags": [
+      "theatre",
+      "comedy"
+    ],
+    "price": null,
+    "description": "The Neo-Futurists race through 30 tiny original plays in an hour, in an order the audience chooses by shouting. It's personal, political and very silly, in a small SoMa space.",
+    "neighbourhood": "SoMa",
+    "cycle_minutes": 5,
+    "added": "2026-11-26"
+  },
+  {
+    "id": "hello-bachata-sunday-at-the-verdi-club-april-30cd8db6",
+    "title": "Hello! Bachata Sunday at the Verdi Club (April)",
+    "start": "2027-04-11T15:00:00-07:00",
+    "end": "2027-04-11T20:30:00-07:00",
+    "venue": "Verdi Club",
+    "address": "2424 Mariposa St, San Francisco, CA 94110",
+    "url": "https://www.verdiclub.net/events/hello-bachata-11-2/2027-04-11/",
+    "source": "venue:verdi-club",
+    "tags": [
+      "dance"
+    ],
+    "price": "$17 cover (Venmo)",
+    "description": "A daytime dance social on two floors of the Verdi Club: bachata (and some salsa) on the main floor, kizomba and urban kiz upstairs. It's over by 8:30pm and easy to join solo.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 13,
+    "added": "2026-11-26"
   },
   {
     "id": "long-now-talk-meenakshi-wadhwa-on-meteorites-moon-rocks-and--e652b6a1",

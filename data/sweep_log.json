@@ -1,5 +1,11 @@
 [
   {
+    "ran_at": "2026-11-26T06:45:00-08:00",
+    "added": 15,
+    "considered": 79,
+    "notes": "Part 1: curated AI Safety SF 'Read & Discuss: Short Timelines' (16 Dec); suppressed Mox copy; pruned 5; recreated moved-event check (scratchpad was cleared), no moved events. Part 2: freshness check of 58 events 2-6 Dec - removed Commonwealth Club 'Mother Jones' (3 Dec, cancelled); now sold out: Big Brain skyline talk (2 Dec), Love Potion book swap (4 Dec), Salesforce Park wreath-making (6 Dec); Comedy at the Commons address now 550 Laguna. 14 adds for 2 Mar-11 Apr, filling empty 5 and 7-11 Apr: Commonwealth Club (Sutton/Fragale/Scott), Henry Rollins (City Arts), Commons Purpose Alignment Circle, Ruby Waters, Noah Gundersen, Saxsquatch, The Mary Wallopers (Irish folk), Gang of Youths, Babes in Canyon, SF Salsa Social, milonga, Bachata Lab, Infinite Wrench, Hello! Bachata. Unreachable: Ticketmaster, Punch Line (429), sfmuseo.org, Rickshaw Stop (Cloudflare)."
+  },
+  {
     "ran_at": "2026-11-25T06:45:00-08:00",
     "added": 19,
     "considered": 152,
@@ -172,11 +178,5 @@
     "added": 24,
     "considered": 420,
     "notes": "Feeds: 0 new. Scout covered talks/food/outdoors/classes. Talks: Manny's philosophy salon (p-zombies) 29 Oct + trivia 11 Nov; Mark Danner City Lights 12 Nov; Julia Harte City Lights 1 Dec; Daniel Duane Booksmith 19 Nov; Annalee Newitz + Soleil Ho SFPL 22 Nov; Rosanna Xia SFPL 5 Dec; Kevin Starr Lecture (SF Historical Society) 13 Nov; Kirk Lombard foraging book launch Presidio 30 Oct. Social/food: KQED Live Happy Hour Showdown 5 Nov + Mission loteria night 10 Nov; Fall Cider Fest Mission Bay 7 Nov; Chocolate Salon GGP 22 Nov; Renegade Craft Fair 14 Nov; SoMa Filipinas mural block party 13 Nov (4 min); Arab Film Festival free outdoor screening 12 Nov. Outdoors: Ocean Dance sunset silent discos 1/8/15 Nov; SF City Guides free walks (waterfront 7 Nov, Rincon Center murals 14 Nov). Classes: dumpling class 8 Nov, beaded-necklace craft club 18 Nov, BATS intro-to-improv single session 21 Nov. sources.yaml: +10 recurring sources (City Lights, Green Apple, Booksmith, KQED Live, SFPL author talks, Presidio, BATS school, SF City Guides, Ocean Dance, Ferry Building/Foodwise). Manny's site now loads headless. Off the Grid Fort Mason Friday market has no Nov dates (season ended 16 Oct). Internet Archive: only virtual events. Over-cap: Hands On Gourmet, Bernal Cutlery, sourdough workshop. Spares: City Lights Believer launch 5 Nov + Jennifer Croft 10 Nov; Green Apple 'Weird Science' 12 Nov; BATS Theatresports Saturdays; SF VegFest 14 Nov; KQED mahjong 3 Dec; SF City Guides Barbary Coast walks Sundays."
-  },
-  {
-    "ran_at": "2026-10-27T08:30:00-07:00",
-    "added": 24,
-    "considered": 190,
-    "notes": "First scheduled SF sweep. Part 1 suppressed 3 feed imports (Biosecurity Lightning Talks 03 full; AI Safety SF copies of two Mox events). Series filled: Woodchopper's Ball 10/17/24 Nov + 1 Dec, BACDS contra 25 Nov + 9 Dec, MOVEMENT 8 + 15 Nov, Exploratorium After Dark Creepatorium 29 Oct / Digest This 5 Nov / Rule Breakers 3 Dec, Cal Academy Pajammy Jam 12 Nov, Castro Room CI 16 Nov. New: SF Rationalist Dinner at the Metreon 28 Oct (LessWrong map), CCA blindfold pottery contest 29 Oct, 5Rhythms Emerging Waves 1 Nov, Sketchboard figure drawing 4 Nov, Conundrum StorySlam at The Marsh 10 Nov, Abiogenesis kinetic-sculpture opening Heron Arts 14 Nov, Neo-Futurists Infinite Wrench 20 Nov, comedy (Jenny Tian Cobb's 18 Nov, Greg Fitzsimmons Punch Line 3 Dec), Rickshaw Stop Cannelle 19 Nov + L'Rain 2 Dec (verified via eventim.us). SKIPPED: Bhangra & Beats Diwali night market 13 Nov (Fri 4pm, weekday rule). NOT FOUND: LessWrong Winter Solstice 2026 (no listing yet); Nerd Nite SF season ended 21 Oct; Plough and Stars November calendar not posted; Freight & Salvage still Cloudflare-blocked; Mission City Swing human-check. Pottery under $80 still scarce (RedBrick 8 Nov sold out). Spares: MOVEMENT 22/29 Nov, NightLife 19 Nov, Ocean Dance silent disco 8/15 Nov, Renegade Craft Fair 14-15 Nov."
   }
 ]

@@ -1030,10 +1030,10 @@ DTSTAMP:20261203T030000Z
 DTSTART:20261203T030000Z
 DTEND:20261203T050000Z
 SUMMARY:San Francisco\, Uncovered: The Stories Behind the Skyline
-DESCRIPTION:Big Brain lecture-in-a-bar: the stories behind SF's skyline la
- ndmarks\, from what Sutro Tower is actually for to how a Roman-style rotu
- nda ended up by a lagoon in the Marina.\nPrice: $27 (Luma)\nhttps://luma.
- com/05ug8thf
+DESCRIPTION:SOLD OUT. Big Brain lecture-in-a-bar: the stories behind SF's 
+ skyline landmarks\, from what Sutro Tower is actually for to how a Roman-
+ style rotunda ended up by a lagoon in the Marina.\nPrice: $27 (sold out o
+ n Luma)\nhttps://luma.com/05ug8thf
 URL:https://luma.com/05ug8thf
 LOCATION:Madrone Art Bar\, 500 Divisadero St\, San Francisco\, CA 94117
 END:VEVENT
@@ -1177,24 +1177,6 @@ LOCATION:Galleries across the Tenderloin + Lower Nob Hill\, Tenderloin\, S
  an Francisco\, CA
 END:VEVENT
 BEGIN:VEVENT
-UID:50-years-of-mother-jones-with-adam-hochschild-and-monika-bau-a76d67cd@
- sf-events
-DTSTAMP:20261204T020000Z
-DTSTART:20261204T020000Z
-DTEND:20261204T040000Z
-SUMMARY:50 Years of Mother Jones\, with Adam Hochschild and Monika Bauerle
- in
-DESCRIPTION:Mother Jones co-founder Adam Hochschild and CIR CEO Monika Bau
- erlein on the SF-born outlet's big investigations\, its lawsuit against O
- penAI\, and nonprofit news.\nPrice: $25 (students free)\nhttps://www.comm
- onwealthclub.org/events/2026-12-03/50-years-mother-jones-adam-hochschild-
- and-monika-bauerlein
-URL:https://www.commonwealthclub.org/events/2026-12-03/50-years-mother-jon
- es-adam-hochschild-and-monika-bauerlein
-LOCATION:Commonwealth Club World Affairs (Toni Rembe Rock Auditorium)\, 11
- 0 The Embarcadero\, San Francisco\, CA
-END:VEVENT
-BEGIN:VEVENT
 UID:kqed-live-tiles-tonics-a-mahjong-soiree-84b84e51@sf-events
 DTSTAMP:20261204T020000Z
 DTSTART:20261204T020000Z
@@ -1335,9 +1317,10 @@ DTSTAMP:20261205T020000Z
 DTSTART:20261205T020000Z
 DTEND:20261205T050000Z
 SUMMARY:Book Swap + holiday movie night at The Love Potion Library
-DESCRIPTION:Bring a few new or lightly used books to swap\, have a drink a
- nd meet other readers\, then a holiday rom-com goes on at 7pm. There are 
- raffle prizes and cosy treats.\nPrice: $15\nhttps://luma.com/t0cgbdsk
+DESCRIPTION:SOLD OUT. Bring a few new or lightly used books to swap\, have
+  a drink and meet other readers\, then a holiday rom-com goes on at 7pm. 
+ There are raffle prizes and cosy treats.\nPrice: $15 (sold out\, waitlist
+  on Luma)\nhttps://luma.com/t0cgbdsk
 URL:https://luma.com/t0cgbdsk
 LOCATION:The Love Potion Library\, 284 Noe St\, San Francisco\, CA 94114
 END:VEVENT
@@ -1614,7 +1597,7 @@ DESCRIPTION:A holiday stand-up night at The Commons community space in Hay
  es Valley\, headlined by SF comic Scott Capurro.\nPrice: $25\nhttps://lum
  a.com/the-9myd
 URL:https://luma.com/the-9myd
-LOCATION:The SF Commons\, 540 Laguna St\, San Francisco\, CA 94102
+LOCATION:The SF Commons\, 550 Laguna St\, San Francisco\, CA 94102
 END:VEVENT
 BEGIN:VEVENT
 UID:sonny-his-rhinestone-sunsets-kelly-mcfarling-noelle-the-dese-adda0ee2@
@@ -1764,9 +1747,9 @@ DTSTAMP:20261206T230000Z
 DTSTART:20261206T230000Z
 DTEND:20261207T010000Z
 SUMMARY:WinterFest wreath-making party at Salesforce Park
-DESCRIPTION:A free holiday wreath-making afternoon in the rooftop park rig
- ht next to home\, part of Salesforce Park's WinterFest.\nPrice: Free (RSV
- P)\nhttps://www.eventbrite.com/e/2004503609255
+DESCRIPTION:SOLD OUT. A free holiday wreath-making afternoon in the roofto
+ p park right next to home\, part of Salesforce Park's WinterFest.\nPrice:
+  Free (RSVP full\; sold out)\nhttps://www.eventbrite.com/e/2004503609255
 URL:https://www.eventbrite.com/e/2004503609255
 LOCATION:Salesforce Park\, 425 Mission St\, San Francisco\, CA 94105
 END:VEVENT
@@ -7379,6 +7362,25 @@ URL:https://www.theindependentsf.com/tm-event/valley/
 LOCATION:The Independent\, 628 Divisadero St\, San Francisco\, CA 94117
 END:VEVENT
 BEGIN:VEVENT
+UID:robert-sutton-alison-fragale-kim-scott-20-years-of-the-no-a--35233a93@
+ sf-events
+DTSTAMP:20270303T020000Z
+DTSTART:20270303T020000Z
+DTEND:20270303T030000Z
+SUMMARY:Robert Sutton\, Alison Fragale & Kim Scott: 20 years of The No A--
+ hole Rule
+DESCRIPTION:Stanford's Bob Sutton\, psychologist Alison Fragale and Radica
+ l Candor author Kim Scott mark 20 years of The No A--hole Rule\, talking 
+ about workplace jerks and how to deal with them. Doors at 5:30pm\, then a
+  book signing at 7pm.\nPrice: $25 ($45 with book)\nhttps://www.commonweal
+ thclub.org/events/2027-03-02/robert-sutton-alison-fragale-and-kim-scott-2
+ 0-years-definitive-guide-working-and
+URL:https://www.commonwealthclub.org/events/2027-03-02/robert-sutton-aliso
+ n-fragale-and-kim-scott-20-years-definitive-guide-working-and
+LOCATION:Commonwealth Club World Affairs (Taube Family Auditorium)\, 110 T
+ he Embarcadero\, San Francisco\, CA 94105
+END:VEVENT
+BEGIN:VEVENT
 UID:wasia-project-nocturne-live-2027-261a74ba@sf-events
 DTSTAMP:20270303T040000Z
 DTSTART:20270303T040000Z
@@ -7436,6 +7438,21 @@ URL:https://link.dice.fm/c8ffff841acc?pid=ff10e59d
 LOCATION:Kilowatt\, 3160 16th St\, San Francisco\, CA 94103
 END:VEVENT
 BEGIN:VEVENT
+UID:city-arts-lectures-a-conversation-with-henry-rollins-d487d774@sf-event
+ s
+DTSTAMP:20270306T033000Z
+DTSTART:20270306T033000Z
+DTEND:20270306T053000Z
+SUMMARY:City Arts & Lectures: A conversation with Henry Rollins
+DESCRIPTION:The Black Flag and Rollins Band singer\, also a spoken-word ar
+ tist\, writer and radio host\, in conversation on stage. Some tickets inc
+ lude his new memoir Bait Dog Boy.\nhttps://www.cityarts.net/event/a-conve
+ rsation-with-henry-rollins/
+URL:https://www.cityarts.net/event/a-conversation-with-henry-rollins/
+LOCATION:Sydney Goldstein Theater\, 275 Hayes St\, San Francisco\, CA 9410
+ 2
+END:VEVENT
+BEGIN:VEVENT
 UID:fog-city-improv-25261c61@sf-events
 DTSTAMP:20270306T040000Z
 DTSTART:20270306T040000Z
@@ -7474,6 +7491,19 @@ DESCRIPTION:Eric Bachmann's Crooked Fingers (indie folk-rock\, ex-Archers
  link.dice.fm/L67a0ba36580?pid=ff10e59d
 URL:https://link.dice.fm/L67a0ba36580?pid=ff10e59d
 LOCATION:Kilowatt\, 3160 16th St\, San Francisco\, CA 94103
+END:VEVENT
+BEGIN:VEVENT
+UID:purpose-alignment-circle-at-the-commons-march-10baf39b@sf-events
+DTSTAMP:20270307T223000Z
+DTSTART:20270307T223000Z
+DTEND:20270308T003000Z
+SUMMARY:Purpose Alignment Circle at The Commons (March)
+DESCRIPTION:A small facilitated circle for honest conversation about work\
+ , purpose and what you actually want next. Free\, and a relaxed Sunday-af
+ ternoon way to meet people at The Commons.\nPrice: Free\nhttps://luma.com
+ /the-z84k
+URL:https://luma.com/the-z84k
+LOCATION:The SF Commons\, 550 Laguna St\, San Francisco\, CA 94102
 END:VEVENT
 BEGIN:VEVENT
 UID:sf-salsa-social-beginner-class-salsa-mambo-dancing-79e3825b@sf-events
@@ -7626,6 +7656,19 @@ LOCATION:A.C.T. Strand Theater (The Rueff)\, 1127 Market St\, San Francisc
  o\, CA 94103
 END:VEVENT
 BEGIN:VEVENT
+UID:ruby-waters-with-ok-cowgirl-9e6650b8@sf-events
+DTSTAMP:20270314T050000Z
+DTSTART:20270314T050000Z
+DTEND:20270314T070000Z
+SUMMARY:Ruby Waters with OK Cowgirl
+DESCRIPTION:Canadian singer-songwriter Ruby Waters brings her Suppre$$ions
+  tour\, a mix of soul\, folk and indie\, with OK Cowgirl opening. Doors 8
+ :30pm\, show 9pm\, all ages.\nPrice: $35.04\nhttps://www.theindependentsf
+ .com/tm-event/ruby-waters/
+URL:https://www.theindependentsf.com/tm-event/ruby-waters/
+LOCATION:The Independent\, 628 Divisadero St\, San Francisco\, CA 94117
+END:VEVENT
+BEGIN:VEVENT
 UID:pi-day-at-the-exploratorium-its-birthplace-e32afa7f@sf-events
 DTSTAMP:20270314T180000Z
 DTSTART:20270314T180000Z
@@ -7704,6 +7747,23 @@ DESCRIPTION:English indie-folk singer-songwriter Bess Atwell plays the sma
  vent/bess-atwell/708223?afflky=RickshawStop
 URL:https://wl.eventim.us/event/bess-atwell/708223?afflky=RickshawStop
 LOCATION:Rickshaw Stop\, 155 Fell St\, San Francisco\, CA 94102
+END:VEVENT
+BEGIN:VEVENT
+UID:noah-gundersen-rites-of-spring-tour-with-nathan-evans-fox-f6d58957@sf-
+ events
+DTSTAMP:20270317T030000Z
+DTSTART:20270317T030000Z
+DTEND:20270317T050000Z
+SUMMARY:Noah Gundersen: Rites of Spring Tour\, with Nathan Evans Fox
+DESCRIPTION:Seattle songwriter Noah Gundersen plays his quiet\, intense in
+ die-folk in the ornate Great American Music Hall. Nathan Evans Fox opens\
+ ; doors 7pm\, show 8pm.\nPrice: $35.81 ($27 face)\nhttps://wl.seetickets.
+ us/event/noah-gundersen-rites-of-spring-tour-spring-2027/709838?afflky=Gr
+ eatAmericanMusicHall
+URL:https://wl.seetickets.us/event/noah-gundersen-rites-of-spring-tour-spr
+ ing-2027/709838?afflky=GreatAmericanMusicHall
+LOCATION:Great American Music Hall\, 859 O'Farrell St\, San Francisco\, CA
+  94109
 END:VEVENT
 BEGIN:VEVENT
 UID:st-patrick-s-day-the-rockers-thin-lizzy-tribute-at-the-chape-a95a0096@
@@ -7821,6 +7881,21 @@ DESCRIPTION:iHeartMambo's not-for-profit salsa social: beginner and interm
  vents/mucha-salsa-5-2/2027-03-21/
 URL:https://www.verdiclub.net/events/mucha-salsa-5-2/2027-03-21/
 LOCATION:Verdi Club\, 2424 Mariposa St\, San Francisco\, CA 94110
+END:VEVENT
+BEGIN:VEVENT
+UID:saxsquatch-the-conspiracy-theory-tour-b0e70e54@sf-events
+DTSTAMP:20270322T030000Z
+DTSTART:20270322T030000Z
+DTEND:20270322T050000Z
+SUMMARY:Saxsquatch: The Conspiracy Theory Tour
+DESCRIPTION:A saxophone-playing Bigfoot leads a danceable electronic sax s
+ et with lasers\, a silly and very social Sunday night out. Doors 7pm\, sh
+ ow 8pm.\nPrice: $33.31 ($25 face)\nhttps://wl.seetickets.us/event/saxsqua
+ tch/707557?afflky=GreatAmericanMusicHall
+URL:https://wl.seetickets.us/event/saxsquatch/707557?afflky=GreatAmericanM
+ usicHall
+LOCATION:Great American Music Hall\, 859 O'Farrell St\, San Francisco\, CA
+  94109
 END:VEVENT
 BEGIN:VEVENT
 UID:salsacrazy-mondays-salsa-lesson-salsa-bachata-dancing-28a005bc@sf-even
@@ -8056,6 +8131,19 @@ LOCATION:Creativity Theater (San Francisco Playhouse)\, 221 4th St\, San F
  rancisco\, CA 94103
 END:VEVENT
 BEGIN:VEVENT
+UID:the-mary-wallopers-at-august-hall-827ff327@sf-events
+DTSTAMP:20270402T030000Z
+DTSTART:20270402T030000Z
+DTEND:20270402T050000Z
+SUMMARY:The Mary Wallopers at August Hall
+DESCRIPTION:The rowdy Irish folk band from Dundalk plays trad ballads and 
+ drinking songs with punk energy\, as close to a London Irish-folk night a
+ s SF gets. Doors 7pm\, show 8pm.\nPrice: $34.70\nhttps://www.augusthallsf
+ .com/tm-event/the-mary-wallopers/
+URL:https://www.augusthallsf.com/tm-event/the-mary-wallopers/
+LOCATION:August Hall\, 420 Mason St\, San Francisco\, CA 94102
+END:VEVENT
+BEGIN:VEVENT
 UID:delta-sleep-with-pure-hex-7933b1e9@sf-events
 DTSTAMP:20270403T033000Z
 DTSTART:20270403T033000Z
@@ -8094,6 +8182,36 @@ URL:https://luma.com/the-yo2h
 LOCATION:The SF Commons\, 550 Laguna St\, San Francisco\, CA 94102
 END:VEVENT
 BEGIN:VEVENT
+UID:sf-salsa-social-beginner-class-salsa-mambo-dancing-april-10565f2b@sf-e
+ vents
+DTSTAMP:20270405T020000Z
+DTSTART:20270405T020000Z
+DTEND:20270405T063000Z
+SUMMARY:SF Salsa Social: beginner class + salsa & mambo dancing (April)
+DESCRIPTION:The first-Sunday salsa and mambo social at the Verdi Club: a b
+ eginner class at 7pm\, then social dancing from 8 to 11:30pm.\nPrice: $17
+ -$23.18\nhttps://www.eventbrite.com/e/sf-salsa-social-salsa-dancing-lesso
+ n-at-verdi-club-san-francisco-tickets-2003026664674
+URL:https://www.eventbrite.com/e/sf-salsa-social-salsa-dancing-lesson-at-v
+ erdi-club-san-francisco-tickets-2003026664674
+LOCATION:Verdi Club\, 2424 Mariposa St\, San Francisco\, CA 94110
+END:VEVENT
+BEGIN:VEVENT
+UID:gang-of-youths-with-the-sophs-449f481b@sf-events
+DTSTAMP:20270406T030000Z
+DTSTART:20270406T030000Z
+DTEND:20270406T050000Z
+SUMMARY:Gang of Youths with The Sophs
+DESCRIPTION:The ARIA-winning Sydney band play big-hearted\, anthemic indie
+  rock in a room much smaller than they usually fill. The Sophs open\; doo
+ rs 7pm\, show 8pm.\nPrice: $41.43 ($30 face)\nhttps://wl.seetickets.us/ev
+ ent/gang-of-youths/710429?afflky=GreatAmericanMusicHall
+URL:https://wl.seetickets.us/event/gang-of-youths/710429?afflky=GreatAmeri
+ canMusicHall
+LOCATION:Great American Music Hall\, 859 O'Farrell St\, San Francisco\, CA
+  94109
+END:VEVENT
+BEGIN:VEVENT
 UID:narrow-head-with-horse-jumper-of-love-knumears-and-worlds-wo-60ced96d@
  sf-events
 DTSTAMP:20270407T020000Z
@@ -8107,6 +8225,79 @@ DESCRIPTION:(((folkYEAH!))) presents a heavy-shoegaze bill: Narrow Head\,
  el
 URL:https://wl.seetickets.us/event/narrow-head/711495?afflky=TheChapel
 LOCATION:The Chapel\, 777 Valencia St\, San Francisco\, CA 94110
+END:VEVENT
+BEGIN:VEVENT
+UID:babes-in-canyon-whispers-echoes-tour-with-smokey-brights-and-3df016dc@
+ sf-events
+DTSTAMP:20270408T023000Z
+DTSTART:20270408T023000Z
+DTEND:20270408T043000Z
+SUMMARY:Babes in Canyon: Whispers & Echoes Tour\, with Smokey Brights and 
+ Camp Bedford
+DESCRIPTION:Babes in Canyon play alt-folk and darkwave pop with mandolin a
+ nd '80s-radio echoes\, on a three-band indie bill. Doors 6:30pm\, show 7:
+ 30pm.\nPrice: $33.31 ($25 face)\nhttps://wl.seetickets.us/event/babes-in-
+ canyon/710282?afflky=GreatAmericanMusicHall
+URL:https://wl.seetickets.us/event/babes-in-canyon/710282?afflky=GreatAmer
+ icanMusicHall
+LOCATION:Great American Music Hall\, 859 O'Farrell St\, San Francisco\, CA
+  94109
+END:VEVENT
+BEGIN:VEVENT
+UID:milonga-malevaje-thursday-tango-at-the-verdi-club-april-115411f5@sf-ev
+ ents
+DTSTAMP:20270409T030000Z
+DTSTART:20270409T030000Z
+DTEND:20270409T063000Z
+SUMMARY:Milonga Malevaje (Thursday tango at the Verdi Club\, April)
+DESCRIPTION:The Verdi Club's weekly Thursday Argentine tango milonga\, a s
+ ocial dance night in the Mission's old Italian clubhouse.\nPrice: $20\nht
+ tps://www.verdiclub.net/events/milonga-malevaje-78-2-2-2-2/2027-04-08/
+URL:https://www.verdiclub.net/events/milonga-malevaje-78-2-2-2-2/2027-04-0
+ 8/
+LOCATION:Verdi Club\, 2424 Mariposa St\, San Francisco\, CA 94110
+END:VEVENT
+BEGIN:VEVENT
+UID:bachata-lab-friday-bachata-classes-3-levels-social-april-84e2304c@sf-e
+ vents
+DTSTAMP:20270410T030000Z
+DTSTART:20270410T030000Z
+DTEND:20270410T080000Z
+SUMMARY:Bachata Lab: Friday bachata classes (3 levels) + social (April)
+DESCRIPTION:Weekly Friday bachata classes in three levels running at the s
+ ame time\, then a social dance. An easy\, beginner-friendly way to meet p
+ eople on a Friday.\nPrice: from $15\nhttps://www.eventbrite.com/e/bachata
+ -lab-tickets-1543049184649
+URL:https://www.eventbrite.com/e/bachata-lab-tickets-1543049184649
+LOCATION:Bachata Lab\, 1830 17th St\, San Francisco\, CA 94103
+END:VEVENT
+BEGIN:VEVENT
+UID:sf-neo-futurists-the-infinite-wrench-30-plays-in-60-minutes-8fb4d411@s
+ f-events
+DTSTAMP:20270411T040000Z
+DTSTART:20270411T040000Z
+DTEND:20270411T053000Z
+SUMMARY:SF Neo-Futurists: The Infinite Wrench (30 plays in 60 minutes)
+DESCRIPTION:The Neo-Futurists race through 30 tiny original plays in an ho
+ ur\, in an order the audience chooses by shouting. It's personal\, politi
+ cal and very silly\, in a small SoMa space.\nhttps://www.eventbrite.com/e
+ /sf-neo-futurists-the-infinite-wrench-tickets-2005428734329
+URL:https://www.eventbrite.com/e/sf-neo-futurists-the-infinite-wrench-tick
+ ets-2005428734329
+LOCATION:447 Minna St\, 447 Minna St\, San Francisco\, CA 94103
+END:VEVENT
+BEGIN:VEVENT
+UID:hello-bachata-sunday-at-the-verdi-club-april-30cd8db6@sf-events
+DTSTAMP:20270411T220000Z
+DTSTART:20270411T220000Z
+DTEND:20270412T033000Z
+SUMMARY:Hello! Bachata Sunday at the Verdi Club (April)
+DESCRIPTION:A daytime dance social on two floors of the Verdi Club: bachat
+ a (and some salsa) on the main floor\, kizomba and urban kiz upstairs. It
+ 's over by 8:30pm and easy to join solo.\nPrice: $17 cover (Venmo)\nhttps
+ ://www.verdiclub.net/events/hello-bachata-11-2/2027-04-11/
+URL:https://www.verdiclub.net/events/hello-bachata-11-2/2027-04-11/
+LOCATION:Verdi Club\, 2424 Mariposa St\, San Francisco\, CA 94110
 END:VEVENT
 BEGIN:VEVENT
 UID:long-now-talk-meenakshi-wadhwa-on-meteorites-moon-rocks-and--e652b6a1@
