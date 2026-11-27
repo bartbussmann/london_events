@@ -1,5 +1,11 @@
 [
   {
+    "ran_at": "2026-11-27T06:45:00-08:00",
+    "added": 16,
+    "considered": 186,
+    "notes": "Part 1: no new or moved feed events; pruned 7. Part 2: freshness check of 63 events 7-13 Dec - AISF RSI meetup (9 Dec) and feeble little horse (9 Dec) sold out; Short Story Symposium end time + address updated. 16 adds: free holiday swing dance at Salesforce Park (5 Dec), winter solstice ocean dance + bonfire (20 Dec), Cimafunk NYE at SFJAZZ, Commons contemplative circle, Paradox Lab philosophy salon at Manny's, Bogna Konior AI talk at Gray Area, SF CogSci reading group (Michael Levin), craft workshops x3 (stained glass, clay ornaments, book binding), Sam Burton, El Vez Mex-mas, Aerosols + Tarnation, Dirty Dozen Brass Band, Polar Bear Skate (1 Jan), Foodwise squash celebration. Blocked: gracecathedral.org (403)."
+  },
+  {
     "ran_at": "2026-11-26T06:45:00-08:00",
     "added": 15,
     "considered": 79,
@@ -172,11 +178,5 @@
     "added": 49,
     "considered": 185,
     "notes": "GAP-FILL SWEEP: density audit found 36 thin days (Thanksgiving week + almost all of December); after this sweep there are ZERO empty days through 31 Dec. Part 1 suppressed 3 Friday-daytime Mox imports. Highlights: John Waters Christmas GAMH 30 Nov (~$78, will sell out); Lost Landscapes 2nd night 2 Dec (1 Dec entry flagged SOLD OUT); Marlon James City Arts 10 Dec; Squirrel Nut Zippers Christmas at Bimbo's 6 Dec; JD McPherson 13 Dec; Pokey LaFarge 16 Dec; Lucius at the Castro 11 Dec; Grace Cathedral concerts 18/21/23 Dec; Chanticleer 20 Dec; Kitka wintersongs 20 Dec; Celtic Christmas 18 Dec; Oakland Interfaith Gospel Choir Christmas Eve at GAMH; Kung Pao Kosher Comedy Christmas Day; Exploratorium After Dark Solstice 17 Dec; Kolo Balkan folk-dance festival 28 Nov; Dickens Christmas Fair (Cow Palace, Daly City); Woodchopper's Ball every Tuesday in Dec; BACDS SF English 12 Dec; NYE: Lemon Twigs at the Chapel ($55) + BACDS NYE Contra Ball (Palo Alto — Peninsula exception, ceilidh-like NYE). EXCEPTIONS (flagged): Thanksgiving-morning Ocean Dance 10:30 (public holiday, weekday-daytime rule waived); Milonga on Thanksgiving night may not run; Berkeley contra 30 Dec (East Bay, only option that day). STILL UNANNOUNCED: LessWrong Bay Area Winter Solstice 2026 (2025 edition was 6 Dec at Freight & Salvage — likely Freight again; Cloudflare blocks it). No Dec MOVEMENT/NightLife/Sing-It-Yourself Messiah dates yet. SOLD OUT: Julio Torres Castro 30 Nov, Marc Maron 5 Dec, Two Gallants 18 Dec, Swingin' Utters 23 Dec, Feeble Little Horse 10 Dec. UNVERIFIED: Chuck Prophet Chapel 26 Dec, Phoebe Judge Bimbo's 14 Dec, Purple NYE at the Vogue. Spares: Sunset Night Market 11 Dec (5pm), WHY? 8 Dec, Mother Hips 18-19 Dec, Hayes Valley Comedy Night nightly to 7 Jan."
-  },
-  {
-    "ran_at": "2026-10-28T08:30:00-07:00",
-    "added": 24,
-    "considered": 420,
-    "notes": "Feeds: 0 new. Scout covered talks/food/outdoors/classes. Talks: Manny's philosophy salon (p-zombies) 29 Oct + trivia 11 Nov; Mark Danner City Lights 12 Nov; Julia Harte City Lights 1 Dec; Daniel Duane Booksmith 19 Nov; Annalee Newitz + Soleil Ho SFPL 22 Nov; Rosanna Xia SFPL 5 Dec; Kevin Starr Lecture (SF Historical Society) 13 Nov; Kirk Lombard foraging book launch Presidio 30 Oct. Social/food: KQED Live Happy Hour Showdown 5 Nov + Mission loteria night 10 Nov; Fall Cider Fest Mission Bay 7 Nov; Chocolate Salon GGP 22 Nov; Renegade Craft Fair 14 Nov; SoMa Filipinas mural block party 13 Nov (4 min); Arab Film Festival free outdoor screening 12 Nov. Outdoors: Ocean Dance sunset silent discos 1/8/15 Nov; SF City Guides free walks (waterfront 7 Nov, Rincon Center murals 14 Nov). Classes: dumpling class 8 Nov, beaded-necklace craft club 18 Nov, BATS intro-to-improv single session 21 Nov. sources.yaml: +10 recurring sources (City Lights, Green Apple, Booksmith, KQED Live, SFPL author talks, Presidio, BATS school, SF City Guides, Ocean Dance, Ferry Building/Foodwise). Manny's site now loads headless. Off the Grid Fort Mason Friday market has no Nov dates (season ended 16 Oct). Internet Archive: only virtual events. Over-cap: Hands On Gourmet, Bernal Cutlery, sourdough workshop. Spares: City Lights Believer launch 5 Nov + Jennifer Croft 10 Nov; Green Apple 'Weird Science' 12 Nov; BATS Theatresports Saturdays; SF VegFest 14 Nov; KQED mahjong 3 Dec; SF City Guides Barbary Coast walks Sundays."
   }
 ]

@@ -1104,6 +1104,22 @@ URL:https://www.sfmoma.org/event/sydney-cash-makes-too-much-art/
 LOCATION:SFMOMA\, Phyllis Wattis Theater\, 151 3rd St\, San Francisco\, CA
 END:VEVENT
 BEGIN:VEVENT
+UID:philosophy-salon-with-the-paradox-lab-sensory-illusions-mann-8f574e09@
+ sf-events
+DTSTAMP:20261204T020000Z
+DTSTART:20261204T020000Z
+DTEND:20261204T033000Z
+SUMMARY:Philosophy Salon with The Paradox Lab: Sensory Illusions (Manny's)
+DESCRIPTION:Dr. Iris Oved of The Paradox Lab leads an interactive salon on
+  how our senses get fooled and what that reveals about the gap between th
+ e world and our minds. Bring your own questions.\nPrice: $10.30-$15.45\nh
+ ttps://www.eventbrite.com/e/philosophy-salon-with-the-paradox-lab-sensory
+ -illusions-tickets-2004624250095
+URL:https://www.eventbrite.com/e/philosophy-salon-with-the-paradox-lab-sen
+ sory-illusions-tickets-2004624250095
+LOCATION:Manny's\, 3092 16th St\, San Francisco\, CA 94103
+END:VEVENT
+BEGIN:VEVENT
 UID:the-death-of-meyerhold-shotgun-players-preview-d5d05294@sf-events
 DTSTAMP:20261204T030000Z
 DTSTART:20261204T030000Z
@@ -1243,6 +1259,21 @@ LOCATION:SF State Observatory\, Thornton Hall 10th floor\, 1600 Holloway A
  ve\, San Francisco\, CA 94132
 END:VEVENT
 BEGIN:VEVENT
+UID:holiday-clay-ornaments-sip-craft-at-the-living-room-on-9th-0d46900f@sf
+ -events
+DTSTAMP:20261205T023000Z
+DTSTART:20261205T023000Z
+DTEND:20261205T053000Z
+SUMMARY:Holiday Clay Ornaments: Sip & Craft at The Living Room on 9th
+DESCRIPTION:A small\, relaxed Friday-evening class making and decorating y
+ our own clay ornaments\, all materials included and no experience needed.
+  Bring your own drink.\nPrice: $54.13\nhttps://www.eventbrite.com/e/holid
+ ay-clay-ornaments-sip-craft-tickets-2005321002099
+URL:https://www.eventbrite.com/e/holiday-clay-ornaments-sip-craft-tickets-
+ 2005321002099
+LOCATION:The Living Room on 9th\, 1383 9th Ave\, San Francisco\, CA 94122
+END:VEVENT
+BEGIN:VEVENT
 UID:playground-twisted-holiday-festival-opening-night-to-bah-or--bb4b7012@
  sf-events
 DTSTAMP:20261205T030000Z
@@ -1380,6 +1411,23 @@ LOCATION:San Francisco County Fair Building (Golden Gate Park)\, 1199 9th
  Ave\, San Francisco\, CA 94122
 END:VEVENT
 BEGIN:VEVENT
+UID:scrap-workshop-stained-glass-holiday-ornaments-with-christin-9d205c8a@
+ sf-events
+DTSTAMP:20261205T190000Z
+DTSTART:20261205T190000Z
+DTEND:20261205T220000Z
+SUMMARY:SCRAP workshop: stained glass holiday ornaments with Christine Pre
+ ziosi
+DESCRIPTION:An introductory stained-glass workshop at the creative-reuse c
+ enter. You learn the main tools of the trade and leave with a glass ornam
+ ent for the holidays.\nPrice: $49.87-$71.21 (sliding scale)\nhttps://www.
+ eventbrite.com/e/stained-glass-ornaments-with-christine-preziosi-tickets-
+ 1998616873871
+URL:https://www.eventbrite.com/e/stained-glass-ornaments-with-christine-pr
+ eziosi-tickets-1998616873871
+LOCATION:SCRAP\, 141 Industrial St #1\, San Francisco\, CA 94124
+END:VEVENT
+BEGIN:VEVENT
 UID:mapp-mission-arts-performance-project-december-crawl-ac47bed8@sf-event
  s
 DTSTAMP:20261205T200000Z
@@ -1439,6 +1487,21 @@ URL:https://www.lesswrong.com/events/GZYLmx7ShQZ84HZMN/san-francisco-acx-m
 LOCATION:Mox\, 1680 Mission St\, San Francisco\, CA 94103
 END:VEVENT
 BEGIN:VEVENT
+UID:where-do-i-end-complexity-science-as-contemplative-practice--d68ca823@
+ sf-events
+DTSTAMP:20261205T220000Z
+DTSTART:20261205T220000Z
+DTEND:20261206T010000Z
+SUMMARY:Where Do "I" End? Complexity science as contemplative practice (Th
+ e Commons)
+DESCRIPTION:A physicist gives a plain intro to emergence and self-organisa
+ tion\, then the group moves into a meditative discussion circle\, somewhe
+ re between a philosophy salon and a sharing circle.\nPrice: $0-$18 slidin
+ g scale ($8 suggested)\nhttps://luma.com/the-9uhv
+URL:https://luma.com/the-9uhv
+LOCATION:The SF Commons\, 550 Laguna St\, San Francisco\, CA 94102
+END:VEVENT
+BEGIN:VEVENT
 UID:ics-632bba21e931@sf-events
 DTSTAMP:20261205T233000Z
 DTSTART:20261205T233000Z
@@ -1450,6 +1513,23 @@ DESCRIPTION:A reading group on the maths of social dynamics ('psychohistor
  a)\nhttps://luma.com/pcbf4rr6
 URL:https://luma.com/pcbf4rr6
 LOCATION:Mox\, 1680 Mission St\, San Francisco\, CA 94103
+END:VEVENT
+BEGIN:VEVENT
+UID:in-darkness-and-secrecy-the-silent-singularity-bogna-konior--48eab707@
+ sf-events
+DTSTAMP:20261206T003000Z
+DTSTART:20261206T003000Z
+DTEND:20261206T030000Z
+SUMMARY:In Darkness and Secrecy: The Silent Singularity (Bogna Konior at G
+ ray Area)
+DESCRIPTION:AI philosopher Bogna Konior presents an immersive talk asking 
+ whether a real singularity would be undetectable\, tracing evasive intell
+ igence from negative theology to the Fermi Paradox. Doors 4:30pm\, talk 5
+ pm.\nPrice: $10 suggested (pay what you can\; Luma registration needs app
+ roval)\nhttps://grayarea.org/event/in-darkness-and-secrecy/
+URL:https://grayarea.org/event/in-darkness-and-secrecy/
+LOCATION:Gray Area (Grand Theater)\, 2665 Mission St\, San Francisco\, CA 
+ 94110
 END:VEVENT
 BEGIN:VEVENT
 UID:di-rosa-sf-julio-cesar-morales-artist-talk-shared-meal-2f310883@sf-eve
@@ -1468,6 +1548,38 @@ URL:https://minnesotastreetproject.com/exhibitions/1150-25th-st/invaders-v
  allejo-food-and-making-california
 LOCATION:di Rosa SF (Minnesota Street Project)\, 1150 25th St\, San Franci
  sco\, CA 94107
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-swing-dance-with-the-hot-baked-goods-at-salesforce-p-ede7f19e@
+ sf-events
+DTSTAMP:20261206T010000Z
+DTSTART:20261206T010000Z
+DTEND:20261206T030000Z
+SUMMARY:Holiday Swing Dance with the Hot Baked Goods at Salesforce Park (W
+ interfest)
+DESCRIPTION:Free rooftop-park swing dance with live music from the Hot Bak
+ ed Goods\, with a complimentary beginner lesson if you arrive early. Part
+  of Salesforce Park's Winterfest weekend\, a three-minute walk from home.
+ \nPrice: Free\nhttps://www.salesforcetransitcenter.com/salesforce-transit
+ -center/activities/winterfest-2026
+URL:https://www.salesforcetransitcenter.com/salesforce-transit-center/acti
+ vities/winterfest-2026
+LOCATION:Salesforce Park\, 425 Mission St\, San Francisco\, CA 94105
+END:VEVENT
+BEGIN:VEVENT
+UID:sam-burton-captured-tracks-early-show-at-the-make-out-room-f006db8c@sf
+ -events
+DTSTAMP:20261206T023000Z
+DTSTART:20261206T023000Z
+DTEND:20261206T053000Z
+SUMMARY:Sam Burton (Captured Tracks) early show at the Make-Out Room
+DESCRIPTION:Warm\, '70s-tinged singer-songwriter Sam Burton plays what the
+  venue calls "a very intimate early show" in the Mission's favourite smal
+ l room. Done by 9:30pm.\nPrice: $23.18\nhttps://www.eventbrite.com/e/sam-
+ burton-captured-tracks-with-special-guest-tickets-2003120185397
+URL:https://www.eventbrite.com/e/sam-burton-captured-tracks-with-special-g
+ uest-tickets-2003120185397
+LOCATION:Make-Out Room\, 3225 22nd St\, San Francisco\, CA 94110
 END:VEVENT
 BEGIN:VEVENT
 UID:singles-travel-trivia-night-ages-30-45-jigsaw-dating-0d0bc498@sf-event
@@ -2009,12 +2121,12 @@ DTSTART:20261210T023000Z
 DTEND:20261210T043000Z
 SUMMARY:Let's talk about Recursive Self-Improvement: the latest hot topic 
  in AIS
-DESCRIPTION:Moved from 24 Nov to Wed 9 Dec\; registration has reopened. AI
-  Safety SF discussion night on recursive self-improvement\, prompted by M
- ETR's report on AI-accelerated research at Anthropic: a group level-set\,
-  then breakouts for newcomers (short readings) and deep-context technical
-  sessions. About 15 minutes of required reading beforehand.\nPrice: Free 
- (register on Luma)\nhttps://luma.com/aisafety-4phl
+DESCRIPTION:SOLD OUT. Moved from 24 Nov to Wed 9 Dec\; AI Safety SF discus
+ sion night on recursive self-improvement\, prompted by METR's report on A
+ I-accelerated research at Anthropic: a group level-set\, then breakouts f
+ or newcomers (short readings) and deep-context technical sessions. About 
+ 15 minutes of required reading beforehand.\nPrice: Free (sold out\; Luma 
+ waitlist open)\nhttps://luma.com/aisafety-4phl
 URL:https://luma.com/aisafety-4phl
 LOCATION:SoMa venue (address shown after registering)
 END:VEVENT
@@ -2023,13 +2135,13 @@ UID:short-story-symposium-ted-chiang-le-guin-at-the-commons-e405120d@sf-ev
  ents
 DTSTAMP:20261210T023000Z
 DTSTART:20261210T023000Z
-DTEND:20261210T043000Z
+DTEND:20261210T033000Z
 SUMMARY:Short Story Symposium (Ted Chiang\, Le Guin) at The Commons
 DESCRIPTION:A free short-story discussion evening at The Commons in Hayes 
  Valley\, featuring work by Ted Chiang and Ursula K. Le Guin. See the Luma
   page for the reading list.\nPrice: Free\nhttps://luma.com/shortstories
 URL:https://luma.com/shortstories
-LOCATION:The SF Commons\, 540 Laguna St\, San Francisco\, CA 94102
+LOCATION:The SF Commons\, 550 Laguna St\, San Francisco\, CA 94102
 END:VEVENT
 BEGIN:VEVENT
 UID:manny-s-trivia-night-71607dec@sf-events
@@ -2093,10 +2205,10 @@ DTSTAMP:20261210T040000Z
 DTSTART:20261210T040000Z
 DTEND:20261210T060000Z
 SUMMARY:feeble little horse with MOP (2nd show)
-DESCRIPTION:The Pittsburgh indie-rock band touring their third LP\, bitkno
- t\, which mixes fuzzed-out guitars with sweet\, off-kilter pop. A second 
- show was added after Dec 10 sold out. All ages.\nPrice: $36\nhttps://www.
- theindependentsf.com/tm-event/feeble-little-horse/
+DESCRIPTION:SOLD OUT. The Pittsburgh indie-rock band touring their third L
+ P\, bitknot\, which mixes fuzzed-out guitars with sweet\, off-kilter pop.
+  A second show was added after Dec 10 sold out. All ages.\nPrice: $36 (so
+ ld out)\nhttps://www.theindependentsf.com/tm-event/feeble-little-horse/
 URL:https://www.theindependentsf.com/tm-event/feeble-little-horse/
 LOCATION:The Independent\, 628 Divisadero St\, San Francisco\, CA 94117
 END:VEVENT
@@ -2416,6 +2528,18 @@ LOCATION:YBCA (Grand Lobby & Forum)\, 701 Mission St\, San Francisco\, CA
  94103
 END:VEVENT
 BEGIN:VEVENT
+UID:book-binding-workshop-at-the-love-potion-library-58d3d59d@sf-events
+DTSTAMP:20261213T013000Z
+DTSTART:20261213T013000Z
+DTEND:20261213T040000Z
+SUMMARY:Book Binding workshop at The Love Potion Library
+DESCRIPTION:A short history of bookmaking\, then a hands-on session where 
+ you stitch and bind your own 100-page A5 journal to keep or give as a gif
+ t. Hosted by SF craft and yap.\nPrice: $60\nhttps://luma.com/tjtibeht
+URL:https://luma.com/tjtibeht
+LOCATION:The Love Potion Library\, 284 Noe St\, San Francisco\, CA 94114
+END:VEVENT
+BEGIN:VEVENT
 UID:bay-area-winter-solstice-2026-rationalist-community-5190812b@sf-events
 DTSTAMP:20261213T030000Z
 DTSTART:20261213T030000Z
@@ -2646,6 +2770,20 @@ URL:https://apeconcerts.com/events/jd-mcpherson-261213/
 LOCATION:Bimbo's 365 Club\, 1025 Columbus Ave\, San Francisco\, CA 94133
 END:VEVENT
 BEGIN:VEVENT
+UID:el-vez-the-centuries-merry-mex-mas-2026-with-rip-room-54c252da@sf-even
+ ts
+DTSTAMP:20261214T040000Z
+DTSTART:20261214T040000Z
+DTEND:20261214T060000Z
+SUMMARY:El Vez & the Centuries: Merry Mex-mas 2026\, with Rip Room
+DESCRIPTION:El Vez\, "the Mexican Elvis"\, brings his annual holiday Mex-M
+ as show backed by LA rockabilly band the Centuries\, with SF art-punks Ri
+ p Room and DJ Sid Presley. All ages\; doors 8pm\, music 9pm.\nPrice: $25 
+ adv / $30 door\nhttp://www.bottomofthehill.com/20261213.html
+URL:http://www.bottomofthehill.com/20261213.html
+LOCATION:Bottom of the Hill\, 1233 17th St\, San Francisco\, CA 94107
+END:VEVENT
+BEGIN:VEVENT
 UID:cyberpunk-cinema-night-at-the-knockout-707f958a@sf-events
 DTSTAMP:20261215T023000Z
 DTSTART:20261215T023000Z
@@ -2834,6 +2972,22 @@ DESCRIPTION:CBS News Bay Area meteorologist Zoe Mintz explains the science
  h34u
 URL:https://luma.com/t21wh34u
 LOCATION:Madrone Art Bar\, 500 Divisadero St\, San Francisco\, CA 94117
+END:VEVENT
+BEGIN:VEVENT
+UID:sf-cogsci-35-michael-levin-s-ingressing-minds-reading-discus-e5380151@
+ sf-events
+DTSTAMP:20261216T030000Z
+DTSTART:20261216T030000Z
+DTEND:20261216T050000Z
+SUMMARY:SF CogSci #35: Michael Levin's "Ingressing Minds" (reading discuss
+ ion)
+DESCRIPTION:Monthly cognitive-science reading group discussing Michael Lev
+ in's 2026 paper on non-physical patterns shaping natural\, synthetic and 
+ hybrid minds. Read it beforehand and come to argue about it.\nPrice: Free
+  (register on Luma)\nhttps://luma.com/sf-cogsci-35
+URL:https://luma.com/sf-cogsci-35
+LOCATION:Frontier Tower (15th floor annex)\, 995 Market St\, San Francisco
+ \, CA 94103
 END:VEVENT
 BEGIN:VEVENT
 UID:the-velvet-teen-with-shutups-and-pocket-full-of-crumbs-0b1dab2e@sf-eve
@@ -3222,6 +3376,22 @@ LOCATION:Endgames Improv (ETC Prime)\, 2965 Mission St\, San Francisco\, C
  A 94110
 END:VEVENT
 BEGIN:VEVENT
+UID:foodwise-roots-celebration-winter-squash-tastings-and-a-cook-16b7f748@
+ sf-events
+DTSTAMP:20261219T190000Z
+DTSTART:20261219T190000Z
+DTEND:20261219T210000Z
+SUMMARY:Foodwise Roots Celebration: winter squash tastings and a cooking d
+ emo at Ferry Plaza
+DESCRIPTION:Foodwise celebrates winter squash with free samples\, recipes 
+ and cooking tips at the Seasonal Spotlight tent. At 11am\, The Kitchen Ac
+ tivist author Florencia Ramirez gives a cooking demo.\nPrice: Free\nhttps
+ ://foodwise.org/events/roots-celebration-2/
+URL:https://foodwise.org/events/roots-celebration-2/
+LOCATION:Ferry Plaza Farmers Market (Foodwise tent)\, 1 Ferry Building\, S
+ an Francisco\, CA 94111
+END:VEVENT
+BEGIN:VEVENT
 UID:a-cathedral-christmas-saturday-matinee-grace-cathedral-choir-cec8c784@
  sf-events
 DTSTAMP:20261219T230000Z
@@ -3302,6 +3472,19 @@ DESCRIPTION:SF's 40-year-old irreverent alternative to the Nutcracker. The
 URL:https://sfprideband.org/performances-and-events/dance-along-nutcracker
  -2026-a-dance-along-toy-story-dec-19-700-pm/
 LOCATION:YBCA Forum\, 701 Mission St\, San Francisco\, CA 94103
+END:VEVENT
+BEGIN:VEVENT
+UID:the-aerosols-tarnation-at-the-make-out-room-e4a1747e@sf-events
+DTSTAMP:20261220T030000Z
+DTSTART:20261220T030000Z
+DTEND:20261220T053000Z
+SUMMARY:The Aerosols + Tarnation at the Make-Out Room
+DESCRIPTION:An early Saturday show in the Mission's favourite small room w
+ ith The Aerosols and Tarnation.\nPrice: $15\nhttps://www.calendarwiz.com/
+ calendars/popup.php?op=view&id=193038221&crd=makeoutroom
+URL:https://www.calendarwiz.com/calendars/popup.php?op=view&id=193038221&c
+ rd=makeoutroom
+LOCATION:Make-Out Room\, 3225 22nd St\, San Francisco\, CA 94110
 END:VEVENT
 BEGIN:VEVENT
 UID:the-mother-hips-annual-holiday-show-with-little-worth-71811bf9@sf-even
@@ -3394,6 +3577,24 @@ URL:https://www.oldfirstconcerts.org/performance/kitka-wintersongs-comfort
  -joy-sunday-december-20-at-4-pm/
 LOCATION:Old First Church (Old First Concerts)\, 1751 Sacramento St\, San 
  Francisco\, CA 94109
+END:VEVENT
+BEGIN:VEVENT
+UID:winter-solstice-ocean-dance-bonfire-silent-disco-dance-on-oc-bcd03069@
+ sf-events
+DTSTAMP:20261221T000000Z
+DTSTART:20261221T000000Z
+DTEND:20261221T013000Z
+SUMMARY:Winter Solstice Ocean Dance + bonfire (silent-disco dance on Ocean
+  Beach)
+DESCRIPTION:A sunset silent-disco movement journey on the sand with local 
+ DJs\, led by movement guide Magali Clazo\, followed by solstice rituals a
+ round a bonfire. Conscious-dance crowd\, easy to join solo.\nPrice: $33.8
+ 5\nhttps://www.eventbrite.com/e/winter-solstice-celebration-bonfire-in-oc
+ ean-dance-tickets-2005521012335
+URL:https://www.eventbrite.com/e/winter-solstice-celebration-bonfire-in-oc
+ ean-dance-tickets-2005521012335
+LOCATION:Ocean Beach (Great Highway at Balboa St)\, Great Highway & Balboa
+  St\, San Francisco\, CA 94121
 END:VEVENT
 BEGIN:VEVENT
 UID:mucha-salsa-social-free-beginner-class-cec59c5b@sf-events
@@ -4300,6 +4501,23 @@ LOCATION:BATS Bayfront Theatre\, Fort Mason Center\, 2 Marina Blvd\, Build
  ing B\, 3rd Floor\, San Francisco\, CA 94123
 END:VEVENT
 BEGIN:VEVENT
+UID:cimafunk-new-year-s-eve-celebration-at-sfjazz-8pm-show-541b4b7f@sf-eve
+ nts
+DTSTAMP:20270101T040000Z
+DTSTART:20270101T040000Z
+DTEND:20270101T060000Z
+SUMMARY:Cimafunk New Year's Eve Celebration at SFJAZZ (8pm show)
+DESCRIPTION:Cuban funk band Cimafunk and La Tribu play an NYE concert with
+  an open dance floor\, complimentary sparkling wine and countdowns. The 1
+ 0:30pm show adds a balloon drop\; the cheapest tickets are $50.\nPrice: $
+ 50-$140\nhttps://www.sfjazz.org/tickets/productions/26-27/cimafunk-new-ye
+ ars-celebration/
+URL:https://www.sfjazz.org/tickets/productions/26-27/cimafunk-new-years-ce
+ lebration/
+LOCATION:SFJAZZ Center\, Miner Auditorium\, 201 Franklin St\, San Francisc
+ o\, CA 94102
+END:VEVENT
+BEGIN:VEVENT
 UID:the-lemon-twigs-new-year-s-eve-with-tchotchke-931c641a@sf-events
 DTSTAMP:20270101T050000Z
 DTSTART:20270101T050000Z
@@ -4359,6 +4577,20 @@ DESCRIPTION:A flat 1.5-2 hour New Year's Day walk along the northern water
 URL:https://www.sfcityguides.org/find-your-tour/?visit=2027-01-01
 LOCATION:Ferry Building clock tower (meeting point)\, Foot of Market St at
   The Embarcadero\, San Francisco\, CA 94111
+END:VEVENT
+BEGIN:VEVENT
+UID:polar-bear-skate-new-year-s-day-beachwear-skate-at-union-squ-016adc3a@
+ sf-events
+DTSTAMP:20270101T223000Z
+DTSTART:20270101T223000Z
+DTEND:20270101T233000Z
+SUMMARY:Polar Bear Skate: New Year's Day beachwear skate at Union Square
+DESCRIPTION:The rink's take on the New Year's polar-bear plunge: skate out
+ doors in your most creative beachwear\, with prizes for the best outfits.
+  Free to watch.\nPrice: $30\nhttps://unionsquareicerink.com/special-event
+ s/
+URL:https://unionsquareicerink.com/special-events/
+LOCATION:Union Square Ice Rink\, 333 Post St\, San Francisco\, CA 94108
 END:VEVENT
 BEGIN:VEVENT
 UID:hayes-valley-comedy-night-new-year-s-day-show-7b595a8b@sf-events
@@ -4452,6 +4684,19 @@ DESCRIPTION:The adults-only Saturday night session of SF's roller disco in
 URL:https://www.eventbrite.com/e/the-saturday-roller-disco-3rd-session-adu
  lts-7-pm-to-11-pm-tickets-1978867998453
 LOCATION:Church of 8 Wheels\, 554 Fillmore St\, San Francisco\, CA 94117
+END:VEVENT
+BEGIN:VEVENT
+UID:the-dirty-dozen-brass-band-50th-anniversary-tour-5012cc1b@sf-events
+DTSTAMP:20270103T043000Z
+DTSTART:20270103T043000Z
+DTEND:20270103T063000Z
+SUMMARY:The Dirty Dozen Brass Band: 50th Anniversary Tour
+DESCRIPTION:The New Orleans brass-funk institution plays a full evening fo
+ r its 50th anniversary\, a good dancing show to start the new year. All a
+ ges\; doors 7:30pm\, show 8:30pm.\nPrice: $40-$45\nhttps://thechapelsf.co
+ m/music/
+URL:https://thechapelsf.com/music/
+LOCATION:The Chapel\, 777 Valencia St\, San Francisco\, CA 94110
 END:VEVENT
 BEGIN:VEVENT
 UID:lindy-in-the-park-free-swing-dancing-beginner-lesson-99fb5a59@sf-event

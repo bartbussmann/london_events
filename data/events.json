@@ -1375,6 +1375,25 @@
     "added": "2026-11-07"
   },
   {
+    "id": "philosophy-salon-with-the-paradox-lab-sensory-illusions-mann-8f574e09",
+    "title": "Philosophy Salon with The Paradox Lab: Sensory Illusions (Manny's)",
+    "start": "2026-12-03T18:00:00-08:00",
+    "end": "2026-12-03T19:30:00-08:00",
+    "venue": "Manny's",
+    "address": "3092 16th St, San Francisco, CA 94103",
+    "url": "https://www.eventbrite.com/e/philosophy-salon-with-the-paradox-lab-sensory-illusions-tickets-2004624250095",
+    "source": "venue:mannys",
+    "tags": [
+      "talk",
+      "community"
+    ],
+    "price": "$10.30-$15.45",
+    "description": "Dr. Iris Oved of The Paradox Lab leads an interactive salon on how our senses get fooled and what that reveals about the gap between the world and our minds. Bring your own questions.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 13,
+    "added": "2026-11-27"
+  },
+  {
     "title": "The Death of Meyerhold (Shotgun Players preview)",
     "start": "2026-12-03T19:00:00-08:00",
     "end": null,
@@ -1539,6 +1558,25 @@
     "cycle_minutes": 55,
     "added": "2026-11-04",
     "id": "sf-state-observatory-public-night-rooftop-telescope-stargazi-9ff8ffe6"
+  },
+  {
+    "id": "holiday-clay-ornaments-sip-craft-at-the-living-room-on-9th-0d46900f",
+    "title": "Holiday Clay Ornaments: Sip & Craft at The Living Room on 9th",
+    "start": "2026-12-04T18:30:00-08:00",
+    "end": "2026-12-04T21:30:00-08:00",
+    "venue": "The Living Room on 9th",
+    "address": "1383 9th Ave, San Francisco, CA 94122",
+    "url": "https://www.eventbrite.com/e/holiday-clay-ornaments-sip-craft-tickets-2005321002099",
+    "source": "aggregator:eventbrite",
+    "tags": [
+      "workshop",
+      "art"
+    ],
+    "price": "$54.13",
+    "description": "A small, relaxed Friday-evening class making and decorating your own clay ornaments, all materials included and no experience needed. Bring your own drink.",
+    "neighbourhood": "Inner Sunset",
+    "cycle_minutes": 28,
+    "added": "2026-11-27"
   },
   {
     "id": "playground-twisted-holiday-festival-opening-night-to-bah-or--bb4b7012",
@@ -1711,6 +1749,26 @@
     "id": "sunset-holiday-mercantile-100-local-makers-food-trucks-and-l-9033f842"
   },
   {
+    "id": "scrap-workshop-stained-glass-holiday-ornaments-with-christin-9d205c8a",
+    "title": "SCRAP workshop: stained glass holiday ornaments with Christine Preziosi",
+    "start": "2026-12-05T11:00:00-08:00",
+    "end": "2026-12-05T14:00:00-08:00",
+    "venue": "SCRAP",
+    "address": "141 Industrial St #1, San Francisco, CA 94124",
+    "url": "https://www.eventbrite.com/e/stained-glass-ornaments-with-christine-preziosi-tickets-1998616873871",
+    "source": "venue:scrap",
+    "tags": [
+      "workshop",
+      "art",
+      "class"
+    ],
+    "price": "$49.87-$71.21 (sliding scale)",
+    "description": "An introductory stained-glass workshop at the creative-reuse center. You learn the main tools of the trade and leave with a glass ornament for the holidays.",
+    "neighbourhood": "Bayview",
+    "cycle_minutes": 28,
+    "added": "2026-11-27"
+  },
+  {
     "id": "mapp-mission-arts-performance-project-december-crawl-ac47bed8",
     "title": "MAPP: Mission Arts & Performance Project (December crawl)",
     "start": "2026-12-05T12:00:00-08:00",
@@ -1787,6 +1845,26 @@
     "added": "2026-11-25"
   },
   {
+    "id": "where-do-i-end-complexity-science-as-contemplative-practice--d68ca823",
+    "title": "Where Do \"I\" End? Complexity science as contemplative practice (The Commons)",
+    "start": "2026-12-05T14:00:00-08:00",
+    "end": "2026-12-05T17:00:00-08:00",
+    "venue": "The SF Commons",
+    "address": "550 Laguna St, San Francisco, CA 94102",
+    "url": "https://luma.com/the-9uhv",
+    "source": "listing:luma-the-commons",
+    "tags": [
+      "workshop",
+      "community",
+      "talk"
+    ],
+    "price": "$0-$18 sliding scale ($8 suggested)",
+    "description": "A physicist gives a plain intro to emergence and self-organisation, then the group moves into a meditative discussion circle, somewhere between a philosophy salon and a sharing circle.",
+    "neighbourhood": "Hayes Valley",
+    "cycle_minutes": 12,
+    "added": "2026-11-27"
+  },
+  {
     "id": "ics-632bba21e931",
     "title": "Mathematical Sociodynamics reading group (Psychohistory but real)",
     "start": "2026-12-05T15:30:00-08:00",
@@ -1804,6 +1882,25 @@
     "added": "2026-11-24",
     "neighbourhood": "Mission",
     "cycle_minutes": 13
+  },
+  {
+    "id": "in-darkness-and-secrecy-the-silent-singularity-bogna-konior--48eab707",
+    "title": "In Darkness and Secrecy: The Silent Singularity (Bogna Konior at Gray Area)",
+    "start": "2026-12-05T16:30:00-08:00",
+    "end": "2026-12-05T19:00:00-08:00",
+    "venue": "Gray Area (Grand Theater)",
+    "address": "2665 Mission St, San Francisco, CA 94110",
+    "url": "https://grayarea.org/event/in-darkness-and-secrecy/",
+    "source": "venue:gray-area",
+    "tags": [
+      "talk",
+      "tech"
+    ],
+    "price": "$10 suggested (pay what you can; Luma registration needs approval)",
+    "description": "AI philosopher Bogna Konior presents an immersive talk asking whether a real singularity would be undetectable, tracing evasive intelligence from negative theology to the Fermi Paradox. Doors 4:30pm, talk 5pm.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 15,
+    "added": "2026-11-27"
   },
   {
     "title": "di Rosa SF: Julio Cesar Morales artist talk + shared meal",
@@ -1824,6 +1921,44 @@
     "cycle_minutes": 12,
     "added": "2026-11-03",
     "id": "di-rosa-sf-julio-cesar-morales-artist-talk-shared-meal-2f310883"
+  },
+  {
+    "id": "holiday-swing-dance-with-the-hot-baked-goods-at-salesforce-p-ede7f19e",
+    "title": "Holiday Swing Dance with the Hot Baked Goods at Salesforce Park (Winterfest)",
+    "start": "2026-12-05T17:00:00-08:00",
+    "end": "2026-12-05T19:00:00-08:00",
+    "venue": "Salesforce Park",
+    "address": "425 Mission St, San Francisco, CA 94105",
+    "url": "https://www.salesforcetransitcenter.com/salesforce-transit-center/activities/winterfest-2026",
+    "source": "venue:salesforce-park",
+    "tags": [
+      "dance",
+      "music",
+      "outdoors"
+    ],
+    "price": "Free",
+    "description": "Free rooftop-park swing dance with live music from the Hot Baked Goods, with a complimentary beginner lesson if you arrive early. Part of Salesforce Park's Winterfest weekend, a three-minute walk from home.",
+    "neighbourhood": "SoMa",
+    "cycle_minutes": 3,
+    "added": "2026-11-27"
+  },
+  {
+    "id": "sam-burton-captured-tracks-early-show-at-the-make-out-room-f006db8c",
+    "title": "Sam Burton (Captured Tracks) early show at the Make-Out Room",
+    "start": "2026-12-05T18:30:00-08:00",
+    "end": "2026-12-05T21:30:00-08:00",
+    "venue": "Make-Out Room",
+    "address": "3225 22nd St, San Francisco, CA 94110",
+    "url": "https://www.eventbrite.com/e/sam-burton-captured-tracks-with-special-guest-tickets-2003120185397",
+    "source": "venue:make-out-room",
+    "tags": [
+      "music"
+    ],
+    "price": "$23.18",
+    "description": "Warm, '70s-tinged singer-songwriter Sam Burton plays what the venue calls \"a very intimate early show\" in the Mission's favourite small room. Done by 9:30pm.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 15,
+    "added": "2026-11-27"
   },
   {
     "id": "singles-travel-trivia-night-ages-30-45-jigsaw-dating-0d0bc498",
@@ -2534,8 +2669,8 @@
       "tech",
       "community"
     ],
-    "price": "Free (register on Luma)",
-    "description": "Moved from 24 Nov to Wed 9 Dec; registration has reopened. AI Safety SF discussion night on recursive self-improvement, prompted by METR's report on AI-accelerated research at Anthropic: a group level-set, then breakouts for newcomers (short readings) and deep-context technical sessions. About 15 minutes of required reading beforehand.",
+    "price": "Free (sold out; Luma waitlist open)",
+    "description": "SOLD OUT. Moved from 24 Nov to Wed 9 Dec; AI Safety SF discussion night on recursive self-improvement, prompted by METR's report on AI-accelerated research at Anthropic: a group level-set, then breakouts for newcomers (short readings) and deep-context technical sessions. About 15 minutes of required reading beforehand.",
     "added": "2026-11-15",
     "neighbourhood": "SoMa",
     "cycle_minutes": 5
@@ -2544,9 +2679,9 @@
     "id": "short-story-symposium-ted-chiang-le-guin-at-the-commons-e405120d",
     "title": "Short Story Symposium (Ted Chiang, Le Guin) at The Commons",
     "start": "2026-12-09T18:30:00-08:00",
-    "end": null,
+    "end": "2026-12-09T19:30:00-08:00",
     "venue": "The SF Commons",
-    "address": "540 Laguna St, San Francisco, CA 94102",
+    "address": "550 Laguna St, San Francisco, CA 94102",
     "url": "https://luma.com/shortstories",
     "source": "listing:luma-sf-commons",
     "tags": [
@@ -2645,8 +2780,8 @@
     "tags": [
       "music"
     ],
-    "price": "$36",
-    "description": "The Pittsburgh indie-rock band touring their third LP, bitknot, which mixes fuzzed-out guitars with sweet, off-kilter pop. A second show was added after Dec 10 sold out. All ages.",
+    "price": "$36 (sold out)",
+    "description": "SOLD OUT. The Pittsburgh indie-rock band touring their third LP, bitknot, which mixes fuzzed-out guitars with sweet, off-kilter pop. A second show was added after Dec 10 sold out. All ages.",
     "neighbourhood": "NoPa",
     "cycle_minutes": 18,
     "added": "2026-11-08"
@@ -3050,6 +3185,25 @@
     "added": "2026-11-18"
   },
   {
+    "id": "book-binding-workshop-at-the-love-potion-library-58d3d59d",
+    "title": "Book Binding workshop at The Love Potion Library",
+    "start": "2026-12-12T17:30:00-08:00",
+    "end": "2026-12-12T20:00:00-08:00",
+    "venue": "The Love Potion Library",
+    "address": "284 Noe St, San Francisco, CA 94114",
+    "url": "https://luma.com/tjtibeht",
+    "source": "listing:luma-love-potion-library",
+    "tags": [
+      "workshop",
+      "class"
+    ],
+    "price": "$60",
+    "description": "A short history of bookmaking, then a hands-on session where you stitch and bind your own 100-page A5 journal to keep or give as a gift. Hosted by SF craft and yap.",
+    "neighbourhood": "Castro",
+    "cycle_minutes": 17,
+    "added": "2026-11-27"
+  },
+  {
     "title": "Bay Area Winter Solstice 2026 (rationalist community)",
     "start": "2026-12-12T19:00:00-08:00",
     "end": "2026-12-12T21:00:00-08:00",
@@ -3336,6 +3490,24 @@
     "id": "jd-mcpherson-socks-a-rock-n-roll-christmas-tour-with-melissa-ed0c4ecf"
   },
   {
+    "id": "el-vez-the-centuries-merry-mex-mas-2026-with-rip-room-54c252da",
+    "title": "El Vez & the Centuries: Merry Mex-mas 2026, with Rip Room",
+    "start": "2026-12-13T20:00:00-08:00",
+    "end": null,
+    "venue": "Bottom of the Hill",
+    "address": "1233 17th St, San Francisco, CA 94107",
+    "url": "http://www.bottomofthehill.com/20261213.html",
+    "source": "venue:bottom-of-the-hill",
+    "tags": [
+      "music"
+    ],
+    "price": "$25 adv / $30 door",
+    "description": "El Vez, \"the Mexican Elvis\", brings his annual holiday Mex-Mas show backed by LA rockabilly band the Centuries, with SF art-punks Rip Room and DJ Sid Presley. All ages; doors 8pm, music 9pm.",
+    "neighbourhood": "Potrero Hill",
+    "cycle_minutes": 12,
+    "added": "2026-11-27"
+  },
+  {
     "id": "cyberpunk-cinema-night-at-the-knockout-707f958a",
     "title": "Cyberpunk Cinema Night at The Knockout",
     "start": "2026-12-14T18:30:00-08:00",
@@ -3573,6 +3745,26 @@
     "added": "2026-11-21",
     "neighbourhood": "NoPa",
     "cycle_minutes": 17
+  },
+  {
+    "id": "sf-cogsci-35-michael-levin-s-ingressing-minds-reading-discus-e5380151",
+    "title": "SF CogSci #35: Michael Levin's \"Ingressing Minds\" (reading discussion)",
+    "start": "2026-12-15T19:00:00-08:00",
+    "end": "2026-12-15T21:00:00-08:00",
+    "venue": "Frontier Tower (15th floor annex)",
+    "address": "995 Market St, San Francisco, CA 94103",
+    "url": "https://luma.com/sf-cogsci-35",
+    "source": "listing:luma-frontier-tower",
+    "tags": [
+      "talk",
+      "tech",
+      "community"
+    ],
+    "price": "Free (register on Luma)",
+    "description": "Monthly cognitive-science reading group discussing Michael Levin's 2026 paper on non-physical patterns shaping natural, synthetic and hybrid minds. Read it beforehand and come to argue about it.",
+    "neighbourhood": "Mid-Market",
+    "cycle_minutes": 6,
+    "added": "2026-11-27"
   },
   {
     "title": "The Velvet Teen with Shutups and Pocket Full of Crumbs",
@@ -4059,6 +4251,25 @@
     "added": "2026-11-08"
   },
   {
+    "id": "foodwise-roots-celebration-winter-squash-tastings-and-a-cook-16b7f748",
+    "title": "Foodwise Roots Celebration: winter squash tastings and a cooking demo at Ferry Plaza",
+    "start": "2026-12-19T11:00:00-08:00",
+    "end": "2026-12-19T13:00:00-08:00",
+    "venue": "Ferry Plaza Farmers Market (Foodwise tent)",
+    "address": "1 Ferry Building, San Francisco, CA 94111",
+    "url": "https://foodwise.org/events/roots-celebration-2/",
+    "source": "listing:foodwise",
+    "tags": [
+      "food",
+      "market"
+    ],
+    "price": "Free",
+    "description": "Foodwise celebrates winter squash with free samples, recipes and cooking tips at the Seasonal Spotlight tent. At 11am, The Kitchen Activist author Florencia Ramirez gives a cooking demo.",
+    "neighbourhood": "Embarcadero",
+    "cycle_minutes": 5,
+    "added": "2026-11-27"
+  },
+  {
     "title": "A Cathedral Christmas: Saturday matinee (Grace Cathedral Choir of Men and Boys)",
     "start": "2026-12-19T15:00:00-08:00",
     "end": "2026-12-19T16:30:00-08:00",
@@ -4151,6 +4362,24 @@
     "neighbourhood": "SoMa",
     "cycle_minutes": 3,
     "added": "2026-11-08"
+  },
+  {
+    "id": "the-aerosols-tarnation-at-the-make-out-room-e4a1747e",
+    "title": "The Aerosols + Tarnation at the Make-Out Room",
+    "start": "2026-12-19T19:00:00-08:00",
+    "end": "2026-12-19T21:30:00-08:00",
+    "venue": "Make-Out Room",
+    "address": "3225 22nd St, San Francisco, CA 94110",
+    "url": "https://www.calendarwiz.com/calendars/popup.php?op=view&id=193038221&crd=makeoutroom",
+    "source": "venue:make-out-room",
+    "tags": [
+      "music"
+    ],
+    "price": "$15",
+    "description": "An early Saturday show in the Mission's favourite small room with The Aerosols and Tarnation.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 15,
+    "added": "2026-11-27"
   },
   {
     "title": "The Mother Hips Annual Holiday Show, with Little Worth",
@@ -4263,6 +4492,25 @@
     "cycle_minutes": 15,
     "added": "2026-10-29",
     "id": "kitka-wintersongs-comfort-joy-b4a254c5"
+  },
+  {
+    "id": "winter-solstice-ocean-dance-bonfire-silent-disco-dance-on-oc-bcd03069",
+    "title": "Winter Solstice Ocean Dance + bonfire (silent-disco dance on Ocean Beach)",
+    "start": "2026-12-20T16:00:00-08:00",
+    "end": "2026-12-20T17:30:00-08:00",
+    "venue": "Ocean Beach (Great Highway at Balboa St)",
+    "address": "Great Highway & Balboa St, San Francisco, CA 94121",
+    "url": "https://www.eventbrite.com/e/winter-solstice-celebration-bonfire-in-ocean-dance-tickets-2005521012335",
+    "source": "aggregator:eventbrite",
+    "tags": [
+      "dance",
+      "outdoors"
+    ],
+    "price": "$33.85",
+    "description": "A sunset silent-disco movement journey on the sand with local DJs, led by movement guide Magali Clazo, followed by solstice rituals around a bonfire. Conscious-dance crowd, easy to join solo.",
+    "neighbourhood": "Outer Richmond",
+    "cycle_minutes": 45,
+    "added": "2026-11-27"
   },
   {
     "id": "mucha-salsa-social-free-beginner-class-cec59c5b",
@@ -5400,6 +5648,26 @@
     "added": "2026-11-09"
   },
   {
+    "id": "cimafunk-new-year-s-eve-celebration-at-sfjazz-8pm-show-541b4b7f",
+    "title": "Cimafunk New Year's Eve Celebration at SFJAZZ (8pm show)",
+    "start": "2026-12-31T20:00:00-08:00",
+    "end": null,
+    "venue": "SFJAZZ Center, Miner Auditorium",
+    "address": "201 Franklin St, San Francisco, CA 94102",
+    "url": "https://www.sfjazz.org/tickets/productions/26-27/cimafunk-new-years-celebration/",
+    "source": "venue:sfjazz",
+    "tags": [
+      "music",
+      "dance",
+      "festival"
+    ],
+    "price": "$50-$140",
+    "description": "Cuban funk band Cimafunk and La Tribu play an NYE concert with an open dance floor, complimentary sparkling wine and countdowns. The 10:30pm show adds a balloon drop; the cheapest tickets are $50.",
+    "neighbourhood": "Hayes Valley",
+    "cycle_minutes": 11,
+    "added": "2026-11-27"
+  },
+  {
     "title": "The Lemon Twigs New Year's Eve, with Tchotchke",
     "start": "2026-12-31T21:00:00-08:00",
     "end": null,
@@ -5474,6 +5742,26 @@
     "neighbourhood": "Embarcadero",
     "cycle_minutes": 5,
     "added": "2026-11-09"
+  },
+  {
+    "id": "polar-bear-skate-new-year-s-day-beachwear-skate-at-union-squ-016adc3a",
+    "title": "Polar Bear Skate: New Year's Day beachwear skate at Union Square",
+    "start": "2027-01-01T14:30:00-08:00",
+    "end": "2027-01-01T15:30:00-08:00",
+    "venue": "Union Square Ice Rink",
+    "address": "333 Post St, San Francisco, CA 94108",
+    "url": "https://unionsquareicerink.com/special-events/",
+    "source": "venue:union-square-ice-rink",
+    "tags": [
+      "sport",
+      "outdoors",
+      "community"
+    ],
+    "price": "$30",
+    "description": "The rink's take on the New Year's polar-bear plunge: skate outdoors in your most creative beachwear, with prizes for the best outfits. Free to watch.",
+    "neighbourhood": "Union Square",
+    "cycle_minutes": 6,
+    "added": "2026-11-27"
   },
   {
     "title": "Hayes Valley Comedy Night: New Year's Day show",
@@ -5588,6 +5876,25 @@
     "neighbourhood": "Lower Haight",
     "cycle_minutes": 16,
     "added": "2026-11-15"
+  },
+  {
+    "id": "the-dirty-dozen-brass-band-50th-anniversary-tour-5012cc1b",
+    "title": "The Dirty Dozen Brass Band: 50th Anniversary Tour",
+    "start": "2027-01-02T20:30:00-08:00",
+    "end": null,
+    "venue": "The Chapel",
+    "address": "777 Valencia St, San Francisco, CA 94110",
+    "url": "https://thechapelsf.com/music/",
+    "source": "venue:the-chapel",
+    "tags": [
+      "music",
+      "dance"
+    ],
+    "price": "$40-$45",
+    "description": "The New Orleans brass-funk institution plays a full evening for its 50th anniversary, a good dancing show to start the new year. All ages; doors 7:30pm, show 8:30pm.",
+    "neighbourhood": "Mission",
+    "cycle_minutes": 13,
+    "added": "2026-11-27"
   },
   {
     "title": "Lindy in the Park: free swing dancing + beginner lesson",
